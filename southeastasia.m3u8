@@ -43,10 +43,22 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/stream03/stream
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1,RTCI (Indonesia)
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, Arirang TV (South Korea)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1, K+ (South Korea)
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1, EBS 1 (South Korea)
 http://119.194.58.213:9981/stream/channelid/1900573553?ticket=05F4A9E8D4B6D16F41515D46FC0FF369BDDB78A2&profile=pass
 #EXTINF:-1, EBS 2 (South Korea)
 http://119.194.58.213:9981/stream/channelid/2019116183?ticket=726AE67DF5911DC4E4C0A0498EA11B84DE758FC2&profile=pass
+#EXTINF:-1, EBS+ 2 (South Korea)
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1, EBSe (South Korea)
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1, EBSi (South Korea)
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1, EBS Kids (South Korea)
+rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc
 #EXTINF:-1, MBC (South Korea)
 http://119.194.58.213:9981/stream/channelid/861562097?ticket=7A516D1A6DB2D92D627E68231524BBAD3C9076DB&profile=pass
 #EXTINF:-1, SBS (South Korea)
@@ -55,3 +67,5 @@ http://119.194.58.213:9981/stream/channelid/1540226433?ticket=735B9BE066CF7EA8DF
 http://119.194.58.213:9981/stream/channelid/38105485?ticket=C9B291B812371A13570E524B2E1B3E022C38E6C4&profile=pass
 #EXTINF:-1, KBS2 (South Korea)
 http://119.194.58.213:9981/stream/channelid/147555683?ticket=1CD44D1E9E0114C23701A45C90FFD3D5A48C9947&profile=pass
+#EXTINF:-1, TV Chosun (South Korea)
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
