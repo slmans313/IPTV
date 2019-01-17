@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1,TVRI (Indonesia)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1, MBC (South Korea)
+http://119.194.58.213:9981/stream/channelid/861562097?ticket=7A516D1A6DB2D92D627E68231524BBAD3C9076DB&profile=pass
 #EXTINF:-1, SBS (South Korea)
 http://119.194.58.213:9981/stream/channelid/1540226433?ticket=735B9BE066CF7EA8DF2634134B3CF0ED04F1AF4F&profile=pass
+#EXTINF:-1, KBS1 (South Korea)
+http://119.194.58.213:9981/stream/channelid/38105485?ticket=C9B291B812371A13570E524B2E1B3E022C38E6C4&profile=pass
+#EXTINF:-1, KBS2 (South Korea)
+http://119.194.58.213:9981/stream/channelid/147555683?ticket=1CD44D1E9E0114C23701A45C90FFD3D5A48C9947&profile=pass
 
