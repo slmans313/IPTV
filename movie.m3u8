@@ -1,19 +1,21 @@
 #EXTM3U
-#EXTINF:-1, TLC (International)
+#EXTINF:-1 group-title="Entertainment", TLC (International)
 http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1,Discovery Channel (International)
+#EXTINF:-1 group-title="Entertainment",,Discovery Channel (International)
 http://80.80.160.168/live/5/500000/live.m3u8
-#EXTINF:-1,Discovery Science (International)
+#EXTINF:-1 group-title="Entertainment",Discovery Science (International)
 http://103.242.13.90:5555/udp/239.4.2.19:10000
-#EXTINF:-1,SCI Channel HD (International)
+#EXTINF:-1 group-title="Entertainment",SCI Channel HD (International)
 http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1,Fox Movies (SE Asia)
+#EXTINF:-1 group-title="Entertainment",Fox Movies (SE Asia)
 http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Fox Cinema (SE Asia)
+#EXTINF:-1 group-title="Entertainment", Fox Cinema (SE Asia)
 http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Sony Channel (SE Asia)
+#EXTINF:-1 group-title="Entertainment", Sony Channel (SE Asia)
 http://210.210.155.35/uq2663/h/h06/index.m3u8
-#EXTINF:-1,Sony One (SE Asia)
+#EXTINF:-1 group-title="Entertainment", Sony One (SE Asia)
 http://210.210.155.35/uq2663/h/h06/index.m3u8
-#EXTINF:-1,Max Prime (Latin America)
+#EXTINF:-1 group-title="Entertainment",Max Prime (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 group-title="Entertainment", Kix (Asian TV channel)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u
