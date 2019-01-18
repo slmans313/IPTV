@@ -1,24 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="Sports", BT Sports ESPN
+http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4-big.png" group-title="Sports", Eurosport 1 (Europe)
 http://hd.iptv-passion.com:2095/mele/mele1234/4372
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4-big.png" group-title="Sports", Eurosport 2 (Europe)
 http://hd.iptv-passion.com:2095/mele/mele1234/4371
 
-#EXTINF:-1 group-title="Sports",ESPN (Asia)
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sports", ESPN (Asia)
 http://161.0.157.7/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1,BT Sports ESPN 1 (UK)
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="Sports", BT Sports ESPN
 http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d2/1f/f4/d21ff43850df1f7ea2c6d49bd269b21f.png" group-title="Sports", FOX SPORT 2 HD (UK)
+http://195.154.220.71:3333/Metege2/Skype15082018/336
+
+#EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Sports",Flow Sports
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 group-title="Sports",Telesport
 http://hd.iptv-passion.com:2095/mele/mele1234/78
-
-#EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Sports" group-title="EPL",Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1 group-title="Sports",UK: FOX SPORT 2 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/336
-
-#EXTINF:-1 group-title="Sports",UK: EIR SPORT 1 HD
-http://195.154.220.71:3333/Metege2/Skype15082018/332
