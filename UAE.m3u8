@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1,Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+
+#EXTINF:-1,Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+
+#EXTINF:-1,Al Aan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+
 #EXTINF:-1,Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 
@@ -14,8 +23,11 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/15.m3u8
 #EXTINF:-1,Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
-#EXTINF:-1,Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1,MBC MAX
+http://freeiptvdaily.net:8000/live/irVRA8BVMf/freeiptvdaily.tv/40.ts
 
-#EXTINF:-1,Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1,MBC 1
+http://freeiptvdaily.net:8000/live/irVRA8BVMf/freeiptvdaily.tv/35.ts
+
+#EXTINF:-1, MBC 4
+http://freeiptvdaily.net:8000/live/irVRA8BVMf/freeiptvdaily.tv/37.ts
