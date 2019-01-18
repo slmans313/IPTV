@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1,CNN (International)
+#EXTINF:-1 group-title="News",CNN
 http://161.0.157.5/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1, Sky News(International)
+#EXTINF:-1 group-title="News", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:-1,BBC Arabic (International)
+#EXTINF:-1 group-title="News",BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+#EXTINF:-1 group-title="News", AL JAZEERA NEWS
+http://195.154.220.71:3333/Metege2/Skype15082018/1195
