@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Entertainment", TLC (International)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entertainment", TLC
 http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1 group-title="Entertainment",,Discovery Channel (International)
+
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU2MDc2MTgyMTAwNTE4NjQw/discovery-channel-logo_resized_bc.png" group-title="Entertainment", Discovery Channel
 http://80.80.160.168/live/5/500000/live.m3u8
-#EXTINF:-1 group-title="Entertainment",Discovery Science (International)
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180619/fxg/kisspng-discovery-science-television-channel-discovery-cha-logic-of-scientific-discovery-5b28fbc02ac236.4306755415294125441752.jpg" group-title="Entertainment",Discovery Science
 http://103.242.13.90:5555/udp/239.4.2.19:10000
-#EXTINF:-1 group-title="Entertainment",SCI Channel HD (International)
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180619/fxg/kisspng-discovery-science-television-channel-discovery-cha-logic-of-scientific-discovery-5b28fbc02ac236.4306755415294125441752.jpg" group-title="Entertainment",SCI Channel HD
 http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 group-title="Entertainment",Fox Movies (SE Asia)
+
+#EXTINF:-1 tvg-logo="https://cdn.24.co.za/files/Cms/General/d/127/4846b11e8b1b4c1a866c4c428bbed264.jpg" group-title="Entertainment",Fox Movies (SE Asia)
 http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Entertainment", Fox Cinema (SE Asia)
+
+
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ff/fox_premium_cinema_us.png" group-title="Entertainment", Fox Premium Cinéma (SE Asia)
 http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Entertainment", Sony Channel (SE Asia)
-http://210.210.155.35/uq2663/h/h06/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Sony One (SE Asia)
-http://210.210.155.35/uq2663/h/h06/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Max Prime (Latin America)
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Kix (Asian TV channel)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg"  group-title="Entertainment", Kix (Asian TV channel)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783720_logo_sony_tv.png" group-title="Entertainment", Sony Channel (SE Asia)
+http://210.210.155.35/uq2663/h/h06/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="Entertainment", Sony One (SE Asia)
+http://210.210.155.35/uq2663/h/h06/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Entertainment",Max Prime (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
