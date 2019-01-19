@@ -7,14 +7,17 @@ http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/50.ts
 
 
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Kuawait (الكويت)", Kuwait TV Al Oula (KTV 1)
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Kuawait (الكويت)", Kuwait TV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT2.jpg" group-title="Kuawait (الكويت)", Kuwait TV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Kuawait (الكويت)", Kuwait TV Al Qurain
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 
-#EXTINF:-1,KTV Al Majlis
+#EXTINF:-1 tvg-logo="https://www.etere.com/DocImageArchive/636144861045647742.jpg" group-title="Kuawait (الكويت)",Kuwait TV  Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 
-#EXTINF:-1,KTV AL ARABI 
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" group-title="Kuawait (الكويت)", Kuwait TV Arabe
 https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
