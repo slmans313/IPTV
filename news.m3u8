@@ -20,9 +20,8 @@ http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984024999962075143/KRHu2eLT_400x400.jpg" group-title="News",UK: BBC WORLD NEWS HD
 http://195.154.220.71:3333/Metege2/Skype15082018/129
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News",CNN
-http://161.0.157.5/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="News",CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1  tvg-id="cnbc" tvg-name="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/255px-CNBC_World.svg.png" group-title="News",CNBC World
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
@@ -32,6 +31,9 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MHcgYBr.png" group-title="News",Fox News Channel
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/344513261569735253/6ddd459b57d390e4c9a57662427458e4_400x400.png" group-title="News", Jamaica News Network
 https://tvjlocal.akamaized.net/univ_video_jnn/abr/playlist.m3u8
