@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" group-title="UAE (دولة الإمارات العربية المتحدة)", Abu Dhabi TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" group-title="UAE (ماراتيين)", Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" group-title="UAE (دولة الإمارات العربية المتحدة)", Abu Dhabi TV (Backup)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" group-title="UAE (ماراتيين)", Abu Dhabi TV (Backup)
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.ts
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" group-title="UAE (دولة الإمارات العربية المتحدة)", Abu Dhabi TV (Backup 2)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/74/Mbc1.jpg" group-title="UAE (ماراتيين)", Abu Dhabi TV (Backup 2)
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="UAE (دولة الإمارات العربية المتحدة)", Abu Dhabi Drama
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="UAE (ماراتيين)", Abu Dhabi Drama
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.ts
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="UAE (دولة الإمارات العربية المتحدة)", Abu Dhabi Drama (Backup)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="UAE (ماراتيين)", Abu Dhabi Drama (Backup)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 
-#EXTINF:-1,Al Aan TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="UAE (ماراتيين)", Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 
-#EXTINF:-1,Al Aan TV (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="UAE (ماراتيين)", Al Aan TV (Backup)
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/19.ts
 
 #EXTINF:-1,Dubai TV
@@ -74,9 +74,12 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
 
 #EXTINF:-1,AD Sport 1 HD
 http://livesports-server.tk:8000/live/livesports-tv111/0012223222/9133.ts
+
 #EXTINF:-1,AD Sport 2 HD
 http://livesports-server.tk:8000/live/livesports-tv111/0012223222/9134.ts
+
 #EXTINF:-1,AD Sport 3 HD
 http://livesports-server.tk:8000/live/livesports-tv111/0012223222/9135.ts
+
 #EXTINF:-1,AD Sport 4 HD
 http://livesports-server.tk:8000/live/livesports-tv111/0012223222/9136.ts
