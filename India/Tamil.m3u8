@@ -38,9 +38,9 @@ http://209.58.180.53/osaihls/live.m3u8
 http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Tamil",Raj News 24x7
 http://z5ams.akamaized.net/rajnews/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Tamil",Raj TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="Tamil (தமிழ்)",Raj TV
 http://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Tamil",Raj Musix (Tamil)
+#EXTINF:-1 tvg-logo="http://www.rajtvnet.in/Raj_Net/raj_logos/Raj_msx_tamil.png" group-title="Tamil (தமிழ்)",Raj Musix (Tamil)
 http://z5ams.akamaized.net/rajmusix/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.sangamamtv.com/images/logo%20header%20banner.png" group-title="Tamil (தமிழ்)",Sangamam HD
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
