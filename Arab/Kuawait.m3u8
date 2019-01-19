@@ -9,8 +9,14 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/50.ts
 #EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Kuawait (الكويت)", Kuwait TV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT2.jpg" group-title="Kuawait (الكويت)", Kuwait TV 2
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Kuawait (الكويت)", Kuwait TV 1 Backup
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
+
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT2.jpg" group-title="Kuawait (الكويت)", Kuwait TV 2 Backup
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT2.jpg" group-title="Kuawait (الكويت)", Kuwait TV 2 Backup
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/14614_logo_ktv_sport_plus.png" group-title="Kuawait (الكويت)", Kuwait TV Sports 
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
