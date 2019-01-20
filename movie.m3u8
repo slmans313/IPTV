@@ -15,8 +15,11 @@ http://103.242.13.90:5555/udp/239.4.2.19:10000
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180619/fxg/kisspng-discovery-science-television-channel-discovery-cha-logic-of-scientific-discovery-5b28fbc02ac236.4306755415294125441752.jpg" group-title="Entertainment",Discovery Channel
 http://103.242.13.90:5555/udp/239.4.2.19:10000
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Entertainment", Investigation Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Entertainment", Investigation Discovery
 http://80.80.160.168/live/5/500000/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Entertainment",Investigation Discovery (Backup)
+http://80.80.160.168/live/5/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Entertainment",Discovery Science
 http://80.80.160.168/live/9/live.m3u8
