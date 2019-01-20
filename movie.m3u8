@@ -1,15 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entertainment", TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="Entertainment",Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Entertainment", TLC
 http://80.80.160.168/live/2/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU2MDc2MTgyMTAwNTE4NjQw/discovery-channel-logo_resized_bc.png" group-title="Entertainment", Discovery Channel
-http://80.80.160.168/live/5/500000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="Entertainment",Discovery Channel (EST)
+http://80.80.160.168/live/8/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180619/fxg/kisspng-discovery-science-television-channel-discovery-cha-logic-of-scientific-discovery-5b28fbc02ac236.4306755415294125441752.jpg" group-title="Entertainment",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="Entertainment",Discovery Channel (PST)
 http://103.242.13.90:5555/udp/239.4.2.19:10000
 
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180619/fxg/kisspng-discovery-science-television-channel-discovery-cha-logic-of-scientific-discovery-5b28fbc02ac236.4306755415294125441752.jpg" group-title="Entertainment",SCI Channel HD
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180619/fxg/kisspng-discovery-science-television-channel-discovery-cha-logic-of-scientific-discovery-5b28fbc02ac236.4306755415294125441752.jpg" group-title="Entertainment",Discovery Channel
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="Entertainment", Investigation Discovery
+http://80.80.160.168/live/5/500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Entertainment",Discovery Science
 http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.24.co.za/files/Cms/General/d/127/4846b11e8b1b4c1a866c4c428bbed264.jpg" group-title="Entertainment",Fox Movies (SE Asia)
