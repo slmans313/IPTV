@@ -1,8 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="USA",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeIDQpc.jpg" group-title="USA",ACTV Government Access Channel
 http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="USA",Akaku 53 Hawaii
+https://akaku.vod.castus.tv/live/ch1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="USA",Akaku 54 Hawaii
+https://akaku.vod.castus.tv/live/ch2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/akakulogo-white.png" group-title="USA",Akaku 55 Hawaii
+https://akaku.vod.castus.tv/live/ch3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyRpTRc.jpg" group-title="USA",Benicia TV
 https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8
