@@ -21,12 +21,18 @@ http://80.80.160.168/live/5/500000/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Entertainment",Discovery Science
 http://80.80.160.168/live/9/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.24.co.za/files/Cms/General/d/127/4846b11e8b1b4c1a866c4c428bbed264.jpg" group-title="Entertainment",Fox Movies (SE Asia)
+#EXTINF:-1 tvg-logo="https://cdn.24.co.za/files/Cms/General/d/127/4846b11e8b1b4c1a866c4c428bbed264.jpg" group-title="Entertainment",Fox Movies
 http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="Entertainment", Fox Premium Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ff/fox_premium_cinema_us.png" group-title="Entertainment", Fox Premium Cinéma (SE Asia)
-http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="Entertainment",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528" group-title="USA",Fox Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8?fluxustv.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783720_logo_sony_tv.png" group-title="Entertainment", Sony Channel (SE Asia)
 http://210.210.155.35/uq2663/h/h06/index.m3u8
