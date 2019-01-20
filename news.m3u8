@@ -44,7 +44,10 @@ http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/344513261569735253/6ddd459b57d390e4c9a57662427458e4_400x400.png" group-title="News", Jamaica News Network
 https://tvjlocal.akamaized.net/univ_video_jnn/abr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png" group-title="News", Sky News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="News",Sky News America
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png" group-title="News", Sky News UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="News",TRT World (Turkey)
