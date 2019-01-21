@@ -1,13 +1,16 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://www.babytv.com/images/siteimages/LogoBabyTV-2018-wCloud.png" group-title="Kids", Baby TV
-http://195.154.220.71:3333/Metege2/Skype15082018/301
+http://cs22cs.uk:8000/dusan/dusan/17641
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Y-_J_N-OlqI/maxresdefault.jpg" group-title="Kids", Baby Sings
+http://cs22cs.uk:8000/dusan/dusan/30031
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang
 http://cs22cs.uk:8000/dusan/dusan/29331
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang HD
 http://cs22cs.uk:8000/dusan/dusan/19310
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="Kids",Cartoon Network Asia
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
@@ -20,6 +23,12 @@ http://cs22cs.uk:8000/dusan/dusan/29332
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXkaZt0.png" group-title="Kids",Cartoon Network +1
 http://cs22cs.uk:8000/dusan/dusan/29162
+
+#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/1200px-CBBC_2016_logo.svg.png" group-title="Kids",CBBC
+http://cs22cs.uk:8000/dusan/dusan/29323
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1280px-CBeebies.svg.png" group-title="Kids", Cbeebies BBC
+http://cs22cs.uk:8000/dusan/dusan/21394
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="Kids",Da Vinci Kids
 http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
@@ -49,17 +58,9 @@ http://cs22cs.uk:8000/dusan/dusan/21392
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/300px-ITVBe_logo_2014-.svg.png" group-title="Kids",Itv BE
 http://cs22cs.uk:8000/dusan/dusan/20975
 
-#EXTINF:-1,===== SKY UK KIDS =====
-http://cs22cs.uk:8000/dusan/dusan/9298
-
-#EXTINF:-1,Baby Sings - Dave&Ava
-http://cs22cs.uk:8000/dusan/dusan/30031
-#EXTINF:-1,Baby TV UK
-http://cs22cs.uk:8000/dusan/dusan/17641
-#EXTINF:-1,Cbeebies HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1280px-CBeebies.svg.png"Cbeebies BBC
 http://cs22cs.uk:8000/dusan/dusan/21394
-#EXTINF:-1,UK:CBBC
-http://cs22cs.uk:8000/dusan/dusan/29323
+
 #EXTINF:-1,Nick Junior
 http://cs22cs.uk:8000/dusan/dusan/18291
 #EXTINF:-1,Nick Jr 2-Too Peppa
