@@ -13,7 +13,7 @@ http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://criminal.ulango.tv/uploads/channels/183204/%20%D8%A3%D9%84%20%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9.png" group-title="News", Al Jazeera English (HD)
-http://195.154.220.71:3333/Metege2/Skype15082018/1195
+http://cs22cs.uk:8000/dusan/dusan/20960
 
 #EXTINF:-1 tvg-logo="http://www.nexregreporting.com/wp-content/uploads/2017/12/Bloomberg-TV-News.png" group-title="News",Bloomberg TV (UK)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
@@ -52,6 +52,16 @@ https://www.cbsnews.com/common/video/dai_prod.m3u8
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 
 #EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="News",CNN
+http://cs22cs.uk:8000/dusan/dusan/20199
+
+#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="News",CNN (Backup)
+http://cs22cs.uk:8000/dusan/dusan/26772
+
+#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="News",CNN (Backup 2)
+http://cs22cs.uk:8000/dusan/dusan/22840
+
+
+#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="News",CNN International
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1  tvg-id="cnbc" tvg-name="cnbc" tvg-logo="https://singapore.mfa.gov.ua/mediafiles/sites/singapore/images/articles/tmbs/CNBC_logo-tmb-270x180.jpg" group-title="News",CNBC Asia
@@ -86,15 +96,3 @@ http://cs22cs.uk:8000/dusan/dusan/21387
 
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="News",TRT World (Turkey)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1,===== UK SKY NEWS =====
-http://cs22cs.uk:8000/dusan/dusan/20199
-
-#EXTINF:-1,USA:CNN News HD
-http://cs22cs.uk:8000/dusan/dusan/22840
-
-#EXTINF:-1,CNN FHD
-http://cs22cs.uk:8000/dusan/dusan/26772
-
-#EXTINF:-1,Al Jazeera News UK
-http://cs22cs.uk:8000/dusan/dusan/20960
