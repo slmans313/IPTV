@@ -1,8 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/330px-AMC_logo_2016.svg.png" group-title="Movies", AMC
+http://cs22cs.uk:8000/dusan/dusan/20964
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="Movies", Fox Movies
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://cdn.24.co.za/files/Cms/General/d/127/4846b11e8b1b4c1a866c4c428bbed264.jpg" group-title="Movies",Fox Premium Movies
 http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
