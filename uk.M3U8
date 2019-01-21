@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alibi-logo-2015.png/225px-Alibi-logo-2015.png" group-title="UK", ALIBI
+http://195.154.220.71:3333/Metege2/Skype15082018/203
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alibi-logo-2015.png/225px-Alibi-logo-2015.png" group-title="UK", ALIBI HD
+http://cs22cs.uk:8000/dusan/dusan/29359
+
 #EXTINF:-1 tvg-logo="https://internationalartistsmanagement.co.uk/wp-content/uploads/2016/07/Press-Logo-BBC-One.png" group-title="UK", BBC 1
 http://cs22cs.uk:8000/dusan/dusan/20955
 
@@ -48,52 +54,54 @@ http://cs22cs.uk:8000/dusan/dusan/20941
 #EXTINF:-1 tvg-logo="https://bskyb.i.lithium.com/t5/image/serverpage/image-id/43539i747CF67A82B4CAC1/image-size/large?v=1.0&px=999" group-title="UK", Channel 4 +1
 http://cs22cs.uk:8000/dusan/dusan/24349
 
-#EXTINF:-1 tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2018/08/channel-5-logo.jpg" group-title="UK", CHANNEL 5 HD
+#EXTINF:-1 tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2018/08/channel-5-logo.jpg" group-title="UK", Channel 5
 http://cs22cs.uk:8000/dusan/dusan/20940
 
-#EXTINF:-1 tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2018/08/channel-5-logo.jpg" group-title="UK", CHannel 5 USA
+#EXTINF:-1 tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2018/08/channel-5-logo.jpg" group-title="UK", Channel 5 USA
 http://cs22cs.uk:8000/dusan/dusan/20916
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png", UK: FOX
-http://195.154.220.71:3333/Metege2/Skype15082018/2500
+#EXTINF:-1 tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/public-news-170451-ITV_logo_1024--2x1--940.jpg" group-title="UK", ITV
+http://cs22cs.uk:8000/dusan/dusan/21311
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alibi-logo-2015.png/225px-Alibi-logo-2015.png" group-title="UK", ALIBI
-http://195.154.220.71:3333/Metege2/Skype15082018/203
+#EXTINF:-1 tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/public-news-170451-ITV_logo_1024--2x1--940.jpg" group-title="UK", ITV HD
+http://cs22cs.uk:8000/dusan/dusan/26843
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alibi-logo-2015.png/225px-Alibi-logo-2015.png" group-title="UK", ALIBI HD
-http://cs22cs.uk:8000/dusan/dusan/29359
+#EXTINF:-1 tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/public-news-170451-ITV_logo_1024--2x1--940.jpg" group-title="UK",ITV FHD
+http://cs22cs.uk:8000/dusan/dusan/20980
+
+#EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" group-title="UK", ITV +1
+http://cs22cs.uk:8000/dusan/dusan/24347
+
+#EXTINF:-1 tvg-logo="https://www.tvcatchup.com/channel-images/itv2.png" group-title="UK", ITV 2
+http://cs22cs.uk:8000/dusan/dusan/18473
+
+#EXTINF:-1 tvg-logo="https://www.tvcatchup.com/channel-images/itv2.pngg" group-title="UK", ITV 2 HD
+http://cs22cs.uk:8000/dusan/dusan/30799
+
+#EXTINF:-1 tvg-logo="https://www.tvcatchup.com/channel-images/itv2p1.png" group-title="UK", ITV 2 +1
+http://cs22cs.uk:8000/dusan/dusan/30800
+
+#EXTINF:-1 tvg-logo="https://www.tvcatchup.com/channel-images/itv3.png" group-title="UK", ITV 3
+http://cs22cs.uk:8000/dusan/dusan/20978
+
+#EXTINF:-1 tvg-logo="https://www.tvcatchup.com/channel-images/itv3.png" group-title="UK", ITV 3 HD
+http://cs22cs.uk:8000/dusan/dusan/29985
+
+#EXTINF:-1 tvg-logo="https://www.tvcatchup.com/channel-images/itv3p1.png" group-title="UK", ITV 3  +1
+http://cs22cs.uk:8000/dusan/dusan/29456
+
+#EXTINF:-1 tvg-logo="https://www.tvcatchup.com/channel-images/itv2p1.png" group-title="UK", ITV 4
+http://cs22cs.uk:8000/dusan/dusan/20977
 
 #EXTINF:-1 tvg-logo="https://muzenly.com/wp-content/uploads/2017/01/sunburn.png" group-title="UK",Sunburn TV
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 
-#EXTINF:-1,ITV HD
-http://cs22cs.uk:8000/dusan/dusan/21311
-#EXTINF:-1,ITV FHD
-http://cs22cs.uk:8000/dusan/dusan/26843
-#EXTINF:-1,ITV 1 HD
-http://cs22cs.uk:8000/dusan/dusan/20980
-#EXTINF:-1,ITV +1 UK
-http://cs22cs.uk:8000/dusan/dusan/24347
-#EXTINF:-1,ITV 2 HD
-http://cs22cs.uk:8000/dusan/dusan/18473
-#EXTINF:-1,ITV 2 FHD
-http://cs22cs.uk:8000/dusan/dusan/30799
-#EXTINF:-1,ITV 2 +1
-http://cs22cs.uk:8000/dusan/dusan/30800
-#EXTINF:-1,ITV 3
-http://cs22cs.uk:8000/dusan/dusan/20978
-#EXTINF:-1,ITV 3 HD
-http://cs22cs.uk:8000/dusan/dusan/29985
-#EXTINF:-1,ITV 3  +1
-http://cs22cs.uk:8000/dusan/dusan/29456
-#EXTINF:-1,ITV 4
-http://cs22cs.uk:8000/dusan/dusan/20977
 #EXTINF:-1,UK:ITV Central West
 http://cs22cs.uk:8000/dusan/dusan/29369
+
 #EXTINF:-1,UK:ITV Granada FHD
 http://cs22cs.uk:8000/dusan/dusan/29368
-#EXTINF:-1,UK:ITV London
-http://cs22cs.uk:8000/dusan/dusan/29367
+
 #EXTINF:-1,(L)ITV Meridian
 http://cs22cs.uk:8000/dusan/dusan/29366
 #EXTINF:-1,UK:ITV Wales FHD
