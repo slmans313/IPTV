@@ -16,7 +16,10 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="Entertainment",Discovery Channel (PST)
 http://103.242.13.90:5555/udp/239.4.2.19:10000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Entertainment",UK:DMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Entertainment", DMAX 
+http://cs22cs.uk:8000/dusan/dusan/29337
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Entertainment", DMAX HD
 http://cs22cs.uk:8000/dusan/dusan/29356
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180619/fxg/kisspng-discovery-science-television-channel-discovery-cha-logic-of-scientific-discovery-5b28fbc02ac236.4306755415294125441752.jpg" group-title="Entertainment",Discovery Channel
@@ -67,8 +70,9 @@ http://cs22cs.uk:8000/dusan/dusan/20867
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-true-entertainment.png" group-title="Entertainment", True Entertainment +1
 http://cs22cs.uk:8000/dusan/dusan/20866
 
-#EXTINF:-1,==== DISCOVERY == LIVESTYLE ====
-http://cs22cs.uk:8000/dusan/dusan/19164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Eden_logo.png/200px-Eden_logo.png" group-title="Entertainment", EDEN
+http://cs22cs.uk:8000/dusan/dusan/20920
+
 #EXTINF:-1,Discovery channel
 http://cs22cs.uk:8000/dusan/dusan/29345
 #EXTINF:-1,Discovery Channel HD
@@ -103,10 +107,6 @@ http://cs22cs.uk:8000/dusan/dusan/20928
 http://cs22cs.uk:8000/dusan/dusan/29333
 #EXTINF:-1,UK:DISCOVERY HOME & HEATH
 http://cs22cs.uk:8000/dusan/dusan/29340
-#EXTINF:-1,EDEN HD
-http://cs22cs.uk:8000/dusan/dusan/29337
-#EXTINF:-1,EDEN
-http://cs22cs.uk:8000/dusan/dusan/20920
 #EXTINF:-1,ID UK
 http://cs22cs.uk:8000/dusan/dusan/20903
 #EXTINF:-1,H2 HD
