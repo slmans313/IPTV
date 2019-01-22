@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1-big.png" group-title="Sports",Arena Sports HD 1
+http://46.40.5.99:8000/arena_1_high
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA2-big.png" group-title="Sports", Arena Sport HD 2
+http://46.40.5.99:8000/arena_2_high
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA3-big.png" group-title=Sports",Arena Sports HD 3
+http://46.40.5.99:8000/arena_3_high
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4-big.png" group-title="Sports", Arena Sports HD 4
+http://46.40.5.99:8000/arena_4_high
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",Big Ten Network
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
 
@@ -98,24 +110,8 @@ http://cs22cs.uk:8000/dusan/dusan/26784
 http://cs22cs.uk:8000/dusan/dusan/22674
 #EXTINF:-1,BT Sport ESPN FHD
 http://cs22cs.uk:8000/dusan/dusan/26783
-#EXTINF:-1,MUTV HD
-http://cs22cs.uk:8000/dusan/dusan/21419
-#EXTINF:-1,MUTV FHD
-http://cs22cs.uk:8000/dusan/dusan/26782
-#EXTINF:-1,LIVERPOOL FC
-http://cs22cs.uk:8000/dusan/dusan/21000
-#EXTINF:-1,Liverpool FC TV HD
-http://cs22cs.uk:8000/dusan/dusan/26781
-#EXTINF:-1,CHELSEA TV
-http://cs22cs.uk:8000/dusan/dusan/21001
 #EXTINF:-1,Free Sport
 http://cs22cs.uk:8000/dusan/dusan/28813
-#EXTINF:-1,RANGERS TV (LIVE MATCHES ONLY)
-http://cs22cs.uk:8000/dusan/dusan/18950
-#EXTINF:-1,RANGERS TV (Backup)
-http://cs22cs.uk:8000/dusan/dusan/30099
-#EXTINF:-1,CELTIC TV (LIVE MATCHES ONLY)
-http://cs22cs.uk:8000/dusan/dusan/18290
 #EXTINF:-1,Premier Sports HD
 http://cs22cs.uk:8000/dusan/dusan/21414
 #EXTINF:-1,Sky Sports F1 HD
