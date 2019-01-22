@@ -45,10 +45,10 @@ http://cs22cs.uk:8000/dusan/dusan/26783
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="Sports",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="Sports",ESPN 2 (Opt-1)
+#EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="Sports",ESPN 2 
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1 tvg-id="USTV" tvg-name="ESPN 2" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="Sports",ESPN 2 (Opt-2)
+#EXTINF:-1 tvg-id="USTV" tvg-name="ESPN 2" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="Sports",ESPN 2 HD
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/1200px-FreeSportsLogo.jpg" group-title="Sports",Free Sport
@@ -65,6 +65,9 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.oldworld.ws/img/content/old-world-german-bar/watch-sports-live/m/watch-mlb-world-series-live-logo.jpg" group-title="Sports",MLB Live
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/83/Premier_Sports_logo.png" group-title="Sports",Premier Sports
+http://cs22cs.uk:8000/dusan/dusan/21414
 
 #EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Sports",Stadium (Sports network)
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
@@ -90,12 +93,6 @@ http://cs22cs.uk:8000/dusan/dusan/26796
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png" group-title="Sports",Sky Sports Cricket FHD
 http://cs22cs.uk:8000/dusan/dusan/29410
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg" group-title="Sports",Sky Sports F1
-http://cs22cs.uk:8000/dusan/dusan/21428
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg" group-title="Sports",Sky Sports F1 FHD
-http://cs22cs.uk:8000/dusan/dusan/26794
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sportstvon.com/wp-content/uploads/2017/12/sky-mainevent.png" group-title="Sports", Sky Sports Golf
 http://cs22cs.uk:8000/dusan/dusan/26795
 
@@ -120,11 +117,6 @@ http://cs22cs.uk:8000/dusan/dusan/20140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/446e121b36148da683f44eeab7233835-320-80.jpg" group-title="Sports",Sky Sports Mix HD
 http://cs22cs.uk:8000/dusan/dusan/26790
 
-#EXTINF:-1,Premier Sports HD
-http://cs22cs.uk:8000/dusan/dusan/21414
-
-#EXTINF:-1,MOTORS TV
-http://cs22cs.uk:8000/dusan/dusan/21290
 #EXTINF:-1,BOX NATION HD
 http://cs22cs.uk:8000/dusan/dusan/23259
 #EXTINF:-1,BOX NATION SD
