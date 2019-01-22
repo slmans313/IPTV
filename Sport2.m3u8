@@ -51,13 +51,13 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="USTV" tvg-name="ESPN 2" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="Sports",ESPN 2 (Opt-2)
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d2/1f/f4/d21ff43850df1f7ea2c6d49bd269b21f.png" group-title="Sports", FOX SPORT 2 HD (UK)
-http://195.154.220.71:3333/Metege2/Skype15082018/336
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/1200px-FreeSportsLogo.jpg" group-title="Sports",Free Sport
+http://cs22cs.uk:8000/dusan/dusan/28813
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Sports",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Sports",Flow Sports
+#EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Sports",Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="Sports",MLB Network
@@ -90,6 +90,12 @@ http://cs22cs.uk:8000/dusan/dusan/26796
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png" group-title="Sports",Sky Sports Cricket FHD
 http://cs22cs.uk:8000/dusan/dusan/29410
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg" group-title="Sports",Sky Sports F1
+http://cs22cs.uk:8000/dusan/dusan/21428
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg" group-title="Sports",Sky Sports F1 FHD
+http://cs22cs.uk:8000/dusan/dusan/26794
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sportstvon.com/wp-content/uploads/2017/12/sky-mainevent.png" group-title="Sports", Sky Sports Golf
 http://cs22cs.uk:8000/dusan/dusan/26795
 
@@ -114,15 +120,9 @@ http://cs22cs.uk:8000/dusan/dusan/20140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/446e121b36148da683f44eeab7233835-320-80.jpg" group-title="Sports",Sky Sports Mix HD
 http://cs22cs.uk:8000/dusan/dusan/26790
 
-
-#EXTINF:-1,Free Sport
-http://cs22cs.uk:8000/dusan/dusan/28813
 #EXTINF:-1,Premier Sports HD
 http://cs22cs.uk:8000/dusan/dusan/21414
-#EXTINF:-1,Sky Sports F1 HD
-http://cs22cs.uk:8000/dusan/dusan/21428
-#EXTINF:-1,Sky Sports F1 FHD
-http://cs22cs.uk:8000/dusan/dusan/26794
+
 #EXTINF:-1,MOTORS TV
 http://cs22cs.uk:8000/dusan/dusan/21290
 #EXTINF:-1,BOX NATION HD
@@ -147,8 +147,6 @@ http://cs22cs.uk:8000/dusan/dusan/26788
 http://cs22cs.uk:8000/dusan/dusan/20169
 #EXTINF:-1,At The Races
 http://cs22cs.uk:8000/dusan/dusan/21424
-#EXTINF:-1,Dubai Racing
-http://cs22cs.uk:8000/dusan/dusan/22841
 #EXTINF:-1,William Hill TV
 http://cs22cs.uk:8000/dusan/dusan/26774
 #EXTINF:-1,BETFRED
