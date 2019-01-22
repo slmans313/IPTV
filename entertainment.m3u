@@ -1,11 +1,14 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Entertainment",Animal Planet US (EST)
+#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Entertainment",Animal Planet USA (EST)
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Entertainment",Animal Planet US (CST)
+#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Entertainment",Animal Planet USA (CST)
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Entertainment",Animal Planet UK
+http://cs22cs.uk:8000/dusan/dusan/29338
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png" group-title="Entertainment", Blaze
 http://cs22cs.uk:8000/dusan/dusan/26816
@@ -112,9 +115,6 @@ http://cs22cs.uk:8000/dusan/dusan/29341
 http://cs22cs.uk:8000/dusan/dusan/20924
 #EXTINF:-1,Discovery Turbo (Backup)
 http://cs22cs.uk:8000/dusan/dusan/29344
-
-#EXTINF:-1,UK:ANIMAL PLANET
-http://cs22cs.uk:8000/dusan/dusan/29338
 
 #EXTINF:-1,Crime and Investigation HD
 http://cs22cs.uk:8000/dusan/dusan/20928
