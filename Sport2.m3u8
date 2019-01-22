@@ -60,6 +60,9 @@ http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Sports",Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.itv.com/presscentre/sites/default/files/itv_box_office_2017.jpg" group-title="Sports",iTV Box Office
+http://cs22cs.uk:8000/dusan/dusan/21529
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G9VKlxx.png" group-title="Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
@@ -128,9 +131,6 @@ http://cs22cs.uk:8000/dusan/dusan/26789
 http://cs22cs.uk:8000/dusan/dusan/20189
 #EXTINF:-1,Eurosport 2 FHD
 http://cs22cs.uk:8000/dusan/dusan/26788
-
-#EXTINF:-1,iTV Box Office ( ppv events only )
-http://cs22cs.uk:8000/dusan/dusan/21529
 
 #EXTINF:-1,UK:Eleven 1 FHD
 http://cs22cs.uk:8000/dusan/dusan/29458
