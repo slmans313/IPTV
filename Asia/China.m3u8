@@ -38,3 +38,31 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesst
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="China (中国)",CCTV 15
 http://103.242.13.90:5555/udp/239.4.2.72:10000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbprmc.com/img/clients/CBN.png" group-title="China (中国)",China Business Network
+http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqu0Aqb.jpg" group-title="China (中国)",DOX TV
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000114&playtoken=ABCDEFGH&auth=no
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZ8P6Ox.jpg" group-title="China (中国)",HNN TV
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jingbaotiyu.jpg" group-title="China (中国)",Jingbao Tiyu Sports
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000102&playtoken=ABCDEFGH&auth=no
+
+#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="China (中国)",National Geographic
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000101&playtoken=ABCDEFGH&auth=no
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newscctv.net/data/cctvnewsplatform//images/company/icon_10122_1493349547.jpg" group-title="China (中国)",Oriental Finance Pudong
+http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="China (中国)",SinoVision (US)
+http://ec.sinovision.net/video/ts/lv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Xing_Kong.png/revision/latest?cb=20110929152653" group-title="China (中国)",Star TV
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype.png" group-title="China (中国)",The Travel Channel
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+
