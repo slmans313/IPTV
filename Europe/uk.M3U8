@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alibi-logo-2015.png/225px-Alibi-logo-2015.png" group-title="UK", ALIBI
-http://xxultraxx.com:80/Samir/123456/2581
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alibi-logo-2015.png/225px-Alibi-logo-2015.png" group-title="UK", ALIBI HD
-http://xxultraxx.com:80/Samir/123456/11250
-
 #EXTINF:-1 tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="BBCOne" tvg-logo="https://internationalartistsmanagement.co.uk/wp-content/uploads/2016/07/Press-Logo-BBC-One.png" group-title="UK", BBC 1
 http://smart-hdip.com:6204/said/123/8587
 
@@ -19,8 +13,14 @@ http://smart-hdip.com:6204/said/123/8586
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/300px-BBC_Four.svg.png" group-title="UK",BBC 4
 http://smart-hdip.com:6204/said/123/8588
 
-#EXTINF:-1 tvg-logo="https://www.tvcatchup.com/channel-images/cbsdrama.png" group-title="UK", CBS Drama
-http://xxultraxx.com:80/Samir/123456/2586
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="Uk- Sky Cbs Action" tvg-logo="http://www.vod-logo.net/photos/035c048059f27ba6ba170f29766bd683.jpg" group-title="UK",Uk- Sky Cbs Action
+http://smart-hdip.com:6204/said/123/8575
+
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="Uk- Sky Cbs Drama" tvg-logo="http://www.vod-logo.net/photos/d499c720ed782269bcac16b164bf00cc.jpg" group-title="UK",Uk- Sky Cbs Drama
+http://smart-hdip.com:6204/said/123/8574
+
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="Uk- Sky CBS Reality" tvg-logo="http://www.vod-logo.net/photos/05f3bbbbcb6ccbdd0ffbd10dd0cfef7e.jpg" group-title="UK",Uk- Sky CBS Reality
+http://smart-hdip.com:6204/said/123/8573
 
 #EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_comedy_central.jpg" group-title="UK",Comedy Central UK
 http://xxultraxx.com:80/Samir/123456/2593
@@ -119,16 +119,19 @@ http://xxultraxx.com:80/Samir/123456/11206
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://users-images-atlas.metabroadcast.com/?source=http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201401071856.png" group-title="Ireland",RTE One
-http://xxultraxx.com:80/Samir/123456/2578
+http://smart-hdip.com:6204/said/123/8525
 
 #EXTINF:-1 tvg-logo="https://users-images-atlas.metabroadcast.com/?source=http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201409221648.png" group-title="Ireland",RTE Two
-http://xxultraxx.com:80/Samir/123456/2579
+http://smart-hdip.com:6204/said/123/8524
 
 #EXTINF:-1 tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo.png" group-title="Ireland",RTE Junior
 http://xxultraxx.com:80/Samir/123456/9782
 
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/5e700b94fb1f95c3210b8253fa6aaaf0.jpg" group-title="Ireland", Eir Sport 1
+http://smart-hdip.com:6204/said/123/11118
+
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/51131ea3f48152f540e780e8a7149dbd.jpg" group-title="Ireland", Eir Sport 2
+http://smart-hdip.com:6204/said/123/11117
+
 #EXTINF:-1 tvg-logo="http://iftn.ie/archive//storimag/tg4logo_109_f.jpg" group-title="Ireland", TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_logo.svg/300px-TruTV_logo.svg.png" group-title="Ireland", Tru TV (Ireland)
-http://xxultraxx.com:80/Samir/123456/4560
