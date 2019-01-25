@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Discovery",Animal Planet USA (EST)
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Discovery",Animal Planet USA (CST)
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Animal Planet HD" tvg-logo="http://www.vod-logo.net/photos/35492de3bd1130841ae8cb91bfd5d268.JPg" group-title="UK", Animal Planet UK
 http://smart-hdip.com:6204/said/123/8593
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="Discovery",Discovery Channel US (EST)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="Discovery",Discovery Channel USA (EST)
 http://80.80.160.168/live/8/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="Discovery",Discovery Channel US (PST)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="Discovery",Discovery Channel USA (PST)
 http://103.242.13.90:5555/udp/239.4.2.19:10000
 
 #EXTINF:-1 tvg-id="Discovery.uk" tvg-name="Sky Discovery" tvg-logo="http://www.vod-logo.net/photos/3013f9d9f1337281e67df6e8f889a779.jpg" group-title="Discovery", Discovery Channel UK
@@ -31,14 +37,15 @@ http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="Discovery",Planet Green
 http://80.80.160.168/live/4/live.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Sky Discovery Shed" tvg-logo="http://www.vod-logo.net/photos/f3a2d46825eab6fad4a8d4e1f0715d80.jpg" group-title="Discovery",Discovery Shed
+http://smart-hdip.com:6204/said/123/8565
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Sky Discovery Turbo" tvg-logo="http://www.vod-logo.net/photos/823ca54d3ed124658b79a17280c3aadb.jpg" group-title="Discovery",Discovery Turbo
+http://smart-hdip.com:6204/said/123/8564
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1920px-Travel_Channel_-_Logo.svg.png" group-title="Discovery",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="Sky Travel Channel" tvg-logo="http://www.vod-logo.net/photos/3e5608ff15262729ded083c9806a9fe2.jpg" group-title="Discovery", Travel Channel HD
 http://smart-hdip.com:6204/said/123/8508
 
-#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Sky Discovery Shed" tvg-logo="http://www.vod-logo.net/photos/f3a2d46825eab6fad4a8d4e1f0715d80.jpg" group-title="Discovery",Discovery Shed
-http://smart-hdip.com:6204/said/123/8565
-
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Sky Discovery Turbo" tvg-logo="http://www.vod-logo.net/photos/823ca54d3ed124658b79a17280c3aadb.jpg" group-title="Discovery",Discovery Turbo
-http://smart-hdip.com:6204/said/123/8564
