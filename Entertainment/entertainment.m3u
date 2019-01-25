@@ -1,12 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Entertainment",Animal Planet USA (EST)
-http://80.80.160.168/live/1/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="Entertainment",Animal Planet USA (CST)
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.1280.720.suffix/1475775673528.jpeg" group-title="Entertainment",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
@@ -18,3 +12,7 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Entertainment", TLC
 http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",YourTV
+http://smart-hdip.com:6204/said/123/11114
+
