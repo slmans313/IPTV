@@ -1,10 +1,10 @@
 
 #EXTM3U
 
-#EXTINF:-1  " tvg-logo="https://www.aetv.com/assets/images/aetv/generic-thumb.jpg" group-title="Entertainment", A&E
+#EXTINF:-1  tvg-logo="https://www.aetv.com/assets/images/aetv/generic-thumb.jpg" group-title="Entertainment", A&E
 http://smart-hdip.com:6204/said/123/10441
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.1280.720.suffix/1475775673528.jpeg" group-title="Entertainment",Cooking Channel
+#EXTINF:-1 tvg-logo="https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.1280.720.suffix/1475775673528.jpeg" group-title="Entertainment",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528" group-title="Entertainment",Fox Premium Comedy
@@ -13,8 +13,11 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/1920px-HGTV_Logo.svg.png" group-title="Entertainment", HGTV HD
 http://smart-hdip.com:6204/said/123/10407
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" group-title="Entertainment",KIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" group-title="Entertainment",KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.syfy.com/sites/syfy/themes/wired/assets/images/syfy-logo.png" group-title="Entertainment", SyFy HD USA
+http://smart-hdip.com:6204/said/123/10387
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Entertainment", TLC
 http://80.80.160.168/live/2/live.m3u8
@@ -28,7 +31,6 @@ http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/3e5608ff15262729ded083c9806a9fe2.jpg" group-title="Entertainment", Travel Channel HD
 http://smart-hdip.com:6204/said/123/8508
 
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",YourTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/YourTV_logo.png" group-title="Entertainment",YourTV
 http://smart-hdip.com:6204/said/123/11114
 
