@@ -1,15 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" group-title="Russia (Россия)",Viasat Explore
-http://185.93.3.83:5007/play/a00f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.viasatworld.com/media/1067/historylogo.png" group-title="Russia (Россия)", Viasat History
-http://185.93.3.83:5007/play/a00g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.viasatworld.com/media/1068/naturelogo.png" group-title="Russia (Россия)", Viasat Nature
-http://185.93.3.83:5007/play/a00h
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.viasatworld.com/media/1070/sportlogo.png" group-title="Russia (Россия)", Viasat Sport
-http://185.93.3.83:5007/play/a00i
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mediasat.info/wp-content/uploads/2015/05/24dok.jpg" group-title="Russia (Россия)", 24Док
 http://185.93.3.83:5007/play/a00j
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70071_logo_amedia_1_1.png" group-title="Russia (Россия)", Amedia 1
+http://185.93.3.83:5007/play/a01i
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/AMEDIA_2.png" group-title="Russia (Россия)", Amedia 2
+http://185.93.3.83:5007/play/a01j
+
+#EXTINF:-1 tvg-logo="https://graph.company/assets/images/clients/amediateka_logo.png" group-title="Russia (Россия)",Amediateka HBO
+http://persik.by/stream/2944/263250/643.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/850265253849911296/Vjzwsr3n.jpg" group-title="Russia (Россия)",Astrakhan 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png" group-title="Russia (Россия)", Sony Sci-Fi
 http://185.93.3.83:5007/play/a008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1200px-Zvezda_logo.svg.png" group-title="Russia (Россия)",Звезда
@@ -36,10 +40,6 @@ http://185.93.3.83:5007/play/a00c
 http://185.93.3.83:5007/play/a00e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.viasatworld.com/media/1075/kinologo.png" group-title="Russia (Россия)", TV1000 русское кино
 http://185.93.3.83:5007/play/a00d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70071_logo_amedia_1_1.png" group-title="Russia (Россия)", Amedia 1
-http://185.93.3.83:5007/play/a01i
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/AMEDIA_2.png" group-title="Russia (Россия)", Amedia 2
-http://185.93.3.83:5007/play/a01j
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/12/mtv-russia__121211125136-200x150.jpg" group-title="Russia (Россия)", MTV Russia
 http://185.93.3.83:5007/play/a01p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL._SY355_.png" group-title="Russia (Россия)",Food Network
@@ -74,11 +74,6 @@ http://185.93.3.83:5007/play/a00n
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hlamer.ru/content/user-photo/349/349055/2e478160030b07ee_original.jpg" group-title="Russia (Россия)",8 Kanal
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.company/assets/images/clients/amediateka_logo.png" group-title="Russia (Россия)",Amediateka HBO
-http://persik.by/stream/2944/263250/643.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/850265253849911296/Vjzwsr3n.jpg" group-title="Russia (Россия)",Astrakhan 24
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/652377195332136960/ANx2Y3xv.png" group-title="Russia (Россия)",CGTRK Grozny
 http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
@@ -200,7 +195,6 @@ http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Russia (Россия)",RBC FHD
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-3.png" group-title="Russia (Россия)",Russia-24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/playlist.m3u8
 
@@ -224,6 +218,15 @@ http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.nakanune.ru/images/pictures/image_big_112162.jpg" group-title="Russia (Россия)",Tjumenskoe Vremja
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" group-title="Russia (Россия)",Viasat Explore
+http://185.93.3.83:5007/play/a00f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.viasatworld.com/media/1067/historylogo.png" group-title="Russia (Россия)", Viasat History
+http://185.93.3.83:5007/play/a00g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.viasatworld.com/media/1068/naturelogo.png" group-title="Russia (Россия)", Viasat Nature
+http://185.93.3.83:5007/play/a00h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.viasatworld.com/media/1070/sportlogo.png" group-title="Russia (Россия)", Viasat Sport
+http://185.93.3.83:5007/play/a00i
 
 #EXTINF:0 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/fwutQLA.jpg" group-title="Azerbaijan (Azərbaycan)", MTV Azerbaijan 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
