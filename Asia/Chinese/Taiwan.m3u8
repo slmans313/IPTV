@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-tv-live.jpg" group-title="Taiwan (台湾)",中天綜合台
-http://122.146.68.116:4005/VideoInput/play.ts
-
-#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  FX
-http://122.146.68.116:4015/VideoInput/play.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="Taiwan (台湾)",中天新聞台
-http://122.146.68.116:4006/VideoInput/play.ts
-
-#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",中天娛樂台
-http://122.146.68.116:4016/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",東森洋片台
 http://122.146.68.116:4010/VideoInput/play.ts
@@ -18,8 +7,11 @@ http://122.146.68.116:4010/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)", 東森戲劇台
 http://122.146.68.116:4011/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  東森新聞台
-http://122.146.68.116:4012/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  東森电影台
+http://122.146.68.116:4035/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  華視主頻
+http://122.146.68.116:4040/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  TVBS精采台
 http://122.146.68.116:4014/VideoInput/play.ts
@@ -27,11 +19,14 @@ http://122.146.68.116:4014/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  三立综艺台
 http://122.146.68.116:4021/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  东森电影台
-http://122.146.68.116:4035/VideoInput/play.ts
-
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  台视主频
 http://122.146.68.116:4037/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  華視主頻
-http://122.146.68.116:4040/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-tv-live.jpg" group-title="Taiwan (台湾)",中天綜合台
+http://122.146.68.116:4005/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",中天娛樂台
+http://122.146.68.116:4016/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="Taiwan (台湾)",  FX
+http://122.146.68.116:4015/VideoInput/play.ts
