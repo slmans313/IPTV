@@ -40,7 +40,11 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-12-CQ/index.m3u8
 http://223.110.242.130:6610/gitv/live1/G_CCTV-14-CQ/index.m3u8
   
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="China (中国)",CCTV 15 音乐频道
+rtsp://119.39.49.116:554/ch00000090990000001031.sdp?vcdnid=001
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="China (中国)",CCTV 16 音乐频道
 http://223.110.242.130:6610/gitv/live1/G_CCTV-15-CQ/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/200px-Dragon_Television_%28China%29_logo.svg.png", 东方卫视
 http://122.146.68.116:4024/VideoInput/play.ts
