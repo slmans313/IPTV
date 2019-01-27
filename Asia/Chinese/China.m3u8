@@ -34,17 +34,17 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
 http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" group-title="China (中国)",CCTV-12 社会与法频道
-http://223.110.242.130:6610/gitv/live1/G_CCTV-12-CQ/index.m3u8
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14少儿.png" group-title="China (中国)",CCTV-14 少儿频道
-http://223.110.242.130:6610/gitv/live1/G_CCTV-14-CQ/index.m3u8
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000014/index.m3u8
   
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="China (中国)",CCTV 15 音乐频道
-rtsp://119.39.49.116:554/ch00000090990000001031.sdp?vcdnid=001
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="China (中国)",CCTV 16 音乐频道
 http://223.110.242.130:6610/gitv/live1/G_CCTV-15-CQ/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png/300px-CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="China (中国)",CCTV怀旧剧 场频道道
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000622/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/200px-Dragon_Television_%28China%29_logo.svg.png", 东方卫视
 http://122.146.68.116:4024/VideoInput/play.ts
