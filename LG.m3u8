@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:0 group-title="香港",翡翠台
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TVB_Jade_Channel.png" group-title="香港",  翡翠台
 http://wssource.hls.inke.cn:80/live/1548509149379113/playlist.m3u8
+
+#EXTINF:0 tvg-id="bbc-world" tvg-name="BBC World News"  tvg-logo="https://pbs.twimg.com/profile_images/984024999962075143/KRHu2eLT_400x400.jpg" group-title="News",BBC World News
+http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
