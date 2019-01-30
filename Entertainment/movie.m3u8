@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Movies", Cinemax
-http://smart-hdip.com:6204/said/123/10431
+http://linux-app.tv:6204/RDWAN/123/10431
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="Movies", Fox Movies
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
@@ -42,31 +42,38 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel HD
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/f2422590f46aec8abcea7da7a80fc684.jpg" group-title="Movies", Sky Movies 24
+http://linux-app.tv:6204/RDWAN/123/8546
+
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/16c0a569e29c79234ef3a51b2fbb37f6.jpg" group-title="Movies",Sky Movies Action HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1796
+http://linux-app.tv:6204/RDWAN/123/8545
+
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/e1fe641f6646c7dcf3943ecc49be4539.jpg" group-title="Movies", Sky Sports Box Office HD
+http://linux-app.tv:6204/RDWAN/123/11115
 
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/30d2f32bea3e9e7647050eb10469957f.jpg" group-title="Movies",Sky Movies Crime
-http://voxtv.dynns.com:8000/UKC/UKC2018/1809
+http://linux-app.tv:6204/RDWAN/123/8543
 
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/c0590ca4d36d9ed01351f3cd5a6724ec.jpg" group-title="Movies",Sky Movies Disney
-http://voxtv.dynns.com:8000/UKC/UKC2018/1800
+http://linux-app.tv:6204/RDWAN/123/8542
 
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/2a8dcc3ef1d4f8a8d4712a58123a2d23.jpg" group-title="Movies",Sky Movies Family HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1803
+http://linux-app.tv:6204/RDWAN/123/8540
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/Sky-Movies-HD-Sci-Fi.png" group-title="Movies", Sky Cinema Sci-Fi & Horror HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/5660
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6d4c376657c214744848e9962b72bb57.jpg" group-title="Movies", Sky Movies Greats
+http://linux-app.tv:6204/RDWAN/123/8539
 
 #EXTINF:-1  tvg-logo="http://www.vod-logo.net/photos/95d9715f08e40f59cf1b9e7587394fcb.jpg" group-title="Movies",Sky Movies Premiere HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1793
+http://linux-app.tv:6204/RDWAN/123/8538
 
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/e99198c8eea0f3bb533a60d17ca6ebc1.jpg" group-title="Movies",Sky Movies Select HD
-http://voxtv.dynns.com:8000/UKC/UKC2018/1808
+http://linux-app.tv:6204/RDWAN/123/8537
 
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/d5ea403bde6edf9dd50c80d8d90c91f6.jpg" group-title="Movies",Sky True Movies 1
-http://smart-hdip.com:6204/said/123/8510
+http://linux-app.tv:6204/RDWAN/123/8510
+
 #EXTINF:-1 ttvg-logo="http://www.vod-logo.net/photos/3bc02e8196349e083c077297129af22f.jpg" group-title="Movies",Sky True Movies 2
-http://smart-hdip.com:6204/said/123/8509
+http://linux-app.tv:6204/RDWAN/123/8509
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Movies",Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
