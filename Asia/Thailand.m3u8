@@ -27,8 +27,11 @@ http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/e/e1/Fox_1_hd.png" group-title="Thailand (ประเทศไทย)", Fox 1
 http://61.90.226.112:1935/stream/channelid/2128251805?ticket=C82759DC97279A9AD7E44E5C4C9D7CA42C326A72&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/etv.png" group-title="Thailand (ประเทศไทย)",ETV
+#EXTINF:-1 tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/etv.png" group-title="Thailand (ประเทศไทย)",ETV
 http://61.19.244.112:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png" group-title="Thailand (ประเทศไทย)",G MM25(จีเอ็มเอ็ม 25)
+http://183.88.85.31:8000/play/a00d
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-4bDS8U_kohs/AAAAAAAAAAI/AAAAAAAAAAA/zqOD2HZnLFs/s900-c-k-no-mo-rj-c0xffffff/photo.jp" group-title="Thailand (ประเทศไทย)",JCTV
 rtmp://vodjctv.aitstreaming.com:1935/live/live2
