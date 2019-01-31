@@ -23,14 +23,25 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 http://116.45.184.224:9981/stream/channelid/1770919117?ticket=FCBCA40A684470FFF3A7293FD7762952B9D5B56F&profile=pass
 #EXTINF:-1 tvg-logo="http://www.ktv.go.kr/resources/images/common/logo.png" group-title="South Korea", KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea", MBC
 http://119.194.58.213:9981/stream/channelid/861562097?ticket=7A516D1A6DB2D92D627E68231524BBAD3C9076DB&profile=pass
+
+#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="81fdcddbe95ccd091e65015e4e907276",SBS
+http://119.194.58.213:9981/stream/channelid/1540226433?ticket=97D14F077237E7B2852343888AD2818B066A07E4&profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea", SBS
 http://119.194.58.213:9981/stream/channelid/1540226433?ticket=735B9BE066CF7EA8DF2634134B3CF0ED04F1AF4F&profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1280px-KBS_1_logo.svg.png" group-title="South Korea",  KBS1
 http://119.194.58.213:9981/stream/channelid/147555683?ticket=1CD44D1E9E0114C23701A45C90FFD3D5A48C9947&profile=pass
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Kbs2.png" group-title="South Korea", KBS2
-http://77.68.160.13:9981/stream/channelid/13264518?ticket=2746131d699af8e02ffbcb99d0ce76b32804277e&profile=pass
+
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="8d714582236ad8b39cf295b4ada109c8",KBS1
+http://119.194.58.213:9981/stream/channelid/38105485?ticket=9EB9724C9EAF725B3EF2B2127EB2D0A6F8FA107E&profile=pass
+
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="6385cb88c79d88a5070c1f66f81af197",KBS2
+http://119.194.58.213:9981/stream/channelid/147555683?ticket=DBAFEF90F93FEE4B4E11F20CC49E3A9E7A7F9B57&profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="South Korea", TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="South Korea",YTN Science
