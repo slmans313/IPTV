@@ -6,8 +6,14 @@ http://stream.rs.co.th/ch2-hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="Thailand (ประเทศไทย)",  Thai PBS (ไทยพีบีเอส)
 http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand (ประเทศไทย)",Channel 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Channel_3_Thailand_Logo.svg/225px-Channel_3_Thailand_Logo.svg.png" group-title="Thailand (ประเทศไทย)",Channel 3 (สถานีวิทยุโทรทัศน์ไทยทีวีสีช่อง 3)
+http://183.88.85.31:8000/play/a00g
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand (ประเทศไทย)",Channel 5 (สถานีวิทยุโทรทัศน์กองทัพบก)
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand (ประเทศไทย)",Channel 5 HD (สถานีวิทยุโทรทัศน์กองทัพบก)
+http://183.88.85.31:8000/play/a00w
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thailand (ประเทศไทย)",  Channel 7 (ช่อง 7 เอชดี)
 http://183.88.85.31:8000/play/a00m
@@ -59,6 +65,11 @@ http://61.90.226.112:1935/stream/channelid/983536006?ticket=64E395D5A0F303954ED2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Logo_TrueVisions.svg/360px-Logo_TrueVisions.svg.png" group-title="Thailand (ประเทศไทย)", True Music
 http://61.90.226.112:1935/stream/channelid/406017691?ticket=29092EF6F7E2136BBD5C076A6AF65B59EEDD4137&profile=pass
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/1/1a/TNN24.png/225px-TNN24.png" group-title="Thailand (ประเทศไทย)", TNN24 (ทีเอ็นเอ็น24)
+http://183.88.85.31:8000/play/a013
+
 
 Edge Sports
 http://61.90.226.112:1935/stream/channelid/1066194746?ticket=247410DC6B09C9B39C3561CD8C398EEF59B0AD40&profile=pass
