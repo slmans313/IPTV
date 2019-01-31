@@ -75,8 +75,13 @@ http://stream.rs.co.th/sbd-low/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Spring_News_2017_Logo.png/300px-Spring_News_2017_Logo.png" group-title="Thailand (ประเทศไทย)", Spring News (สปริงนิวส์0)
 http://183.88.85.31:8000/play/a016
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand (ประเทศไทย)",Thairath TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand (ประเทศไทย)",Thairath (ไทยรัฐทีวี)
 http://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand (ประเทศไทย)",Thairath HD (ไทยรัฐทีวี HD)
+http://183.88.85.31:8000/play/a00j
+
+
 
 #EXTINF:-1 tvg-logo="http://www.trueplookpanya.com/canvas/themes/trueplookpanya/assets/images/img-main-menu/logo-plookpanya.png" group-title="Thailand (ประเทศไทย)", True Plook Panya
 http://183.88.85.31:8000/play/a00o
