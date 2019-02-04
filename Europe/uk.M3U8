@@ -60,6 +60,9 @@ http://gorillaiptv.online:25461/abc123/abc123/1029
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK", Food Network
 http://linux-app.tv:6204/RDWAN/123/8558
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/245px-FOX_wordmark-red.svg.png" group-title="UK",Fox UK
+http://gorillaiptv.online:25461/young/young/849
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/375px-Gold_2014.svg.png" group-title="UK",Gold
 http://gorillaiptv.online:25461/young/young/885
 
@@ -100,13 +103,13 @@ http://gorillaiptv.online:25461/young/young/891
 http://linux-app.tv:6204/RDWAN/123/8554
 
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/f87dbeea4cfcb3e7b454746fe0eef76b.jpg" group-title="UK", Quest
-http://gorillaiptv.online:25461/abc123/abc123/836
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Quest_Red.png" group-title="UK",Quest Red
 http://gorillaiptv.online:25461/young/young/836
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/7ec05714fd737fd9cc5dcd9f04bc0925.jpg" group-title="UK",Sky Really
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Quest_Red.png" group-title="UK",Quest Red
 http://gorillaiptv.online:25461/young/young/835
+
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/7ec05714fd737fd9cc5dcd9f04bc0925.jpg" group-title="UK",Sky Really
+http://gorillaiptv.online:25461/live/young/young/828.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/195px-Yesterday_logo_2012.svg.png" group-title="UK", Yesterday TV
 http://gorillaiptv.online:25461/young/young/803
@@ -124,10 +127,13 @@ http://gorillaiptv.online:25461/young/young/863
 http://gorillaiptv.online:25461/young/young/815
 
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/5e700b94fb1f95c3210b8253fa6aaaf0.jpg" group-title="Ireland", Eir Sport 1
-http://gorillaiptv.online:25461/young/young/865
-
+http://gorillaiptv.online:25461/young/young/995
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/5e700b94fb1f95c3210b8253fa6aaaf0.jpg" group-title="Ireland", Eir Sport 1
+http://gorillaiptv.online:25461/young/young/996
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/51131ea3f48152f540e780e8a7149dbd.jpg" group-title="Ireland", Eir Sport 2
 http://gorillaiptv.online:25461/young/young/993
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/51131ea3f48152f540e780e8a7149dbd.jpg" group-title="Ireland", Eir Sport 2
+http://gorillaiptv.online:25461/young/young/994
 
 #EXTINF:-1 tvg-logo="http://iftn.ie/archive//storimag/tg4logo_109_f.jpg" group-title="Ireland", TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
