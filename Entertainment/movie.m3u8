@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Movies", Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Movies", Cinemax UK
 http://gorillaiptv.online:25461/young/young/904
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Movies", Cinemax US
+http://gorillaiptv.online:25461/young/young/78
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/22779_logo_cinemax_4.png" group-title="Movies", Cinemax 2
 http://gorillaiptv.online:25461/young/young/903
@@ -27,8 +30,14 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/188px-HBO_logo.svg.png" group-title="Movies",HBO
 http://linux-app.tv:6204/RDWAN/123/10409
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/188px-HBO_logo.svg.png" group-title="Movies",HBO US
+http://gorillaiptv.online:25461/young/young/70
+
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60313_logo_hbo_signature.png" group-title="Movies", HBO Signature
 http://linux-app.tv:6204/RDWAN/123/10410
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/60313_logo_hbo_signature.png" group-title="Movies", HBO Signature US
+http://gorillaiptv.online:25461/young/young/72
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Movies",FX (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
@@ -42,11 +51,17 @@ http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movee 4U 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/06/Paramount-channel.jpeg" group-title="Movies",Paramount
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/06/Paramount-channel.jpeg" group-title="Movies",Paramount UK
 http://gorillaiptv.online:25461/young/young/888
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/06/Paramount-channel.jpeg" group-title="Movies",Paramount US
+http://gorillaiptv.online:25461/young/young/66
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/338px-Showtime.svg.png" group-title="Movies", Showtime
 http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/338px-Showtime.svg.png" group-title="Movies", Showtime
+http://gorillaiptv.online:25461/young/young/65
 
 #EXTINF:-1  tvg-logo="https://tvbtn.files.wordpress.com/2012/09/starz-logo.gif" group-title="Movies", Starz
 http://gorillaiptv.online:25461/young/young/63
