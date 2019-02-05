@@ -27,13 +27,13 @@ http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv HD
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",C-SPAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ltcivXp.png" group-title="USA",C-SPAN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltcivXp.png" group-title="USA",C-SPAN 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cyU21ML.png" group-title="USA",C-SPAN 3
+#EXTINF:-1  tvg-logo="https://i.imgur.com/cyU21ML.png" group-title="USA",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="USA",CBS
@@ -41,6 +41,9 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="USA",CBS
 http://gorillaiptv.online:25461/abc123/abc123/91
+
+#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_comedy_central.jpg" group-title="USA",Comedy Central
+http://gorillaiptv.online:25461/young/young/89
 
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
@@ -114,8 +117,11 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="USA",Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA", USA Network
+http://gorillaiptv.online:25461/young/young/62
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Vibrant_TV_Network_Logo_2015.jpg" group-title="USA",Vibrant TV
 https://vibranttv.tulix.tv/vibranttv/vibranttv.smil/playlist.m3u8
