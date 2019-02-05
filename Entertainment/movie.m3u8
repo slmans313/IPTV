@@ -27,9 +27,6 @@ http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://narcoplay.com/wp-content/uploads/2018/04/Fox-Premium-Cinema.jpg" group-title="Movies",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/188px-HBO_logo.svg.png" group-title="Movies",HBO
-http://linux-app.tv:6204/RDWAN/123/10409
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/188px-HBO_logo.svg.png" group-title="Movies",HBO US
 http://gorillaiptv.online:25461/young/young/70
 
@@ -42,8 +39,11 @@ http://gorillaiptv.online:25461/young/young/72
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Movies",FX (Asia)
 http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Movies",FX HD
-http://smart-hdip.com:6204/said/123/10414
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Movies",FX HD
+http://gorillaiptv.online:25461/young/young/75
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/300px-FXX_Logo.svg.png" group-title="Movies",FXX
+http://gorillaiptv.online:25461/young/young/74
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Movies",Max Prime (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
