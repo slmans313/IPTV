@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(安徽)", 安徽卫视
-http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="地方电视台(北京)",北京卫视
 http://111.40.205.76/PLTV/88888888/224/3221225728/index.m3u8
 
@@ -13,8 +9,17 @@ http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="地方电视台(北京)", BTV卡酷少儿
 http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/200px-Dragon_Television_%28China%29_logo.svg.png" group-title="地方电视台(上海)", 东方卫视
+http://111.40.205.76/PLTV/88888888/224/3221225616/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="地方电视台(上海)", 哈哈炫动卫视
+http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/Xiamen_Star_Logo.png/330px-Xiamen_Star_Logo.png" group-title="地方电视台(福建)", 厦门卫视
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(安徽)", 安徽卫视
+http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/SETV_fujian.jpg" group-title="地方电视台(福建)",东南卫视
 http://111.40.205.76/PLTV/88888888/224/3221225620/index.m3u8
@@ -60,6 +65,9 @@ http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="地方电视台(江苏)",  江苏国际频道
 http://122.146.68.116:4022/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E5%8D%AB%E8%A7%86.png/225px-%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(江苏)", 优漫卡通
+http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="地方电视台(江西)", 江西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225642/index.m3u8
