@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tzxsdyN.png" group-title="News",ABC News (Australia) 
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="News",ABC News (USA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="News",ABC News (USA)
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="News",ABC News (USA)
@@ -27,40 +27,34 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="News",Bloomberg TV (US)
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="News",Bloomberg TV (US)
-http://gorillaiptv.online:25461/young/young/114
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984024999962075143/KRHu2eLT_400x400.jpg" group-title="News",BBC News
-http://gorillaiptv.online:25461/young/young/979
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984024999962075143/KRHu2eLT_400x400.jpg" group-title="News",BBC News
-http://gorillaiptv.online:25461/young/young/978
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC News
+http://linux-app.tv:6204/Danil10/Danil10/8589
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="News",CGTN America
 http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="News",CBS News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="News",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="News",CBS News HD
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="News",CBS News HD
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="News",Cheddar
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 
-#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="News",CNN International
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN International
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="News",CNN
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="News",CNN Europe
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN Europe
 http://gorillaiptv.online:25461/young/young/90
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-C_logo.svg.png" group-title="News", CNBC
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="News", CNBC
 http://gorillaiptv.online:25461/young/young/60
 
-#EXTINF:-1  tvg-id="cnbc" tvg-name="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/255px-CNBC_World.svg.png" group-title="News",CNBC World
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/CNBCWorld.us.png" group-title="News",CNBC World
 http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/dw-english/pos/dw-english_300.png" group-title="News",DW News (English)
@@ -74,7 +68,6 @@ http://gorillaiptv.online:25461/young/young/48
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="News", Fox News 
 http://gorillaiptv.online:25461/young/young/76
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -91,14 +84,11 @@ http://gorillaiptv.online:25461/young/young/87
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="News",Newsy 
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
-#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png" group-title="News", Sky News
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="News", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png" group-title="News", Sky News HD
-http://gorillaiptv.online:25461/young/young/40
-
-#EXTINF:-1 tvg-logo="https://news.sky.com/resources/sky-news-logo.png" group-title="News", Sky News HD
-http://gorillaiptv.online:25461/young/young/980
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="News", Sky News HD
+http://linux-app.tv:6204/Danil10/Danil10/8533
 
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="News",TRT World (Turkey)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
