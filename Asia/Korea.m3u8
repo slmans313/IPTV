@@ -27,11 +27,11 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea", MBC
 http://119.194.58.213:9981/stream/channelid/861562097?ticket=7A516D1A6DB2D92D627E68231524BBAD3C9076DB&profile=pass
 
-#EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/18/46653.jpg" group-title="South Korea", MBC Dramanet
-http://59.31.90.220:9981/stream/channelid/258062881
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea", SBS
 http://119.194.58.213:9981/stream/channelid/1540226433?ticket=735B9BE066CF7EA8DF2634134B3CF0ED04F1AF4F&profile=pass
+
+#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="81fdcddbe95ccd091e65015e4e907276",SBS
+http://119.194.58.213:9981/stream/channelid/1540226433?ticket=97D14F077237E7B2852343888AD2818B066A07E4&profile=pass
 
 #EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/KBS_1_logo_2018.svg.png" tvg-id="8d714582236ad8b39cf295b4ada109c8" group-title="South Korea",KBS1
 http://119.194.58.213:9981/stream/channelid/38105485?ticket=9EB9724C9EAF725B3EF2B2127EB2D0A6F8FA107E&profile=pass
@@ -46,116 +46,45 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
-#EXTINF:-1 logo="http://i.imgur.com/VBMFcZ3.png" tvg-id="cd377f2c7fd845ab01e8fbd58b91aa3f",MBC Dramanet
-http://119.194.58.213:9981/stream/channelid/746534861?ticket=9B4F0F617EA865D9CDF9D0333A820C7B7C9416E9&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/oOnpFes.png" tvg-id="c3bd1864eaac741ffad984062b4335c9",MBC Every1
-http://119.194.58.213:9981/stream/channelid/1679343043?ticket=A15811893C74E1F3EF142861C84B1AC35D125EE1&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="81fdcddbe95ccd091e65015e4e907276",SBS
-http://119.194.58.213:9981/stream/channelid/1540226433?ticket=97D14F077237E7B2852343888AD2818B066A07E4&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/2bCfj0y.png" tvg-id="17b1f5fa1c52a075b67a753ba424fa62",?????
-http://119.194.58.213:9981/stream/channelid/2062922007?ticket=2590AAFD899C0DA5D5E6109E459A88C4A98BDEE3&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="6385cb88c79d88a5070c1f66f81af197",KBS2
 http://119.194.58.213:9981/stream/channelid/147555683?ticket=DBAFEF90F93FEE4B4E11F20CC49E3A9E7A7F9B57&profile=pass
+
 #EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="8d714582236ad8b39cf295b4ada109c8",KBS1
 http://119.194.58.213:9981/stream/channelid/38105485?ticket=9EB9724C9EAF725B3EF2B2127EB2D0A6F8FA107E&profile=pass
 
 
 #EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="f1645a3306b6ac344f7e85d68b6f3fdd",MBC
 http://119.194.58.213:9981/stream/channelid/861562097?ticket=665A9772C9D2B2E326E0BBD0E59F99626CAD2FF0&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/UD1yoj1.png" tvg-id="fd7734ff86e8b25882546242569b4e07",NS???
-http://119.194.58.213:9981/stream/channelid/2134145021?ticket=F76D596AFA414DAD026A624DD954A54C6822462C&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="717348f1a13f0689202e063048e4ba2a",EBS
+
+#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="717348f1a13f0689202e063048e4ba2a",EBS 1
 http://119.194.58.213:9981/stream/channelid/1900573553?ticket=D5A9ECE99C0273D58137249D1FFFB62E1740D9EA&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/nLxw0LW.png" tvg-id="de98f2ef8103639d8b6d357f7607fe4c",?&??
-http://119.194.58.213:9981/stream/channelid/1878169822?ticket=AEB2066EDE387CB4EB33011C2072DF3AC942490C&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="6156ca84904bc376322f07fd6d00b5f3",JTBC
-http://119.194.58.213:9981/stream/channelid/80369249?ticket=C25376AEE199511C45A6E6927E3FAC7A52258EE9&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/p0mvIJN.png" tvg-id="fec983345765d74e3d38511474885127",MBN
-http://119.194.58.213:9981/stream/channelid/881052158?ticket=9C60EBB2719C995D37CB64175A4B200BA2AD5D0F&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="a116dc6281a7462e5c49042868a9c3a7",tvN
-http://119.194.58.213:9981/stream/channelid/1658590881?ticket=22C32997006582FB2053656E5BEBA3B642ACD26C&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="987aaaa1da7f864dac2eefb542f027c0",??A
-http://119.194.58.213:9981/stream/channelid/564820632?ticket=040E2B57E02DE0692A574508C7BB97368D76C0DF&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/ShJ5joR.png" tvg-id="20f8ae0922e6d6eb4841f7211d76b0fc",TV??
-http://119.194.58.213:9981/stream/channelid/162461728?ticket=B70D7863F56E012F91827A9479FDBEE1607DB5B9&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="7c7889fff68d02073b9de01b8fcc95d6",K??
+#EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="7c7889fff68d02073b9de01b8fcc95d6", Cartoon Network
 http://119.194.58.213:9981/stream/channelid/2139715708?ticket=B489B241E8CD7A9B702938D4AAA10AA403CC44FF&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="59ac8eda6bf2abf4bbe337429fb5e945",K??
-http://119.194.58.213:9981/stream/channelid/1519299673?ticket=76F467AE94EF30FD183DB57E0E54222ED843903B&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/KlTCP8V.png" tvg-id="b4fbf2594768bd2cdd38b61b5cfefa87",????TV
-http://119.194.58.213:9981/stream/channelid/1509096372?ticket=D900149A6E1BD0F292FE177ADD80D5644367CEE6&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/ByeeX5e.png" tvg-id="68e1a965ac3f7f09cf21a91c73db8d11",YTN
-http://119.194.58.213:9981/stream/channelid/1705632104?ticket=3CCF1F2BC2E7681DE7E154D07A7A2E101CA34B82&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/putHm2b.png" tvg-id="1adbc5cc8a944433b13e5ccb44997556",Mnet
-http://119.194.58.213:9981/stream/channelid/1288035098?ticket=3D0D297A4EEB80ECD9EC2CDB20431EE7ACB7A0B5&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/8pwPc5R.png" tvg-id="7e2890c22a3e6a29f9bfb3ee9f9ae917",SK stoa
-http://119.194.58.213:9981/stream/channelid/1116743806?ticket=557DC8FE920BA17A6A02769FDC8961E25885FFC3&profile=pass
+
 #EXTINF:-1 logo="http://i.imgur.com/Q7FHxYB.png" tvg-id="15b3e1795bfafcb1c5670445f7b2e9d6",????
 http://119.194.58.213:9981/stream/channelid/2044834581?ticket=6C4E1EDE36A306233153CD183F02C69471783166&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/5kF0Ypt.png" tvg-id="38328b029f9b6f3c9f71ffb544ba5bd1",???
-http://119.194.58.213:9981/stream/channelid/42676792?ticket=362DFDD0ADB86EF2DA9EE2649BC633D44D7B1907&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/Cged9ve.png" tvg-id="b7d71a1a3c6661234f94775d4ef73d20",W ??
-http://119.194.58.213:9981/stream/channelid/437966775?ticket=DE4022E2546537EAE7ADBBC15F79F8B09B9A8BC3&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/0SMl3O5.png" tvg-id="bf91e8ca92ab116b989d29afd46c1544",O tvn
-http://119.194.58.213:9981/stream/channelid/1256755647?ticket=E8A7D253B4FB355C667DA9337AA550A78B09AC70&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/cIpIf6b.png" tvg-id="93efe9f4f7539db85e9f82f558433629",SPOTV
-http://119.194.58.213:9981/stream/channelid/1961488275?ticket=91C0A199D8DF57E7FDBCAC5487107855A71710F6&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/QHV9bdA.png" tvg-id="747bdf9572733ad5b10938fcfb5ec3f3",SkySports
-http://119.194.58.213:9981/stream/channelid/366967668?ticket=D15B098D10DA6CD2660F13D993AFF02FA49E3B17&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/j1vHAu6.png" tvg-id="8be63422a7ebfc533730fe62ba6af739",SBS Sports
-http://119.194.58.213:9981/stream/channelid/573892235?ticket=BF32447AE4E76D726E24C8579D1A94D8868DCBC3&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/xspD7UE.png" tvg-id="a1596f266efd032fc5fda27bdb18426d",KBS N Sports
-http://119.194.58.213:9981/stream/channelid/644831649?ticket=4AAD94A62CF89F85D3F117ACB2D8750AE0ED3423&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/Su21uj3.png" tvg-id="dc876c9c8f3f511d7257109d01c79070",MBC SPORT+
-http://119.194.58.213:9981/stream/channelid/476874716?ticket=779505260A939265BE7F9CFD70973E8F98F292DC&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/yUk2RhO.png" tvg-id="6595f23a3bf0f5caaf871cd35b5e0657",KTV
-http://119.194.58.213:9981/stream/channelid/988976485?ticket=69A3BF1F99A01421DBB286478032466B2905CDBF&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/lCGq3v1.png" tvg-id="229d886c27b086775eda4e457d3552f0",CNTV
-http://119.194.58.213:9981/stream/channelid/1820892450?ticket=8292F4EE8877320B7D0C9CABF1F4577D4CD6CE3D&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/xT7pVuI.png" tvg-id="0ccf00512e3b5539ffa236c4416dc1d8",???H
-http://119.194.58.213:9981/stream/channelid/1359007500?ticket=551CC8415DBB98C858383C5909169DB0F81BB252&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/6V8X43L.png" tvg-id="3f2504a0e897151c1f10cada2f651243",FUN TV
-http://119.194.58.213:9981/stream/channelid/537142591?ticket=4821F906569D72D1F85F30E9640B8B0E0362EBE5&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/1qXSXRa.png" tvg-id="b352bd2e1e28e4025482893644e6b65c",GTV
-http://119.194.58.213:9981/stream/channelid/784159411?ticket=EC0553A16CBF8E853184593E4C5DC53D632202D6&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/gGqDBjb.png" tvg-id="ebe58e8e1df15285bf93cf404f8f139b",XtvN
-http://119.194.58.213:9981/stream/channelid/244245995?ticket=D48AB2262B6D31B28E449259996DDA8ED3FF3365&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/9brMDfR.png" tvg-id="7397740d27bb944bc96700b165021997",????
-http://119.194.58.213:9981/stream/channelid/225744755?ticket=9B1ECE369D8055E1386B505F206AA9C9DE9658D6&profile=pass
+
 #EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="974459f84c6454bbb93d6106edbb6e65",EBS2
 http://119.194.58.213:9981/stream/channelid/2019116183?ticket=8B71B8587F3AB31FEF8E13F1E5EC57624386A06C&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/6g56RDx.png" tvg-id="e08eac573c17c54cefc4659df1458ee0",MBC MUSIC
-http://119.194.58.213:9981/stream/channelid/1470926560?ticket=1C355C8AE3E09EA1B4582CA64040BFA726E5B625&profile=pass
-#EXTINF:-1 tvg-id="660e839908701ae823ad7403be646cdb",?? ??
+
+#EXTINF:-1 tvg-id="660e839908701ae823ad7403be646cdb",allet tv movie
 http://119.194.58.213:9981/stream/channelid/428019302?ticket=1D221F6759AA5F2F14AC991910C4B16BAFC3462A&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/eI9wGgS.png" tvg-id="30090cedd47a6cf94dbd59f43c2b9c08",FTV
-http://119.194.58.213:9981/stream/channelid/1829505328?ticket=D9278506C5B23F923008B03A01FD95ABC8EEDC64&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/jbRu8T2.png" tvg-id="679059e65c449bca512644cefe3841cc",??TV
-http://119.194.58.213:9981/stream/channelid/1717145703?ticket=291B6A1317E7F5A3B47ECC5E7B2CADF20B4A89F9&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/tLtSTaq.png" tvg-id="cc0a5b480f8396c8bb108e687a2242ea",OGN
-http://119.194.58.213:9981/stream/channelid/1213926092?ticket=0333AFF367FB4BF6E2E890C8DB14BE4A0D699F4A&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/qZdqeZo.png" tvg-id="f9e992e5be5c06166e0ef271bdc2edad",Disney Channel
-http://119.194.58.213:9981/stream/channelid/1704126969?ticket=864F600C3C0DBC3AF90CE9036DF87B29FA48C961&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/7RKoOZq.png" tvg-id="eef98f9cf71815c7821bf7c4b2c4bfc8",?????
-http://119.194.58.213:9981/stream/channelid/479197678?ticket=E32E71B7AF6D113C3431C7B004D09C8548CA5CFF&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/NoNRdSt.png" tvg-id="2c3d78922babf4270b0b304a26650162",JEI ??TV
-http://119.194.58.213:9981/stream/channelid/309869868?ticket=80E8B5839B9DE9B5F0D5AEFB9219BB7D83736188&profile=pass
+
 #EXTINF:-1 logo="http://i.imgur.com/f8T1Sw4.png" tvg-id="0894d0e8c7dd444546698a89e299bee8",???
 http://119.194.58.213:9981/stream/channelid/1758499848?ticket=AC841F2218E42A5C683A26F08AD88F9B408CD6AC&profile=pass
-#EXTINF:-1 tvg-id="2050af19c2bb7d4f2dfb76a2e8b1214f",??? ??
+
+#EXTINF:-1 tvg-id="2050af19c2bb7d4f2dfb76a2e8b1214f",Liitle fox
 http://119.194.58.213:9981/stream/channelid/430919712?ticket=A29E1A8DB91255153354106B57346333EF154176&profile=pass
-#EXTINF:-1 tvg-id="7a5a6315ded89b5995e6ca7db8e7ce44",???
+#EXTINF:-1 tvg-id="7a5a6315ded89b5995e6ca7db8e7ce44",pin fox
 http://119.194.58.213:9981/stream/channelid/358832762?ticket=C9010371E3D652CE4EB4D1707325D2AF15CCF58E&profile=pass
-#EXTINF:-1 tvg-id="c03683eb6eafa9924989efea6c06d390",???
+#EXTINF:-1 tvg-id="c03683eb6eafa9924989efea6c06d390",story telling
 http://119.194.58.213:9981/stream/channelid/1803761344?ticket=43043170D7E9B1F70F6E49651D97C8EA9D32C2DE&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/4bIQeie.png" tvg-id="1c0bc55b4878f20acd576eef54f2feec",Cbeebies
-http://119.194.58.213:9981/stream/channelid/1539640092?ticket=52A97536391AD6C017DD81EB5A402FF2BDE4DFD5&profile=pass
+
 #EXTINF:-1 logo="http://i.imgur.com/mqTSPMN.png" tvg-id="ee422fa62768a5ab6a4bcd4edb08fe4e",NGC
 http://119.194.58.213:9981/stream/channelid/640631534?ticket=E39FDB7AB4366B5772929FEF94ECDF0128E44FED&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/RxsYny9.png" tvg-id="e3641541c3ffc7562aa32eb7f792d751",CNN International
-http://119.194.58.213:9981/stream/channelid/1091921123?ticket=8C7D558D04B11BFBD4534C0D3FC15131AF98F37A&profile=pass
 #EXTINF:-1 tvg-id="f4c4b1384e7422b1a65de5f980d4427b",?? ??
 http://119.194.58.213:9981/stream/channelid/951174388?ticket=EB1233F003485135E8952A375FD9BB1D75F9EB53&profile=pass
+
 #EXTINF:-1 logo="http://i.imgur.com/B34jpmo.png" tvg-id="3d021d81b804d10b8d8abf3b9884df10",BBS????
 http://119.194.58.213:9981/stream/channelid/18678333?ticket=9966EB9AC4D0CE2A91C641B4E407B47082B4798D&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/fFN1YJb.png" tvg-id="1c1b5504b85c46836c194b1c4d2e2f76",Good TV
@@ -163,20 +92,13 @@ http://119.194.58.213:9981/stream/channelid/72686364?ticket=5A093D7BB5B419BDD7B9
 #EXTINF:-1 logo="http://i.imgur.com/yBNo2mS.png" tvg-id="bb2f6db038ca2f69de84066fa5390478",CBS
 http://119.194.58.213:9981/stream/channelid/812462011?ticket=AC84430E445FEEB66217164765856B45D2DC0712&profile=pass
 
-#EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="f6d82f191be2857b0c12b5a0dcc621c8",tvN
-http://182.230.34.187:9981/stream/channelid/422566134?ticket=1E277B3B2B939783FAAE4D3DF8595B8FF2766C26&profile=pass
-#EXTINF:-1 tvg-id="1aeb529ae18294441f7ea3be2613e615",CH W
-http://182.230.34.187:9981/stream/channelid/441641754?ticket=01E1CAC403ADB9B4D5E56402D61415F02D1F1737&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/Y3eYOc2.png" tvg-id="e6cb3b02c4492ffdc81eb1526dacb336",SPOTV ON
-http://182.230.34.187:9981/stream/channelid/37473254?ticket=5442C7765F73B0F12FBC822623CD5B56A9BF6FA5&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/jbdurz4.png" tvg-id="d80916376ff16540f9ba730e90491153",SPOTV ON2
-http://182.230.34.187:9981/stream/channelid/924191192?ticket=AF6C5AED9FAF654317CE885936BE51547DCE838F&profile=pass
 #EXTINF:-1 tvg-id="0bbb1b27c1a6f2ffbecec351e02a068d",tvN
 http://182.230.34.187:9981/stream/channelid/656128779?ticket=2958FC65219AFE55A555627BCB75A380E4F25158&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="f6c59a51ad9109f188f203344e3479cb",KBS1
 http://182.230.34.187:9981/stream/channelid/1369097718?ticket=F9308D58DFF123A2B698366745E1C047CFE0A60B&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="fc92b0d78e7e4dde738f3a98c0253e36",KBS2
 http://182.230.34.187:9981/stream/channelid/1471189756?ticket=53A19CAE96B1CB537E6FCE20363F6E27845A3C65&profile=pass
+
 #EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="64dacc36f53279107fa800870f237189",MBC
 http://182.230.34.187:9981/stream/channelid/919394916?ticket=41D05564366376321F96135F178EBD407665DCCF&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="5c666d6660f72057cebbf88a0920f59d",SBS
