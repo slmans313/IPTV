@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61JPwJ6H9nL.png" group-title="South Korea(한국어)", 아리랑 TV (Arirang TV)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -7,6 +8,9 @@ http://182.230.34.187:9981/stream/channelid/1857300328?ticket=12439F3837709481CA
 
 #EXTINF:-1 logo="https://i.imgur.com/QZkJqVU.png" group-title="South Korea(한국어)", 채널A플러스 (A+ Channel)
 http://58.227.235.66:9981/stream/channelid/2082994721?ticket=F3E6AC20C86918AC0E96C995A60AF68C38FDCFC6&profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/iJMDc63.png" group-title="South Korea(한국어)",애니박스 (Anitvbox)
+http://58.227.235.66:9981/stream/channelid/284920218?ticket=1D339256040A0EF21A303B2673341111EC8487AB&profile=pass
 
 #EXTINF:-1 logo="https://i.imgur.com/WYrIDrm.png" group-title="South Korea(한국어)",Baby TV
 http://58.227.235.66:9981/stream/channelid/837479657?ticket=A6F7BA7ACD038C2550EE57A2A60E63B4A18B04C9&profile=pass
@@ -232,8 +236,14 @@ http://58.227.235.66:9981/stream/channelid/613786840?ticket=15B228596AE041288F01
 #EXTINF:-1 logo="https://i.imgur.com/XzfYG5G.png" group-title="South Korea(한국어)",SPOTV
 http://58.227.235.66:9981/stream/channelid/1134562933?ticket=96E561CE526F1817924F905D92D152B5CD64613A&profile=pass
 
+#EXTINF:-1 logo="https://i.imgur.com/vccPcC4.png" group-title="South Korea(한국어)",SPOTV2
+http://58.227.235.66:9981/stream/channelid/2074635235?ticket=1F62BC0E9BDD1AF5D4FE8D38F39415296231355E&profile=pass
+
 #EXTINF:-1 logo="https://i.imgur.com/lcqIbtw.png" group-title="South Korea(한국어)", SPO TV+
 http://58.227.235.66:9981/stream/channelid/1123348456?ticket=FD6C365A0920A790D3BA95F1DC2D93ECC312D8EC&profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/lcqIbtw.png" group-title="South Korea(한국어)", SPO TV+
+http://58.227.235.66:9981/stream/channelid/1994315238?ticket=08CE5D58FA91D041E4F1C7CC1644A521DDB98A4F&profile=pass
 
 #EXTINF:-1 logo="https://i.imgur.com/jPLg7Nk.png" tvg-id="0abfc96ba78abd733923ed54d644d3ec",텔레노벨라 (Telenovela)
 http://58.227.235.66:9981/stream/channelid/1808383754?ticket=D867B914D00989394E750AAB9D42FC3AE9521513&profile=pass
@@ -277,7 +287,7 @@ http://119.194.58.213:9981/stream/channelid/18678333?ticket=9966EB9AC4D0CE2A91C6
 
 
 
-#EXTINF:-1 logo="https://i.imgur.com/oGc23YR.png" tvg-id="6c3515e8c67d7613cfab603296f9bda6",히어로액션
+#EXTINF:-1 logo="https://i.imgur.com/oGc23YR.png" tvg-id="6c3515e8c67d7613cfab603296f9bda6", 히어로액션 (Hero TV)
 http://58.227.235.66:9981/stream/channelid/1746220396?ticket=275E9E4FEDE3477CC3D98CA0ED7B46D08AA90507&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/mTUxkH2.png" tvg-id="8c854430c1b60ba2ede8d99d5563b656",AsiaN
 http://58.227.235.66:9981/stream/channelid/809797004?ticket=E7BC39D7E1DC7E3B1D18EFB061E83AB8B7958E3D&profile=pass
@@ -287,14 +297,9 @@ http://58.227.235.66:9981/stream/channelid/1804750789?ticket=DCCCDD08D41CE1371AE
 http://58.227.235.66:9981/stream/channelid/626750538?ticket=E84DBC285C7DB296AA8715D1BBABCD959B937E11&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/d5bqTHF.png" tvg-id="505dbd4a6e66066ee7aa3c2debdb9182",096 DIA TV
 http://58.227.235.66:9981/stream/channelid/1253924176?ticket=D2DCF76FE4D83C2AE58FD4585972DCAC366AF8C3&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/99aTLBF.png" tvg-id="e6d5def616c7b9d8034893ed8f788833",SPOTV+
-http://58.227.235.66:9981/stream/channelid/1994315238?ticket=08CE5D58FA91D041E4F1C7CC1644A521DDB98A4F&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/vccPcC4.png" tvg-id="e36ba8fbfd2b2f0ccfbfad4787310075",SPOTV2
-http://58.227.235.66:9981/stream/channelid/2074635235?ticket=1F62BC0E9BDD1AF5D4FE8D38F39415296231355E&profile=pass
+
 #EXTINF:-1 logo="https://i.imgur.com/OLIUufq.png" tvg-id="2798daca136475a24b77c2469c1617ea",053 Ch CGV
 http://58.227.235.66:9981/stream/channelid/1255839783?ticket=DA22ABDB62A6AFDA18E4296DD939FF566B565002&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/iJMDc63.png" tvg-id="9a89fb90fe59c743b475f8de9f534f83",애니박스
-http://58.227.235.66:9981/stream/channelid/284920218?ticket=1D339256040A0EF21A303B2673341111EC8487AB&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/BPVljBI.png" tvg-id="7920544b377ae043817069b1a2418b1e",Star Sports
 http://58.227.235.66:9981/stream/channelid/1263804537?ticket=D36CD6B4DD2CC514283CB2C6A0000A983ED18111&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/nAsLGWF.png" tvg-id="4ba686d79dbd9cbd3692f75f44492ab4",STB상생방송
