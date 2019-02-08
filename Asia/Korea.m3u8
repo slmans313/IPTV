@@ -22,11 +22,14 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/JTBC_%EB%A1%9C%EA%B3%A0.png" group-title="South Korea", JTBC
 http://116.45.184.224:9981/stream/channelid/1770919117?ticket=FCBCA40A684470FFF3A7293FD7762952B9D5B56F&profile=pass
 
-#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/KBS_1_logo_2018.svg.png" tvg-id="8d714582236ad8b39cf295b4ada109c8" group-title="South Korea",KBS1
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/KBS_1_logo_2018.svg.png" group-title="South Korea",KBS1
 http://182.230.34.187:9981/stream/channelid/1369097718?ticket=F9308D58DFF123A2B698366745E1C047CFE0A60B&profile=pas
 
-#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/KBS2.png" tvg-id="6385cb88c79d88a5070c1f66f81af197" group-title="South Korea",KBS2
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/KBS2.png" group-title="South Korea",KBS2
 http://182.230.34.187:9981/stream/channelid/1471189756?ticket=53A19CAE96B1CB537E6FCE20363F6E27845A3C65&profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/MWbrZ52.jpg" group-title="South Korea",KBS Drama
+http://182.230.34.187:9981/stream/channelid/1889302701?ticket=1D3A1AD80B763B2EE452BC4136C423139DF12948&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.ktv.go.kr/resources/images/common/logo.png" group-title="South Korea", KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
@@ -34,14 +37,23 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea", MBC
 http://119.194.58.213:9981/stream/channelid/861562097?ticket=7A516D1A6DB2D92D627E68231524BBAD3C9076DB&profile=pass
 
+#EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea", MBC
+http://119.194.58.213:9981/stream/channelid/861562097?ticket=665A9772C9D2B2E326E0BBD0E59F99626CAD2FF0&profile=pass
+
+#EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea", MBC
+http://182.230.34.187:9981/stream/channelid/919394916?ticket=41D05564366376321F96135F178EBD407665DCCF&profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2000px-Logo_tvN.svg.png" group-title="South Korea", tvN
 http://182.230.34.187:9981/stream/channelid/656128779?ticket=2958FC65219AFE55A555627BCB75A380E4F25158&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea", SBS
 http://119.194.58.213:9981/stream/channelid/1540226433?ticket=735B9BE066CF7EA8DF2634134B3CF0ED04F1AF4F&profile=pass
 
-#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="81fdcddbe95ccd091e65015e4e907276",SBS
-http://119.194.58.213:9981/stream/channelid/1540226433?ticket=97D14F077237E7B2852343888AD2818B066A07E4&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea", SBS
+http://182.230.34.187:9981/stream/channelid/1718445660?ticket=A70C35275E35821B60A8FCCDB373068ED3F315FA&profile=pass
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea", SBS Plus
+http://182.230.34.187:9981/stream/channelid/2091746415?ticket=7998B67479CB8AA775FFD021FD84CFA7AF0ED486&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="South Korea", TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
@@ -50,19 +62,8 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
-#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="f1645a3306b6ac344f7e85d68b6f3fdd",MBC
-http://119.194.58.213:9981/stream/channelid/861562097?ticket=665A9772C9D2B2E326E0BBD0E59F99626CAD2FF0&profile=pass
-
-#EXTINF:-1 logo="http://i.imgur.com/WViFruZ.png" tvg-id="717348f1a13f0689202e063048e4ba2a",EBS 1
-http://119.194.58.213:9981/stream/channelid/1900573553?ticket=D5A9ECE99C0273D58137249D1FFFB62E1740D9EA&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="7c7889fff68d02073b9de01b8fcc95d6", Cartoon Network
 http://119.194.58.213:9981/stream/channelid/2139715708?ticket=B489B241E8CD7A9B702938D4AAA10AA403CC44FF&profile=pass
-
-#EXTINF:-1 logo="http://i.imgur.com/Q7FHxYB.png" tvg-id="15b3e1795bfafcb1c5670445f7b2e9d6",????
-http://119.194.58.213:9981/stream/channelid/2044834581?ticket=6C4E1EDE36A306233153CD183F02C69471783166&profile=pass
-
-#EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="974459f84c6454bbb93d6106edbb6e65",EBS2
-http://119.194.58.213:9981/stream/channelid/2019116183?ticket=8B71B8587F3AB31FEF8E13F1E5EC57624386A06C&profile=pass
 
 #EXTINF:-1 tvg-id="660e839908701ae823ad7403be646cdb",allet tv movie
 http://119.194.58.213:9981/stream/channelid/428019302?ticket=1D221F6759AA5F2F14AC991910C4B16BAFC3462A&profile=pass
@@ -86,19 +87,9 @@ http://119.194.58.213:9981/stream/channelid/951174388?ticket=EB1233F003485135E89
 http://119.194.58.213:9981/stream/channelid/18678333?ticket=9966EB9AC4D0CE2A91C641B4E407B47082B4798D&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/fFN1YJb.png" tvg-id="1c1b5504b85c46836c194b1c4d2e2f76",Good TV
 http://119.194.58.213:9981/stream/channelid/72686364?ticket=5A093D7BB5B419BDD7B92CF5FB79CBE838EF9C0E&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/yBNo2mS.png" tvg-id="bb2f6db038ca2f69de84066fa5390478",CBS
-http://119.194.58.213:9981/stream/channelid/812462011?ticket=AC84430E445FEEB66217164765856B45D2DC0712&profile=pass
 
-#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="64dacc36f53279107fa800870f237189",MBC
-http://182.230.34.187:9981/stream/channelid/919394916?ticket=41D05564366376321F96135F178EBD407665DCCF&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="5c666d6660f72057cebbf88a0920f59d",SBS
-http://182.230.34.187:9981/stream/channelid/1718445660?ticket=A70C35275E35821B60A8FCCDB373068ED3F315FA&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/asfyrTm.png" tvg-id="6f84adfc08c44cd5938abee7bdbd3224",SBS Plus
-http://182.230.34.187:9981/stream/channelid/2091746415?ticket=7998B67479CB8AA775FFD021FD84CFA7AF0ED486&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/j1vHAu6.png" tvg-id="b33304881f3b6008fabb618310a93283",SBS Sports
 http://182.230.34.187:9981/stream/channelid/134493107?ticket=214FAED6278ED6263A4451A5B0904A533DFF2592&profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/CrLMIEQ.png" tvg-id="ad789c7007a43b00dfe170d925051b7d",KBS DRAMA
-http://182.230.34.187:9981/stream/channelid/1889302701?ticket=1D3A1AD80B763B2EE452BC4136C423139DF12948&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/xspD7UE.png" tvg-id="8c2650176705c5a72c7b4835037e3444",KBS N Sports
 http://182.230.34.187:9981/stream/channelid/391128716?ticket=193696CB5C3A623298BFFF218B683C0613016C5D&profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/D1o9by9.png" tvg-id="7e411956a1df1a28a0e7567de204d66e",KBS JOY
