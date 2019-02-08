@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61JPwJ6H9nL.png" group-title="South Korea(한국어)", Arirang TV
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61JPwJ6H9nL.png" group-title="South Korea(한국어)", 아리랑 TV (Arirang TV)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/mVFWZQF.png" group-title="South Korea(한국어)", B tv
 http://58.227.235.66:9981/stream/channelid/39452059?ticket=0E82A3291A40E8A4F6B951FD9C6C2EAF56742987&profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/AAGF2e1.png" group-title="South Korea(한국어)", 코미디TV (Comedy TV)
+http://58.227.235.66:9981/stream/channelid/859314281?ticket=B50B427FAE90BFBEA61DD4E280BA8BD1636C9B88&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="South Korea(한국어)",CBS 1
 http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
@@ -28,10 +31,10 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="South Korea(한국어)",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/JTBC_%EB%A1%9C%EA%B3%A0.png" group-title="South Korea", JTBC
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/JTBC_%EB%A1%9C%EA%B3%A0.png" group-title="South Korea(한국어)", JTBC
 http://116.45.184.224:9981/stream/channelid/1770919117?ticket=FCBCA40A684470FFF3A7293FD7762952B9D5B56F&profile=pass
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/JTBC_%EB%A1%9C%EA%B3%A0.png" group-title="South Korea", JTBC
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/JTBC_%EB%A1%9C%EA%B3%A0.png" group-title="South Korea(한국어)", JTBC
 http://182.230.34.187:9981/stream/channelid/676727012?ticket=8F858530E88C953DF3BDF1A08E37135341B8DE2F&profile=pass
 
 #EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/KBS_1_logo_2018.svg.png" group-title="South Korea(한국어)",KBS1
@@ -76,10 +79,10 @@ http://182.230.34.187:9981/stream/channelid/1718445660?ticket=A70C35275E35821B60
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="South Korea(한국어)", SBS Plus
 http://182.230.34.187:9981/stream/channelid/2091746415?ticket=7998B67479CB8AA775FFD021FD84CFA7AF0ED486&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="South Korea", TV조선 (Chosun TV)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="South Korea(한국어)", TV조선 (Chosun TV)
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="South Korea", TV조선 HD (Chosun TV HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="South Korea(한국어)", TV조선 HD (Chosun TV HD)
 http://182.230.34.187:9981/stream/channelid/1396215454?ticket=93FF2B55A8BA9C8A3CA8293FC53CE9AC38326FE8&profile=pass
 
 #EXTINF:-1 logo="https://i.imgur.com/0Z6nNbD.png" group-title="South Korea(한국어)", 연합뉴스TV (Yonhap News TV)
@@ -123,7 +126,8 @@ http://182.230.34.187:9981/stream/channelid/2060578994?ticket=A16930D1DA15EC7BF4
 
 #EXTINF:-1 logo="https://i.imgur.com/0Z6nNbD.png" group-title="South Korea(한국어)", 연합뉴스TV (Yonhap News TV)
 http://58.227.235.66:9981/stream/channelid/1935276371?ticket=3622F6CA5CE040ABD049D838003A6B55D7960C2E&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/nVXUvaD.png" group-title="South Korea(한국어)",026 SBS CNBC
+
+#EXTINF:-1 logo="https://i.imgur.com/nVXUvaD.png" group-title="South Korea(한국어)",SBS CNBC
 http://58.227.235.66:9981/stream/channelid/1413187761?ticket=26DDDFAC452F4D899178AABF68345F0D8A7FC20D&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/6kGmk2f.png" group-title="South Korea(한국어)", B tv
 http://58.227.235.66:9981/stream/channelid/2020889756?ticket=9010C835C71E33F059469FCA2E31E8027E47CD4D&profile=pass
@@ -169,6 +173,7 @@ http://58.227.235.66:9981/stream/channelid/748949751?ticket=76801554B60553AADFDA
 http://58.227.235.66:9981/stream/channelid/637000769?ticket=D9271155F1AA64DAA31CACA9BD919AC54A35CA09&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/bZFYGmc.png" tvg-id="840032becef4791200099e6b5371d196",020 OBS
 http://58.227.235.66:9981/stream/channelid/1043464324?ticket=D134B1E747C1C718ED98DA0708C63E652B8B5CD0&profile=pass
+
 #EXTINF:-1 logo="https://i.imgur.com/krpXkQi.png" tvg-id="05d28f5ad172bd2a30f95986058840f1",Euro sport
 http://58.227.235.66:9981/stream/channelid/1519374853?ticket=A31B14604895E057954933141B79127C58CE7255&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/TV263q1.png" tvg-id="e2bfb633b1d1f8d1329c4740d5b2b9c0",IB SPORTS
@@ -497,5 +502,3 @@ http://58.227.235.66:9981/stream/channelid/624071173?ticket=786ED02C460C43C1D1F5
 http://58.227.235.66:9981/stream/channelid/1326267505?ticket=074FA96FD5CB5B091FA07ACB87D06F360CEA1D1E&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/q8dIIfd.png" tvg-id="f99d2d0d42c66a89c8158c6429c6a87c",089 CUBE TV
 http://58.227.235.66:9981/stream/channelid/221093369?ticket=F9E3D86C1F01552C2AE5A86D6226DB18CA502269&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/AAGF2e1.png" tvg-id="691838333729a278aa4f9286603b05e3",087 코미디TV
-http://58.227.235.66:9981/stream/channelid/859314281?ticket=B50B427FAE90BFBEA61DD4E280BA8BD1636C9B88&profile=pass
