@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/d74bc285d5e93f2ca8827dbcce4844d1.jpg" group-title="France", France 2
-http://smart-hdip.com:6204/said/123/8044
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/2a8d74d295a1dbd1e060514daa33f16e.jpg" group-title="France", France 3
-http://smart-hdip.com:6204/said/123/8042
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/bd78a192c253c632cf46e5461fbe69ed.jpg" group-title="France", France 4
-http://smart-hdip.com:6204/said/123/8041
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/e5cd2d7bf12c1614ea0a16219e0ea5e6.jpg" group-title="France",France 5
-http://smart-hdip.com:6204/said/123/8040
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/e5319d85a51f736c5243bcb7dfbece18.jpg" group-title="France",France O
-http://smart-hdip.com:6204/said/123/8039
-
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/ARTE.fr.png"  group-title="France(français)", Arte
 http://smart-hdip.com:6204/faiez/123/8085
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/13Rue.fr.png"  group-title="France(français)", 13eme Rue
@@ -25,16 +12,24 @@ http://smart-hdip.com:6204/faiez/123/8049
 http://smart-hdip.com:6204/faiez/123/8048
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Euronews.fr.png  group-title="France(français)", Euronews
 http://smart-hdip.com:6204/faiez/123/8047
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24.fr.png"  group-title="France(français)", FRANCE 24 NEWS
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24.fr.png"  group-title="France(français)", France 24 NEWS
 http://smart-hdip.com:6204/faiez/123/8043
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France2.fr.png" group-title="France(français)", France 2
+http://smart-hdip.com:6204/faiez/123/8044
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="France(français)", France 3
+http://smart-hdip.com:6204/faiez/123/8042
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France4.fr.png" group-title="France(français)", France 4
+http://smart-hdip.com:6204/faiez/123/8041
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France5.fr.png" group-title="France(français)",France 5
+http://smart-hdip.com:6204/faiez/123/8040
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FranceO.fr.png" group-title="France(français)",France O
+http://smart-hdip.com:6204/faiez/123/8039
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/GameOne.fr.png"  group-title="France(français)", Game One
 http://smart-hdip.com:6204/faiez/123/8038
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Golf.fr.png"  group-title="France(français)", Golf
 http://smart-hdip.com:6204/faiez/123/8037
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png"  group-title="France(français)", Gulli
 http://smart-hdip.com:6204/faiez/123/8036
-#EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/tv5.jpg"  group-title="France(français)", HD1
-http://smart-hdip.com:6204/faiez/123/8035
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Histoire.fr.png"  group-title="France(français)", Histoire
 http://smart-hdip.com:6204/faiez/123/8034
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/LCI.fr.png"  group-title="France(français)", LCI
@@ -71,31 +66,31 @@ http://premium-play.org:8000/saidclt201/XmQat4ju/5564
 http://premium-play.org:8000/saidclt201/XmQat4ju/17720
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCSportAccess3.fr.png" group-title="France(français)",RMC SPORT 3 ACCESS HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17721
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCSport4.fr.png" group-title="France(français)",RMC SPORT 4 HD
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCSport4.fr.png" group-title="France(français)",RMC SPORT 4
 http://premium-play.org:8000/saidclt201/XmQat4ju/9724
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCSport4.fr.png" group-title="France(français)",RMC SPORT 4
 http://premium-play.org:8000/saidclt201/XmQat4ju/9825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/RMC-Sport-1-UHD.png" group-title="France(français)",RMC SPORT LIVE 5 HD
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1572.png" group-title="France(français)",RMC SPORT LIVE 5 HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17719
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/RMC-Sport-1-UHD.png" group-title="France(français)",RMC SPORT LIVE 6 HD
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1573.png" group-title="France(français)",RMC SPORT LIVE 6 HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17718
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/RMC-Sport-1-UHD.png" group-title="France(français)",RMC SPORT LIVE 7 HD
+#EXTINF:-1 tvg-logo=https://sport-tv-guide.live/images/stations/a1574.png" group-title="France(français)",RMC SPORT LIVE 7 HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17717
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/RMC-Sport-1-UHD.png" group-title="France(français)", RMC SPORT LIVE 8 HD
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1571.png" group-title="France(français)", RMC SPORT LIVE 8 HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17716
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/RMC-Sport-1-UHD.png" group-title="France(français)",RMC SPORT LIVE 9 HD
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1575.png" group-title="France(français)",RMC SPORT LIVE 9 HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17715
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/RMC-Sport-1-UHD.png" group-title="France(français)",RMC SPORT LIVE 10 HD
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1576.png" group-title="France(français)",RMC SPORT LIVE 10 HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17714
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-live-11-1577.png" group-title="France(français)",RMC SPORT LIVE 11 HD
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1577.png" group-title="France(français)",RMC SPORT LIVE 11 HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17713
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-live-12-1578.png" group-title="France(français)",MC SPORT LIVE 12 HD
+#EXTINF:-1 tvg-logo=https://sport-tv-guide.live/images/stations/a1578.png" group-title="France(français)",MC SPORT LIVE 12 HD
 http://premium-play.org:8000/saidclt201/XmQat4ju/17712
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/RTL9_logo_2011.png/200px-RTL9_logo_2011.png" group-title="France(français)", RTL 9
 http://smart-hdip.com:6204/faiez/123/8012
-#EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/tv5.jpg" group-title="France(français)", RTS Deux
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RTS_deux.svg/1200px-RTS_deux.svg.png" group-title="France(français)", RTS Deux
 http://smart-hdip.com:6204/faiez/123/8011
-#EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/tv5.jpg" group-title="France(français)", RTS Un
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RTS_un.svg/1200px-RTS_un.svg.png" group-title="France(français)", RTS Un
 http://smart-hdip.com:6204/faiez/123/8010
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/serieclub.fr.png" group-title="France(français)", Serie Club
 http://smart-hdip.com:6204/faiez/123/8009
@@ -105,6 +100,8 @@ http://smart-hdip.com:6204/faiez/123/8005
 http://smart-hdip.com:6204/faiez/123/8004
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="France(français)", Téva
 http://smart-hdip.com:6204/faiez/123/8002
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png"  group-title="France(français)", TF1 Séries Films FR
+http://smart-hdip.com:6204/faiez/123/8035
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TMC.fr.png" group-title="France(français)", TMC
 http://smart-hdip.com:6204/faiez/123/8000
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="France(français)", TV5 MONDE Europe
