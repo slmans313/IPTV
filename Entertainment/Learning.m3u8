@@ -1,28 +1,101 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/History2.uk.png" group-title="Documentary ", H2 UK
-http://gorillaiptv.online:25461/young/young/1030
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Discovery",Animal Planet USA (EST)
+http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="Documentary ", History Channel UK
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Discovery",Animal Planet USA (CST)
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Discovery", Animal Planet UK
+http://linux-app.tv:6204/Danil10/Danil10/8593
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Discovery",Animal Planet USA
+http://gorillaiptv.online:25461/young/young/113
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Discovery",Discovery USA (EST)
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Discovery",Discovery USA (PST)
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Discovery", Discovery UK
+http://linux-app.tv:6204/Danil10/Danil10/8568
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.pngg" group-title="Discovery", Discovery USA
+http://gorillaiptv.online:25461/young/young/77
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Discovery", 探索频道 - 台湾 (Discovery Taiwan)
+http://122.146.68.116:4046/VideoInput/play.ts
+ 
+#EXTINF:-1 logo="https://i.imgur.com/Z8RcpdD.png" group-title="Discovery", 디스커버리채널 (Discovery Korea)
+http://58.227.235.66:9981/stream/channelid/1488790479?ticket=7415CE1C7DEEC6EC7EE056D4646B99013E58C933&profile=pass
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="Discovery", Discovery Science UK
+http://linux-app.tv:6204/Danil10/Danil10/8566
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryHistory.uk.png" group-title="Discovery", Discovery History
+http://linux-app.tv:6204/Danil10/Danil10/8567
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="Discovery", Investigation Discovery UK
+http://gorillaiptv.online:25461/young/young/1035
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="Discovery", Investigation Discovery (Asia)
+http://80.80.160.168/live/5/500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="Discovery",Investigation Discovery (Asia) HD
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="Discovery",Planet Green
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryShed.uk.png" group-title="Discovery",Discovery Shed
+http://linux-app.tv:6204/Danil10/Danil10/8565
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryTurbo.uk.png" group-title="Discovery",Discovery Turbo
+http://linux-app.tv:6204/Danil10/Danil10/8564
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="Documentary", History UK
 http://linux-app.tv:6204/Danil10/Danil10/8555
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="Documentary ", History Channel US
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="Documentary", History US
 http://gorillaiptv.online:25461/young/young/69
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Documentary ", Crimes & Investigation
+#EXTINF:-1 logo="https://i.imgur.com/QZEnNQW.png" group-title="Documentary", 역사 (History Korea)
+http://58.227.235.66:9981/stream/channelid/1671304101?ticket=30521717EF9AD2685CF28F9A8491497C58CCCD6A&profile=pass
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/History2.uk.png" group-title="Documentary", H2 UK
+http://gorillaiptv.online:25461/young/young/1030
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Documentary", Crimes & Investigation
 http://linux-app.tv:6204/Danil10/Danil10/8571
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Sony_crime.png" group-title="Documentary ",Sony Crime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Sony_crime.png" group-title="Documentary",Sony Crime
 http://gorillaiptv.online:25461/young/young/823
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Sony_crime.png" group-title="Documentary ",Sony Crime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Sony_crime.png" group-title="Documentary",Sony Crime
 http://gorillaiptv.online:25461/young/young/804
 
-#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/app/uploads/2017/09/Forces-TV-resized.png" group-title="Documentary ", Forces TV
+#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/app/uploads/2017/09/Forces-TV-resized.png" group-title="Documentary", Forces TV
 http://gorillaiptv.online:25461/young/young/817
 
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK.jpg" group-title="Documentary ",Vice UK
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK.jpg" group-title="Documentary",Vice UK
 http://gorillaiptv.online:25461/young/young/825
 
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK.jpg" group-title="Documentary ",Vice USA
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK.jpg" group-title="Documentary",Vice USA
 http://gorillaiptv.online:25461/young/young/127
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="National Geographic", National Geo UK
+http://linux-app.tv:6204/Danil10/Danil10/8534
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="National Geographic", National Geo Wild UK
+http://linux-app.tv:6204/Danil10/Danil10/8535
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="National Geographic", National Geo USA
+http://gorillaiptv.online:25461/young/young/109
+
+#EXTINF:-1 logo="https://i.imgur.com/vigRYbc.png" group-title="National Geographic",내셔널지오그래픽 People (National People Korea)
+http://58.227.235.66:9981/stream/channelid/805217684?ticket=C438BA462664C3EA9EE9CD8CA652053A431969D2&profile=pass
+
+#EXTINF:-1 logo="https://i.imgur.com/qGOGzbP.png" group-title="National Geographic", 내셔널지오그래픽 Wild (National Geo Wild Korea)
+http://58.227.235.66:9981/stream/channelid/1352366181?ticket=F3AC99E79A1AFCDD3EFCA0D5E46A943137D4AA25&profile=pass
