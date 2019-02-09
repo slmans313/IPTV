@@ -1,21 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids", Baby TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Baby TV", Baby TV
 http://linux-app.tv:6204/Danil10/Danil10/8590
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids", Boomerang
+#EXTINF:-1 logo="https://i.imgur.com/QjF8sjn.png" group-title="Baby TV", 아가TV (Baby TV Korea)
+http://58.227.235.66:9981/stream/channelid/1276311655?ticket=ED51266BF02471CF94DFB5E231817230F07C2B61&profile=pass
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Boomerang", Boomerang
 http://gorillaiptv.online:25461/young/young/958
+
+#EXTINF:-1 logo="https://i.imgur.com/EO76TlY.png"  group-title="Boomerang",부메랑 (Boomerang Korea)
+http://58.227.235.66:9981/stream/channelid/1952614467?ticket=71D6D1652909CCC2EEAC87E980228A53C65BD1A3&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBeebies.uk.png" group-title="Kids", Cbeebies
 http://gorillaiptv.online:25461/young/young/963
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids",Cartoon Network Asia
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Cartoon Network",Cartoon Network Asia
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids",Cartoon Network UK
+#EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" group-title="Cartoon Network", 카툰네트워크 (Cartoon Network)
+http://119.194.58.213:9981/stream/channelid/2139715708?ticket=B489B241E8CD7A9B702938D4AAA10AA403CC44FF&profile=pass
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Cartoon Network",Cartoon Network UK
 http://linux-app.tv:6204/Danil10/Danil10/8576
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/918ed66fc55bb226ff2c85716da1c90c.jpg" group-title="Kids",Cartoon Network USA
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/918ed66fc55bb226ff2c85716da1c90c.jpg" group-title="Cartoon Network",Cartoon Network USA
 http://gorillaiptv.online:25461/young/young/115
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Kids",Cartoonito
@@ -24,20 +33,23 @@ http://gorillaiptv.online:25461/young/young/955
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="Kids",Da Vinci Kids
 http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Kids", Disney Channel
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Disney Channel", Disney Channel UK
 https://static.iptv-epg.com/gb/DisneyChannel.uk.png
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Kids", Disney Channel US
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Disney Channel", Disney Channel US
 http://gorillaiptv.online:25461/young/young/42
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6a935ccbf26bb9180f9a06f2741d24c0.JPG" group-title="Kids", Disney Junior
-http://gorillaiptv.online:25461/young/young/972
+#EXTINF:-1 logo="https://i.imgur.com/WFfdD7A.png" group-title="Disney Channel", 디즈니채널 (Disney Channel Korea)
+http://58.227.235.66:9981/stream/channelid/395503960?ticket=349F5B0212A4B78784C5047BD143479EAE2EFFD6&profile=pass
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/a82e252c0a3d047536ac0cf160470b9b.jpg" group-title="Kids", Disney XD
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/a82e252c0a3d047536ac0cf160470b9b.jpg" group-title="Disney Channel", Disney XD
 http://gorillaiptv.online:25461/young/young/973
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6a935ccbf26bb9180f9a06f2741d24c0.JPG" group-title="Kids",Disney Junior
-http://voxtv.dynns.com:8000/UKC/UKC2018/5634
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6a935ccbf26bb9180f9a06f2741d24c0.JPG" group-title="Disney Channel", Disney Junior
+http://gorillaiptv.online:25461/young/young/972
+
+#EXTINF:-1 logo="https://i.imgur.com/odC7ZlM.png"  group-title="Disney Channel", 디즈니주니어 (Disney Junior)
+http://58.227.235.66:9981/stream/channelid/1875798295?ticket=B7819EB16789DBBC2F6D4B76F50708E107F055CD&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="Kids",Da Vinci Kids
 http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
@@ -48,16 +60,18 @@ http://gorillaiptv.online:25461/young/young/960
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Pop-max-logo.png" group-title="Kids",Pop Max
 http://gorillaiptv.online:25461/young/young/954
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" group-title="Kids", Nickelodeon
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" group-title="Nickelodeon", Nickelodeon
 http://gorillaiptv.online:25461/young/young/970
-#EXTINF:-1  tvg-logo="http://www.vod-logo.net/photos/3e5d31fe0cc872fb8c01745c4bc18d43.jpg" group-title="Kids", Nickelodeon JR
+
+#EXTINF:-1  tvg-logo="http://www.vod-logo.net/photos/3e5d31fe0cc872fb8c01745c4bc18d43.jpg" group-title="Nickelodeon", Nickelodeon JR
 http://gorillaiptv.online:25461/young/young/968
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/59/Nickjr2logo.png" group-title="Kids", Nick Junior Too
+
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/59/Nickjr2logo.png" group-title="Nickelodeon", Nick Junior Too
 http://gorillaiptv.online:25461/young/young/967
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/0ff98c4054dd9f1f55f6b8ee2b607aca.jpg" group-title="Kids", NickToons UK
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/0ff98c4054dd9f1f55f6b8ee2b607aca.jpg" group-title="Nickelodeon", NickToons UK
 http://gorillaiptv.online:25461/young/young/969
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/0ff98c4054dd9f1f55f6b8ee2b607aca.jpg" group-title="Kids", NickToons USA
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/0ff98c4054dd9f1f55f6b8ee2b607aca.jpg" group-title="Nickelodeon", NickToons US
 http://gorillaiptv.online:25461/young/young/119
 
