@@ -21,6 +21,9 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="http://i.imgur.com/6ORm0Rz.png" group-title="Cartoon Network", 카툰네트워크 (Cartoon Network)
 http://119.194.58.213:9981/stream/channelid/2139715708?ticket=B489B241E8CD7A9B702938D4AAA10AA403CC44FF&profile=pass
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/CartoonNetwork.pt.png" group-title="Cartoon Network",Cartoon Network (Portugal)
+http://siptv-online.com:8789/18291/stevenjuz@564/23223
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Cartoon Network",Cartoon Network UK
 http://linux-app.tv:6204/Danil10/Danil10/8576
 
@@ -33,11 +36,14 @@ http://gorillaiptv.online:25461/young/young/955
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Da_Vinci_Learning.jpg" group-title="Kids",Da Vinci Kids
 http://45.126.83.51/uq2663/h/h01/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Disney Channel", Disney Channel UK
-https://static.iptv-epg.com/gb/DisneyChannel.uk.png
-
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Disney Channel", Disney Channel US
 http://gorillaiptv.online:25461/young/young/42
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/DisneyChannel.pt.png" group-title="Disney Channel", Disney Channel (Portugual)
+http://siptv-online.com:8789/18291/stevenjuz@564/23224
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/DisneyChannel.es.png" group-title="Disney Channel", Disney Channel (Spain)
+http://smart-hdip.com:6204/faiez/123/9999
 
 #EXTINF:-1 logo="https://i.imgur.com/WFfdD7A.png" group-title="Disney Channel", 디즈니채널 (Disney Channel Korea)
 http://58.227.235.66:9981/stream/channelid/395503960?ticket=349F5B0212A4B78784C5047BD143479EAE2EFFD6&profile=pass
@@ -45,8 +51,17 @@ http://58.227.235.66:9981/stream/channelid/395503960?ticket=349F5B0212A4B78784C5
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/a82e252c0a3d047536ac0cf160470b9b.jpg" group-title="Disney Channel", Disney XD
 http://gorillaiptv.online:25461/young/young/973
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/DisneyXD.es.png" group-title="Disney Channel", Disney XD Spain
+http://smart-hdip.com:6204/faiez/123/9997
+
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/6a935ccbf26bb9180f9a06f2741d24c0.JPG" group-title="Disney Channel", Disney Junior
 http://gorillaiptv.online:25461/young/young/972
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/DisneyJunior.es.png" group-title="Disney Channel", Disney Junior (Spain)
+http://smart-hdip.com:6204/faiez/123/9998
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/DisneyJunior.pt.png" group-title="Disney Channel", Disney Junior (Portugal)
+http://siptv-online.com:8789/18291/stevenjuz@564/23225
 
 #EXTINF:-1 logo="https://i.imgur.com/odC7ZlM.png"  group-title="Disney Channel", 디즈니주니어 (Disney Junior)
 http://58.227.235.66:9981/stream/channelid/1875798295?ticket=B7819EB16789DBBC2F6D4B76F50708E107F055CD&profile=pass
@@ -63,6 +78,9 @@ http://gorillaiptv.online:25461/young/young/954
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" group-title="Nickelodeon", Nickelodeon
 http://gorillaiptv.online:25461/young/young/970
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Nickelodeon.pt.png" group-title="Nickelodeon", Nickelodeon (Portugal)
+http://siptv-online.com:8789/18291/stevenjuz@564/23226
+
 #EXTINF:-1  tvg-logo="http://www.vod-logo.net/photos/3e5d31fe0cc872fb8c01745c4bc18d43.jpg" group-title="Nickelodeon", Nickelodeon JR
 http://gorillaiptv.online:25461/young/young/968
 
@@ -74,4 +92,3 @@ http://gorillaiptv.online:25461/young/young/969
 
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/0ff98c4054dd9f1f55f6b8ee2b607aca.jpg" group-title="Nickelodeon", NickToons US
 http://gorillaiptv.online:25461/young/young/119
-
