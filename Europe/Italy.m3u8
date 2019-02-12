@@ -123,9 +123,26 @@ http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.
 #EXTINF:-1 tvg-logo="http://i68.tinypic.com/2vba2hh.jpg" group-title="Italy(Italia)",Radionorba TV (Opt-2)
 rtmp://37.48.83.34:80/radionorbatv/norbatv_source.stream
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Südtirol.svg-0.png" group-title="Italy(Italia)",Rai 3 HD
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1,Rai 1 FULL HD
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/11387
+#EXTINF:-1,Rai 1 +1 HD
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/13226
+#EXTINF:-1,Rai 1 HD +2
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/40319
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2000px-Rai_2_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 2
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/11388
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2000px-Rai_2_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 2 +1
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/13227
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2000px-Rai_2_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 2 +2
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/40317
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/200px-Rai_3_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 3
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/11389
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/200px-Rai_3_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 3 +1
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/13228
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/200px-Rai_3_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 3 +2
+http://fulliptvnki.me:80/Lucavitulano/N9m0tlBvUJ/40315
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 4 HD
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
