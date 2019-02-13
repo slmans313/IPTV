@@ -1,7 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1024px-Channel_V_Logo.svg.png" group-title="China (中国)", 星空卫视
+http://183.88.194.4:9981/stream/channelid/1172177
+
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-live.jpg" group-title="China (中国)", 鳳凰中文HD
 http://111.40.205.76/PLTV/88888888/224/3221225684/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Xing_Kong.png" group-title="China (中国)", 星空卫视
+http://183.88.194.4:9981/stream/channelid/1601455920
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1920px-CGTN.svg.png" group-title="China (中国)", 中国环球电视网 (CGTN)
+http://183.88.194.4:9981/stream/channelid/1918736218
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png" group-title="China (中国)", 中国环球电视网纪录频道 (CGTN Documentary)
+http://183.88.194.4:9981/stream/channelid/997951837
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/CETV_Logo.png/150px-CETV_Logo.png" group-title="China (中国)", 中国教育电视台 (CETV-1)
 http://111.40.205.76/PLTV/88888888/224/3221225652/index.m3u8
