@@ -87,6 +87,12 @@ https://tvjlocal.akamaized.net/univ_video_jnn/abr/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="News", NBC
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14478.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="News",NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1  tvg-logo="https://digitalentertainmentmarketing.files.wordpress.com/2014/11/digital-entertainment-post-ntv-nippon-tv-japan.png" group-title="News",NTV News
+http://www.news24.jp/livestream/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/MSNBC.us.png" group-title="News", MSNBC
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11100.ts
 
@@ -95,6 +101,9 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUS.ru.png" group-title="News",RT US
 http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live 
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="News",RT UK
+http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" group-title="News",RT International
 http://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8 
