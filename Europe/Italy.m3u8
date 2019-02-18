@@ -8,6 +8,10 @@ http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
 http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.coolstreaming.us/blog/wp-content/uploads/logo-automototv-def.jpg" group-title="Italy(Italia)",AutoMoto TV
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/BikeChannel.it.png" group-title="Italy(Italia)",Bike Channel HD
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/409.ts
+
 #EXTINF:-1 tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="Italy(Italia)",CafeTV24 Veneto
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Canale5.it.png" group-title="Italy(Italia)",Canale 5
@@ -42,13 +46,16 @@ http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.etvmarche.it/wp-content/uploads/2017/07/logo_etv.png" group-title="Italy(Italia)",ETV Marche
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/FocusTv.it.png" group-title="Italy(Italia)",Focus
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/368.ts
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png" group-title="Italy(Italia)",Food Network
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/25819.ts
 
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/felzsi.jpg" group-title="Italy(Italia)",FM Italia
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="hhttp://www.giallotv.it/wp-content/themes/giallotv-wp/img/logo_giallo.png" group-title="Italy(Italia)", Giallo TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Giallo.it.png" group-title="Italy(Italia)", Giallo TV
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/356.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasOeR4ONW-jn0_XzV8t6-BzVR1lmSN1kNpkZlCd5Ry0g28uh" group-title="Italy(Italia)",History Lab
@@ -123,7 +130,7 @@ http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rncmusic.it/dati/upload/images/rmc.jpg" group-title="Italy(Italia)",Radio Monte Carlo
 http://wow01.105.net/live/rmc1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2vba2hh.jpg" group-title="Italy(Italia)",Radionorba TV
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2vba2h.jpg" group-title="Italy(Italia)",Radionorba TV
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="Italy(Italia)",Rai News 24
@@ -346,8 +353,6 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/393.ts
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/418.ts
 #EXTINF:-1,Marcopolo
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/340.ts
-#EXTINF:-1,Focus
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/368.ts
 #EXTINF:-1,Videolina
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/179.ts
 #EXTINF:-1,Canale 21
@@ -650,10 +655,7 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/201.ts
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/27780.ts
 #EXTINF:-1,Sky Sport Golf HD
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/350.ts
-#EXTINF:-1,Bike Channel HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/409.ts
-#EXTINF:-1,Class Horse
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/385.ts
+
 
 #EXTINF:-1,Primafila 1 HD
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/444.ts
