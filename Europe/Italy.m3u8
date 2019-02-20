@@ -105,9 +105,6 @@ http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg" group-title="Italy(Italia)",Primocanale Liguria
 http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/1200px-R101_-_Logo_2015.svg.png" group-title="Italy(Italia)",R101 TV
-http://hlslive.msf.ticdn.it/hls/CH10/live_Layer2.m3u8
 
 #EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/media/149abbcb156b5e4b6d87697452d29fdf.jpeg" group-title="Italy(Italia)",Radio 105 TV
 http://wow01.105.net:1935/live/105Test1/livestream.m3u8
@@ -133,7 +130,10 @@ http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rncmusic.it/dati/upload/images/rmc.jpg" group-title="Italy(Italia)",Radio Monte Carlo
 http://wow01.105.net/live/rmc1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2vba2h.jpg" group-title="Italy(Italia)",Radionorba TV
+#EXTINF:-1 tvg-logo="http://www.santiscarcella.it/wp-content/uploads/RadioTaorminaTV1.png" group-title="Italy(Italia)",Radio Taormina
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/293.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Radionorba-TV.png" group-title="Italy(Italia)",Radionorba TV
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="Italy(Italia)",Rai News 24
@@ -154,14 +154,17 @@ http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/200px-Rai_5_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai 5
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/285.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1280px-Rai_Movie_HD_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Gulp
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/284.ts
 
-#EXTINF:-1 tvg-logo="https://sicilia.onderadio.net/Loghi/TV/RaiPremium.png" group-title="Italy(Italia)",Rai Premium
-http://kimbogrupol.com:25461/Kimbo/Kimbo/13145
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1280px-Rai_Movie_HD_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.raistoria.rai.it/images/logo-raistoria-messenger.png" group-title="Italy(Italia)",Rai Storia
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/7972.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1280px-Rai_Premium_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/1200px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Scuola
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0024268
@@ -169,23 +172,14 @@ http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0024268
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Sports
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/280.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Gulp
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/284.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1200px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai YoYo
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/278.ts
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/346-3464307_rete-4-hd-mediaset.png" group-title="Italy(Italia)", Rete 4
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/276.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1280px-Rai_Movie_HD_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1280px-Rai_Premium_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aXQucmRzLnR2LnJkc3NvY2lhbHR2X3NjcmVlbl8wXzE1MjU0MzE0MzlfMDY2/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="Italy(Italia)",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/346-3464307_rete-4-hd-mediaset.png" group-title="Italy(Italia)", Rete 4
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/276.ts
 
 #EXTINF:-1  tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com//images/tv7/retesole.jpg" group-title="Italy(Italia)",Retesole
 http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
@@ -213,9 +207,6 @@ http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Spike.uk.png" group-title="Italy(Italia)",Spike
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/184.ts
 
-#EXTINF:-1  tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Sky-TG24-2.jpg" group-title="Italy(Italia)",Sky TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/qzrjvl.jpg" group-title="Italy(Italia)",Standby TV
 http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
 
@@ -226,7 +217,10 @@ http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/2rfpp2o.png" group-title="Italy(Italia)",Sky TG 24
-http://supervip.mine.nu:80/live/jPi9C9nwpe/1Rjg5wzuPk/3820.ts
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2rfpp2o.png" group-title="Italy(Italia)",Sky TG 24 HD
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/197.ts
 
 #EXTINF:-1 tvg-logo="http://www.cinemabreve.org/portal/sites/default/files/logo_1_1.png" group-title="Italy(Italia)",Tele Sondrio News
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
@@ -255,7 +249,7 @@ http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7Gj1rG.jpg" group-title="Italy(Italia)",Telemonteve 3
 http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.ifiodunavolta.flazio.com/public/componenti/225/f1/logo_telepavia_1474481286131.png" group-title="Italy(Italia)",telePAVIA
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png" group-title="Italy(Italia)",telePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png" group-title="Italy(Italia)",Teleromagna
@@ -273,7 +267,7 @@ http://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png" group-title="Italy(Italia)",Teleromagna Lifestyle
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telesud3.com/wp-content/themes/telesud/assets/img/logotelesud.png" group-title="Italy(Italia)",Telesud Trapani
+#EXTINF:-1 tvg-logo="http://www.festivalaquilone.it/images/telesud.jpg" group-title="Italy(Italia)",Telesud Trapani
 http://live.streamcaster.net:1935/telesud3_live/telesud/chunklist_w1977902813.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/TeleTicino.png" group-title="Italy(Italia)",TeleTicino
@@ -311,11 +305,6 @@ http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/TV8_Logo_2016.png" group-title="Italy(Italia)",TV8
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/336.ts
-
-#EXTINF:-1  tvg-logo="https://cdn.firstonetv.eu/images/logos/it/TVRS.png" group-title="Italy(Italia)",TVRS Marche
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-
-
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png" group-title="Italy(Italia)",TV Luna
 http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
@@ -373,8 +362,6 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/7675.ts
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/294.ts
 #EXTINF:-1,Radio Italia
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/295.ts
-#EXTINF:-1,Radio Taormina
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/293.ts
 #EXTINF:-1,Radio Azzurra
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/9792.ts
 
@@ -552,8 +539,7 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/343.ts
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/345.ts
 #EXTINF:-1,MTV HD
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/337.ts
-#EXTINF:-1,Sky TG 24 HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/197.ts
+
 #EXTINF:-1,TG 24 Dsl Lente
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/186.ts
 
