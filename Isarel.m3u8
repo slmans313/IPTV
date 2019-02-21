@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-sport-5-1025.png" group-title="Isarel (ישראל)", 5 Sports
-http://linux-app.tv:6204/RDWAN/123/8648
+http://p5.giffy.be:8080/cecilia/cecilia/92284
  
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Isarel (ישראל)",Keshet News 
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
@@ -12,7 +12,7 @@ http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Isarel (ישראל)",Keshet News 
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
   
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aunmedia.org/sites/default/files/internship/kneset.jpg" group-title="Isarel (ישראל)",Knesset Channel
+#EXTINF:-1 tvg-logo="http://aunmedia.org/sites/default/files/internship/kneset.jpg" group-title="Isarel (ישראל)",Knesset Channel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Reshet_13_logo.svg/220px-Reshet_13_logo.svg.png" group-title="Isarel (ישראל)",Reshet 13
@@ -78,18 +78,12 @@ http://p5.giffy.be:8080/cecilia/cecilia/92293
 http://p5.giffy.be:8080/cecilia/cecilia/92292
 #EXTINF:-1,IL |  ONE2
 http://p5.giffy.be:8080/cecilia/cecilia/92290
-#EXTINF:-1,IL | SHOPPING
-http://p5.giffy.be:8080/cecilia/cecilia/92289
-#EXTINF:-1,IL | SHOPPING IL 21 TV
-http://p5.giffy.be:8080/cecilia/cecilia/92288
 #EXTINF:-1,IL | SPORT 1
 http://p5.giffy.be:8080/cecilia/cecilia/92287
 #EXTINF:-1,IL | SPORT 2
 http://p5.giffy.be:8080/cecilia/cecilia/92286
 #EXTINF:-1,IL |  Sport 5 GOLD
 http://p5.giffy.be:8080/cecilia/cecilia/92285
-#EXTINF:-1,IL |  Sport 5 Live
-http://p5.giffy.be:8080/cecilia/cecilia/92284
 #EXTINF:-1,IL | SPORT 5 PLUS
 http://p5.giffy.be:8080/cecilia/cecilia/92283
 #EXTINF:-1,IL | SPORT 5 STARS
@@ -139,10 +133,18 @@ http://p5.giffy.be:8080/cecilia/cecilia/92261
 #EXTINF:-1,IL | YES VIVA
 http://p5.giffy.be:8080/cecilia/cecilia/92260
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jordantimes.com/sites/default/files/styles/news_inner/public/3Amen%20FM.jpg" group-title="Jordan(الْأُرْدُنّ‎)",Amen FM 89.5
+#EXTINF:-1 tvg-logo="http://www.jordantimes.com/sites/default/files/styles/news_inner/public/3Amen%20FM.jpg" group-title="Jordan(الْأُرْدُنّ‎)",Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+#EXTINF:-1 tvg-logo="http://www.jordan-index.com/Uploads/Gallery/262019_32214988_2093320250739836_93844721884987392_n.jpg" group-title="Jordan(الْأُرْدُنّ‎)",Jordan Noor
+http://p5.giffy.be:8080/cecilia/cecilia/96207
+#EXTINF:-1 tvg-logo="http://www.jordantimes.com/sites/default/files/styles/news_inner/public/3Amen%20FM.jpg" group-title="Jordan(الْأُرْدُنّ‎)", Jordan One
+http://p5.giffy.be:8080/cecilia/cecilia/96205
+#EXTINF:-1 tvg-logo="http://www.jordantimes.com/sites/default/files/styles/news_inner/public/3Amen%20FM.jpg" group-title="Jordan(الْأُرْدُنّ‎)",Jordan Sport
+http://p5.giffy.be:8080/cecilia/cecilia/96308
+#EXTINF:-1 tvg-logo="http://www.jordantimes.com/sites/default/files/styles/news_inner/public/3Amen%20FM.jpg" group-title="Jordan(الْأُرْدُنّ‎)",Jordan TV
+http://p5.giffy.be:8080/cecilia/cecilia/96208
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.alarabiya.net/e0/0d/640x392_21049_250531.png" group-title="Palestine (فلسطين)",Al Aqsa
+#EXTINF:-1 tvg-logo="http://images.alarabiya.net/e0/0d/640x392_21049_250531.png" group-title="Palestine (فلسطين)",Al Aqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 
 #EXTINF:-1,PALESTINIAN | 4SHABAB
@@ -327,10 +329,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/96157
 http://p5.giffy.be:8080/cecilia/cecilia/96217
 #EXTINF:-1,PALESTINIAN | DMC SPORT
 http://p5.giffy.be:8080/cecilia/cecilia/96310
-#EXTINF:-1,PALESTINIAN | DUBAI RACING 1
-http://p5.giffy.be:8080/cecilia/cecilia/96299
-#EXTINF:-1,PALESTINIAN | DW TV
-http://p5.giffy.be:8080/cecilia/cecilia/96246
 #EXTINF:-1,PALESTINIAN | DZAIR NEWS
 http://p5.giffy.be:8080/cecilia/cecilia/96245
 #EXTINF:-1,PALESTINIAN | EL HEDDAF TV
@@ -343,8 +341,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/96155
 http://p5.giffy.be:8080/cecilia/cecilia/96244
 #EXTINF:-1,PALESTINIAN | FAYROUZ ALBUM
 http://p5.giffy.be:8080/cecilia/cecilia/96144
-#EXTINF:-1,PALESTINIAN | FRANCE 24
-http://p5.giffy.be:8080/cecilia/cecilia/96243
 #EXTINF:-1,PALESTINIAN | GOOD SAMARITAN
 http://p5.giffy.be:8080/cecilia/cecilia/96154
 #EXTINF:-1,PALESTINIAN | HODHOD EUROPE
@@ -379,14 +375,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/96210
 http://p5.giffy.be:8080/cecilia/cecilia/96209
 #EXTINF:-1,PALESTINIAN | JEEM EUROPE
 http://p5.giffy.be:8080/cecilia/cecilia/96145
-#EXTINF:-1,PALESTINIAN | JORDAN NOOR
-http://p5.giffy.be:8080/cecilia/cecilia/96207
-#EXTINF:-1,PALESTINIAN | JORDAN ONE
-http://p5.giffy.be:8080/cecilia/cecilia/96205
-#EXTINF:-1,PALESTINIAN | JORDAN SPORT
-http://p5.giffy.be:8080/cecilia/cecilia/96308
-#EXTINF:-1,PALESTINIAN | JORDAN TV
-http://p5.giffy.be:8080/cecilia/cecilia/96208
 #EXTINF:-1,PALESTINIAN | KIDZINIA
 http://p5.giffy.be:8080/cecilia/cecilia/96204
 #EXTINF:-1,PALESTINIAN | KOOGI TV
@@ -471,8 +459,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/96253
 http://p5.giffy.be:8080/cecilia/cecilia/96179
 #EXTINF:-1,PALESTINIAN | ROTANA MUSIC
 http://p5.giffy.be:8080/cecilia/cecilia/96178
-#EXTINF:-1,PALESTINIAN | RUSSIA TODAY
-http://p5.giffy.be:8080/cecilia/cecilia/96177
 #EXTINF:-1,PALESTINIAN | SAFAA TV
 http://p5.giffy.be:8080/cecilia/cecilia/96176
 #EXTINF:-1,PALESTINIAN | SAT7 TV
@@ -497,4 +483,3 @@ http://p5.giffy.be:8080/cecilia/cecilia/96172
 http://p5.giffy.be:8080/cecilia/cecilia/96169
 #EXTINF:-1,PALESTINIAN | YAS SPORT
 http://p5.giffy.be:8080/cecilia/cecilia/96302
-
