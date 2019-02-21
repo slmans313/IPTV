@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Italy(Italia)",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-logo="hhttps://www.alice.tv/images/alice.png" group-title="Italy(Italia)",Alice
+#EXTINF:-1 tvg-logo="https://www.alice.tv/images/alice.png" group-title="Italy(Italia)",Alice
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/418.ts
 #EXTINF:-1  tvg-logo="http://okteve.com/wp-content/uploads/media/895636cf89509fb3e35cba8a36ac58ac.jpeg" group-title="Italy(Italia)",Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
@@ -63,7 +63,7 @@ http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Giallo.it.png" group-title="Italy(Italia)", Giallo TV
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/356.ts
 
-#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181002121121912.png" group-title="Italy(Italia)",History Lab
+#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181002121121912.png4" group-title="Italy(Italia)",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Italia1.it.png" group-title="Italy(Italia)",Italia 
@@ -101,6 +101,9 @@ http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/NOVE_TV_LOGO_2016.png" group-title="Italy(Italia)",Nove TV
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/381.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ParamountNetwork.us.png" group-title="Italy(Italia)",Paramount Channel
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/1511.ts
  
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-primarete-lombardia.jpg" group-title="Italy(Italia)",Primarete Lombardia
 http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
@@ -188,6 +191,7 @@ http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Italy(Italia)",RSI La1
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/274.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Italy(Italia)",RSI La2
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/273.ts
 
@@ -343,15 +347,11 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/561.ts
 #EXTINF:-1,Bstream Cinema 5 HD
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/562.ts
 
-#EXTINF:-1,Paramount Channel HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/1511.ts
 
 #EXTINF:-1,Cine Sony
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/14860.ts
 #EXTINF:-1,Cielo HD
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/393.ts
-#EXTINF:-1,Alice
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/418.ts
 #EXTINF:-1,Marcopolo
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/340.ts
 #EXTINF:-1,Videolina
