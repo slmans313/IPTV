@@ -116,16 +116,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/82265
 http://p5.giffy.be:8080/cecilia/cecilia/61739
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="BT Sports", BT Sport ESPN
 http://p5.giffy.be:8080/cecilia/cecilia/61740
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX1.uk.png" group-title="BT Sports",BT Sports Extra 1
-http://linux-app.tv:6204/jabar21/21jabar/8581
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX2.uk.png" group-title="BT Sports",BT Sports Extra 2
-http://linux-app.tv:6204/jabar21/21jabar/8579
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX3.uk.png" group-title="BT Sports",BT Sports Extra 3
-http://linux-app.tv:6204/jabar21/21jabar/8578
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX4.uk.png" group-title="BT Sports",BT Sports Extra 4
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7917
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX5.uk.png" group-title="BT Sports",BT Sports Extra 5
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7916
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="CBS Sport", CBS Sport
 http://p5.giffy.be:8080/cecilia/cecilia/85620
@@ -253,16 +243,21 @@ http://p5.giffy.be:8080/cecilia/cecilia/95038
 http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7825
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ChelseaTV.uk.png" group-title="Football", Chelsea TV
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/LiverpoolFCTV.uk.png" group-title="Football", Liverpool TV
-http://p5.giffy.be:8080/cecilia/cecilia/85676
+#EXTINF:-1 tvg-logo="https://heartstv.heartsfc.co.uk/assets/images/logo/header.png" group-title="Football", Hearts TV
+http://p5.giffy.be:8080/cecilia/cecilia/93069
+#EXTINF:-1 tvg-logo="https://hibstv.hibernianfc.co.uk/assets/images/logo/header.png" group-title="Football", Hibs TV
+http://p5.giffy.be:8080/cecilia/cecilia/93068
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/400x300/Inter_Channel.png" group-title="Football", Inter Channel
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/354.ts
-#EXTINF:-1 tvg-logo="https://tvnews365.com/wp-content/uploads/lazio-style-canale.png" group-title="Football",Lazio Channel
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/344.ts
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/62754/logo_lazio%20style%20tv.png" group-title="Football",Lazio Channel
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/344.ts#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/LiverpoolFCTV.uk.png" group-title="Football", Liverpool TV
+http://p5.giffy.be:8080/cecilia/cecilia/85676
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MUTV.uk.png" group-title="Football", MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png" group-title="Football", Milan TV
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/338.ts
+#EXTINF:-1 tvg-logo="https://tv.motherwellfc.co.uk/assets/images/logo/header.png" group-title="Football", Motherwell TV
+http://p5.giffy.be:8080/cecilia/cecilia/93065
 #EXTINF:-1 tvg-logo="http://pici.life/rangerstvuk.png" group-title="Football",Rangers TV
 http://p5.giffy.be:8080/cecilia/cecilia/85660
 #EXTINF:-1 tvg-logo="http://pici.life/rangerstvuk.png" group-title="Football",Rangers TV
@@ -275,7 +270,6 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/275.ts
 http://painel.soeu.kim:8080/vital/12345/203
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781828_logo_torino_channel.png" group-title="Football", Torino channel
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/9298.ts
-
 
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Flow Sports ",Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
@@ -425,7 +419,7 @@ http://newtv.dyndns.org:25461/Marco/Marco/5068
 http://newtv.dyndns.org:25461/Marco/Marco/5067
 
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/363.png" group-title="Sky Sports", Sky Sport Bundesliga 1
-http://newtv.dyndns.org:25461/Marco/Marco/5063
+http://p5.giffy.be:8080/cecilia/cecilia/30055
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/217.png" group-title="Sky Sports", Sky Sport Bundesliga 2
 http://newtv.dyndns.org:25461/Marco/Marco/5062
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/218.png" group-title="Sky Sports", Sky Sport Bundesliga 3
@@ -597,48 +591,6 @@ https://185-8-178-138.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-logo="http://online-allsports.com.ua/images/stories_2/logotv/futbol2uan.png" group-title="ФУТБОЛ",ФУТБОЛ 2
 https://185-8-178-139.livesports24.online/fooootball2.m3u8
 
-#EXTINF:-1,SP | SPORTSNET ONE ****
-http://p5.giffy.be:8080/cecilia/cecilia/96089
-#EXTINF:-1,SP | TSN 1
-http://p5.giffy.be:8080/cecilia/cecilia/31526
-#EXTINF:-1,SP | TSN 1
-http://p5.giffy.be:8080/cecilia/cecilia/94238
-#EXTINF:-1,SP | TSN 2
-http://p5.giffy.be:8080/cecilia/cecilia/22576
-#EXTINF:-1,SP | TSN 2
-http://p5.giffy.be:8080/cecilia/cecilia/94237
-#EXTINF:-1,SP | TSN 3
-http://p5.giffy.be:8080/cecilia/cecilia/35127
-#EXTINF:-1,SP | TSN 3
-http://p5.giffy.be:8080/cecilia/cecilia/94236
-#EXTINF:-1,SP | TSN 4
-http://p5.giffy.be:8080/cecilia/cecilia/13888
-#EXTINF:-1,SP | TSN 4*
-http://p5.giffy.be:8080/cecilia/cecilia/94235
-#EXTINF:-1,SP | TSN 5
-http://p5.giffy.be:8080/cecilia/cecilia/13889
-#EXTINF:-1,SP | TSN 5*
-http://p5.giffy.be:8080/cecilia/cecilia/94234
-#EXTINF:-1,SP | SPORTSNET 360.
-http://p5.giffy.be:8080/cecilia/cecilia/14215
-#EXTINF:-1,SP | SPORTSNET EAST
-http://p5.giffy.be:8080/cecilia/cecilia/22575
-#EXTINF:-1,SP | SPORTSNET EAST
-http://p5.giffy.be:8080/cecilia/cecilia/94242
-#EXTINF:-1,SP | SPORTSNET ONE
-http://p5.giffy.be:8080/cecilia/cecilia/20721
-#EXTINF:-1,SP | SPORTSNET ONE
-http://p5.giffy.be:8080/cecilia/cecilia/94241
-#EXTINF:-1,SP | SPORTSNET ONTARIO
-http://p5.giffy.be:8080/cecilia/cecilia/53660
-#EXTINF:-1,SP | SPORTSNET ONTARIO
-http://p5.giffy.be:8080/cecilia/cecilia/94240
-#EXTINF:-1,SP | SPORTSNET PACIFIC
-http://p5.giffy.be:8080/cecilia/cecilia/21526
-#EXTINF:-1,SP | SPORTSNET WEST
-http://p5.giffy.be:8080/cecilia/cecilia/21527
-#EXTINF:-1,SP | SPORTSNET WORLD
-http://p5.giffy.be:8080/cecilia/cecilia/13884
 
 #EXTINF:-1,NBA 1
 http://p5.giffy.be:8080/cecilia/cecilia/86459
@@ -912,8 +864,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/30053
 
 #EXTINF:-1,SKY ACTION
 http://p5.giffy.be:8080/cecilia/cecilia/30054
-#EXTINF:-1,SKY BUNDESLIGA 1
-http://p5.giffy.be:8080/cecilia/cecilia/30055
 #EXTINF:-1,SKY CINEMA
 http://p5.giffy.be:8080/cecilia/cecilia/30056
 #EXTINF:-1,SKY COMEDY
@@ -1082,16 +1032,10 @@ http://p5.giffy.be:8080/cecilia/cecilia/93101
 http://p5.giffy.be:8080/cecilia/cecilia/93100
 #EXTINF:-1,Fox Soccer Match Pass 9 (Match time only)
 http://p5.giffy.be:8080/cecilia/cecilia/93099
-#EXTINF:-1,HEARTS TV
-http://p5.giffy.be:8080/cecilia/cecilia/93069
-#EXTINF:-1,HIBS TV
-http://p5.giffy.be:8080/cecilia/cecilia/93068
 #EXTINF:-1,MMA : Bellator Main Event
 http://p5.giffy.be:8080/cecilia/cecilia/93073
 #EXTINF:-1,MMA : BELLATOR PRELIMS
 http://p5.giffy.be:8080/cecilia/cecilia/93074
-#EXTINF:-1,MMA : Okto Sports (One Championship MMA Broadcaster)
-http://p5.giffy.be:8080/cecilia/cecilia/93072
 #EXTINF:-1,MOTHERWELL TV
 http://p5.giffy.be:8080/cecilia/cecilia/93065
 #EXTINF:-1,NBC GOLD FHD 1
