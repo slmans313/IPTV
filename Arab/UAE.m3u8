@@ -4,13 +4,13 @@
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="UAE (ماراتيين)", Abu Dhabi TV HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.ts
+http://p5.giffy.be:8080/cecilia/cecilia/96371
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="UAE (ماراتيين)", Abu Dhabi TV FHD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="UAE (ماراتيين)", Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="UAE (ماراتيين)", Abu Dhabi Drama HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+http://p5.giffy.be:8080/cecilia/cecilia/96370
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="UAE (ماراتيين)",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
@@ -45,6 +45,12 @@ http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="UAE (ماراتيين)", Dubai Sports 1
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="UAE (ماراتيين)", Dubai Sports 1
+http://p5.giffy.be:8080/cecilia/cecilia/96127
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports2.ae.png" group-title="UAE (ماراتيين)", Dubai Sports 2
+http://p5.giffy.be:8080/cecilia/cecilia/96126
+
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1283_1.png" group-title="UAE (ماراتيين)",Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 
@@ -67,18 +73,15 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
 http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/samadubai.ae.png" group-title="UAE (ماراتيين)",Sama Dubai
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
+http://p5.giffy.be:8080/cecilia/cecilia/96368
 
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/858360ec819ed54c7f04e211fb773add.jpeg" group-title="UAE (ماراتيين)", NOUR DUBAI
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
+http://p5.giffy.be:8080/cecilia/cecilia/96365
 
 #EXTINF:-1 tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="UAE (ماراتيين)",YAS Sports
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
-#EXTINF:-1,EMIRATI | ABU DHABI DRAMA
-http://p5.giffy.be:8080/cecilia/cecilia/96370
-#EXTINF:-1,EMIRATI | ABU DHABI TV FHD
-http://p5.giffy.be:8080/cecilia/cecilia/96371
+
 #EXTINF:-1,EMIRATI | AJMAN TV
 http://p5.giffy.be:8080/cecilia/cecilia/96362
 #EXTINF:-1,EMIRATI | AL DAFRAH TV
@@ -99,8 +102,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/96364
 http://p5.giffy.be:8080/cecilia/cecilia/96365
 #EXTINF:-1,EMIRATI | QUEST ARABIA
 http://p5.giffy.be:8080/cecilia/cecilia/96363
-#EXTINF:-1,EMIRATI | SAMA DUBAI
-http://p5.giffy.be:8080/cecilia/cecilia/96368
 
 #EXTINF:-1,AR | ART AFLAM 1
 http://p5.giffy.be:8080/cecilia/cecilia/96527
