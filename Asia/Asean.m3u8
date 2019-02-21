@@ -135,7 +135,7 @@ http://ch3-33.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand (ประเทศไทย)",Ch 5
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thailand (ประเทศไทย)",  Ch 7
-http://146.88.46.69:9981/stream/channelid/123866182?profile=pass
+http://stream.rs.co.th/ch7-hi/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Channel_8_Thailand_Logo.png/160px-Channel_8_Thailand_Logo.png" group-title="Thailand (ประเทศไทย)",Ch 8
 https://u2.adintrend.com/live/ch33/i/ch33i.m3u8?sid=cjeNTQ3MmJiZTE1Y2IzYmE2N2QzYwMTQ5N2YzZGYxNjZhYzMw
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/MCOT_Family_14.png" group-title="Thailand (ประเทศไทย)",  MCOT 14
@@ -168,14 +168,12 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 https://u2.adintrend.com/live/ch35/i/ch35i.m3u8?sid=cjeNTQ3MmJiZTE1Y2IzYmE2N2QzYwMTQ5N2YzZGYxNjZhYzMw
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Spring_News_2017_Logo.png/300px-Spring_News_2017_Logo.png" group-title="Thailand (ประเทศไทย)", Spring News
 http://146.88.46.69:9981/stream/channelid/1045146725?profile=pass
-#EXTINF:0 tvg-logo="http://www.onergroup.co.th/wp-content/uploads/2015/06/Thai-CCTV.png" group-title="Thailand (ประเทศไทย)",Thairath
+#EXTINF:0 tvg-logo="http://www.onergroup.co.th/wp-content/uploads/2015/06/Thai-CCTV.png" group-title="Thailand (ประเทศไทย)",Thai CCTV
 https://u2.adintrend.com/live/ch28/i/ch28i.m3u8?sid=cjeNTQ3MmJiZTE1Y2IzYmE2N2QzYwMTQ5N2YzZGYxNjZhYzMw
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="Thailand (ประเทศไทย)",Thairath
 http://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/true4u-logo-png.png" group-title="Thailand (ประเทศไทย)",True4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.onergroup.co.th/wp-content/uploads/2015/06/Thai-CCTV.png" group-title="Thailand (ประเทศไทย)", Thai CCTV
-https://u2.adintrend.com/live/ch28/i/ch28i.m3u8?sid=cjeMjM2MWNkOTZkYmNkNGQzYTZjNgOGI5NDQyNmIzMmFiYzM4 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/1/1a/TNN24.png/225px-TNN24.png" group-title="Thailand (ประเทศไทย)", TNN24
 http://146.88.46.69:9981/stream/channelid/52276954?profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Workpoint_TV_Logo.png" group-title="Thailand (ประเทศไทย)", Workpoint TV
@@ -267,45 +265,45 @@ http://1.54.250.40:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png" group-title="Vietnam(Việt Nam)",SCTV 1
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv1&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_Hai_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png" group-title="Vietnam(Việt Nam)",SCTV 2
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv2&type=player
+http://vtsstr4.sctv.vn:1935/testlive/sctv2_HD_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/112/logo26072108_sctv3-hd.png" group-title="Vietnam(Việt Nam)",SCTV 3
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv3&type=player
+http://vtsstr4.sctv.vn:1935/testlive1/SCTVHDThieunhi_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/109/logo26072108_sctv4-hd.png" group-title="Vietnam(Việt Nam)",SCTV 4
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv4&type=player
+http://vtsstr4.sctv.vn:1935/testlive1/SCTV_HD_GiaiTri_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/11/logo26072108_sctv5.png" group-title="Vietnam(Việt Nam)",SCTV 5
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv5&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_b2292000.m3u8 
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png" group-title="Vietnam(Việt Nam)",SCTV 6
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv6&type=player
+http://vtsstr4.sctv.vn:1935/testlive1/SCTV6HD_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/107/logo26072108_sctv7-hd.png" group-title="Vietnam(Việt Nam)",SCTV 7
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv7&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_SanKhau_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/205/logo26072108_sctv8.png" group-title="Vietnam(Việt Nam)",SCTV 8
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv8&type=player
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/129/logo26072108_sctv9-hd.png" group-title="Vietnam(Việt Nam)",SCTV 9
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv9&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimChauA_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/115/logo26072108_sctv10.png" group-title="Vietnam(Việt Nam)",SCTV 10
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv11&type=player
+http://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD.smil/chunklist_b2292000.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/130/logo26072108_sctv11-hd.png" group-title="Vietnam(Việt Nam)",SCTV 11
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv11&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTVVHNT_HD_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/17/logo26072108_sctv12-hd.png" group-title="Vietnam(Việt Nam)",SCTV 12
-hhttp://sctv.huuvinh.ooo/v5live.m3u8?id=sctv12&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV12_HD_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/114/logo26072108_sctv13-hd.png" group-title="Vietnam(Việt Nam)",SCTV 13
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv13&type=player
+http://vtsstr4.sctv.vn:1935/testlive1/SCTVHDPhunuGiadinh_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/84/logo26072108_sctv14-hd.png" group-title="Vietnam(Việt Nam)",SCTV 14
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv14&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_PhimViet_4/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tv-online.in/wp-content/uploads/2012/11/SCTV-15-TV.jpg" group-title="Vietnam(Việt Nam)", SCTV 15
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv15&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_TheThao_4/CDAM.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/110/logo26072108_sctv16-hd.png" group-title="Vietnam(Việt Nam)",SCTV 16
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv16&type=player
+http://vtsstr4.sctv.vn:1935/testlive1/SCTV_HD_phimnuocngoaidacsac_4/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_sctv171.png" group-title="Vietnam(Việt Nam)", SCTV 17
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv17&type=player
+http://vtsstr4.sctv.vn:1935/testlive1/SCTV17_HD_4/CDAM.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/164/logo26072108_sctv18-hd.png" group-title="Vietnam(Việt Nam)",SCTV 18
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv18&type=player
+http://vtsstr4.sctv.vn:1935/testlive1/SCTV18_HD_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/222/logo26072108_sctv19-hd.png" group-title="Vietnam(Việt Nam)",SCTV 19
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv19&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV19_HD_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png" group-title="Vietnam(Việt Nam)",SCTV 20
-http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv20&type=player
+http://vtsstr4.sctv.vn:1935/testlive/SCTV20_HD_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/108/logo26072108_sctv-phimTHHD.png" group-title="Vietnam(Việt Nam)",SCTV HD Phim Tổng Hợp
 http://vtsstr4.sctv.vn:1935/testlive/SCTVHDPhimTH_4/chunklist.b2692000.m3u8
 
