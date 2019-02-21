@@ -228,11 +228,17 @@ http://vncdn.mediatech.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_222501.jpg" group-title="Vietnam(Việt Nam)",Hưng Yên
 http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://kontumtv.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png" group-title="Vietnam(Việt Nam)", KRT
+http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
+
 #EXTINF:-1 tvg-logo="http://tduc.tk/logo/nhandan.png" group-title="Vietnam(Việt Nam)" group-title="Vietnam(Việt Nam)", NHÂN DÂN
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_223701.jpg" group-title="Vietnam(Việt Nam)",PTTH
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_223631.jpg" group-title="Vietnam(Việt Nam)",PTTH 1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 #EXTINF:0 tvg-logo="http://www.quochoitv.vn/images/logo-qhtv.png" group-title="Vietnam(Việt Nam)", Quốc Hội 
 http://1.54.250.40:1935/live/quochoitvlive.stream_720p/playlist.m3u8 
