@@ -39,6 +39,12 @@ http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="Italy(Italia)",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="Italy(Italia)",Cielo
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/393.ts
+
+#EXTINF:-1  tvg-logo="https://i1.wp.com/www.corrientelatina.com/wp-content/uploads/2018/11/Cine-Sony-Logo.png" group-title="Italy(Italia)",Cine Sony
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/14860.ts
+
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/673471/logo_company%20tv.png" group-title="Italy(Italia)",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 
@@ -92,6 +98,9 @@ http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp
 
 #EXTINF:-1  tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="Italy(Italia)",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.marcopolo.tv/assets/images/marcopolo_white.png" group-title="Italy(Italia)",Marcopolo
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/340.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1200px-Mediaset_Extra_logo.svg.png" group-title="Italy(Italia)",Mediaset Extra
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/339.ts
@@ -327,13 +336,16 @@ http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/579290315338608640/fGSNs2SZ.png" group-title="Italy(Italia)",Video Calabria
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dinamobasket.com/sites/default/files/videolina2012_tr.png" group-title="Italy(Italia)",Videolina
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/179.ts
+
 #EXTINF:-1 tvg-logo="http://www.videomediterraneo.it/images/gruppo/chi_siamo/chi_siamo_vm_4.jpg" group-title="Italy(Italia)",Video Mediterraneo
 http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
 
 #EXTINF:-1 tvg-logo="http://videonola.tv/wp-contenuti/uploads/2017/04/logovnnew_eppj13ji.png" group-title="Italy(Italia)",Videonola
 http://79.143.181.106:8000/live/videonola/videonola/1021.m3u8
 
-#EXTINF:-1 tvg-logo="http://paologoglio.com/wp-content/uploads/2013/12/logo_videostarTV.jpg" group-title="Italy(Italia)",Videostar TV Lombardia
+#EXTINF:-1 tvg-logo="http://paologoglio.com/wp-content/uploads/2013/12/logo_videostarTV.jpg" group-title="Italy(Italia)",Videostar Lombardia
 http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 
 #EXTINF:-1,Bstream Cinema 1 HD
@@ -347,15 +359,6 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/561.ts
 #EXTINF:-1,Bstream Cinema 5 HD
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/562.ts
 
-
-#EXTINF:-1,Cine Sony
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/14860.ts
-#EXTINF:-1,Cielo HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/393.ts
-#EXTINF:-1,Marcopolo
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/340.ts
-#EXTINF:-1,Videolina
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/179.ts
 
 #EXTINF:-1,Bstream Music Video
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/20927.ts
@@ -595,49 +598,6 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/329.ts
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/406.ts
 #EXTINF:-1,Sky Dove TV
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/228.ts
-
-#EXTINF:-1,Sky Sport 24 HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/210.ts
-#EXTINF:-1,Sky Sport 24 HD Dsl Lente
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/211.ts
-#EXTINF:-1,Sky Sport NBA HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/204.ts
-#EXTINF:-1,Sky Sport NBA Dsl Lente
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/203.ts
-#EXTINF:-1,Sky Sport Uno HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/214.ts
-#EXTINF:-1,Sky Sport Uno Dsl Lente
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/215.ts
-#EXTINF:-1,Sky Sport Arena HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/213.ts
-#EXTINF:-1,Sky Sport Arena HD Dsl Lente
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/212.ts
-#EXTINF:-1,Sky Sport Football HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/209.ts
-#EXTINF:-1,Sky Sport Football HD Dsl Lente
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/208.ts
-#EXTINF:-1,EuroSport HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/372.ts
-#EXTINF:-1,EuroSport 2 HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/373.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/207.ts
-#EXTINF:-1,Sky Sport F1 Dsl Lente
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/206.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/205.ts
-#EXTINF:-1,Sky Moto GP HD Dsl Lente
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/221.ts
-#EXTINF:-1,Q13 AutoMoto TV
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/414.ts
-#EXTINF:-1,SuperTennis HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/190.ts
-#EXTINF:-1,Sky Sport Serie A HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/202.ts
-#EXTINF:-1,sky Sport Serie A Dsl Lente
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/201.ts
-#EXTINF:-1,Sky Sport Golf HD
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/350.ts
 
 
 #EXTINF:-1,Primafila 1 HD
