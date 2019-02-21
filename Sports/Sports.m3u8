@@ -114,11 +114,11 @@ http://49.49.126.236:9981/stream/channelid/110864444
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN SPORTS",beIN Sports 1 (Turkey)
-http://linux-app.tv:6204/jabar21/21jabar/11182
+http://iptv-nl2.hdflixtv.com/TR-BEIN-SPORTS-1-HD-(1920x1080)/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png"  group-title="beIN SPORTS",beIN Sports 2 (Turkey)
-http://linux-app.tv:6204/jabar21/21jabar/2003
+http://iptv-nl2.hdflixtv.com/TR-BEIN-SPORTS-2-HD-(1920X1080)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png"  group-title="beIN SPORTS",beIN Sports 3 (Turkey)
-http://linux-app.tv:6204/jabar21/21jabar/13030
+http://iptv-nl2.hdflixtv.com/TR-BEIN-SPORTS-3-HD-(1920X1080)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png"  group-title="beIN SPORTS",beIN Sports 4 (Turkey)
 http://linux-app.tv:6204/jabar21/21jabar/14026
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1086.png"  group-title="beIN SPORTS", beIN Sport Haber
@@ -128,7 +128,7 @@ http://linux-app.tv:6204/jabar21/21jabar/14428
 http://p5.giffy.be:8080/cecilia/cecilia/13890
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="BT Sports",BT Sport 1
-http://newtv.dyndns.org:25461/Marco/Marco/3785
+http://p5.giffy.be:8080/cecilia/cecilia/91591
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="BT Sports",BT Sport 2
 http://p5.giffy.be:8080/cecilia/cecilia/82265
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="BT Sports",BT Sport 3
@@ -147,7 +147,7 @@ http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7917
 http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7916
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="CBS Sport", CBS Sport
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11060.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85620
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/DIGI_Sport_1_HD.png" group-title="Digi Sport", Digi Sport 1 
 http://newtv.dyndns.org:25461/Marco/Marco/3799
@@ -220,9 +220,9 @@ http://newtv.dyndns.org:25461/Marco/Marco/4605
 http://newtv.dyndns.org:25461/Marco/Marco/4622
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="Fox Sports",Fox sport 1 (USA)
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11110.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85613
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Fox Sports",Fox sport 2 (USA)
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11109.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85612
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Fox Sports",Fox sport 1 (Asia)
 http://27.254.211.55:9981/stream/channelid/1795485565?ticket=69B131B1EA98F2AEF5C8470163FF69807126F6D2&profile=pass
@@ -233,7 +233,7 @@ http://tduc.tk/live/fspo3-.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOXSoccerPlus.us.png" group-title="Fox Sports", Fox Soccer Plus 
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11111.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85614
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-nl-fox-sports-1-241.png" group-title="Fox Sports", Fox Sport 1 (Holland)
 http://painel.soeu.kim:8080/vital/12345/3076
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-nl-fox-sports-2-242.png" group-title="Fox Sports", Fox Sports 2 (Holland)
@@ -350,27 +350,29 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLB
 http://linux-app.tv:6204/jabar21/21jabar/8583
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="MMA", Hard Knocks Fighting
 https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png group-title="MMA", Fight Network
+http://p5.giffy.be:8080/cecilia/cecilia/94577
 #EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="MMA",Fight Sports
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11115.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="MMA", WWE
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14452.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85569
 #EXTINF:-1 tvg-logo="http://www.izzudrecoba.com/wp-content/uploads/2016/02/ufctv.jpg" group-title="MMA", UFC TV
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14457.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85571
 
 #EXTINF:-1  tvg-logo="https://theundefeated.com/wp-content/uploads/2017/05/nba-logo.png" group-title="NBC Sports", NBA TV
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14454.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85594
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="NBC Sports", NBC Sports
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11098.ts
 #EXTINF:-1 tvg-logo="https://www.nbcsports.com/northwest/sites/csnnw/files/styles/article_hero_image/public/2016/05/31/golf_flat.jpg" group-title="NBC Sports", NBC Golf
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14477.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="NBC Sports", Olympic Channel
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11088.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85576
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="NBC Sports", NFL Network
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11075.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLRedZone.us.png" group-title="NBC Sports", NFL Red Zone
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11066.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="NBC Sports", NHL Network
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14474.ts
+http://p5.giffy.be:8080/cecilia/cecilia/85577
 
 #EXTINF:-1 tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/5f8b73c0d4b1bf60dd7173b660b87c29premier.jpg" group-title="Premier Sports", Premier Sports
 http://painel.soeu.kim:8080/vital/12345/3199
