@@ -105,14 +105,17 @@ http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv中国功夫
 http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="地方电视台(北京)",北京卫视
+#EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="地方电视台(直隶)",北京卫视
 http://111.40.205.76/PLTV/88888888/224/3221225728/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/btv-12jishi.jpg" group-title="地方电视台(北京)", Btv纪实
+#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/btv-12jishi.jpg" group-title="地方电视台(直隶)", Btv纪实
 http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="地方电视台(北京)", BTV卡酷少儿
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="地方电视台(直隶)", BTV卡酷少儿
 http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ijizhi.com/img/UploadFile/201112515747511.jpg" group-title="地方电视台(直隶)", 天津卫视
+http://111.40.205.76/PLTV/88888888/224/3221225617/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/dongfang.jpg" group-title="地方电视台(上海)", 东方卫视
 http://111.40.205.76/PLTV/88888888/224/3221225616/index.m3u8
@@ -156,6 +159,9 @@ http://120.87.4.5:80/PLTV/88888973/224/3221226174/100001000000000600000000011546
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/sztv-live.jpg" group-title="地方电视台(两广)",深圳卫视
 http://111.40.205.76/PLTV/88888888/224/3221225703/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype.png" group-title="地方电视台(两广)", 海南网络广播 (旅游卫视)
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/db/GXTV_logo.png/200px-GXTV_logo.png" group-title="地方电视台(两广)", 广西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225617/index.m3u8
 
@@ -170,9 +176,6 @@ http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SNRTV_logo.png" group-title="地方电视台(陕甘)", 陕西网络广播电视台
 http://stream.snrtv.com/qinqiang.m3u8
-
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype.png" group-title="地方电视台(海南)", 海南网络广播 (旅游卫视)
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/HebeiTV.png/200px-HebeiTV.png" group-title="地方电视台(河北)", 陕甘北卫视
 http://111.40.205.76/PLTV/88888888/224/3221225623/index.m3u8
@@ -216,51 +219,49 @@ http://111.40.205.76/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/SCTV-1_logo.png/225px-SCTV-1_logo.png" group-title="地方电视台(四川)",康巴卫视 (藏语)
 http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="地方电视台(山东)", 山东卫视 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="地方电视台(山东/山西)", 山东卫视 
 http://111.40.205.76/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdty.jpg" group-title="地方电视台(山东)", 山东体育
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdty.jpg" group-title="地方电视台(山东/山西)", 山东体育
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000057/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdetv.jpg" group-title="地方电视台(山东)",山东教育
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdetv.jpg" group-title="地方电视台(山东/山西)",山东教育
 http://111.40.205.76/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/qilu.jpg" group-title="地方电视台(山东)",山东齐鲁
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/qilu.jpg" group-title="地方电视台(山东/山西)",山东齐鲁
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdgg.jpg" group-title="地方电视台(山东)",山东公共
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdgg.jpg" group-title="地方电视台(山东/山西)",山东公共
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000053/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdzy.jpg" group-title="地方电视台(山东)",山东综艺
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdzy.jpg" group-title="地方电视台(山东/山西)",山东综艺
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000054/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdsh.jpg" group-title="地方电视台(山东)",山东生活
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdsh.jpg" group-title="地方电视台(山东/山西)",山东生活
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000055/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdys.jpg" group-title="地方电视台(山东)",山东影视
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdys.jpg" group-title="地方电视台(山东/山西)",山东影视
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000056/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdnk.jpg" group-title="地方电视台(山东)",山东农科
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdnk.jpg" group-title="地方电视台(山东/山西)",山东农科
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000058/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdgj.jpg" group-title="地方电视台(山东)",山东国际
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdgj.jpg" group-title="地方电视台(山东/山西)",山东国际
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000060/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnxwzh.jpg" group-title="地方电视台(山东)",济南新闻
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnxwzh.jpg" group-title="地方电视台(山东/山西)",济南新闻
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000061/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jndspd.jpg" group-title="地方电视台(山东)",济南都市
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jndspd.jpg" group-title="地方电视台(山东/山西)",济南都市
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000062/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnshpd.jpg" group-title="地方电视台(山东)",济南生活
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnshpd.jpg" group-title="地方电视台(山东/山西)",济南生活
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000063/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnyspd.jpg" group-title="地方电视台(山东)",济南影视
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnyspd.jpg" group-title="地方电视台(山东/山西)",济南影视
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000064/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnylpd.jpg" group-title="地方电视台(山东)",济南娱乐
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnylpd.jpg" group-title="地方电视台(山东/山西)",济南娱乐
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000065/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnsepd.jpg" group-title="地方电视台(山东)",济南少儿
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jnsepd.jpg" group-title="地方电视台(山东/山西)",济南少儿
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000067/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lyzhpd.jpg" group-title="地方电视台(山东)",临沂综合
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lyzhpd.jpg" group-title="地方电视台(山东/山西)",临沂综合
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000120/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/linyi.jpg" group-title="地方电视台(山东)",临沂农科
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/linyi.jpg" group-title="地方电视台(山东/山西)",临沂农科
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000121/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png" group-title="地方电视台(山西)", 山西卫视
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png" group-title="地方电视台(山东/山西)", 山西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ijizhi.com/img/UploadFile/201112515747511.jpg" group-title="地方电视台(天津)", 天津卫视
-http://111.40.205.76/PLTV/88888888/224/3221225617/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6b/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(新疆)",新疆卫视
 http://111.40.205.76/PLTV/88888888/224/3221225635/index.m3u8
