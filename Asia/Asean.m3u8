@@ -234,16 +234,25 @@ http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 #EXTINF:-1 tvg-logo="http://tduc.tk/logo/nhandan.png" group-title="Vietnam(Việt Nam)" group-title="Vietnam(Việt Nam)", NHÂN DÂN
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png" group-title="Vietnam(Việt Nam)", LA34
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/3/31/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_v%C3%A0_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Y%C3%AAn.png/revision/latest?cb=20180912032545&path-prefix=vi", PTP
+http://113.161.4.48:8080/phuyen/tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_223701.jpg" group-title="Vietnam(Việt Nam)",PTTH
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_223631.jpg" group-title="Vietnam(Việt Nam)",PTTH 1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
+#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg" group-title="Vietnam(Việt Nam)",QRT
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:0 tvg-logo="http://www.quochoitv.vn/images/logo-qhtv.png" group-title="Vietnam(Việt Nam)", Quốc Hội 
 http://1.54.250.40:1935/live/quochoitvlive.stream_720p/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/qpvn.png" tvg-name="QPVN"  group-title="Vietnam(Việt Nam)",QPVN
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/qpvn.png" group-title="Vietnam(Việt Nam)",QPVN
 http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png" group-title="Vietnam(Việt Nam)",SCTV 1
@@ -289,11 +298,32 @@ http://sctv.huuvinh.ooo/v5live.m3u8?id=sctv20&type=player
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/108/logo26072108_sctv-phimTHHD.png" group-title="Vietnam(Việt Nam)",SCTV HD Phim Tổng Hợp
 http://vtsstr4.sctv.vn:1935/testlive/SCTVHDPhimTH_4/chunklist.b2692000.m3u8
 
+#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_140032.png" group-title="Vietnam(Việt Nam)",STV1
+http://113.163.189.104/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/Screenshot_2019-01-31-14-06-43-611_com.ksmobile.cb.jpg" group-title="Vietnam(Việt Nam)",STV2
+http://113.163.189.104/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/639?cb=20180727200541&path-prefix=vi" group-title="Vietnam(Việt Nam)", TBTV
+http://vncdn.mediatech.vn/tbtvlive/tv1live.m3u8
+
 #EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Vietnam(Việt Nam)",THHN
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDCM2WqjX5fI2SDnmBk28lqvu1-k1AkWM5-RQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Vietnam(Việt Nam)", THLC
+http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213848.png" group-title="Vietnam(Việt Nam)", THGL
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/65/Logo_THTG.png" group-title="Vietnam(Việt Nam)", THTG
+http://thtg.vn:8001/thtg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ug3S4quT0yI/maxresdefault_live.jpg" group-title="Vietnam(Việt Nam)",TN1
+http://thainguyentv.vn/hls/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhLHy_pNldU69lMy5cWvzxeMQ4Id3_mb7higQbPigTQaHe3eBb" group-title="Vietnam(Việt Nam)", TTV
+http://123.30.191.202/hls/ttv.m3u8
 
 #EXTINF:0 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_205241.png" group-title="Vietnam(Việt Nam)", VTC1
 https://cdn.vtc.gov.vn/live/eds/VTC1_1/hlsv5/VTC1_1-audio_20000=212400-video=2821200.m3u8
