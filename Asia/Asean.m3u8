@@ -205,6 +205,12 @@ http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/119/logo26072108_BTV5-HD.png" group-title="Vietnam(Việt Nam)",BTV 5 Sports
 http://vtsstr4.sctv.vn:1935/testlive1/btv5_HD_4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/hanoi1.png" group-title="Vietnam(Việt Nam)",Hanoi 1
+http://vncdn.mediatech.vn/hntvlive/tv1live.m3u8
+
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/hanoi2.png" group-title="Vietnam(Việt Nam)",Hanoi 2
+http://vncdn.mediatech.vn/hntvlive/tv2live.m3u8
+
 #EXTINF:-1 tvg-logo="http://tduc.tk/logo/nhandan.png" group-title="Vietnam(Việt Nam)", NHÂN DÂN
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
@@ -298,6 +304,9 @@ https://cdn.vtc.gov.vn/live/eds/VTC14_14/hlsv5/VTC14_14-audio_20000=212400-video
 
 #EXTINF:0 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_210041.png" group-title="Vietnam(Việt Nam)",VTC16
 https://cdn.vtc.gov.vn/live/eds/VTC16_16/hlsv5/VTC16_16-audio_20000=212400-video=1275600.m3u8
+
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/vitv.png" tvg-name="VITV" group-title="Vietnam(Việt Nam)", VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhD5JSMY-yA_zL3BO6Sox8kRF25ghdjbAS7Y_66UGIA26Gbysn" group-title="Vietnam(Việt Nam)", VOV Vietnam Journey
 http://vncdn.mediatech.vn/vovlive/tv1live.m3u8
