@@ -90,9 +90,6 @@ https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/channels/images/a543ba57b2624e7784bbf6dabd1c78ce-hd.png" group-title="USA",NRA TV
 https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA", PAC 12 National
-http://p5.giffy.be:8080/cecilia/cecilia/91549
-
 #EXTINF:-1 tvg-logo="https://static.infowars.com/images/real-news-logo.png" group-title="USA",Real News
 https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
 
@@ -151,21 +148,46 @@ https://vcndmtv.teleosmedia.com/stream/dmtv/whomagmultimedia/seglist_720p.m3u8
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FCSA.us.png" group-title="College Sports",FOX College Sports Atlantic
+http://p5.giffy.be:8080/cecilia/cecilia/91556
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FCSC.us.png" group-title="College Sports", FOX College Sports Central
+http://p5.giffy.be:8080/cecilia/cecilia/91555
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Arizona.us.png" group-title="College Sports", PAC-12 Arizona
+http://p5.giffy.be:8080/cecilia/cecilia/91553
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/PAC12BayArea.us.png" group-title="College Sports", PAC-12 Bay Area
+http://p5.giffy.be:8080/cecilia/cecilia/91552
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12LosAngeles.us.png" group-title="College Sports", PAC-12 Los Angeles
+http://p5.giffy.be:8080/cecilia/cecilia/91551
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Mountain.us.png" group-title="College Sports", PAC-12 Mountain
+http://p5.giffy.be:8080/cecilia/cecilia/91550
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/PAC12Oregon.us.png" group-title="College Sports", PAC-12 Oregon
+http://p5.giffy.be:8080/cecilia/cecilia/91548
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/PAC12Washington.us.png" group-title="College Sports", PAC-12 Washington
+http://p5.giffy.be:8080/cecilia/cecilia/91547
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="College Sports", PAC 12 National
+http://p5.giffy.be:8080/cecilia/cecilia/91549
+
+
 #EXTINF:-1,USA |  CINEMAX ACTIONMAX
 http://p5.giffy.be:8080/cecilia/cecilia/85536
 #EXTINF:-1,USA |  CINEMAX THRILLERMAX
 http://p5.giffy.be:8080/cecilia/cecilia/85534
 #EXTINF:-1,USA |  DESTINATION AMERICA
 http://p5.giffy.be:8080/cecilia/cecilia/85526
-
 #EXTINF:-1,USA |  HALLMARK DRAMA
 http://p5.giffy.be:8080/cecilia/cecilia/85493
-
 #EXTINF:-1,USA |  HBO FAMILY
 http://p5.giffy.be:8080/cecilia/cecilia/85498
 #EXTINF:-1,USA |  ME TV
 http://p5.giffy.be:8080/cecilia/cecilia/85479
-
 #EXTINF:-1,USA | AMERICAN HEROES NETWORK
 http://p5.giffy.be:8080/cecilia/cecilia/85557
 #EXTINF:-1,USA | AWE
@@ -204,17 +226,12 @@ http://p5.giffy.be:8080/cecilia/cecilia/85516
 http://p5.giffy.be:8080/cecilia/cecilia/85515
 #EXTINF:-1,USA | EPIX HITS
 http://p5.giffy.be:8080/cecilia/cecilia/85514
-#EXTINF:-1,USA | FOX WEST LA
-http://p5.giffy.be:8080/cecilia/cecilia/85507
-#EXTINF:-1,USA | FOX32 CHICAGO
-http://p5.giffy.be:8080/cecilia/cecilia/85506
 #EXTINF:-1,USA | FREEFORM
 http://p5.giffy.be:8080/cecilia/cecilia/85504
 #EXTINF:-1,USA | FXM
 http://p5.giffy.be:8080/cecilia/cecilia/85512
 #EXTINF:-1,USA | FYI
 http://p5.giffy.be:8080/cecilia/cecilia/85510
-
 #EXTINF:-1,USA | HALLMARK CHANNEL
 http://p5.giffy.be:8080/cecilia/cecilia/85494
 #EXTINF:-1,USA | HBO 2 EAST
@@ -241,8 +258,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/85480
 http://p5.giffy.be:8080/cecilia/cecilia/85481
 #EXTINF:-1,USA | NATIONAL GEOGRAPHIC CHANNEL
 http://p5.giffy.be:8080/cecilia/cecilia/85474
-#EXTINF:-1,USA | NEWS 12 CT
-http://p5.giffy.be:8080/cecilia/cecilia/28294
 #EXTINF:-1,USA | OUTDOOR CHANNEL
 http://p5.giffy.be:8080/cecilia/cecilia/85470
 #EXTINF:-1,USA | OVATION
