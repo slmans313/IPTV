@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" group-title="Arizona",ABC 15 Arizona (KNXV-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85812
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsArizona.us.png" group-title="Arizona",FOX Sports Arizona
 http://p5.giffy.be:8080/cecilia/cecilia/85611
 
@@ -9,11 +12,14 @@ https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ABC7KABCTV.us.png" group-title="California", ABC 7 San Francisco HD (KGO-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85846
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="California",ABC Los Angeles (KABC-TV)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="California",ABC 7 Los Angeles (KABC-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85820
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="California",ABC Los Angeles HD (KABC-TV)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="California",ABC 7 Los Angeles HD (KABC-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85561
+
+#EXTINF:-1 tvg-logo="https://cdns.abclocal.go.com/assets/news/kfsn/images/logos/header-large.png group-title="California",A ABC 30 Fresno (KFSN-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85825
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="California", CBS 2 Los Angeles (KCBS-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85543
@@ -102,6 +108,9 @@ http://p5.giffy.be:8080/cecilia/cecilia/93086
 #EXTINF:-1 tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" group-title="Iowa",PATV(Iowa)
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/WRTV_-_RTV6_ABC_The_Indy_Channel.png" group-title="Indiana",  ABC 6 Indiana (WRTV)
+http://p5.giffy.be:8080/cecilia/cecilia/85811
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WMAR_2018_logo.png" group-title="Maryland", ABC 2 Baltimore (WMAR-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85816
 
@@ -123,8 +132,14 @@ http://p5.giffy.be:8080/cecilia/cecilia/85607
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="Minnesota",NWCT 12 (Minnesota)
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/WXYZ_2012_Logo.png" group-title="Michigan", ABC 7 Detroit (WXYZ-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85821
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsDetroit.us.png" group-title="Michigan", FOX Sports Detroit
 http://p5.giffy.be:8080/cecilia/cecilia/85610
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/KMBC_9_News_logo.png" group-title="Missouri",ABC 9 Kansas (KMBC-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85818
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/KDNL_30_News_logo.png" group-title="Missouri", ABC 30 St. Louis (KDNL-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85815
@@ -144,8 +159,20 @@ http://p5.giffy.be:8080/cecilia/cecilia/85478
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MadisonSquareGarden.us.png" group-title="New York", MSG 
 http://p5.giffy.be:8080/cecilia/cecilia/85595
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Wsoctv.png/200px-Wsoctv.png" group-title="North Carolina,", ABC 9 Charlotte (WSOC-TV)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Wsoctv.png/200px-Wsoctv.png" group-title="North Carolina", ABC 9 Charlotte (WSOC-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85839
+
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/2/24/WTVD_2013_Logo.png" group-title="North Carolina",  ABC 11 Durham (WTVD-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85840
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/WEWS-TV_-_News_Net_5_logo.png" group-title="Ohio", ABC 5 Cleveland (WEWS-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85826
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/WSYX6logonew.PNG" group-title="Ohio", ABC 6 Columbus (WSYX)
+http://p5.giffy.be:8080/cecilia/cecilia/85843
+
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/d/d6/WCPO-TV2013.png" group-title="Ohio", ABC 9 Ohio (WCPO-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85810
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsOhioCleveland.us.png" group-title="Ohio",FOX Sports Ohio
 http://p5.giffy.be:8080/cecilia/cecilia/85606
@@ -173,45 +200,28 @@ http://p5.giffy.be:8080/cecilia/cecilia/85817
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports.us.png" group-title="Texas",FOX Sports SouthWest
 http://p5.giffy.be:8080/cecilia/cecilia/85602
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/KOMO_4_2015.svg/1920px-KOMO_4_2015.svg.png" group-title="Washington", ABC 4 Seattle (KOMO-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85836
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/WISN_2012_Logo.png" group-title="Wisconsin", ABC 12 Milwaukee (WISN-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/85819
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsWisconsin.us.png" group-title="Wisconsin", FOX Sports Wisconsin
 http://p5.giffy.be:8080/cecilia/cecilia/85599
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/New_KTVX_Logo.png" group-title="Utah", ABC 4 Utah (KTVX)
+http://p5.giffy.be:8080/cecilia/cecilia/85835
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="Virgin Islands" ,WSVI-TV
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
 
-
-#EXTINF:-1,USA-R | ABC CLEVELAND
-http://p5.giffy.be:8080/cecilia/cecilia/85826
-#EXTINF:-1,USA-R | ABC COLUMBUS
-http://p5.giffy.be:8080/cecilia/cecilia/85843
-#EXTINF:-1,USA-R | ABC DETROIT
-http://p5.giffy.be:8080/cecilia/cecilia/85821
-#EXTINF:-1,USA-R | ABC FINIX
-http://p5.giffy.be:8080/cecilia/cecilia/85812
-#EXTINF:-1,USA-R | ABC FRESNO
-http://p5.giffy.be:8080/cecilia/cecilia/85825
-#EXTINF:-1,USA-R | ABC INDIANA
-http://p5.giffy.be:8080/cecilia/cecilia/85811
-#EXTINF:-1,USA-R | ABC KANSASCITY
-http://p5.giffy.be:8080/cecilia/cecilia/85818
-#EXTINF:-1,USA-R | ABC MILWAUKEE
-http://p5.giffy.be:8080/cecilia/cecilia/85819
-#EXTINF:-1,USA-R | ABC OHIO
-http://p5.giffy.be:8080/cecilia/cecilia/85810
 #EXTINF:-1,USA-R | ABC ORLANDO
 http://p5.giffy.be:8080/cecilia/cecilia/85829
 #EXTINF:-1,USA-R | ABC PORTLAND
 http://p5.giffy.be:8080/cecilia/cecilia/85838
-#EXTINF:-1,USA-R | ABC RALEIGH-DURHAM
-http://p5.giffy.be:8080/cecilia/cecilia/85840
 #EXTINF:-1,USA-R | ABC SACRAMENTO
 http://p5.giffy.be:8080/cecilia/cecilia/85834
-#EXTINF:-1,USA-R | ABC SALTLAKECITY
-http://p5.giffy.be:8080/cecilia/cecilia/85835
-
-
-#EXTINF:-1,USA-R | ABC SEATLE
-http://p5.giffy.be:8080/cecilia/cecilia/85836
 
 
 #EXTINF:-1,USA-S | FOX SPORTS SOUTH
