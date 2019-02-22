@@ -30,6 +30,17 @@ http://p5.giffy.be:8080/cecilia/cecilia/85492
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Movies",HBO US
 http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/14350
 
+#EXTINF:-1,USA | HBO 2 EAST
+http://p5.giffy.be:8080/cecilia/cecilia/85501
+#EXTINF:-1,USA | HBO EAST
+http://p5.giffy.be:8080/cecilia/cecilia/85499
+
+#EXTINF:-1,PPV | HBO 2 WEST
+http://p5.giffy.be:8080/cecilia/cecilia/61962
+#EXTINF:-1,PPV | HBO EAST.
+http://p5.giffy.be:8080/cecilia/cecilia/42200
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBOSignature.us.png" group-title="Movies", HBO Signature
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14482.ts
 
@@ -50,20 +61,56 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime.us.png" group-title="Movies", Showtime
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/StarzTV.uk.png" group-title="Movies", Starz
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime.us.png" group-title="Movies", Showtime
+http://p5.giffy.be:8080/cecilia/cecilia/85457
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Starz.us.png" group-title="Movies", Starz
 http://p5.giffy.be:8080/cecilia/cecilia/61944
-#EXTINF:-1 tvg-logo="http://pici.life/lg/US/starzcinemaus.png" group-title="Movies",Starz Cinema US
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/StarzEncoreBlack.us.png" group-title="Movies",Starz Black
+http://p5.giffy.be:8080/cecilia/cecilia/61950
+#EXTINF:-1 tvg-logo="http://pici.life/lg/US/starzcinemaus.png" group-title="Movies",Starz Cinema
 http://p5.giffy.be:8080/cecilia/cecilia/61943
-#EXTINF:-1 tvg-logo="http://pici.life/lg/US/Starzcomedy.png" group-title="Movies",Starz Comedy US
+#EXTINF:-1 tvg-logo="http://pici.life/lg/US/starzcinemaus.png" group-title="Movies", Staraz Cinema West
+http://p5.giffy.be:8080/cecilia/cecilia/61937
+#EXTINF:-1 tvg-logo="http://pici.life/lg/US/starzcinemaus.png" group-title="Movies",Staraz Cinema East
+http://p5.giffy.be:8080/cecilia/cecilia/61935
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/StarzWest.us.png" group-title="Movies",Starz West 
+http://p5.giffy.be:8080/cecilia/cecilia/61945
+#EXTINF:-1 tvg-logo="http://pici.life/lg/US/Starzcomedy.png" group-title="Movies",Starz Comedy
 http://p5.giffy.be:8080/cecilia/cecilia/61960
 #EXTINF:-1 tvg-logo="http://pici.life/US/starzus.png" group-title="Movies",Starz East 
 http://p5.giffy.be:8080/cecilia/cecilia/61959
-#EXTINF:-1  tvg-logo="http://pici.life/lg/US/Starz_Edge.png" group-title="Movies",Starz Edge US
+#EXTINF:-1  tvg-logo="http://pici.life/lg/US/Starz_Edge.png" group-title="Movies",Starz Edge
 http://p5.giffy.be:8080/cecilia/cecilia/61951
-#EXTINF:-1  tvg-logo="http://pici.life/lg/US/Starz_Encore.png" group-title="Movies",Starz Encore US
+#EXTINF:-1  tvg-logo="http://pici.life/lg/US/Starz_Edge.png" group-title="Movies",Starz Edge West
+http://p5.giffy.be:8080/cecilia/cecilia/61957
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/StarzEncore.us.png" group-title="Movies",Starz Encore
 http://p5.giffy.be:8080/cecilia/cecilia/61956
-#EXTINF:-1 tvg-name="Starz West US" tvg-logo="http://pici.life/US/starzus.png" group-title="Movies",Starz West US
-http://p5.giffy.be:8080/cecilia/cecilia/61945
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/StarzEncore.us.png" group-title="Movies",Starz Encore 2
+http://p5.giffy.be:8080/cecilia/cecilia/61933
+##EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/StarzEncore.us.png" group-title="Movies",Starz Encore East
+http://p5.giffy.be:8080/cecilia/cecilia/61936
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/StarzEncoreAction.us.png" group-title="Movies",Starz Encore Action
+http://p5.giffy.be:8080/cecilia/cecilia/61949
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/StarzEncoreBlack.us.png" group-title="Movies", Starz Encore Black
+http://p5.giffy.be:8080/cecilia/cecilia/61952
+#EXTINF:-1  tvg-logo="hhttps://static.iptv-epg.com/us/StarzEncoreSuspense.us.png" group-title="Movies",Starz Encore Suspense
+http://p5.giffy.be:8080/cecilia/cecilia/61938
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/StarzEncoreWesterns.us.png" group-title="Movies",Starz  Encore Western
+http://p5.giffy.be:8080/cecilia/cecilia/61941
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/StarzKidsFamily.us.png group-title="Movies",Starz Family
+http://p5.giffy.be:8080/cecilia/cecilia/61958
+
+#EXTINF:-1,USA | STARZ COMEDY
+http://p5.giffy.be:8080/cecilia/cecilia/85453
+#EXTINF:-1,USA | STARZ EAST
+http://p5.giffy.be:8080/cecilia/cecilia/85452
+#EXTINF:-1,USA | STARZ ENCORE
+http://p5.giffy.be:8080/cecilia/cecilia/85451
+#EXTINF:-1,USA | STARZ ENCORE WESTERNS
+http://p5.giffy.be:8080/cecilia/cecilia/85450
+#EXTINF:-1,USA | STARZ KIDS & FAMILY
+http://p5.giffy.be:8080/cecilia/cecilia/85449
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel
 http://yipcontent-lh.akamai.net/i/sonymoviechannel_1@569927/master.m3u8
@@ -117,10 +164,6 @@ http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6579
 http://p5.giffy.be:8080/cecilia/cecilia/85673
 
 
-#EXTINF:-1,PPV | HBO 2 WEST
-http://p5.giffy.be:8080/cecilia/cecilia/61962
-#EXTINF:-1,PPV | HBO EAST.
-http://p5.giffy.be:8080/cecilia/cecilia/42200
 #EXTINF:-1,PPV | HBO PLUS WEST
 http://p5.giffy.be:8080/cecilia/cecilia/61963
 #EXTINF:-1,PPV | ACTION MAX
@@ -142,27 +185,5 @@ http://p5.giffy.be:8080/cecilia/cecilia/61961
 #EXTINF:-1,PPV | SHOWTIME WEST
 http://p5.giffy.be:8080/cecilia/cecilia/61934
 
-#EXTINF:-1,PPV | STARZ BLACK
-http://p5.giffy.be:8080/cecilia/cecilia/61950
-#EXTINF:-1,PPV |  STARZ CINEMA WEST
-http://p5.giffy.be:8080/cecilia/cecilia/61937
-#EXTINF:-1,PPV |  STARZ ENCORE EAST
-http://p5.giffy.be:8080/cecilia/cecilia/61936
-#EXTINF:-1,PPV | STARZ CINEMA EAST
-http://p5.giffy.be:8080/cecilia/cecilia/61935
-#EXTINF:-1,PPV | STARZ EDGE WEST
-http://p5.giffy.be:8080/cecilia/cecilia/61957
-#EXTINF:-1,PPV | STARZ ENCORE 2
-http://p5.giffy.be:8080/cecilia/cecilia/61933
-#EXTINF:-1,PPV | STARZ ENCORE ACTION
-http://p5.giffy.be:8080/cecilia/cecilia/61949
-#EXTINF:-1,PPV | STARZ ENCORE BLACK
-http://p5.giffy.be:8080/cecilia/cecilia/61952
-#EXTINF:-1,PPV | STARZ ENCORE SUSPENCE
-http://p5.giffy.be:8080/cecilia/cecilia/61938
-#EXTINF:-1,PPV | STARZ ENCORE WESTERN
-http://p5.giffy.be:8080/cecilia/cecilia/61941
-#EXTINF:-1,PPV | STARZ FAMILY
-http://p5.giffy.be:8080/cecilia/cecilia/61958
-#EXTINF:-1,PPV | WHITTAKER VS GASTELUM (OP3)
-http://p5.giffy.be:8080/cecilia/cecilia/39385
+
+
