@@ -57,6 +57,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Wscv51_telemundo_miami.png" group-title="Florida",Telemundo Miami (WSCV)
 http://p5.giffy.be:8080/cecilia/cecilia/93060
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsSoutheast.us.png" group-title="Georgia", FOX Sports Southeast
+http://p5.giffy.be:8080/cecilia/cecilia/85615
 
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/WFLD_Fox_News_Chicago_Logo.png" group-title="Illinois", FOX32 Chicago (WFLD)
 http://p5.giffy.be:8080/cecilia/cecilia/85506
@@ -70,26 +72,23 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" group-title="Iowa",PATV(Iowa)
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsDetroit.us.png" group-title="Michigan", FOX Sports Detroit
-http://p5.giffy.be:8080/cecilia/cecilia/85610
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsNorth.us.png" group-title="Midwestern", FOX Sports North
-http://p5.giffy.be:8080/cecilia/cecilia/85607
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsMidwest.us.png" group-title="Midwestern", FOX Sports Midwest
-http://p5.giffy.be:8080/cecilia/cecilia/85608
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsOhioCleveland.us.png" group-title="Ohio",FOX Sports Ohio
-http://p5.giffy.be:8080/cecilia/cecilia/85606
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsWisconsin.us.png" group-title="Wisconsin", FOX Sports Wisconsin
-http://p5.giffy.be:8080/cecilia/cecilia/85599
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/NBC_Sports_Boston.png" group-title="Massachusetts", NBC Sports Boston
 http://p5.giffy.be:8080/cecilia/cecilia/93088
 
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/NewEnglandSportsNetwork.us.png" group-title="Massachusetts", NESN
+http://p5.giffy.be:8080/cecilia/cecilia/85579
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsNorth.us.png" group-title="Minnesota", FOX Sports North
+http://p5.giffy.be:8080/cecilia/cecilia/85607
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="Minnesota",NWCT 12 (Minnesota)
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsDetroit.us.png" group-title="Michigan", FOX Sports Detroit
+http://p5.giffy.be:8080/cecilia/cecilia/85610
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsMidwest.us.png" group-title="Missouri", FOX Sports Midwest
+http://p5.giffy.be:8080/cecilia/cecilia/85608
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSKCBS.us.png" group-title="New York",CBS 2 (WCBS-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85544
@@ -100,20 +99,20 @@ http://p5.giffy.be:8080/cecilia/cecilia/85478
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MadisonSquareGarden.us.png" group-title="New York", MSG 
 http://p5.giffy.be:8080/cecilia/cecilia/85595
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/NBC_Sports_Philadelphia.jpg" group-title="New England", NBC Sports Philadelphia
-http://p5.giffy.be:8080/cecilia/cecilia/85581
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsOhioCleveland.us.png" group-title="Ohio",FOX Sports Ohio
+http://p5.giffy.be:8080/cecilia/cecilia/85606
 
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/NewEnglandSportsNetwork.us.png" group-title="New England", NESN
-http://p5.giffy.be:8080/cecilia/cecilia/85579
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/NBC_Sports_Northwest.png" group-title="Pacific States", NBC Sports Northwest
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/NBC_Sports_Northwest.png" group-title="Oregon", NBC Sports Northwest
 http://p5.giffy.be:8080/cecilia/cecilia/93084
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsSoutheast.us.png" group-title="Georgia", FOX Sports Southeast
-http://p5.giffy.be:8080/cecilia/cecilia/85615
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/NBC_Sports_Philadelphia.jpg" group-title="Pennsylvania", NBC Sports Philadelphia
+http://p5.giffy.be:8080/cecilia/cecilia/85581
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports.us.png" group-title="Texas",FOX Sports SouthWest
 http://p5.giffy.be:8080/cecilia/cecilia/85602
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsWisconsin.us.png" group-title="Wisconsin", FOX Sports Wisconsin
+http://p5.giffy.be:8080/cecilia/cecilia/85599
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="Virgin Islands" ,WSVI-TV
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
