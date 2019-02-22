@@ -117,9 +117,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/91593
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="BT Sports", BT Sport ESPN
 http://p5.giffy.be:8080/cecilia/cecilia/85628
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="CBS Sport", CBS Sport
-http://p5.giffy.be:8080/cecilia/cecilia/85620
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/DIGI_Sport_1_HD.png" group-title="Digi Sport", Digi Sport 1 
 http://newtv.dyndns.org:25461/Marco/Marco/3799
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Digi_sport2.png/revision/latest?cb=20160630150937" group-title="Digi Sport", Digi Sport 2 
@@ -330,10 +327,6 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
 #EXTINF:-1 tvg-logo="https://www.live-cricketontv.com/images/newchannels/StarSportsSelect2.gif" group-title="Star Sports", Star Sports Select 2
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="MLB",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="MLB",MLB Live
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 
 #EXTINF:-1 tvg-logo="http://pici.life/uk/BoxNation.uk.png" group-title="MMA",BoxNation
 http://p5.giffy.be:8080/cecilia/cecilia/85723
@@ -352,6 +345,8 @@ http://p5.giffy.be:8080/cecilia/cecilia/85569
 #EXTINF:-1 tvg-logo="http://www.izzudrecoba.com/wp-content/uploads/2016/02/ufctv.jpg" group-title="MMA", UFC TV
 http://p5.giffy.be:8080/cecilia/cecilia/85571
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="NBC Sports", CBS Sport
+http://p5.giffy.be:8080/cecilia/cecilia/85620
 #EXTINF:-1  tvg-logo="https://theundefeated.com/wp-content/uploads/2017/05/nba-logo.png" group-title="NBC Sports", NBA TV
 http://p5.giffy.be:8080/cecilia/cecilia/85594
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="NBC Sports", NBC Sports
@@ -366,6 +361,11 @@ http://p5.giffy.be:8080/cecilia/cecilia/76281
 http://p5.giffy.be:8080/cecilia/cecilia/79684
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="NBC Sports", NHL Network
 http://p5.giffy.be:8080/cecilia/cecilia/85577
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="NBC Sports",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="NBC Sports",MLB Live
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/5f8b73c0d4b1bf60dd7173b660b87c29premier.jpg" group-title="Premier Sports", Premier Sports
 http://p5.giffy.be:8080/cecilia/cecilia/85666
