@@ -48,14 +48,14 @@ http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
 http://p5.giffy.be:8080/cecilia/cecilia/85976
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN International
-http://p5.giffy.be:8080/cecilia/cecilia/95204
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="News", CNBC
 http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="News", CNBC
 http://p5.giffy.be:8080/cecilia/cecilia/94575
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="News", CNBC
+http://p5.giffy.be:8080/cecilia/cecilia/94278
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/CNBCWorld.us.png" group-title="News",CNBC World
 http://p5.giffy.be:8080/cecilia/cecilia/85541
@@ -67,6 +67,9 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 http://164.40.161.47:8000/play/s4
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="News", FOX News
+http://p5.giffy.be:8080/cecilia/cecilia/65781
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="News", FOX News HD
 http://p5.giffy.be:8080/cecilia/cecilia/86656
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxBusiness.us.png" group-title="News", FOX Business Network
@@ -95,6 +98,9 @@ http://www.news24.jp/livestream/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/MSNBC.us.png" group-title="News", MSNBC
 http://p5.giffy.be:8080/cecilia/cecilia/86423
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/MSNBC.us.png" group-title="News", MSNBC
+http://p5.giffy.be:8080/cecilia/cecilia/77367
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="News",Newsy 
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
