@@ -2,11 +2,14 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="Canada",Assemblee Nationale du Quebec
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="Canada",CBC Television
+#EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="Canada",CBC TV
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="Canada",CBC TV
+http://p5.giffy.be:8080/cecilia/cecilia/16517
+
 #EXTINF:-1 tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="Canada",CBC News
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+http://p5.giffy.be:8080/cecilia/cecilia/28635
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="Canada",CHCH
 https://bcovlive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8?fluxustv.m3u8
@@ -44,14 +47,10 @@ http://p5.giffy.be:8080/cecilia/cecilia/85566
 
 #EXTINF:-1,CA | CITY TV EAST
 http://p5.giffy.be:8080/cecilia/cecilia/20712
-#EXTINF:-1,CA | CTV EAST
-http://p5.giffy.be:8080/cecilia/cecilia/21510
+0
 #EXTINF:-1,CA | CTV NEWS
 http://p5.giffy.be:8080/cecilia/cecilia/31446
-#EXTINF:-1,CA | CBC EAST
-http://p5.giffy.be:8080/cecilia/cecilia/16517
-#EXTINF:-1,CA | CBC NEWS NETWORK
-http://p5.giffy.be:8080/cecilia/cecilia/28635
+
 #EXTINF:-1,CA | GLOBAL EAST
 http://p5.giffy.be:8080/cecilia/cecilia/22581
 #EXTINF:-1,CA | ACTION
