@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://www.aetv.com/assets/images/aetv/generic-thumb.jpg" group-title="Entertainment", A&E UK
+#EXTINF:-1  tvg-logo="https://www.aetv.com/assets/images/aetv/generic-thumb.jpg" group-title="UK", A&E UK
 http://p5.giffy.be:8080/cecilia/cecilia/85564
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AMC.uk.png" group-title="UK", AMC UK
+http://p5.giffy.be:8080/cecilia/cecilia/85747
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC 1
 http://p5.giffy.be:8080/cecilia/cecilia/85732
@@ -132,9 +135,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/85663
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTEJr.ie.png" group-title="Ireland",RTE Jr
 http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/9501
-
-#EXTINF:-1 tvg-logo="http://www.bafta.org/sites/default/files/styles/showcase_gallery/public/externals/e6416fedc80918df99e8feeefebddb57.jpg" group-title="Scotland",STV
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/15854
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCOneScotland.uk.png" group-title="Scotland", BBC Scotland 1
 http://p5.giffy.be:8080/cecilia/cecilia/85730
