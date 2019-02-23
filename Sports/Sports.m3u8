@@ -244,9 +244,6 @@ http://painel.soeu.kim:8080/vital/12345/3071
 http://61.216.10.122:4047/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1069.png" group-title="Fox Sports", Fox Sport 3 (台湾)
 http://122.146.68.116:4047/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Fox Sports",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://cdn01.supersoccer.tv/sstv/images/logo.png" group-title="Football", Super Soccer TV 
 http://210.210.155.35/uq2663/h/h20/index.m3u8
@@ -380,6 +377,19 @@ http://p5.giffy.be:8080/cecilia/cecilia/85666
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/1939237/logo_premium%20sport%202.png" group-title="Premier Sports", Premier Sports 2
 http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6568
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Racing",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Racing", MAV TV
+http://p5.giffy.be:8080/cecilia/cecilia/85597
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Racing",Sky Sports F1
+http://p5.giffy.be:8080/cecilia/cecilia/85641
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sky_Sport_F1_HD.JPG" group-title="Sky Sports", Sky Sport F1 Italian
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/207.ts
+#EXTINF:-1 tvg-logo="hhttps://vignette.wikia.nocookie.net/logopedia/images/b/bb/Sky_sport_motogp_hd.jpg" group-title="Sky Sports", Sky Sport MotoGP
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/205.ts
+#EXTINF:-1  tvg-logo="http://www.vod-logo.net/photos/77f465fbf759d03d86aab0ee5728e99e.jpg" group-title="Racing", Ziggo Sport Racing
+http://m-iptv.net:6204/jabar21/21jabar/9519
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Setanta Sports", Setanta Eurasia
 http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Setanta Sports", Setanta Sports +
@@ -412,8 +422,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/85642
 http://p5.giffy.be:8080/cecilia/cecilia/85639
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Sky Sports", Sky Sport Football
 http://p5.giffy.be:8080/cecilia/cecilia/85640
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sky Sports",Sky Sports F1
-http://p5.giffy.be:8080/cecilia/cecilia/85641
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sky Sports", Sky Sports News
 http://p5.giffy.be:8080/cecilia/cecilia/85636
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Sky Sports",Sky Sports Main Event
@@ -492,12 +500,8 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/208.ts
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/372.ts
 #EXTINF:-1 tvg-logo="http://www.liveonlinetv247.com/images/skysport3italia.png" group-title="Sky Sports", EuroSport 2
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/373.ts
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.com/images/skysport3italia.png" group-title="Sky Sports", Sky Sport F1
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/207.ts
 #EXTINF:-1 tvg-logo="http://www.liveonlinetv247.com/images/skysport3italia.png" group-title="Sky Sports", Sky Sport F1 Dsl Lente
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/206.ts
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.com/images/skysport3italia.png" group-title="Sky Sports", Sky Sport MotoGP
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/205.ts
 #EXTINF:-1 tvg-logo="http://www.liveonlinetv247.com/images/skysport3italia.png" group-title="Sky Sports", Sky Moto GP Dsl Lente
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/221.ts
 #EXTINF:-1 tvg-logo="http://www.liveonlinetv247.com/images/skysport3italia.png" group-title="Sky Sports", AutoMoto TV
@@ -580,8 +584,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/13889
 http://painel.soeu.kim:8080/vital/12345/3061
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/24d4faf34f6f4322b15ce117ea9923d6.jpg" group-title="Ziggo", Ziggo Sport Voetbal
 http://m-iptv.net:6204/jabar21/21jabar/9517
-#EXTINF:-1  tvg-name="NL- Ziggo Sport Racing" tvg-logo="http://www.vod-logo.net/photos/77f465fbf759d03d86aab0ee5728e99e.jpg" group-title="Ziggo", Ziggo Sport Racing
-http://m-iptv.net:6204/jabar21/21jabar/9519
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/70850eedfbc503c1f99cca5d0a096d79.jpg" group-title="Ziggo", Ziggo Sport Golf
 http://m-iptv.net:6204/jabar21/21jabar/9520
 #EXTINF:-1  tvg-name="NL- Ziggo Sport Extra 1" tvg-logo="http://www.vod-logo.net/photos/9fc88d440c6e4959137b2005a3ebfe87.jpg" group-title="Ziggo",  Ziggo Sport Extra 1
