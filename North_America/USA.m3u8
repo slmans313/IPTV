@@ -45,8 +45,6 @@ https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/cyU21ML.png" group-title="USA",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="USA",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_comedy_central.jpg" group-title="USA",Comedy Central
 http://p5.giffy.be:8080/cecilia/cecilia/85532
@@ -304,6 +302,9 @@ http://p5.giffy.be:8080/cecilia/cecilia/93063
 http://p5.giffy.be:8080/cecilia/cecilia/85813
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="Florida",CBS 4 Miami (WFOR)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="Florida",CBS 4 Miami HD (WFOR)
 http://p5.giffy.be:8080/cecilia/cecilia/93062
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSWINKNews.us.png" group-title="Florida", CBS 11 Fort Myers (WINK-TV)
@@ -402,6 +403,9 @@ http://p5.giffy.be:8080/cecilia/cecilia/85608
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Wabc_2013.png" group-title="New York", ABC 7 New York (WABC-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85844
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Wabc_2013.png" group-title="New York", ABC 7 New York HD (WABC-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/94275
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSKCBS.us.png" group-title="New York",CBS 2 New York (WCBS-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85544
 
@@ -453,6 +457,8 @@ http://p5.giffy.be:8080/cecilia/cecilia/85842
 http://p5.giffy.be:8080/cecilia/cecilia/85845
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/KDKA_Logo_2013.png/200px-KDKA_Logo_2013.png" group-title="Pennsylvania", CBS 2 Pittsburgh (KDKA)
 http://p5.giffy.be:8080/cecilia/cecilia/85833
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/KDKA_Logo_2013.png/200px-KDKA_Logo_2013.png" group-title="Pennsylvania", CBS 2 Pittsburgh HD (KDKA)
+http://p5.giffy.be:8080/cecilia/cecilia/94279
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WPGHFOX53.png" group-title="Pennsylvania",  Fox 53 Pittsburgh (WPGH)
 http://p5.giffy.be:8080/cecilia/cecilia/85832
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WPXI_11_logo.png" group-title="Pennsylvania", NBC 11 Pittsburgh(WPXI)
