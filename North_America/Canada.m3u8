@@ -156,8 +156,14 @@ http://p5.giffy.be:8080/cecilia/cecilia/26162
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HGTV.us.png" group-title="Cananda", HGTV
 http://p5.giffy.be:8080/cecilia/cecilia/21107
 
+#EXTINF:-1 tvg-logo="https://hifi.ca/wp-content/uploads/2018/09/HIFI-RGB-COLOUR-copy.png" group-title="Cananda", HIFI
+http://p5.giffy.be:8080/cecilia/cecilia/36576
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Joytvlogo.svg/1920px-Joytvlogo.svg.png" group-title="Cananda", JOY
 http://p5.giffy.be:8080/cecilia/cecilia/86179
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/Lifetime.uk.png" group-title="Cananda", Life Time
+http://p5.giffy.be:8080/cecilia/cecilia/21094
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/OWN_TV_Canada.png" group-title="Canada", OWN
 http://p5.giffy.be:8080/cecilia/cecilia/26454
@@ -167,6 +173,9 @@ http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/slice.png" group-title="Canada",Slice
 http://p5.giffy.be:8080/cecilia/cecilia/21095
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TCM.uk.png" group-title="Movies",TCM
+http://p5.giffy.be:8080/cecilia/cecilia/96530
 
 #EXTINF:-1 tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="Canada",Tele-Quebec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
@@ -215,17 +224,8 @@ http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="Canada",World Fishing Network
 http://p5.giffy.be:8080/cecilia/cecilia/85566
 
-#EXTINF:-1,CA | HIFI
-http://p5.giffy.be:8080/cecilia/cecilia/36576
-#EXTINF:-1,CA | HOPE TV..
-http://p5.giffy.be:8080/cecilia/cecilia/86180
-
-#EXTINF:-1,CA | LIFETIME
-http://p5.giffy.be:8080/cecilia/cecilia/21094
 #EXTINF:-1,CA | LOVE NATURE
 http://p5.giffy.be:8080/cecilia/cecilia/21505
-
-
 #EXTINF:-1,CA | OLN
 http://p5.giffy.be:8080/cecilia/cecilia/36569
 #EXTINF:-1,CA | OMNI 1
@@ -346,10 +346,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/96533
 http://p5.giffy.be:8080/cecilia/cecilia/96532
 #EXTINF:-1,CA | COMEDY GOLD
 http://p5.giffy.be:8080/cecilia/cecilia/96528
-#EXTINF:-1,CA | HPI
-http://p5.giffy.be:8080/cecilia/cecilia/96529
-#EXTINF:-1,CA | TCM*
-http://p5.giffy.be:8080/cecilia/cecilia/96530
 #EXTINF:-1,CAN-F | V MONTREAL*
 http://p5.giffy.be:8080/cecilia/cecilia/96536
 #EXTINF:-1,CA | FAMILY
