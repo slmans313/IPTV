@@ -42,6 +42,9 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_comedy_central.jpg" group-title="USA",Comedy Central
 http://p5.giffy.be:8080/cecilia/cecilia/85532
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/The_Cowboy_Channel.png" group-title="USA",Cowboy TV
+http://p5.giffy.be:8080/cecilia/cecilia/85530
+
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
@@ -63,14 +66,23 @@ http://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DestinationAmerica.us.png" group-title="USA",Destination America
 http://p5.giffy.be:8080/cecilia/cecilia/85526
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/1280px-DIY_Network_logo.svg.png" group-title="USA",DIY TV
+http://p5.giffy.be:8080/cecilia/cecilia/85528
+
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/ElRey.us.png" group-title="USA", El Rey TV
+http://p5.giffy.be:8080/cecilia/cecilia/85517
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/89e2e757528b704cae2a6a948f6fc0faa97b5cbba2b3fbf2acb9caac0b6bc632.png" group-title="USA",Flashback TV
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Freeform.us.png" group-title="USA",Freeform 
+http://p5.giffy.be:8080/cecilia/cecilia/85504
 
 #EXTINF:0 tvg-logo="http://i67.tinypic.com/dnkccm.jpg" group-title="USA",Fox News Talk Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 #EXTINF:0 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="USA",Fox
-http://gorillaiptv.online:25461/young/young/88
+http://p5.giffy.be:8080/cecilia/cecilia/94277
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PH1Gg4p.png" group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
@@ -153,7 +165,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/85433
 #EXTINF:-1 tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="USA",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FCSA.us.png" group-title="College Sports",FOX College Sports Atlantic
 http://p5.giffy.be:8080/cecilia/cecilia/91556
 
@@ -182,31 +193,11 @@ http://p5.giffy.be:8080/cecilia/cecilia/91547
 http://p5.giffy.be:8080/cecilia/cecilia/91549
 
 
-#EXTINF:-1,USA | COWBOY CHANNEL
-http://p5.giffy.be:8080/cecilia/cecilia/85530
-#EXTINF:-1,USA | COZI TV
-http://p5.giffy.be:8080/cecilia/cecilia/85540
-#EXTINF:-1,USA | CRIME & INVESTIGATION NETWORK
-http://p5.giffy.be:8080/cecilia/cecilia/85529
-#EXTINF:-1,USA | DIY NETWORK
-http://p5.giffy.be:8080/cecilia/cecilia/85528
-#EXTINF:-1,USA | EL REY NETWORK
-http://p5.giffy.be:8080/cecilia/cecilia/85517
-#EXTINF:-1,USA | EPIX
-http://p5.giffy.be:8080/cecilia/cecilia/85516
-#EXTINF:-1,USA | EPIX 2
-http://p5.giffy.be:8080/cecilia/cecilia/85515
-#EXTINF:-1,USA | EPIX HITS
-http://p5.giffy.be:8080/cecilia/cecilia/85514
-#EXTINF:-1,USA | FREEFORM
-http://p5.giffy.be:8080/cecilia/cecilia/85504
+
 #EXTINF:-1,USA | FXM
 http://p5.giffy.be:8080/cecilia/cecilia/85512
 #EXTINF:-1,USA | FYI
 http://p5.giffy.be:8080/cecilia/cecilia/85510
-
-#EXTINF:-1,USA | HISTORY CHANNEL
-http://p5.giffy.be:8080/cecilia/cecilia/85490
 #EXTINF:-1,USA | IFC
 http://p5.giffy.be:8080/cecilia/cecilia/85489
 #EXTINF:-1,USA | ION TV
