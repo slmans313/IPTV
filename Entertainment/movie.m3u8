@@ -15,8 +15,14 @@ http://p5.giffy.be:8080/cecilia/cecilia/85747
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Movies", Cinemax 
 http://p5.giffy.be:8080/cecilia/cecilia/85537
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MoreMax.us.png group-title="Movies", Cinemax MoreMax
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png" group-title="Movies", Cinemax  Actionmax
+http://p5.giffy.be:8080/cecilia/cecilia/85536
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MoreMax.us.png" group-title="Movies", Cinemax MoreMax
 http://p5.giffy.be:8080/cecilia/cecilia/85535
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png" group-title="Movies",Cinemax  Thrillermax
+http://p5.giffy.be:8080/cecilia/cecilia/85534
 
 #EXTINF:-1 tvg-logo="https://cdn.24.co.za/files/Cms/General/d/127/4846b11e8b1b4c1a866c4c428bbed264.jpg" group-title="Movies",Fox Premium Movies
 http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
@@ -27,8 +33,11 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HallmarkMoviesMysteries.us.png" group-title="Movies", Hallmark Movies
 http://p5.giffy.be:8080/cecilia/cecilia/85492
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Movies",HBO US
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/14350
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Movies",HBO
+http://p5.giffy.be:8080/cecilia/cecilia/42200
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBOFamily.us.png" group-title="Movies", HBO Family
+http://p5.giffy.be:8080/cecilia/cecilia/85498
 
 #EXTINF:-1,USA | HBO 2 EAST
 http://p5.giffy.be:8080/cecilia/cecilia/85501
@@ -37,9 +46,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/85499
 
 #EXTINF:-1,PPV | HBO 2 WEST
 http://p5.giffy.be:8080/cecilia/cecilia/61962
-#EXTINF:-1,PPV | HBO EAST.
-http://p5.giffy.be:8080/cecilia/cecilia/42200
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBOSignature.us.png" group-title="Movies", HBO Signature
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14482.ts
