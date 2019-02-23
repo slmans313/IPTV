@@ -51,28 +51,29 @@ http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="Canada",CPAC Francais
 http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNews.ca.png" group-title="Canada",CTV NEWS
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNews.ca.png" group-title="Canada",CTV News
 http://p5.giffy.be:8080/cecilia/cecilia/31446
 
-https://static.iptv-epg.com/ca/CTVTwoWindsor.ca.png
-#EXTINF:-1,CA | CTV 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVTwoWindsor.ca.png" group-title="Canada", CTV 2 Toronto (CKVR-DT)
 http://p5.giffy.be:8080/cecilia/cecilia/93123
 
-#EXTINF:-1,CA | CTV HALIFAX..
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNorthernOntario.ca.png" group-title="Canada", CTV Halifax (CJCH-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/86182
 
-
-#EXTINF:-1,CA | CTV OTTAWA
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNorthernOntario.ca.png" group-title="Canada", CTV Ottawa (CJOH-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/75987
 
-https://static.iptv-epg.com/ca/CTVTwoWindsor.ca.png
-#EXTINF:-1,CA | CTV2 OTTAWA
-http://p5.giffy.be:8080/cecilia/cecilia/75986
-#EXTINF:-1,CA | CTV VANCOUVER
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNorthernOntario.ca.png" group-title="Canada", CTV Vancouver (CHAN-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/94565
 
-#EXTINF:-1,CAN-F | CTV MONTREAL.
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNorthernOntario.ca.png" group-title="Canada", CTV Montreal (CFCF-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/76962
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVTwoWindsor.ca.png" group-title="Canada", CTV 2 Toronto (CKVR-DT)
+http://p5.giffy.be:8080/cecilia/cecilia/93123
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVTwoWindsor.ca.png" group-title="Canada", CTV Ottawa 2 (CHRO-TV)
+http://p5.giffy.be:8080/cecilia/cecilia/75986
 
 #EXTINF:-1 tvg-logo="http://www.fevatv.com/wp-content/uploads/2016/11/FAVICON-FEVA.png" group-title="Canada",FEVA TV
 https://vcnfevatv.teleosmedia.com/stream/fevatv/fevatv/seglist_720p.m3u8
@@ -107,7 +108,6 @@ http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="Canada",World Fishing Network
 http://p5.giffy.be:8080/cecilia/cecilia/85566
 
-
 #EXTINF:-1,CA | ACTION
 http://p5.giffy.be:8080/cecilia/cecilia/31527
 #EXTINF:-1,CA | AMC
@@ -126,7 +126,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/31299
 http://p5.giffy.be:8080/cecilia/cecilia/29962
 #EXTINF:-1,CA | CARTOON NETWORK
 http://p5.giffy.be:8080/cecilia/cecilia/21995
-
 #EXTINF:-1,CA | CMT
 http://p5.giffy.be:8080/cecilia/cecilia/31582
 #EXTINF:-1,CA | COMEDY
@@ -360,7 +359,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/92052
 http://p5.giffy.be:8080/cecilia/cecilia/64205
 #EXTINF:-1,CAN-F | ARTV
 http://p5.giffy.be:8080/cecilia/cecilia/93542
-
 #EXTINF:-1,CA | MOTOR TREND
 http://p5.giffy.be:8080/cecilia/cecilia/93784
 #EXTINF:-1,CA | HBO 1
@@ -381,7 +379,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/94279
 http://p5.giffy.be:8080/cecilia/cecilia/94278
 #EXTINF:-1,CA | DAYSTAR
 http://p5.giffy.be:8080/cecilia/cecilia/94274
-
 #EXTINF:-1,CAN-F | SERIES+
 http://p5.giffy.be:8080/cecilia/cecilia/92058
 #EXTINF:-1,PPV | CA | TMN 1
@@ -440,6 +437,5 @@ http://p5.giffy.be:8080/cecilia/cecilia/20727
 http://p5.giffy.be:8080/cecilia/cecilia/92059
 #EXTINF:-1,CA | DISNEY XD
 http://p5.giffy.be:8080/cecilia/cecilia/23200
-
 #EXTINF:-1,USA-S | GOLF CHANNEL
 http://p5.giffy.be:8080/cecilia/cecilia/85598
