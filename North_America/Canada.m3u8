@@ -2,34 +2,29 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="Canada",Assemblee Nationale du Quebec
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="Canada",CBC TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada",CBC Toronto
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="Canada",CBC TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada",CBC Toronto
 http://p5.giffy.be:8080/cecilia/cecilia/16517
-
-#EXTINF:-1,CA | CBC OTTAWA
-http://p5.giffy.be:8080/cecilia/cecilia/75985
-
-#EXTINF:-1,CA | CBC VANCOUVER
-http://p5.giffy.be:8080/cecilia/cecilia/93871
-
-#EXTINF:-1,CA | CBC CALGARY
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada",CBC Calgary
 http://p5.giffy.be:8080/cecilia/cecilia/94268
-
-#EXTINF:-1,CA | CBC HALIFAX
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada", CBC Halifax
 http://p5.giffy.be:8080/cecilia/cecilia/94272
-
-#EXTINF:-1,CA | CBC EDMONTON
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada", CBC Edmonton
 http://p5.giffy.be:8080/cecilia/cecilia/94269
-
-#EXTINF:-1,CAN-F | CBC MONTREAL
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada", CBC Montreal
 http://p5.giffy.be:8080/cecilia/cecilia/93545
-
-#EXTINF:-1,CA | CBC ST JOHNS
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada", CBC Montreal 
+http://p5.giffy.be:8080/cecilia/cecilia/35504
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada", CBC Montreal
+http://p5.giffy.be:8080/cecilia/cecilia/66081
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada", CBC CBC Ottawa 
+http://p5.giffy.be:8080/cecilia/cecilia/75985
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada", CBC Newfoundland
 http://p5.giffy.be:8080/cecilia/cecilia/94273
-
-#EXTINF:-1 tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="Canada",CBC News
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="Canada", CBC Vancouver
+http://p5.giffy.be:8080/cecilia/cecilia/93871
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBCNews.ca.png" group-title="Canada",CBC News
 http://p5.giffy.be:8080/cecilia/cecilia/28635
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="Canada",CHCH
@@ -42,8 +37,12 @@ http://p5.giffy.be:8080/cecilia/cecilia/86178
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="Canada", City TV Vancouver (CKVU-DT)
 http://p5.giffy.be:8080/cecilia/cecilia/27765
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="Canada", City TV Winnipeg (CHMI-DT)
-http://p5.giffy.be:8080/cecilia/cecilia/86177
+http://p5.giffy.be:8080/cecilia/cecilia/86177https://static.iptv-epg.com/ca/Cp24.ca.png
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/Cp24.ca.png" group-title="Canada",CP24
+http://p5.giffy.be:8080/cecilia/cecilia/82477
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/Cp24.ca.png" group-title="Canada",CP24
+http://p5.giffy.be:8080/cecilia/cecilia/94270
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="Canada",CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
@@ -134,7 +133,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/64206
 http://p5.giffy.be:8080/cecilia/cecilia/39983
 #EXTINF:-1,CA | COTTAGE LIFE
 http://p5.giffy.be:8080/cecilia/cecilia/26077
-
 #EXTINF:-1,CA | DEJAVIEW
 http://p5.giffy.be:8080/cecilia/cecilia/39986
 #EXTINF:-1,CA | DISCOVERY
@@ -227,10 +225,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/35507
 http://p5.giffy.be:8080/cecilia/cecilia/35506
 #EXTINF:-1,CAN-F CASA
 http://p5.giffy.be:8080/cecilia/cecilia/35505
-#EXTINF:-1,CAN-F CBC MONTREAL
-http://p5.giffy.be:8080/cecilia/cecilia/35504
-#EXTINF:-1,CAN-F CBC MONTREAL
-http://p5.giffy.be:8080/cecilia/cecilia/66081
 #EXTINF:-1,CAN-F CINEPOP
 http://p5.giffy.be:8080/cecilia/cecilia/35503
 #EXTINF:-1,CAN-F CPAC FRENCH
@@ -423,10 +417,6 @@ http://p5.giffy.be:8080/cecilia/cecilia/93555
 http://p5.giffy.be:8080/cecilia/cecilia/93554
 #EXTINF:-1,CA | CNN
 http://p5.giffy.be:8080/cecilia/cecilia/88214
-#EXTINF:-1,CA | CP24
-http://p5.giffy.be:8080/cecilia/cecilia/82477
-#EXTINF:-1,CA | CP24 (OPT 2)
-http://p5.giffy.be:8080/cecilia/cecilia/94270
 #EXTINF:-1,CA | THE WEATHER NETWORK
 http://p5.giffy.be:8080/cecilia/cecilia/39989
 #EXTINF:-1,CA | DISNEY
