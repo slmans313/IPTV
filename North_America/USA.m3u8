@@ -268,6 +268,9 @@ http://p5.giffy.be:8080/cecilia/cecilia/85600
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/NBC4KNBC.us.png" group-title="California", NBC Los Ăngeles (KNBC)
 http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png group-title="California", NBC San Diego (KNSD)
+http://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/master.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Comcast_Sportsnet_Bay_Area_logo.png" group-title="California",  NBC Sports Bay Area
 http://p5.giffy.be:8080/cecilia/cecilia/93089
 
@@ -444,6 +447,9 @@ http://p5.giffy.be:8080/cecilia/cecilia/85839
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/WTVD_2013_Logo.png" group-title="North Carolina",  ABC 11 Durham (WTVD-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85840
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="North Carolina", CW Charlotte (WCCB)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/KFYR5.png/200px-KFYR5.png" group-title="North Dakota", NBC North Dakota (KFYR-TV)
 http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
