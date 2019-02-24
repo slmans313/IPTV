@@ -201,6 +201,9 @@ http://p4.giffy.be:8080/sandy/1234/91556
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FCSC.us.png" group-title="College Sports", FOX College Sports Central
 http://p4.giffy.be:8080/sandy/1234/91555
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FCSP.us.png" group-title="College Sports", FOX College Sports Pacific
+http://31.220.1.190:8080/11223344/44332211/91533
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Arizona.us.png" group-title="College Sports", PAC-12 Arizona
 http://p4.giffy.be:8080/sandy/1234/91553
 
@@ -243,8 +246,11 @@ http://p4.giffy.be:8080/sandy/1234/85825
 #EXTINF:-1 tvg-logo="https://www.abc10.com/content/logos/mobile/kxtv.png" group-title="California",  ABC 10 Sacramento (KXTV)
 http://p4.giffy.be:8080/sandy/1234/85834
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="California", CBS 2 Los Angeles (KCBS-TV)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="California", CBS 2 Los Angeles (KCBS)
 http://p4.giffy.be:8080/sandy/1234/85543
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo.png group-title="California", CBS 9 Los Angeles (KCAL)
+http://31.220.1.190:8080/11223344/44332211/164249
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="California", Fox 5 San Diego (KSWB-TV)
 http://livestream-f.akamaihd.net/9263055_3189799_lsiif62v9mml0go7vgs_1_2320@176803?v=3.0.3&fp=WIN%25+14%2C0%2C0%2C145
@@ -298,6 +304,9 @@ http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSNWashington.us.png" group-title="DC", NBC Sports Washington
 http://p4.giffy.be:8080/sandy/1234/85580
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/WWSB_2018_Logo.png" group-title="Florida", ABC 7 Florida (WWSB)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Wftvhd.png" group-title="Florida", ABC 9 Orlando (WFTV)
 http://p4.giffy.be:8080/sandy/1234/85829
 
@@ -316,8 +325,9 @@ http://p4.giffy.be:8080/sandy/1234/85431
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/WSVN_7_Miami_logo.png/175px-WSVN_7_Miami_logo.png" group-title="Florida", FOX 7 (WSVN)
 http://p4.giffy.be:8080/sandy/1234/92958
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/WWSB_2018_Logo.png" group-title="Florida", ABC 7 Florida (WWSB)
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/WFOX-TV_logo.png/300px-WFOX-TV_logo.png" group-title="Florida",FOX 30 Jaxonville (WFOX)
+http://31.220.1.190:8080/11223344/44332211/105894
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsFlorida.us.png" group-title="Florida", FOX Sports Florida
 http://p4.giffy.be:8080/sandy/1234/85609
@@ -391,11 +401,17 @@ http://p4.giffy.be:8080/sandy/1234/85811
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WMAR_2018_logo.png" group-title="Maryland", ABC 2 Baltimore (WMAR-TV)
 http://p4.giffy.be:8080/sandy/1234/85816
 
-#EXTINF:-1 tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wcvb/logo.png" group-title="Massachusetts" , ABC 5 Boston (WCVB-TV) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Wbff_2008.png/300px-Wbff_2008.png" group-title="Maryland",FOX 45 Baltimore (WBFF)
+http://31.220.1.190:8080/11223344/44332211/138434
+
+#EXTINF:-1 tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wcvb/logo.png" group-title="Massachusetts", ABC 5 Boston (WCVB-TV) 
 http://p4.giffy.be:8080/sandy/1234/85822
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/WBZ_Logo_2014.png" group-title="Massachusetts",CBS 4 Boston (WBZ)
+http://31.220.1.190:8080/11223344/44332211/164250
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/WFXT_Boston_25_logo.png" group-title="Massachusetts",FOX 25 Boston (WFXT)
-https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/master.m3u8
+http://31.220.1.190:8080/11223344/44332211/138437
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Massachusetts",WHDH 7 Boston
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
@@ -417,6 +433,9 @@ http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/WXYZ_2012_Logo.png" group-title="Michigan", ABC 7 Detroit (WXYZ-TV)
 http://p4.giffy.be:8080/sandy/1234/85821
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Wjbk-logo.png group-title="Michigan",FOX 2 Detroit (WJBK)
+http://31.220.1.190:8080/11223344/44332211/164251
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsDetroit.us.png" group-title="Michigan", FOX Sports Detroit
 http://p4.giffy.be:8080/sandy/1234/85610
