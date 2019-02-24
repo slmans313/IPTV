@@ -3,8 +3,14 @@
 #EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" group-title="Russia (Россия)",  Крым 24
 http://vid.techbee.pro:8080/crimea24/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SonyTV%20Logos/Channel%20One%20Russia/ChannelOneRussia_140x140.png" group-title="Russia (Россия)", Первый канал
+http://81.177.222.193:4022/udp/232.0.3.1:1234
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)", Россия-1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1280px-Rossiya-24_Logo.svg.png" group-title="Russia (Россия)", Россия-24
+http://37.235.182.27:81/udp/225.50.66.86:1234
 
 #EXTINF:-1 tvg-logo="http://s.glaz.tv/images/logos/tv/big/boec-tv.jpg" group-title="Russia (Россия)",Боец ТВ
 http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/870/index.m3u8
