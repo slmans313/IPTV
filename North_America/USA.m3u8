@@ -287,10 +287,16 @@ http://p5.giffy.be:8080/cecilia/cecilia/85824
 #EXTINF:-1 tvg-logo="https://norwalkcosmeticdentist.com/wp-content/uploads/2016/02/news12-logo-ct.png" group-title="Connecticut", News 12 Connecticut
 http://p5.giffy.be:8080/cecilia/cecilia/28294
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_of_WJLA-TV.png" group-title="DC", ABC 7 Washington (WJLA-TV)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_of_WTTG-TV.png",Fox 5 DC (WTTG)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",Fox 5 DC Plus (WDCA)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_of_WJLA-TV.png" group-title="DC", ABC 7 DC (WJLA)
 http://p5.giffy.be:8080/cecilia/cecilia/85823
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_of_WJLA-TV.png" group-title="DC", NBC 4 Washington  (WRC-TV)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="DC", NBC 4 DC (WRC)
 http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSNWashington.us.png" group-title="DC", NBC Sports Washington
@@ -311,7 +317,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSWINKNews.us.png" group-title="Florida", CBS 11 Fort Myers (WINK-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85431
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/WSVN_7_Miami_logo.png/175px-WSVN_7_Miami_logo.png" group-title="Florida", FOX 7 HD (WSVN)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/WSVN_7_Miami_logo.png/175px-WSVN_7_Miami_logo.png" group-title="Florida", FOX 7 (WSVN)
 http://p5.giffy.be:8080/cecilia/cecilia/92958
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/WWSB_2018_Logo.png" group-title="Florida", ABC 7 Florida (WWSB)
@@ -492,6 +498,9 @@ http://p5.giffy.be:8080/cecilia/cecilia/85830
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/NBC_Sports_Philadelphia.jpg" group-title="Pennsylvania", NBC Sports Philadelphia
 http://p5.giffy.be:8080/cecilia/cecilia/85581
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Texas", NBC 9 Odessa (KWES)
+https://api.new.livestream.com/accounts/16923548/events/4681078/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/ABC_13_KTRK_Houston_2013_logo.png" group-title="Texas", ABC 13 Houston (KTRK-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85827
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KSAT_2013_Logo.png" group-title="Texas", ABC 12 San Antonio (KSAT-TV)
@@ -510,6 +519,12 @@ http://p5.giffy.be:8080/cecilia/cecilia/85599
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/New_KTVX_Logo.png" group-title="Utah", ABC 4 Utah (KTVX)
 http://p5.giffy.be:8080/cecilia/cecilia/85835
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/WWBT_NBC_12_logo.svg/1200px-WWBT_NBC_12_logo.svg.png group-title="Virginia", NBC 12 Richmond (WWBT)
+https://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/WVIR.png" group-title="Virginia", NBC 29 (WVIR-TV)
+http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=530806100000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="Virgin Islands", WSVI-TV
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
