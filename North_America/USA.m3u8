@@ -322,6 +322,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSWINKNews.us.png" group-title="Florida", CBS 11 Fort Myers (WINK-TV)
 http://p4.giffy.be:8080/sandy/1234/85431
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/WSVN_7_Miami_logo.png/175px-WSVN_7_Miami_logo.png" group-title="Florida", FOX 7 (WSVN)
 http://p4.giffy.be:8080/sandy/1234/92958
 
@@ -351,7 +352,7 @@ http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 https://goo.gl/6LuaNF 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/516kgR-b7XL._SL210_QL95_BG0,0,0,0_FMpng_.png" group-title="Georgia",FOX 5 Atlanta (WAGA-TV)
-http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
+http://31.220.1.190:8080/11223344/44332211/160002
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="Georgia", Fox 28 Savannah (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
@@ -452,6 +453,9 @@ http://p4.giffy.be:8080/sandy/1234/85815
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsMidwest.us.png" group-title="Missouri", FOX Sports Midwest
 http://p4.giffy.be:8080/sandy/1234/85608
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/330px-WWOR_NewJersey.svg.png" group-title="New Jersey", MY 9 (WWOR)
+http://31.220.1.190:8080/11223344/44332211/92807
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Wabc_2013.png" group-title="New York", ABC 7 New York (WABC-TV)
 http://p4.giffy.be:8080/sandy/1234/85844
 
@@ -485,8 +489,14 @@ http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/KFYR5.png/200px-KFYR5.png" group-title="North Dakota", NBC North Dakota (KFYR-TV)
 http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WRAL-TV_logo.png" group-title="North Carolina", NBC Raleigh 5 (WRAL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WRAL-TV_logo.png" group-title="North Carolina", FOX 50 Raleigh (WRAZ)
+http://31.220.1.190:8080/11223344/44332211/77109
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WRAL-TV_logo.png" group-title="North Carolina", NBC 5 Raleigh (WRAL)
 http://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:encoder25-high/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/KOKI23.png" group-title="Oklahoma", FOX 23 Tulsa (KOKI)
+http://31.220.1.190:8080/11223344/44332211/103730
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/WEWS-TV_-_News_Net_5_logo.png" group-title="Ohio", ABC 5 Cleveland (WEWS-TV)
 http://p4.giffy.be:8080/sandy/1234/85826
@@ -515,6 +525,8 @@ http://p4.giffy.be:8080/sandy/1234/85842
 http://p4.giffy.be:8080/sandy/1234/85845
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/KDKA_Logo_2013.png/200px-KDKA_Logo_2013.png" group-title="Pennsylvania", CBS 2 Pittsburgh (KDKA)
 http://p4.giffy.be:8080/sandy/1234/85833
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WPMT_43_logo.png" group-title="Pennsylvania",  FOX 43 York (WPMT)
+http://31.220.1.190:8080/11223344/44332211/76443
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WPGHFOX53.png" group-title="Pennsylvania",  Fox 53 Pittsburgh (WPGH)
 http://p4.giffy.be:8080/sandy/1234/85832
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WPXI_11_logo.png" group-title="Pennsylvania", NBC 11 Pittsburgh(WPXI)
