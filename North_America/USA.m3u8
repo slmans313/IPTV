@@ -359,6 +359,9 @@ http://p5.giffy.be:8080/cecilia/cecilia/85603
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsSoutheast.us.png" group-title="Georgia", FOX Sports Southeast
 http://p5.giffy.be:8080/cecilia/cecilia/85615
 
+#EXTINF:-1 tvg-logo=="https://en.wikipedia.org/wiki/File:WLTZ_2007.png" group-title="Georgia",NBC 38 Columbus (WLTZ)
+https://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Peachtree.png" group-title="Georgia", Peachtree (WPCH-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/30891
 
@@ -379,6 +382,9 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1200px-NBC_Sports_Chicago_Logo.svg.png" group-title="Illinois", NBC Sports Chicago
 http://p5.giffy.be:8080/cecilia/cecilia/93086
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/WHO-TV_logo.png" group-title="Iowa", NBC 13 Des Moines (WHO-DT)
+https://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" group-title="Iowa",PATV
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
@@ -463,6 +469,9 @@ http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/KFYR5.png/200px-KFYR5.png" group-title="North Dakota", NBC North Dakota (KFYR-TV)
 http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WRAL-TV_logo.png" group-title="North Carolina", NBC Raleigh 5 (WRAL)
+http://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:encoder25-high/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/WEWS-TV_-_News_Net_5_logo.png" group-title="Ohio", ABC 5 Cleveland (WEWS-TV)
 http://p5.giffy.be:8080/cecilia/cecilia/85826
