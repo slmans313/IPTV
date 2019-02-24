@@ -265,11 +265,15 @@ http://p5.giffy.be:8080/cecilia/cecilia/85604
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Fox_Sports_West_2012_logo.png/200px-Fox_Sports_West_2012_logo.png" group-title="California",Fox Sports West
 http://p5.giffy.be:8080/cecilia/cecilia/85600
 
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/NBC4KNBC.us.png" group-title="California", NBC Los Ăngeles (KNBC)
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/NBC4KNBC.us.png" group-title="California", NBC 4 Los Ăngeles (KNBC)
 http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png group-title="California", NBC San Diego (KNSD)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png group-title="California", NBC 7 San Diego (KNSD)
 http://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/KNVN-TV_NBC_24_2013_Logo.png/225px-KNVN-TV_NBC_24_2013_Logo.png" group-title="California", NBC 24 Chico (KNVN)
+https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Comcast_Sportsnet_Bay_Area_logo.png" group-title="California",  NBC Sports Bay Area
 http://p5.giffy.be:8080/cecilia/cecilia/93089
