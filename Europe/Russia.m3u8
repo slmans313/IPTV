@@ -3,23 +3,11 @@
 #EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" group-title="Russia (Россия)",  Крым 24
 http://vid.techbee.pro:8080/crimea24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.globecast.com/wp-content/uploads/2017/08/Channel-1-russia.png" group-title="Russia (Россия)", Первый канал
-http://p5.giffy.be:8080/cecilia/cecilia/94578
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)", Россия-1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b400000.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)", Россия-1
-http://p5.giffy.be:8080/cecilia/cecilia/26575
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Sport-1-Russia.png" group-title="Russia (Россия)", Спорт-1
-http://p5.giffy.be:8080/cecilia/cecilia/26588
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Sport-1-Russia.png" group-title="Russia (Россия)", Спорт-1
-http://p5.giffy.be:8080/cecilia/cecilia/26587
-
 #EXTINF:-1 tvg-logo="http://s.glaz.tv/images/logos/tv/big/boec-tv.jpg" group-title="Russia (Россия)",Боец ТВ
-http://p5.giffy.be:8080/cecilia/cecilia/26584
+http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/870/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://hlamer.ru/content/user-photo/349/349055/2e478160030b07ee_original.jpg" group-title="Russia (Россия)",8 Kanal
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
@@ -31,7 +19,7 @@ http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
 http://109.68.40.67/life/magnolia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ucom.am/imgs/news/1/14746288043768.png" group-title="Russia (Россия)", Русский Экстрим
-http://p5.giffy.be:8080/cecilia/cecilia/26582
+http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/144/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Russia (Россия)",First Music 1
 http://rtmp.one.by:2300/
@@ -150,8 +138,9 @@ http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/224/29_tjumenskoe-vremja.jpg" group-title="Russia (Россия)",Tjumenskoe Vremja
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatSport.ru.png" group-title="Russia (Россия)", Viasat Sport
-http://p5.giffy.be:8080/cecilia/cecilia/26583
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatExplore.ru.png" group-title="Russia (Россия)", Viasat Explore
+http://stream.euroasia.lfstrm.tv/viasat_explore/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatSport.ru.png" group-title="Russia (Россия)", Viasat Sport
 http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/208/index.m3u8
@@ -200,7 +189,3 @@ http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.Moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="Moldova",TV Elita
 http://46.55.111.242:8080/Rezina.m3u8
-
-
-#EXTINF:-1,RUS: MATCH PLANET
-http://p5.giffy.be:8080/cecilia/cecilia/26586
