@@ -97,11 +97,11 @@ http://linux-app.tv:6204/yous/123/14428
 http://p4.giffy.be:8080/sandy/1234/13890
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="BT Sports",BT Sport 1
-http://p4.giffy.be:8080/sandy/1234/85613
+http://p4.giffy.be:8080/sandy/1234/91591
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="BT Sports",BT Sport 2
-http://p4.giffy.be:8080/sandy/1234/85612
+http://p4.giffy.be:8080/sandy/1234/85627
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="BT Sports",BT Sport 3
-http://p4.giffy.be:8080/sandy/1234/91593
+http://p4.giffy.be:8080/sandy/1234/85626
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="BT Sports", BT Sport ESPN
 http://p4.giffy.be:8080/sandy/1234/61740
 
@@ -137,6 +137,15 @@ http://p4.giffy.be:8080/sandy/1234/95040
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ElevenSports.us.png" group-title="Eleven Sports", Eleven Sports 3 (Portugal)
 http://p4.giffy.be:8080/sandy/1234/95039
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport.sk.png" group-title="Digi Sport", Digi Sport 1
+http://p5.giffy.be:8080/cecilia/cecilia/84710
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport2.sk.png" group-title="Digi Sport",Digi Sport 2
+http://p5.giffy.be:8080/cecilia/cecilia/84709
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport3.sk.png" group-title="Digi Sport", Digi Sport 3
+http://p5.giffy.be:8080/cecilia/cecilia/84708
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport4.sk.png" group-title="Digi Sport", Digi Sport 4
+http://p5.giffy.be:8080/cecilia/cecilia/84707
+
 
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Eleven Sports",Eleven Sports 1 (台湾)
@@ -163,21 +172,37 @@ http://p4.giffy.be:8080/sandy/1234/91557
 http://p4.giffy.be:8080/sandy/1234/85693
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", Eurosport 2
 http://p4.giffy.be:8080/sandy/1234/85692
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", Eurosport 1 Italy
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport",EuroSport 1 Francais
+http://p4.giffy.be:8080/sandy/1234/96608
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", EuroSport 2 Francais
+http://p4.giffy.be:8080/sandy/1234/96607
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", Eurosport 1 Italia
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/372.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", Eurosport 2 Italy
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", Eurosport 2 Italia
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/373.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", EuroSport 1 Nederland
+http://linux-app.tv:6204/yous/123/9570
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", EuroSport 2 Nederland
+http://linux-app.tv:6204/yous/123/9569
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Eurosport1.pt.png" group-title="Eurosport",Eurosport 1 Português
+http://p4.giffy.be:8080/sandy/1234/95059
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Eurosport2.pt.png" group-title="Eurosport",Eurosport 2 Português
+http://p4.giffy.be:8080/sandy/1234/95058
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png group-title="Eurosport", Eurosport 1 Россия
+http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/228/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", Eurosport 2 Россия
+http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/234/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="Fox Sports",Fox sport 1 (USA)
-http://p4.giffy.be:8080/sandy/1234/13878
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Fox Sports",Fox sport 2 (USA)
-http://p4.giffy.be:8080/sandy/1234/13879
+#EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs1.png" group-title="Fox Sports",Fox sport 1 (USA)
+http://p4.giffy.be:8080/sandy/1234/85613
+#EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs2.png" group-title="Fox Sports",Fox sport 2 (USA)
+http://p4.giffy.be:8080/sandy/1234/85612
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Fox Sports",Fox sport 1 (Asia)
 http://forsat.men:8888/gunis/WOGtGUJbZD/1475
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Fox Sports",Fox sport 2 (Asia)
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports2.us.png" group-title="Fox Sports",Fox sport 2 (Asia)
 http://tduc.tk/live/fspo2-.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Fox Sports",Fox sport 3 (Asia)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Fox Sports",Fox sport 3 (Asia)
 http://tduc.tk/live/fspo3-.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOXSoccerPlus.us.png" group-title="Fox Sports", Fox Soccer Plus 
@@ -186,9 +211,9 @@ http://p4.giffy.be:8080/sandy/1234/85614
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Fox Sports", Fox Sport 1 Netherlands
 http://linux-app.tv:6204/yous/123/9561
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Fox Sports", Fox Sport 2 Netherlands
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports2.us.png" group-title="Fox Sports", Fox Sport 2 Netherlands
 http://linux-app.tv:6204/yous/123/9560
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Fox Sports", Fox Sport 3 Netherlands
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Fox Sports", Fox Sport 3 Netherlands
 http://linux-app.tv:6204/yous/123/9559
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Fox Sports", Fox Sport 4 Netherlands
 http://linux-app.tv:6204/yous/123/9558
@@ -198,9 +223,9 @@ http://linux-app.tv:6204/yous/123/9557
 http://linux-app.tv:6204/yous/123/9556
 
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1069.png" group-title="Fox Sports", Fox Sport 3 (台湾)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Fox Sports", Fox Sport 3 (台湾)
 http://61.216.10.122:4047/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1069.png" group-title="Fox Sports", Fox Sport 3 (台湾)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Fox Sports", Fox Sport 3 (台湾)
 http://122.146.68.116:4047/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="Football", LaLiga TV
