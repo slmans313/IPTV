@@ -88,7 +88,7 @@ http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",Kompas TV
 http://210.210.155.35/session/e37747f0-f5aa-11e8-a629-b82a72d63267/qwr9ew/s/s09/01.m3u8
-#EXTINF:0 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia",Metro HD
+#EXTINF:0 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia",Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Indonesia",MNC TV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -133,7 +133,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://ch3-28.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/2/2a/Channel_13_Logo.png/270px-Channel_13_Logo.png" group-title="Thailand (ประเทศไทย)",Ch 3 Family
 https://u2.adintrend.com/live/ch40/i/ch40i.m3u8?sid=cjeNTQ3MmJiZTE1Y2IzYmE2N2QzYwMTQ5N2YzZGYxNjZhYzMw
-#EXTINF:0 tvg-logo="http://thumbnail.instardara.com/channel/3HD.jpg" group-title="Thailand (ประเทศไทย)",Ch 3 HD
+#EXTINF:0 tvg-logo="http://thumbnail.instardara.com/channel/3HD.jpg" group-title="Thailand (ประเทศไทย)",Ch 3
 http://ch3-33.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand (ประเทศไทย)",Ch 5
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
@@ -201,9 +201,9 @@ http://p4.giffy.be:8080/sandy/1234/90895
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="Phillippines(Pilipinas)",  TFC
 http://p4.giffy.be:8080/sandy/1234/90888
 
-#EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/7/csm_12-400_import_f5aa06c50f.png" group-title="Cambodia( កម្ពុជា ) ",  Hang Meas HDTV
+#EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/7/csm_12-400_import_f5aa06c50f.png" group-title="Cambodia( កម្ពុជា ) ",  Hang MeasTV
 http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w469404394_b328000_sleng.m3u8
-#EXTINF:0 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="Cambodia( កម្ពុជា ) ",  Reaksmey Hang Meas HDTV
+#EXTINF:0 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="Cambodia( កម្ពុជា ) ",  Reaksmey Hang MeasTV
 http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/chunklist_w1716125825_b328000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/6/csm_18-400_import_9245798e06.png" group-title="Cambodia( កម្ពុជា ) ",  SEA TV
 http://203.189.147.211:1935/live/myStream_720p/chunklist.m3u8
@@ -304,7 +304,7 @@ http://vtsstr4.sctv.vn:1935/testlive1/SCTV18_HD_4/playlist.m3u8
 http://vtsstr4.sctv.vn:1935/testlive/SCTV19_HD_4/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png" group-title="Vietnam(Việt Nam)",SCTV 20
 http://vtsstr4.sctv.vn:1935/testlive/SCTV20_HD_4/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/108/logo26072108_sctv-phimTHHD.png" group-title="Vietnam(Việt Nam)",SCTV HD Phim Tổng Hợp
+#EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/108/logo26072108_sctv-phimTHHD.png" group-title="Vietnam(Việt Nam)",SCTV Phim Tổng Hợp
 http://vtsstr4.sctv.vn:1935/testlive/SCTVHDPhimTH_4/chunklist.b2692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_140032.png" group-title="Vietnam(Việt Nam)",STV1
