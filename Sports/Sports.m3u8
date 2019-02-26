@@ -23,14 +23,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLB
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="Asian Sports Channel", Astro SuperSport 1
-http://31.220.1.190:80/Fran%C3%A7ois/12345/147234
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Asian Sports Channel", Astro SuperSport 2
-http://31.220.1.190:80/Fran%C3%A7ois/12345/147235
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_300.png" group-title="Asian Sports Channel", Astro SuperSport 3
-http://31.220.1.190:80/Fran%C3%A7ois/12345/147236
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/817_300.png" group-title="Asian Sports Channel", Astro SuperSport 4
-http://31.220.1.190:80/Fran%C3%A7ois/12345/147237
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="Asian Sports Channel", Astro SuperSport 1
 http://203.154.243.89:1204
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Asian Sports Channel", Astro SuperSport 2
 http://203.154.243.89:1206
@@ -39,37 +31,11 @@ http://203.154.243.89:1207
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/817_300.png" group-title="Asian Sports Channel", Astro SuperSport 4
 http://203.154.243.89:1211
 
-#EXTINF:0 tvg-logo="https://static-stage.tv24.vn/channel/119/logo26072108_BTV5-HD.png" group-title="Asian Sports Channel",BTV 5 Sports (Việt Nam)
-http://vtsstr4.sctv.vn:1935/testlive1/btv5_HD_4/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://tv-online.in/wp-content/uploads/2012/11/SCTV-15-TV.jpg" group-title="Asian Sports Channel", SCTV 15 (Việt Nam)
-http://vtsstr4.sctv.vn:1935/testlive/SCTV_HD_TheThao_4/CDAM.m3u8
-
-#EXTINF:0 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_sctv171.png" group-title="Asian Sports Channel", SCTV 17 (Việt Nam)
-http://vtsstr4.sctv.vn:1935/testlive1/SCTV17_HD_4/CDAM.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" group-title="Asian Sports Channel",CCTV-5 体育频道
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B体育赛事.png" group-title="Asian Sports Channel",CCTV-5+ 体育赛事频道
 http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Asian Sports Channel",Fox sport 1 (Asia)
-http://forsat.men:8888/gunis/WOGtGUJbZD/1475
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports2.us.png" group-title="Asian Sports Channel",Fox sport 2 (Asia)
-http://tduc.tk/live/fspo2-.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel",Fox sport 3 (Asia)
-http://tduc.tk/live/fspo3-.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel", Fox Sport 3 (台湾)
-http://61.216.10.122:4047/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel", Fox Sport 3 (台湾)
-http://122.146.68.116:4047/VideoInput/play.ts
-
-#EXTINF:-1 logo="https://i.imgur.com/HshBhGe.png"  group-title="Asian Sports Channel", JTBC3 Fox Sports (폭스 스포츠)
-http://116.45.184.224:9981/stream/channelid/563632510?ticket=92AFD3FD060FBFA61204C1DF9760E924FB61CDE4&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdty.jpg" group-title="Asian Sports Channel", 山东体育
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000057/index.m3u8
@@ -79,6 +45,21 @@ http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="Asian Sports Channel",Eleven Sports 2 (台湾)
 http://cdn6.woideas.com/11sp.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports2.us.png" group-title="Asian Sports Channel",Fox sport 2 (Asia)
+http://tduc.tk/live/fspo2-.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel",Fox sport 3 (Asia)
+http://tduc.tk/live/fspo3-.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel", Fox Sport 3 (台湾)
+http://61.216.10.122:4047/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel", Fox Sport 3 (台湾)
+http://122.146.68.116:4047/VideoInput/play.ts
+
+#EXTINF:-1 logo="https://i.imgur.com/HshBhGe.png"  group-title="Asian Sports Channel", JTBC3 Fox Sports (폭스 스포츠)
+http://116.45.184.224:9981/stream/channelid/563632510?ticket=92AFD3FD060FBFA61204C1DF9760E924FB61CDE4&profile=pass
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-OEx5h4fWGEs/W1EQhAgr9JI/AAAAAAAAAFU/9MHJYC1xiuMDPYZIWn2EqtaxMXX-AsoMwCLcBGAs/s1600/TVRI%2BALGHI.jpg" group-title="Asian Sports Channel",TVRI Sports
+http://210.210.155.35/session/8dc2906e-1a3d-11e9-b2c3-8aac890eb9f3/qwr9ew/s/s48/index.m3u8
 
 
 
