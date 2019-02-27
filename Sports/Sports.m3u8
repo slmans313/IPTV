@@ -4,6 +4,8 @@
 http://31.220.1.190:8080/11223344/44332211/138287
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="American Sports Channel", NBC Sports
 http://p4.giffy.be:8080/sandy/1234/93085
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="American Sports Channel", NBC Golf
+http://31.220.1.190:8080/11223344/44332211/95151
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="American Sports Channel", Olympic Channel
 http://p4.giffy.be:8080/sandy/1234/85576
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="American Sports Channel", NFL Network
@@ -14,8 +16,6 @@ http://p4.giffy.be:8080/sandy/1234/79684
 http://p4.giffy.be:8080/sandy/1234/85577
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="American Sports Channel",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/200px-Dallas_Mavericks_logo.svg.png" group-title="American Sports Channel", MAVS TV HD
-http://31.220.1.190:8080/11223344/44332211/105908
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="Asian Sports Channel", Astro SuperSport 1
 http://203.154.243.89:1204
@@ -74,7 +74,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bahrain_sport1.jpg" group-title="Asian Sports Channel", Bahrain Sport 
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Asian Sports Channel", Dubai Sports (UEA)
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Asian Sports Channel", Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv_sport_95x84.gif" group-title="Asian Sports Channel", Kuwait Sports
@@ -82,6 +82,23 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/irib3.png" group-title="Asian Sports Channel", IRIB 3 (Iran)
 https://sl11.telewebion.com/devices/_definst_/tv3-500k.stream/chunks.m3u8?nimblesessionid=3981814&wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvMjcvMjAxOSA4OjQ4OjggQU0maGFzaF92YWx1ZT1aYmhRcnJkVDZNeUdTYjdUL1pZNllnPT0mdmFsaWRtaW51dGVzPTYwMDA=
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1.png" group-title="Arena Sports", Arena Sports 1
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA2.png" group-title="Arena Sports", Arena Sports 2
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA3.png" group-title="Arena Sports", Arena Sports 3
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4.png" group-title="Arena Sports", Arena Sports 4
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA5.png" group-title="Arena Sports", Arena Sports 5
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena4.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN SPORTS", beIN Sports 1
 http://p4.giffy.be:8080/sandy/1234/96445
