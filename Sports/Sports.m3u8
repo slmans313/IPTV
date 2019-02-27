@@ -318,21 +318,6 @@ http://31.220.1.190:8080/11223344/44332211/65357
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.hr/images/logo-arenaA6-big.png" group-title="European Sports Channel", Arena Sports 6
 http://31.220.1.190:8080/11223344/44332211/65362
 
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1.png" group-title="Arena Sports", Arena Sports 1
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA2.png" group-title="Arena Sports", Arena Sports 2
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA3.png" group-title="Arena Sports", Arena Sports 3
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4.png" group-title="Arena Sports", Arena Sports 4
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena4.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA5.png" group-title="Arena Sports", Arena Sports 5
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena5.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport.sk.png" group-title="European Sports Channel", Digi Sport 1
 http://31.220.1.190:8080/11223344/44332211/65872
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport2.sk.png" group-title="European Sports Channel",Digi Sport 2
@@ -593,9 +578,29 @@ http://31.220.1.190:8080/11223344/44332211/197965
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/ustvwt1462891711.png" group-title="Sky Sports",  Sky Sport Austria
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41042
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SkySport1.de.png" group-title="Sky Sports", Sky Sport Germany
 http://31.220.1.190:8080/11223344/44332211/163741
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SkySport1.de.png" group-title="Sky Sports", Sky Sport Germany
+http://31.220.1.190:8080/11223344/44332211/129290
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://31.220.1.190:8080/11223344/44332211/129291
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://31.220.1.190:8080/11223344/44332211/192586
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://31.220.1.190:8080/11223344/44332211/175640
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://31.220.1.190:8080/11223344/44332211/64797
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://31.220.1.190:8080/11223344/44332211/64796
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://31.220.1.190:8080/11223344/44332211/64795
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://31.220.1.190:8080/11223344/44332211/87043
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://31.220.1.190:8080/11223344/44332211/87044
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://31.220.1.190:8080/11223344/44332211/94081
+
+
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/363.png" group-title="Sky Sports", Sky Sport Bundesliga 1
 http://31.220.1.190:8080/11223344/44332211/198070
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/217.png" group-title="Sky Sports", Sky Sport Bundesliga 2
