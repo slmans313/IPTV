@@ -4,8 +4,6 @@
 http://31.220.1.190:8080/11223344/44332211/138287
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="American Sports Channel", NBC Sports
 http://31.220.1.190:8080/11223344/44332211/75133
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="American Sports Channel", NBC Golf
-http://31.220.1.190:8080/11223344/44332211/95151
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="American Sports Channel", Olympic Channel
 http://p4.giffy.be:8080/sandy/1234/85576
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="American Sports Channel", NFL Network
@@ -412,8 +410,6 @@ http://31.220.1.190:8080/11223344/44332211/65193
 http://31.220.1.190:8080/11223344/44332211/111045
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="European Sports Channel", Ziggo Sport Golf
 http://31.220.1.190:8080/11223344/44332211/111044
-#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/157/icon-size-256.png" group-title="European Sports Channel", Ziggo Sport Racing
-http://31.220.1.190:8080/11223344/44332211/65189
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/82/icon-size-256.png" group-title="European Sports Channel", Ziggo Sport Extra 1
 http://31.220.1.190:8080/11223344/44332211/106528
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/152/icon-size-256.png" group-title="European Sports Channel", Ziggo Sport Extra 2
@@ -488,9 +484,13 @@ http://31.220.1.190:8080/11223344/44332211/198111
 http://31.220.1.190:8080/11223344/44332211/198112
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Flow Sports",Flow Sports 5
 http://31.220.1.190:8080/11223344/44332211/198113
-#EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Flow Sports ",Flow Sports 6
-http://p4.giffy.be:8080/sandy/1234/93262
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
+http://31.220.1.190:8080/11223344/44332211/95151
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf",Sky Sports Golf
+http://31.220.1.190:8080/11223344/44332211/197957
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Golf", Ziggo Sport Golf
+http://31.220.1.190:8080/11223344/44332211/111044
 
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/it/ClassHorseTV.it.png" group-title="Horse Racing",Class Horse
@@ -541,6 +541,8 @@ http://31.220.1.190:8080/11223344/44332211/197954
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/207.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Sky_sport_motogp_hd.jpg" group-title="Racing", Sky Sport MotoGP
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/205.ts
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/157/icon-size-256.png" group-title="Racing", Ziggo Sport Racing
+http://31.220.1.190:8080/11223344/44332211/65189
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sky Sports",Sky Sports Action
 http://31.220.1.190:8080/11223344/44332211/197946
@@ -548,8 +550,6 @@ http://31.220.1.190:8080/11223344/44332211/197946
 http://31.220.1.190:8080/11223344/44332211/197948
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Sky Sports",Sky Sports Cricket
 http://31.220.1.190:8080/11223344/44332211/197951
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Sky Sports",Sky Sports Golf
-http://31.220.1.190:8080/11223344/44332211/197957
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Sky Sports", Sky Sport Football
 http://31.220.1.190:8080/11223344/44332211/197955
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sky Sports", Sky Sports News
