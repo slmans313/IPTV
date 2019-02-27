@@ -11,7 +11,7 @@ http://p4.giffy.be:8080/sandy/1234/85576
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="American Sports Channel", NFL Network
 http://31.220.1.190:8080/11223344/44332211/198121
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLRedZone.us.png" group-title="American Sports Channel", NFL Red Zone
-http://p4.giffy.be:8080/sandy/1234/79684
+http://31.220.1.190:8080/11223344/44332211/155135
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="American Sports Channel", NHL Network
 http://31.220.1.190:8080/11223344/44332211/198552
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="American Sports Channel",MLB Network
@@ -70,6 +70,20 @@ http://116.45.184.224:9981/stream/channelid/563632510?ticket=92AFD3FD060FBFA6120
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-OEx5h4fWGEs/W1EQhAgr9JI/AAAAAAAAAFU/9MHJYC1xiuMDPYZIWn2EqtaxMXX-AsoMwCLcBGAs/s1600/TVRI%2BALGHI.jpg" group-title="Asian Sports Channel",TVRI Sports
 http://210.210.155.35/session/8dc2906e-1a3d-11e9-b2c3-8aac890eb9f3/qwr9ew/s/s48/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.freethailand.com/imgstory/nanasat/image/Sport1.png" group-title="Asian Sports Channel", Skynet Sports 1
+http://31.220.1.190:8080/11223344/44332211/198119
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781891/logo_sky%20net%20sports%202.png" group-title="Asian Sports Channel", Skynet Sports 2
+http://31.220.1.190:8080/11223344/44332211/198118
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/61783/logo_sky%20net%20sports%203.png" group-title="Asian Sports Channel", Skynet Sports 3
+http://31.220.1.190:8080/11223344/44332211/109804
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781890/logo_sky%20net%20sports%204.png" group-title="Asian Sports Channel", Skynet Sports4
+http://31.220.1.190:8080/11223344/44332211/121815
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781888_logo_sky_net_sports_6.png" group-title="Asian Sports Channel", Skynet Sports 6
+http://31.220.1.190:8080/11223344/44332211/198117
+#EXTINF:-1 tvg-logo="http://www.freethailand.com/imgstory/nanasat/image/sports%20hd.png" group-title="Asian Sports Channel", Skynet Sports HD
+http://31.220.1.190:8080/11223344/44332211/198116
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="Asian Sports Channel",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 
@@ -82,11 +96,28 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-al-kass-two.jpg" group-title="Asian Sports Channel",Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-al-kass-hd-5275.jpg" group-title="Asian Sports Channel",Al Kass Sports 3
+http://31.220.1.190:8080/11223344/44332211/113215
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-al-kass-hd-5275.jpg" group-title="Asian Sports Channel",Al Kass Sports 4 
+http://31.220.1.190:8080/11223344/44332211/111591
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-al-kass-hd-5275.jpg" group-title="Asian Sports Channel",Al Kass Sports 5
+http://31.220.1.190:8080/11223344/44332211/135985
+
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bahrain_sport1.jpg" group-title="Asian Sports Channel", Bahrain Sport 
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Asian Sports Channel", Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Asian Sports Channel", Dubai Sports 2
+http://31.220.1.190:8080/11223344/44332211/110126
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Asian Sports Channel", Dubai Sports 3
+http://31.220.1.190:8080/11223344/44332211/63180
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Asian Sports Channel", Dubai Sports 4
+http://31.220.1.190:8080/11223344/44332211/147291
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv_sport_95x84.gif" group-title="Asian Sports Channel", Kuwait Sports
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
@@ -147,7 +178,7 @@ http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/40956
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/78bb03d8c7fbbc5cd187aaf82786e3b5.jpg" group-title="beIN SPORTS",beIN Sports 17
 http://31.220.1.190:8080/11223344/44332211/197978
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/611d4f368444be8254a1a838c2674cfc.jpg" group-title="beIN SPORTS",beIN Sport NBA
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/40955
+http://31.220.1.190:8080/11223344/44332211/197999
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX_400x400.jpg" group-title="beIN SPORTS", beIN Sport (USA)
 http://31.220.1.190:8080/11223344/44332211/198539
@@ -200,6 +231,17 @@ http://31.220.1.190:8080/11223344/44332211/99563
 http://31.220.1.190:8080/11223344/44332211/197932
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="BT Sports", BT Sport ESPN
 http://31.220.1.190:8080/11223344/44332211/93488
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX1.uk.png" group-title="BT Sports", BT Sport Extra 1
+http://31.220.1.190:8080/11223344/44332211/145466
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX2.uk.png" group-title="BT Sports", BT Sport Extra 2
+http://31.220.1.190:8080/11223344/44332211/175406
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX3.uk.png" group-title="BT Sports", BT Sport Extra 3
+http://31.220.1.190:8080/11223344/44332211/99947
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX4.uk.png" group-title="BT Sports", BT Sport Extra 4
+http://31.220.1.190:8080/11223344/44332211/96511
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX5.uk.png" group-title="BT Sports", BT Sport Extra 5
+http://31.220.1.190:8080/11223344/44332211/93902
+
 
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Eleven Sports",Eleven Sports 1 (UK)
@@ -211,11 +253,12 @@ http://31.220.1.190:8080/11223344/44332211/197901
 http://31.220.1.190:8080/11223344/44332211/198544
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Eleven Sports",Eleven Sports 1 (Belgium)
-http://linux-app.tv:6204/yous/123/14002
+http://31.220.1.190:8080/11223344/44332211/113123
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="Eleven Sports",Eleven Sports 2 (Belgium)
-http://linux-app.tv:6204/yous/123/14001
+http://31.220.1.190:8080/11223344/44332211/127943
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_3_Portugal.png" group-title="Eleven Sports", Eleven Sports 3 (Belgium)
-http://linux-app.tv:6204/yous/123/14000
+http://31.220.1.190:8080/11223344/44332211/127944
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Eleven Sports", Eleven Sports 1 (Poland)
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/24262.ts
@@ -223,59 +266,74 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/24262.ts
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/24261.ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_3_Portugal.png" group-title="Eleven Sports",Eleven Sports 3 (Poland)
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/24260.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ElevenSports.us.png" group-title="Eleven Sports", Eleven Sports 4 (Poland)
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="Eleven Sports", Eleven Sports 4 (Poland)
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/24258.ts
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Eleven Sports", Eleven Sports 1 (Portugal)
-http://p4.giffy.be:8080/sandy/1234/95041
+http://31.220.1.190:8080/11223344/44332211/133685
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="Eleven Sports", Eleven Sports 2 (Portugal)
-http://p4.giffy.be:8080/sandy/1234/95040
+http://31.220.1.190:8080/11223344/44332211/133687
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_3_Portugal.png" group-title="Eleven Sports", Eleven Sports 3 (Portugal)
-http://p4.giffy.be:8080/sandy/1234/95039
+http://31.220.1.190:8080/11223344/44332211/127740
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="Eleven Sports", Eleven Sports 4 (Portugal)
+http://31.220.1.190:8080/11223344/44332211/127741
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Eleven Sports", Eleven Sports 5 (Portugal)
+http://31.220.1.190:8080/11223344/44332211/139862
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Eleven Sports", Eleven Sports 6 (Portugal)
+http://31.220.1.190:8080/11223344/44332211/127743
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport.sk.png" group-title="Digi Sport", Digi Sport 1
-http://p5.giffy.be:8080/cecilia/cecilia/84710
+http://31.220.1.190:8080/11223344/44332211/65872
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport2.sk.png" group-title="Digi Sport",Digi Sport 2
-http://p5.giffy.be:8080/cecilia/cecilia/84709
+http://31.220.1.190:8080/11223344/44332211/65871
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport3.sk.png" group-title="Digi Sport", Digi Sport 3
-http://p5.giffy.be:8080/cecilia/cecilia/84708
+http://31.220.1.190:8080/11223344/44332211/65870
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport4.sk.png" group-title="Digi Sport", Digi Sport 4
-http://p5.giffy.be:8080/cecilia/cecilia/84707
+http://31.220.1.190:8080/11223344/44332211/110982
 
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN 
 http://31.220.1.190:8080/11223344/44332211/74887
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2 
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2 
+http://31.220.1.190:8080/11223344/44332211/60410
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPN",ESPN 3
+http://31.220.1.190:8080/11223344/44332211/76533
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNDeportes.us.png" group-title="ESPN",ESPN Deportes
-http://p4.giffy.be:8080/sandy/1234/68925
+http://31.220.1.190:8080/11223344/44332211/155532
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/NBA_on_ESPN_logo_2016%E2%80%93present.jpg" group-title="ESPN",ESPN NBA
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNNews.us.png" group-title="ESPN", ESPN News
-http://p4.giffy.be:8080/sandy/1234/85617
+http://31.220.1.190:8080/11223344/44332211/65083
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNU.us.png" group-title="ESPN", ESPN U
-http://p4.giffy.be:8080/sandy/1234/91557
+http://31.220.1.190:8080/11223344/44332211/75113
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", Eurosport 1
-http://p4.giffy.be:8080/sandy/1234/85693
+http://31.220.1.190:8080/11223344/44332211/65014
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", Eurosport 2
-http://p4.giffy.be:8080/sandy/1234/85692
+http://31.220.1.190:8080/11223344/44332211/93240
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", Eurosport 1 Deutsch
+http://31.220.1.190:8080/11223344/44332211/86119
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", Eurosport 2 Deutsch
+http://31.220.1.190:8080/11223344/44332211/73450
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Eurosport2Xtra.de.png" group-title="Eurosport", Eurosport 2 Xtra
+http://31.220.1.190:8080/11223344/44332211/65014
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport",EuroSport 1 Francais
-http://p4.giffy.be:8080/sandy/1234/96608
+http://31.220.1.190:8080/11223344/44332211/73680
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", EuroSport 2 Francais
-http://p4.giffy.be:8080/sandy/1234/96607
+http://31.220.1.190:8080/11223344/44332211/74650
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", Eurosport 1 Italia
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/372.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", Eurosport 2 Italia
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/373.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", EuroSport 1 Nederland
-http://linux-app.tv:6204/yous/123/9570
+http://31.220.1.190:8080/11223344/44332211/74964
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", EuroSport 2 Nederland
-http://linux-app.tv:6204/yous/123/9569
+http://31.220.1.190:8080/11223344/44332211/158140
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Eurosport1.pt.png" group-title="Eurosport",Eurosport 1 Português
-http://p4.giffy.be:8080/sandy/1234/95059
+http://31.220.1.190:8080/11223344/44332211/84177
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Eurosport2.pt.png" group-title="Eurosport",Eurosport 2 Português
-http://p4.giffy.be:8080/sandy/1234/95058
+http://31.220.1.190:8080/11223344/44332211/84216
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Eurosport", Eurosport 1 Россия
 http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/228/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Eurosport", Eurosport 2 Россия
@@ -305,11 +363,17 @@ http://31.220.1.190:8080/11223344/44332211/133170
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOXSoccerPlus.us.png" group-title="Football", Fox Soccer Plus 
 http://31.220.1.190:8080/11223344/44332211/152484
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="Football", LaLiga TV
-http://p4.giffy.be:8080/sandy/1234/92457
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes
-http://p4.giffy.be:8080/sandy/1234/94374
+http://31.220.1.190:8080/11223344/44332211/97953
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1920px-Movistar_Liga_de_Campeones.svg.png" group-title="Football",  Movistar Liga De Campeones
+http://31.220.1.190:8080/11223344/44332211/130309
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes US
+http://31.220.1.190:8080/11223344/44332211/95121
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes Espana
+http://31.220.1.190:8080/11223344/44332211/117814
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes Latin
+http://31.220.1.190:8080/11223344/44332211/68436
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/BenficaTV1.pt.png" group-title="Football", Benfica TV
-http://p4.giffy.be:8080/sandy/1234/95038
+http://31.220.1.190:8080/11223344/44332211/65585
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ChelseaTV.uk.png" group-title="Football", Chelsea TV
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/400x300/Inter_Channel.png" group-title="Football", Inter Channel
@@ -317,9 +381,9 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/354.ts
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/62754/logo_lazio%20style%20tv.png" group-title="Football",Lazio Channel
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/344.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/LiverpoolFCTV.uk.png" group-title="Football", Liverpool TV
-http://p4.giffy.be:8080/sandy/1234/85676
+http://31.220.1.190:8080/11223344/44332211/64983
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MUTV.uk.png" group-title="Football", MUTV
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+http://31.220.1.190:8080/11223344/44332211/146001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png" group-title="Football", Milan TV
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/338.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",  Real Madrid TV
@@ -327,7 +391,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905104402897395712/WKYtGK81_400x400.jpg" group-title="Football", Roma TV
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/275.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportingTV.pt.png" group-title="Football", Sporting TV
-http://p4.giffy.be:8080/sandy/1234/95067
+http://31.220.1.190:8080/11223344/44332211/65568
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781828_logo_torino_channel.png" group-title="Football", Torino channel
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/9298.ts
 
@@ -463,9 +527,6 @@ http://31.220.1.190:8080/11223344/44332211/197961
 http://31.220.1.190:8080/11223344/44332211/197965
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/ustvwt1462891711.png" group-title="Sky Sports",  Sky Sport Austria
 http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41042
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SkySport1.de.png" group-title="Sky Sports", Sky Sport Germany
@@ -531,19 +592,20 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/213.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/Sportsnet360.ca.png" group-title="Sportsnet", SportsNet 360
-http://p4.giffy.be:8080/sandy/1234/14215
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/SportsnetOne.ca.png" group-title="Sportsnet", Sports NetOne 
-http://p4.giffy.be:8080/sandy/1234/94241
+http://31.220.1.190:8080/11223344/44332211/138321
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/SportsnetOne.ca.png" group-title="Sportsnet", Sports Net One 
+http://31.220.1.190:8080/11223344/44332211/76940
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/SportsnetOntario.ca.png" group-title="Sportsnet", SportsNet Ontario 
-http://p4.giffy.be:8080/sandy/1234/94240
+http://31.220.1.190:8080/11223344/44332211/76942
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/ca/SportsnetPacific.ca.png" group-title="Sportsnet", SportsNet Pacific
-http://p4.giffy.be:8080/sandy/1234/21526
+http://31.220.1.190:8080/11223344/44332211/76939
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/SportsnetWest.ca.png" group-title="Sportsnet", SportsNet West
-http://p4.giffy.be:8080/sandy/1234/21527
+http://31.220.1.190:8080/11223344/44332211/76938
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/ca/SportsnetEast.ca.png" group-title="Sportsnet", SportsNet East
-http://p4.giffy.be:8080/sandy/1234/94242
+http://31.220.1.190:8080/11223344/44332211/77212
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/ca/SportsnetWorld.ca.png" group-title="Sportsnet", SportsNet World
-http://p4.giffy.be:8080/sandy/1234/13884
+http://31.220.1.190:8080/11223344/44332211/76937
+
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.live/images/logos/al/SUPERSPORT1.png" group-title="Super Sport", Super Sport 1
 http://163.172.211.229:8000/live/itdythfitspo/spfrhgspit/48.ts
