@@ -82,6 +82,14 @@ http://31.220.1.190:8080/11223344/44332211/198117
 #EXTINF:-1 tvg-logo="http://www.freethailand.com/imgstory/nanasat/image/sports%20hd.png" group-title="Asian Sports Channel", Skynet Sports HD
 http://31.220.1.190:8080/11223344/44332211/198116
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/92/a5/31/92a531eacecfe35f47e32c450318a3f6.png" group-title="Asian Sports Channel", Star Sports 1
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/6a/6acf7f7fa01ea01c3f594021fa775518.png" group-title="Asian Sports Channel", Star Sports 2
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
+#EXTINF:-1 tvg-logo="https://www.live-cricketontv.com/images/newchannels/StarSportsSelect1.gif" group-title="Asian Sports Channel", Star Sports Select 1
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
+#EXTINF:-1 tvg-logo="https://www.live-cricketontv.com/images/newchannels/StarSportsSelect2.gif" group-title="Asian Sports Channel", Star Sports Select 2
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="Asian Sports Channel",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
@@ -447,16 +455,6 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/180.ts
 http://p4.giffy.be:8080/sandy/1234/96529
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Horse Racing", RACING.COM (Australia)
 http://31.220.1.190:8080/11223344/44332211/147654
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/92/a5/31/92a531eacecfe35f47e32c450318a3f6.png" group-title="Star Sports", Star Sports 1
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/6a/6acf7f7fa01ea01c3f594021fa775518.png" group-title="Star Sports", Star Sports 2
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
-#EXTINF:-1 tvg-logo="https://www.live-cricketontv.com/images/newchannels/StarSportsSelect1.gif" group-title="Star Sports", Star Sports Select 1
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
-#EXTINF:-1 tvg-logo="https://www.live-cricketontv.com/images/newchannels/StarSportsSelect2.gif" group-title="Star Sports", Star Sports Select 2
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 
 
 #EXTINF:-1 tvg-logo="http://pici.life/uk/BoxNation.uk.png" group-title="MMA",BoxNation
