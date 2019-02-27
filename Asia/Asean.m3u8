@@ -103,16 +103,36 @@ http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomai
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="Indonesia", Trans 7
 http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TV ONE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TV1
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0  tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="Indonesia",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:0  tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="Indonesia",TVRI Jakarta & Banten
+#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Bangka Belitung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/Stream(02)/index.m3u8
+#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:0  tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="Indonesia",TVRI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:0  tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="Indonesia",TVRI Jawa Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(01)/index.m3u8
+#EXTINF:0  tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="Indonesia",TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(01)/index.m3u8
 #EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Kalsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
- #EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Kalteng
+#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Kalteng
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:0  tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="Indonesia",TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/Stream(01)/index.m3u8
+#EXTINF:0  tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="Indonesia",TVRI Sumatera Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(01)/index.m3u8
+#EXTINF:0  tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="Indonesia",TVRI Sumatera Seletan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(01)/index.m3u8
+#EXTINF:0  tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="Indonesia",TVRI Sumatera Uatara
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(01)/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch107.gif" group-title="Thailand (ประเทศไทย)", 13 Siam TV
