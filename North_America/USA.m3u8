@@ -75,11 +75,20 @@ http://31.220.1.190:8080/11223344/44332211/197936
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/ElRey.us.png" group-title="USA", El Rey
 http://p4.giffy.be:8080/sandy/1234/85517
 
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/Escape.us.png" group-title="USA", Escape
+http://31.220.1.190:8080/11223344/44332211/159993
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/89e2e757528b704cae2a6a948f6fc0faa97b5cbba2b3fbf2acb9caac0b6bc632.png" group-title="USA",Flashback
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Freeform.us.png" group-title="USA",Freeform 
 http://31.220.1.190:8080/11223344/44332211/76523
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Galavision.us.png" group-title="USA",Galavision
+http://31.220.1.190:8080/11223344/44332211/77150
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GetTVt.us.png" group-title="USA",Get
+http://31.220.1.190:8080/11223344/44332211/160021
 
 #EXTINF:0 tvg-logo="http://i67.tinypic.com/dnkccm.jpg" group-title="USA",Fox News Talk Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
@@ -138,7 +147,7 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 http://p4.giffy.be:8080/sandy/1234/85460
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Revolt.us.png" group-title="USA", Revolt
-http://p4.giffy.be:8080/sandy/1234/85459
+http://31.220.1.190:8080/11223344/44332211/159960
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G4C6z9h.jpg" group-title="USA",SafeTV4U2
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
@@ -290,6 +299,9 @@ http://p4.giffy.be:8080/sandy/1234/93087
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/WTNH_Logo.png/200px-WTNH_Logo.png" group-title="Connecticut", ABC 8 Connecticut (WTNH)
 http://p4.giffy.be:8080/sandy/1234/85824
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/WTNH_Logo.png/200px-WTNH_Logo.png" group-title="Connecticut", CBS 3 Connecticut (WFSB)
+http://31.220.1.190:8080/11223344/44332211/105861
 
 #EXTINF:-1 tvg-logo="https://norwalkcosmeticdentist.com/wp-content/uploads/2016/02/news12-logo-ct.png" group-title="Connecticut", News 12 Connecticut
 http://p4.giffy.be:8080/sandy/1234/28294
@@ -465,10 +477,13 @@ http://31.220.1.190:8080/11223344/44332211/92807
 http://31.220.1.190:8080/11223344/44332211/77174
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSKCBS.us.png" group-title="New York",CBS 2 New York (WCBS-TV)
-http://31.220.1.190:8080/11223344/44332211/105861
+http://31.220.1.190:8080/11223344/44332211/146349
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/TV1055.png/330px-TV1055.png" group-title="New York",CBS 10 Riverhead (WLNY-TV)
 http://31.220.1.190:8080/11223344/44332211/77153
+
+#EXTINF:-1 tvg-logo="https://img.new.livestream.com/events/0000000000278ee3/43dcc2d1-7bc4-48b7-8315-012845031602_170x255.jpg" group-title="New York",Fox 5 New York (WNYW)
+http://31.220.1.190:8080/11223344/44332211/77157
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/225px-WNBC_4_NY.svg.png" group-title="New York", NBC 4 New York (WNBC)
 http://p4.giffy.be:8080/sandy/1234/85478
