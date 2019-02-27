@@ -6,20 +6,26 @@ http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Discovery",Animal Planet USA (CST)
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Discovery",Animal Planet USA HD
+http://31.220.1.190:8080/11223344/44332211/115745
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Discovery",Discovery USA (EST)
 http://80.80.160.168/live/8/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Discovery",Discovery USA (PST)
 http://103.242.13.90:5555/udp/239.4.2.19:10000
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Discovery",Discovery USA HD
+http://31.220.1.190:8080/11223344/44332211/157669
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Discovery", 探索频道 - 台湾 (Discovery Taiwan)
 http://122.146.68.116:4046/VideoInput/play.ts
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/DiscoveryFamily.us.png" group-title="Discovery", Discovery Family
-http://p4.giffy.be:8080/sandy/1234/85524
+http://31.220.1.190:8080/11223344/44332211/77148
  
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="Discovery", Discovery Science UK
-http://p4.giffy.be:8080/sandy/1234/85706
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="Discovery", Discovery Science
+http://31.220.1.190:8080/11223344/44332211/155465
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryHistory.uk.png" group-title="Discovery", Discovery History
 http://p4.giffy.be:8080/sandy/1234/85707
@@ -27,11 +33,14 @@ http://p4.giffy.be:8080/sandy/1234/85707
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="Discovery",ID (Asia)
 http://80.80.160.168/live/5/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="Discovery",ID (USA)
+http://31.220.1.190:8080/11223344/44332211/95501
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="Discovery",Planet Green
 http://80.80.160.168/live/4/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryLife.us.png" group-title="Discovery",Discovery Life
-http://p4.giffy.be:8080/sandy/1234/85523
+http://31.220.1.190:8080/11223344/44332211/77142
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryShed.uk.png" group-title="Discovery",Discovery Shed
 http://p4.giffy.be:8080/sandy/1234/85705
@@ -40,7 +49,7 @@ http://p4.giffy.be:8080/sandy/1234/85705
 http://p4.giffy.be:8080/sandy/1234/85704
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/DiscoveryVelocity.ca.png" group-title="Discovery", Discovery Velocity
-http://p4.giffy.be:8080/sandy/1234/85435
+http://31.220.1.190:8080/11223344/44332211/74864
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="Documentary", History UK
 http://91.109.113.38:8000/play/a064
@@ -48,8 +57,8 @@ http://91.109.113.38:8000/play/a064
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/History2.uk.png" group-title="Documentary", H2 UK
 http://91.109.113.38:8000/play/a066
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Documentary", CI UK
-http://91.109.113.38:8000/play/a069
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Documentary", CI
+http://31.220.1.190:8080/11223344/44332211/77057
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/SmithsonianChannel.us.png" group-title="Documentary",Smithsonian USA
 http://p4.giffy.be:8080/sandy/1234/85454
