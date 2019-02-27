@@ -78,10 +78,10 @@ http://cdn6.woideas.com/11sp.m3u8
 http://123.29.75.178/v5live.m3u8?c=vstv042&q=high&deviceType=4&userId=7995&deviceId=&type=tv&rkey=02262209eElJ4JMp&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=HCM&rbk=20316270140&pnode=172.16.52.133&isp=vn
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports2.us.png" group-title="Asian Sports Channel",Fox sport 2 (Asia)
-http://31.220.1.190:8080/11223344/44332211/142925
+http://tduc.tk/live/fspo2-.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel",Fox sport 3 (Asia)
-http://31.220.1.190:8080/11223344/44332211/111001
+http://tduc.tk/live/fspo3-.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel", Fox Sport 3 (台湾)
 http://61.216.10.122:4047/VideoInput/play.ts
@@ -319,6 +319,21 @@ http://31.220.1.190:8080/11223344/44332211/65357
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.hr/images/logo-arenaA6-big.png" group-title="European Sports Channel", Arena Sports 6
 http://31.220.1.190:8080/11223344/44332211/65362
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1.png" group-title="Arena Sports", Arena Sports 1
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA2.png" group-title="Arena Sports", Arena Sports 2
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA3.png" group-title="Arena Sports", Arena Sports 3
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4.png" group-title="Arena Sports", Arena Sports 4
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA5.png" group-title="Arena Sports", Arena Sports 5
+http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport.sk.png" group-title="European Sports Channel", Digi Sport 1
 http://31.220.1.190:8080/11223344/44332211/65872
