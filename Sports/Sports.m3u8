@@ -9,13 +9,15 @@ http://31.220.1.190:8080/11223344/44332211/95151
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="American Sports Channel", Olympic Channel
 http://p4.giffy.be:8080/sandy/1234/85576
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="American Sports Channel", NFL Network
-http://p4.giffy.be:8080/sandy/1234/76281
+http://31.220.1.190:8080/11223344/44332211/198121
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLRedZone.us.png" group-title="American Sports Channel", NFL Red Zone
 http://p4.giffy.be:8080/sandy/1234/79684
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="American Sports Channel", NHL Network
-http://p4.giffy.be:8080/sandy/1234/85577
+http://31.220.1.190:8080/11223344/44332211/198552
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="American Sports Channel",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="American Sports Channel",MLB Network HD
+http://31.220.1.190:8080/11223344/44332211/198549
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="Asian Sports Channel", Astro SuperSport 1
 http://203.154.243.89:1204
@@ -52,8 +54,7 @@ http://cdn6.woideas.com/11sp.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports.us.png" group-title="Asian Sports Channel",Fox sport 1 (Asia)
 http://123.29.75.178/v5live.m3u8?c=vstv042&q=high&deviceType=4&userId=7995&deviceId=&type=tv&rkey=02262209eElJ4JMp&p=0&zn=netott&ctl=10.107&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=HCM&rbk=20316270140&pnode=172.16.52.133&isp=vn
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports2.us.png" group-title="Asian Sports Channel",Fox sport 2 (Asia)
-http://tduc.tk/live/fspo2-.m3u8
+http://31.220.1.190:8080/11223344/44332211/142925
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel",Fox sport 3 (Asia)
 http://31.220.1.190:8080/11223344/44332211/111001
 
@@ -94,20 +95,22 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 https://sl11.telewebion.com/devices/_definst_/tv3-500k.stream/chunks.m3u8?nimblesessionid=3981814&wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvMjcvMjAxOSA4OjQ4OjggQU0maGFzaF92YWx1ZT1aYmhRcnJkVDZNeUdTYjdUL1pZNllnPT0mdmFsaWRtaW51dGVzPTYwMDA=
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1.png" group-title="Arena Sports", Arena Sports 1
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena1.m3u8
+http://31.220.1.190:8080/11223344/44332211/117279
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA2.png" group-title="Arena Sports", Arena Sports 2
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena2.m3u8
+http://31.220.1.190:8080/11223344/44332211/198482
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA3.png" group-title="Arena Sports", Arena Sports 3
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena3.m3u8
+http://31.220.1.190:8080/11223344/44332211/65359
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4.png" group-title="Arena Sports", Arena Sports 4
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena4.m3u8
+http://31.220.1.190:8080/11223344/44332211/65358
 
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA5.png" group-title="Arena Sports", Arena Sports 5
-http://cdn.videosofsport1.live/hls/PY3DmRvYoNt_WDgP9GNDDQ/1551265906/arena5.m3u8
+http://31.220.1.190:8080/11223344/44332211/65357
 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.hr/images/logo-arenaA6-big.png" group-title="Arena Sports", Arena Sports 6
+http://31.220.1.190:8080/11223344/44332211/65362
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN SPORTS", beIN Sports 1
 http://31.220.1.190:8080/11223344/44332211/197967
@@ -146,10 +149,10 @@ http://31.220.1.190:8080/11223344/44332211/197978
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/611d4f368444be8254a1a838c2674cfc.jpg" group-title="beIN SPORTS",beIN Sport NBA
 http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/40955
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX_400x400.jpg" group-title="beIN SPORTS", beIN Sport (Canada)
-http://p4.giffy.be:8080/sandy/1234/13890
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX_400x400.jpg" group-title="beIN SPORTS", beIN Sport (USA)
+http://31.220.1.190:8080/11223344/44332211/198539
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSportEnEspanol.us.png" group-title="beIN SPORTS", beIN españa
-http://p4.giffy.be:8080/sandy/1234/92456
+http://31.220.1.190:8080/11223344/44332211/199369
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png" group-title="beIN SPORTS", beIN LaLiga Max
 http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/40925
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/beINLaLiga.es.png" group-title="beIN SPORTS", beIN LaLiga
@@ -163,28 +166,28 @@ http://31.220.1.190:8080/11223344/44332211/198132
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BeinSports3.fr.png" group-title="beIN SPORTS",beIN Sports 3 (France)
 http://31.220.1.190:8080/11223344/44332211/198133
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Bein4Max.fr.png" group-title="beIN SPORTS", beIN Sports Max 4 (France)
-http://p4.giffy.be:8080/sandy/1234/96616
+http://31.220.1.190:8080/11223344/44332211/160280
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Bein5Max.fr.png" group-title="beIN SPORTS", beIN Sports Max 5 (France)
-http://p4.giffy.be:8080/sandy/1234/96615
+http://31.220.1.190:8080/11223344/44332211/160281
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Bein6Max.fr.png" group-title="beIN SPORTS", beIN Sports Max 6 (France)
-http://p4.giffy.be:8080/sandy/1234/96614
+http://31.220.1.190:8080/11223344/44332211/160282
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Bein7Max.fr.png" group-title="beIN SPORTS", beIN Sports Max 7 (France)
-http://p4.giffy.be:8080/sandy/1234/96613
+http://31.220.1.190:8080/11223344/44332211/74988
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Bein8Max.fr.png" group-title="beIN SPORTS", beIN Sports Max 8 (France)
-http://p4.giffy.be:8080/sandy/1234/96612
+http://31.220.1.190:8080/11223344/44332211/160284
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/fr/Bein9Max.fr.png" group-title="beIN SPORTS", beIN Sports Max 9 (France)
-http://p4.giffy.be:8080/sandy/1234/96611
+http://31.220.1.190:8080/11223344/44332211/160285
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/fr/Bein10Max.fr.png" group-title="beIN SPORTS", beIN Sports Max 10 (France)
-http://p4.giffy.be:8080/sandy/1234/96610
+http://31.220.1.190:8080/11223344/44332211/164422
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN SPORTS",beIN Sports 1 (Turkey)
-http://iptv-nl2.hdflixtv.com/TR-BEIN-SPORTS-1-HD-(1920x1080)/tracks-v1a1/mono.m3u8
+http://31.220.1.190:8080/11223344/44332211/198571
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png"  group-title="beIN SPORTS",beIN Sports 2 (Turkey)
-http://iptv-nl2.hdflixtv.com/TR-BEIN-SPORTS-2-HD-(1920X1080)/index.m3u8
+http://31.220.1.190:8080/11223344/44332211/198572
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png"  group-title="beIN SPORTS",beIN Sports 3 (Turkey)
-http://iptv-nl2.hdflixtv.com/TR-BEIN-SPORTS-3-HD-(1920X1080)/index.m3u8
+http://31.220.1.190:8080/11223344/44332211/198573
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png"  group-title="beIN SPORTS",beIN Sports 4 (Turkey)
-http://linux-app.tv:6204/yous/123/14026
+http://31.220.1.190:8080/11223344/44332211/198574
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1086.png"  group-title="beIN SPORTS", beIN Sport Haber
 http://linux-app.tv:6204/yous/123/14428
 
@@ -205,7 +208,7 @@ http://31.220.1.190:8080/11223344/44332211/137211
 http://31.220.1.190:8080/11223344/44332211/197901
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Eleven Sports",Eleven Sports (USA)
-http://p4.giffy.be:8080/sandy/1234/85616
+http://31.220.1.190:8080/11223344/44332211/198544
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Eleven Sports",Eleven Sports 1 (Belgium)
 http://linux-app.tv:6204/yous/123/14002
@@ -286,17 +289,18 @@ http://31.220.1.190:8080/11223344/44332211/111001
 http://31.220.1.190:8080/11223344/44332211/156204
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_1_Netherlands.png" group-title="Fox Sports", Fox Sport 1 Netherlands
-http://linux-app.tv:6204/yous/123/9561
+http://31.220.1.190:8080/11223344/44332211/65203
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_2_Netherlands.png" group-title="Fox Sports", Fox Sport 2 Netherlands
-http://linux-app.tv:6204/yous/123/9560
+http://31.220.1.190:8080/11223344/44332211/65202
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/rwvypw1433944526.png" group-title="Fox Sports", Fox Sport 3 Netherlands
-http://linux-app.tv:6204/yous/123/9559
+http://31.220.1.190:8080/11223344/44332211/64221
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_4_Netherlands.png" group-title="Fox Sports", Fox Sport 4 Netherlands
-http://linux-app.tv:6204/yous/123/9558
+http://31.220.1.190:8080/11223344/44332211/65200
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/tspqqq1433944556.png" group-title="Fox Sports", Fox Sport 5 Netherlands
-http://linux-app.tv:6204/yous/123/9557
+http://31.220.1.190:8080/11223344/44332211/65199
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_6.png" group-title="Fox Sports", Fox Sport 6 Netherlands
-http://linux-app.tv:6204/yous/123/9556
+http://31.220.1.190:8080/11223344/44332211/133170
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOXSoccerPlus.us.png" group-title="Football", Fox Soccer Plus 
 http://31.220.1.190:8080/11223344/44332211/152484
@@ -401,7 +405,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 
 
 #EXTINF:-1 tvg-logo="http://pici.life/uk/BoxNation.uk.png" group-title="MMA",BoxNation
-http://91.109.113.38:8000/play/a075
+http://31.220.1.190:8080/11223344/44332211/197922
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="MMA", Hard Knocks Fighting
 https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="MMA", Fight Network
@@ -427,10 +431,8 @@ http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/40979
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Racing",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Racing", MAV TV
-http://p4.giffy.be:8080/sandy/1234/85597
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Racing",Sky Sports F1
-http://p4.giffy.be:8080/sandy/1234/85641
+http://31.220.1.190:8080/11223344/44332211/197954
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sky_Sport_F1_HD.JPG" group-title="Racing", Sky Sport F1 Italian
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/207.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Sky_sport_motogp_hd.jpg" group-title="Racing", Sky Sport MotoGP
@@ -470,27 +472,24 @@ http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41042
 http://p4.giffy.be:8080/sandy/1234/30067
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/363.png" group-title="Sky Sports", Sky Sport Bundesliga 1
 http://31.220.1.190:8080/11223344/44332211/198070
-#EXTINF:-1,SPORT: DE - Sky Sport Bundesliga 2 FHD
-http://31.220.1.190:8080/11223344/44332211/198077
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/217.png" group-title="Sky Sports", Sky Sport Bundesliga 2
 http://31.220.1.190:8080/11223344/44332211/198077
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/218.png" group-title="Sky Sports", Sky Sport Bundesliga 3
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41027
+http://31.220.1.190:8080/11223344/44332211/158932
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/219.png" group-title="Sky Sports", Sky Sport Bundesliga 4
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41026
+http://31.220.1.190:8080/11223344/44332211/89579
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/220.png" group-title="Sky Sports", Sky Sport Bundesliga 5
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41025
+http://31.220.1.190:8080/11223344/44332211/156407
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/221.png" group-title="Sky Sports", Sky Sport Bundesliga 6
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41024
+http://31.220.1.190:8080/11223344/44332211/64784
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/222.png" group-title="Sky Sports", Sky Sport Bundesliga 7
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41023
+http://31.220.1.190:8080/11223344/44332211/86186
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/223.png" group-title="Sky Sports", Sky Sport Bundesliga 8
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41022
+http://31.220.1.190:8080/11223344/44332211/64782
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/224.png group-title="Sky Sports", Sky Sport Bundesliga 9
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41021
+http://31.220.1.190:8080/11223344/44332211/86188
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/225.png" group-title="Sky Sports", Sky Sport Bundesliga 10
-http://fulliptvnki.me:80/NEigsCCOhE/fgY3ZctOCr/41020
-
+http://31.220.1.190:8080/11223344/44332211/64780
 
 
 
@@ -574,17 +573,18 @@ http://31.220.1.190:8080/11223344/44332211/198645
 http://31.220.1.190:8080/11223344/44332211/198646
 
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Ziggo", Ziggo Sport Voetbal
-http://linux-app.tv:6204/yous/123/9517
+http://31.220.1.190:8080/11223344/44332211/65193
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/71/icon-size-256.png" group-title="Ziggo", Ziggo Sport Select
-http://linux-app.tv:6204/yous/123/9518
+http://31.220.1.190:8080/11223344/44332211/111045
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Ziggo", Ziggo Sport Golf
-http://linux-app.tv:6204/yous/123/9520
+http://31.220.1.190:8080/11223344/44332211/111044
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/157/icon-size-256.png" group-title="Ziggo", Ziggo Sport Racing
-http://linux-app.tv:6204/yous/123/9519
+http://31.220.1.190:8080/11223344/44332211/65189
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/82/icon-size-256.png" group-title="Ziggo", Ziggo Sport Extra 1
-http://linux-app.tv:6204/yous/123/9522
+http://31.220.1.190:8080/11223344/44332211/106528
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/152/icon-size-256.png" group-title="Ziggo", Ziggo Sport Extra 2
-http://linux-app.tv:6204/yous/123/9521
+http://31.220.1.190:8080/11223344/44332211/133177
+
 
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/00/01/11/06s.png" group-title="Матч ТВ", Матч!
 http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/212/index.m3u8
