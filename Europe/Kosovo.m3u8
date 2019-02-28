@@ -19,7 +19,6 @@ http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.firstonetv.net/images/logos/al/TVJUG.png" group-title="Albania(Shqipëria)",TV JUG
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/c62ade9a75cb63e6d32332bd9691cd47.jpg" group-title="Albania(Shqipëria)",Al- Film Hits
 http://linux-app.tv:6204/yous/123/9114
 
@@ -38,20 +37,8 @@ http://37.59.21.217:8809/live/tv5web.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvtopsound.com/design/images/logo-novi-7.png" group-title="Bosnia(Bosna)",Top Sound
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://nextgen-iptv.com/Logos/bih/tv_sarajevo.png" group-title="Bosnia(Bosna)",TV Sarajevo
-rtmp://91.148.117.134:1935/radios/radiosweb.stream
-
-#EXTINF:-1  tvg-logo="http://static.radio.net/images/broadcasts/16/95/5225/c175.png" group-title="Croatia(Hrvatska)",Banovina TV
-rtmp://video.radio-banovina.hr/live/myStream
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/rtAznnQ.jpg" group-title="Croatia(Hrvatska)",Trend TV
-rtmp://185.62.75.22:1935/trend/myStream
-
 #EXTINF:-1  tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Serbia(Србија)",Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://www.navidiku.rs/tv-uzivo/slike/tv/televizija1.jpg" group-title="Serbia(Србија)",Novosadska
-mms://176.106.121.32:8090
 
 #EXTINF:-1  tvg-logo="http://logo.exyu.xyz/telegraf.png" group-title="Serbia(Србија)",Telegraf
 http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8
@@ -74,11 +61,7 @@ http://skyfolk.mk/live.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Macedonia(Македонија)",TVPlus
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/X53xldB.png" group-title="Macedonia(Македонија)",TV Tetova
-rtmp://ip.tvtetova.net:5119/live/tvtetova
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/RTCG_logo.svg/1200px-RTCG_logo.svg.png" group-title="Montenegro(Црна Гора)",RTCG
-rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.2.stream
 
 
 #EXTINF:-1,AL: 3 PLUS HD
