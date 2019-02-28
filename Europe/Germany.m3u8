@@ -148,12 +148,6 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="Germany(Deutschland)",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png" group-title="Austria(Österreich)",Austria 24 
-rtmp://streaming.austria24.tv/live/stream_360p
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png" group-title="Austria(Österreich)",Austria 24
-rtmp://streaming.austria24.tv/live/mp4:stream_720p
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Austria(Österreich)",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 
@@ -165,3 +159,8 @@ http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="Austria(Österreich)",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+
+#EXTINF:-1,SPORT: DE - EUROSPORT 2 HD Xtra
+http://31.220.1.190:8080/11223344/44332211/198072
+#EXTINF:-1,SPORT: DE - Sky Sport 2 HD
+http://31.220.1.190:8080/11223344/44332211/198582
