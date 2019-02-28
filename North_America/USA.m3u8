@@ -45,9 +45,6 @@ http://31.220.1.190:8080/11223344/44332211/152973
 #EXTINF:-1 tvg-logo="http://www.axs.tv/ui/images/hdnet_programs/fbthumb_axstv_20140224.png" group-title="USA",AXS
 http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="USA", AWE
-http://p4.giffy.be:8080/sandy/1234/85559
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BBCAmerica.us.png" group-title="USA",BBC America
 http://31.220.1.190:8080/11223344/44332211/76453
 
@@ -81,7 +78,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3
 #EXTINF:-1 tvg-logo="http://www.counterthink.com/Assets/Uploads/640/CounterThink-with-Mike-Adams.jpg" group-title="USA",CounterThink
 https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DestinationAmerica.us.png" group-title="USA",Destination America
 http://31.220.1.190:8080/11223344/44332211/75908
 
@@ -89,7 +85,7 @@ http://31.220.1.190:8080/11223344/44332211/75908
 http://31.220.1.190:8080/11223344/44332211/197936
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/ElRey.us.png" group-title="USA", El Rey
-http://p4.giffy.be:8080/sandy/1234/85517
+http://31.220.1.190:8080/11223344/44332211/77120
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/Escape.us.png" group-title="USA", Escape
 http://31.220.1.190:8080/11223344/44332211/159993
@@ -115,13 +111,8 @@ http://31.220.1.190:8080/11223344/44332211/77126
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/Fusion.us.png" group-title="USA",Fusion
 http://31.220.1.190:8080/11223344/44332211/77127
 
-https://static.iptv-epg.com/us/Fusion.us.png
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PH1Gg4p.png" group-title="USA",Free Speech
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HopeChannel.us.png" group-title="USA", Hope Tv
-http://p4.giffy.be:8080/sandy/1234/86180
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VEd3y4O.png" group-title="USA",InfoWars
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
@@ -145,22 +136,22 @@ https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
 https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OutdoorChannel.us.png" group-title="USA", Outdoor Channel
-http://p4.giffy.be:8080/sandy/1234/85470
+http://31.220.1.190:8080/11223344/44332211/77144
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Ovation.us.png" group-title="USA", Ovation
-http://p4.giffy.be:8080/sandy/1234/85469
+http://31.220.1.190:8080/11223344/44332211/118621
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/OWN_TV_Canada.png" group-title="USA", OWN
-http://p4.giffy.be:8080/sandy/1234/85471
+http://31.220.1.190:8080/11223344/44332211/76434
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Oxygen.us.png" group-title="USA", Oxygen
+http://31.220.1.190:8080/11223344/44332211/155547
 
 #EXTINF:-1 tvg-logo="https://static.infowars.com/images/real-news-logo.png" group-title="USA",Real News
 https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA",Rev'n
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA",Rev'n
-http://p4.giffy.be:8080/sandy/1234/85460
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Revolt.us.png" group-title="USA", Revolt
 http://31.220.1.190:8080/11223344/44332211/159960
@@ -178,22 +169,22 @@ https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="USA", TBS
-http://p4.giffy.be:8080/sandy/1234/85447
+http://31.220.1.190:8080/11223344/44332211/76423
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TVOne.us.png" group-title="USA", TV 1
-http://p4.giffy.be:8080/sandy/1234/85442
+http://31.220.1.190:8080/11223344/44332211/77160
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TVLandEast.us.png" group-title="USA", TV Land
-http://p4.giffy.be:8080/sandy/1234/85443
+http://31.220.1.190:8080/11223344/44332211/197942
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/USANetwork.us.png" group-title="USA", USA Network
-http://p4.giffy.be:8080/sandy/1234/85437
+http://31.220.1.190:8080/11223344/44332211/199240
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UniMas.us.png" group-title="USA", Unimás
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11131.ts
+http://31.220.1.190:8080/11223344/44332211/77180
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionWLII.us.png" group-title="USA", Univisión
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/14355.ts
+http://31.220.1.190:8080/11223344/44332211/77181
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Vibrant_TV_Network_Logo_2015.jpg" group-title="USA",Vibrant TV
 https://vibranttv.tulix.tv/vibranttv/vibranttv.smil/playlist.m3u8
@@ -208,7 +199,7 @@ https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/WeTV.in.png" group-title="USA", WE TV
-http://p4.giffy.be:8080/sandy/1234/85432
+http://31.220.1.190:8080/11223344/44332211/77145
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e1ded7af7a339d7587735c0d6b4dd7e64cb4bc9209713ad5a9c00dc8bd632332.png" group-title="USA",WHAM Network
 https://live.cdn.wham.tv/hls/stream.m3u8
@@ -217,7 +208,7 @@ https://live.cdn.wham.tv/hls/stream.m3u8
 https://vcndmtv.teleosmedia.com/stream/dmtv/whomagmultimedia/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WGNAmerica.us.png" group-title="USA",WGN America
-http://p4.giffy.be:8080/sandy/1234/85433
+http://31.220.1.190:8080/11223344/44332211/76763
 
 #EXTINF:-1 tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="USA",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
@@ -235,25 +226,26 @@ http://31.220.1.190:8080/11223344/44332211/160005
 http://31.220.1.190:8080/11223344/44332211/91533
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Arizona.us.png" group-title="College Sports", PAC-12 Arizona
-http://p4.giffy.be:8080/sandy/1234/91553
+http://31.220.1.190:8080/11223344/44332211/199148
+
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/PAC12BayArea.us.png" group-title="College Sports", PAC-12 Bay Area
-http://p4.giffy.be:8080/sandy/1234/91552
+http://31.220.1.190:8080/11223344/44332211/199149
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12LosAngeles.us.png" group-title="College Sports", PAC-12 Los Angeles
-http://p4.giffy.be:8080/sandy/1234/91551
+http://31.220.1.190:8080/11223344/44332211/199150
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Mountain.us.png" group-title="College Sports", PAC-12 Mountain
-http://p4.giffy.be:8080/sandy/1234/91550
+http://31.220.1.190:8080/11223344/44332211/199151
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/PAC12Oregon.us.png" group-title="College Sports", PAC-12 Oregon
-http://p4.giffy.be:8080/sandy/1234/91548
+http://31.220.1.190:8080/11223344/44332211/199153
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/PAC12Washington.us.png" group-title="College Sports", PAC-12 Washington
-http://p4.giffy.be:8080/sandy/1234/91547
+http://31.220.1.190:8080/11223344/44332211/199154
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="College Sports", PAC 12 National
-http://p4.giffy.be:8080/sandy/1234/91549
+http://31.220.1.190:8080/11223344/44332211/101372
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" group-title="Arizona",ABC 15 Arizona (KNXV)
 http://31.220.1.190:8080/11223344/44332211/159913
@@ -556,7 +548,7 @@ http://p4.giffy.be:8080/sandy/1234/85838
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/NBC_Sports_Northwest.png" group-title="Oregon", NBC Sports NW
-http://p4.giffy.be:8080/sandy/1234/85582
+http://31.220.1.190:8080/11223344/44332211/157702
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/WTAE-TV_logo.png" group-title="Pennsylvania", ABC 4 Pittsburgh (WTAE)
 http://31.220.1.190:8080/11223344/44332211/159921
