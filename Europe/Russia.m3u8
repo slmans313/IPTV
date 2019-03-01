@@ -151,10 +151,16 @@ http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlis
 http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/996/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatExplore.ru.png" group-title="Russia (Россия)", Viasat Explore
-http://stream.euroasia.lfstrm.tv/viasat_explore/1/index.m3u8
+http://31.220.1.190:8080/11223344/44332211/90564
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="Russia (Россия)",Viasat History
+http://31.220.1.190:8080/11223344/44332211/90508
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatNature.ru.png group-title="Russia (Россия)",Viasat Nature
+http://31.220.1.190:8080/11223344/44332211/90566
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatSport.ru.png" group-title="Russia (Россия)", Viasat Sport
-http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/208/index.m3u8
+http://31.220.1.190:8080/11223344/44332211/90567
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fwutQLA.jpg" group-title="Azerbaijan (Azərbaycan)", MTV Azerbaijan 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
@@ -601,14 +607,6 @@ http://31.220.1.190:8080/11223344/44332211/110725
 http://31.220.1.190:8080/11223344/44332211/67807
 #EXTINF:-1,RU: Usadba
 http://31.220.1.190:8080/11223344/44332211/109182
-#EXTINF:-1,RU: Viasat Explorer HD
-http://31.220.1.190:8080/11223344/44332211/90564
-#EXTINF:-1,RU: Viasat History HD
-http://31.220.1.190:8080/11223344/44332211/90508
-#EXTINF:-1,RU: Viasat Nature HD
-http://31.220.1.190:8080/11223344/44332211/90566
-#EXTINF:-1,RU: Viasat Sport HD
-http://31.220.1.190:8080/11223344/44332211/90567
 #EXTINF:-1,RU: ViP Comedy HD
 http://31.220.1.190:8080/11223344/44332211/90503
 #EXTINF:-1,RU: VIP Megahit HD
