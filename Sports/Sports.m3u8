@@ -5,6 +5,14 @@ http://31.220.1.190:8080/11223344/44332211/198539
 http://31.220.1.190:8080/11223344/44332211/138287
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="American Sports Channel",Eleven Sports (USA)
 http://31.220.1.190:8080/11223344/44332211/198544
+
+#EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs1.png" group-title="American Sports Channel",Fox Sports 1 (USA)
+http://31.220.1.190:8080/11223344/44332211/98284
+#EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs2.png" group-title="American Sports Channel",Fox Sports 2 (USA)
+http://31.220.1.190:8080/11223344/44332211/111001
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/297-2976406_fox-deportes-fox-Sports-australia-logo.png" group-title="American Sports Channel",Fox Sports Deportes (USA)
+http://31.220.1.190:8080/11223344/44332211/156204
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="American Sports Channel", NBC Sports
 http://31.220.1.190:8080/11223344/44332211/75133
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="American Sports Channel", Olympic Channel
@@ -155,6 +163,21 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
 #EXTINF:-1 tvg-logo="https://www.live-cricketontv.com/images/newchannels/StarSportsSelect2.gif" group-title="Asian Sports Channel", Star Sports Select 2
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/1200px-Fox_league.svg.png" group-title="Australian Sports",Fox League
+http://31.220.1.190:8080/11223344/44332211/199107
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/1200px-Fox_Footy_logo_%282015%29.svg.png" group-title="Australian Sports",Fox Footy Network
+http://31.220.1.190:8080/11223344/44332211/199106
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-3-colour.png" group-title="Australian Sports",FOX Sport News
+http://31.220.1.190:8080/11223344/44332211/147647
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-3-colour.png" group-title="Australian Sports",FOX Sport Canberra
+http://31.220.1.190:8080/11223344/44332211/147650
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-3-colour.png" group-title="Australian Sports",FOX Sports Melbourne
+http://31.220.1.190:8080/11223344/44332211/147651
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/fox-sports-3-colour.png" group-title="Australian Sports",FOX Sport Perth
+http://31.220.1.190:8080/11223344/44332211/147652
+
 #EXTINF:-1 tvg-logo="https://www.tvarenaSports.com/images/logo-arenaA1.png" group-title="European Sports Channel", Arena Sports 1
 http://31.220.1.190:8080/11223344/44332211/117279
 
@@ -224,14 +247,6 @@ http://163.172.211.229:8000/live/itdythfitspo/spfrhgspit/51.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_superSports5_hd.png" group-title="European Sports Channel", Super Sports 5
 http://163.172.211.229:8000/live/itdythfitspo/spfrhgspit/52.ts
 
-#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/71/icon-size-256.png" group-title="European Sports Channel", Ziggo Sports Select
-http://31.220.1.190:8080/11223344/44332211/111045
-#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/82/icon-size-256.png" group-title="European Sports Channel", Ziggo Sports Extra 1
-http://31.220.1.190:8080/11223344/44332211/106528
-#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/152/icon-size-256.png" group-title="European Sports Channel", Ziggo Sports Extra 2
-http://31.220.1.190:8080/11223344/44332211/133177
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BeinSports1.fr.png" group-title="French Sports Channel",beIN Français 1
 http://31.220.1.190:8080/11223344/44332211/198130
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BeinSports2.fr.png" group-title="French Sports Channel",beIN Français 2
@@ -266,6 +281,26 @@ http://31.220.1.190:8080/11223344/44332211/198423
 http://31.220.1.190:8080/11223344/44332211/198577
 #EXTINF:-1 tvg-logo="https://Sports-tv-guide.live/images/stations/a1572.png" group-title="French Sports Channel",RMC Sports 5 
 http://31.220.1.190:8080/11223344/44332211/198425
+
+#EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_1_Nederland.png" group-title="Nederland Sports", Fox Sports 1 Nederland
+http://31.220.1.190:8080/11223344/44332211/65203
+#EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_2_Nederland.png" group-title="Nederland Sports", Fox Sports 2 Nederland
+http://31.220.1.190:8080/11223344/44332211/65202
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_3_Netherlands.png" group-title="Nederland Sports", Fox Sports 3 Nederland
+http://31.220.1.190:8080/11223344/44332211/64221
+#EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_4_Nederland.png" group-title="Nederland Sports", Fox Sports 4 Nederland
+http://31.220.1.190:8080/11223344/44332211/65200
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_5_Netherlands.png" group-title="Nederland Sports", Fox Sports 5 Nederland
+http://31.220.1.190:8080/11223344/44332211/65199
+#EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_6.png" group-title="Nederland Sports", Fox Sports 6 Nederland
+http://31.220.1.190:8080/11223344/44332211/133170
+
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/71/icon-size-256.png" group-title="Nederland Sports", Ziggo Sports Select
+http://31.220.1.190:8080/11223344/44332211/111045
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/82/icon-size-256.png" group-title="Nederland Sports", Ziggo Sports Extra 1
+http://31.220.1.190:8080/11223344/44332211/106528
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/152/icon-size-256.png" group-title="Nederland Sports", Ziggo Sports Extra 2
+http://31.220.1.190:8080/11223344/44332211/133177
 
 
 
@@ -336,14 +371,6 @@ http://31.220.1.190:8080/11223344/44332211/66501
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv_Sports_95x84.gif" group-title="Middle East Sports Channel", Kuwait Sports
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183175240990.png" group-title="Basketball",beIN Sports NBA
-http://31.220.1.190:8080/11223344/44332211/197999
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/NBA_on_ESPN_logo_2016%E2%80%93present.jpg" group-title="Basketball",ESPN NBA
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 tvg-logo="https://Sports-tv-guide.live/images/stations/a357.png" group-title="Basketball", Sky Sports NBA Italia
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/204.ts
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="Turkish Sports Channel",beIN Sports 1 (Turkey)
 http://31.220.1.190:8080/11223344/44332211/198571
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png"  group-title="Turkish Sports Channel",beIN Sports 2 (Turkey)
@@ -354,6 +381,149 @@ http://31.220.1.190:8080/11223344/44332211/198573
 http://31.220.1.190:8080/11223344/44332211/198574
 #EXTINF:-1 tvg-logo="https://Sports-tv-guide.live/images/stations/a1086.png"  group-title="Turkish Sports Channel", beIN Sports Haber (Turkey)
 http://31.220.1.190:8080/11223344/44332211/64393
+
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183175240990.png" group-title="Basketball",beIN Sports NBA
+http://31.220.1.190:8080/11223344/44332211/197999
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/NBA_on_ESPN_logo_2016%E2%80%93present.jpg" group-title="Basketball",ESPN NBA
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-logo="https://Sports-tv-guide.live/images/stations/a357.png" group-title="Basketball", Sky Sports NBA Italia
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/204.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOXSoccerPlus.us.png" group-title="Football", Fox Soccer Plus 
+http://31.220.1.190:8080/11223344/44332211/152484
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1920px-Movistar_Liga_de_Campeones.svg.png" group-title="Football",  Movistar Liga De Campeones
+http://31.220.1.190:8080/11223344/44332211/130309
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarFutbol.es.png" group-title="Football",  Movistar Futbol
+http://31.220.1.190:8080/11223344/44332211/157097
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football", Sky Sports Football
+http://31.220.1.190:8080/11223344/44332211/197955
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football",Sky Sports Premier League
+http://31.220.1.190:8080/11223344/44332211/197966
+#EXTINF:-1  tvg-logo="https://Sports-tv-guide.live/images/stations/a358.png" group-title="Football",Sky Sports Serie A
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/27780.ts
+#EXTINF:-1 tvg-logo="https://Sports-tv-guide.live/images/stations/a355.png" group-title="Football", Sky Sports Football Italia
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/209.ts
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/363.png" group-title="Football", Sky Sports Bundesliga 1
+http://31.220.1.190:8080/11223344/44332211/198070
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/217.png" group-title="Football", Sky Sports Bundesliga 2
+http://31.220.1.190:8080/11223344/44332211/198077
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/218.png" group-title="Football", Sky Sports Bundesliga 3
+http://31.220.1.190:8080/11223344/44332211/158932
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/219.png" group-title="Football", Sky Sports Bundesliga 4
+http://31.220.1.190:8080/11223344/44332211/89579
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/220.png" group-title="Football", Sky Sports Bundesliga 5
+http://31.220.1.190:8080/11223344/44332211/156407
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/221.png" group-title="Football", Sky Sports Bundesliga 6
+http://31.220.1.190:8080/11223344/44332211/64784
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/222.png" group-title="Football", Sky Sports Bundesliga 7
+http://31.220.1.190:8080/11223344/44332211/86186
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/223.png" group-title="Football", Sky Sports Bundesliga 8
+http://31.220.1.190:8080/11223344/44332211/64782
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/224.png" group-title="Football", Sky Sports Bundesliga 9
+http://31.220.1.190:8080/11223344/44332211/86188
+#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/226.png" group-title="Football", Sky Sports Bundesliga 10
+http://31.220.1.190:8080/11223344/44332211/64780
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="Football", LaLiga TV
+http://31.220.1.190:8080/11223344/44332211/97953
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes US
+http://31.220.1.190:8080/11223344/44332211/95121
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes Espana
+http://31.220.1.190:8080/11223344/44332211/117814
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes Latino
+http://31.220.1.190:8080/11223344/44332211/68436
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Football", Ziggo Sports Voetbal
+http://31.220.1.190:8080/11223344/44332211/65193
+#EXTINF:-1 tvg-logo="http://online-allSports.com.ua/images/stories_2/logotv/futbol1uan.png" group-title="Football",ФУТБОЛ 1
+https://185-8-178-138.liveSports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo="http://online-allSports.com.ua/images/stories_2/logotv/futbol2uan.png" group-title="Football",ФУТБОЛ 2
+https://185-8-178-139.liveSports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/BenficaTV1.pt.png" group-title="Football", Benfica TV
+http://31.220.1.190:8080/11223344/44332211/65585
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ChelseaTV.uk.png" group-title="Football", Chelsea TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/400x300/Inter_Channel.png" group-title="Football", Inter Channel
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/354.ts
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/62754/logo_lazio%20style%20tv.png" group-title="Football",Lazio Channel
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/344.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/LiverpoolFCTV.uk.png" group-title="Football", Liverpool TV
+http://31.220.1.190:8080/11223344/44332211/64983
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MUTV.uk.png" group-title="Football", MUTV
+http://31.220.1.190:8080/11223344/44332211/146001
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png" group-title="Football", Milan TV
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/338.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",  Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905104402897395712/WKYtGK81_400x400.jpg" group-title="Football", Roma TV
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/275.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportsingTV.pt.png" group-title="Football", Sportsing TV
+http://31.220.1.190:8080/11223344/44332211/65568
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781828_logo_torino_channel.png" group-title="Football", Torino TV
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/9298.ts
+
+#EXTINF:-1 tvg-logo="http://image.jtbcgolf.joins.com/main/151231_h_top_logo.png" group-title="Golf",JTBC Golf (한국어)
+http://125.180.209.70:9981/stream/channelid/1436099411
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="Golf", Movistar Golf (Espana)
+http://31.220.1.190:8080/11223344/44332211/70902
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
+http://31.220.1.190:8080/11223344/44332211/95151
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/SBS_Golf_logo.png" group-title="Golf",SBS GOLF (한국어)
+http://125.180.209.70:9981/stream/channelid/898608071
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf",Sky Sports Golf 
+http://31.220.1.190:8080/11223344/44332211/197957
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Golf", Ziggo Golf (Nederland)
+http://31.220.1.190:8080/11223344/44332211/111044
+
+
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/it/ClassHorseTV.it.png" group-title="Horse Racing",Class Horse
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/385.ts
+
+#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Horse Racing",Dubai Racing
+http://31.220.1.190:8080/11223344/44332211/63178
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="Horse Racing",Dubai Racing 2
+http://31.220.1.190:8080/11223344/44332211/63179
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HorseAndCountry.uk.png" group-title="Horse Racing", Horse & Country
+http://91.109.113.38:8000/play/a029
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/RacingUK.uk.png" group-title="Horse Racing", Racing UK
+http://31.220.1.190:8080/11223344/44332211/198820
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Unire-Sat.png" group-title="Horse Racing", UNIRE Sat (Italy)
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/180.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/HPI_TV_2015.png" group-title="Horse Racing", HPI (Canada)
+http://p4.giffy.be:8080/sandy/1234/96529
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Horse Racing", RACING.COM (Australia)
+http://31.220.1.190:8080/11223344/44332211/147654
+
+
+#EXTINF:-1 tvg-logo="http://pici.life/uk/BoxNation.uk.png" group-title="MMA",BoxNation
+http://31.220.1.190:8080/11223344/44332211/197922
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="MMA", Hard Knocks Fighting
+https://vcnboutSports.teleosmedia.com/stream/boutSports/boutSports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="MMA", Fight Network
+http://31.220.1.190:8080/11223344/44332211/150395
+#EXTINF:-1 tvg-logo="https://www.fightSports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="MMA",Fight Sports
+http://31.220.1.190:8080/11223344/44332211/155466
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FightBox.uk.png" group-title="MMA", Fightbox
+http://31.220.1.190:8080/11223344/44332211/77137
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsBoxOffice.uk.png" group-title="MMA",Sky Sports Box Office
+http://31.220.1.190:8080/11223344/44332211/133301
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="MMA", WWE
+http://31.220.1.190:8080/11223344/44332211/77082
+#EXTINF:-1 tvg-logo="http://www.izzudrecoba.com/wp-content/uploads/2016/02/ufctv.jpg" group-title="MMA", UFC TV
+http://31.220.1.190:8080/11223344/44332211/116157
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="MMA", UFC Fight Pass
+http://31.220.1.190:8080/11223344/44332211/76764
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Racing",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarFormula1.es.png" group-title="Racing",Movistar F1
+http://31.220.1.190:8080/11223344/44332211/70900
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Racing",Sky Sports F1
+http://31.220.1.190:8080/11223344/44332211/197954
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sky_Sports_F1_HD.JPG" group-title="Racing", Sky Sports F1 Italian
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/207.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Sky_Sports_motogp_hd.jpg" group-title="Racing", Sky Sports MotoGP
+http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/205.ts
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/157/icon-size-256.png" group-title="Racing", Ziggo Sports Racing
+http://31.220.1.190:8080/11223344/44332211/65189
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSports1.uk.png" group-title="BT Sports",BT Sports 1
@@ -487,79 +657,6 @@ http://31.220.1.190:8080/11223344/44332211/79182
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 Türkçe
 http://31.220.1.190:8080/11223344/44332211/79183
 
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOXSoccerPlus.us.png" group-title="Football", Fox Soccer Plus 
-http://31.220.1.190:8080/11223344/44332211/152484
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1920px-Movistar_Liga_de_Campeones.svg.png" group-title="Football",  Movistar Liga De Campeones
-http://31.220.1.190:8080/11223344/44332211/130309
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarFutbol.es.png" group-title="Football",  Movistar Futbol
-http://31.220.1.190:8080/11223344/44332211/157097
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football", Sky Sports Football
-http://31.220.1.190:8080/11223344/44332211/197955
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football",Sky Sports Premier League
-http://31.220.1.190:8080/11223344/44332211/197966
-#EXTINF:-1  tvg-logo="https://Sports-tv-guide.live/images/stations/a358.png" group-title="Football",Sky Sports Serie A
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/27780.ts
-#EXTINF:-1 tvg-logo="https://Sports-tv-guide.live/images/stations/a355.png" group-title="Football", Sky Sports Football Italia
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/209.ts
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/363.png" group-title="Football", Sky Sports Bundesliga 1
-http://31.220.1.190:8080/11223344/44332211/198070
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/217.png" group-title="Football", Sky Sports Bundesliga 2
-http://31.220.1.190:8080/11223344/44332211/198077
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/218.png" group-title="Football", Sky Sports Bundesliga 3
-http://31.220.1.190:8080/11223344/44332211/158932
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/219.png" group-title="Football", Sky Sports Bundesliga 4
-http://31.220.1.190:8080/11223344/44332211/89579
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/220.png" group-title="Football", Sky Sports Bundesliga 5
-http://31.220.1.190:8080/11223344/44332211/156407
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/221.png" group-title="Football", Sky Sports Bundesliga 6
-http://31.220.1.190:8080/11223344/44332211/64784
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/222.png" group-title="Football", Sky Sports Bundesliga 7
-http://31.220.1.190:8080/11223344/44332211/86186
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/223.png" group-title="Football", Sky Sports Bundesliga 8
-http://31.220.1.190:8080/11223344/44332211/64782
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/224.png" group-title="Football", Sky Sports Bundesliga 9
-http://31.220.1.190:8080/11223344/44332211/86188
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/226.png" group-title="Football", Sky Sports Bundesliga 10
-http://31.220.1.190:8080/11223344/44332211/64780
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="Football", LaLiga TV
-http://31.220.1.190:8080/11223344/44332211/97953
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes US
-http://31.220.1.190:8080/11223344/44332211/95121
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes Espana
-http://31.220.1.190:8080/11223344/44332211/117814
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UnivisionDeportes.us.png" group-title="Football", Univision Deportes Latino
-http://31.220.1.190:8080/11223344/44332211/68436
-#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Football", Ziggo Sports Voetbal
-http://31.220.1.190:8080/11223344/44332211/65193
-#EXTINF:-1 tvg-logo="http://online-allSports.com.ua/images/stories_2/logotv/futbol1uan.png" group-title="Football",ФУТБОЛ 1
-https://185-8-178-138.liveSports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-logo="http://online-allSports.com.ua/images/stories_2/logotv/futbol2uan.png" group-title="Football",ФУТБОЛ 2
-https://185-8-178-139.liveSports24.online/fooootball2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/BenficaTV1.pt.png" group-title="Football", Benfica TV
-http://31.220.1.190:8080/11223344/44332211/65585
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ChelseaTV.uk.png" group-title="Football", Chelsea TV
-https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/400x300/Inter_Channel.png" group-title="Football", Inter Channel
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/354.ts
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/62754/logo_lazio%20style%20tv.png" group-title="Football",Lazio Channel
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/344.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/LiverpoolFCTV.uk.png" group-title="Football", Liverpool TV
-http://31.220.1.190:8080/11223344/44332211/64983
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MUTV.uk.png" group-title="Football", MUTV
-http://31.220.1.190:8080/11223344/44332211/146001
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png" group-title="Football", Milan TV
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/338.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",  Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905104402897395712/WKYtGK81_400x400.jpg" group-title="Football", Roma TV
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/275.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportsingTV.pt.png" group-title="Football", Sportsing TV
-http://31.220.1.190:8080/11223344/44332211/65568
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781828_logo_torino_channel.png" group-title="Football", Torino TV
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/9298.ts
-
-
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_1_Logo_Primary_RGB.png" group-title="Flow Sports",Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Flow Sports",Flow Sports 1 HD
@@ -572,72 +669,6 @@ http://31.220.1.190:8080/11223344/44332211/198111
 http://31.220.1.190:8080/11223344/44332211/198112
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Flow Sports",Flow Sports 5
 http://31.220.1.190:8080/11223344/44332211/198113
-
-
-#EXTINF:-1 tvg-logo="http://image.jtbcgolf.joins.com/main/151231_h_top_logo.png" group-title="Golf",JTBC Golf (한국어)
-http://125.180.209.70:9981/stream/channelid/1436099411
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
-http://31.220.1.190:8080/11223344/44332211/95151
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="Golf", Movistar Golf (Espana)
-http://31.220.1.190:8080/11223344/44332211/70902
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/SBS_Golf_logo.png" group-title="Golf",SBS GOLF (한국어)
-http://125.180.209.70:9981/stream/channelid/898608071
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf",Sky Sports Golf 
-http://31.220.1.190:8080/11223344/44332211/197957
-#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Golf", Ziggo Golf (Nederland)
-http://31.220.1.190:8080/11223344/44332211/111044
-
-
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/it/ClassHorseTV.it.png" group-title="Horse Racing",Class Horse
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/385.ts
-
-#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Horse Racing",Dubai Racing
-http://31.220.1.190:8080/11223344/44332211/63178
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="Horse Racing",Dubai Racing 2
-http://31.220.1.190:8080/11223344/44332211/63179
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HorseAndCountry.uk.png" group-title="Horse Racing", Horse & Country
-http://91.109.113.38:8000/play/a029
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/RacingUK.uk.png" group-title="Horse Racing", Racing UK
-http://31.220.1.190:8080/11223344/44332211/198820
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Unire-Sat.png" group-title="Horse Racing", UNIRE Sat (Italy)
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/180.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/HPI_TV_2015.png" group-title="Horse Racing", HPI (Canada)
-http://p4.giffy.be:8080/sandy/1234/96529
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Horse Racing", RACING.COM (Australia)
-http://31.220.1.190:8080/11223344/44332211/147654
-
-
-#EXTINF:-1 tvg-logo="http://pici.life/uk/BoxNation.uk.png" group-title="MMA",BoxNation
-http://31.220.1.190:8080/11223344/44332211/197922
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="MMA", Hard Knocks Fighting
-https://vcnboutSports.teleosmedia.com/stream/boutSports/boutSports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="MMA", Fight Network
-http://31.220.1.190:8080/11223344/44332211/150395
-#EXTINF:-1 tvg-logo="https://www.fightSports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="MMA",Fight Sports
-http://31.220.1.190:8080/11223344/44332211/155466
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FightBox.uk.png" group-title="MMA", Fightbox
-http://31.220.1.190:8080/11223344/44332211/77137
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsBoxOffice.uk.png" group-title="MMA",Sky Sports Box Office
-http://31.220.1.190:8080/11223344/44332211/133301
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="MMA", WWE
-http://31.220.1.190:8080/11223344/44332211/77082
-#EXTINF:-1 tvg-logo="http://www.izzudrecoba.com/wp-content/uploads/2016/02/ufctv.jpg" group-title="MMA", UFC TV
-http://31.220.1.190:8080/11223344/44332211/116157
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="MMA", UFC Fight Pass
-http://31.220.1.190:8080/11223344/44332211/76764
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Racing",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarFormula1.es.png" group-title="Racing",Movistar F1
-http://31.220.1.190:8080/11223344/44332211/70900
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Racing",Sky Sports F1
-http://31.220.1.190:8080/11223344/44332211/197954
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sky_Sports_F1_HD.JPG" group-title="Racing", Sky Sports F1 Italian
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/207.ts
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Sky_Sports_motogp_hd.jpg" group-title="Racing", Sky Sports MotoGP
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/205.ts
-#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/157/icon-size-256.png" group-title="Racing", Ziggo Sports Racing
-http://31.220.1.190:8080/11223344/44332211/65189
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sky Sports",Sky Sports Action
 http://31.220.1.190:8080/11223344/44332211/197946
