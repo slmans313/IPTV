@@ -193,7 +193,7 @@ http://live4.netdesignhost.com/brighttvlive/brighttvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/200px-Boomerang-Logo.svg.png" group-title="Thailand (ประเทศไทย)", Boomerang
 #EXTINF:0 tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="Thailand (ประเทศไทย)", Ch 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
-#EXTINF:0  tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="Thailand (ประเทศไทย)",  Thai PBS 3 (ไทยพีบีเอส)
+#EXTINF:0  tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="Thailand (ประเทศไทย)",  Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/e/e0/Channel_28_Logo.png/225px-Channel_28_Logo.png" group-title="Thailand (ประเทศไทย)",Ch 3
 http://ch3-28.cdn.byteark.com/live/playlist_480p/index.m3u8
@@ -262,6 +262,10 @@ http://31.220.1.190:8080/11223344/44332211/198655
 http://31.220.1.190:8080/11223344/44332211/198657
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/DZRH_News_Television_logo.jpg/250px-DZRH_News_Television_logo.jpg" group-title="Phillippines(Pilipinas)", DZRH News
 http://31.220.1.190:8080/11223344/44332211/198658
+#EXTINF:0 tvg-logo="https://iptv.luxe/images/logo/channel/crops/d911f72fa3d37cdfd8885d81fc868c36.png" group-title="Phillippines(Pilipinas)",INCTV
+https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://iptv.luxe/images/logo/channel/crops/b32002693e75e28975a0356500286f70.png" group-title="Phillippines(Pilipinas)",INC Radio
+http://churchrus2-lh.akamaihd.net/i/incradio_1@57550/index_1100_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://www.ptvnews.ph/wp-content/uploads/2019/02/finallogo.png" group-title="Phillippines(Pilipinas)", PTV News
 http://31.220.1.190:8080/11223344/44332211/198660
 #EXTINF:0 tvg-logo="https://pbo.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-nav.png" group-title="Phillippines(Pilipinas)", Pinoy Box Office
