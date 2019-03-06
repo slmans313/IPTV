@@ -1,19 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 logo="https://i.imgur.com/98u0MKu.png" group-title="South Korea(한국어)",아리랑 TV (Arirang TV)
+#EXTINF:-1 logo="https://i.imgur.com/98u0MKu.png" group-title="South Korea(한국어)", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" group-title="South Korea(한국어)",채널A (A Channel)
+#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" group-title="South Korea(한국어)", A Channel
 http://streams.iptv.luxe:80/p/471485/c/20/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
 
-#EXTINF:-1 logo="https://i.imgur.com/QZkJqVU.png" group-title="South Korea(한국어)", 채널A플러스 (A+ Channel)
+#EXTINF:-1 logo="https://i.imgur.com/QZkJqVU.png" group-title="South Korea(한국어)", A+ Channel
 http://182.230.34.187:9981/stream/channelid/1600777694?ticket=C6B021EBA99C8E8DEE2645AF1CE00EE3822E646D&profile=pass
+
+#EXTINF:-1 logo="https://static.iptv-epg.com/mx/AXN.mx.png" group-title="South Korea(한국어)", AXN Korea
+http://streams.iptv.luxe:80/p/561521/c/1/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/SploBE2.png" group-title="South Korea(한국어)",BBS 불교방송
 http://119.194.58.213:9981/stream/channelid/18678333?ticket=9966EB9AC4D0CE2A91C641B4E407B47082B4798D&profile=pass
 
 #EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="South Korea(한국어)",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1 logo="http://s.iimg.me/ver3/images/gnb/635034453161457500.png" group-title="South Korea(한국어)",CGV
+http://streams.iptv.luxe:80/p/561521/c/8/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
 #EXTINF:-1 logo="http://i.imgur.com/0WmEGB4.png" group-title="South Korea(한국어)",E채널 (E Channel)
 http://182.230.34.187:9981/stream/channelid/1828522599?ticket=6A4DE0AB0DA7307C55559A9FE962B05CC7EF7912&profile=pass
@@ -39,6 +45,15 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="South Korea(한국어)", Focus Kids
 http://119.194.58.213:9981/stream/channelid/430919712?ticket=A29E1A8DB91255153354106B57346333EF154176&profile=pass
 
+#EXTINF:-1 tvg-logo="http://www.foxchannel.co.kr/wp-content/uploads/2015/03/FOX.png" group-title="South Korea(한국어)",FOX
+http://streams.iptv.luxe:80/p/561521/c/4/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xqw6vnb.png" group-title="South Korea(한국어)"GTV
+http://streams.iptv.luxe:80/p/561521/c/7/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.interpeople.co.kr/bbs_image/jeilogo.png" group-title="South Korea(한국어)",JEI TV 
+http://streams.iptv.luxe:80/p/561521/c/11/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1zQ3Uog.png" group-title="South Korea(한국어)", JTBC
 http://116.45.184.224:9981/stream/channelid/1770919117?ticket=FCBCA40A684470FFF3A7293FD7762952B9D5B56F&profile=pass
 
@@ -54,9 +69,6 @@ http://119.194.58.213:9981/stream/channelid/38105485?ticket=9EB9724C9EAF725B3EF2
 #EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/KBS2.png" group-title="South Korea(한국어)",KBS2
 http://119.194.58.213:9981/stream/channelid/147555683?ticket=DBAFEF90F93FEE4B4E11F20CC49E3A9E7A7F9B57&profile=pass
 
-#EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea(한국어)", 문화방송 (MBC)
-http://119.194.58.213:9981/stream/channelid/861562097?ticket=665A9772C9D2B2E326E0BBD0E59F99626CAD2FF0&profile=pass
-
 #EXTINF:-1 logo="https://i.imgur.com/MWbrZ52.jpg" group-title="South Korea(한국어)",KBS Drama
 http://211.207.173.34:9981/stream/channelid/243030777
 
@@ -64,21 +76,24 @@ http://211.207.173.34:9981/stream/channelid/243030777
 http://211.207.173.34:9981/stream/channelid/191678688
 
 #EXTINF:-1 logo="https://i.imgur.com/lrfXPUG.png" group-title="South Korea(한국어)",KBS Kids
-http://streams.iptv.luxe:80/p/553627/c/15/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
+http://streams.iptv.luxe:80/p/561521/c/17/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
-#EXTINF:-1 logo="https://i.imgur.com/WDQdCBB.png" group-title="South Korea(한국어)",국방TV (Korea TV)
+#EXTINF:-1 logo="https://i.imgur.com/WDQdCBB.png" group-title="South Korea(한국어)", Korea TV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+
+#EXTINF:-1 logo="https://static-media.streema.com/media/cache/de/cb/decbb340dbb35f6e8b758ef8d51fdf7d.jpg" group-title="South Korea(한국어)",Korea Fishing TV
+http://streams.iptv.luxe:80/p/561521/c/27/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea(한국어)", MBC
 http://119.194.58.213:9981/stream/channelid/861562097?ticket=665A9772C9D2B2E326E0BBD0E59F99626CAD2FF0&profile=pass
 
-#EXTINF:-1 logo="https://i.imgur.com/kOFkxzI.png" group-title="South Korea(한국어)", MBC 드라마 (MBC Drama)
-http://streams.iptv.luxe:80/p/553627/c/14/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/kOFkxzI.png" group-title="South Korea(한국어)", MBC Drama
+http://streams.iptv.luxe:80/p/561521/c/3/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/MBC_Every_1_logo.png" group-title="South Korea(한국어)", MBC 에브리원 (MBC Every1)
-http://streams.iptv.luxe:80/p/553627/c/11/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/MBC_Every_1_logo.png" group-title="South Korea(한국어)", MBC Every1
+http://streams.iptv.luxe:80/p/561521/c/16/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
-#EXTINF:-1 logo="https://i.imgur.com/mctTk0O.png" group-title="South Korea(한국어)",MBC 뮤직(MBC Music)
+#EXTINF:-1 logo="https://i.imgur.com/mctTk0O.png" group-title="South Korea(한국어)", MBC Music
 http://125.180.209.70:9981/stream/channelid/795442252
 
 #EXTINF:-1 tvg-logo= "https://i.imgur.com/DV4MhG6.png" group-title="South Korea(한국어)", MBC Net
@@ -89,6 +104,12 @@ http://streams.iptv.luxe:80/p/471485/c/6/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B
 
 #EXTINF:-1 logo="https://i.imgur.com/ofTnpK2.png" group-title="South Korea(한국어)", MBN플러스 (MBN +)
 http://211.207.173.34:9981/stream/channelid/290825075
+
+#EXTINF:-1 logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="South Korea(한국어)", National Geographic (Korea)
+http://streams.iptv.luxe:80/p/561521/c/12/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+
+#EXTINF:-1 logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/635048437234891250.png"  group-title="South Korea(한국어)",OCN
+http://streams.iptv.luxe:80/p/561521/c/13/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
 #EXTINF:-1 logo="http://bhouse.kr/wp/wp-content/uploads/2013/09/olleh-tv-red.png"  group-title="South Korea(한국어)", olleh TV
 http://119.194.58.213:9981/stream/channelid/951174388?ticket=EB1233F003485135E8952A375FD9BB1D75F9EB53&profile=pass
@@ -103,10 +124,13 @@ http://streams.iptv.luxe:80/p/471485/c/15/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5
 http://119.194.58.213:9981/stream/channelid/1540226433?ticket=735B9BE066CF7EA8DF2634134B3CF0ED04F1AF4F&profile=pass
 
 #EXTINF:-1 logo="https://i.imgur.com/5I4YIOk.png" group-title="South Korea(한국어)", SBS 플러스 (SBS Plus)
-http://streams.iptv.luxe:80/p/553627/c/20/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
+http://streams.iptv.luxe:80/p/561521/c/23/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/hHeJkei.png" group-title="South Korea(한국어)",SBS MTV
-http://streams.iptv.luxe:80/p/580473/c/20/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
+http://streams.iptv.luxe:80/p/561521/c/22/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+
+#EXTINF:-1 logo="http://www.imtcast.com/screen/images/common/brand_logo.gif" group-title="South Korea(한국어)",SCREEN
+http://streams.iptv.luxe:80/p/561521/c/14/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5sVA9J.png" group-title="South Korea(한국어)", TV조선 (Chosun TV)
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
