@@ -51,11 +51,20 @@ http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/crops/c97b50e14f083712f2fa0bb7302c223d.png" group-title="UAE (ماراتيين)",MBC Action
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png group-title="UAE (ماراتيين)",MBC Max
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="UAE (ماراتيين)",MBC Max
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNMovies.ae.png" group-title="UAE (ماراتيين)",OSN Movies
+http://streams.iptv.luxe:80/p/563368/c/2/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNMovies.ae.png" group-title="UAE (ماراتيين)",OSN Movies  +2h
+http://streams.iptv.luxe:80/p/563368/c/3/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/samadubai.ae.png" group-title="UAE (ماراتيين)",Sama Dubai
 http://31.220.1.190:8080/11223344/44332211/63239
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Syfy.fr.png" group-title="UAE (ماراتيين)", Syfy (Arabic)
+http://streams.iptv.luxe:80/p/563368/c/4/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
 
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/858360ec819ed54c7f04e211fb773add.jpeg" group-title="UAE (ماراتيين)", NOUR DUBAI
 http://31.220.1.190:8080/11223344/44332211/131064
