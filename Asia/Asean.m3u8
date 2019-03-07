@@ -243,6 +243,8 @@ http://103.246.16.248:9981/stream/channelid/1529352339
 http://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://iptv.luxe/images/logo/channel/crops/ff71a4f48299ce076ed1871626cf3b81.png" group-title="Thailand (ประเทศไทย)", TNN24
 http://103.246.16.248:9981/stream/channelid/516492816
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/true4u-logo-png.png" group-title="Thailand (ประเทศไทย)", True4U (ประเทศไทย)
+http://183.182.100.184/live/true4u/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Workpoint_TV_Logo.png" group-title="Thailand (ประเทศไทย)", Workpoint TV
 http://31.220.1.190:8080/11223344/44332211/125368
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png" group-title="Thailand (ประเทศไทย)", Voice TV 21
@@ -285,12 +287,13 @@ http://31.220.1.190:8080/11223344/44332211/198664
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Viva_TV_logo.jpg/250px-Viva_TV_logo.jpg" group-title="Phillippines(Pilipinas)",VIVA TV
 http://31.220.1.190:8080/11223344/44332211/198665
 
-
+#EXTINF:0 tvg-logo="http://bayontv.com.kh/wp-content/uploads/2018/09/bayon272_90e-2.png group-title="Cambodia( កម្ពុជា ) ", Bayon TV 
+http://103.242.13.90:5555/udp/239.4.1.210:10000
 
 #EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/7/csm_12-400_import_f5aa06c50f.png" group-title="Cambodia( កម្ពុជា ) ",  Hang MeasTV
-http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w469404394_b328000_sleng.m3u8
+http://103.242.13.90:5555/udp/239.4.1.211:10000
 #EXTINF:0 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="Cambodia( កម្ពុជា ) ",  Reaksmey Hang MeasTV
-http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/chunklist_w1716125825_b328000_sleng.m3u8
+http://103.242.13.90:5555/udp/239.4.1.216:10000
 
 #EXTINF:0 tvg-logo="http://www.phnompenhpost.com/sites/default/files/pnn.jpg" group-title="Cambodia( កម្ពុជា ) ",  PNN
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
