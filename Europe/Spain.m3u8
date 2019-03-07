@@ -242,24 +242,22 @@ http://31.220.1.190:8080/11223344/44332211/123325
 http://31.220.1.190:8080/11223344/44332211/84180
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/NatGeoWild.pt.png" group-title="Portuguese (Português)",  Nat Geo Wild
 http://31.220.1.190:8080/11223344/44332211/65592
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/NatGeoWild.pt.png" group-title="Portuguese (Português)",  Nat Geo Wild
-http://31.220.1.190:8080/11223344/44332211/198631
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Rtp1.pt.png" group-title="Portuguese (Português)",RTP 1
-http://31.220.1.190:8080/11223344/44332211/94996
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Rtp2.pt.png" group-title="Portuguese (Português)",RTP 2
-http://31.220.1.190:8080/11223344/44332211/65657
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Rtp3.pt.png" group-title="Portuguese (Português)",RTP 3
-http://31.220.1.190:8080/11223344/44332211/65655
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RtpAfrica.pt.png" group-title="Portuguese (Português)",RTP Africa
-http://31.220.1.190:8080/11223344/44332211/65651
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RtpMadeira.pt.png" group-title="Portuguese (Português)", RTP Madeira
-http://31.220.1.190:8080/11223344/44332211/65654
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RtpMemoria.pt.png" group-title="Portuguese (Português)", RTP Memoria
-http://31.220.1.190:8080/11223344/44332211/65653
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RtpAcores.pt.png" group-title="Portuguese (Português)",RTP Acores
-http://31.220.1.190:8080/11223344/44332211/65652
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RTPInternacional.pt.png" group-title="Portuguese (Português)", RTP Internacional 
-http://31.220.1.190:8080/11223344/44332211/88154
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtv.com.pt/images/logo.png" group-title="Portuguese (Português)",Regioes TV
 http://p4.giffy.be:8080/sandy/1234/95044
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/TcvInternational.pt.png" group-title="Portuguese (Português)",TCV
@@ -275,7 +273,7 @@ http://p4.giffy.be:8080/sandy/1234/95053
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" group-title="Portuguese (Português)",SIC Noticias
 http://p4.giffy.be:8080/sandy/1234/95065
 #EXTINF:-1 tvg-logo="https://www.tvchannellists.com/images/thumb/8/85/Sic.png/75px-Sic.png" group-title="Portuguese (Português)",SIC
-http://p4.giffy.be:8080/sandy/1234/76554
+http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Tvi.pt.png" group-title="Portuguese (Português)",TVI
 http://p4.giffy.be:8080/sandy/1234/95086
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Tvi24.pt.png" group-title="Portuguese (Português)",TVI 24
