@@ -67,7 +67,8 @@ http://31.220.1.190:8080/11223344/44332211/198651
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="Asean Sports", beIN Sports 1 Thailand
-rtmp://118.97.96.17:1935/discover
+#EXTINF:-1 group-title="GADO GADO",TRUEFox Sports 2 
+http://103.242.13.90:5555/udp/239.4.1.48:10000
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="Asean Sports", beIN Sports 2 Thailand
 http://streams.iptv.luxe:80/p/509633/c/27/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
@@ -82,6 +83,8 @@ http://streams.iptv.luxe:80/p/509633/c/28/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5
 http://113.22.252.114:8889/udp/225.1.4.10:30120
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Asean Sports", Fox Sports 2 (Asia)
 http://113.22.252.114:8889/udp/225.1.4.11:30120
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Asean Sports", Fox Sports 2 (Asia)
+http://103.242.13.90:5555/udp/239.4.1.48:10000
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Asean Sports", Fox Sports 3 (Asia)
 http://113.22.252.114:8889/udp/225.1.2.242:30120
 
