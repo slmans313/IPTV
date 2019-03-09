@@ -354,8 +354,13 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="Middle East Sports",Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
-#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/bahrainsports.jpg" group-title="Middle East Sports", Bahrain Sports 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-iraqiya-sport-iq.png" group-title="Middle East Sports",Al-Iraqiya Sport
+http://188.93.238.43:8000/play/a0al
+
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/bahrainsports.jpg" group-title="Middle East Sports", Bahrain Sports 1
+http://188.93.238.43:8000/play/a035
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/bahrainsports.jpg" group-title="Middle East Sports", Bahrain Sports  2
+http://188.93.238.43:8000/play/a036
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="Middle East Sports", beIN Sports 1
 http://www.freeiptvdaily.net:8000/live/scqaBUlrHH/FT9B3yJDIL/1.ts 
@@ -399,6 +404,19 @@ http://31.220.1.190:8080/11223344/44332211/66506
 http://31.220.1.190:8080/11223344/44332211/66501
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv_Sports_95x84.gif" group-title="Middle East Sports", Kuwait Sports
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/06/KSASports.png" group-title="Middle East Sports", KSA SPORTS 1
+http://188.93.238.43:8000/play/a0bo
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/06/KSASports.png" group-title="Middle East Sports", KSA SPORT 2
+http://188.93.238.43:8000/play/a0bn
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/06/KSASports.png" group-title="Middle East Sports", KAS Sports +1
+http://188.93.238.43:8000/play/a0bz
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/06/KSASports.png" group-title="Middle East Sports", KSA Sports +2
+http://188.93.238.43:8000/play/a0bq
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="Turkish Sports",beIN Sports 1 (Turkey)
 http://185-8-178-138.livesports24.online/bsporttur1.m3u8
@@ -572,8 +590,6 @@ http://185-125-230-172.livesports24.online/btsportone.m3u8
 http://185-8-178-139.livesports24.online/btsportsport2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="BT Sports",BT Sports 3
 https://edgetv-nl-03.mycdn.video/btsport3/index.m3u8?token=98af7b57c268d141b484e7d8c1495a80ae0d1643-318af08f3ef268e386060596e4824188-1550273333-1550186933
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="BT Sports", BT Sports ESPN
-http://iptv.drsharing.com:50100/www.drsharing.com/dr/2341
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="BT Sports", BT Sports ESPN
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/1297
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="11 Sports",11 Sports 1 (UK)
