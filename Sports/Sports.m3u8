@@ -209,9 +209,9 @@ http://185.24.34.97:8000/play/a00l/index.m3u8
 http://185.24.34.97:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nova.gr/files/1/NovaChannels/novagoHD/ns1hd.png" group-title="European Sports",Nova Sports 1
-http://streams.iptv.luxe:80/p/558221/c/291/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
+http://se02.se.cdn-05.srv.markiza.sk/hls/hls/novasport-w-1.m3u8
 #EXTINF:-1 tvg-logo="http://www.nova.gr/files/1/NovaChannels/novagoHD/ns2hd.png" group-title="European Sports",Nova Sports 2
-http://streams.iptv.luxe:80/p/558221/c/290/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
+http://se02.se.cdn-05.srv.markiza.sk/hls/hls/novasport2-w-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/5f8b73c0d4b1bf60dd7173b660b87c29premier.jpg" group-title="European Sports", Premier Sports
 http://31.220.1.190:8080/11223344/44332211/91964
@@ -354,7 +354,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="Middle East Sports",Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="SPORTS",Al Kass Sports 5
+#EXTINF:-1tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="SPORTS",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-iraqiya-sport-iq.png" group-title="Middle East Sports",Al-Iraqiya Sport
@@ -402,10 +402,10 @@ http://31.220.1.190:8080/11223344/44332211/111591
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports2.ae.png" group-title="Middle East Sports", Dubai Sports 2
 http://31.220.1.190:8080/11223344/44332211/110126
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/3.ir.png" group-title="Middle East Sports", IRIB 3 
-http://31.220.1.190:8080/11223344/44332211/66506
+http://live.fam.ir/hls/IRIB-TV3_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="Middle East Sports", IRIB Varzesh
-http://31.220.1.190:8080/11223344/44332211/66501
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv_Sports_95x84.gif" group-title="Middle East Sports", Kuwait Sports
+http://live.fam.ir/hls/VARZESH_mid/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Middle East Sports", Kuwait Sports
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 
 
