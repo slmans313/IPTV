@@ -310,13 +310,15 @@ http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Sports +
 http://ott-cdn.ucom.am/s82/index.m3u8 
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/00/01/11/06s.png" group-title="Russian Sports", Матч!
-http://streams.iptv.luxe:80/p/561921/c/101/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
+http://persik.by/stream/5725/389676/276.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/27/p1d.png" group-title="Russian Sports", Матч! Арена
-http://streams.iptv.luxe:80/p/558221/c/394/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
+http://persik.by/stream/5725/389676/261.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/32/i2o.png" group-title="Russian Sports", Матч! Игра
-http://streams.iptv.luxe:80/p/558221/c/393/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
-#EXTINF:-1 tvg-logo="https://www.ionitcom.ru/wp-content/uploads/2018/01/Logo_nash_Sport-300x156.png" group-title="Russian Sports", Матч! Наш спорт
-http://streams.iptv.luxe:80/p/561921/c/43/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
+http://persik.by/stream/5725/389676/10270.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/32/i2o.png" group-title="Russian Sports", Матч! CTPAHA
+http://persik.by/stream/5725/389676/10271.m3u8
+#EXTINF:-1 tvg-logo="https://rusyf.ru/uploads/editor/pictures/12721/content_60e2069cd82cbfbf53733efff08d2173.png" group-title="Russian Sports", Матч! Наш спорт
+http://persik.by/stream/5725/389676/10266.m3u8 
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/32/i2o.png" group-title="Russian Sports", Матч! премьер
 http://185-8-178-140.livesports24.online/mpremierrus.m3u8
 #EXTINF:-1 tvg-logo="https://kimdeyir.com/wp-content/uploads/2018/10/mqs.png" group-title="Russian Sports",Матч! Футбол 1
@@ -357,7 +359,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 #EXTINF:-1tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="SPORTS",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-iraqiya-sport-iq.png" group-title="Middle East Sports",Al-Iraqiya Sport
+#EXTINF:-1 tvg-logo="http://freetvall.com/files/thumbs/131678864721696-1.png" group-title="Middle East Sports",Al-Iraqiya Sport
 http://188.93.238.43:8000/play/a0al
 
 #EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/bahrainsports.jpg" group-title="Middle East Sports", Bahrain Sports 1
@@ -385,11 +387,9 @@ http://roseflo.com:25461/bff912bcc9/bff912bd00/1699
 http://roseflo.com:25461/bff912bcc9/bff912bd00/1698
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183173832748.png" group-title="Middle East Sports", beIN Sports 10
 http://roseflo.com:25461/bff912bcc9/bff912bd00/1696
-
-
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183184434963.png" group-title="Middle East Sports",  beIN Sports 11
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183184434963.png" group-title="Middle East Sports", beIN Sports 11
 http://iptvtool.es:9977/44332211/44332211/64161
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183185429247.jpg" group-title="Middle East Sports", beIN Sports 12
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183185429247.jpg" group-title="Middle East Sports",beIN Sports 12
 http://iptvtool.es:9977/44332211/44332211/64160
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183185442313.jpg" group-title="Middle East Sports",beIN Sports 13
 http://31.220.1.190:8080/11223344/44332211/197975
@@ -401,8 +401,6 @@ http://31.220.1.190:8080/11223344/44332211/197977
 http://31.220.1.190:8080/11223344/44332211/197978
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Middle East Sports", Dubai Sports 1
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports2.ae.png" group-title="Middle East Sports", Dubai Sports 2
-http://31.220.1.190:8080/11223344/44332211/110126
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/3.ir.png" group-title="Middle East Sports", IRIB 3 
 http://live.fam.ir/hls/IRIB-TV3_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="Middle East Sports", IRIB Varzesh
@@ -430,7 +428,7 @@ http://80.80.160.168/live/6/live.m3u8
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/204.ts
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOXSoccerPlus.us.png" group-title="Football", Fox Soccer Plus 
-http://31.220.1.190:8080/11223344/44332211/152484
+http://185.59.223.148/usa_sports_fox_soccer_plus_hd/mpegts 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/beINLaLiga.es.png" group-title="Football", beIN LaLiga
 http://iptvtool.es:9977/44332211/44332211/37188
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/beINLaLiga123.es.png" group-title="Football", LaLiga 123 
