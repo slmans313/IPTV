@@ -76,15 +76,9 @@ http://49.49.129.56:9981/stream/channelid/765913626?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Asean Sports", Fox Sports 1 (Asia)
-http://49.49.129.56:9981/stream/channelid/829494028?profile=pass
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Asean Sports", Fox Sports 1 (Asia)
 http://103.242.13.90:5555/udp/239.4.2.47:10000
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Asean Sports", Fox Sports 2 (Asia)
-http://49.49.129.56:9981/stream/channelid/1625474533?profile=pass
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Asean Sports", Fox Sports 2 (Asia)
 http://103.242.13.90:5555/udp/239.4.1.48:10000
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Asean Sports", Fox Sports 3 (Asia)
-http://49.49.129.56:9981/stream/channelid/77790517?profile=pass
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Asean Sports", Fox Sports 3 (Asia)
 http://103.242.13.90:5555/udp/239.4.1.44:10000#EXTINF:-1 tvg-id="0c1371b13a1ad208b8912907579716ae",FOX SPORTS 1 [KP]
 
@@ -438,10 +432,16 @@ http://31.220.1.190:8080/11223344/44332211/197976
 http://31.220.1.190:8080/11223344/44332211/197977
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183185822441.jpg" group-title="Middle East Sports",beIN Sports 16 
 http://31.220.1.190:8080/11223344/44332211/197978
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Middle East Sports", Dubai Sports 1
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="Middle East Sports", IRIB Varzesh
 https://tv17.cdn.dayacom.ir/media/tv17/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/JordanTV.png" group-title="Middle East Sports", Jordan RTV 2
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w1538852627.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Middle East Sports", Kuwait Sports
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 
