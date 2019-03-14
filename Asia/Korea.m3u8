@@ -141,7 +141,10 @@ http://31.220.1.190:8080/11223344/44332211/121967
 #EXTINF:-1 logo="https://i.imgur.com/kAOzMfX.png"  group-title="South Korea(한국어)",YTN 사이언스 (YTN Science)
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg" group-title="Japan(日本)", TBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png" group-title="Japan(日本)",MBS 
+http://203.162.235.41:16907
+
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg" group-title="Japan(日本)", BS TBS
 http://203.162.235.41:16913
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="Japan(日本)", TV Asahi
@@ -159,14 +162,13 @@ http://203.162.235.41:16911
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png" group-title="Japan(日本)", TV Tokyo
 http://203.162.235.41:16908
 
-
 #EXTINF:-1 tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg" group-title="Japan(日本)", BS TV Tokyo
 http://203.162.235.41:16915
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/903551417721339904/_fg9BObb.jpg" group-title="Japan(日本)", NHK BS 1
 http://203.162.235.41:16909
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/BSP1-2.png" group-title="Japan(日本)", NHK BS Premium
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="Japan(日本)", NHK BS Premium
 http://203.162.235.41:16910
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="Japan(日本)",NHK G
@@ -178,8 +180,11 @@ http://203.162.235.41:16901
 #EXTINF:-1 tvg-logo="https://www.abu.org.my/images/articles/news/NHK_WORLD_sq_2017.jpg" group-title="Japan(日本)",NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
+#EXTINF:-1  tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nippon_tv_logo_2014.png" group-title="Japan(日本)", NTV
+http://203.162.235.41:16905
+
 #EXTINF:-1  tvg-logo="https://digitalentertainmentmarketing.files.wordpress.com/2014/11/digital-entertainment-post-ntv-nippon-tv-japan.png" group-title="Japan(日本)",NTV News 24
 http://www.news24.jp/livestream/index.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NTV-670x300.png" group-title="Japan(日本)", NTV
-http://203.162.235.41:16905
+#EXTINF:-1  tvg-logo="https://www.nautiljon.com/images/societes/00/07/wowow_prime_7570.jpg" group-title="Japan(日本)", Wowow Prime
+http://203.162.235.41:16916
