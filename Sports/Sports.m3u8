@@ -174,7 +174,7 @@ http://218.38.142.168:9981/stream/channelid/371348481
 http://110.11.98.146:9981/stream/channelid/2044281775?ticket=8436EB0C1BDA3A0A64DBDBCCBFBA612508390C60&profile=pass
 
 #EXTINF:-1 tvg-logo="https://tv.skylife.co.kr/upload/channel/file826d61b3-cfbf-44b6-b0a1-3cb93a814b7d.png" group-title="Asian Sports",SkySports (한국어)
-http://streams.iptv.luxe:80/p/561521/c/25/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+http://14.56.230.103:9981/stream/channelid/1290801768?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/92/a5/31/92a531eacecfe35f47e32c450318a3f6.png" group-title="Asian Sports", Star Sports 1
 http://111.90.151.57:8080/liviu/12345/198575
@@ -225,6 +225,9 @@ http://111.90.151.57:8080/liviu/12345/65871
 http://111.90.151.57:8080/liviu/12345/65870
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DigiSport4.sk.png" group-title="European Sports", Digi Sports 4
 http://111.90.151.57:8080/liviu/12345/110982
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FreeSports.uk.png" group-title="European Sports", Free Sports TV
+http://111.90.151.57:8080/liviu/12345/108660
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Kujtesa-logo-NEW.jpg" group-title="European Sports",Kujtesa Sports 1
 http://185.67.179.250/play/a00z/index.m3u8
@@ -568,7 +571,7 @@ http://111.90.151.57:8080/liviu/12345/63179
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HorseAndCountry.uk.png" group-title="Horse Racing", Horse & Country (UK)
 http://91.109.113.38:8000/play/a029
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/RacingUK.uk.png" group-title="Horse Racing", Racing (UK)
-http://iptvtool.es:9977/44332211/44332211/73524
+http://111.90.151.57:8080/liviu/12345/65019
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png group-title="Horse Racing", Racing.com (Australia)
 http://101.166.171.215:9981/stream/channelid/1551209396
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Unire-Sat.png" group-title="Horse Racing", UNIRE Sat (Italy)
@@ -576,7 +579,7 @@ http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/180.ts
 
 
 #EXTINF:-1 tvg-logo="http://pici.life/uk/BoxNation.uk.png" group-title="MMA",BoxNation
-http://streams.iptv.luxe:80/p/561575/c/23/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+http://111.90.151.57:8080/liviu/12345/74518
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="MMA", Hard Knocks Fighting
 https://vcnboutSports.teleosmedia.com/stream/boutSports/boutSports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="MMA", Fight Network
@@ -590,7 +593,7 @@ http://203.154.243.32:8088/live/hfs/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsBoxOffice.uk.png" group-title="MMA",Sky Sports Box Office
 http://111.90.151.57:8080/liviu/12345/133301
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="MMA", WWE
-http://www.freeiptvdaily.net:8000/live/scqaBUlrHH/FT9B3yJDIL/36.ts
+http://111.90.151.57:8080/liviu/12345/93245
 #EXTINF:-1 tvg-logo="http://www.izzudrecoba.com/wp-content/uploads/2016/02/ufctv.jpg" group-title="MMA", UFC TV
 http://111.90.151.57:8080/liviu/12345/116157
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="MMA", UFC Fight Pass
@@ -622,17 +625,18 @@ http://111.90.151.57:8080/liviu/12345/102468
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="BT Sports",BT Sports 1
-http://185-125-230-172.livesports24.online/btsportone.m3u8
+http://111.90.151.57:8080/liviu/12345/92580
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="BT Sports",BT Sports 2
-http://185-8-178-139.livesports24.online/btsportsport2.m3u8
+http://111.90.151.57:8080/liviu/12345/92581
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="BT Sports",BT Sports 3
-https://edgetv-nl-03.mycdn.video/btsport3/index.m3u8?token=98af7b57c268d141b484e7d8c1495a80ae0d1643-318af08f3ef268e386060596e4824188-1550273333-1550186933
+http://111.90.151.57:8080/liviu/12345/93484
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="BT Sports", BT Sports ESPN
-http://iptv.drsharing.com:50100/www.drsharing.com/dr/1297
+http://111.90.151.57:8080/liviu/12345/107282
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="11 Sports",11 Sports 1 (UK)
-http://streams.iptv.luxe:80/p/488877/c/12/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
+http://111.90.151.57:8080/liviu/12345/124390
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="11 Sports",11 Sports 2 (UK)
-http://streams.iptv.luxe:80/p/488877/c/13/u/219912/RKvDFxH7BQVZJ6314ZahJgTJfqGG5B.m3u8
+http://111.90.151.57:8080/liviu/12345/137212
+
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="11 Sports",11 Sports 1 (Belgium)
 http://111.90.151.57:8080/liviu/12345/113123
@@ -681,10 +685,14 @@ http://iptv.drsharing.com:50100/www.drsharing.com/dr/2636
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNU.us.png" group-title="ESPN", ESPN U
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/2656
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSport1.uk.png" group-title="EuroSports", EuroSports 1
-http://iptvtool.es:9977/44332211/44332211/73515
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSport2.uk.png" group-title="EuroSports", EuroSports 2
-http://iptvtool.es:9977/44332211/44332211/73514
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSport1.uk.png" group-title="EuroSports", EuroSports 1 България
+http://111.90.151.57:8080/liviu/12345/65014
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSport2.uk.png" group-title="EuroSports", EuroSports 2 България
+http://111.90.151.57:8080/liviu/12345/93240
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Čeština 
+http://111.90.151.57:8080/liviu/12345/78791
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Čeština 
+http://111.90.151.57:8080/liviu/12345/78792
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Čeština 
 http://111.90.151.57:8080/liviu/12345/132049
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 Čeština 
@@ -704,29 +712,41 @@ http://111.90.151.57:8080/liviu/12345/70840
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 España
 http://111.90.151.57:8080/liviu/12345/81427
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports",EuroSports 1 Francais
-http://www.freeiptvdaily.net:8000/live/scqaBUlrHH/FT9B3yJDIL/12.ts
+http://111.90.151.57:8080/liviu/12345/73680
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 Francais
-http://www.freeiptvdaily.net:8000/live/scqaBUlrHH/FT9B3yJDIL/13.ts
+http://111.90.151.57:8080/liviu/12345/74650
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports",EuroSports 1 Ελλάδα
+http://111.90.151.57:8080/liviu/12345/64692
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 Ελλάδα
+http://111.90.151.57:8080/liviu/12345/77980
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Hrvatska
 http://111.90.151.57:8080/liviu/12345/197295
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 Hrvatska
 http://111.90.151.57:8080/liviu/12345/197296
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Italia
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/372.ts
+http://111.90.151.57:8080/liviu/12345/62019
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 Italia
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/373.ts
+http://111.90.151.57:8080/liviu/12345/62018
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Nederland
 http://111.90.151.57:8080/liviu/12345/74964
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 Nederland
 http://111.90.151.57:8080/liviu/12345/158140
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Norsk
 http://111.90.151.57:8080/liviu/12345/93148
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Polska 
+http://111.90.151.57:8080/liviu/12345/74131
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 1 Polska 
+http://111.90.151.57:8080/liviu/12345/74132
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/EuroSports1.pt.png" group-title="EuroSports",EuroSports 1 Português
 http://111.90.151.57:8080/liviu/12345/84177
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/EuroSports2.pt.png" group-title="EuroSports",EuroSports 2 Português
 http://111.90.151.57:8080/liviu/12345/84216
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/EuroSports1.pt.png" group-title="EuroSports",EuroSports 1 România
+http://111.90.151.57:8080/liviu/12345/145815
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/EuroSports2.pt.png" group-title="EuroSports",EuroSports 2 România
+http://111.90.151.57:8080/liviu/12345/62973
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports", EuroSports 1 Россия
-http://streams.iptv.luxe:80/p/561921/c/45/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
+http://111.90.151.57:8080/liviu/12345/90526
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports2.uk.png" group-title="EuroSports", EuroSports 2 Россия
 http://111.90.151.57:8080/liviu/12345/90525
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSports1.uk.png" group-title="EuroSports",EuroSports 1 Svenska
