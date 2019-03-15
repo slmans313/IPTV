@@ -87,6 +87,9 @@ http://111.90.151.57:8080/liviu/12345/153935
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png" group-title="UK", E! UK
 http://111.90.151.57:8080/liviu/12345/198502
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ForcesTV.uk.png" group-title="UK",Forces TV
+http://111.90.151.57:8080/liviu/12345/65584
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png" group-title="UK", Food Network
 http://111.90.151.57:8080/liviu/12345/75720
 
@@ -186,6 +189,9 @@ http://111.90.151.57:8080/liviu/12345/199161
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCAlba.uk.png" group-title="Scotland", BBC Alba
 http://111.90.151.57:8080/liviu/12345/74735
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/STV.uk.png" group-title="Scotland", STV
+http://111.90.151.57:8080/liviu/12345/98263
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/EirSport1.ie.png" group-title="Ireland", Eir Sport 1
 http://111.90.151.57:8080/liviu/12345/132765
@@ -357,10 +363,7 @@ http://111.90.151.57:8080/liviu/12345/99955
 http://111.90.151.57:8080/liviu/12345/131294
 #EXTINF:-1,UK: Fine Living Network
 http://111.90.151.57:8080/liviu/12345/86312
-#EXTINF:-1,UK: Forces TV HD
-http://111.90.151.57:8080/liviu/12345/65584
-#EXTINF:-1,UK: Fox News HD
-http://111.90.151.57:8080/liviu/12345/74608
+
 #EXTINF:-1,UK: France 24 English
 http://111.90.151.57:8080/liviu/12345/74737
 #EXTINF:-1,UK: Front Runner
@@ -375,10 +378,7 @@ http://111.90.151.57:8080/liviu/12345/63548
 http://111.90.151.57:8080/liviu/12345/74597
 #EXTINF:-1,UK: HBO 1 HD
 http://111.90.151.57:8080/liviu/12345/65138
-#EXTINF:-1,UK: HBO Comedy HD
-http://111.90.151.57:8080/liviu/12345/65139
-#EXTINF:-1,UK: HBO HD
-http://111.90.151.57:8080/liviu/12345/91383
+
 #EXTINF:-1,UK: Heart TV
 http://111.90.151.57:8080/liviu/12345/65060
 #EXTINF:-1,UK: High street TV 2
@@ -430,8 +430,6 @@ http://111.90.151.57:8080/liviu/12345/64982
 http://111.90.151.57:8080/liviu/12345/74600
 #EXTINF:-1,UK: MOVIES 4 MEN
 http://111.90.151.57:8080/liviu/12345/65124
-#EXTINF:-1,UK: MOVIES 24
-http://111.90.151.57:8080/liviu/12345/139597
 #EXTINF:-1,UK: MOVIES MODERN GREAT
 http://111.90.151.57:8080/liviu/12345/102179
 #EXTINF:-1,UK: MTV Base HD
@@ -491,32 +489,6 @@ http://111.90.151.57:8080/liviu/12345/99603
 #EXTINF:-1,UK: SKY ARTS 1 HD
 http://111.90.151.57:8080/liviu/12345/65113
 
-#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
-http://111.90.151.57:8080/liviu/12345/88315
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://111.90.151.57:8080/liviu/12345/65157
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
-http://111.90.151.57:8080/liviu/12345/65144
-#EXTINF:-1,UK: Sky Cinema Disney FHD
-http://111.90.151.57:8080/liviu/12345/65135
-#EXTINF:-1,UK: Sky Cinema Family FHD
-http://111.90.151.57:8080/liviu/12345/65149
-#EXTINF:-1,UK: Sky Cinema Greats HD
-http://111.90.151.57:8080/liviu/12345/198391
-#EXTINF:-1,UK: Sky Cinema Hits FHD
-http://111.90.151.57:8080/liviu/12345/80381
-#EXTINF:-1,UK: Sky Cinema Modern Greats FHD
-http://111.90.151.57:8080/liviu/12345/65142
-#EXTINF:-1,UK: Sky Cinema Premier FHD
-http://111.90.151.57:8080/liviu/12345/74535
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror FHD
-http://111.90.151.57:8080/liviu/12345/74545
-#EXTINF:-1,UK: Sky Cinema Select FHD
-http://111.90.151.57:8080/liviu/12345/65140
-#EXTINF:-1,UK: Sky Cinema Showcase HD
-http://111.90.151.57:8080/liviu/12345/65151
-#EXTINF:-1,UK: Sky Cinema Thriller FHD
-http://111.90.151.57:8080/liviu/12345/198397
 #EXTINF:-1,UK: SKY LIVING FHD
 http://111.90.151.57:8080/liviu/12345/155423
 #EXTINF:-1,UK: Sky News HD
@@ -551,16 +523,13 @@ http://111.90.151.57:8080/liviu/12345/65106
 http://111.90.151.57:8080/liviu/12345/74588
 #EXTINF:-1,UK: Starz TV
 http://111.90.151.57:8080/liviu/12345/65048
-#EXTINF:-1,UK: STV FHD
-http://111.90.151.57:8080/liviu/12345/98263
+
 #EXTINF:-1,UK: SyFy FHD
 http://111.90.151.57:8080/liviu/12345/65165
 #EXTINF:-1,UK: Talking Pictures
 http://111.90.151.57:8080/liviu/12345/120657
 #EXTINF:-1,UK: TBN UK
 http://111.90.151.57:8080/liviu/12345/75692
-#EXTINF:-1,UK: TCM FHD
-http://111.90.151.57:8080/liviu/12345/65162
 #EXTINF:-1,UK: TG4
 http://111.90.151.57:8080/liviu/12345/153972
 #EXTINF:-1,UK: The Box
@@ -575,12 +544,7 @@ http://111.90.151.57:8080/liviu/12345/137193
 http://111.90.151.57:8080/liviu/12345/65045
 #EXTINF:-1,UK: TRUE DRAMA
 http://111.90.151.57:8080/liviu/12345/133443
-#EXTINF:-1,UK: True Entertainment
-http://111.90.151.57:8080/liviu/12345/198412
-#EXTINF:-1,UK: True Movies 1 HD
-http://111.90.151.57:8080/liviu/12345/66026
-#EXTINF:-1,UK: True Movies 2 HD
-http://111.90.151.57:8080/liviu/12345/102209
+
 #EXTINF:-1,UK: True Movies Entertainment HD
 http://111.90.151.57:8080/liviu/12345/75691
 #EXTINF:-1,UK: TV One
