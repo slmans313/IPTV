@@ -60,8 +60,14 @@ http://122.146.68.116:4014/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/150px-SET_incorporated_logo.svg.png" group-title="Taiwan (台湾)",  三立综艺台
 http://122.146.68.116:4021/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/03/TTV_Home_Channel_with_HD_2015.png" group-title="Taiwan (台湾)",  台视主频
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/03/TTV_Home_Channel_with_HD_2015.png" group-title="Taiwan (台湾)", 台视
 http://122.146.68.116:4037/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/03/TTV_Home_Channel_with_HD_2015.png" group-title="Taiwan (台湾)",  台视
+http://61.216.177.73/sta/ch10119036.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/TTV_General_Channel_2016.png/400px-TTV_General_Channel_2016.png" group-title="Taiwan (台湾)", 台视综合
+http://61.216.177.73/sta/ch10119037.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png" group-title="Taiwan (台湾)",中天綜合台
 http://122.146.68.116:4005/VideoInput/play.ts
