@@ -63,6 +63,12 @@ http://111.90.151.57:8080/liviu/12345/198346
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK", Channel 5 Star
 http://111.90.151.57:8080/liviu/12345/199160
 
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/5Select_logo.png/375px-5Select_logo.png" group-title="UK", 5 Select
+http://111.90.151.57:8080/liviu/12345/86300
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/5Spike_Logo.svg/250px-5Spike_Logo.svg.png" group-title="UK", Channel 5 Spike
+http://111.90.151.57:8080/liviu/12345/75683
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ComedyCentral.uk.png" group-title="UK",Comedy Central
 http://111.90.151.57:8080/liviu/12345/65160
 
@@ -76,7 +82,7 @@ http://111.90.151.57:8080/liviu/12345/92585
 http://111.90.151.57:8080/liviu/12345/74796
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Eden_logo.png" group-title="UK", Eden
-http://91.109.113.38:8000/play/a05d
+http://111.90.151.57:8080/liviu/12345/153935
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png" group-title="UK", E! UK
 http://111.90.151.57:8080/liviu/12345/198502
@@ -123,6 +129,13 @@ http://111.90.151.57:8080/liviu/12345/74582
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Really.uk.png" group-title="UK", Really
 http://111.90.151.57:8080/liviu/12345/65037
 
+#EXTINF:-1 tvg-logo="http://revelationtv.com/assets/images/logo.png" group-title="UK",Revelation
+http://111.90.151.57:8080/liviu/12345/139690
+
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/ROK.png" group-title="UK",ROK TV
+http://111.90.151.57:8080/liviu/12345/102185
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyArts.uk.png" group-title="UK", Sky Arts
 http://111.90.151.57:8080/liviu/12345/134176
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyAtlantic.uk.png" group-title="UK", Sky Atlantic
@@ -147,8 +160,14 @@ http://111.90.151.57:8080/liviu/12345/93803
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Quest_Red.png" group-title="UK", Quest Red
 http://111.90.151.57:8080/liviu/12345/74721
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Yesterday.uk.png" group-title="UK",Yesterday
+http://111.90.151.57:8080/liviu/12345/63391
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/YourTV_logo.png/330px-YourTV_logo.png" group-title="UK",Your TV
+http://111.90.151.57:8080/liviu/12345/74580
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/W.uk.png" group-title="UK", W
-http://91.109.113.38:8000/play/a05i
+http://111.90.151.57:8080/liviu/12345/65168
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTENewsNow.ie.png" group-title="Ireland",RTE News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
@@ -190,10 +209,6 @@ http://111.90.151.57:8080/liviu/12345/199162
 http://111.90.151.57:8080/liviu/12345/74723
 
 
-#EXTINF:-1,UK: 5 SELECT HD
-http://111.90.151.57:8080/liviu/12345/86300
-#EXTINF:-1,UK: 5 Spike HD
-http://111.90.151.57:8080/liviu/12345/75683
 #EXTINF:-1,UK: 5 STAR +1
 http://111.90.151.57:8080/liviu/12345/104359
 #EXTINF:-1,UK: 5 USA +1 HD
@@ -282,10 +297,6 @@ http://111.90.151.57:8080/liviu/12345/94696
 http://111.90.151.57:8080/liviu/12345/198355
 #EXTINF:-1,UK: Celtic TV (Live On Matchday)
 http://111.90.151.57:8080/liviu/12345/149014
-#EXTINF:-1,UK: CGTN Documentary
-http://111.90.151.57:8080/liviu/12345/137270
-#EXTINF:-1,UK: CGTN News
-http://111.90.151.57:8080/liviu/12345/137283
 #EXTINF:-1,UK: Channel 5 Star
 http://111.90.151.57:8080/liviu/12345/134144
 #EXTINF:-1,UK: Channel AKA
@@ -310,24 +321,14 @@ http://111.90.151.57:8080/liviu/12345/156144
 http://111.90.151.57:8080/liviu/12345/159466
 #EXTINF:-1,UK: COMEDY CENTRAL EXTRA
 http://111.90.151.57:8080/liviu/12345/104419
-#EXTINF:-1,UK: Crime & Investigation FHD
-http://111.90.151.57:8080/liviu/12345/74596
 #EXTINF:-1,UK: Crime & Invetigation HD
 http://111.90.151.57:8080/liviu/12345/198358
 #EXTINF:-1,UK: Discovery Channel HD
 http://111.90.151.57:8080/liviu/12345/102159
-#EXTINF:-1,UK: Discovery History
-http://111.90.151.57:8080/liviu/12345/92587
 #EXTINF:-1,UK: DISCOVERY HOME & HEALTH
 http://111.90.151.57:8080/liviu/12345/159471
 #EXTINF:-1,UK: Discovery ID FHD
 http://111.90.151.57:8080/liviu/12345/65102
-#EXTINF:-1,UK: DISCOVERY SCIENCE HD
-http://111.90.151.57:8080/liviu/12345/63598
-#EXTINF:-1,UK: Discovery Shed HD
-http://111.90.151.57:8080/liviu/12345/74794
-#EXTINF:-1,UK: DISCOVERY TURBO HD
-http://111.90.151.57:8080/liviu/12345/137265
 #EXTINF:-1,UK: DISNEY CHANNEL FHD
 http://111.90.151.57:8080/liviu/12345/74594
 #EXTINF:-1,UK: DISNEY JUNIOR FHD
@@ -340,8 +341,6 @@ http://111.90.151.57:8080/liviu/12345/74573
 http://111.90.151.57:8080/liviu/12345/104278
 #EXTINF:-1,UK: E! HD
 http://111.90.151.57:8080/liviu/12345/65174
-#EXTINF:-1,UK: Eden
-http://111.90.151.57:8080/liviu/12345/153935
 #EXTINF:-1,UK: EIR SPORT 1 HD
 http://111.90.151.57:8080/liviu/12345/108416
 #EXTINF:-1,UK: ESPN
@@ -480,14 +479,6 @@ http://111.90.151.57:8080/liviu/12345/75569
 #EXTINF:-1,UK: Pop Max
 http://111.90.151.57:8080/liviu/12345/74706
 
-
-
-#EXTINF:-1,UK: Revelation
-http://111.90.151.57:8080/liviu/12345/139690
-#EXTINF:-1,UK: ROK TV
-http://111.90.151.57:8080/liviu/12345/102185
-
-
 #EXTINF:-1,UK: RTE NEWS
 http://111.90.151.57:8080/liviu/12345/65179
 
@@ -606,19 +597,13 @@ http://111.90.151.57:8080/liviu/12345/137249
 http://111.90.151.57:8080/liviu/12345/163362
 #EXTINF:-1,UK: VH1 HD
 http://111.90.151.57:8080/liviu/12345/65097
-#EXTINF:-1,UK: Viceland HD
-http://111.90.151.57:8080/liviu/12345/104929
 #EXTINF:-1,UK: Vintage TV
 http://111.90.151.57:8080/liviu/12345/137278
 #EXTINF:-1,UK: Virtual Betting Channel
 http://111.90.151.57:8080/liviu/12345/139642
 #EXTINF:-1,UK: VIVA HD
 http://111.90.151.57:8080/liviu/12345/147221
-#EXTINF:-1,UK: Watch HD
-http://111.90.151.57:8080/liviu/12345/65168
+
 #EXTINF:-1,UK: William Hill TV
 http://111.90.151.57:8080/liviu/12345/120688
-#EXTINF:-1,UK: Yesterday HD
-http://111.90.151.57:8080/liviu/12345/63391
-#EXTINF:-1,UK: Your TV
-http://111.90.151.57:8080/liviu/12345/74580
+
