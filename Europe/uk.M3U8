@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://www.aetv.com/assets/images/aetv/generic-thumb.jpg" group-title="UK", A&E UK
+#EXTINF:-1  tvg-logo="https://www.aetv.com/assets/images/aetv/generic-thumb.jpg" group-title="UK", A&E
 http://p4.giffy.be:8080/sandy/1234/85564
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AMC.uk.png" group-title="UK", AMC UK
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AMC.uk.png" group-title="UK", AMC
 http://p4.giffy.be:8080/sandy/1234/85747
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Alibi.uk.png" group-title="UK", Alibi
@@ -37,14 +37,13 @@ http://p4.giffy.be:8080/sandy/1234/85719
 https://edge-1288-ch-gv.filmon.com/live/2.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d37485180c63162feb41832ad90fa4da73ed7da4dc3733016b3e6417e625d3e7b32d2d22c6622f3730b60a34b548717285c6a9f4775c5db1685c66a506a18b7184c47dbd2c766677bdf59449ac8cfed03159f4fe46aa5b477f3fd6ce5376c2d7d2780e156834a45d31ce4f6e771a03efe70a4da989ce29a807
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/More4.uk.png" group-title="UK", Channel 4 More
-http://91.109.113.38:8000/play/a08i
+http://111.90.151.57:8080/liviu/12345/150870
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK", Channel 4E
 https://edge-1180-ch-gv.filmon.com/live/65.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d37485180c63162feb4646e9c62e8851926232683b38af332d577263b942ec9bffc5a3a3cb2e0dcc3d876bbcfc684a8ce1d3e446d132645651ebe3d07a8f7fcf751625627980f482161309e54c780c58437f6a6e6307623011c93391750a1077ac633c11f093bd0f9014914609c9c6df6228805474ef35f20f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="UK", Channel 4 Flim
 https://edge-823-ch-gv.filmon.com/live/13.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d37485180c63162feb4646e9c62e8851926232683b38af332d577263b942ec9bffc5a3a3cb2e0dcc3d876bbcfc684a8ce1d3e446d132645651de745ee3d21a8ea846988df0bf6b89b17e7b325723a8fb4521123caa11692e4a6b4960753c2b0f640c0bbb66b7a2cdadcb5243fba2b602ee06491e0b7ae2934e8a038eef7927601138fcb2ac4a792c9a
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/4Music.uk.png" group-title="UK", Channel 4 Music
 http://111.90.151.57:8080/liviu/12345/98233
@@ -59,7 +58,7 @@ https://edge-823-ch-gv.filmon.com/live/22.low.stream/playlist.m3u8?id=035bca1a71
 http://streams.iptv.luxe:80/p/561575/c/1/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK", Channel 5 Star
-http://streams.iptv.luxe:80/p/556603/c/65/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+http://111.90.151.57:8080/liviu/12345/199160
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ComedyCentral.uk.png" group-title="UK",Comedy Central
 http://streams.iptv.luxe:80/p/556603/c/55/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
@@ -100,7 +99,7 @@ http://streams.iptv.luxe:80/p/556603/c/38/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkq
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK", ITV 4
 http://streams.iptv.luxe:80/p/556603/c/39/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK", ITV BE
-http://streams.iptv.luxe:80/p/556603/c/30/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+http://111.90.151.57:8080/liviu/12345/199172
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/ITV_Encore_logo.png/220px-ITV_Encore_logo.png" group-title="UK", ITV Encore
 http://p4.giffy.be:8080/sandy/1234/85678
 
@@ -125,7 +124,7 @@ http://streams.iptv.luxe:80/p/561575/c/31/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkq
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyAtlantic.uk.png" group-title="UK", Sky Atlantic
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/1971
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Sky1.uk.png" group-title="UK", Sky 1
-http://streams.iptv.luxe:80/p/561575/c/15/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+http://111.90.151.57:8080/liviu/12345/92607
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Sky2.uk.png" group-title="UK", Sky 2
 http://streams.iptv.luxe:80/p/561575/c/11/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyWitness.uk.png" group-title="UK", Sky Witness
@@ -139,7 +138,7 @@ http://iptv.drsharing.com:50100/www.drsharing.com/dr/274
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/1966
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Quest.uk.png" group-title="UK", Quest
-http://iptv.drsharing.com:50100/www.drsharing.com/dr/5174
+http://111.90.151.57:8080/liviu/12345/93803
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/W.uk.png" group-title="UK", W
 http://91.109.113.38:8000/play/a05i
@@ -154,7 +153,7 @@ http://p4.giffy.be:8080/sandy/1234/85664
 http://p4.giffy.be:8080/sandy/1234/85663
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCOneScotland.uk.png" group-title="Scotland", BBC Scotland 1
-http://streams.iptv.luxe:80/p/561575/c/35/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
+http://111.90.151.57:8080/liviu/12345/199161
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/EirSport1.ie.png" group-title="Ireland", Eir Sport 1
 http://streams.iptv.luxe:80/p/561575/c/33/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz.m3u8
@@ -176,3 +175,569 @@ http://111.90.151.57:8080/liviu/12345/199162
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/S4C.uk.png" group-title="Ireland", S4C
 http://91.109.113.38:8000/play/a072
+
+
+
+
+#EXTINF:-1,UK: Sky Two
+http://111.90.151.57:8080/liviu/12345/137146
+#EXTINF:-1,UK: Sky Witness aka living
+http://111.90.151.57:8080/liviu/12345/199186
+#EXTINF:-1,UK: TV3 HD
+http://111.90.151.57:8080/liviu/12345/199188
+#EXTINF:-1,###### UK ######
+http://111.90.151.57:8080/liviu/12345/198821
+#EXTINF:-1,UK: 4 Seven HD
+http://111.90.151.57:8080/liviu/12345/74572
+#EXTINF:-1,UK: 5 SELECT HD
+http://111.90.151.57:8080/liviu/12345/86300
+#EXTINF:-1,UK: 5 Spike HD
+http://111.90.151.57:8080/liviu/12345/75683
+#EXTINF:-1,UK: 5 STAR +1
+http://111.90.151.57:8080/liviu/12345/104359
+#EXTINF:-1,UK: 5 USA +1 HD
+http://111.90.151.57:8080/liviu/12345/74729
+#EXTINF:-1,UK: 3E HD
+http://111.90.151.57:8080/liviu/12345/65175
+#EXTINF:-1,UK: 4MUSIC HD
+http://111.90.151.57:8080/liviu/12345/74604
+#EXTINF:-1,UK: 5USA
+http://111.90.151.57:8080/liviu/12345/198346
+#EXTINF:-1,UK: 92 NEWS
+http://111.90.151.57:8080/liviu/12345/133394
+#EXTINF:-1,UK: ABC News HD
+http://111.90.151.57:8080/liviu/12345/96992
+#EXTINF:-1,UK: ABN TV
+http://111.90.151.57:8080/liviu/12345/133396
+#EXTINF:-1,UK: Alibi FHD
+http://111.90.151.57:8080/liviu/12345/137150
+#EXTINF:-1,UK: ALJAZEERA HD
+http://111.90.151.57:8080/liviu/12345/131284
+#EXTINF:-1,UK: AMC FHD
+http://111.90.151.57:8080/liviu/12345/63034
+#EXTINF:-1,UK: ANIMAL PLANET FHD
+http://111.90.151.57:8080/liviu/12345/65023
+#EXTINF:-1,UK: Baby TV HD
+http://111.90.151.57:8080/liviu/12345/65125
+#EXTINF:-1,UK: BBC 1 FHD
+http://111.90.151.57:8080/liviu/12345/86279
+#EXTINF:-1,UK: BBC 2 FHD
+http://111.90.151.57:8080/liviu/12345/74074
+#EXTINF:-1,UK: BBC 3 HD
+http://111.90.151.57:8080/liviu/12345/65184
+#EXTINF:-1,UK: BBC 4 HD
+http://111.90.151.57:8080/liviu/12345/65182
+#EXTINF:-1,UK: BBC Alba HD
+http://111.90.151.57:8080/liviu/12345/74735
+#EXTINF:-1,UK: BBC Earth
+http://111.90.151.57:8080/liviu/12345/143751
+#EXTINF:-1,UK: BBC Entertainment HD
+http://111.90.151.57:8080/liviu/12345/86281
+#EXTINF:-1,UK: BBC News HD
+http://111.90.151.57:8080/liviu/12345/65183
+#EXTINF:-1,UK: beIN Movies Family 4 HD
+http://111.90.151.57:8080/liviu/12345/206332
+#EXTINF:-1,UK: BEN
+http://111.90.151.57:8080/liviu/12345/75742
+#EXTINF:-1,UK: Best Direct
+http://111.90.151.57:8080/liviu/12345/139647
+#EXTINF:-1,UK: BET HD
+http://111.90.151.57:8080/liviu/12345/74589
+#EXTINF:-1,UK: Bike Channel
+http://111.90.151.57:8080/liviu/12345/99064
+#EXTINF:-1,UK: Blaze HD
+http://111.90.151.57:8080/liviu/12345/75740
+#EXTINF:-1,UK: Bloomberg HD
+http://111.90.151.57:8080/liviu/12345/74743
+#EXTINF:-1,UK: BOOMERANG FHD
+http://111.90.151.57:8080/liviu/12345/65126
+#EXTINF:-1,UK: BOX HITS HD
+http://111.90.151.57:8080/liviu/12345/65056
+#EXTINF:-1,UK: BOX NATION FHD
+http://111.90.151.57:8080/liviu/12345/74518
+#EXTINF:-1,UK: BOX OFFICE 1 HD
+http://111.90.151.57:8080/liviu/12345/74550
+#EXTINF:-1,UK: BOX OFFICE 2 HD
+http://111.90.151.57:8080/liviu/12345/74551
+#EXTINF:-1,UK: BOX OFFICE 3 HD
+http://111.90.151.57:8080/liviu/12345/74697
+#EXTINF:-1,UK: Box Office 4 HD
+http://111.90.151.57:8080/liviu/12345/74552
+#EXTINF:-1,UK: BOX OFFICE 5 HD
+http://111.90.151.57:8080/liviu/12345/159104
+#EXTINF:-1,UK: BOX OFFICE 6 HD
+http://111.90.151.57:8080/liviu/12345/159105
+#EXTINF:-1,UK: BOX OFFICE 7 HD
+http://111.90.151.57:8080/liviu/12345/159106
+#EXTINF:-1,UK: BOX OFFICE 8 HD
+http://111.90.151.57:8080/liviu/12345/159107
+#EXTINF:-1,UK: BOX OFFICE 9 HD
+http://111.90.151.57:8080/liviu/12345/159108
+#EXTINF:-1,UK: BOX OFFICE 10
+http://111.90.151.57:8080/liviu/12345/159109
+#EXTINF:-1,UK: Box Office PPV LIVE DURING AVENTS 2
+http://111.90.151.57:8080/liviu/12345/133300
+#EXTINF:-1,UK: Bravo HD
+http://111.90.151.57:8080/liviu/12345/75739
+#EXTINF:-1,UK: British Muslim
+http://111.90.151.57:8080/liviu/12345/139564
+#EXTINF:-1,UK: BT Sport 1 FHD
+http://111.90.151.57:8080/liviu/12345/92580
+#EXTINF:-1,UK: BT Sport 2 FHD
+http://111.90.151.57:8080/liviu/12345/92581
+#EXTINF:-1,UK: BT Sport 3 FHD
+http://111.90.151.57:8080/liviu/12345/93484
+#EXTINF:-1,UK: BT Sport 2
+http://111.90.151.57:8080/liviu/12345/206334
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://111.90.151.57:8080/liviu/12345/107282
+#EXTINF:-1,UK: BT Sport Extra 1
+http://111.90.151.57:8080/liviu/12345/145466
+#EXTINF:-1,UK: BT Sport Extra 2
+http://111.90.151.57:8080/liviu/12345/175406
+#EXTINF:-1,UK: BT Sport Extra 3
+http://111.90.151.57:8080/liviu/12345/99947
+#EXTINF:-1,UK: BT Sport Extra 4
+http://111.90.151.57:8080/liviu/12345/96511
+#EXTINF:-1,UK: BT Sport Extra 5
+http://111.90.151.57:8080/liviu/12345/93902
+#EXTINF:-1,UK: CAPITAL TV HD
+http://111.90.151.57:8080/liviu/12345/65061
+#EXTINF:-1,UK: CARTOON NETWORK FHD
+http://111.90.151.57:8080/liviu/12345/74786
+#EXTINF:-1,UK: Cartoonito HD
+http://111.90.151.57:8080/liviu/12345/74593
+#EXTINF:-1,UK: CBBC HD
+http://111.90.151.57:8080/liviu/12345/74569
+#EXTINF:-1,UK: CBeebies HD
+http://111.90.151.57:8080/liviu/12345/94696
+#EXTINF:-1,UK: CBS Action
+http://111.90.151.57:8080/liviu/12345/155441
+#EXTINF:-1,UK: CBS Drama
+http://111.90.151.57:8080/liviu/12345/155440
+#EXTINF:-1,UK: CBS Reality
+http://111.90.151.57:8080/liviu/12345/150861
+#EXTINF:-1,UK: CBS Rreality
+http://111.90.151.57:8080/liviu/12345/198355
+#EXTINF:-1,UK: Celtic TV (Live On Matchday)
+http://111.90.151.57:8080/liviu/12345/149014
+#EXTINF:-1,UK: CGTN Documentary
+http://111.90.151.57:8080/liviu/12345/137270
+#EXTINF:-1,UK: CGTN News
+http://111.90.151.57:8080/liviu/12345/137283
+#EXTINF:-1,UK: Challenge HD
+http://111.90.151.57:8080/liviu/12345/74722
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://111.90.151.57:8080/liviu/12345/74789
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://111.90.151.57:8080/liviu/12345/74790
+#EXTINF:-1,UK: Channel 5 Star
+http://111.90.151.57:8080/liviu/12345/134144
+#EXTINF:-1,UK: Channel AKA
+http://111.90.151.57:8080/liviu/12345/154650
+#EXTINF:-1,UK: Chart Show HITS HD
+http://111.90.151.57:8080/liviu/12345/65054
+#EXTINF:-1,UK: CHELSEA FC
+http://111.90.151.57:8080/liviu/12345/65020
+#EXTINF:-1,UK: China History Channel HD
+http://111.90.151.57:8080/liviu/12345/65035
+#EXTINF:-1,UK: CITV HD
+http://111.90.151.57:8080/liviu/12345/74590
+#EXTINF:-1,UK: Club MTV
+http://111.90.151.57:8080/liviu/12345/139650
+#EXTINF:-1,UK: Clubland TV
+http://111.90.151.57:8080/liviu/12345/139572
+#EXTINF:-1,UK: CNBC
+http://111.90.151.57:8080/liviu/12345/104258
+#EXTINF:-1,UK: CNN INTERNATIONAL
+http://111.90.151.57:8080/liviu/12345/156144
+#EXTINF:-1,UK: CNN News
+http://111.90.151.57:8080/liviu/12345/159466
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
+http://111.90.151.57:8080/liviu/12345/104419
+#EXTINF:-1,UK: COMEDY CENTRAL FHD
+http://111.90.151.57:8080/liviu/12345/65160
+#EXTINF:-1,UK: Crime & Investigation FHD
+http://111.90.151.57:8080/liviu/12345/74596
+#EXTINF:-1,UK: Crime & Invetigation HD
+http://111.90.151.57:8080/liviu/12345/198358
+#EXTINF:-1,UK: DAVE FHD
+http://111.90.151.57:8080/liviu/12345/92585
+#EXTINF:-1,UK: Discovery Channel HD
+http://111.90.151.57:8080/liviu/12345/102159
+#EXTINF:-1,UK: Discovery History
+http://111.90.151.57:8080/liviu/12345/92587
+#EXTINF:-1,UK: DISCOVERY HOME & HEALTH
+http://111.90.151.57:8080/liviu/12345/159471
+#EXTINF:-1,UK: Discovery ID FHD
+http://111.90.151.57:8080/liviu/12345/65102
+#EXTINF:-1,UK: DISCOVERY SCIENCE HD
+http://111.90.151.57:8080/liviu/12345/63598
+#EXTINF:-1,UK: Discovery Shed HD
+http://111.90.151.57:8080/liviu/12345/74794
+#EXTINF:-1,UK: DISCOVERY TURBO HD
+http://111.90.151.57:8080/liviu/12345/137265
+#EXTINF:-1,UK: DISNEY CHANNEL FHD
+http://111.90.151.57:8080/liviu/12345/74594
+#EXTINF:-1,UK: DISNEY JUNIOR FHD
+http://111.90.151.57:8080/liviu/12345/65133
+#EXTINF:-1,UK: DISNEY XD FHD
+http://111.90.151.57:8080/liviu/12345/65134
+#EXTINF:-1,UK: DMAX HD
+http://111.90.151.57:8080/liviu/12345/74573
+#EXTINF:-1,UK: Docubox HD
+http://111.90.151.57:8080/liviu/12345/104278
+#EXTINF:-1,UK: Drama
+http://111.90.151.57:8080/liviu/12345/74796
+#EXTINF:-1,UK: E! HD
+http://111.90.151.57:8080/liviu/12345/65174
+#EXTINF:-1,UK: E4 FHD
+http://111.90.151.57:8080/liviu/12345/74576
+#EXTINF:-1,UK: Eden
+http://111.90.151.57:8080/liviu/12345/153935
+#EXTINF:-1,UK: EIR SPORT 1 FHD
+http://111.90.151.57:8080/liviu/12345/132765
+#EXTINF:-1,UK: EIR SPORT 1 HD
+http://111.90.151.57:8080/liviu/12345/108416
+#EXTINF:-1,UK: EIR SPORT 2 FHD
+http://111.90.151.57:8080/liviu/12345/108783
+#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
+http://111.90.151.57:8080/liviu/12345/124390
+#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
+http://111.90.151.57:8080/liviu/12345/137212
+#EXTINF:-1,UK: ESPN
+http://111.90.151.57:8080/liviu/12345/99082
+#EXTINF:-1,UK: EURONEWS HD
+http://111.90.151.57:8080/liviu/12345/74609
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://111.90.151.57:8080/liviu/12345/65014
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://111.90.151.57:8080/liviu/12345/93240
+#EXTINF:-1,UK: EWTN
+http://111.90.151.57:8080/liviu/12345/96999
+#EXTINF:-1,UK: Fame TV
+http://111.90.151.57:8080/liviu/12345/139656
+#EXTINF:-1,UK: Fightbox HD
+http://111.90.151.57:8080/liviu/12345/99955
+#EXTINF:-1,UK: FILM
+http://111.90.151.57:8080/liviu/12345/131294
+#EXTINF:-1,UK: Film 4 FHD
+http://111.90.151.57:8080/liviu/12345/74759
+#EXTINF:-1,UK: Fine Living Network
+http://111.90.151.57:8080/liviu/12345/86312
+#EXTINF:-1,UK: Food Network
+http://111.90.151.57:8080/liviu/12345/75720
+#EXTINF:-1,UK: Forces TV HD
+http://111.90.151.57:8080/liviu/12345/65584
+#EXTINF:-1,UK: FOX FHD
+http://111.90.151.57:8080/liviu/12345/137173
+#EXTINF:-1,UK: Fox News HD
+http://111.90.151.57:8080/liviu/12345/74608
+#EXTINF:-1,UK: France 24 English
+http://111.90.151.57:8080/liviu/12345/74737
+#EXTINF:-1,UK: Free Sports TV
+http://111.90.151.57:8080/liviu/12345/108660
+#EXTINF:-1,UK: Front Runner
+http://111.90.151.57:8080/liviu/12345/104501
+#EXTINF:-1,UK: Gems TV
+http://111.90.151.57:8080/liviu/12345/139658
+#EXTINF:-1,UK: Ginxe Sports TV
+http://111.90.151.57:8080/liviu/12345/74685
+#EXTINF:-1,UK: GOLD FHD
+http://111.90.151.57:8080/liviu/12345/63548
+#EXTINF:-1,UK: GOOD FOOD FHD
+http://111.90.151.57:8080/liviu/12345/65040
+#EXTINF:-1,UK: H2 FHD
+http://111.90.151.57:8080/liviu/12345/74597
+#EXTINF:-1,UK: HBO 1 HD
+http://111.90.151.57:8080/liviu/12345/65138
+#EXTINF:-1,UK: HBO Comedy HD
+http://111.90.151.57:8080/liviu/12345/65139
+#EXTINF:-1,UK: HBO HD
+http://111.90.151.57:8080/liviu/12345/91383
+#EXTINF:-1,UK: Heart TV
+http://111.90.151.57:8080/liviu/12345/65060
+#EXTINF:-1,UK: High street TV 2
+http://111.90.151.57:8080/liviu/12345/139663
+#EXTINF:-1,UK: High Street TV 4
+http://111.90.151.57:8080/liviu/12345/139664
+#EXTINF:-1,UK: High street TV HD
+http://111.90.151.57:8080/liviu/12345/65046
+#EXTINF:-1,UK: Hillsong
+http://111.90.151.57:8080/liviu/12345/139665
+#EXTINF:-1,UK: HISTORY CHANNEL FHD
+http://111.90.151.57:8080/liviu/12345/74802
+#EXTINF:-1,UK: Home
+http://111.90.151.57:8080/liviu/12345/75717
+#EXTINF:-1,UK: Home&Health
+http://111.90.151.57:8080/liviu/12345/65031
+#EXTINF:-1,UK: HORROR CHANNEL
+http://111.90.151.57:8080/liviu/12345/153919
+#EXTINF:-1,UK: Hunting Channel
+http://111.90.151.57:8080/liviu/12345/65104
+#EXTINF:-1,UK: Ideal Extra
+http://111.90.151.57:8080/liviu/12345/139667
+#EXTINF:-1,UK: Ideal World
+http://111.90.151.57:8080/liviu/12345/139668
+#EXTINF:-1,UK: Irish TV
+http://111.90.151.57:8080/liviu/12345/99095
+#EXTINF:-1,UK: ISLAM CHANNEL
+http://111.90.151.57:8080/liviu/12345/105062
+#EXTINF:-1,UK: ITV 1 FHD
+http://111.90.151.57:8080/liviu/12345/92590
+#EXTINF:-1,UK: ITV 2 HD
+http://111.90.151.57:8080/liviu/12345/92591
+#EXTINF:-1,UK: ITV 3 FHD
+http://111.90.151.57:8080/liviu/12345/92592
+#EXTINF:-1,UK: ITV 4 FHD
+http://111.90.151.57:8080/liviu/12345/92593
+#EXTINF:-1,UK: Jewelry Maker
+http://111.90.151.57:8080/liviu/12345/139671
+#EXTINF:-1,UK: Kerrang
+http://111.90.151.57:8080/liviu/12345/65051
+#EXTINF:-1,UK: KISS
+http://111.90.151.57:8080/liviu/12345/65058
+#EXTINF:-1,UK: Ladbrokes TV
+http://111.90.151.57:8080/liviu/12345/120682
+#EXTINF:-1,UK: Lifetime HD
+http://111.90.151.57:8080/liviu/12345/65161
+#EXTINF:-1,UK: Little be HD
+http://111.90.151.57:8080/liviu/12345/65036
+#EXTINF:-1,UK: Liverpool FC HD
+http://111.90.151.57:8080/liviu/12345/64983
+#EXTINF:-1,UK: Living
+http://111.90.151.57:8080/liviu/12345/98217
+#EXTINF:-1,UK: London Live
+http://111.90.151.57:8080/liviu/12345/139594
+#EXTINF:-1,UK: Madani Channel
+http://111.90.151.57:8080/liviu/12345/139595
+#EXTINF:-1,UK: Magic TV
+http://111.90.151.57:8080/liviu/12345/65050
+#EXTINF:-1,UK: ManchesterUnited TV FHD
+http://111.90.151.57:8080/liviu/12345/64982
+#EXTINF:-1,UK: MotorSport HD
+http://111.90.151.57:8080/liviu/12345/74600
+#EXTINF:-1,UK: MOVIES 4 MEN
+http://111.90.151.57:8080/liviu/12345/65124
+#EXTINF:-1,UK: MOVIES 24
+http://111.90.151.57:8080/liviu/12345/139597
+#EXTINF:-1,UK: MOVIES MODERN GREAT
+http://111.90.151.57:8080/liviu/12345/102179
+#EXTINF:-1,UK: MTV Base HD
+http://111.90.151.57:8080/liviu/12345/65090
+#EXTINF:-1,UK: MTV Classic HD
+http://111.90.151.57:8080/liviu/12345/154182
+#EXTINF:-1,UK: MTV Dance HD
+http://111.90.151.57:8080/liviu/12345/100942
+#EXTINF:-1,UK: MTV FHD
+http://111.90.151.57:8080/liviu/12345/99105
+#EXTINF:-1,UK: MTV Hits
+http://111.90.151.57:8080/liviu/12345/104291
+#EXTINF:-1,UK: MTV Music HD
+http://111.90.151.57:8080/liviu/12345/65095
+#EXTINF:-1,UK: MTV ONE
+http://111.90.151.57:8080/liviu/12345/159496
+#EXTINF:-1,UK: MTV Rocks HD
+http://111.90.151.57:8080/liviu/12345/65099
+#EXTINF:-1,UK: My 5
+http://111.90.151.57:8080/liviu/12345/74575
+#EXTINF:-1,UK: My TV
+http://111.90.151.57:8080/liviu/12345/139681
+#EXTINF:-1,UK: NAT GEO HD
+http://111.90.151.57:8080/liviu/12345/92595
+#EXTINF:-1,UK: NAT GEO WILD FHD
+http://111.90.151.57:8080/liviu/12345/74807
+#EXTINF:-1,UK: Nick Junior
+http://111.90.151.57:8080/liviu/12345/65128
+#EXTINF:-1,UK: Nick Junior Peppa
+http://111.90.151.57:8080/liviu/12345/65127
+#EXTINF:-1,UK: Nick Junior TOO
+http://111.90.151.57:8080/liviu/12345/74592
+#EXTINF:-1,UK: Nick Toons HD
+http://111.90.151.57:8080/liviu/12345/65129
+#EXTINF:-1,UK: Nickelodeon HD
+http://111.90.151.57:8080/liviu/12345/74705
+#EXTINF:-1,UK: NOW 80s HD
+http://111.90.151.57:8080/liviu/12345/74605
+#EXTINF:-1,UK: PBS America
+http://111.90.151.57:8080/liviu/12345/75613
+#EXTINF:-1,UK: Pick TV
+http://111.90.151.57:8080/liviu/12345/91965
+#EXTINF:-1,UK: POP
+http://111.90.151.57:8080/liviu/12345/75569
+#EXTINF:-1,UK: Pop Max
+http://111.90.151.57:8080/liviu/12345/74706
+#EXTINF:-1,UK: Premiere Sports
+http://111.90.151.57:8080/liviu/12345/91964
+#EXTINF:-1,UK: QUEST RED
+http://111.90.151.57:8080/liviu/12345/74721
+#EXTINF:-1,UK: QVC Beauty
+http://111.90.151.57:8080/liviu/12345/86327
+#EXTINF:-1,UK: QVC Extra
+http://111.90.151.57:8080/liviu/12345/86328
+#EXTINF:-1,UK: QVC HD
+http://111.90.151.57:8080/liviu/12345/86330
+#EXTINF:-1,UK: QVC Style
+http://111.90.151.57:8080/liviu/12345/86329
+#EXTINF:-1,UK: RACING UK FHD
+http://111.90.151.57:8080/liviu/12345/65019
+#EXTINF:-1,UK: REAL LIVES
+http://111.90.151.57:8080/liviu/12345/74582
+#EXTINF:-1,UK: Really
+http://111.90.151.57:8080/liviu/12345/65037
+#EXTINF:-1,UK: Revelation
+http://111.90.151.57:8080/liviu/12345/139690
+#EXTINF:-1,UK: ROK TV
+http://111.90.151.57:8080/liviu/12345/102185
+#EXTINF:-1,UK: RTE 1 FHD
+http://111.90.151.57:8080/liviu/12345/65177
+#EXTINF:-1,UK: RTE 2 HD
+http://111.90.151.57:8080/liviu/12345/65178
+#EXTINF:-1,UK: RTE Junior
+http://111.90.151.57:8080/liviu/12345/65176
+#EXTINF:-1,UK: RTE NEWS
+http://111.90.151.57:8080/liviu/12345/65179
+#EXTINF:-1,UK: Russia Today News
+http://111.90.151.57:8080/liviu/12345/65101
+#EXTINF:-1,UK: S4C HD
+http://111.90.151.57:8080/liviu/12345/74723
+#EXTINF:-1,UK: Setanta +Sports
+http://111.90.151.57:8080/liviu/12345/74761
+#EXTINF:-1,UK: SETANTA SPORTS PREMIER
+http://111.90.151.57:8080/liviu/12345/145476
+#EXTINF:-1,UK: Sky 1 FHD
+http://111.90.151.57:8080/liviu/12345/74564
+#EXTINF:-1,UK: Sky 2 HD
+http://111.90.151.57:8080/liviu/12345/99603
+#EXTINF:-1,UK: SKY ARTS 1 HD
+http://111.90.151.57:8080/liviu/12345/65113
+#EXTINF:-1,UK: Sky Arts HD
+http://111.90.151.57:8080/liviu/12345/134176
+#EXTINF:-1,UK: Sky Atlantic HD
+http://111.90.151.57:8080/liviu/12345/175822
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://111.90.151.57:8080/liviu/12345/88315
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://111.90.151.57:8080/liviu/12345/65157
+#EXTINF:-1,UK: Sky Cinema Comedy FHD
+http://111.90.151.57:8080/liviu/12345/65148
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
+http://111.90.151.57:8080/liviu/12345/65144
+#EXTINF:-1,UK: Sky Cinema Disney FHD
+http://111.90.151.57:8080/liviu/12345/65135
+#EXTINF:-1,UK: Sky Cinema Drama & Romance FHD
+http://111.90.151.57:8080/liviu/12345/65146
+#EXTINF:-1,UK: Sky Cinema Family FHD
+http://111.90.151.57:8080/liviu/12345/65149
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://111.90.151.57:8080/liviu/12345/198391
+#EXTINF:-1,UK: Sky Cinema Hits FHD
+http://111.90.151.57:8080/liviu/12345/80381
+#EXTINF:-1,UK: Sky Cinema Modern Greats FHD
+http://111.90.151.57:8080/liviu/12345/65142
+#EXTINF:-1,UK: Sky Cinema Premier FHD
+http://111.90.151.57:8080/liviu/12345/74535
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror FHD
+http://111.90.151.57:8080/liviu/12345/74545
+#EXTINF:-1,UK: Sky Cinema Select FHD
+http://111.90.151.57:8080/liviu/12345/65140
+#EXTINF:-1,UK: Sky Cinema Showcase HD
+http://111.90.151.57:8080/liviu/12345/65151
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://111.90.151.57:8080/liviu/12345/198397
+#EXTINF:-1,UK: SKY LIVING FHD
+http://111.90.151.57:8080/liviu/12345/155423
+#EXTINF:-1,UK: Sky News HD
+http://111.90.151.57:8080/liviu/12345/65042
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://111.90.151.57:8080/liviu/12345/198820
+#EXTINF:-1,UK: Sky Sports Action HD
+http://111.90.151.57:8080/liviu/12345/92609
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://111.90.151.57:8080/liviu/12345/74495
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://111.90.151.57:8080/liviu/12345/131501
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://111.90.151.57:8080/liviu/12345/137224
+#EXTINF:-1,UK: Sky Sports Football HD
+http://111.90.151.57:8080/liviu/12345/88302
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://111.90.151.57:8080/liviu/12345/74770
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://111.90.151.57:8080/liviu/12345/109959
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://111.90.151.57:8080/liviu/12345/98196
+#EXTINF:-1,UK: Sky Sports News HD
+http://111.90.151.57:8080/liviu/12345/74481
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://111.90.151.57:8080/liviu/12345/137225
+#EXTINF:-1,UK: Sky Witness HD
+http://111.90.151.57:8080/liviu/12345/139625
+#EXTINF:-1,UK: Sony Movies
+http://111.90.151.57:8080/liviu/12345/65106
+#EXTINF:-1,UK: SPIKE
+http://111.90.151.57:8080/liviu/12345/74588
+#EXTINF:-1,UK: Starz TV
+http://111.90.151.57:8080/liviu/12345/65048
+#EXTINF:-1,UK: STV FHD
+http://111.90.151.57:8080/liviu/12345/98263
+#EXTINF:-1,UK: SyFy FHD
+http://111.90.151.57:8080/liviu/12345/65165
+#EXTINF:-1,UK: Talking Pictures
+http://111.90.151.57:8080/liviu/12345/120657
+#EXTINF:-1,UK: TBN UK
+http://111.90.151.57:8080/liviu/12345/75692
+#EXTINF:-1,UK: TCM FHD
+http://111.90.151.57:8080/liviu/12345/65162
+#EXTINF:-1,UK: TG4
+http://111.90.151.57:8080/liviu/12345/153972
+#EXTINF:-1,UK: The Box
+http://111.90.151.57:8080/liviu/12345/65057
+#EXTINF:-1,UK: The Vault
+http://111.90.151.57:8080/liviu/12345/65052
+#EXTINF:-1,UK: Tiny POP
+http://111.90.151.57:8080/liviu/12345/74591
+#EXTINF:-1,UK: TLC FHD
+http://111.90.151.57:8080/liviu/12345/137193
+#EXTINF:-1,UK: Travel Channel
+http://111.90.151.57:8080/liviu/12345/65045
+#EXTINF:-1,UK: TRUE DRAMA
+http://111.90.151.57:8080/liviu/12345/133443
+#EXTINF:-1,UK: True Entertainment
+http://111.90.151.57:8080/liviu/12345/198412
+#EXTINF:-1,UK: True Movies 1 HD
+http://111.90.151.57:8080/liviu/12345/66026
+#EXTINF:-1,UK: True Movies 2 HD
+http://111.90.151.57:8080/liviu/12345/102209
+#EXTINF:-1,UK: True Movies Entertainment HD
+http://111.90.151.57:8080/liviu/12345/75691
+#EXTINF:-1,UK: TV One
+http://111.90.151.57:8080/liviu/12345/139699
+#EXTINF:-1,UK: TV3 Ireland
+http://111.90.151.57:8080/liviu/12345/99917
+#EXTINF:-1,UK: Universal Channel HD
+http://111.90.151.57:8080/liviu/12345/74574
+#EXTINF:-1,UK: VENUS TV
+http://111.90.151.57:8080/liviu/12345/137249
+#EXTINF:-1,UK: VH1 Classic
+http://111.90.151.57:8080/liviu/12345/163362
+#EXTINF:-1,UK: VH1 HD
+http://111.90.151.57:8080/liviu/12345/65097
+#EXTINF:-1,UK: Viceland HD
+http://111.90.151.57:8080/liviu/12345/104929
+#EXTINF:-1,UK: Vintage TV
+http://111.90.151.57:8080/liviu/12345/137278
+#EXTINF:-1,UK: Virtual Betting Channel
+http://111.90.151.57:8080/liviu/12345/139642
+#EXTINF:-1,UK: VIVA HD
+http://111.90.151.57:8080/liviu/12345/147221
+#EXTINF:-1,UK: Watch HD
+http://111.90.151.57:8080/liviu/12345/65168
+#EXTINF:-1,UK: William Hill TV
+http://111.90.151.57:8080/liviu/12345/120688
+#EXTINF:-1,UK: WWE Raw Network HD
+http://111.90.151.57:8080/liviu/12345/93245
+#EXTINF:-1,UK: Yesterday HD
+http://111.90.151.57:8080/liviu/12345/63391
+#EXTINF:-1,UK: Your TV
+http://111.90.151.57:8080/liviu/12345/74580
