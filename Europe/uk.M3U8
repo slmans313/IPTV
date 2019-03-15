@@ -21,6 +21,9 @@ http://111.90.151.57:8080/liviu/12345/65182
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/no/BBCEarth.no.png" group-title="UK",BBC Earth
 http://111.90.151.57:8080/liviu/12345/143751
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCEntertainment.uk.png" group-title="UK",BBC Entertainment
+http://111.90.151.57:8080/liviu/12345/86281
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Blaze.uk.png" group-title="UK", Blaze TV
 http://111.90.151.57:8080/liviu/12345/75740
 
@@ -159,8 +162,11 @@ http://111.90.151.57:8080/liviu/12345/65178
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTEJr.ie.png" group-title="Ireland",RTE Junior
 http://111.90.151.57:8080/liviu/12345/65176
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCOneScotland.uk.png" group-title="Scotland", BBC Scotland 1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCOneScotland.uk.png" group-title="Scotland", BBC Scotland
 http://111.90.151.57:8080/liviu/12345/199161
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCAlba.uk.png" group-title="Scotland", BBC Alba
+http://111.90.151.57:8080/liviu/12345/74735
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/EirSport1.ie.png" group-title="Ireland", Eir Sport 1
 http://111.90.151.57:8080/liviu/12345/132765
@@ -206,12 +212,8 @@ http://111.90.151.57:8080/liviu/12345/131284
 http://111.90.151.57:8080/liviu/12345/65023
 #EXTINF:-1,UK: Baby TV HD
 http://111.90.151.57:8080/liviu/12345/65125
-#EXTINF:-1,UK: BBC Alba HD
-http://111.90.151.57:8080/liviu/12345/74735
-#EXTINF:-1,UK: BBC Entertainment HD
-http://111.90.151.57:8080/liviu/12345/86281
-#EXTINF:-1,UK: BBC News HD
-http://111.90.151.57:8080/liviu/12345/65183
+
+
 #EXTINF:-1,UK: beIN Movies Family 4 HD
 http://111.90.151.57:8080/liviu/12345/206332
 #EXTINF:-1,UK: BEN
