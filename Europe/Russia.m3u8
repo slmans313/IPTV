@@ -251,6 +251,12 @@ http://78.40.108.218/7channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh TV
 http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" group-title="Kazakhstan (Казахстан)",KTK
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo.png" group-title="Kazakhstan (Казахстан)",MTRK
+http://tv2.esilnet.com/hls/mtrk.m3u8
+
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/kazsport.png" group-title="Kazakhstan (Казахстан)",KazSports
 http://cdn.videosofsport1.live/hls/qQfwx1zYP5kUriUJnKxl9g/1552804286/kazsport.m3u8
 
@@ -318,8 +324,17 @@ http://77.120.29.10/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gorod.dp.ua/pic/placeimages/07/975/logo.gif" group-title="Ukraine(Україна)",34 телеканал
 http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4&app=playlist
 
+#EXTINF:-1 tvg-logo="http://7kanal.com.ua/wp-content/themes/7k/img/logo-big.png" group-title="Ukraine(Україна)",7 Telekanal
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8?nimblesessionid=41699439
+
 #EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine(Україна)",Телеканал НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv5.zp.ua/wp-content/uploads/2017/02/logo_header2.png" group-title="Ukraine(Україна)",TV5
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv7plus.com/wp-content/uploads/2017/05/logo-2.png" group-title="Ukraine(Україна)",TV7+
+http://tv7plus.com/hls/tv7_site.m3u8
 
 #EXTINF:-1 tvg-logo="http://milliy.tv/assets/images/logo.png" group-title="Uzbekistan(Ўзбекистон)",Milliy TV
 http://milliy.tv/hls/index_480.m3u8
