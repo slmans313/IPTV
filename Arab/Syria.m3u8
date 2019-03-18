@@ -1,19 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1, TV Syria
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/lana-95x95.gif" group-title="Syria(سوريا)",Lana TV
+http://213.162.202.9:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ronahi.tv/wp-content/uploads/2018/06/logo.png" group-title="Syria(سوريا)", Ronahi TV
+http://213.162.202.9:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="Syria(سوريا)", Syrian TV
+http://213.162.202.9:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/sedu_logo.png" group-title="Syria(سوريا)", Syrian Education
+http://82.137.248.16:1935/SEdu/stream20112018/chunklist_w1551912453.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/syrian_logo.png" group-title="Syria(سوريا)", Syrian Satellite
 http://82.137.248.16:1935/Sat/stream20112018/chunklist_w1198971875.m3u8
 
-#EXTINF:-1,Alikhbaria TV
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/snews_logo.png" group-title="Syria(سوريا)", Alikhbaria TV
 http://82.137.248.16:1935/Snews/stream20112018/chunklist_w1174282414.m3u8
 
-#EXTINF:-1,Drama TV
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
 http://82.137.248.16:1935/Drama/stream20112018/chunklist_w98199038.m3u8
 
-#EXTINF:-1,Drama TV Backup
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
 
-#EXTINF:-1,NourElsham TV
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/nour_logo.png" group-title="Syria(سوريا)",Nour Elsham TV
 http://82.137.248.16:1935/Nour/stream20112018/chunklist_w1617542602.m3u8
 
-#EXTINF:-1,Radio Souryana
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/souryana_logo.png" group-title="Syria(سوريا)",Radio Souryana
 http://82.137.248.16:1935/Souryana/stream20112018/chunklist_w821508526.m3u8
