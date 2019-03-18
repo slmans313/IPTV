@@ -243,7 +243,7 @@ https://streaming.televizia.org/live/hls/-pZ9gb9L3rAnfBjMPQodfg/1552921316/silk.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycgb4R2.jpg" group-title="Kazakhstan (Казахстан)",7 Kanal
 http://78.40.108.218/7channel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Kazakh_tv_logo_png_1.png" group-title="Kazakhstan (Казахстан)",Kazakh TV
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh TV
 http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/kazsport.png" group-title="Kazakhstan (Казахстан)",KazSports
@@ -258,26 +258,48 @@ http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="Latvia (Latvija)",TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 
-#EXTINF:-1 tvg-logo="http://acasatv.perfecte.md/design/acasatv_md/images/acasa_in_Moldova_logo5.png" group-title="Moldova",Acasa TV
-http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="Moldova",Moldova 1
+http://live.trm.md:1935/live/M1Mlive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7N6vZTd.jpg" group-title="Moldova",NTV
+#EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-2/moldova-2.png" group-title="Moldova",Moldova 2
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://a-tv.md/templates/test/img/logo-site.png" group-title="Moldova",Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+
+#EXTINF:-1 tvg-logo="http://a-tv.md/templates/test/img/logo-site.png" group-title="Moldova",Domashniy Familia
+http://109.185.159.215:4011/udp/239.100.0.13:5656
+
+#EXTINF:-1 tvg-logo="http://goldtv.md/GoldTVLogo1.gif" group-title="Moldova",Gold TV
+http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.smi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/1200px-Logo_Jurnal_TV_%282012%29.svg.png" group-title="Moldova",Jurnal TV
+http://109.185.159.215:4011/udp/239.100.0.4:5656
+
+#EXTINF:-1 tvg-logo="http://tvtolive.com/wp-content/uploads/NTV-Moldova-tvtolive.com_.jpg" group-title="Moldova",NTV
 http://93.115.137.166/hls/ntvm.m3u8
 
-#EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-BY7M7cbZj.png" group-title="Moldova",Pro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="Moldova",Pro TV
 http://hls.protv.md/hls/protv.m3u8
 
-#EXTINF:-1 tvg-logo="http://media-azi.md/sites/default/files/logo%20publika.jpg" group-title="Moldova",Publika TV
+#EXTINF:-1 tvg-logo="http://acasatv.perfecte.md/design/acasatv_md/images/logo7.png" group-title="Moldova", Pro 2
+http://hls.protv.md/acasatv/acasatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Publika_logo_%282017%29.png/220px-Publika_logo_%282017%29.png" group-title="Moldova",Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.Moldova9.com/wp-content/uploads/ru-tv.png" group-title="Moldova",RUTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Rutv_moldova.png" group-title="Moldova",RU TV Moldova
 http://217.12.116.122/hls/rutv_direct.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.manutv.net/wp-content/uploads/893793546.png" group-title="Moldova",Tele M
+
+#EXTINF:-1 tvg-logo="http://telem.ro/wp-content/uploads/2018/07/cropped-telem-sigla-site.png" group-title="Moldova",Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.Moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="Moldova",TV Elita
+#EXTINF:-1 tvg-logo="https://elitatv.files.wordpress.com/2017/11/cropped-cropped-logo_elitatv_max_512.jpg" group-title="Moldova",TV Elita
 http://46.55.111.242:8080/Rezina.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" group-title="Moldova",TVR Moldova
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/chunklist_w294698115.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeintertv.com/modules/Main/image/100news.jpg" group-title="Ukraine(Україна)",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
@@ -291,5 +313,8 @@ http://77.120.29.10/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gorod.dp.ua/pic/placeimages/07/975/logo.gif" group-title="Ukraine(Україна)",34 телеканал
 http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4&app=playlist
 
-#EXTINF:-1 tvg-logo="http://live.Moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="Uzbekistan(Ўзбекистон)",Milliy TV
+#EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine(Україна)",Телеканал НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-logo="http://milliy.tv/assets/images/logo.png" group-title="Uzbekistan(Ўзбекистон)",Milliy TV
 http://milliy.tv/hls/index_480.m3u8
