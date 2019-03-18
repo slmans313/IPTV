@@ -157,6 +157,18 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports", Fox Sports 3 (台湾)
 http://61.216.10.122:4047/VideoInput/play.ts
 
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav4-1.png group-title="Asian Sports", 博斯运动 1
+http://61.216.177.73/sta/ch10119017.m3u8 
+
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav4-1.png" group-title="Asian Sports", 博斯运动 2
+http://61.216.177.73/sta/ch10119018.m3u8 
+
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav7-1.png" group-title="Asian Sports", 博斯無限 1
+http://61.216.177.73/sta/ch10119019.m3u8 
+
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav7-1.png" group-title="Asian Sports", 博斯無限 2
+http://61.216.177.73/sta/ch10119021.m3u8 
+
 #EXTINF:-1 tvg-logo="http://www.ibSportstv.com/resources/images/tv/top_logo.png" group-title="Asian Sports",IB Sports (한국어)
 http://211.207.173.34:9981/stream/channelid/371185059
 
@@ -605,6 +617,10 @@ http://111.90.151.57:8080/liviu/12345/65568
 http://14.56.230.103:9981/stream/channelid/2092955303?profile=pass
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf", Golf Network(日本)
 http://203.162.235.41:16924
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav1-1.png" group-title="Golf", 博斯高球 1
+http://61.216.177.73/sta/ch10119016.m3u8 
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav2-1.png" group-title="Golf", 博斯高球 2
+http://61.216.177.73/sta/ch10119015.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="Golf", Movistar Golf (Espana)
 http://111.90.151.57:8080/liviu/12345/70902
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
@@ -673,8 +689,8 @@ http://111.90.151.57:8080/liviu/12345/65189
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODk5MTkxMjg4OTE0/tennis-channel-logo-400x300jpg.jpg" group-title="Tennis", Tennis Channel
 http://kimbogrupol.com:25461/julian/julian1/17290
-#EXTINF:-1 tvg-logo="http://pic.pimg.tw/sportcast/4aa61dcbde499.gif" group-title="Tennis",  博斯网球台
-http://61.216.177.73/sta/ch91865001.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav5-1.png" group-title="Tennis", 博斯魅力
+http://61.216.177.73/sta/ch10119020.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Supertennis_logo.png" group-title="Tennis", Super Tennis Italia
 http://111.90.151.57:8080/liviu/12345/62023
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-YOBn19ubJKA/V_Us509A4UI/AAAAAAAACiU/29ZwVlPaGeM3pHSOK9-SYFN4b9tUhr0jQCLcB/s1600/c_more_tennis.jpg" group-title="Tennis", C More Tennis
