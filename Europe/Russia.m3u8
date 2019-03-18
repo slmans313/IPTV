@@ -3,14 +3,17 @@
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/tv3sport1.png" group-title="Russia (Россия)", Первый канал
 http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/2plus2.png" group-title="Russia (Россия)", 2+2
-http://cdn.videosofsport1.live/hls/d8f5_UfwYuOqQmNsAGU9Ow/1552805335/2plus2.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)", Россия-1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://img12.lostpic.net/2018/05/11/6c7bcb9a0b3fd35690920e17f3fd02b8.png" group-title="Russia (Россия)",43 канал
+http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w1369598161.m3u8
 
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/tv3sport1.png" group-title="Russia (Россия)", Первый канал
 http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)", Россия-1
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/2plus2.png" group-title="Russia (Россия)", 2+2
+http://cdn.videosofsport1.live/hls/d8f5_UfwYuOqQmNsAGU9Ow/1552805335/2plus2.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1280px-Rossiya-24_Logo.svg.png" group-title="Russia (Россия)", Россия-24
 http://37.235.182.27:81/udp/225.50.66.86:1234
@@ -23,6 +26,9 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/652377195332136960/ANx2Y3xv.png" group-title="Russia (Россия)",CGTRK Grozny
 http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CGTN_Russian.png/330px-CGTN_Russian.png" group-title="Russia (Россия)",CGTN Россия
+http://live.cgtn.com/1000r/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s1.vcdn.biz/static/f/564914211/image.jpg" group-title="Russia (Россия)",CP Info
 http://109.68.40.67/life/magnolia.m3u8
@@ -233,6 +239,9 @@ http://app.live.112.events/hls/112hd_mid/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/300px-Logo_112_Ukraine.svg.png" group-title="Ukraine(Україна)",33 Канал 
 http://77.120.29.10/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gorod.dp.ua/pic/placeimages/07/975/logo.gif" group-title="Ukraine(Україна)",34 телеканал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4&app=playlist
 
 #EXTINF:-1 tvg-logo="http://live.Moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="Uzbekistan(Ўзбекистон)",Milliy TV
 http://milliy.tv/hls/index_480.m3u8
