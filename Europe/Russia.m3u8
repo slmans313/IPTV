@@ -177,7 +177,10 @@ http://111.90.151.57:8080/liviu/12345/90566
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatSport.ru.png" group-title="Russia (Россия)", Viasat Sport
 http://111.90.151.57:8080/liviu/12345/90567
 
-#EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", 1TV
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
 http://213.162.202.9:8000/play/a01k/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fwutQLA.jpg" group-title="Azerbaijan(Azərbaycan)", MTV Azerbaijan 
