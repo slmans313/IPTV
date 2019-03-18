@@ -139,7 +139,7 @@ http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="Russia (Россия)",Shanson TV
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+http://hls.shansontv.cdnvideo.ru/ashansontv/smil:shansontv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="Russia (Россия)",Shanson TV HD
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
@@ -168,7 +168,10 @@ http://111.90.151.57:8080/liviu/12345/90566
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatSport.ru.png" group-title="Russia (Россия)", Viasat Sport
 http://111.90.151.57:8080/liviu/12345/90567
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/fwutQLA.jpg" group-title="Azerbaijan (Azərbaycan)", MTV Azerbaijan 
+#EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron TV
+http://213.162.202.9:8000/play/a01k/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fwutQLA.jpg" group-title="Azerbaijan(Azərbaycan)", MTV Azerbaijan 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
 
