@@ -15,6 +15,9 @@ http://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8
 #EXTINF:0 tvg-logo="http://i.tmgrup.com.tr/anews/site/v1/i/logo-anews.png" group-title="Turkey (Türkiye)",A News
 http://trkvz-live.ercdn.net/anewshd/anewshd_720p.m3u8
 
+#EXTINF:0 tvg-logo="http://akilli.tv/assets/img/logo.png" group-title="Turkey (Türkiye)",Akilli TV
+http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
+
 #EXTINF:0  tvg-logo="https://sport-tv-guide.live/images/tv-station-cay-tv-895.png" group-title="Turkey (Türkiye)", CAY TV 
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 #EXTINF:-1  tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="Turkey (Türkiye)",CNN Turk
@@ -23,10 +26,10 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/864443317437702145/Ggcrwoln.jpg" group-title="Turkey (Türkiye)",Dream TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1  tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="Turkey (Türkiye)",EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://frmtv.com/wp-content/uploads/2017/08/frmtvlogo.png" group-title="Turkey (Türkiye)",FRM TV
 http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/1200px-FOX_wordmark-red.svg.png" group-title="Turkey (Türkiye)", FOX 
-http://daddyiptv.com:8000/live/riza1/1234/251.m3u8
 #EXTINF:-1  tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="Turkey (Türkiye)",Guney TV Tarsus
 rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
 #EXTINF:0  tvg-logo="http://www.kanal19tv.com/wp-content/uploads/KANAL19-WEB.jpg" group-title="Turkey (Türkiye)", Kanal 19
@@ -35,6 +38,14 @@ http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
 #EXTINF:0  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/Kanal_D.png" group-title="Turkey (Türkiye)", Kanal D
 http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:0  tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Turkey (Türkiye)", Kral TV
+http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/468714376023666688/30svdqHA_400x400.png" group-title="Turkey (Türkiye)", Kral POP
+http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
+
 #EXTINF:0  tvg-logo="http://tvsefasi.com/images/tvlogo/kralpopakustik.png" group-title="Turkey (Türkiye)", Kral POP Akustik
 http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://muzrad.com/wp-content/uploads/2015/11/muzrad_kral-world-radio-8-ilde-yayinda.jpg" group-title="Turkey (Türkiye)",Karl World
@@ -45,8 +56,8 @@ http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8
 #EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/2414964144/2cq1bv0lwjnmxl87ijpo_400x400.jpeg" group-title="Turkey (Türkiye)", Semerkand TV
 http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/wUPmhTk.png" group-title="Turkey (Türkiye)",Sun TV
-rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Star_TV_logosu.png" group-title="Turkey (Türkiye)",Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="Turkey (Türkiye)", Show 
 http://mn-l.mncdn.com/showturktv/showturktv2/ip.m3u8
 #EXTINF:0  tvg-logo="https://i.ytimg.com/vi/YA8T63Wg-Dk/hqdefault.jpg" group-title="Turkey (Türkiye)", TJK TV 
@@ -71,6 +82,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1  tvg-logo="https://www.ecanlitvizle.net/logo/trt-spor-izle.png" group-title="Turkey (Türkiye)",TRT Sports
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.canlitv.world/images/channels/vuslat-tv.png" group-title="Turkey (Türkiye)",Vulsat TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+
