@@ -1,64 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="Lebanon (لبنان)",Al Manar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="Lebanon (لبنان)",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="Lebanon (لبنان)",Al Manar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="Lebanon (لبنان)",Al Manar
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/54.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ukQifg6.png" group-title="Lebanon (لبنان)",Future TV
+#EXTINF:-1 tvg-logo="http://futuretvnetwork.com/images/logo.png group-title="Lebanon (لبنان)",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ukQifg6.png" group-title="Lebanon (لبنان)",Future TV HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.ts
+#EXTINF:-1 tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="Lebanon (لبنان)",Future TV
+http://213.162.202.9:8000/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ares-portal.com/wp-content/uploads/2017/09/plugin.video_.mtvlebanon-1320x743.png" group-title="Lebanon (لبنان)", MTV_lebenon
+#EXTINF:-1 tvg-logo="https://www.ares-portal.com/wp-content/uploads/2017/09/plugin.video_.mtvlebanon-1320x743.png" group-title="Lebanon (لبنان)", MTV Lebanon
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
 
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" group-title="Yemen (اليمن)",Yemen TV
+http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8
 
-#EXTINF:-1,LEBANON | AL AAN TV
-http://p5.giffy.be:8080/cecilia/cecilia/96391
-#EXTINF:-1,LEBANON | AL JADEED TV
-http://p5.giffy.be:8080/cecilia/cecilia/96404
-#EXTINF:-1,LEBANON | AL MANAR
-http://p5.giffy.be:8080/cecilia/cecilia/96403
-#EXTINF:-1,LEBANON | AL MAYADEEN
-http://p5.giffy.be:8080/cecilia/cecilia/96402
-#EXTINF:-1,LEBANON | ATFAL MWAHEB
-http://p5.giffy.be:8080/cecilia/cecilia/96390
-#EXTINF:-1,LEBANON | FUTURE TV
-http://p5.giffy.be:8080/cecilia/cecilia/96401
-#EXTINF:-1,LEBANON | FUTURE TV ????????
-http://p5.giffy.be:8080/cecilia/cecilia/96400
-#EXTINF:-1,LEBANON | HODHOD TV
-http://p5.giffy.be:8080/cecilia/cecilia/96389
-#EXTINF:-1,LEBANON | KRAMESH
-http://p5.giffy.be:8080/cecilia/cecilia/96388
-#EXTINF:-1,LEBANON | LBC EUROPE
-http://p5.giffy.be:8080/cecilia/cecilia/96398
-#EXTINF:-1,LEBANON | LBC INTERNATIONAL
-http://p5.giffy.be:8080/cecilia/cecilia/96397
-#EXTINF:-1,LEBANON | LBC TV
-http://p5.giffy.be:8080/cecilia/cecilia/96399
-#EXTINF:-1,LEBANON | LDC TV
-http://p5.giffy.be:8080/cecilia/cecilia/96396
-#EXTINF:-1,LEBANON | MAJID TV
-http://p5.giffy.be:8080/cecilia/cecilia/96387
-#EXTINF:-1,LEBANON | MICKEY
-http://p5.giffy.be:8080/cecilia/cecilia/96386
-#EXTINF:-1,LEBANON | MODY
-http://p5.giffy.be:8080/cecilia/cecilia/96385
-#EXTINF:-1,LEBANON | MTV FHD
-http://p5.giffy.be:8080/cecilia/cecilia/96395
-#EXTINF:-1,LEBANON | NBN TV
-http://p5.giffy.be:8080/cecilia/cecilia/96394
-#EXTINF:-1,LEBANON | NOON
-http://p5.giffy.be:8080/cecilia/cecilia/96384
-#EXTINF:-1,LEBANON | OTV
-http://p5.giffy.be:8080/cecilia/cecilia/96393
-#EXTINF:-1,LEBANON | SAT7 KIDS
-http://p5.giffy.be:8080/cecilia/cecilia/96383
-#EXTINF:-1,LEBANON | SEMSEM
-http://p5.giffy.be:8080/cecilia/cecilia/96382
-#EXTINF:-1,LEBANON | T?L? LIBAN
-http://p5.giffy.be:8080/cecilia/cecilia/96392
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/ye/samaalyaman-95x66.gif" group-title="Yemen (اليمن)",Sama Yemen TV
+http://213.162.202.9:8000/play/a03e/index.m3u8
