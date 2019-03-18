@@ -6,6 +6,9 @@ http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)", Россия-1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b400000.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvr24.tv/assets/logo-6b7419a9876e12ea94f047dd4b848c3383d6db2d65ec4559592988c275c12c3e.png group-title="Russia (Россия)", 24 TBP
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img12.lostpic.net/2018/05/11/6c7bcb9a0b3fd35690920e17f3fd02b8.png" group-title="Russia (Россия)",43 канал
 http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w1369598161.m3u8
 
@@ -267,11 +270,11 @@ http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a-tv.md/templates/test/img/logo-site.png" group-title="Moldova",Accent TV
 http://video.a-tv.md/hls/accent.m3u8
 
-#EXTINF:-1 tvg-logo="http://a-tv.md/templates/test/img/logo-site.png" group-title="Moldova",Domashniy Familia
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/79690_logo_domashniy_familia.png" group-title="Moldova",Domashniy Familia
 http://109.185.159.215:4011/udp/239.100.0.13:5656
 
 #EXTINF:-1 tvg-logo="http://goldtv.md/GoldTVLogo1.gif" group-title="Moldova",Gold TV
-http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.smi
+http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/1200px-Logo_Jurnal_TV_%282012%29.svg.png" group-title="Moldova",Jurnal TV
 http://109.185.159.215:4011/udp/239.100.0.4:5656
