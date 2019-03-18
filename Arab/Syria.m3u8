@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/snews_logo.png" group-title="Syria(سوريا)", Alikhbaria TV
+http://82.137.248.16:1935/Snews/stream20112018/chunklist_w1174282414.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/ann_news_syria_channel_live_online_free_arabic_channel.jpg" group-title="Syria(سوريا)", ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/2606914_logo_cira_tv_kurd.png" group-title="Syria(سوريا)", Cira TV
+http://213.162.202.9:8000/play/a01m/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/lana-95x95.gif" group-title="Syria(سوريا)",Lana TV
 http://213.162.202.9:8000/play/a02d/index.m3u8
 
@@ -14,9 +23,6 @@ http://82.137.248.16:1935/SEdu/stream20112018/chunklist_w1551912453.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/syrian_logo.png" group-title="Syria(سوريا)", Syrian Satellite
 http://82.137.248.16:1935/Sat/stream20112018/chunklist_w1198971875.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/snews_logo.png" group-title="Syria(سوريا)", Alikhbaria TV
-http://82.137.248.16:1935/Snews/stream20112018/chunklist_w1174282414.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
 http://82.137.248.16:1935/Drama/stream20112018/chunklist_w98199038.m3u8
