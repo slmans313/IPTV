@@ -6,9 +6,6 @@ http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/2plus2.png" group-title="Russia (Россия)", 2+2
 http://cdn.videosofsport1.live/hls/d8f5_UfwYuOqQmNsAGU9Ow/1552805335/2plus2.m3u8
 
-#EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" group-title="Russia (Россия)",  Крым 24
-http://vid.techbee.pro:8080/crimea24/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/tv3sport1.png" group-title="Russia (Россия)", Первый канал
 http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 
@@ -153,6 +150,12 @@ http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/224/29_tjumenskoe-vremja.jpg" group-title="Russia (Россия)",Tjumenskoe Vremja
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png group-title="Russia (Россия)",1 Крым
+http://vid.techbee.pro:8080/1tvcrimea/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" group-title="Russia (Россия)",Крым 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/XsportUA2017.png" group-title="Russia (Россия)", Xsport
 http://524bcc33.iptvspy.ru/iptv/C2DN7UA3ABGLLR/996/index.m3u8
 
@@ -174,18 +177,11 @@ http://213.162.202.9:8000/play/a01k/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fwutQLA.jpg" group-title="Azerbaijan(Azərbaycan)", MTV Azerbaijan 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
-
 #EXTINF:0 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/topbelarus-5i.png" group-title="Belarus(Беларусь)", Belarus 5
 http://cdn.videosofsport1.live/hls/JzrfWSIkYlxd9wA0w0M7Bw/1552806207/belarus5.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="Estonia (Eesti)",Tallinna TV
 http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eesti_Televisioon_Logo.svg/300px-Eesti_Televisioon_Logo.svg.png" group-title="Estonia (Eesti)",ETV
-http://streams.iptv.luxe:80/p/568154/c/2/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/300px-ETV2_logo.svg.png" group-title="Estonia (Eesti)",ETV2
-http://streams.iptv.luxe:80/p/568154/c/1/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycgb4R2.jpg" group-title="Kazakhstan (Казахстан)",7 Kanal
 http://78.40.108.218/7channel/index.m3u8
@@ -228,3 +224,15 @@ http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.Moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="Moldova",TV Elita
 http://46.55.111.242:8080/Rezina.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeintertv.com/modules/Main/image/100news.jpg" group-title="Ukraine(Україна)",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/300px-Logo_112_Ukraine.svg.png" group-title="Ukraine(Україна)",112 Україна
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/300px-Logo_112_Ukraine.svg.png" group-title="Ukraine(Україна)",33 Канал 
+http://77.120.29.10/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.Moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="Uzbekistan(Ўзбекистон)",Milliy TV
+http://milliy.tv/hls/index_480.m3u8
