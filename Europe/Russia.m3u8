@@ -186,7 +186,13 @@ http://213.162.202.9:8000/play/a01k/index.m3u8
 #EXTINF:0 tvg-logo="http://yerkirmedia.am/wp-content/uploads/2017/04/logo_for-site.png" group-title="Armenia(Հայաստան)", Yerkir Media
 http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/fwutQLA.jpg" group-title="Azerbaijan(Azərbaycan)", MTV Azerbaijan 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="Azerbaijan(Azərbaycan)", Azad Azerbaijan TV
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:0 tvg-logo="http://kepez.arbtv.az/assets/uploads/sites/logo.png" group-title="Azerbaijan(Azərbaycan)", Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/2a62a912-2738-41dc-9879-7f581672115d_muz-tv-az.jpg" group-title="Azerbaijan(Azərbaycan)", MTV Azərbaycan 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
 #EXTINF:0 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/topbelarus-5i.png" group-title="Belarus(Беларусь)", Belarus 5
