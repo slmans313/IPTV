@@ -39,17 +39,33 @@ http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
 #EXTINF:0  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/Kanal_D.png" group-title="Turkey (Türkiye)", Kanal D
 http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 
+#EXTINF:0  tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Turkey (Türkiye)", Kral
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 
-#EXTINF:0  tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Turkey (Türkiye)", Kral TV
-http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+#EXTINF:0  tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Turkey (Türkiye)", Kral
+http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 
-#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/468714376023666688/30svdqHA_400x400.png" group-title="Turkey (Türkiye)", Kral POP
-http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
+#EXTINF:0  tvg-logo="http://3.bp.blogspot.com/-jTr_QYPH05c/V7HPOLRjYrI/AAAAAAAAQO8/XrTNox9lXU0aUJMy6srE3z3ewAYZjnQwgCLcB/s1600/kralpopkonser.jpg" group-title="Turkey (Türkiye)",Kral Pop Konser
+http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
 
+#EXTINF:0  tvg-logo="https://1.bp.blogspot.com/-BhzoVXN1umY/XEitcIiOCVI/AAAAAAAABCg/bHQmYfFQ1iARNI8lJGb74b26kWr_eO_EQCLcBGAs/s1600/kral.png" group-title="Turkey (Türkiye)",Kral Performans
+http://0ajuu84p.rocketcdn.com/kraldijital-konsertv_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/468714376023666688/30svdqHA_400x400.png" group-title="Turkey (Türkiye)", Kral Pop
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/468714376023666688/30svdqHA_400x400.png" group-title="Turkey (Türkiye)", Kral Pop
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+
+#EXTINF:0  tvg-logo="http://tvsefasi.com/images/tvlogo/kralpopakustik.png" group-title="Turkey (Türkiye)",Kral Pop Akustik
+http://0ajuu84p.rocketcdn.com/kraldijital-akustiktv_720/chunklist.m3u8
 #EXTINF:0  tvg-logo="http://tvsefasi.com/images/tvlogo/kralpopakustik.png" group-title="Turkey (Türkiye)", Kral POP Akustik
 http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://muzrad.com/wp-content/uploads/2015/11/muzrad_kral-world-radio-8-ilde-yayinda.jpg" group-title="Turkey (Türkiye)",Karl World
-http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
+http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+
+
 #EXTINF:-1  tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="Turkey (Türkiye)",Meclis TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1  tvg-logo="http://rumelitv.com.tr/img/rumelilogo.png" group-title="Turkey (Türkiye)",Rumeli TV
