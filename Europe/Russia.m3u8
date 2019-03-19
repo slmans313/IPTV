@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/tv3sport1.png" group-title="Russia (Россия)", Первый канал
-http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/pervyiy-kanal.png" group-title="Russia (Россия)", Первый канал
+http://51.15.56.212:8081/tv/pervii/chunks.m3u8?nimblesessionid=13460484&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDE5IDU6NTY6MjUgQU0maGFzaF92YWx1ZT1XT3NrRC93ZVZFT3RUd3NVazlleFlnPT0mdmFsaWRtaW51dGVzPTcyMA==
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)",Россия 1
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1
 http://188.243.62.238:81/udp/239.239.1.65:5239
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)",Россия 1
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1
 http://hls-mycdn01792630458.cdnvideo.ru/mycdn01792630458/chechnyatoday/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Russiya_hd.png" group-title="Russia (Россия)",Россия 1 -6 (Чита/Chita)
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 -6 (Чита/Chita)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.minval.az/2016/04/07f5212af1f3abda8bd54fc4afa330da.jpg" group-title="Russia (Россия)",РОССИЯ-24
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",РОССИЯ-24
 http://188.243.62.238:81/udp/239.239.1.6:5239
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Russia-Cultura.png" group-title="Russia (Россия)",РОССИЯ-K
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Russia (Россия)",РОССИЯ-K
 http://188.243.62.238:81/udp/239.239.1.5:5239
 
 #EXTINF:-1 tvg-logo="http://dprtv.phoenix-dnr.ru/first-republic/logo.png" group-title="Russia (Россия)",1-й Республиканский
@@ -128,7 +128,7 @@ http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1 tvg-logo="http://muz.tv-soyuz.ru/images/logo.png" group-title="Russia (Россия)",Muz Sojuz
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://mtvmix.ru/meropriyatiya/images/500.png" group-title="Russia (Россия)",MTV Mix Ufa
+#EXTINF:-1 tvg-logo="http://mtvmix.ru/meropriyatiya/images/500.png" group-title="Russia (Россия)",MTV Mix
 http://81.30.182.82:18092/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg" group-title="Russia (Россия)",Nastoyashcheye Vremya
@@ -137,7 +137,7 @@ https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.com/images/radio-logo/hit.png" group-title="Russia (Россия)",HIT
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv-online.im/wp-content/uploads/2013/11/HTB-tv-live.gif" group-title="Russia (Россия)", НТВ
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/ntv.png" group-title="Russia (Россия)", НТВ
 http://188.243.62.238:81/udp/239.239.1.3:5239
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia (Россия)",Novyj Mir
@@ -375,6 +375,12 @@ https://webcams.ks.ua/tvhls/stream1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvkrt.com.ua/img/tvkrtlogo.png" group-title="Ukraine(Україна)", KPT
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
+
+#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510605239_renome-tv.png" group-title="Ukraine(Україна)", Renome TV
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+
+#EXTINF:-1 tvg-logo="http://stv-media.tv/templates/stv/images/stv-03.gif" group-title="Ukraine(Україна)", STV
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv5.zp.ua/wp-content/uploads/2017/02/logo_header2.png" group-title="Ukraine(Україна)",TV5
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
