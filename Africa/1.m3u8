@@ -1,13 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Congo(Kikongo)",Tracekitoko
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="Ghana",TV Africa
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcmcldL.png" group-title="Mauritania(موريتانيا)", El Mahadra
 http://111.90.151.57:8080/liviu/12345/147328
 
-#EXTINF:-1 tvg-logo="https://www.loveworldplus.tv/wp-content/uploads/2016/09/logo_small1.png" group-title="Nigeria",Love World Plus TV
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Nigeria(Naija)",Trace Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Kenya",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="Mozambique",Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.loveworldplus.tv/wp-content/uploads/2016/09/logo_small1.png" group-title="Nigeria(Naija)",Love World Plus TV
 http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/swling.com/blog/wp-content/uploads/2010/11/RadioDabanga.jpg" group-title="Sudan(السودان‎)", Radio Dabanga
 http://111.90.151.57:8080/liviu/12345/146203
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="South Africa",Trace Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
