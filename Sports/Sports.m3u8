@@ -395,11 +395,11 @@ http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1205
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1204
 #EXTINF:-1 tvg-logo="https://media02.statarea.com/images/tv/117.png" group-title="Nederland Sports", Ziggo Sport Select
 http://111.90.151.57:8080/liviu/12345/111045
--
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Eurasia
-http://ott-cdn.ucom.am/s81/index.m3u8
+http://109.248.236.41:4433/udp/238.1.1.60:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Sports +
-http://cdn.videosofsport1.live/hls/36NQLS-Vh2jrXpwMLDTKUw/1552805531/setantaplus.m3u8
+http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/00/01/11/06s.png" group-title="Russian Sports", Матч!
 http://gorod.tv/s/live/3/134.249.65.172/1/0.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/27/p1d.png" group-title="Russian Sports", Матч! Арена
@@ -422,6 +422,8 @@ http://111.90.151.57:8080/liviu/12345/90534
 http://cdn.videosofsport1.live/hls/VYNWeCKftZY7033IC1f8pg/1552804029/football1ua.m3u8
 #EXTINF:-1 tvg-logo="http://online-allSports.com.ua/images/stories_2/logotv/futbol2uan.png" group-title="Russian Sports",ФУТБОЛ 2
 http://cdn.videosofsport1.live/hls/Ifq7X4CWpYTFmJJa8m4x8Q/1552804030/football2ua.m3u8
+#EXTINF:-1 tvg-logo="http://www.football-tv.ru/wp-content/uploads/2017/11/logo-mini-1.png" group-title="Russian Sports", Телеканал Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/khlhd.png" group-title="Russian Sports",Kontinental Hockey League
 http://cdn.videosofsport1.live/hls/KPXI02xLQOOQ5evAsZiMZA/1552806608/khlhd.m3u8
