@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/New%20IPTV%20Icons/discovermalta.png" group-title="Malta",Discover Malta
+http://www.evoiptv.com/hlsdiscover/hlsdiscover.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/PM.png" group-title="Malta",Drama
+http://www.evoiptv.com/hlsdrama/hlsdrama.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/maltese/Evo%20Tv.png" group-title="Malta",EVO
+http://www.evoiptv.com/hlsevo/hlsevo.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/MVTV.png" group-title="Malta",Malta Vision MTV
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/tfal.png" group-title="Malta",Splaxxx
+http://www.evoiptv.com/hlskids/hlskids.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/TVM_Malta.png" group-title="Malta", TVM
 http://212.56.139.219:9981/stream/channelid/1851785642?ticket=D37F8FC8115D59DB6B5741562906F982E241D312&profile=pass
 
