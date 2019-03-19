@@ -224,6 +224,9 @@ http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/224/29_tjumenskoe-vremja.jpg" group-title="Russia (Россия)",Tjumenskoe Vremja
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvbrics.com/local/templates/aspro-digital/images/logo/Logo_ENG.png" group-title="Russia (Россия)",TV Brics
+http://live2.mediacdn.ru/sr1/tvbrics/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tk-union.tv/assets/components/union/u_logo.png" group-title="Russia (Россия)",ЮНИОН
 http://dprtv.phoenix-dnr.ru/union
 
@@ -268,6 +271,13 @@ http://195.5.108.14:1935/live/itv1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", 1TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Аrmenia TV 3
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Аrmenia TV 5
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Аrmenia TV 6
+http://ott-cdn.ucom.am/s66/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
 http://213.162.202.9:8000/play/a01k/index.m3u8
@@ -332,6 +342,9 @@ http://sc.id-tv.kz/31channel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycgb4R2.jpg" group-title="Kazakhstan (Казахстан)",7 Kanal
 http://78.40.108.218/7channel/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://almaty.tv/images/almatylogomart.png" group-title="Kazakhstan (Казахстан)",Аlmaty TV
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://astanatv.kz/assets/images/logo/logo.png" group-title="Kazakhstan (Казахстан)",Astana TV
 http://sc.id-tv.kz/astana_36_37.m3u8
 
@@ -379,10 +392,10 @@ http://sc.id-tv.kz/Habar_36_37.m3u8
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/lv/RETV.png" group-title="Latvia (Latvija)",RE:TV
-http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="Latvia (Latvija)",TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="Latvia (Latvija)",Latvijas Radio 3 Klasika
+http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="Moldova",Moldova 1
 http://live.trm.md:1935/live/M1Mlive/playlist.m3u8
@@ -500,6 +513,12 @@ http://109.68.40.67:80/life/k1_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="Ukraine(Україна)",KRATU
 https://webcams.ks.ua/tvhls/stream1/index.m3u8
+#EXTINF:-1 tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="Ukraine(Україна)",KRATU
+http://46.175.163.130/vod/2/index.m3u8
+#EXTINF:-1 tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="Ukraine(Україна)",KRATU
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:-1 tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="Ukraine(Україна)",KRATU
+http://212.113.32.169:8080/Apple/2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvkrt.com.ua/img/tvkrtlogo.png" group-title="Ukraine(Україна)", KPT
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
