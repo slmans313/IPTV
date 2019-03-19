@@ -80,14 +80,24 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/tv3sport1.png" group-title="Russia (Россия)", Первый канал
 http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)", Астрахань 24
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://crushgame.ru/channels_logos/Films/amedia_1.png" group-title="Russia (Россия)", Amedia 1
 http://stream.euroasia.lfstrm.tv/amedia_1/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="Russia (Россия)", Amedia 2
 http://sc.id-tv.kz/A2_36_37.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)", Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)", Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)",Астрахань Live
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://sport.astrakhan.ru/image/logo-sport-astrakhan.png" group-title="Russia (Россия)",Астрахань Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.belnovosti.ru/sites/all/themes/belnovosti/i/belgorod24-logo.png" group-title="Russia (Россия)",ББелгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
@@ -194,8 +204,11 @@ http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1 tvg-logo="http://russian.oplot.tv/img/new_logo.png" group-title="Russia (Россия)",Оплот ТВ
 http://dprtv.phoenix-dnr.ru/oplot-tv
 
+#EXTINF:-1 tvg-logo="http://opentv.online/themes/front/images/logo.png" group-title="Russia (Россия)",Открытый
+http://hls.opentv.online/7200k/open_7200k.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/330px-OTR_2013_logo.svg.png" group-title="Russia (Россия)",ОТР
-http://188.243.62.238:81/udp/239.239.1.68:5239
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://fenixplus.tv/bitrix/templates/main/images/logo_for_web.png" group-title="Russia (Россия)",Феникс+ Кино
 http://109.248.236.41:4433/udp/238.1.1.134:1234
@@ -233,6 +246,9 @@ http://dprtv.phoenix-dnr.ru/union
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fnpm8RO.png" group-title="Russia (Россия)",Univer
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.kpfu.ru/themes/inno/images/logo.png" group-title="Russia (Россия)",КФУ ТВ
+http://cdn.universmotri.ru/live/univer_kfu2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatExplore.ru.png" group-title="Russia (Россия)", Viasat Explore
 http://c0.cdn.trinity-tv.net/stream/a65xfh9dr4t6piam7vhrfnh6q9zi2whwqmvk262y4k4nc3csi9epzzxgtykxggz6kqwykcgyrhb9nur9uuepy5y7z54acpwue7si8jzgu3
 
@@ -247,6 +263,9 @@ http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vrt.tv/assets/vrt/img/logo/logo_30.png" group-title="Russia (Россия)",VRT.TV
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.xn--80af5aj3e.xn--p1ai/assets/images/logo.png" group-title="Russia (Россия)",Юрган ТВ
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" group-title="Crimea (Крым)",1 Крым
 http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
@@ -303,8 +322,21 @@ http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0 tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/2a62a912-2738-41dc-9879-7f581672115d_muz-tv-az.jpg" group-title="Azerbaijan(Azərbaycan)", MTV Azərbaycan 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
+#EXTINF:-1,Беларусь 24
+http://stream.euroasia.lfstrm.tv/belarus_24/1/index.m3u8
+#EXTINF:-1,Беларусь 24
+http://stream.hoster.by/belarus24/live/playlist.m3u8
+#EXTINF:-1,Беларусь 24
+http://212.8.233.150:8081/temp/b24/playlist.m3u8
+#EXTINF:-1,Беларусь 24
+https://stream.hoster.by/belarus24/live/playlist.m3u8
+#EXTINF:-1,Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1,Беларусь 4 (Могилёв)
+http://86.57.225.238:8090
+
 #EXTINF:0 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/topbelarus-5i.png" group-title="Belarus(Беларусь)", Belarus 5
-http://cdn.videosofsport1.live/hls/JzrfWSIkYlxd9wA0w0M7Bw/1552806207/belarus5.m3u8
+http://95.46.208.76:9898/belarus5
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="Estonia (Eesti)",Tallinna TV
 http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
@@ -501,6 +533,9 @@ http://194.8.145.85:8066/livemobile/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XmgXv7Y.jpg group-title="Ukraine(Україна)",En TV (Энергодар)
 http://tv.om.ua:8090/test.flv
+
+#EXTINF:-1 tvg-logo="http://www.nta.ua/wp-content/uploads/2017/04/favicon-1.png group-title="Ukraine(Україна)",НТА
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine(Україна)", НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
