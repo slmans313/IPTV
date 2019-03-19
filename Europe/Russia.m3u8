@@ -15,6 +15,9 @@ http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",РОССИЯ-24
 http://188.243.62.238:81/udp/239.239.1.6:5239
 
+#EXTINF:-1 tvg-logo="http://strana-online.pro/wp-content/uploads/2017/11/volgograd-24.png" group-title="Russia (Россия)",Волгоград 24
+http://hls.volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Russia (Россия)",РОССИЯ-K
 http://188.243.62.238:81/udp/239.239.1.5:5239
 
@@ -36,7 +39,6 @@ http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/2plus2.png" group-title="Russia (Россия)", 2+2
 http://cdn.videosofsport1.live/hls/d8f5_UfwYuOqQmNsAGU9Ow/1552805335/2plus2.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/360%C2%B0_logo_2017.svg/1200px-360%C2%B0_logo_2017.svg.png" group-title="Russia (Россия)",360°
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 
@@ -52,11 +54,14 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/tv3sport1.png" group-title="Russia (Россия)", Первый канал
 http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png group-title="Russia (Россия)", Астрахань 24
+#EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)", Астрахань 24
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.belnovosti.ru/sites/all/themes/belnovosti/i/belgorod24-logo.png" group-title="Russia (Россия)",ББелгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://trknadym.ru/upload/medialibrary/147/img-logo-2222.png" group-title="Russia (Россия)",Вестник Надыма
+http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s.glaz.tv/images/logos/tv/big/boec-tv.jpg" group-title="Russia (Россия)",Боец ТВ
 http://cdn.videosofsport1.live/hls/6G5jShmEQtWg6qzuslEBew/1552806746/fightclub.m3u8
@@ -287,6 +292,9 @@ https://streaming.televizia.org/live/hls/-pZ9gb9L3rAnfBjMPQodfg/1552921316/silk.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycgb4R2.jpg" group-title="Kazakhstan (Казахстан)",7 Kanal
 http://78.40.108.218/7channel/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://astanatv.kz/assets/images/logo/logo.png" group-title="Kazakhstan (Казахстан)",Astana TV
+http://sc.id-tv.kz/astana_36_37.m3u8
+
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh TV
 http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8?fluxustv.m3u8
 
@@ -353,6 +361,21 @@ http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1 tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" group-title="Moldova",TVR Moldova
 http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/chunklist_w294698115.m3u8
 
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" group-title="Türkmenistan", Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" group-title="Türkmenistan", Asgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg" group-title="Türkmenistan",Türkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="Türkmenistan",Türkmen Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="Türkmenistan",Türkmenistan TV
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.freeintertv.com/modules/Main/image/100news.jpg" group-title="Ukraine(Україна)",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
 
@@ -379,6 +402,9 @@ http://streamer.antenna.com.ua/hls/antenna.m3u8
 
 #EXTINF:-1 tvg-logo="https://mip.gov.ua/files/news/ATR.jpg" group-title="Ukraine(Україна)", ATR
 http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cv.suspilne.media/inc/img/logo-26.png" group-title="Ukraine(Україна)",Буковина
+http://194.8.145.85:8066/livemobile/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XmgXv7Y.jpg group-title="Ukraine(Україна)",En TV (Энергодар)
 http://tv.om.ua:8090/test.flv
