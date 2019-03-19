@@ -5,15 +5,30 @@ http://51.15.56.212:8081/tv/pervii/chunks.m3u8?nimblesessionid=13460484&wmsAuthS
 
 
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1
-http://188.243.62.238:81/udp/239.239.1.65:5239
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1
+http://46.32.64.42/s/live/2/134.249.65.172/1541501802945/0.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 (Вайнах)
 http://hls-mycdn01792630458.cdnvideo.ru/mycdn01792630458/chechnyatoday/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 (Калининград)
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 (Калуга)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1(Самара)
+http://tvsamara.ru/streaming/r1.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 (Сочи)
+http://sochi.camera:8080/cam_255/index.m3u8?token=null
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 (Чувашия)
+http://chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 (Чувашия)
+http://www.vradio.ru/hls/russia-1-live-2000/index.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 -6 (Чита/Chita)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",РОССИЯ-24
 http://188.243.62.238:81/udp/239.239.1.6:5239
+
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",Россия 24 HD
+http://109.70.184.20:8080/udp/239.195.32.4:1234
 
 #EXTINF:-1 tvg-logo="http://strana-online.pro/wp-content/uploads/2017/11/volgograd-24.png" group-title="Russia (Россия)",Волгоград 24
 http://hls.volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
