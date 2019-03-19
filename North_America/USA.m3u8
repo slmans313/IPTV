@@ -318,8 +318,9 @@ http://111.90.151.57:8080/liviu/12345/149787
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/custom/image/582858d0-9509-11e8-9989-07c471c8ec06.png" group-title="Connecticut", CBS 3 Connecticut (WFSB)
 http://111.90.151.57:8080/liviu/12345/105861
 
-#EXTINF:-1 tvg-logo="https://norwalkcosmeticdentist.com/wp-content/uploads/2016/02/news12-logo-ct.png" group-title="Connecticut", News 12 Connecticut
-http://p4.giffy.be:8080/sandy/1234/28294
+#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12ct/images/news12ct-logo.png" group-title="Connecticut", News 12 Connecticut Weather
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_of_WTTG-TV.png",Fox 5 DC (WTTG)
 http://111.90.151.57:8080/liviu/12345/138446
@@ -509,6 +510,22 @@ http://111.90.151.57:8080/liviu/12345/78314
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/WJLP_33_Middletown_logo.png" group-title="New York",  METV 3 (WJLP)
 http://111.90.151.57:8080/liviu/12345/96267
+
+#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bx/images/news12bx-logo.png" group-title="New York", News 12 Bronx
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bk/images/news12bk-logo.png" group-title="New York", News 12 Brooklyn
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bx/images/news12bx-logo.png" group-title="New York", News 12 Bronx/Brooklyn Weather
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+
+#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12li/images/news12li-logo.png" group-title="New York", News 12 Long Island
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12li/images/news12li-logo.png" group-title="New York", News 12 Long Island Weather
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12nj/images/news12nj-logo.png" group-title="New York", News 12 New Jersey Weather)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12wc/images/news12wc-logo.png" group-title="New York", News 12 Westchester Weather
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1920px-SNY_logo.svg.png" group-title="New York",  SNY
 http://p4.giffy.be:8080/sandy/1234/85574
