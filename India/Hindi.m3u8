@@ -1,21 +1,19 @@
 #EXTM3U
 
-#EXTINF:0, group-title="Hindi(हिन्दी)",& Pictures HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi(हिन्दी)",& TV
-http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi(हिन्दी)",Bhakti SagarE24
+#EXTINF:-1 tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" group-title="Hindi(हिन्दी)",Bhakti Sagar E24
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
-#EXTINF:0, group-title="Hindi(हिन्दी)",CNBC Awaaz
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Hindi(हिन्दी)", CNBC Awaaz
 https://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
-#EXTINF:0, group-title="Hindi(हिन्दी)",DD Bihar
-http://p5.giffy.be:8080/cecilia/cecilia/92658
-#EXTINF:0, group-title="Hindi(हिन्दी)",DD India
-http://p5.giffy.be:8080/cecilia/cecilia/92657
-#EXTINF:0, group-title="Hindi(हिन्दी)",DD Kisan
-http://z5ams.akamaized.net/ddkisan/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ced60aa5db0a1c93f771b3d5bdea10d6.jpg" group-title="Hindi(हिन्दी)", Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi(हिन्दी)", Sony Channel
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/824
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi(हिन्दी)", Sony Channel
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/22
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="Hindi(हिन्दी)",  WOW Cinema
 https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
