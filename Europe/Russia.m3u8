@@ -23,7 +23,6 @@ http://www.vradio.ru/hls/russia-1-live-2000/index.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-1.png" group-title="Russia (Россия)",Россия 1 -6 (Чита)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",РОССИЯ-24
 http://188.243.62.238:81/udp/239.239.1.6:5239
 
@@ -35,8 +34,6 @@ http://sochi.camera:8080/cam_256/index.m3u8?token=null
 http://live.gtrktambov.cdnvideo.ru/gtrktambov/r24tmb_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",Россия 24 (Чита)
 http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://strana-online.pro/wp-content/uploads/2017/11/volgograd-24.png" group-title="Russia (Россия)",Волгоград 24
 http://hls.volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
@@ -378,12 +375,14 @@ http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a-tv.md/templates/test/img/logo-site.png" group-title="Moldova",Accent TV
 http://video.a-tv.md/hls/accent.m3u8
 
+#EXTINF:-1 tvg-logo="https://canalregional.md/wp-content/uploads/2018/04/Logo.png" group-title="Moldova",Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/79690_logo_domashniy_familia.png" group-title="Moldova",Domashniy Familia
 http://109.185.159.215:4011/udp/239.100.0.13:5656
 
 #EXTINF:-1 tvg-logo="https://elitatv.files.wordpress.com/2017/11/cropped-cropped-logo_elitatv_max_512.jpg" group-title="Moldova", Elita
 http://46.55.111.242:8080/Rezina.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://goldtv.md/GoldTVLogo1.gif" group-title="Moldova",Gold TV
 http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
