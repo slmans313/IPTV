@@ -164,6 +164,21 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gVDM9S.jpg" group-title="Russia (Россия)",Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
+#EXTINF:-1 tvg-logo="http://online-red.com/images/radio-logo/hit.png" group-title="Russia (Россия)",HIT
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/ntv.png" group-title="Russia (Россия)", НТВ
+http://188.243.62.238:81/udp/239.239.1.3:5239
+
+#EXTINF:-1 tvg-logo="http://tv-nano.ru/wp-content/uploads/2018/08/nano_logo_discriptor_250_84.png" group-title="Russia (Россия)",Nano TV
+http://serv30.vintera.tv:8081/nano/nanohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg" group-title="Russia (Россия)",Nastoyashcheye Vremya
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia (Россия)",Novyj Mir
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://timemediagroup.ru/tem/images/1о_corrected.png" group-title="Russia (Россия)",Meteo TV
 http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
 
@@ -179,17 +194,6 @@ http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m
 #EXTINF:-1 tvg-logo="http://mtvmix.ru/meropriyatiya/images/500.png" group-title="Russia (Россия)",MTV Mix
 http://81.30.182.82:18092/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg" group-title="Russia (Россия)",Nastoyashcheye Vremya
-https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://online-red.com/images/radio-logo/hit.png" group-title="Russia (Россия)",HIT
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/ntv.png" group-title="Russia (Россия)", НТВ
-http://188.243.62.238:81/udp/239.239.1.3:5239
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia (Россия)",Novyj Mir
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://russian.oplot.tv/img/new_logo.png" group-title="Russia (Россия)",Оплот ТВ
 http://dprtv.phoenix-dnr.ru/oplot-tv
@@ -365,6 +369,9 @@ http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000
 #EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="Moldova",Moldova 1
 http://live.trm.md:1935/live/M1Mlive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="Moldova",Moldova 1
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-2/moldova-2.png" group-title="Moldova",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 
@@ -390,7 +397,7 @@ http://hls.protv.md/hls/protv.m3u8
 http://hls.protv.md/acasatv/acasatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Publika_logo_%282017%29.png/220px-Publika_logo_%282017%29.png" group-title="Moldova",Publika TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
+http://livebeta.publika.md/LIVE/P/1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Rutv_moldova.png" group-title="Moldova",RU TV Moldova
 http://217.12.116.122/hls/rutv_direct.m3u8
