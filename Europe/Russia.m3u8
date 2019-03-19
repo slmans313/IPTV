@@ -235,16 +235,16 @@ http://dprtv.phoenix-dnr.ru/union
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatExplore.ru.png" group-title="Russia (Россия)", Viasat Explore
-http://111.90.151.57:8080/liviu/12345/90564
+http://c0.cdn.trinity-tv.net/stream/a65xfh9dr4t6piam7vhrfnh6q9zi2whwqmvk262y4k4nc3csi9epzzxgtykxggz6kqwykcgyrhb9nur9uuepy5y7z54acpwue7si8jzgu3
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="Russia (Россия)",Viasat History
-http://111.90.151.57:8080/liviu/12345/90508
+http://ott-cdn.ucom.am/s70/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatNature.ru.png" group-title="Russia (Россия)",Viasat Nature
-http://111.90.151.57:8080/liviu/12345/90566
+http://109.248.236.41:4433/udp/238.1.1.51:1234
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatSport.ru.png" group-title="Russia (Россия)", Viasat Sport
-http://111.90.151.57:8080/liviu/12345/90567
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vrt.tv/assets/vrt/img/logo/logo_30.png" group-title="Russia (Россия)",VRT.TV
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
@@ -381,6 +381,10 @@ http://video.a-tv.md/hls/accent.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/79690_logo_domashniy_familia.png" group-title="Moldova",Domashniy Familia
 http://109.185.159.215:4011/udp/239.100.0.13:5656
 
+#EXTINF:-1 tvg-logo="https://elitatv.files.wordpress.com/2017/11/cropped-cropped-logo_elitatv_max_512.jpg" group-title="Moldova", Elita
+http://46.55.111.242:8080/Rezina.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://goldtv.md/GoldTVLogo1.gif" group-title="Moldova",Gold TV
 http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
 
@@ -405,8 +409,8 @@ http://217.12.116.122/hls/rutv_direct.m3u8
 #EXTINF:-1 tvg-logo="http://telem.ro/wp-content/uploads/2018/07/cropped-telem-sigla-site.png" group-title="Moldova",Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://elitatv.files.wordpress.com/2017/11/cropped-cropped-logo_elitatv_max_512.jpg" group-title="Moldova",TV Elita
-http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1 tvg-logo="http://tv8.md/wp-content/uploads/2018/12/logo-tv8-new.png" group-title="Moldova",TV8
+http://live.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=1
 
 #EXTINF:-1 tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" group-title="Moldova",TVR Moldova
 http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/chunklist_w294698115.m3u8
@@ -487,7 +491,7 @@ http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv5.zp.ua/wp-content/uploads/2017/02/logo_header2.png" group-title="Ukraine(Україна)",TV5
-http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv7plus.com/wp-content/uploads/2017/05/logo-2.png" group-title="Ukraine(Україна)",TV7+
 http://tv7plus.com/hls/tv7_site.m3u8
