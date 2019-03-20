@@ -222,8 +222,14 @@ http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/RU.TV.png" group-title="Russia (Россия)",RUTV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="Russia (Россия)",Shanson TV
-http://hls.shansontv.cdnvideo.ru/ashansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Russia (Россия)",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Russia (Россия)",Шансон ТВ
+http://ott-cdn.ucom.am/s43/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Russia (Россия)",Шансон ТВ
+http://stream.euroasia.lfstrm.tv/shanson_tv/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="Russia (Россия)",Shanson TV
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
@@ -440,6 +446,8 @@ http://sc.id-tv.kz/HalykArna_36_37.m3u8
 #EXTINF:-1 tvg-logo="https://cache-khabar.cdnvideo.ru/images/Khabar-200.png" group-title="Kazakhstan (Казахстан)",Хабар
 http://sc.id-tv.kz/Habar_36_37.m3u8
 
+#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Kazakhstan (Казахстан)",Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latvia (Latvija)",Chau TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
@@ -562,7 +570,7 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 
 #EXTINF:-1 tvg-logo="http://tivix.co/uploads/posts/2014-03/1395686210_chp-info.png" group-title="Ukraine(Україна)",ЧП.INFO
-http://109.68.40.67/life/magnolia.m3u8
+http://109.68.40.67/life/magnolia_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Ukraine(Україна)", K1
 http://109.68.40.67:80/life/k1_3/index.m3u8
@@ -590,6 +598,11 @@ http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv7plus.com/wp-content/uploads/2017/05/logo-2.png" group-title="Ukraine(Україна)",TV7+
 http://tv7plus.com/hls/tv7_site.m3u8
+
+#EXTINF:-1 tvg-logo="http://yatb.tv/wp-content/uploads/2018/03/73d917e7-logo.jpg group-title="Ukraine(Україна)",ЯТБ
+https://webcams.ks.ua/tvhls/stream2/index.m3u8
+#EXTINF:-1 tvg-logo="http://yatb.tv/wp-content/uploads/2018/03/73d917e7-logo.jpg" group-title="Ukraine(Україна)",ЯТБ
+http://46.175.163.130/vod/8/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://milliy.tv/assets/images/logo.png" group-title="Uzbekistan(Ўзбекистон)",Milliy TV
 http://milliy.tv/hls/index_480.m3u8
