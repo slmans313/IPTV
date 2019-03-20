@@ -338,6 +338,18 @@ http://86.57.225.238:8090
 #EXTINF:0 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/topbelarus-5i.png" group-title="Belarus(Беларусь)", Belarus 5
 http://95.46.208.76:9898/belarus5
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png" group-title="Belarus(Беларусь)",СТВ (Беларусь)
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://skif.by/wp-content/themes/test/img/logo.png" group-title="Belarus(Беларусь)",СкиФ
+http://178.172.150.248:2051/index.m3u8
+
+#EXTINF:0 tvg-logo="http://nashetv.by/images/yootheme/logo_royal.png" group-title="Belarus(Беларусь)",Наше ТВ
+http://95.46.208.8:26259/nashe
+
+#EXTINF:0 tvg-logo="https://www.firstonetv.live/images/logos/by/ONT.png" group-title="Belarus(Беларусь)",ОНТ.BY
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="Estonia (Eesti)",Tallinna TV
 http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
 
@@ -382,6 +394,9 @@ http://sc.id-tv.kz/astana_36_37.m3u8
 
 #EXTINF:-1 tvg-logo="https://balapan.kaztrk.kz/balapan/images/online-logo-balapntv.jpg" group-title="Kazakhstan (Казахстан)",Balapn tv
 https://balapan.rtrk.kz/balapan/balapan/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://stv-online.kz/static/img/logo.png" group-title="Kazakhstan (Казахстан)",СТВ Казахстан
+http://sc.id-tv.kz/STV_36_37.m3u8
 
 #EXTINF:-1 tvg-logo="https://elarna.kz/images/Logo_ElArna.png" group-title="Kazakhstan (Казахстан)",Ел Арна
 http://sc.id-tv.kz/ElArna_36_37.m3u8
