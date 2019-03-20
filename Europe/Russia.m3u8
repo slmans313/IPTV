@@ -138,6 +138,9 @@ http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CGTN_Russian.png/330px-CGTN_Russian.png" group-title="Russia (Россия)",CGTN Россия
 http://live.cgtn.com/1000r/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://sochi24.tv/sites/default/files/logo.png" group-title="Russia (Россия)",Сочи 24
+http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://s1.vcdn.biz/static/f/564914211/image.jpg" group-title="Russia (Россия)",CP Info
 http://109.68.40.67/life/magnolia.m3u8
 
@@ -186,6 +189,9 @@ http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1780629068/kr__400x400.jpg" group-title="Russia (Россия)",Krasnodar TV
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/ldpr_tv.png" group-title="Russia (Россия)",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gVDM9S.jpg" group-title="Russia (Россия)",Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
@@ -195,14 +201,11 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/ntv.png" group-title="Russia (Россия)", НТВ
 http://188.243.62.238:81/udp/239.239.1.3:5239
 
-#EXTINF:-1 tvg-logo="http://tv-nano.ru/wp-content/uploads/2018/08/nano_logo_discriptor_250_84.png" group-title="Russia (Россия)",Nano TV
-http://serv30.vintera.tv:8081/nano/nanohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/mosobr.png" group-title="Russia (Россия)",Московский Образовательный
+http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg" group-title="Russia (Россия)",Nastoyashcheye Vremya
-https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia (Россия)",Novyj Mir
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://minidey.ru/wp-content/themes/blog/img/logo.png" group-title="Russia (Россия)",Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://timemediagroup.ru/tem/images/1о_corrected.png" group-title="Russia (Россия)",Meteo TV
 http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
@@ -218,6 +221,15 @@ http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m
 
 #EXTINF:-1 tvg-logo="http://mtvmix.ru/meropriyatiya/images/500.png" group-title="Russia (Россия)",MTV Mix
 http://81.30.182.82:18092/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-nano.ru/wp-content/uploads/2018/08/nano_logo_discriptor_250_84.png" group-title="Russia (Россия)",Nano TV
+http://serv30.vintera.tv:8081/nano/nanohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg" group-title="Russia (Россия)",Nastoyashcheye Vremya
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yStKJJr.png" group-title="Russia (Россия)",Novyj Mir
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://russian.oplot.tv/img/new_logo.png" group-title="Russia (Россия)",Оплот ТВ
 http://dprtv.phoenix-dnr.ru/oplot-tv
@@ -603,6 +615,9 @@ http://stream.ntktv.ua/s/ntk/ntk.m3u8
 
 #EXTINF:-1 tvg-logo="http://tivix.co/uploads/posts/2014-03/1395686210_chp-info.png" group-title="Ukraine(Україна)",ЧП.INFO
 http://109.68.40.67/life/magnolia_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://m-studio.net.ua/wp-content/uploads/2017/02/logo_MS__mini___.png" group-title="Ukraine(Україна)",М-Студио
+http://213.174.23.59:8080/MS
 
 #EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Ukraine(Україна)", K1
 http://109.68.40.67:80/life/k1_3/index.m3u8
