@@ -95,7 +95,6 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/tv3sport1.png" group-title="Russia (Россия)", Первый канал
 http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://crushgame.ru/channels_logos/Films/amedia_1.png" group-title="Russia (Россия)", Amedia 1
 http://stream.euroasia.lfstrm.tv/amedia_1/1/index.m3u8
 
@@ -104,9 +103,6 @@ http://sc.id-tv.kz/A2_36_37.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)", Астрахань 24
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)", Астрахань 24
-http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)",Астрахань Live
 http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
@@ -159,6 +155,9 @@ http://rtmp.one.by:1200
 #EXTINF:-1 tvg-logo="http://tv-gubernia.ru/templates/tnt/images/logo.png" group-title="Russia (Россия)",Губерния
 http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pp.userapi.com/c5200/g33405934/a_1fa4a8a6.jpg" group-title="Russia (Россия)",Наш Дом
+http://85.234.33.60/stream/c11.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="Russia (Россия)",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
@@ -167,6 +166,9 @@ http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://nntv.tv/_data/objects/0005/4417/icon.png" group-title="Russia (Россия)",ННТВ
 http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979559452259926022/b4MYRRMf_400x400.jpg" group-title="Russia (Россия)",Ноябрьск 24
+http://n24.ru:1935/live/n24.ru.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/01/impact.jpg" group-title="Russia (Россия)",Impact
 http://206.190.141.27:1935/live/impact/playlist.m3u8
@@ -325,7 +327,7 @@ http://flussonic.gorodtv.net/ATV-Channel/index.m3u8
 http://193.238.110.158:8080/hq.m3u8
 
 #EXTINF:-1 tvg-logo="https://nts-tv.com/bitrix/templates/v1.0/img/logo_2.png" group-title="Crimea (Крым)",НТС
-http://hls.nts.cdnvideo.ru:80/nts/nts.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.nts
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ikstv.ru/wp-content/uploads/2018/01/logo-iks-dark-2.jpg" group-title="Crimea (Крым)",ИКС ТВ
 http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
