@@ -179,7 +179,9 @@ http://p4.giffy.be:8080/sandy/1234/76952
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Spanish(español)", Paramount Channel
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTEspanol.ru.png" group-title="Spanish(español)", RT Español
-http://rt-esp.secure.footprint.net/1102.m3u8?streamType=live 
+http://rt-esp.secure.footprint.net/1102.m3u8?streamType=live
+#EXTINF:-1 tvg-logo="https://www.albertoballesteros.com/wp-content/uploads/2016/04/onda-W900-W900.jpg" group-title="Spanish(español)", Radio Onda Madrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/225px-Logo_RTVE.svg.png" group-title="Spanish(español)", Rtve
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/SundanceTV.es.png" group-title="Spanish(español)", Sundance TV
@@ -195,7 +197,9 @@ http://streams.iptv.luxe:80/p/558221/c/224/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fk
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Teledeporte.es.png" group-title="Spanish(español)", Teledeporte
 http://newtv.dyndns.org:25461/Marco/Marco/3163
 #EXTINF:-1 tvg-logo="http://static2.telemadrid.es/static/BB3HTML/images/logo.png" group-title="Spanish(español)", TeleMadrid
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/13191.ts
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889448960150183936/MjLSsZV8_400x400.jpg" group-title="Spanish(español)", TeleSafor
+http://video.telesafor.com/hls/video_high.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/225px-Ten.svg.png" group-title="Spanish(español)",TEN
 http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/13217.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/TNT.es.png" group-title="Spanish(español)", TNT
