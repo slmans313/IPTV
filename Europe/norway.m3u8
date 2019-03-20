@@ -1,5 +1,17 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norway(Norge)", Nrk
+http://83.56.24.104:9981/stream/channelid/1194774004?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
+
+
+
+#EXTINF:-1 tvg-id="7ca2394f6a1d96716fe00372bf3a21f5",TV-3
+http://83.56.24.104:9981/stream/channelid/1329177212?ticket=E31854C8621FC2E0886ADA982B74AAAB68AF488D&profile=pass
+
+#EXTINF:-1 tvg-id="a2249f6b2ea28c452688caa471474290",TV-4
+http://83.56.24.104:9981/stream/channelid/1805591714?ticket=D52C8E6BFABAF7CCB40CEFA5954A7708EC97D189&profile=pass
+
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/MTV.uk.png" group-title="Norway(Norge)", MTV Norg
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
