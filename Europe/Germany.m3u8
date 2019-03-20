@@ -39,6 +39,12 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle 
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 
+#EXTINF:-1  tvg-logo="http://drf-tv.de/media/tv_group/images_21/img_1/works/Druck_DRF1_246pxfw.png" group-title="Germany(Deutschland)", DRF 1
+http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://drf-tv.de/media/tv_group/images_21/img_1/works/Druck_DRF1_246pxfw.png" group-title="Germany(Deutschland)", DRF 1
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:5713-mbr/chunklist_b2096000.m3u8
+
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Germany(Deutschland)", Euronews Deutsche
 http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
 
@@ -161,3 +167,4 @@ http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="Austria(Österreich)",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+
