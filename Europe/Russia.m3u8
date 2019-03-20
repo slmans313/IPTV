@@ -147,6 +147,9 @@ http://109.68.40.67/life/magnolia.m3u8
 #EXTINF:-1 tvg-logo="https://www.ucom.am/imgs/news/1/14746288043768.png" group-title="Russia (Россия)", Русский Экстрим
 http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/144/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Russia (Россия)", Euronews Русский
+http://ott-cdn.ucom.am/s89/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Russia (Россия)",First Music 1
 http://rtmp.one.by:2300/
 
@@ -164,6 +167,9 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://hdmedia.ru/common/resources/images/logo_hdmedia3d.png" group-title="Russia (Россия)",HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://nntv.tv/_data/objects/0005/4417/icon.png" group-title="Russia (Россия)",ННТВ
+http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/01/impact.jpg" group-title="Russia (Россия)",Impact
 http://206.190.141.27:1935/live/impact/playlist.m3u8
@@ -213,8 +219,8 @@ http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="Russia (Россия)",Mir Belogorya
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://s7.vcdn.biz/static/f/670788071/image.jpg" group-title="Russia (Россия)",MostVideo TV
-http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 tvg-logo="http://www.myudm.ru/sites/all/themes/myudmnew/images/logo.png" group-title="Russia (Россия)",Моя Удмуртия
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://muz.tv-soyuz.ru/images/logo.png" group-title="Russia (Россия)",Muz Sojuz
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
@@ -636,6 +642,12 @@ http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
 
 #EXTINF:-1 tvg-logo="https://lale.ws/wp-content/themes/lale/images/logo.png" group-title="Ukraine(Україна)", Lale
 http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mostvideo.tv/bitrix/templates/most_video_2016/images/logo.png" group-title="Ukraine(Україна)",MostVideo TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://mostvideo.tv/bitrix/templates/most_video_2016/images/logo.png" group-title="Ukraine(Україна)",MostVideo TV
+http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510605239_renome-tv.png" group-title="Ukraine(Україна)", Renome TV
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
