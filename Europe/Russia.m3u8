@@ -222,7 +222,7 @@ http://188.243.62.238:81/udp/239.239.1.3:5239
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/mosobr.png" group-title="Russia (Россия)",Московский Образовательный
-http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://minidey.ru/wp-content/themes/blog/img/logo.png" group-title="Russia (Россия)",Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
@@ -262,6 +262,12 @@ http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://fenixplus.tv/bitrix/templates/main/images/logo_for_web.png" group-title="Russia (Россия)",Феникс+ Кино
 http://109.248.236.41:4433/udp/238.1.1.134:1234
+
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/ratnik.png" group-title="Russia (Россия)",Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/rus-sever.png" group-title="Russia (Россия)",Русский Север
+http://rusevertv.ru/streams.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Russia (Россия)",RBC
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
@@ -304,7 +310,6 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bG6kBxM.png" group-title="Russia (Россия)",Кварц ТВ
 http://109.94.1.3:8080/Infokanal/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://media.kpfu.ru/themes/inno/images/logo.png" group-title="Russia (Россия)",КФУ ТВ
 http://cdn.universmotri.ru/live/univer_kfu2/playlist.m3u8
@@ -603,7 +608,7 @@ https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" group-title="Türkmenistan", Asgabat TV
 https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg group-title="Türkmenistan", Miras
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" group-title="Türkmenistan", Miras
 https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg" group-title="Türkmenistan",Türkmen Owazy
@@ -674,6 +679,9 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine(Україна)", НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 
+#EXTINF:-1 tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png" group-title="Ukraine(Україна)",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tivix.co/uploads/posts/2014-03/1395686210_chp-info.png" group-title="Ukraine(Україна)",ЧП.INFO
 http://109.68.40.67/life/magnolia_3/index.m3u8
 
@@ -720,6 +728,9 @@ http://tv7plus.com/hls/tv7_site.m3u8
 https://webcams.ks.ua/tvhls/stream2/index.m3u8
 #EXTINF:-1 tvg-logo="http://yatb.tv/wp-content/uploads/2018/03/73d917e7-logo.jpg" group-title="Ukraine(Україна)",ЯТБ
 http://46.175.163.130/vod/8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://volnatv.com/templates/volnatv/images/logo.png" group-title="Ukraine(Україна)",Южная волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kh.suspilne.media/inc/img/logo-21.png" group-title="Ukraine(Україна)",Харків
 http://stream.otb.com.ua/hls/otb1/index.m3u8
