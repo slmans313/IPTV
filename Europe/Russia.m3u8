@@ -78,14 +78,14 @@ http://188.242.201.77:4022/udp/239.239.2.0:5239
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia (Россия)",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.bntva.ru/images/bntv/24mir.png" group-title="Russia (Россия)",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://mirhd.ru/img/logo.png" group-title="Russia (Россия)",мир Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/mir.png" group-title="Russia (Россия)",Мир +4
+#EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia (Россия)",Мир International
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.bntva.ru/images/bntv/24mir.png" group-title="Russia (Россия)",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/1d/Pervyj_gorodskoj_kanal_logo.png" group-title="Russia (Россия)",Первый Городской Казань
 http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/kzn.sdp/playlist.m3u8
@@ -170,6 +170,11 @@ http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CGTN_Russian.png/330px-CGTN_Russian.png" group-title="Russia (Россия)",CGTN Россия
 http://live.cgtn.com/1000r/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctcmedia.ru/bitrix/templates/ctcmedia/images/CTC_logo_colorfill_1.png" group-title="Russia (Россия)",СТС
+http://176.101.224.21:8080/udp/239.195.32.8:1234
+#EXTINF:-1 tvg-logo="http://ctcmedia.ru/bitrix/templates/ctcmedia/images/CTC_logo_colorfill_1.png" group-title="Russia (Россия)",CTC
+http://109.70.184.20:8080/udp/239.195.32.8:1234
 
 #EXTINF:-1 tvg-logo="https://sochi24.tv/sites/default/files/logo.png" group-title="Russia (Россия)",Сочи 24
 http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
@@ -436,14 +441,17 @@ http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tk-union.tv/assets/components/union/u_logo.png" group-title="Russia (Россия)",ЮНИОН
 http://dprtv.phoenix-dnr.ru/union
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fnpm8RO.png" group-title="Russia (Россия)",Univer
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bG6kBxM.png" group-title="Russia (Россия)",Кварц ТВ
 http://109.94.1.3:8080/Infokanal/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.kpfu.ru/themes/inno/images/logo.png" group-title="Russia (Россия)",КФУ ТВ
 http://cdn.universmotri.ru/live/univer_kfu2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tsargrad.tv/img/logo_3x.png" group-title="Russia (Россия)",Царьград
+http://tsargrad-livehls.cdnvideo.ru/smils/tsargrad-livehls.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fnpm8RO.png" group-title="Russia (Россия)",Univer
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatExplore.ru.png" group-title="Russia (Россия)", Viasat Explore
 http://c0.cdn.trinity-tv.net/stream/a65xfh9dr4t6piam7vhrfnh6q9zi2whwqmvk262y4k4nc3csi9epzzxgtykxggz6kqwykcgyrhb9nur9uuepy5y7z54acpwue7si8jzgu3
@@ -666,6 +674,11 @@ https://balapan.rtrk.kz/balapan/balapan/index.m3u8
 #EXTINF:-1 tvg-logo="http://stv-online.kz/static/img/logo.png" group-title="Kazakhstan (Казахстан)",СТВ Казахстан
 http://sc.id-tv.kz/STV_36_37.m3u8
 
+#EXTINF:-1 tvg-logo="http://ctcmedia.ru/bitrix/templates/ctcmedia/images/CTC_inv.png" group-title="Kazakhstan (Казахстан)",СТС International
+http://ott-cdn.ucom.am/s52/index.m3u8
+#EXTINF:-1 tvg-logo="http://ctcmedia.ru/bitrix/templates/ctcmedia/images/CTC_inv.png" group-title="Kazakhstan (Казахстан)",СТС International
+http://sc.id-tv.kz/STS_36_37.m3u8
+
 #EXTINF:-1 tvg-logo="https://elarna.kz/images/Logo_ElArna.png" group-title="Kazakhstan (Казахстан)",Ел Арна
 http://sc.id-tv.kz/ElArna_36_37.m3u8
 
@@ -701,6 +714,9 @@ http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034442917753118720/stLuQkd6_400x400.jpg" group-title="Kazakhstan (Казахстан)", Tamasha
 https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZCZriy.jpg" group-title="Kazakhstan (Казахстан)", Твое ТВ
+http://sc.id-tv.kz/TvoeTV_36_37.m3u8
 
 #EXTINF:-1 tvg-logo="http://halyq-arna.kz/wp-content/uploads/2017/11/hlogo.png" group-title="Kazakhstan (Казахстан)",Халык Арна
 http://sc.id-tv.kz/HalykArna_36_37.m3u8
@@ -839,7 +855,7 @@ http://streamer.antenna.com.ua/hls/antenna.m3u8
 http://stream.atr.ua/atr/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://sk1.tv/images/logo.png" group-title="Ukraine(Україна)",СК1
-http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cv.suspilne.media/inc/img/logo-26.png" group-title="Ukraine(Україна)",Буковина
 http://194.8.145.85:8066/livemobile/index.m3u8
