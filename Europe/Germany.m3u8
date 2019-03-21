@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://www.br.de/fernsehen/ard-alpha/sendungen/ard-alpha-logo-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.png" group-title="Germany(Deutschland)", ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3776_av-p.m3u8
+
 #EXTINF:-1  tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png" group-title="Germany(Deutschland)",Allgau TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 
@@ -20,6 +23,9 @@ http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/
 
 #EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
+
+#EXTINF:-1  tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/03/Deutsches-Musik-Fernsehen.jpg" group-title="Germany(Deutschland)",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle +
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
@@ -42,6 +48,9 @@ http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
 #EXTINF:-1  tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="Germany(Deutschland)",Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
+#EXTINF:-1  tvg-logo="http://eotv.de/wp-content/uploads/2015/12/Cranberry-Logo.png" group-title="Germany(Deutschland)",eoTV HD
+http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/B-ddZjpJ.png" group-title="Germany(Deutschland)",Family TV
 http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
 
@@ -49,7 +58,7 @@ http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg" group-title="Germany(Deutschland)",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png" group-title="Germany(Deutschland)",h1
 http://livestream.htp.tv/livestream.m3u8
@@ -78,7 +87,7 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="Germany(Deutschland)",NDR Mecklenburg-Vorpommern
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="Germany(Deutschland)",NDR Niedersachsen
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/NDR_1_Niedersachsen_Logo.svg/2000px-NDR_1_Niedersachsen_Logo.svg.png" group-title="Germany(Deutschland)",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="Germany(Deutschland)",NDR Schleswig-Holstein
