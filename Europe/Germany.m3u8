@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png" group-title="Germany(Deutschland)",ALEX Berlin
-http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png" group-title="Germany(Deutschland)",Allgau TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 
@@ -11,9 +8,6 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="Germany(Deutschland)",Baden TV
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9R4xyq.jpg" group-title="Germany(Deutschland)",Berlin Metal TV
-http://autopilot.myowntv.org/content/33816/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="Germany(Deutschland)",Blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
@@ -24,11 +18,8 @@ https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Germany(Deutschland)",Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Germany(Deutschland)",Das Erste
-https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Germany(Deutschland)",Das Erste Germany
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle +
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
@@ -152,6 +143,9 @@ http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="Germany(Deutschland)",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.weltderwunder.de/assets/logo-d3352413add281f623f72749b900081a38dea748e4c2bfd46816501282378788.png" group-title="Germany(Deutschland)", Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="Germany(Deutschland)",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
