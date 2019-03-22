@@ -108,6 +108,16 @@ http://cdn.videosofsport1.live/hls/d8f5_UfwYuOqQmNsAGU9Ow/1552805335/2plus2.m3u8
 #EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Russia (Россия)",360°
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Russia (Россия)",360°
+http://360tv-cdn.facecast.io/360/channel2/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Russia (Россия)",360°
+http://video1.in-news.ru/360/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/19/86/pp2.png" group-title="Russia (Россия)",360° Новости
+http://360tv-cdn.facecast.io/360/channel1/1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://img12.lostpic.net/2018/05/11/6c7bcb9a0b3fd35690920e17f3fd02b8.png" group-title="Russia (Россия)",43 канал
 http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 
@@ -235,6 +245,9 @@ http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pp.userapi.com/c5200/g33405934/a_1fa4a8a6.jpg" group-title="Russia (Россия)",Наш Дом
 http://85.234.33.60/stream/c11.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Russia (Россия)",Heaven TV7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="Russia (Россия)",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -667,6 +680,9 @@ http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imedi.ge/m/i/logo.png" group-title="Georgia (საქართველო)", Imedi
 http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imedi.ge/m/i/logo.png" group-title="Georgia (საქართველო)", Imedi
+http://hls.t.stream-dns.net/hls/imedi/dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_marao.png" group-title="Georgia (საქართველო)", Marao
 https://streaming.televizia.org/live/hls/tzYUuGiFMBtqjQa90v8O2g/1552921520/marao.m3u8
