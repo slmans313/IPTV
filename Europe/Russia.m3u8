@@ -851,8 +851,11 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
 #EXTINF:-1 tvg-logo="https://4channel.com.ua/wp-content/uploads/2018/04/4logo-main.png" group-title="Ukraine(Україна)",4 канал HD
 http://cdn.vsnw.net:8081/interradio/1080i.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" group-title="Ukraine(Україна)",5 Канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+
 #EXTINF:-1 tvg-logo="http://7kanal.com.ua/wp-content/themes/7k/img/logo-big.png" group-title="Ukraine(Україна)",7 Telekanal
-http://vpn.tv4.te.ua:8081/live/myStream/playlist.m3u8
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510692417_a1-odessa.png" group-title="Ukraine(Україна)",А1
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
@@ -866,6 +869,9 @@ http://streamer.antenna.com.ua/hls/antenna.m3u8
 #EXTINF:-1 tvg-logo="https://mip.gov.ua/files/news/ATR.jpg" group-title="Ukraine(Україна)", ATR
 http://stream.atr.ua/atr/live/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20190129103233812.jpg" group-title="Ukraine(Україна)", Bambarbia
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://sk1.tv/images/logo.png" group-title="Ukraine(Україна)",СК1
 http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
 
@@ -875,8 +881,8 @@ http://194.8.145.85:8066/livemobile/index.m3u8
 #EXTINF:-1 tvg-logo="https://dumskaya.net/i3/logotv.png" group-title="Ukraine(Україна)",EДумская TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XmgXv7Y.jpg" group-title="Ukraine(Україна)",En TV (Энергодар)
-http://tv.om.ua:8090/test.flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/999px-GTV_%282017%29.svg.png" group-title="Ukraine(Україна)",G TV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nta.ua/wp-content/uploads/2017/04/favicon-1.png"group-title="Ukraine(Україна)",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
