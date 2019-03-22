@@ -278,7 +278,10 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/ntv.png" group-title="Russia (Россия)", НТВ
-http://188.243.62.238:81/udp/239.239.1.3:5239
+http://91.231.219.145:80/tv_ntv_HD/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ntvmir.ntv.ru/img/rus/logo-mir.gif" group-title="Russia (Россия)",НТВ мир
+http://ott-cdn.ucom.am/s17/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://saransk-tv.ru/assets/images/slider/170321-pic-01.jpg" group-title="Russia (Россия)", НТМ Мордовия
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
@@ -310,8 +313,11 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/K1_62014.jpg" group-title="Russia (Россия)",K1
 http://109.68.40.67/life/k1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.kaleidoskoptv.tv/img/logo1.png" group-title="Russia (Россия)",Kalejdoskop TV 
+#EXTINF:-1 tvg-logo="http://www.kaleidoskoptv.tv/img/logo1.png" group-title="Russia (Россия)",Kalejdoskop
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Karusel_tv_logo.svg/220px-Karusel_tv_logo.svg.png" group-title="Russia (Россия)",Карусель
+http://176.101.224.21:8080/udp/239.195.32.20:1234
 
 #EXTINF:-1 tvg-logo="http://karapuztv.ru/templates/games-world/images/gameworld.png" group-title="Russia (Россия)",Karapuz TV
 http://online.karapuztv.ru/content/33418/index.m3u8
@@ -477,6 +483,11 @@ http://stream.euroasia.lfstrm.tv/comedytv/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TNT4.jpg" group-title="Russia (Россия)",ТНТ4
 http://ott-cdn.ucom.am/s100/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/TiJi_logo_2016.png" group-title="Russia (Россия)",Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/TiJi_logo_2016.png" group-title="Russia (Россия)",Tiji
+http://stream.euroasia.lfstrm.tv/tiji/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg" group-title="Russia (Россия)",Тольятти 24
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
 
@@ -553,8 +564,19 @@ http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6230-3662-4537-a334-363564306535/Untitled-4.png" group-title="Russia (Россия)",Хузур ТВ
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/200px-Zvezda_logo.svg.png" group-title="Russia (Россия)",Звезда
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.panoramaurfo.ru/images/LOGO24_6_x266.png" group-title="Russia (Россия)",УрФО 24
 http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.litclub.tv/images/pero.png group-title="Russia (Россия)",ЛитКлуб ТВ Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b6.m3u8
+#EXTINF:-1 tvg-logo="http://www.litclub.tv/images/pero.png" group-title="Russia (Россия)",ЛитКлуб ТВ Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f43.m3u8
+#EXTINF:-1 tvg-logo="http://www.litclub.tv/images/pero.png" group-title="Russia (Россия)",ЛитКлуб ТВ Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78898.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" group-title="Crimea (Крым)",1 Крым
 http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
