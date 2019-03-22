@@ -162,6 +162,9 @@ http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s.glaz.tv/images/logos/tv/big/boec-tv.jpg" group-title="Russia (Россия)",Боец ТВ
 http://cdn.videosofsport1.live/hls/6G5jShmEQtWg6qzuslEBew/1552806746/fightclub.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/01/24/76/channel!qsx.png" group-title="Russia (Россия)",BollywooD
+http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.volplus.ru/assets/img/logo_vlz_plus.png" group-title="Russia (Россия)",Волжский Плюс
 http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
 
@@ -412,6 +415,9 @@ http://stream.euroasia.lfstrm.tv/shanson_tv/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rzdtv.ru/wp-content/themes/default/img/logo.png" group-title="Russia (Россия)",ржд тв 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_RTVI_2017_1.png/1200px-Logo_RTVI_2017_1.png group-title="Russia (Россия)",RTVi
+http://stream.euroasia.lfstrm.tv/rtvi/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pp.userapi.com/c605926/v605926465/5557/g0bL-ADWjOI.jpg" group-title="Russia (Россия)",Skazki Zayki
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
@@ -656,8 +662,8 @@ http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://ajaratv.ge/images/logo.png" group-title="Georgia (საქართველო)", Adjara 
 https://streaming.televizia.org/live/hls/2Gb1iZO0oMkT-fiEpN2GFA/1552921654/adjara.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.gdstv.ge/sites/default/files/logo.png" group-title="Georgia (საქართველო)", GDS
-https://streaming.televizia.org/live/hls/9fa_X5utsbbHtQuy0cFHYQ/1552921153/gds.m3u8
+#EXTINF:-1 tvg-logo="https://www.sat-address.com/f/pics/Stations/Enki-Benki-TV_o.jpg group-title="Georgia (საქართველო)", Enki-Benki
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imedi.ge/m/i/logo.png" group-title="Georgia (საქართველო)", Imedi
 http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
@@ -907,6 +913,9 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine(Україна)", НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-logo="https://inter.ua/images/logo.png group-title="Ukraine(Україна)",Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tivix.co/uploads/posts/2014-03/1395686210_chp-info.png" group-title="Ukraine(Україна)",ЧП.INFO
 http://109.68.40.67/life/magnolia_3/index.m3u8
