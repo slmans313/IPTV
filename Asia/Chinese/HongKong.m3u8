@@ -33,6 +33,12 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="Hong Kong/Macau(香港/澳门)", 無綫明珠台
 http://14.199.11.35:9981/stream/channel/5a1ea1b09e3abf22d624b0dbc26e6636?ticket=810fc545a5c6879a3943f887ff02ca3ac1b95848
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Now_TV_logo.svg/1200px-Now_TV_logo.svg.png" group-title="Hong Kong/Macau(香港/澳门)", Now TV
+http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
+
+#EXTINF:0 tvg-logo="http://www.badouxia.com/Uploads/vod/2019-01-18/5c41a323d1934.jpg" group-title="Hong Kong/Macau(香港/澳门)",Now 华剧
+http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/300px-ViuTVsix-logo.svg.png" group-title="Hong Kong/Macau(香港/澳门)",ViuTVsix (96台)
 http://14.199.11.35:9981/stream/channel/142e00be3dabd62b165469a8085f8895?ticket=acdfb001b5d7803f2c9fcfd4574b27b4b1cb707d
 
@@ -42,14 +48,17 @@ http://14.199.11.35:9981/stream/channel/fb3dbd1b1d66c0229c6db144c67ef44f?ticket=
 #EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan (台湾)", 大爱电视
 http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebcyangpian.jpg" group-title="Taiwan (台湾)",東森洋片台
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebcyangpian.jpg" group-title="Taiwan (台湾)",東森洋片
 http://122.146.68.116:4010/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebc40.jpg" group-title="Taiwan (台湾)", 東森戲劇台
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebc40.jpg" group-title="Taiwan (台湾)", 東森戲劇
 http://122.146.68.116:4011/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://www.ebc.net.tw/Images/169-emovie.jpg" group-title="Taiwan (台湾)",  東森电影台
+#EXTINF:-1 tvg-logo="https://www.ebc.net.tw/Images/169-emovie.jpg" group-title="Taiwan (台湾)",  東森电影
 http://122.146.68.116:4035/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://www.itsfun.com.tw/cacheimg/39/27/e5a1faf1ab49b04225ccdef91739.jpg" group-title="Taiwan (台湾)", 東森幼幼
+http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Congress_Channel_1_%28Taiwan%29.jpg/440px-Congress_Channel_1_%28Taiwan%29.jpg" group-title="Taiwan (台湾)", 国会频道1
 http://60.199.188.61/HLS/Congress1/index.m3u8
@@ -84,42 +93,4 @@ http://122.146.68.116:4016/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/fx_channel_logo.gif" group-title="Taiwan (台湾)", FX电视台
 http://122.146.68.116:4015/VideoInput/play.ts
 
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Taiwan (台湾)",Eleven Sports 1 (台湾)
-http://111.90.151.57:8080/liviu/12345/197899
-
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="Taiwan (台湾)",Eleven Sports 2 (台湾)
-http://111.90.151.57:8080/liviu/12345/197900
-
-#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/ltv-drama-live.jpg" group-title="Taiwan (台湾)",龍華戲劇
-http://61.216.177.73/sta/ch10119006.m3u8 
-
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2151Q1450-L.jpg" group-title="Taiwan (台湾)",龍華偶像
-http://61.216.177.73/sta/ch10119007.m3u8
-
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2151539250-L.jpg" group-title="Taiwan (台湾)",龍華影劇
-http://61.216.177.73/sta/ch10119008.m3u8 
-
-#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/ltv-animation-live.jpg" group-title="Taiwan (台湾)",龍華動畫
-http://61.216.177.73/sta/ch10119009.m3u8 
-
-#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/ltvjingdian.jpg" group-title="Taiwan (台湾)",龍華經典
-http://61.216.177.73/sta/ch10119014.m3u8 
-
-#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/ltvdianying.jpg" group-title="Taiwan (台湾)",龍華电影
-http://61.216.177.73/sta/ch10119012.m3u8 
-
-#EXTINF:0 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/833-AsiaTravel.png" group-title="Taiwan (台湾)",亚洲旅游台
-http://61.216.177.73/sta/ch10119010.m3u8 
-
-#EXTINF:0 tvg-logo="http://img.globalnewstv.com.tw/uploads/2017/12/20171226152511_78.png" group-title="Taiwan (台湾)",寰宇新闻
-http://61.216.177.73/sta/ch10119011.m3u8 
-
-#EXTINF:0 tvg-logo="http://www.lizhizu.com/uploads/images/20181024/2f48f571a5431a06c57bdaac9af44ae5.jpg" group-title="Taiwan (台湾)",寰宇新闻 2
-http://61.216.177.73/sta/ch10119013.m3u8
-
-#EXTINF:0 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/560c6f9a-b19d-43c1-99d9-bec73f53348c.jpg" group-title="Taiwan (台湾)",梅迪奇藝術
-http://61.216.177.73/sta/ch10119022.m3u8 
-
-#EXTINF:0 tvg-logo="http://www.sjtv.com.tw/images/logo/logo.png" group-title="Taiwan (台湾)", 信吉衛星 
-http://61.216.177.73/sta/ch1865002.m3u8
 
