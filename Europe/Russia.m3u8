@@ -389,10 +389,10 @@ http://rusevertv.ru/streams.m3u8
 http://live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Russia (Россия)",RBC
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/RU.TV.png" group-title="Russia (Россия)",RUTV
-http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/RU.TV.png" group-title="Russia (Россия)",RUTV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
@@ -415,6 +415,12 @@ http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.zelenodolsk.ru/share/images/base/7/170_157352.jpg" group-title="Russia (Россия)",Татарстан 24
 http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Russia (Россия)", ТВ3
+http://188.243.62.238:81/udp/239.239.2.4:5239
+#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Russia (Россия)", ТВ3
+http://109.70.184.20:8080/udp/239.195.32.15:1234
+#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Russia (Россия)", ТВ3
+http://176.101.224.21:8080/udp/239.195.32.15:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВ Центр
 http://188.243.62.238:81/udp/239.239.1.69:5239
