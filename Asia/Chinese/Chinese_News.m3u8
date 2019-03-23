@@ -9,8 +9,11 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/18/01/05/788261aaa7c8574e6e43515b54c7ffc2.jpg" group-title="中文新闻时事",凤凰新闻
 http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ebc.net.tw/Images/169-america.jpg" group-title="中文新闻时事",  東森美洲
+#EXTINF:-1 tvg-logo="https://www.ebc.net.tw/Images/169-america.jpg" group-title="中文新闻时事", 東森美洲
 http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv14_mobile.png group-title="中文新闻时事", 東森新闻
+http://125.227.210.37:8892/VideoInput/play.ts 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="中文新闻时事",华视新闻
 http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
@@ -28,7 +31,7 @@ http://61.216.177.73/sta/ch10119038.m3u8
 http://61.216.177.73/sta/ch10119039.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="中文新闻时事",中天新聞
-http://122.146.68.116:4006/VideoInput/play.ts
+http://125.227.210.37:8911/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="中文新闻时事",TVBS新聞
 http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
