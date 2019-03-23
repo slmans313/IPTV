@@ -200,8 +200,14 @@ http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.volplus.ru/assets/img/logo_vlz_plus.png" group-title="Russia (Россия)",Волжский Плюс
 http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.logosurfer.com/wp-content/uploads/2018/03/bridge-tv-logo_0.png"group-title="Russia (Россия)",Bridge TV 
+#EXTINF:-1 tvg-logo="https://www.logosurfer.com/wp-content/uploads/2018/03/bridge-tv-logo_0.png" group-title="Russia (Россия)",Bridge TV 
 http://ott-cdn.ucom.am/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/18/12/ltm.png" group-title="Russia (Россия)",Bridge TV Dance
+http://188.243.17.94:4022/udp/239.239.3.69:5239
+
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/19/04/v17.png" group-title="Russia (Россия)",Bridge TV Русский хит
+http://ott-cdn.ucom.am/s78/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://brodilo.tv/brodilotvbanner_980_v2.png"group-title="Russia (Россия)",Brodilo TV
 http://brodilo.tv/channel.php
@@ -222,6 +228,9 @@ http://live.cgtn.com/1000r/prog_index.m3u8
 http://176.101.224.21:8080/udp/239.195.32.8:1234
 #EXTINF:-1 tvg-logo="http://ctcmedia.ru/bitrix/templates/ctcmedia/images/CTC_logo_colorfill_1.png" group-title="Russia (Россия)",CTC
 http://109.70.184.20:8080/udp/239.195.32.8:1234
+
+#EXTINF:-1 tvg-logo="https://tv-soyuz.ru/static/img/logo.png" group-title="Russia (Россия)",Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sochi24.tv/sites/default/files/logo.png" group-title="Russia (Россия)",Сочи 24
 http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
@@ -467,6 +476,12 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_RTVI_2017_1.png/1200px-Logo_RTVI_2017_1.png group-title="Russia (Россия)",RTVi
 http://stream.euroasia.lfstrm.tv/rtvi/1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sonychannel.ru/sites/ru.set/files/sony_channel_russia.png" group-title="Russia (Россия)",Sony Channel Russia
+http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonyturbo.ru/sites/ru.turbo/files/sonyturbo.png" group-title="Russia (Россия)",Sony Turbo
+http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pp.userapi.com/c605926/v605926465/5557/g0bL-ADWjOI.jpg" group-title="Russia (Россия)",Skazki Zayki
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
@@ -487,6 +502,10 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВ Центр
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.telecafe.ru/images/logo-site.png" group-title="Russia (Россия)",Телекафе
+http://ott-cdn.ucom.am/s56/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.telecafe.ru/images/logo-site.png" group-title="Russia (Россия)",Телекафе
+http://stream.euroasia.lfstrm.tv/telekafe/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png group-title="Russia (Россия)",ТНТ
 http://109.70.184.20:8080/udp/239.195.32.11:1234
@@ -662,6 +681,9 @@ http://ott-cdn.ucom.am/s94/index.m3u8
 
 #EXTINF:0 tvg-logo="http://hybridtv.am/wp-content/uploads/2016/05/Filmzone-300x107.jpg" group-title="Armenia(Հայաստան)",ATV ՖԻԼՄԶՈՆ
 http://ott-cdn.ucom.am/s48/index.m3u8
+
+#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001113216953.png" group-title="Armenia(Հայաստան)",ATV ԹԱՎԱ
+http://ott-cdn.ucom.am/s53/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
 http://213.162.202.9:8000/play/a01k/index.m3u8
@@ -980,6 +1002,9 @@ http://stream.atr.ua/atr/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20190129103233812.jpg" group-title="Ukraine(Україна)", Bambarbia
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://brainbasket.org/wp-content/uploads/logo_dark.jpg" group-title="Ukraine(Україна)", Brain TV HD
+http://jabber.divan.tv:8002/tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://sk1.tv/images/logo.png" group-title="Ukraine(Україна)",СК1
 http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
