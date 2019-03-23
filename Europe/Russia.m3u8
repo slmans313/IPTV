@@ -259,13 +259,19 @@ http://109.68.40.67/life/magnolia.m3u8
 #EXTINF:-1 tvg-logo="http://lime-tv.ru/uploads/posts/2018-06/thumbs/1529009151_sgdf24.png" group-title="Russia (Россия)",СГДФ 24
 http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.rgvktv.ru/templates/gk_gamenews/images/logo.png" group-title="Russia (Россия)",Дагестан
+http://broadcast.rgvk.tv/hls/576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.extremtv.ru/files/re-hd.png" group-title="Russia (Россия)", Русский Экстрим
 http://ott-cdn.ucom.am/s47/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Russia (Россия)", Euronews Русский
 http://ott-cdn.ucom.am/s89/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv-express.ru/templates/default/images/logonew.png" group-title="Russia (Россия)", ТВ Экспресс
+#EXTINF:-1 tvg-logo="https://europaplustv.com/images/europa_tv.png" group-title="Russia (Россия)",Europa Plus
+http://178.163.84.236:4022/udp/234.0.0.183:2000
+
+#EXTINF:-1 tvg-logo="http://tv-express.ru/templates/default/images/logonew.png" group-title="Russia (Россия)", Экспресс
 http://62.76.100.178:8081/expres_penza/penzatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510953667_eho-tv-24.png" group-title="Russia (Россия)",Эхо 24 
@@ -273,6 +279,12 @@ http://stream.novouralsk-news.ru/echotv24/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://online-red.online/uploads/posts/2017-10/1507364591_echotv.png" group-title="Russia (Россия)",Эхо TV 
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fastandfunbox-logo.png" group-title="Russia (Россия)",Fast & Fun Box Русский 
+http://ott-cdn.ucom.am/s79/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Russia (Россия)",Fine Living Россия
+http://ott-cdn.ucom.am/s51/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Russia (Россия)",First Music 1
 http://rtmp.one.by:2300/
@@ -282,6 +294,9 @@ http://rtmp.one.by:1300/
 
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Russia (Россия)",First Music 3
 http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png" group-title="Russia (Россия)", Food Network Россия
+http://ott-cdn.ucom.am/s18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/FoxLife.ru.png" group-title="Russia (Россия)",Fox Life
 http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
@@ -546,6 +561,11 @@ http://stream.euroasia.lfstrm.tv/tiji/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg" group-title="Russia (Россия)",Тольятти 24
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tochkatv.tv/wp-content/uploads/2017/09/logo.png" group-title="Russia (Россия)",Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tochkatv.tv/wp-content/uploads/2017/09/logo.png" group-title="Russia (Россия)",Точка ТВ
+http://62.76.26.81:8081/tochka/tochkatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvk6.ru/upload/iblock/25a/25aeb5689ee5fa649ab68a406174fec4.jpg" group-title="Russia (Россия)",ТВК 24
 http://tvk6.ru/tv/hls/tvk6-hi.m3u8
@@ -1171,6 +1191,12 @@ https://webcams.ks.ua/tvhls/stream2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://yatb.tv/wp-content/uploads/2018/03/73d917e7-logo.jpg" group-title="Ukraine(Україна)",ЯТБ
 http://46.175.163.130/vod/8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://xittv.net/img/can/78.png" group-title="Ukraine(Україна)",Громадське
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+
+#EXTINF:-1 tvg-logo="http://xittv.net/img/can/78.png" group-title="Ukraine(Україна)",Громадське HD
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://volnatv.com/templates/volnatv/images/logo.png" group-title="Ukraine(Україна)",Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
