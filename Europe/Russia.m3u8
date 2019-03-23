@@ -557,6 +557,9 @@ http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pp.userapi.com/c605926/v605926465/5557/g0bL-ADWjOI.jpg" group-title="Russia (Россия)",Skazki Zayki
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://slavmir.tv/bitrix/templates/slavmir/images/logo.png" group-title="Russia (Россия)",Slavmir.tv
+http://n1.slavmir.tv:1935/live/Cinegy.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.zelenodolsk.ru/share/images/base/7/170_157352.jpg" group-title="Russia (Россия)",Татарстан 24
 http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 
@@ -750,6 +753,9 @@ http://ott-cdn.ucom.am/s4/index.m3u8
 #EXTINF:0 tvg-logo="http://www.armnewstv.am/wp-content/uploads/2015/06/logo.png" group-title="Armenia(Հայաստան)",Arm News TV
 http://ott-cdn.ucom.am/s11/index.m3u8
 
+#EXTINF:0 tvg-logo="http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png" group-title="Armenia(Հայաստան)",ARTN TV
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Armenia TV 2
 http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Аrmenia TV 3
@@ -779,11 +785,17 @@ http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001113216953.png" group-title="Armenia(Հայաստան)",ATV ԹԱՎԱ
 http://ott-cdn.ucom.am/s53/index.m3u8
 
+#EXTINF:0 tvg-logo="https://www.azatutyun.am/Content/responsive/RFE/hy-AM/img/logo.png" group-title="Armenia(Հայաստան)",Ազատություն TV
+http://ott-cdn.ucom.am/s3/index.m3u8
+
 #EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
 http://213.162.202.9:8000/play/a01k/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
 http://ott-cdn.ucom.am/s5/index.m3u8
+
+#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001125854032.png" group-title="Armenia(Հայաստան)",USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 
 #EXTINF:0 tvg-logo="http://yerkirmedia.am/wp-content/uploads/2017/04/logo_for-site.png" group-title="Armenia(Հայաստան)", Yerkir Media
 http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
