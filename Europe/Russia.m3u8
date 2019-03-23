@@ -265,6 +265,22 @@ http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rgvktv.ru/templates/gk_gamenews/images/logo.png" group-title="Russia (Россия)",Дагестан
 http://broadcast.rgvk.tv/hls/576p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png" group-title="Russia (Россия)",Домашний
+http://176.101.224.21:8080/udp/239.195.32.10:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png" group-title="Russia (Россия)",Домашний
+http://109.70.184.20:8080/udp/239.195.32.10:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png" group-title="Russia (Россия)",Домашний
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png" group-title="Russia (Россия)",Домашний
+http://stream.euroasia.lfstrm.tv/domashniy/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.domkino.tv/images/logo240x32.png" group-title="Russia (Россия)",Дом Кино
+http://109.248.236.41:4433/udp/238.1.1.32:1234
+
+http://tv.toptv.tv/wp-content/uploads/2018/04/%D0%94%D0%BE%D0%BC-%D0%9A%D0%B8%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC-HD.png
+#EXTINF:-1 tvg-logo="http://tv.toptv.tv/wp-content/uploads/2018/04/%D0%94%D0%BE%D0%BC-%D0%9A%D0%B8%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC-HD.png" group-title="Russia (Россия)",Дом Кино Премиум HD
+http://5.2.51.87:81/udp/239.254.3.66:1234
+
 #EXTINF:-1 tvg-logo="https://www.extremtv.ru/files/re-hd.png" group-title="Russia (Россия)", Русский Экстрим
 http://ott-cdn.ucom.am/s47/index.m3u8
 
