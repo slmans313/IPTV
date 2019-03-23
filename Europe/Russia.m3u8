@@ -760,6 +760,13 @@ http://83.246.178.37:81/udp/239.54.5.49:1224
 #EXTINF:-1 tvg-logo="https://www.jv.ru/201211/img/logo2016.png" group-title="Russia (Россия)",Живи
 http://109.248.236.41:4433/udp/238.1.1.35:1234
 
+#EXTINF:-1 tvg-logo="http://telezoo.tv/assets/logo-header-fa8e557e12d429725ba69778c1670b4db6311aba0084c93b39140acd973cdf94.png" group-title="Russia (Россия)",Зоо ТВ
+http://ott-cdn.ucom.am/s92/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.interntv.ru/modules/Main/image_1/zoo_park.jpg" group-title="Russia (Россия)",Зоопарк
+http://stream.euroasia.lfstrm.tv/zoopark/1/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" group-title="Crimea (Крым)",1 Крым
 http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
 
@@ -1188,11 +1195,14 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://brainbasket.org/wp-content/uploads/logo_dark.jpg" group-title="Ukraine(Україна)", Brain TV HD
 http://jabber.divan.tv:8002/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://sk1.tv/images/logo.png" group-title="Ukraine(Україна)",СК1
-http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.vtvplus.com.ua/templates/ua/images/logo.png" group-title="Ukraine(Україна)", ВТВ-Плюс
+http://iptv.rubintele.com:8552/play/a007
 
 #EXTINF:-1 tvg-logo="https://cv.suspilne.media/inc/img/logo-26.png" group-title="Ukraine(Україна)",Буковина
 http://194.8.145.85:8066/livemobile/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://sk1.tv/images/logo.png" group-title="Ukraine(Україна)",СК1
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dumskaya.net/i3/logotv.png" group-title="Ukraine(Україна)",EДумская TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
