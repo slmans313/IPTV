@@ -459,8 +459,16 @@ http://dprtv.phoenix-dnr.ru/oplot-tv
 #EXTINF:-1 tvg-logo="http://opentv.online/themes/front/images/logo.png" group-title="Russia (Россия)",Открытый
 http://hls.opentv.online/7200k/open_7200k.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.obltv.ru/local/templates/index/images/logo.png" group-title="Russia (Россия)",ОТВ (Екатеринбург+2
+http://85.12.197.39:8080/hls/stream1.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/330px-OTR_2013_logo.svg.png" group-title="Russia (Россия)",ОТР
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/330px-OTR_2013_logo.svg.png" group-title="Russia (Россия)",Охотник и Рыболов
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/330px-OTR_2013_logo.svg.png" group-title="Russia (Россия)",Охотник и Рыболов
+http://ott-cdn.ucom.am/s55/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://fenixplus.tv/bitrix/templates/main/images/logo_for_web.png" group-title="Russia (Россия)",Феникс+ Кино
 http://109.248.236.41:4433/udp/238.1.1.134:1234
@@ -907,6 +915,9 @@ http://tv2.esilnet.com/hls/mtrk.m3u8
 
 #EXTINF:-1 tvg-logo="https://kaztrk.kz/kaztv/images/kazlogo.png" group-title="Kazakhstan (Казахстан)",Qazaqstan
 https://kaztv.rtrk.kz/kaztv_480/kaztv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://kostanaytv.kz/assets/regions/logo/qostanay.png" group-title="Kazakhstan (Казахстан)",Qostanaı
+http://109.248.236.41:4433/udp/238.1.1.206:1234
 
 #EXTINF:-1 tvg-logo="http://www.rikatv.kz/bitrix/templates/infogis/images/logo_rika_main1.png" group-title="Kazakhstan (Казахстан)",Rika
 http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
