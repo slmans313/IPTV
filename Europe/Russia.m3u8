@@ -424,11 +424,22 @@ http://109.248.236.41:4433/udp/238.1.1.90:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/%D0%9C%D1%83%D0%B7-%D0%A2%D0%92_12.png" group-title="Russia (Россия)",Муз ТВ
 http://176.101.224.21:8080/udp/239.195.32.54:1234
 
-#EXTINF:-1 tvg-logo="http://muz.tv-soyuz.ru/images/logo.png" group-title="Russia (Россия)",Muz Sojuz
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.moya-planeta.ru/templates/images/main/logo.png" group-title="Russia (Россия)",Моя Планета
+http://stream.euroasia.lfstrm.tv/moya_planeta/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.moya-planeta.ru/templates/images/main/logo.png" group-title="Russia (Россия)",Моя Планета
+http://109.248.236.41:4433/udp/238.1.1.95:1234
 
 #EXTINF:-1 tvg-logo="http://mtvmix.ru/meropriyatiya/images/500.png" group-title="Russia (Россия)",MTV Mix
 http://81.30.182.82:18092/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://muz.tv-soyuz.ru/images/logo.png" group-title="Russia (Россия)",Muz Sojuz
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kt.kg/upload/medialibrary/802/ozkqyoc%20orqjt.jpg" group-title="Russia (Россия)",Мульт
+http://ott-cdn.ucom.am/s58/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://mult-music.tlum.ru/static/images/logo-blue.png" group-title="Russia (Россия)",Мульт и Музыка
+http://stream.euroasia.lfstrm.tv/strana/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv-nano.ru/wp-content/uploads/2018/08/nano_logo_discriptor_250_84.png" group-title="Russia (Россия)",Nano TV
 http://serv30.vintera.tv:8081/nano/nanohd/playlist.m3u8
