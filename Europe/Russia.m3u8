@@ -131,10 +131,19 @@ http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.piter.tv/img/47channel/logo.png" group-title="Russia (Россия)",47 канал
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)",05 ПЯТЫЙ КАНАЛ
+#EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)", 5 канал
 http://188.243.62.238:81/udp/239.239.1.4:5239
 
-#EXTINF:-1 tvg-logo="http://ots-net.ru/images/upload/news/LOGOHD.png group-title="Russia (Россия)",07 TV
+#EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)", 5 канал
+http://83.246.178.37:81/udp/239.54.5.82:1224
+#EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)", 5 канал
+http://176.101.224.21:8080/udp/239.195.32.14:1234
+#EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)", 5 канал
+http://109.70.184.20:8080/udp/239.195.32.14:1234
+#EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)", 5 канал
+http://188.242.201.77:4022/udp/239.239.1.4:5239
+
+#EXTINF:-1 tvg-logo="http://ots-net.ru/images/upload/news/LOGOHD.png group-title="Russia (Россия)",7 TV
 http://v1.proofix.ru/live-tv7/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.8tv.ru/images/logo.png" group-title="Russia (Россия)",8 канал
@@ -374,11 +383,19 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://minidey.ru/wp-content/themes/blog/img/logo.png" group-title="Russia (Россия)",Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/01/18/40/channel!fw6.png" group-title="Russia (Россия)",MCM TOP
+http://stream.euroasia.lfstrm.tv/mcm_top/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/01/18/40/channel!fw6.png" group-title="Russia (Россия)",MCM TOP
+http://ott-cdn.ucom.am/s49/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://timemediagroup.ru/tem/images/1о_corrected.png" group-title="Russia (Россия)",Meteo TV
 http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="Russia (Россия)",Mir Belogorya
+#EXTINF:-1 tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="Russia (Россия)",Мир Белагорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="Russia (Россия)",Мир Белагорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.myudm.ru/sites/all/themes/myudmnew/images/logo.png" group-title="Russia (Россия)",Моя Удмуртия
 http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
