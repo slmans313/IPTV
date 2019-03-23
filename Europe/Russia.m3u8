@@ -134,6 +134,9 @@ http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.
 #EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)",05 ПЯТЫЙ КАНАЛ
 http://188.243.62.238:81/udp/239.239.1.4:5239
 
+#EXTINF:-1 tvg-logo="http://ots-net.ru/images/upload/news/LOGOHD.png group-title="Russia (Россия)",07 TV
+http://v1.proofix.ru/live-tv7/stream1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.8tv.ru/images/logo.png" group-title="Russia (Россия)",8 канал
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 
@@ -152,6 +155,9 @@ http://cdn.videosofsport1.live/hls/OlSkffRb0KPV84qTI7uOBQ/1552805243/1tv.m3u8
 #EXTINF:-1 tvg-logo="http://acb-tv.com/local/templates/acb/img/favicon/android-icon-192x192.png" group-title="Russia (Россия)",ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://sun9-29.userapi.com/c638120/v638120688/47752/oNd0y-5mRcI.jpg" group-title="Russia (Россия)",Akudji TV HD
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+
 #EXTINF:-1 tvg-logo="http://crushgame.ru/channels_logos/Films/amedia_1.png" group-title="Russia (Россия)", Amedia 1
 http://stream.euroasia.lfstrm.tv/amedia_1/1/index.m3u8
 
@@ -163,6 +169,12 @@ http://sc.id-tv.kz/A2_36_37.m3u8
 
 #EXTINF:-1 tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="Russia (Россия)", Amedia 2
 http://ott-cdn.ucom.am/s33/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://crushgame.ru/channels_logos/Films/AmediaHit.png" group-title="Russia (Россия)",Amedia Hit
+http://109.248.236.41:4433/udp/238.1.1.96:1234
+
+#EXTINF:-1 tvg-logo="https://www.tvradiomd.ru/wp-content/uploads/2017/09/Amedia-premium-HD.png" group-title="Russia (Россия)",Amedia_Premium HD
+http://109.248.236.41:4433/udp/238.1.1.71:1234
 
 #EXTINF:-1 tvg-logo="https://astrakhan-24.ru/images/bg/logo.png" group-title="Russia (Россия)", Астрахань 24
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
