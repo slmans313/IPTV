@@ -509,8 +509,17 @@ http://live.maksmedia.cdnvideo.ru/maksmedia/maksfm2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radioshanson.ru/assets/2a380c6a/img/logo-09-06-2016.png" group-title="Russia (Россия)",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://www.interntv.ru/modules/Main/image_1/retro_tv.jpg" group-title="Russia (Россия)",Ретро
+http://stream.euroasia.lfstrm.tv/retro/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.interntv.ru/modules/Main/image_1/retro_tv.jpg" group-title="Russia (Россия)",Ретро
+http://83.246.193.152:81/udp/239.54.6.29:1224
+
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/rus-sever.png" group-title="Russia (Россия)",Русский Север
 http://rusevertv.ru/streams.m3u8
+
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/rus-sever.png" group-title="Russia (Россия)",Русский Север
+http://176.107.213.20:9000/play/a001
 
 #EXTINF:-1 tvg-logo="http://yamal-region.tv/_pic/logo_top.png" group-title="Russia (Россия)",Ямал-Регион
 http://live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8
