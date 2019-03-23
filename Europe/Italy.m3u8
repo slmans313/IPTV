@@ -128,8 +128,14 @@ http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="Italy(Italia)", Radio Bruno
 http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="Italy(Italia)",Radio Capital TiVu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="Italy(Italia)", Radio Bruno
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="Italy(Italia)",Radio Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="Italy(Italia)",Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 #EXTINF:-1  tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="Italy(Italia)",Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
@@ -150,6 +156,9 @@ http://tv.105.net/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rncmusic.it/dati/upload/images/rmc.jpg" group-title="Italy(Italia)",Radio Monte Carlo
 http://tv.105.net/live/rmc2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3781440_logo_radio_number_one_tv.png" group-title="Italy(Italia)",Radio No 1 TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.radioradicale.it/sites/www.radioradicale.it/files/testata-radio-radicale-500-tiny.png" group-title="Italy(Italia)",Radio Radicale
 http://video-4.radioradicale.it:1935/diretta/padtv1/playlist.m3u8
 
@@ -157,7 +166,9 @@ http://video-4.radioradicale.it:1935/diretta/padtv1/playlist.m3u8
 http://streamtv.level7.it:1935/teleradiosciacca-tv/teleradiosciacca-tv/teleradiosciacca-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.santiscarcella.it/wp-content/uploads/RadioTaorminaTV1.png" group-title="Italy(Italia)",Radio Taormina
-http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/293.ts
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.santiscarcella.it/wp-content/uploads/RadioTaorminaTV1.png" group-title="Italy(Italia)",Radio Taormina
+http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Radionorba-TV.png" group-title="Italy(Italia)",Radionorba
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
