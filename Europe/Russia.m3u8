@@ -660,7 +660,7 @@ http://195.5.108.14:1935/live/itv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blackseatv.com/wp-content/themes/blacksea/logo.png" group-title="Crimea (Крым)", Черноморская ТРК
 http://blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://crimea.suspilne.media/inc/img/logo.png" group-title="Crimea (Крым)", UA Крым
+#EXTINF:-1 tvg-logo="https://crimea.suspilne.media/inc/img/logo.png" group-title="Crimea (Крым)", UA:Крым
 http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", Դար 21
@@ -972,6 +972,24 @@ http://alpha.tv.online.tm/hls/ch007_400/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" group-title="Türkmenistan",Yaslyk TV
 https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://1tv.com.ua/img/logo.png" group-title="Ukraine(Україна)",UA:ПЕРШИЙ
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1 tvg-logo="https://culture.suspilne.media/inc/img/logo_culture.png" group-title="Ukraine(Україна)",UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+
+#EXTINF:-1 tvg-logo="https://zt.suspilne.media/inc/img/logo-6.png" group-title="Ukraine(Україна)",UA:Житомир
+http://cdn10.live-tv.od.ua:8081/odtrkzt/odtrkzt-abr/odtrkzt/odtrkzt2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2019/02/UA_Odessa.png" group-title="Ukraine(Україна)",UA:Одесса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bcap.kh.ua/image/cache/catalog/svetlovodsk/juaharkiv-850x400.jpg" group-title="Ukraine(Україна)",UA:Харьков
+http://stream.otb.com.ua/hls/otb1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dn.suspilne.media/inc/img/logo-5.png" group-title="Ukraine(Україна)",UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/10/UATV.png" group-title="Ukraine(Україна)",UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeintertv.com/modules/Main/image/100news.jpg" group-title="Ukraine(Україна)",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
