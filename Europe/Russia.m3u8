@@ -595,6 +595,13 @@ http://176.101.224.21:8080/udp/239.195.32.15:1234
 #EXTINF:-1 tvg-logo="https://sat-one.info/news-imeg/15116.jpg" group-title="Russia (Россия)",TВЦ
 http://ott-cdn.ucom.am/s54/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.tricolor.tv/upload/iblock/0eb/0ebca2c44f0cff373693f8cd86a03e24.PNG" group-title="Russia (Россия)",Телеканал «Доктор»
+http://ott-cdn.ucom.am/s76/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.tricolor.tv/upload/iblock/0eb/0ebca2c44f0cff373693f8cd86a03e24.PNG" group-title="Russia (Россия)",Телеканал «Доктор»
+http://stream.euroasia.lfstrm.tv/24_doc/1/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВ Центр
 http://188.243.62.238:81/udp/239.239.1.69:5239
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВ Центр
@@ -778,15 +785,18 @@ http://ott-cdn.ucom.am/s11/index.m3u8
 #EXTINF:0 tvg-logo="http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png" group-title="Armenia(Հայաստան)",ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Armenia TV 2
+
+#EXTINF:0 tvg-logo="https://www.armeniatv.am/pics/premium-h.png" group-title="Armenia(Հայաստան)", Armenia TV Premium 1
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/o2rwtC8.png" group-title="Armenia(Հայաստան)",Armenia TV Premium 2
 http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Аrmenia TV 3
+#EXTINF:0 tvg-logo="https://i.imgur.com/XMQXp3n.png" group-title="Armenia(Հայաստան)",Аrmenia TV Premium 3
 http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Armenia TV 4
+#EXTINF:0 tvg-logo="https://i.imgur.com/oxwdNwD.png" group-title="Armenia(Հայաստան)",Armenia TV Premium 4
 http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Аrmenia TV 5
+#EXTINF:0 tvg-logo="https://i.imgur.com/yJBfIax.png" group-title="Armenia(Հայաստան)",Аrmenia TV Premium 5
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)",Аrmenia TV 6
+#EXTINF:0 tvg-logo="https://i.imgur.com/LUsP2re.png" group-title="Armenia(Հայաստան)",Аrmenia TV Premium 6
 http://ott-cdn.ucom.am/s66/index.m3u8
 
 #EXTINF:0 tvg-logo="https://atv.am//img/atv_logo_.png" group-title="Armenia(Հայաստան)",ATV
