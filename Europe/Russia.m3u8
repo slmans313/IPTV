@@ -271,14 +271,19 @@ http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pp.userapi.com/c5200/g33405934/a_1fa4a8a6.jpg" group-title="Russia (Россия)",Наш Дом
 http://85.234.33.60/stream/c11.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Russia (Россия)",Heaven TV7
-http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://strashnoe.tv/images/logo.png" group-title="Russia (Россия)",НСТ
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:-1 tvg-logo="http://strashnoe.tv/images/logo.png" group-title="Russia (Россия)",НСТ
+http://109.248.236.41:4433/udp/238.1.1.123:1234
 
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="Russia (Россия)",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://hdmedia.ru/common/resources/images/logo_hdmedia3d.png" group-title="Russia (Россия)",HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="Russia (Россия)",Heaven TV7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://nntv.tv/_data/objects/0005/4417/icon.png" group-title="Russia (Россия)",ННТВ
 http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
