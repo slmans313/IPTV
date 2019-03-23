@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSport1.uk.png" group-title="Bulgaria(България)", EuroSports 1
+http://111.90.151.57:8080/liviu/12345/65014
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/EuroSport2.uk.png" group-title="Bulgaria(България)", EuroSports 2
+http://111.90.151.57:8080/liviu/12345/93240
+
 #EXTINF:-1 tvg-logo="http://www.mmtv.bg/mmtv.png" group-title="Bulgaria(България)",MM-TV HD
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 
@@ -14,6 +19,11 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1music.hu/assets/images/logo.png" group-title="Hungary(MagyarorszĂˇg)", 1 Music
 http://1music.hu/1music.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/EuroSports1.pt.png" group-title="România",EuroSports 1
+http://111.90.151.57:8080/liviu/12345/145815
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/EuroSports2.pt.png" group-title="România",EuroSports 2
+http://111.90.151.57:8080/liviu/12345/62973
 
 #EXTINF:-1 tvg-logo="https://www.residentadvisor.net/images/promoter/ro-kissfmkisstv.jpg" group-title="România", KISS TV
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
