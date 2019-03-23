@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" group-title=" Belgium", Radio Contact
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="Belgium",11 Sports 1
+http://111.90.151.57:8080/liviu/12345/113123
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="Belgium",11 Sports 2
+http://111.90.151.57:8080/liviu/12345/127943
+#EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/Eleven_Sports_3_Portugal.png" group-title="Belgium", 11 Sports 3
+http://111.90.151.57:8080/liviu/12345/127944
+
+
+#EXTINF:-1 tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="Belgium", Radio Contact
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+
