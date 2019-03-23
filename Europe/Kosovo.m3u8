@@ -55,23 +55,26 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://logo.exyu.xyz/telegraf.png" group-title="Serbia(Србија)",Telegraf
 http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png" group-title="Serbia(Србија)",TVKopernikus 1
+#EXTINF:-1  tvg-logo="http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png" group-title="Serbia(Србија)",Kopernikus
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
 
-#EXTINF:-1  tvg-logo="http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png" group-title="Serbia(Србија)",TVKopernikus 2
+#EXTINF:-1  tvg-logo="http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png" group-title="Serbia(Србија)",Kopernikus
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 
-#EXTINF:-1  tvg-logo="http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png" group-title="Serbia(Србија)",TVKopernikus 3
+#EXTINF:-1  tvg-logo="http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png" group-title="Serbia(Србија)",Kopernikus
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="Kosovo(Kosovës)",RTK 1 Kosovo
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg" group-title="Macedonia(Македонија)",Sky Folk TV
+#EXTINF:-1  tvg-logo="http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg" group-title="Macedonia(Македонија)",Sky Folk
 http://skyfolk.mk/live.m3u8
 
-#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Macedonia(Македонија)",TVPlus
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Macedonia(Македонија)",TV Plus
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/TV_Nova_12_Logo.jpg/270px-TV_Nova_12_Logo.jpg" group-title="Macedonia(Македонија)", Nova 12
+http://151.236.247.171:9000/live/dzunde/dzunde/1.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_K-C_2013_Logo.png/150px-TV_K-C_2013_Logo.png" group-title="Slovenia(Slovenija)", TV Koper-Capodistria
 http://213.162.202.9:8000/play/a01e/index.m3u8
