@@ -308,6 +308,9 @@ http://5.2.51.87:81/udp/239.254.3.66:1234
 #EXTINF:-1 tvg-logo="https://www.extremtv.ru/files/re-hd.png" group-title="Russia (Россия)", Русский Экстрим
 http://ott-cdn.ucom.am/s47/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.evrazia.tv/files/flash.jpg" group-title="Russia (Россия)", Евразия ТВ
+http://paideuma.tv:1941/live/Stream1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Russia (Россия)", Euronews Русский
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
@@ -526,7 +529,7 @@ http://dprtv.phoenix-dnr.ru/oplot-tv
 #EXTINF:-1 tvg-logo="http://opentv.online/themes/front/images/logo.png" group-title="Russia (Россия)",Открытый
 http://hls.opentv.online/7200k/open_7200k.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.obltv.ru/local/templates/index/images/logo.png" group-title="Russia (Россия)",ОТВ (Екатеринбург+2
+#EXTINF:-1 tvg-logo="http://www.obltv.ru/local/templates/index/images/logo.png" group-title="Russia (Россия)",ОТВ Екатеринбург
 http://85.12.197.39:8080/hls/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/330px-OTR_2013_logo.svg.png" group-title="Russia (Россия)",ОТР
@@ -602,6 +605,9 @@ https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/RU.TV.png" group-title="Russia (Россия)",RUTV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://redcom.ru/include/logo_best.png" group-title="Russia (Россия)",Redcom TV
+https://tvstreamer.redcom.ru/Redcams/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Russia (Россия)",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
@@ -720,7 +726,7 @@ http://live2.mediacdn.ru/sr1/tvbrics/playlist.m3u8
 http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" group-title="Russia (Россия)",ТРК Евразия
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://trk-luch.ru.opt-images.1c-bitrix-cdn.ru/bitrix/templates/.default/static/images/logo.png" group-title="Russia (Россия)",ТРК Луч
 http://live.trk-luch.ru/hls/live_hi.m3u8
