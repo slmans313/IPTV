@@ -497,34 +497,643 @@ https://cdn.vtc.gov.vn/live/eds/VTC14_14/hlsv5/VTC14_14-audio_20000=212400-video
 https://cdn.vtc.gov.vn/live/eds/VTC16_16/hlsv5/VTC16_16-audio_20000=212400-video=1275600.m3u8
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/1__.png" group-title="Vietnam(Việt Nam)", VTV1
-https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+http://42.116.173.33:4022/udp/225.1.4.1:30120
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/2__.png" group-title="Vietnam(Việt Nam)", VTV2
-https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
+http://42.116.173.33:4022/udp/225.1.4.2:30120
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/3__.png" group-title="Vietnam(Việt Nam)", VTV3
-https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
+http://42.116.173.33:4022/udp/225.1.4.3:30120
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/4__.png" group-title="Vietnam(Việt Nam)", VTV4
-https://hjyjrvmlsk.vcdn.com.vn/hls/hktebdo/index.m3u8
+http://42.116.173.33:4022/udp/225.1.4.4:30120
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/5__.png" group-title="Vietnam(Việt Nam)", VTV5
-https://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
+http://42.116.173.33:4022/udp/225.1.4.5:30120
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/6__.png" group-title="Vietnam(Việt Nam)", VTV6
-https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
+http://42.116.173.33:4022/udp/225.1.4.6:30120
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/27__.png" group-title="Vietnam(Việt Nam)", VTV7
-https://hjyjrvmlsk.vcdn.com.vn/hls/nwalmjv/index.m3u8
+http://42.116.173.33:4022/udp/225.1.2.96:30120
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/36__.png" group-title="Vietnam(Việt Nam)", VTV8
-https://hjyjrvmlsk.vcdn.com.vn/hls/wgabpze/index.m3u8
+http://42.116.173.33:4022/udp/225.1.4.7:30120
 
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/39__.png" group-title="Vietnam(Việt Nam)", VTV9
-https://hjyjrvmlsk.vcdn.com.vn/hls/ig9jpqw/index.m3u8
+http://42.116.173.33:4022/udp/225.1.4.8:30120
 
 #EXTINF:-1 tvg-logo="http://tduc.tk/logo/vitv.png" tvg-name="VITV" group-title="Vietnam(Việt Nam)", VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhD5JSMY-yA_zL3BO6Sox8kRF25ghdjbAS7Y_66UGIA26Gbysn" group-title="Vietnam(Việt Nam)", VOV Vietnam Journey
 http://vncdn.mediatech.vn/vovlive/tv1live.m3u8
+
+#EXTINF:-1,VTV1 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.248:30120
+#EXTINF:-1,VTV2 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.14:30120
+#EXTINF:-1,VTV3 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.246:30120
+#EXTINF:-1,VTV4 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.211:30120
+#EXTINF:-1,VTV5 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.129:30120
+#EXTINF:-1,VTV6 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.244:30120
+#EXTINF:-1,VTV7 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.97:30120
+#EXTINF:-1,VTV8 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.142:30120
+#EXTINF:-1,VTV9 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.126:30120
+#EXTINF:-1,VTV1 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.249:30120
+#EXTINF:-1,VTV2 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.13:30120
+#EXTINF:-1,VTV3 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.247:30120
+#EXTINF:-1,VTV4 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.20:30120
+#EXTINF:-1,VTV5 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.131:30120
+#EXTINF:-1,VTV6 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.245:30120
+#EXTINF:-1,VTV8 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.166:30120
+#EXTINF:-1,VTV9 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.128:30120
+#EXTINF:-1,VTC1 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.254:30120
+#EXTINF:-1,VTC3 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.251:30120
+#EXTINF:-1,VTC13 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.250:30120
+#EXTINF:-1,VTC14 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.88:30120
+#EXTINF:-1,VTC1
+http://42.116.173.33:4022/udp/225.1.2.203:30120
+#EXTINF:-1,VTC2
+http://42.116.173.33:4022/udp/225.1.2.202:30120
+#EXTINF:-1,VTC3
+http://42.116.173.33:4022/udp/225.1.2.201:30120
+#EXTINF:-1,yeah1!Family _ VTC4
+http://42.116.173.33:4022/udp/225.1.2.200:30120
+#EXTINF:-1,VTC5
+http://42.116.173.33:4022/udp/225.1.2.199:30120
+#EXTINF:-1,VTC6
+http://42.116.173.33:4022/udp/225.1.2.198:30120
+#EXTINF:-1,todayTV _ VTC7
+http://42.116.173.33:4022/udp/225.1.2.197:30120
+#EXTINF:-1,VTC8
+http://42.116.173.33:4022/udp/225.1.2.196:30120
+#EXTINF:-1,VTC9
+http://42.116.173.33:4022/udp/225.1.2.195:30120
+#EXTINF:-1,NETVIET _ VTC10
+http://42.116.173.33:4022/udp/225.1.2.194:30120
+#EXTINF:-1,kidsTV _ VTC11
+http://42.116.173.33:4022/udp/225.1.2.193:30120
+#EXTINF:-1,VTC14
+http://42.116.173.33:4022/udp/225.1.2.191:30120
+#EXTINF:-1,VTC16
+http://42.116.173.33:4022/udp/225.1.2.190:30120
+#EXTINF:-1,Vie CHANNEL _ HTV2 (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.193:30120
+#EXTINF:-1,HTV7 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.191:30120
+#EXTINF:-1,HTV9 HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.189:30120
+#EXTINF:-1,FBNC (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.181:30120
+#EXTINF:-1,HTVC PHIM (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.183:30120
+#EXTINF:-1,Thuần Việt HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.185:30120
+#EXTINF:-1,HTV7 HD (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.1.192:30120
+#EXTINF:-1,HTV9 HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.190:30120
+#EXTINF:-1,FBNC (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.1.182:30120
+#EXTINF:-1,HTVC PHIM (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.1.184:30120
+#EXTINF:-1,Thuần Việt HD (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.1.186:30120
+#EXTINF:-1,HTV1
+http://42.116.173.33:4022/udp/225.1.1.180:30120
+#EXTINF:-1,Vie CHANNEL _ HTV2
+http://42.116.173.33:4022/udp/225.1.1.179:30120
+#EXTINF:-1,dreamsTV _ HTV3
+http://42.116.173.33:4022/udp/225.1.1.178:30120
+#EXTINF:-1,HTV Keys
+http://42.116.173.33:4022/udp/225.1.1.177:30120
+#EXTINF:-1,HTV THỂ THAO
+http://42.116.173.33:4022/udp/225.1.1.165:30120
+#EXTINF:-1,DU LỊCH VÀ CUỘC SỐNG
+http://42.116.173.33:4022/udp/225.1.1.166:30120
+#EXTINF:-1,GIA ĐÌNH
+http://42.116.173.33:4022/udp/225.1.1.170:30120
+#EXTINF:-1,HTVC PHIM
+http://42.116.173.33:4022/udp/225.1.1.173:30120
+#EXTINF:-1,PHỤ NỮ
+http://42.116.173.33:4022/udp/225.1.1.171:30120
+#EXTINF:-1,Thuần Việt
+http://42.116.173.33:4022/udp/225.1.1.174:30120
+#EXTINF:-1,SCTV4 (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.187:30120
+#EXTINF:-1,ANTV HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.169:30120
+#EXTINF:-1,Nhân Dân (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.91:30120
+#EXTINF:-1,QUỐC HỘI (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.149:30120
+#EXTINF:-1,QPVN (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.216:30120
+#EXTINF:-1,TTXVN (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.43:30120
+#EXTINF:-1,QUỐC HỘI (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.2.148:30120
+#EXTINF:-1,QPVN (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.2.217:30120
+#EXTINF:-1,TTXVN
+http://42.116.173.33:4022/udp/225.1.1.167:30120
+#EXTINF:-1,BTV9 _ An Viên (HD 50i)
+http://42.116.173.33:4022/udp/225.1.2.189:30120
+#EXTINF:-1,An Ninh Thế Giới
+http://42.116.173.33:4022/udp/225.1.1.208:30120
+#EXTINF:-1,THĐT2 _ Miền Tây (50i)
+http://42.116.173.33:4022/udp/225.1.1.221:30120
+#EXTINF:-1,BTV10 _ NCM (50i)
+http://42.116.173.33:4022/udp/225.1.1.225:30120
+#EXTINF:-1,Phim Hay (50i)
+http://42.116.173.33:4022/udp/225.1.1.222:30120
+#EXTINF:-1,BTV11 _ SAM (50i)
+http://42.116.173.33:4022/udp/225.1.1.224:30120
+#EXTINF:-1,BTV6 2!IDOL _ Vietteen (50i)
+http://42.116.173.33:4022/udp/225.1.1.223:30120
+#EXTINF:-1,youTV _ Hanoicab2
+http://42.116.173.33:4022/udp/225.1.1.207:30120
+#EXTINF:-1,MOV _ Hanoicab4
+http://42.116.173.33:4022/udp/225.1.1.206:30120
+#EXTINF:-1,MTV
+http://42.116.173.33:4022/udp/225.1.1.245:30120
+#EXTINF:-1,Vietnamnet
+http://42.116.173.33:4022/udp/225.1.1.194:30120
+#EXTINF:-1,VOV Vietnam Journey
+http://42.116.173.33:4022/udp/225.1.2.171:30120
+#EXTINF:-1,TN1 HD _ Truyền hình Thái Nguyên (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.179:30120
+#EXTINF:-1,BTV _ Truyền hình Bắc Ninh (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.40:30120
+#EXTINF:-1,H1 HD _ Truyền hình Hà Nội (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.186:30120
+#EXTINF:-1,H2 HD _ Truyền hình Hà Nội (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.125:30120
+#EXTINF:-1,THP HD _ Truyền hình Hải Phòng (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.44:30120
+#EXTINF:-1,NTV HD _ Truyền hình Ninh Bình (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.185:30120
+#EXTINF:-1,QRTV _ Truyền hình Quảng Trị (HD 4.5Mbps)
+http://42.116.173.33:4022/udp/225.1.1.117:30120
+#EXTINF:-1,DaNangTV2 _ Truyền hình thành phố Đà Nẵng (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.146:30120
+#EXTINF:-1,PTQ _ Truyền hình Quảng Ngãi (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.174:30120
+#EXTINF:-1,PTP HD _ Truyền hình Phú Yên (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.58:30120
+#EXTINF:-1,KTV HD _ Truyền hình Khánh Hòa (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.133:30120
+#EXTINF:-1,THGL _ Truyền hình Gia Lai (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.176:30120
+#EXTINF:-1,BTV1 HD _ Truyền hình Bình Dương (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.150:30120
+#EXTINF:-1,BTV2 HD _ Truyền hình Bình Dương (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.149:30120
+#EXTINF:-1,iMovie _ BTV4 (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.30:30120
+#EXTINF:-1,ĐNRTV1 HD _ Truyền hình Đồng Nai (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.152:30120
+#EXTINF:-1,ĐNRTV2 HD _ Truyền hình Đồng Nai (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.151:30120
+#EXTINF:-1,TTV11 _ Truyền hình Tây Ninh (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.130:30120
+#EXTINF:-1,BRT HD _ Truyền hình Bà Rịa Vũng Tàu (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.175:30120
+#EXTINF:-1,THVL1 HD _ Truyền hình Vĩnh Long (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.155:30120
+#EXTINF:-1,THVL2 HD _ Truyền hình Vĩnh Long (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.154:30120
+#EXTINF:-1,THTV HD _ Truyền hình Trà Vinh (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.172:30120
+#EXTINF:-1,HGTV _ Truyền hình Hậu Giang (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.157:30120
+#EXTINF:-1,CTV _ Truyền hình Cà Mau (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.104:30120
+#EXTINF:-1,THLC _ Truyền hình Lào Cai
+http://42.116.173.33:4022/udp/225.1.1.119:30120
+#EXTINF:-1,YTV _ Truyền hình Yên Bái
+http://42.116.173.33:4022/udp/225.1.1.39:30120
+#EXTINF:-1,ĐTV _ Truyền hình Điện Biên
+http://42.116.173.33:4022/udp/225.1.1.74:30120
+#EXTINF:-1,HBTV _ Truyền hình Hòa Bình
+http://42.116.173.33:4022/udp/225.1.2.168:30120
+#EXTINF:-1,STV _ Truyền hình Sơn La
+http://42.116.173.33:4022/udp/225.1.1.98:30120
+#EXTINF:-1,HGTV _ Truyền hình Hà Giang
+http://42.116.173.33:4022/udp/225.1.1.62:30120
+#EXTINF:-1,CRTV _ Truyền hình Cao Bằng
+http://42.116.173.33:4022/udp/225.1.1.102:30120
+#EXTINF:-1,LSTV _ Truyền hình Lạng Sơn
+http://42.116.173.33:4022/udp/225.1.1.160:30120
+#EXTINF:-1,TTV _ Truyền hình Tuyên Quang
+http://42.116.173.33:4022/udp/225.1.2.188:30120
+#EXTINF:-1,PTV _ Truyền hình Phú Thọ
+http://42.116.173.33:4022/udp/225.1.2.165:30120
+#EXTINF:-1,BGTV _ Truyền hình Bắc Giang
+http://42.116.173.33:4022/udp/225.1.1.164:30120
+#EXTINF:-1,QTV1 _ Truyền hình Quảng Ninh
+http://42.116.173.33:4022/udp/225.1.2.181:30120
+#EXTINF:-1,QTV3 _ Truyền hình Quảng Ninh
+http://42.116.173.33:4022/udp/225.1.2.180:30120
+#EXTINF:-1,THHN _ Truyền hình Hà Nam
+http://42.116.173.33:4022/udp/225.1.1.63:30120
+#EXTINF:-1,THD _ Truyền hình Hải Dương
+http://42.116.173.33:4022/udp/225.1.1.158:30120
+#EXTINF:-1,HY _ Truyền hình Hưng Yên
+http://42.116.173.33:4022/udp/225.1.1.118:30120
+#EXTINF:-1,NTV _ Truyền hình Nam Định
+http://42.116.173.33:4022/udp/225.1.1.120:30120
+#EXTINF:-1,TBTV _ Truyền hình Thái Bình
+http://42.116.173.33:4022/udp/225.1.1.99:30120
+#EXTINF:-1,VP _ Truyền hình Vĩnh Phúc
+http://42.116.173.33:4022/udp/225.1.2.99:30120
+#EXTINF:-1,TTV _ Truyền hình Thanh Hóa
+http://42.116.173.33:4022/udp/225.1.2.184:30120
+#EXTINF:-1,NTV _ Truyền hình Nghệ An
+http://42.116.173.33:4022/udp/225.1.2.183:30120
+#EXTINF:-1,HTTV _ Truyền hình Hà Tĩnh
+http://42.116.173.33:4022/udp/225.1.1.75:30120
+#EXTINF:-1,QBTV _ Truyền hình Quảng Bình
+http://42.116.173.33:4022/udp/225.1.2.164:30120
+#EXTINF:-1,TRT _ Truyền hình Thừa Thiên Huế
+http://42.116.173.33:4022/udp/225.1.1.161:30120
+#EXTINF:-1,DaNangTV1 _ Truyền hình thành phố Đà Nẵng
+http://42.116.173.33:4022/udp/225.1.1.147:30120
+#EXTINF:-1,QRT _ Truyền hình Quảng Nam
+http://42.116.173.33:4022/udp/225.1.2.50:30120
+#EXTINF:-1,BTV _ Truyền hình Bình Định
+http://42.116.173.33:4022/udp/225.1.1.145:30120
+#EXTINF:-1,NTV _ Truyền hình Ninh Thuận
+http://42.116.173.33:4022/udp/225.1.2.178:30120
+#EXTINF:-1,BTV _ Truyền hình Bình Thuận
+http://42.116.173.33:4022/udp/225.1.1.124:30120
+#EXTINF:-1,KRT _ Truyền hình Kon Tum
+http://42.116.173.33:4022/udp/225.1.1.36:30120
+#EXTINF:-1,DRT _ Truyền hình Đắk Lắk
+http://42.116.173.33:4022/udp/225.1.1.64:30120
+#EXTINF:-1,LTV _ Truyền hình Lâm Đồng
+http://42.116.173.33:4022/udp/225.1.2.177:30120
+#EXTINF:-1,BPTV1 _ Truyền hình Bình Phước
+http://42.116.173.33:4022/udp/225.1.2.23:30120
+#EXTINF:-1,HomeTV _ BPTV2
+http://42.116.173.33:4022/udp/225.1.2.38:30120
+#EXTINF:-1,LA34 _ Truyền hình Long An
+http://42.116.173.33:4022/udp/225.1.1.162:30120
+#EXTINF:-1,THĐT1 _ Truyền hình Đồng Tháp
+http://42.116.173.33:4022/udp/225.1.1.163:30120
+#EXTINF:-1,THTG _ Truyền hình Tiền Giang
+http://42.116.173.33:4022/udp/225.1.2.170:30120
+#EXTINF:-1,ATV _ Truyền hình An Giang
+http://42.116.173.33:4022/udp/225.1.2.173:30120
+#EXTINF:-1,THBT _ Truyền hình Bến Tre
+http://42.116.173.33:4022/udp/225.1.1.156:30120
+#EXTINF:-1,KG1 _ Truyền hình Kiên Giang
+http://42.116.173.33:4022/udp/225.1.2.182:30120
+#EXTINF:-1,STV1 _ Truyền hình Sóc Trăng
+http://42.116.173.33:4022/udp/225.1.1.159:30120
+#EXTINF:-1,BLTV _ Truyền hình Bạc Liêu
+http://42.116.173.33:4022/udp/225.1.1.61:30120
+#EXTINF:-1,THTPCT _ Truyền hình thành phố Cần Thơ
+http://42.116.173.33:4022/udp/225.1.1.132:30120
+#EXTINF:-1,Asian Food Channel (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.98:30120
+#EXTINF:-1,AXN (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.224:30120
+#EXTINF:-1,BabyTV (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.147:30120
+#EXTINF:-1,BBC Earth (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.25:30120
+#EXTINF:-1,Cartoon Network (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.230:30120
+#EXTINF:-1,[V] HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.187:30120
+#EXTINF:-1,Cinema World (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.143:30120
+#EXTINF:-1,Da Vinci Kids (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.253:30120
+#EXTINF:-1,Discovery Asia (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.222:30120
+#EXTINF:-1,Discovery Channel (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.238:30120
+#EXTINF:-1,Disney Channel (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.160:30120
+#EXTINF:-1,DW (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.46:30120
+#EXTINF:-1,Fashion TV (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.226:30120
+#EXTINF:-1,FOX HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.52:30120
+#EXTINF:-1,FOX Life (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.236:30120
+#EXTINF:-1,FOX MOVIES (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.238:30120
+#EXTINF:-1,FOX SPORTS (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.228:30120
+#EXTINF:-1,FOX SPORTS 2 (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.108:30120
+#EXTINF:-1,FOX SPORTS 3 (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.243:30120
+#EXTINF:-1,GEM (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.17:30120
+#EXTINF:-1,HBO HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.232:30120
+#EXTINF:-1,KIX (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.145:30120
+#EXTINF:-1,MAX BY HBO (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.91:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.234:30120
+#EXTINF:-1,NHK WORLD JAPAN (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.47:30120
+#EXTINF:-1,Outdoor Channel (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.2.214:30120
+#EXTINF:-1,RED BY HBO (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.89:30120
+#EXTINF:-1,WBTV (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.140:30120
+#EXTINF:-1,ANIMAL PLANET (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.104:30120
+#EXTINF:-1,Asian Food Channel (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.198:30120
+#EXTINF:-1,AXN (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.225:30120
+#EXTINF:-1,BabyTV (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.146:30120
+#EXTINF:-1,BBC Earth (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.24:30120
+#EXTINF:-1,Cartoon Network (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.2.231:30120
+#EXTINF:-1,[V] HD (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.1.188:30120
+#EXTINF:-1,Cinema World (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.142:30120
+#EXTINF:-1,Da Vinci Kids (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.197:30120
+#EXTINF:-1,Discovery Asia (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.223:30120
+#EXTINF:-1,Disney Channel (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.158:30120
+#EXTINF:-1,Fashion TV (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.227:30120
+#EXTINF:-1,FOX HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.51:30120
+#EXTINF:-1,FOX Life (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.237:30120
+#EXTINF:-1,FOX MOVIES (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.239:30120
+#EXTINF:-1,FOX SPORTS (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.229:30120
+#EXTINF:-1,FOX SPORTS 2 (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.1.141:30120
+#EXTINF:-1,FOX SPORTS 3 (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.242:30120
+#EXTINF:-1,GEM (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.1.60:30120
+#EXTINF:-1,HBO HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.233:30120
+#EXTINF:-1,KIX (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.144:30120
+#EXTINF:-1,MAX BY HBO (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.86:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.235:30120
+#EXTINF:-1,Outdoor Channel (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.215:30120
+#EXTINF:-1,RED BY HBO (HD 6Mbps)
+http://42.116.173.33:4022/udp/225.1.1.93:30120
+#EXTINF:-1,TLC (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.103:30120
+#EXTINF:-1,WBTV (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.139:30120
+#EXTINF:-1,ANIMAL PLANET
+http://42.116.173.33:4022/udp/225.1.1.231:30120
+#EXTINF:-1,Arirang
+http://42.116.173.33:4022/udp/225.1.1.201:30120
+#EXTINF:-1,Australia Plus
+http://42.116.173.33:4022/udp/225.1.2.21:30120
+#EXTINF:-1,BBC Lifestyle
+http://42.116.173.33:4022/udp/225.1.2.52:30120
+#EXTINF:-1,BBC WORLD NEWS
+http://42.116.173.33:4022/udp/225.1.2.74:30120
+#EXTINF:-1,BBC WORLD NEWS
+http://42.116.173.33:4022/udp/225.1.2.100:30120
+#EXTINF:-1,CHANNEL NEWS ASIA
+http://42.116.173.33:4022/udp/225.1.1.202:30120
+#EXTINF:-1,CNBC
+http://42.116.173.33:4022/udp/225.1.1.227:30120
+#EXTINF:-1,CNN
+http://42.116.173.33:4022/udp/225.1.1.242:30120
+#EXTINF:-1,Disney Junior
+http://42.116.173.33:4022/udp/225.1.1.233:30120
+#EXTINF:-1,DIVA
+http://42.116.173.33:4022/udp/225.1.1.199:30120
+#EXTINF:-1,FRANCE 24
+http://42.116.173.33:4022/udp/225.1.2.211:30120
+#EXTINF:-1,KBS WORLD
+http://42.116.173.33:4022/udp/225.1.1.196:30120
+#EXTINF:-1,TLC
+http://42.116.173.33:4022/udp/225.1.1.236:30120
+#EXTINF:-1,Dolife Hospital
+http://42.116.173.33:4022/udp/225.1.1.127:30120
+#EXTINF:-1,The Mira Hotel
+http://42.116.173.33:4022/udp/225.1.1.123:30120
+#EXTINF:-1,The Ocean Resort
+http://42.116.173.33:4022/udp/225.1.1.121:30120
+#EXTINF:-1,FPT Giới Thiệu Chương Trình
+http://42.116.173.33:4022/udp/225.1.1.2:30120
+#EXTINF:-1,FPT Giới Thiệu Dịch Vụ
+http://42.116.173.33:4022/udp/225.1.1.137:30120
+#EXTINF:-1,FPT Mở két (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.26:30120
+#EXTINF:-1,FPT Thể Thao
+http://42.116.173.33:4022/udp/225.1.2.252:30120
+#EXTINF:-1,FPT Thử Nghiệm (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.59:30120
+#EXTINF:-1,FPT Thử Nghiệm (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.60:30120
+#EXTINF:-1,FPT Thử Nghiệm (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.2.61:30120
+#EXTINF:-1,FPT Trực tiếp 1 (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.35:30120
+#EXTINF:-1,FPT Trực tiếp 2 (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.37:30120
+#EXTINF:-1,FPT Trực tiếp 1 (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.94:30120
+#EXTINF:-1,FPT Trực tiếp 2 (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.95:30120
+#EXTINF:-1,VTVCab11 _ VGS SHOP
+http://42.116.173.33:4022/udp/225.1.2.167:30120
+#EXTINF:-1,VTVCab13 _ VTV Hyundai Homeshopping
+http://42.116.173.33:4022/udp/225.1.1.122:30120
+#EXTINF:-1,HTV Coop
+http://42.116.173.33:4022/udp/225.1.1.210:30120
+#EXTINF:-1,HTVC VGS SHOP
+http://42.116.173.33:4022/udp/225.1.1.172:30120
+#EXTINF:-1,SCJ Shopping _ SCTV5
+http://42.116.173.33:4022/udp/225.1.1.134:30120
+#EXTINF:-1,Sao Nam Shopping _ SCTV10
+http://42.116.173.33:4022/udp/225.1.2.205:30120
+#EXTINF:-1,BLUE ANT ENTERTAINMENT (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.175:30120
+#EXTINF:-1,BLUE ANT EXTREME (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.176:30120
+#EXTINF:-1,BLUE ANT ENTERTAINMENT (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.203:30120
+#EXTINF:-1,BLUE ANT EXTREME (HD 8Mbps)
+http://42.116.173.33:4022/udp/225.1.1.204:30120
+#EXTINF:-1,animal planet (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.232:30120
+#EXTINF:-1,Fashion 4K
+http://42.116.173.33:4022/udp/225.1.1.20:30120
+
+#EXTINF:-1,VTC2 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.41:30120
+#EXTINF:-1,VTC3 HD (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.42:30120
+#EXTINF:-1,yeah1!Family _ VTC4 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.43:30120
+#EXTINF:-1,VTC5 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.44:30120
+#EXTINF:-1,VTC6 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.45:30120
+#EXTINF:-1,todayTV _ VTC7 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.46:30120
+#EXTINF:-1,VTC8 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.47:30120
+#EXTINF:-1,VTC9 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.48:30120
+#EXTINF:-1,NETVIET _ VTC10 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.49:30120
+#EXTINF:-1,kidsTV _ VTC11 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.50:30120
+#EXTINF:-1,VTC13 HD (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.52:30120
+#EXTINF:-1,VTC14 HD (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.53:30120
+#EXTINF:-1,VTC16 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.54:30120
+#EXTINF:-1,HTV1 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.55:30120
+#EXTINF:-1,Vie CHANNEL _ HTV2 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.56:30120
+#EXTINF:-1,dreamsTV _ HTV3 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.57:30120
+#EXTINF:-1,HTV Keys (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.58:30120
+#EXTINF:-1,HTV (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.68:30120
+#EXTINF:-1,DU LỊCH VÀ CUỘC SỐNG (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.67:30120
+#EXTINF:-1,FBNC (HD) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.70:30120
+#EXTINF:-1,GIA ĐÌNH (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.64:30120
+#EXTINF:-1,HTVC PHIM (HD) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.63:30120
+#EXTINF:-1,PHỤ NỮ (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.66:30120
+#EXTINF:-1,Thuần Việt (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.61:30120
+#EXTINF:-1,Thuần Việt HD (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.62:30120
+#EXTINF:-1,PHIM HAY (50i) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.77:30120
+#EXTINF:-1,NCM _ BTV10 (50i) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.83:30120
+#EXTINF:-1,SAM _ BTV11 (50i) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.84:30120
+#EXTINF:-1,BTV6 2!IDOL _ Vietteen (50i) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.78:30120
+#EXTINF:-1,QTV3 _ Truyền hình Quảng Ninh (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.86:30120
+#EXTINF:-1,BPTV2 _ HOME tv (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.80:30120
+#EXTINF:-1,BTV2 HD _ Truyền hình Bình Dương (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.81:30120
+#EXTINF:-1,iMOVIE TV HD PHIM CHỌN LỌC _ BTV4 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.82:30120
+#EXTINF:-1,THVL2 _ Truyền hình Vĩnh Long (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.87:30120
+#EXTINF:-1,ABC AUSTRALIA (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.19:30120
+#EXTINF:-1,afc asian food channel (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.36:30120
+#EXTINF:-1,animal planet (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.27:30120
+#EXTINF:-1,arirang KOREA (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.74:30120
+#EXTINF:-1,AXN (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.9:30120
+#EXTINF:-1,Baby First (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.28:30120
+#EXTINF:-1,Baby tv (HD) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.35:30120
+#EXTINF:-1,BBC Cbeebies (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.29:30120
+#EXTINF:-1,BBC WORLD NEWS (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.22:30120
+#EXTINF:-1,BLOOMBERG (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.18:30120
+#EXTINF:-1,BOOMERANG (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.16:30120
+#EXTINF:-1,CARTOON NETWORK (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.13:30120
+#EXTINF:-1,CHANNEL NEWS ASIA (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.76:30120
+#EXTINF:-1,Cinema World (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.15:30120
+#EXTINF:-1,CNN (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.17:30120
+#EXTINF:-1,[V] (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.30:30120
+#EXTINF:-1,Da Vinci/DIVA??? (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.38:30120
+#EXTINF:-1,DISCOVERY asia. (HD) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.25:30120
+#EXTINF:-1,DISCOVERY CHANNEL (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.24:30120
+#EXTINF:-1,DW (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.75:30120
+#EXTINF:-1,FASHION TV (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.20:30120
+#EXTINF:-1,FOX HD (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.33:30120
+#EXTINF:-1,FOX life (HD) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.32:30120
+#EXTINF:-1,FRANCE 24 (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.71:30120
+#EXTINF:-1,KBS WORLD (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.69:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.31:30120
+#EXTINF:-1,NHK WORLD JAPAN (HD) (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.73:30120
+#EXTINF:-1,Outdoor CHANNEL (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.37:30120
+#EXTINF:-1,TLC (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.26:30120
+#EXTINF:-1,WBTV (FPT Play)
+http://42.116.173.33:4022/udp/225.1.4.14:30120
+#EXTINF:-1,FPT Mở két (HD 4Mbps)
+http://42.116.173.33:4022/udp/225.1.1.97:30120
+
