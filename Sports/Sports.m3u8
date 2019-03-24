@@ -466,6 +466,10 @@ http://m-iptv.net:6204/NABIL1/123/15638
 http://m-iptv.net:6204/NABIL1/123/15637
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png"  group-title="Turkish Sports",beIN Sports 4
 http://m-iptv.net:6204/NABIL1/123/15636
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Turkish Sports", EuroSports 1 Türkçe
+http://m-iptv.net:6204/NABIL1/123/15652
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Turkish Sports", EuroSports 2 Türkçe
+http://m-iptv.net:6204/NABIL1/123/15651
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/123301_logo_tivibu_spor_5.png"  group-title="Turkish Sports",Tivibu Spor 1
 http://m-iptv.net:6204/NABIL1/123/6512
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/123302_logo_tivibu_spor_5.png"  group-title="Turkish Sports",Tivibu Spor 2
@@ -474,7 +478,8 @@ http://m-iptv.net:6204/NABIL1/123/6513
 http://m-iptv.net:6204/NABIL1/123/6514
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/123304_logo_tivibu_spor_7.png"  group-title="Turkish Sports",Tivibu Spor 4
 http://m-iptv.net:6204/NABIL1/123/15647
-
+#EXTINF:-1  tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="Turkey (Türkiye)",TRT Sports
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein-NBA.gif" group-title="Basketball",beIN Sports NBA
 http://m-iptv.net:6204/NABIL1/123/6434
@@ -776,10 +781,7 @@ http://176.124.97.248:5000/3/index.m3u8
 http://m-iptv.net:6204/NABIL1/123/8414
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="EuroSports", EuroSports 2 Svenska
 http://m-iptv.net:6204/NABIL1/123/8143
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="EuroSports", EuroSports 1 Türkçe
-http://m-iptv.net:6204/NABIL1/123/15652
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="EuroSports", EuroSports 2 Türkçe
-http://m-iptv.net:6204/NABIL1/123/15651
+
 
 #EXTINF:-1 tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_PL_Logo_Primary_RGB.png" group-title="Flow Sports",Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
