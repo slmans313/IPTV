@@ -51,6 +51,9 @@ http://m-iptv.net:6204/NABIL1/123/10407
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Luxe_TV.png/250px-Luxe_TV.png" group-title="Entertainment",Luxe
 http://210.210.155.35/x6bnqe/s/s65/index1.m3u8
 
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/Lifetime.uk.png" group-title="Entertainment", Life Time
+http://m-iptv.net:6204/NABIL1/123/10404
+
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Syfy.us.png" group-title="Entertainment", SyFy 
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/875
 
@@ -160,11 +163,8 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Discovery",Discovery USA (PST)
 http://103.242.13.90:5555/udp/239.4.2.19:10000
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Discovery", 探索频道 - 台湾 (Discovery Taiwan)
-http://122.146.68.116:4046/VideoInput/play.ts
-
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/DiscoveryFamily.us.png" group-title="Discovery", Discovery Family
-http://111.90.151.57:8080/liviu/12345/77148
+http://m-iptv.net:6204/NABIL1/123/10423
  
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="Discovery", Discovery Science
 http://m-iptv.net:6204/NABIL1/123/8566
