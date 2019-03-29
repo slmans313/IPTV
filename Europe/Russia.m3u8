@@ -844,8 +844,6 @@ http://ott-cdn.ucom.am/s11/index.m3u8
 #EXTINF:0 tvg-logo="http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png" group-title="Armenia(Հայաստան)",ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 
-#EXTINF:0 tvg-logo="https://atv.am//img/atv_logo_.png" group-title="Armenia(Հայաստան)",Armenia TV
-http://ott-cdn.ucom.am/s8/index.m3u8
 
 #EXTINF:0 tvg-logo="https://armeniatv.am/pics/logo_1.png" group-title="Armenia(Հայաստան)", Armenia TV
 http://ott-cdn.ucom.am/s4/index.m3u8
@@ -863,6 +861,9 @@ http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/LUsP2re.png" group-title="Armenia(Հայաստան)",Аrmenia TV Premium 6
 http://ott-cdn.ucom.am/s66/index.m3u8
 
+
+#EXTINF:0 tvg-logo="https://atv.am//img/atv_logo_.png" group-title="Armenia(Հայաստան)",ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001122645867.png" group-title="Armenia(Հայաստան)", ATV ԽԱՂԱԼԻՔ
 http://ott-cdn.ucom.am/s74/index.m3u8
 
@@ -880,9 +881,6 @@ http://ott-cdn.ucom.am/s53/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.azatutyun.am/Content/responsive/RFE/hy-AM/img/logo.png" group-title="Armenia(Հայաստան)",Ազատություն TV
 http://ott-cdn.ucom.am/s3/index.m3u8
-
-#EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
-http://213.162.202.9:8000/play/a01k/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
 http://ott-cdn.ucom.am/s5/index.m3u8
@@ -913,8 +911,6 @@ http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
 #EXTINF:0 tvg-logo="https://belarus24.by/local/templates/belarus24.responsive/images/logo-company.png" group-title="Belarus(Беларусь)",Беларусь 24
 http://stream.euroasia.lfstrm.tv/belarus_24/1/index.m3u8
-#EXTINF:0 tvg-logo="https://belarus24.by/local/templates/belarus24.responsive/images/logo-company.png" group-title="Belarus(Беларусь)",Беларусь 24
-http://stream.hoster.by/belarus24/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://belarus24.by/local/templates/belarus24.responsive/images/logo-company.png" group-title="Belarus(Беларусь)",Беларусь 24
 http://212.8.233.150:8081/temp/b24/playlist.m3u8
 
@@ -959,32 +955,21 @@ http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="Georgia (საქართველო)", Pirveli Arxi (1TV)
 http://188.35.9.103:8031/udp/117k
 
-#EXTINF:-1 tvg-logo="http://ajaratv.ge/images/logo.png" group-title="Georgia (საქართველო)", Adjara 
-https://streaming.televizia.org/live/hls/2Gb1iZO0oMkT-fiEpN2GFA/1552921654/adjara.m3u8
+#EXTINF:-1 tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="Georgia (საქართველო)", Rustavi 2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sat-address.com/f/pics/Stations/Enki-Benki-TV_o.jpg group-title="Georgia (საქართველო)", Enki-Benki
+
+#EXTINF:-1 tvg-logo="https://www.sat-address.com/f/pics/Stations/Enki-Benki-TV_o.jpg" group-title="Georgia (საქართველო)", Enki-Benki
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imedi.ge/m/i/logo.png" group-title="Georgia (საქართველო)", Imedi
 http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.imedi.ge/m/i/logo.png" group-title="Georgia (საქართველო)", Imedi
-http://hls.t.stream-dns.net/hls/imedi/dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_marao.png" group-title="Georgia (საქართველო)", Marao
-https://streaming.televizia.org/live/hls/tzYUuGiFMBtqjQa90v8O2g/1552921520/marao.m3u8
 
 #EXTINF:-1 tvg-logo="http://musicbox.ge/wp-content/themes/mythememusicbox/img/logo.png" group-title="Georgia (საქართველო)", Music Box Georgia
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.palitravideo.ge/images/stories/palitratvlogo.png" group-title="Georgia (საქართველო)", Palitra News
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="Georgia (საქართველო)", Rustavi 2
-http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
-
-#EXTINF:-1 tvg-logo="http://silktv.ge/images/silktv_logo.png" group-title="Georgia (საქართველო)", Silk TV
-https://streaming.televizia.org/live/hls/-pZ9gb9L3rAnfBjMPQodfg/1552921316/silk.m3u8
 
 #EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2018/02/LOG-e1518435929410.png" group-title="Kazakhstan (Казахстан)",Первый канал Евразия 
 http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
