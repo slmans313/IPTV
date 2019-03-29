@@ -681,9 +681,11 @@ http://tvk6.ru/tv/hls/tvk6-hi.m3u8
 #EXTINF:-1 tvg-logo="http://www.tkr.su/sites/default/files/logo_vsn_0_0.gif" group-title="Russia (Россия)",ТКР
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.ahtaritv.ru/templates/zetes/images/logo.png" group-title="Russia (Россия)",ТРК АТВ
+http://ahtarirtv.ru:8081/atv/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.guberniatv.ru/img/logo.png" group-title="Russia (Россия)",ТРК Губерния
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3799283_logo_tivikom_ulan_ude.png" group-title="Russia (Россия)",Tivikom Ulan-Udje
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
@@ -712,6 +714,9 @@ http://live.trk-luch.ru/hls/live_hi.m3u8
 
 #EXTINF:-1 tvg-logo="http://molbuk.ua/uploads/posts/2012-10/1351071555_trk-chernvc.jpg" group-title="Russia (Россия)",ТРК Черновцы
 http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia (Россия)",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/68.png" group-title="Russia (Россия)",TV1000
 http://stream.euroasia.lfstrm.tv/tv1000/1/index.m3u8
@@ -1364,6 +1369,9 @@ http://46.175.163.130/vod/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tretiy.tv/wp-content/uploads/2017/12/logo.png" group-title="Ukraine(Україна)",Третий Цифровой
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://krug.com.ua/public/images/logo-krug.png" group-title="Ukraine(Україна)",ТРК Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv5.zp.ua/wp-content/uploads/2017/02/logo_header2.png" group-title="Ukraine(Україна)",TV5
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
