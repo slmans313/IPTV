@@ -108,6 +108,9 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/2plus2.png" group-title="Russia (Россия)", 2+2
 http://cdn.videosofsport1.live/hls/d8f5_UfwYuOqQmNsAGU9Ow/1552805335/2plus2.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2x2_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB._%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.jpg/330px-2x2_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB._%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.jpg" group-title="Russia (Россия)", 2X2
+http://78.29.1.71/live/2x2tv/copy/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Russia (Россия)",360°
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 
@@ -142,6 +145,8 @@ http://176.101.224.21:8080/udp/239.195.32.14:1234
 http://109.70.184.20:8080/udp/239.195.32.14:1234
 #EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)", 5 канал
 http://188.242.201.77:4022/udp/239.239.1.4:5239
+#EXTINF:-1 tvg-logo="https://img5tv.cdnvideo.ru/shared/img/logo_white.png" group-title="Russia (Россия)", 5 канал
+http://78.29.1.71/live/5kanal/copy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://ots-net.ru/images/upload/news/LOGOHD.png group-title="Russia (Россия)",7 TV
 http://v1.proofix.ru/live-tv7/stream1/playlist.m3u8
@@ -300,6 +305,8 @@ http://109.70.184.20:8080/udp/239.195.32.10:1234
 http://ott-cdn.ucom.am/s88/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png" group-title="Russia (Россия)",Домашний
 http://stream.euroasia.lfstrm.tv/domashniy/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png" group-title="Russia (Россия)",Домашний
+http://78.29.1.71/live/domashny/copy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.domkino.tv/images/logo240x32.png" group-title="Russia (Россия)",Дом Кино
 http://109.248.236.41:4433/udp/238.1.1.32:1234
