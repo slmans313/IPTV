@@ -782,6 +782,8 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.interntv.ru/modules/Main/image_1/zoo_park.jpg" group-title="Russia (Россия)",Зоопарк
 http://stream.euroasia.lfstrm.tv/zoopark/1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/VH1ClassicEurope.uk.png" group-title="Russia (Россия)",VH1 Classic Россия
+http://91.231.219.145/tv_vh1_classic/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" group-title="Crimea (Крым)",1 Крым
 http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
@@ -810,26 +812,32 @@ http://blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://crimea.suspilne.media/inc/img/logo.png" group-title="Crimea (Крым)", UA:Крым
 http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
 
+#EXTINF:0 tvg-logo="https://armeniatv.am/pics/logo_1.png" group-title="Armenia(Հայաստան)", 1TV
+http://ott-cdn.ucom.am/s4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.aysor.am/news_images/496/1487366_3/f5be18ba193224_5be18ba193262.thumb.jpg" group-title="Armenia(Հայաստան)", H2
+http://188.35.9.103:11031/udp/162j
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", Դար 21
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/cCVuwfC.png" group-title="Armenia(Հայաստան)", 5-րդ ալիք
-http://ott-cdn.ucom.am/s6/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.21tv.am/img/21tv.png" group-title="Armenia(Հայաստան)", Դար 21
 http://ott-cdn.ucom.am/s10/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/cCVuwfC.png" group-title="Armenia(Հայաստան)", 5-րդ ալիք
+http://ott-cdn.ucom.am/s6/index.m3u8
+
 #EXTINF:0 tvg-logo="http://www.tvradio.am/resources/menu/img/companies/small/1382432656-8546.jpeg" group-title="Armenia(Հայաստան)",ԱՐ
 http://ott-cdn.ucom.am/s9/index.m3u8
-
-#EXTINF:0 tvg-logo="https://armeniatv.am/pics/logo_1.png" group-title="Armenia(Հայաստան)", Armenia TV
-http://ott-cdn.ucom.am/s4/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.armnewstv.am/wp-content/uploads/2015/06/logo.png" group-title="Armenia(Հայաստան)",Arm News TV
 http://ott-cdn.ucom.am/s11/index.m3u8
 
 #EXTINF:0 tvg-logo="http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png" group-title="Armenia(Հայաստան)",ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+
+#EXTINF:0 tvg-logo="https://atv.am//img/atv_logo_.png" group-title="Armenia(Հայաստան)",Armenia TV
+http://ott-cdn.ucom.am/s8/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.armeniatv.am/pics/premium-h.png" group-title="Armenia(Հայաստան)", Armenia TV Premium 1
@@ -844,9 +852,6 @@ http://ott-cdn.ucom.am/s32/index.m3u8
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/LUsP2re.png" group-title="Armenia(Հայաստան)",Аrmenia TV Premium 6
 http://ott-cdn.ucom.am/s66/index.m3u8
-
-#EXTINF:0 tvg-logo="https://atv.am//img/atv_logo_.png" group-title="Armenia(Հայաստան)",ATV
-http://ott-cdn.ucom.am/s8/index.m3u8
 
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001122645867.png" group-title="Armenia(Հայաստան)", ATV ԽԱՂԱԼԻՔ
 http://ott-cdn.ucom.am/s74/index.m3u8
@@ -942,7 +947,7 @@ http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="Georgia (საქართველო)", Pirveli Arxi (1TV)
-http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+http://188.35.9.103:8031/udp/117k
 
 #EXTINF:-1 tvg-logo="http://ajaratv.ge/images/logo.png" group-title="Georgia (საქართველო)", Adjara 
 https://streaming.televizia.org/live/hls/2Gb1iZO0oMkT-fiEpN2GFA/1552921654/adjara.m3u8
