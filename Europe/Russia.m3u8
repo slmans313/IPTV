@@ -235,6 +235,9 @@ http://ott-cdn.ucom.am/s78/index.m3u8
 #EXTINF:-1 tvg-logo="https://brodilo.tv/brodilotvbanner_980_v2.png"group-title="Russia (Россия)",Brodilo TV
 http://brodilo.tv/channel.php
 
+#EXTINF:-1 tvg-logo="http://dom.mtt.ru/images/tv-channels-logo/%D0%B1%D0%B0%D1%80%D1%81.jpg"group-title="Russia (Россия)",Барс ТВ
+http://iptv.barstv.ru/hls/stream1.m3u8
+
 #EXTINF:-1 tvg-logo="https://saratov24.tv/local/templates/saratov24/images/logo.png" group-title="Russia (Россия)",Саратов 24
 http://46.165.235.6:8083/hls/saratov24/index.m3u8
 
@@ -653,6 +656,12 @@ http://109.248.236.41:4433/udp/238.1.1.88:1234
 #EXTINF:-1 tvg-logo="http://techno24.tv/static/img/logo.png" group-title="Russia (Россия)",Техно 24
 http://ott-cdn.ucom.am/s68/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://tnv.ru/images/cms/data/logotipy/tnv-planeta.png" group-title="Russia (Россия)",ТНВ-Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://tnv.ru/images/cms/data/logotipy/tnv-planeta.png" group-title="Russia (Россия)",ТНВ-Планета
+http://109.171.42.12:81/udp/239.54.5.23:1224
+
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ
 http://109.70.184.20:8080/udp/239.195.32.11:1234
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ
@@ -680,6 +689,9 @@ http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ahtaritv.ru/templates/zetes/images/logo.png" group-title="Russia (Россия)",ТРК АТВ
 http://ahtarirtv.ru:8081/atv/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvradiomd.ru/wp-content/uploads/2016/12/trofey.png" group-title="Russia (Россия)",Трофей
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
 
 #EXTINF:-1 tvg-logo="https://www.guberniatv.ru/img/logo.png" group-title="Russia (Россия)",ТРК Губерния
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -736,7 +748,7 @@ http://cdn.universmotri.ru/live/univer_kfu2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tsargrad.tv/img/logo_3x.png" group-title="Russia (Россия)",Царьград
 http://tsargrad-livehls.cdnvideo.ru/smils/tsargrad-livehls.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tv-impulse.ru/images/impulse-logo.png" group-title="Russia (Россия)",ТВ Центр/Импульс
+#EXTINF:-1 tvg-logo="https://www.tv-impulse.ru/images/impulse-logo.png" group-title="Russia (Россия)",Центр/Импульс
 https://s30160.cdn.ngenix.net/live/impulse-live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fnpm8RO.png" group-title="Russia (Россия)",Univer
@@ -851,7 +863,6 @@ http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 
 #EXTINF:0 tvg-logo="https://armeniatv.am/pics/logo_1.png" group-title="Armenia(Հայաստան)", Armenia TV
 http://ott-cdn.ucom.am/s4/index.m3u8
-
 #EXTINF:0 tvg-logo="https://www.armeniatv.am/pics/premium-h.png" group-title="Armenia(Հայաստան)", Armenia TV Premium 1
 http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/o2rwtC8.png" group-title="Armenia(Հայաստան)",Armenia TV Premium 2
@@ -865,21 +876,16 @@ http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/LUsP2re.png" group-title="Armenia(Հայաստան)",Аrmenia TV Premium 6
 http://ott-cdn.ucom.am/s66/index.m3u8
 
-
 #EXTINF:0 tvg-logo="https://atv.am//img/atv_logo_.png" group-title="Armenia(Հայաստան)",ATV
 http://ott-cdn.ucom.am/s8/index.m3u8
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001122645867.png" group-title="Armenia(Հայաստան)", ATV ԽԱՂԱԼԻՔ
 http://ott-cdn.ucom.am/s74/index.m3u8
-
 #EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/9c4fb304b8677f405d5f8172700ee5c5.png" group-title="Armenia(Հայաստան)",ATV Հայ TV
 http://ott-cdn.ucom.am/s73/index.m3u8
-
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001125854032.png" group-title="Armenia(Հայաստան)",ATV ԿԻՆՈՄԱՆ
 http://ott-cdn.ucom.am/s94/index.m3u8
-
 #EXTINF:0 tvg-logo="http://hybridtv.am/wp-content/uploads/2016/05/Filmzone-300x107.jpg" group-title="Armenia(Հայաստան)",ATV ՖԻԼՄԶՈՆ
 http://ott-cdn.ucom.am/s48/index.m3u8
-
 #EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001113216953.png" group-title="Armenia(Հայաստան)",ATV ԹԱՎԱ
 http://ott-cdn.ucom.am/s53/index.m3u8
 
@@ -889,7 +895,7 @@ http://ott-cdn.ucom.am/s3/index.m3u8
 #EXTINF:0 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
 http://ott-cdn.ucom.am/s5/index.m3u8
 
-#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001125854032.png" group-title="Armenia(Հայաստան)",USArmenia TV
+#EXTINF:0 tvg-logo="http://acrotv.com/images/broad/20181001125854032.png" group-title="Armenia(Հայաստան)",US Armenia TV
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 
 #EXTINF:0 tvg-logo="http://yerkirmedia.am/wp-content/uploads/2017/04/logo_for-site.png" group-title="Armenia(Հայաստան)", Yerkir Media
