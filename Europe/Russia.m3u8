@@ -631,13 +631,18 @@ http://109.70.184.20:8080/udp/239.195.32.15:1234
 #EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Russia (Россия)", ТВ3
 http://176.101.224.21:8080/udp/239.195.32.15:1234
 
+#EXTINF:-1 tvg-logo="https://tvk6.ru/upload/iblock/25a/25aeb5689ee5fa649ab68a406174fec4.jpg" group-title="Russia (Россия)",ТВК 24
+http://tvk6.ru/tv/hls/tvk6-hi.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.tricolor.tv/upload/iblock/0eb/0ebca2c44f0cff373693f8cd86a03e24.PNG" group-title="Russia (Россия)",Телеканал «Доктор»
 http://stream.euroasia.lfstrm.tv/24_doc/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВ Центр
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВ Центр
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
+http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telecafe.ru/images/logo-site.png" group-title="Russia (Россия)",Телекафе
 http://stream.euroasia.lfstrm.tv/telekafe/1/index.m3u8
@@ -647,7 +652,6 @@ http://109.248.236.41:4433/udp/238.1.1.88:1234
 
 #EXTINF:-1 tvg-logo="http://techno24.tv/static/img/logo.png" group-title="Russia (Россия)",Техно 24
 http://ott-cdn.ucom.am/s68/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ
 http://109.70.184.20:8080/udp/239.195.32.11:1234
@@ -662,14 +666,14 @@ http://stream.euroasia.lfstrm.tv/comedytv/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/TiJi_logo_2016.png" group-title="Russia (Россия)",Tiji
 http://stream.euroasia.lfstrm.tv/tiji/1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TravelChannel.us.png" group-title="Russia (Россия)",Travel Channel Россия
+http://stream.euroasia.lfstrm.tv/travel_channel/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg" group-title="Russia (Россия)",Тольятти 24
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
 
 #EXTINF:-1 tvg-logo="http://tochkatv.tv/wp-content/uploads/2017/09/logo.png" group-title="Russia (Россия)",Точка ТВ
 http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvk6.ru/upload/iblock/25a/25aeb5689ee5fa649ab68a406174fec4.jpg" group-title="Russia (Россия)",ТВК 24
-http://tvk6.ru/tv/hls/tvk6-hi.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tkr.su/sites/default/files/logo_vsn_0_0.gif" group-title="Russia (Россия)",ТКР
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
@@ -792,6 +796,9 @@ http://stream.euroasia.lfstrm.tv/zoopark/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/VH1ClassicEurope.uk.png" group-title="Russia (Россия)",VH1 Classic Россия
 http://91.231.219.145/tv_vh1_classic/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod-profile.pscp.tv/1lZKpYwRPRnjn/cc1b0983c5d435dc4d89887b54860f25-128.jpg" group-title="Russia (Россия)",VIVA Russia
+http://85.143.202.116/hls/viva.m3u8
 
 #EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" group-title="Crimea (Крым)",1 Крым
 http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
@@ -1329,6 +1336,9 @@ http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tviyplus.com.ua/images/stories/Diz/Main/Logo/6.png" group-title="Ukraine(Україна)",Твой Плюс
 http://62.64.92.118:8080/Apple/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tgtv.com.ua/images/logo_size.png" group-title="Ukraine(Україна)",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tretiy.tv/wp-content/uploads/2017/12/logo.png" group-title="Ukraine(Україна)",Третий Цифровой
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
