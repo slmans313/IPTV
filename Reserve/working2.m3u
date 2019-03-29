@@ -5115,7 +5115,7 @@ http://125.177.93.61:9981/stream/channelid/871854129
 #EXTINF:-1,CCTV4
 http://125.177.93.61:9981/stream/channelid/578191159
 #EXTINF:-1,MBC
-http://14.56.230.103:9981/stream/channelid/1333311166
+http://14.56.230.103:9981/stream/channelid/1333311166?profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="ebad9cc6a19ec69d2897c05bb29c545d" tvg-chno="5",SBS
 http://14.56.230.103:9981/stream/channelid/1184673259?profile=pass
 #EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="f8a03a42a5409be266529ed7787a6986" tvg-chno="5",SBS
@@ -5550,12 +5550,6 @@ http://stream.euroasia.lfstrm.tv/toy_duman/1/index.m3u8
 http://live.tomsk-time.ru/hls/live.m3u8
 #EXTINF:-1,Точка отрыва
 http://109.248.236.41:4433/udp/238.1.1.127:1234
-#EXTINF:-1,Три Ангела
-http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1,ТРК АТВ
-http://ahtarirtv.ru:8081/atv/tv/playlist.m3u8
-#EXTINF:-1,ТРК Круг
-http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 #EXTINF:-1,ТРК Надым
 http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
 #EXTINF:-1,ТРК Рудана (Кривой Рог)
