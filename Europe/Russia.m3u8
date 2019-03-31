@@ -318,6 +318,9 @@ http://live.planeta-online.tv:1935/public/channel_130/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.toptv.tv/wp-content/uploads/2018/04/%D0%94%D0%BE%D0%BC-%D0%9A%D0%B8%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC-HD.png" group-title="Russia (Россия)",Дом Кино Премиум
 http://109.248.236.41:4433/udp/238.1.1.66:1234
 
+#EXTINF:-1 tvg-logo="https://www.drive.ru/images/logo.png" group-title="Russia (Россия)",Драйв
+http://stream.euroasia.lfstrm.tv/drive/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.extremtv.ru/files/re-hd.png" group-title="Russia (Россия)", Русский Экстрим
 http://ott-cdn.ucom.am/s47/index.m3u8
 
@@ -1266,6 +1269,9 @@ http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/d/db/0714266001516787356.png/revision/latest?cb=20181028143947&path-prefix=ru" group-title="Ukraine(Україна)",Донеччина
 http://stream.dn.ua/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://donbass.tv/images/default/logo_donbass.png" group-title="Ukraine(Україна)",Донба́сс
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
 
 #EXTINF:-1 tvg-logo="https://dumskaya.net/i3/logotv.png" group-title="Ukraine(Україна)",EДумская TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
