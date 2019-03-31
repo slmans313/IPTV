@@ -199,14 +199,14 @@ http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://variant-v.ru/template/img/logo1.png" group-title="Russia (Россия)",Вариант ТВ
 http://xn----7sbagd7azbvv.xn--p1ai/online/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vremya.tv/images/logo.png" group-title="Russia (Россия)",Время
-http://109.248.236.41:4433/udp/238.1.1.33:1234
+#EXTINF:-1 tvg-logo="http://varjag.net/wp-content/uploads/2015/03/logo-piskun.png" group-title="Russia (Россия)",Варяг-Еврокино
+http://87.252.229.252:8081/varag
 
 #EXTINF:-1 tvg-logo="https://vetta.tv/bitrix/templates/vetta/images/LOGA_VETTA24.png" group-title="Russia (Россия)",Ветта 24
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.belnovosti.ru/sites/all/themes/belnovosti/i/belgorod24-logo.png" group-title="Russia (Россия)",ББелгород 24
-http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo-vmeste-rf_tv.svg/1200px-Logo-vmeste-rf_tv.svg.png" group-title="Russia (Россия)",Вместе РФ
+http://serv25.vintera.tv:8081/test/vmesterf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://trknadym.ru/upload/medialibrary/147/img-logo-2222.png" group-title="Russia (Россия)",Вестник Надыма
 http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
@@ -217,7 +217,7 @@ https://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s.glaz.tv/images/logos/tv/big/boec-tv.jpg" group-title="Russia (Россия)",Боец ТВ
 http://176.124.97.248:5000/5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://avk-wellcom.ru/images/bober_tv2.png group-title="Russia (Россия)",Бобёр
+#EXTINF:-1 tvg-logo="https://avk-wellcom.ru/images/bober_tv2.png" group-title="Russia (Россия)",Бобёр
 http://stream.euroasia.lfstrm.tv/bober/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/01/24/76/channel!qsx.png" group-title="Russia (Россия)",Bollywood
@@ -225,6 +225,13 @@ http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.volplus.ru/assets/img/logo_vlz_plus.png" group-title="Russia (Россия)",Волжский Плюс
 http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.belnovosti.ru/sites/all/themes/belnovosti/i/belgorod24-logo.png" group-title="Russia (Россия)",ББелгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vremya.tv/images/logo.png" group-title="Russia (Россия)",Время
+http://109.248.236.41:4433/udp/238.1.1.33:1234
+
 
 #EXTINF:-1 tvg-logo="https://www.logosurfer.com/wp-content/uploads/2018/03/bridge-tv-logo_0.png" group-title="Russia (Россия)",Bridge TV 
 http://ott-cdn.ucom.am/s34/index.m3u8
@@ -299,6 +306,15 @@ http://78.29.1.71/live/domashny/copy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.domkino.tv/images/logo240x32.png" group-title="Russia (Россия)",Дом Кино
 http://109.248.236.41:4433/udp/238.1.1.32:1234
 
+#EXTINF:-1 tvg-logo="https://www.domkino.tv/images/logo240x32.png" group-title="Russia (Россия)",Дом Кино
+http://stream.euroasia.lfstrm.tv/dom_kino/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://telekanaldetskiy.ru/images/detskiy_logo.png" group-title="Russia (Россия)",Детский
+http://stream.euroasia.lfstrm.tv/detskiy/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a000001655713364d339dc4243b0f3c28b8/260x160" group-title="Russia (Россия)",Дайвинг TV
+http://live.planeta-online.tv:1935/public/channel_130/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.toptv.tv/wp-content/uploads/2018/04/%D0%94%D0%BE%D0%BC-%D0%9A%D0%B8%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC-HD.png" group-title="Russia (Россия)",Дом Кино Премиум
 http://109.248.236.41:4433/udp/238.1.1.66:1234
 
@@ -352,6 +368,9 @@ http://ott-cdn.ucom.am/s50/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv-gubernia.ru/templates/tnt/images/logo.png" group-title="Russia (Россия)",Губерния
 http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://365tv.online/wp-content/uploads/2018/05/kanal-gornaya-strana-210x142.png" group-title="Russia (Россия)",Горная Страна
+http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gulli.ru/site/img/logo.png" group-title="Russia (Россия)",Gulli Girl
 http://stream.euroasia.lfstrm.tv/gulli/1/index.m3u8
@@ -577,7 +596,7 @@ http://dfmvideo.gcdn.co/streams/1410_651/720n/index.m3u8
 http://live-emg.cdnvideo.ru/emg/smil:emg.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://govoritmoskva.ru/static/images/new-logo.png" group-title="Russia (Россия)",Радио Говорит Москва
-http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+http://video.govoritmoskva.ru:8080/rufm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.maks-fm.ru/sites/all/themes/maksfm/logo.png" group-title="Russia (Россия)",Радио Макс
 http://live.maksmedia.cdnvideo.ru/maksmedia/maksfm2.sdp/playlist.m3u8
@@ -1235,17 +1254,33 @@ http://jabber.divan.tv:8002/tv.m3u8
 #EXTINF:-1 tvg-logo="http://www.vtvplus.com.ua/templates/ua/images/logo.png" group-title="Ukraine(Україна)", ВТВ-Плюс
 http://iptv.rubintele.com:8552/play/a007
 
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/media.votv.media/static/img/tvLogo.jpg" group-title="Ukraine(Україна)",Возрождение
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cv.suspilne.media/inc/img/logo-26.png" group-title="Ukraine(Україна)",Буковина
 http://194.8.145.85:8066/livemobile/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://sk1.tv/images/logo.png" group-title="Ukraine(Україна)",СК1
 http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/d/db/0714266001516787356.png/revision/latest?cb=20181028143947&path-prefix=ru" group-title="Ukraine(Україна)",Донеччина
+http://stream.dn.ua/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://dumskaya.net/i3/logotv.png" group-title="Ukraine(Україна)",EДумская TV
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://eco-tv.com.ua/assets/template/img/logo.png" group-title="Ukraine(Україна)",Еко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/999px-GTV_%282017%29.svg.png" group-title="Ukraine(Україна)",G TV
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://galtv.if.ua/assets/images/logo.png" group-title="Ukraine(Україна)",Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+
+#EXTINF:-1 tvg-logo="http://xittv.net/img/can/78.png" group-title="Ukraine(Україна)",Громадське
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nta.ua/wp-content/uploads/2017/04/favicon-1.png"group-title="Ukraine(Україна)",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
@@ -1375,9 +1410,6 @@ https://webcams.ks.ua/tvhls/stream2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://yatb.tv/wp-content/uploads/2018/03/73d917e7-logo.jpg" group-title="Ukraine(Україна)",ЯТБ
 http://46.175.163.130/vod/8/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://xittv.net/img/can/78.png" group-title="Ukraine(Україна)",Громадське
-http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
 
 #EXTINF:-1 tvg-logo="https://volnatv.com/templates/volnatv/images/logo.png" group-title="Ukraine(Україна)",Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
