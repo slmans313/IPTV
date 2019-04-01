@@ -475,7 +475,7 @@ http://cdn.illi.tv/illitv_2000/index.m3u8
 #EXTINF:-1 tvg-logo="http://illusionplus.tv/images/logonew.png" group-title="Russia (Россия)",Иллюзион
 http://stream.euroasia.lfstrm.tv/illusion_plus/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20180928161402579.png group-title="Russia (Россия)",История
+#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20180928161402579.png"group-title="Russia (Россия)",История
 http://ott-cdn.ucom.am/s40/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://june-tv.ru/bitrix/templates/june_2014/images/header_logo_compact80.png" group-title="Russia (Россия)",Июнь ТВ
@@ -499,7 +499,7 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://karapuztv.ru/templates/games-world/images/gameworld.png" group-title="Russia (Россия)",Karapuz
 http://online.karapuztv.ru/content/33418/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://kinopokaz.tv/img/logo_next.png group-title="Russia (Россия)",Кинопоказ
+#EXTINF:-1 tvg-logo="http://kinopokaz.tv/img/logo_next.png"group-title="Russia (Россия)",Кинопоказ
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 
 #EXTINF:-1 tvg-logo="https://www.katun24.ru/bitrix/templates/k24/images/logo.png" group-title="Russia (Россия)",Катунь 24
@@ -1460,10 +1460,13 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
 #EXTINF:-1 tvg-logo="http://o-tv.tv/img/logo.png" group-title="Ukraine(Україна)",OTV
 http://212.26.146.148/hls/otv.m3u8
 
-#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png group-title="Ukraine(Україна)",Рада
+#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Ukraine(Україна)",Рада
 http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png group-title="Ukraine(Україна)",Рада
+#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Ukraine(Україна)",Рада
 http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rudana.com.ua/sites/all/themes/rudana/logo.png" group-title="Ukraine(Україна)",Рудана ТВ
+http://134.249.128.243/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510605239_renome-tv.png" group-title="Ukraine(Україна)", Renome TV
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
