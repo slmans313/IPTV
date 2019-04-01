@@ -314,6 +314,9 @@ http://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rgvktv.ru/templates/gk_gamenews/images/logo.png" group-title="Russia (Россия)",Дагестан
 http://broadcast.rgvk.tv/hls/576p.m3u8
 
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/02/za7.png" group-title="Russia (Россия)",Домашние Животные
+http://109.248.236.41:4433/udp/238.1.1.107:1234
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png" group-title="Russia (Россия)",Домашний
 http://ott-cdn.ucom.am/s88/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/1200px-Domashniy_tv_logo.svg.png" group-title="Russia (Россия)",Домашний
@@ -329,9 +332,6 @@ http://stream.euroasia.lfstrm.tv/dom_kino/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://telekanaldetskiy.ru/images/detskiy_logo.png" group-title="Russia (Россия)",Детский
 http://stream.euroasia.lfstrm.tv/detskiy/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a000001655713364d339dc4243b0f3c28b8/260x160" group-title="Russia (Россия)",Дайвинг TV
-http://live.planeta-online.tv:1935/public/channel_130/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.toptv.tv/wp-content/uploads/2018/04/%D0%94%D0%BE%D0%BC-%D0%9A%D0%B8%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC-HD.png" group-title="Russia (Россия)",Дом Кино Премиум
 http://109.248.236.41:4433/udp/238.1.1.66:1234
@@ -790,6 +790,9 @@ http://stream.euroasia.lfstrm.tv/24_doc/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://skazka-tv.ru/tem/img/logo-cj.png" group-title="Russia (Россия)",Телеканал «В гостях у сказки»
 http://109.248.236.41:4433/udp/238.1.1.98:1234
 
+#EXTINF:-1 tvg-logo="http://teletravel.tv/assets/logo-header-5c45c1d5a95358ae14c2e49de4594df6fa31f22e29805e02cc9cfaffda5edfa6.png" group-title="Russia (Россия)",Телепутешествия
+http://ott-cdn.ucom.am/s71/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
@@ -906,6 +909,9 @@ http://tsargrad-livehls.cdnvideo.ru/smils/tsargrad-livehls.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tv-impulse.ru/images/impulse-logo.png" group-title="Russia (Россия)",Центр/Импульс
 https://s30160.cdn.ngenix.net/live/impulse-live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/ctv.png" group-title="Russia (Россия)",ЦТВ
+http://ott-cdn.ucom.am/s20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fnpm8RO.png" group-title="Russia (Россия)",Univer
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
