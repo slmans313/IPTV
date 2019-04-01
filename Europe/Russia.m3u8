@@ -879,6 +879,9 @@ http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlis
 #EXTINF:-1 tvg-logo="http://trk555.tv/wp-content/uploads/2017/09/logo200_2.png" group-title="Russia (Россия)",ТPK 555 Алушта
 http://trk555.tv:8888/live
 
+#EXTINF:-1 tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" group-title="Russia (Россия)",ТРК Евразия
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://trc33.ru/images/logo_8_marta.png" group-title="Russia (Россия)",ТРК Губерния 33
 http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 
@@ -888,8 +891,8 @@ http://live2.mediacdn.ru/sr1/tvbrics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvmchannel.ru//images/logo/logo-2.png" group-title="Russia (Россия)",TVM Channel
 http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" group-title="Russia (Россия)",ТРК Евразия
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvpro-online.ru/images/logo.png" group-title="Russia (Россия)",TV PRO
+http://rtmp.lovedrink.ru/hls/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="http://trk-luch.ru.opt-images.1c-bitrix-cdn.ru/bitrix/templates/.default/static/images/logo.png" group-title="Russia (Россия)",ТРК Луч
 http://live.trk-luch.ru/hls/live_hi.m3u8
