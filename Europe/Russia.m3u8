@@ -472,6 +472,9 @@ http://stream.euroasia.lfstrm.tv/illusion_plus/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20180928161402579.png group-title="Russia (Россия)",История
 http://ott-cdn.ucom.am/s40/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://june-tv.ru/bitrix/templates/june_2014/images/header_logo_compact80.png" group-title="Russia (Россия)",Июнь ТВ
+https://hls.m-ten.ru/hls/21/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/K1_62014.jpg" group-title="Russia (Россия)",K1
 http://109.68.40.67/life/k1.m3u8
 
@@ -484,7 +487,10 @@ http://176.101.224.21:8080/udp/239.195.32.20:1234
 #EXTINF:-1 tvg-logo="https://www.tricolor.tv/upload/iblock/d70/d70d8f313d1b9e068e50d8fbf690dd97.png" group-title="Russia (Россия)",Канал «Ultra HD Cinema»
 http://85.112.114.12:8080/ch799/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://karapuztv.ru/templates/games-world/images/gameworld.png" group-title="Russia (Россия)",Karapuz TV
+#EXTINF:-1 tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" group-title="Russia (Россия)",Каббала
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://karapuztv.ru/templates/games-world/images/gameworld.png" group-title="Russia (Россия)",Karapuz
 http://online.karapuztv.ru/content/33418/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv-russia.info/wp-content/uploads/2016/11/КиноМеню-HD-TVjyy-326x235.jpg" group-title="Russia (Россия)",KinoMenu
@@ -543,7 +549,6 @@ http://ott-cdn.ucom.am/s28/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.moya-planeta.ru/templates/images/main/logo.png" group-title="Russia (Россия)",Моя Планета
 http://stream.euroasia.lfstrm.tv/moya_planeta/1/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://mtvmix.ru/meropriyatiya/images/500.png" group-title="Russia (Россия)",MTV Mix
 http://81.30.182.82:18092/hls/live.m3u8
@@ -639,9 +644,6 @@ http://176.107.213.20:9000/play/a001
 
 #EXTINF:-1 tvg-logo="http://yamal-region.tv/_pic/logo_top.png" group-title="Russia (Россия)",Ямал-Регион
 http://live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://june-tv.ru/bitrix/templates/june_2014/images/header_logo_compact80.png" group-title="Russia (Россия)",Июнь ТВ
-https://hls.m-ten.ru/hls/21/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Russia (Россия)",RBC
 http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
