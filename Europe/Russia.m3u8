@@ -505,8 +505,20 @@ http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 #EXTINF:-1 tvg-logo="https://www.katun24.ru/bitrix/templates/k24/images/logo.png" group-title="Russia (Россия)",Катунь 24
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.hdmedia.ru/common/resources/images/logo_new_moviemenuhd.png" group-title="Russia (Россия)",КиноМеню HD
+#EXTINF:-1 tvg-logo="http://www.hdmedia.ru/common/resources/images/logo_new_moviemenuhd.png" group-title="Russia (Россия)",КиноМеню
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://elnet.by/images/stories/services/iptv/channel/kinomix.png" group-title="Russia (Россия)",КиноМикс
+http://86.57.225.245:7015/play/a005
+
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/02/30/82/liy.png" group-title="Russia (Россия)",Кинопремьера
+http://109.248.236.41:4433/udp/238.1.1.19:1234
+
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/02/30/81/94d.png" group-title="Russia (Россия)",Кинокомедия
+http://109.248.236.41:4433/udp/238.1.1.133:1234
+
+#EXTINF:-1 tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png" group-title="Russia (Россия)",Красная линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1780629068/kr__400x400.jpg" group-title="Russia (Россия)",Krasnodar TV
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
@@ -740,6 +752,8 @@ http://ott-cdn.ucom.am/s19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TNT4.jpg" group-title="Russia (Россия)",ТНТ4
 http://stream.euroasia.lfstrm.tv/comedytv/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TNT4.jpg" group-title="Russia (Россия)",ТНТ4
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/TiJi_logo_2016.png" group-title="Russia (Россия)",Tiji
 http://stream.euroasia.lfstrm.tv/tiji/1/index.m3u8
@@ -1387,35 +1401,8 @@ https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntn.ua/images/new_logo.png" group-title="Ukraine(Україна)",НТН HD
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png" group-title="Ukraine(Україна)",Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radio10.ua/wp-content/uploads/2018/09/logo.png" group-title="Ukraine(Україна)",Радио 10
-http://langate.tv/acc/tracks-v1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.i.ua/radio/logo/1/161.jpg" group-title="Ukraine(Україна)",Радио Люкс
-http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png" group-title="Ukraine(Україна)",Авторадио
-http://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://nsn.fm/upload/iblock/6c8/6c87d43c6433f57a6bbae45705168df9.jpg" group-title="Ukraine(Україна)",Радио Наше
-http://rtmp.radiogroup.com.ua:8080/live/nr/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://nrj.ua/media/default/images/logo_v2.png" group-title="Ukraine(Україна)",Радио NRJ
-http://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiogrom.com/paint_new/logo_ua/radio_golos_stolitsy_kiev_online_2017.jpg" group-title="Ukraine(Україна)",Радио Голос Столицы
-http://rtmp.radiogroup.com.ua:8080/live/gs/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://radioclub.ua/thumb/og_image_600x315_station/properies/2017/e4/bb/59b8fbb05632f_dzhem2.png" group-title="Ukraine(Україна)",Радио Джем FM [UA] (Веб-камера)
-http://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://radiopyatnica.com.ua/wp-content/uploads/2014/03/pyatnitsa-logo1.png" group-title="Ukraine(Україна)",Радио Пятница
-http://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm.png" group-title="Ukraine(Україна)",Радио Ретро
-http://rtmp.radiogroup.com.ua:8080/live/retro/index.m3u8
+#EXTINF:-1 tvg-logo="https://prm.ua/wp-content/themes/prm-new/img/header-logo.png" group-title="Ukraine(Україна)",Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Ukraine(Україна)", K1
 http://109.68.40.67:80/life/k1_3/index.m3u8
@@ -1442,6 +1429,12 @@ http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
 #EXTINF:-1 tvg-logo="https://lale.ws/wp-content/themes/lale/images/logo.png" group-title="Ukraine(Україна)", Lale
 http://stream.atr.ua/lale//live/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://xittv.net/img/can/62.png" group-title="Ukraine(Україна)", Макси ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mediainform.in.ua/wp-content/uploads/2016/12/cropped-MI-Logo-site-01-2-300x59.png" group-title="Ukraine(Україна)",Медиа Информ
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mostvideo.tv/bitrix/templates/most_video_2016/images/logo.png" group-title="Ukraine(Україна)",MostVideo TV
 http://w4.mostvideo.tv/tv/ch1.m3u8
 
@@ -1465,8 +1458,38 @@ http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Ukraine(Україна)",Рада
 http://217.20.164.181/live/rada480p.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png" group-title="Ukraine(Україна)",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio10.ua/wp-content/uploads/2018/09/logo.png" group-title="Ukraine(Україна)",Радио 10
+http://langate.tv/acc/tracks-v1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.i.ua/radio/logo/1/161.jpg" group-title="Ukraine(Україна)",Радио Люкс
+http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png" group-title="Ukraine(Україна)",Радио Авторадио
+http://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://nsn.fm/upload/iblock/6c8/6c87d43c6433f57a6bbae45705168df9.jpg" group-title="Ukraine(Україна)",Радио Наше
+http://rtmp.radiogroup.com.ua:8080/live/nr/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://nrj.ua/media/default/images/logo_v2.png" group-title="Ukraine(Україна)",Радио NRJ
+http://rtmp.radiogroup.com.ua:8080/live/nrj/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiogrom.com/paint_new/logo_ua/radio_golos_stolitsy_kiev_online_2017.jpg" group-title="Ukraine(Україна)",Радио Голос Столицы
+http://rtmp.radiogroup.com.ua:8080/live/gs/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://radioclub.ua/thumb/og_image_600x315_station/properies/2017/e4/bb/59b8fbb05632f_dzhem2.png" group-title="Ukraine(Україна)",Радио Джем FM [UA] (Веб-камера)
+http://rtmp.radiogroup.com.ua:8080/live/jam/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiopyatnica.com.ua/wp-content/uploads/2014/03/pyatnitsa-logo1.png" group-title="Ukraine(Україна)",Радио Пятница
+http://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm.png" group-title="Ukraine(Україна)",Радио Ретро
+http://rtmp.radiogroup.com.ua:8080/live/retro/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://rudana.com.ua/sites/all/themes/rudana/logo.png" group-title="Ukraine(Україна)",Рудана ТВ
-http://134.249.128.243/hls/stream.m3u8
+http://live.rudana.com.ua/hls/stream_HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510605239_renome-tv.png" group-title="Ukraine(Україна)", Renome TV
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
