@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel", Fox Sport 3 (台湾)
 http://122.146.68.116:4047/VideoInput/play.ts
 #EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="f8a03a42a5409be266529ed7787a6986" tvg-chno="5",SBS
@@ -35,8 +34,6 @@ http://14.56.230.103:9981/stream/channelid/546289602?profile=pass
 
 #EXTINF:-1,Jivi
 http://188.243.62.238:81/udp/239.239.4.32:5239
-#EXTINF:-1,Olvia
-http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1,TV PRO
 http://rtmp.lovedrink.ru/hls/ch1.m3u8
 #EXTINF:-1,Вкусное ТВ
@@ -53,32 +50,13 @@ http://play.lanet.tv/live/2003.m3u8
 http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 #EXTINF:-1,Матч Премьер
 http://109.248.236.41:4433/udp/238.1.1.76:1234
-#EXTINF:-1,Между.Net HD
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet_hd/playlist.m3u8
-#EXTINF:-1,Мужское кино
-http://86.57.225.245:7015/play/a00r
-#EXTINF:-1,Музыка Первого (Резерв)
-http://stream.euroasia.lfstrm.tv/muzyka_pervogo/1/index.m3u8
-#EXTINF:-1,Муниципальное Телевидение Волгограда
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1,Надiя
-http://stream.hope.ua/hopeua/live_1/playlist.m3u8
-#EXTINF:-1,Надия/Новый канал (Первомайский)
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1,Наш Дом
-http://85.234.33.60/stream/c11.m3u8
-#EXTINF:-1,наше любимое hd
-http://91.205.164.201:8181/udp/239.2.1.4:1234
-#EXTINF:-1,Наше Новое Кино
-http://109.248.236.41:4433/udp/238.1.1.54:1234
+#EXTINF:-1,Сити (БрестBY
+http://217.21.34.252:90/city
+
 #EXTINF:-1,ОГТРК
 http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
 #EXTINF:-1,Одинцово ТВ
 http://185.18.4.16/live/3m/playlist.m3u8
-#EXTINF:-1,Оружие
-http://streams.tv.mts.by/oruzhie/1/index.m3u8
-#EXTINF:-1,Оружие (Резерв1)
-http://109.248.236.41:4433/udp/238.1.1.34:1234
 #EXTINF:-1,Осетия-Ирыстон
 http://now03.eaglecdn.com/stream_transcoded_720/irystontv_irystontvstream1_hi/index.m3u8
 #EXTINF:-1,Парк Патриот HD
@@ -117,24 +95,6 @@ http://86.57.225.245:7018/play/a003
 http://stream.euroasia.lfstrm.tv/ohota/1/index.m3u8
 #EXTINF:-1,Рыжий
 http://ott-cdn.ucom.am/s57/index.m3u8
-#EXTINF:-1,С1 
-https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1,Санкт-Петербург
-http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
-#EXTINF:-1,Свое ТВ (Ставрополь)
-http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
-#EXTINF:-1,СГДФ 24 (Екатеринбург)
-http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
-#EXTINF:-1,Сделано в Кузбассе HD
-http://serv30.vintera.tv:8081/test/Made_in_Siberia2/playlist.m3u8
-#EXTINF:-1,Сити (БрестBY
-http://217.21.34.252:90/city
-#EXTINF:-1,Скифия
-http://cdn10.live-tv.od.ua:8081/odtrkks/odtrkks-abr/odtrkks/odtrkks/playlist.m3u8
-#EXTINF:-1,Спас
-http://live-spastv.cdnvideo.ru/spastv-publish/spastv.sdp/playlist.m3u8
-#EXTINF:-1,Сургут 24 +2
-http://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1,ТВ-Дом (Одесса)
 http://46.149.48.21:1234
 #EXTINF:-1,ТВТУР.TV
