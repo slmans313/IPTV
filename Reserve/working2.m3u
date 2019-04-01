@@ -47,19 +47,11 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 http://109.248.236.41:4433/udp/238.1.1.107:1234
 #EXTINF:-1,City TV
 http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8
-#EXTINF:-1,Кинокомедия (Резерв3)
-http://109.248.236.41:4433/udp/238.1.1.133:1234
-#EXTINF:-1,КиноМикс
-http://86.57.225.245:7015/play/a005
-#EXTINF:-1,Кинопремьера HD
-http://109.248.236.41:4433/udp/238.1.1.19:1234
 #EXTINF:-1,КИНОСЕМЬЯ
 http://86.57.225.245:7015/play/a00p
 #EXTINF:-1,Кинохит
 http://86.57.225.245:7015/play/a00o
-#EXTINF:-1,Красная линия
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1,Крик ТВ (Екатеринбург+2
+#EXTINF:-1,Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
 #EXTINF:-1,Кузбасс 24
 http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
@@ -69,14 +61,8 @@ http://109.248.236.41:4433/udp/238.1.1.94:1234
 http://play.lanet.tv/live/2003.m3u8
 #EXTINF:-1,Любимое.TV
 http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
-#EXTINF:-1,Любимый HD/ТНТ4 (KG+3
-http://92.245.103.126:1935/live/live.stream/playlist.m3u8
-#EXTINF:-1,Макси ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 #EXTINF:-1,Матч Премьер
 http://109.248.236.41:4433/udp/238.1.1.76:1234
-#EXTINF:-1,Медиа Информ (Одесса)
-http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
 #EXTINF:-1,Между.Net HD
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet_hd/playlist.m3u8
 #EXTINF:-1,Мужское кино
@@ -129,8 +115,6 @@ http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/ind
 http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
 #EXTINF:-1,ПРИКЛЮЧЕНИЯ
 http://ott-cdn.ucom.am/s99/index.m3u8
-#EXTINF:-1,Прямий
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
 #EXTINF:-1,Прямой HD
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1,РАІ
@@ -189,10 +173,6 @@ http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 http://stream.euroasia.lfstrm.tv/toy_duman/1/index.m3u8
 #EXTINF:-1,Точка отрыва
 http://109.248.236.41:4433/udp/238.1.1.127:1234
-#EXTINF:-1,ТРК Надым
-http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
-#EXTINF:-1,ТРК Рудана (Кривой Рог)
-http://live.rudana.com.ua/hls/stream_HD.m3u8
 #EXTINF:-1,ТРК Щёлково
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1,ТРО (БелРос)
