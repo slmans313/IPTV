@@ -526,11 +526,17 @@ http://86.57.225.245:7015/play/a00o
 #EXTINF:-1 tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png" group-title="Russia (Россия)",Красная линия
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://ricekb.ru/img/logo.png" group-title="Russia (Россия)",Крик ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1780629068/kr__400x400.jpg" group-title="Russia (Россия)",Krasnodar TV
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.kpfu.ru/themes/inno/images/logo.png" group-title="Russia (Россия)",КФУ ТВ
 http://cdn.universmotri.ru/live/univer_kfu2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctc-kuzbass.ru/wp-content/uploads/2017/03/logo-color-wide_1080i_1.png" group-title="Russia (Россия)",Кузбасс 24
+http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/ldpr_tv.png" group-title="Russia (Россия)",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
@@ -736,6 +742,9 @@ http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telecafe.ru/images/logo-site.png" group-title="Russia (Россия)",Телекафе
 http://stream.euroasia.lfstrm.tv/telekafe/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/07/22/79/o0y.png" group-title="Russia (Россия)",Телеканал Поехали!
+http://109.248.236.41:4433/udp/238.1.1.94:1234
 
 #EXTINF:-1 tvg-logo="http://techno24.tv/static/img/logo.png" group-title="Russia (Россия)",Техно 24
 http://109.248.236.41:4433/udp/238.1.1.88:1234
@@ -1130,8 +1139,6 @@ https://balapan.rtrk.kz/balapan/balapan/index.m3u8
 http://sc.id-tv.kz/STV_36_37.m3u8
 
 #EXTINF:-1 tvg-logo="http://ctcmedia.ru/bitrix/templates/ctcmedia/images/CTC_inv.png" group-title="Kazakhstan (Казахстан)",СТС International
-http://ott-cdn.ucom.am/s52/index.m3u8
-#EXTINF:-1 tvg-logo="http://ctcmedia.ru/bitrix/templates/ctcmedia/images/CTC_inv.png" group-title="Kazakhstan (Казахстан)",СТС International
 http://sc.id-tv.kz/STS_36_37.m3u8
 
 #EXTINF:-1 tvg-logo="https://elarna.kz/images/Logo_ElArna.png" group-title="Kazakhstan (Казахстан)",Ел Арна
@@ -1458,6 +1465,13 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
 
 #EXTINF:-1 tvg-logo="http://o-tv.tv/img/logo.png" group-title="Ukraine(Україна)",OTV
 http://212.26.146.148/hls/otv.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-EHXxEtprxoc/VhvVgYCXIxI/AAAAAAAAKUI/XUq2h0UGZdo/s1600/ont%2Blogo%2Bon%2Bwhite.jpg" group-title="Ukraine(Україна)",Общественное Независимое ТВ
+http://85.238.112.40:8810/hls_sec/239.17.75.33-.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-EHXxEtprxoc/VhvVgYCXIxI/AAAAAAAAKUI/XUq2h0UGZdo/s1600/ont%2Blogo%2Bon%2Bwhite.jpg" group-title="Ukraine(Україна)",Общественное Независимое ТВ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 
 #EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Ukraine(Україна)",Рада
 http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
