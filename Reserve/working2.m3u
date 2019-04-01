@@ -47,26 +47,8 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 http://109.248.236.41:4433/udp/238.1.1.107:1234
 #EXTINF:-1,City TV
 http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8
-#EXTINF:-1,Карапуз ТВ HD
-http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
-#EXTINF:-1,Катунь 24 (Барнаул+4
-https://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1,Киев TV
-http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
-#EXTINF:-1,Київ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1,Кинозал Зарубежная киноклассика
-http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
-#EXTINF:-1,Кинозал Индийская киноклассика
-http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
-#EXTINF:-1,Кинозал Классика Голливуда
-http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
-#EXTINF:-1,Кинозал Советская киноклассика
-http://streams.tv.mts.by/soviet_classic/1/index.m3u8
 #EXTINF:-1,Кинокомедия (Резерв3)
 http://109.248.236.41:4433/udp/238.1.1.133:1234
-#EXTINF:-1,КиноМеню HD
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 #EXTINF:-1,КиноМикс
 http://86.57.225.245:7015/play/a005
 #EXTINF:-1,Кинопремьера HD
@@ -97,12 +79,8 @@ http://109.248.236.41:4433/udp/238.1.1.76:1234
 http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
 #EXTINF:-1,Между.Net HD
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet_hd/playlist.m3u8
-#EXTINF:-1,Министерство Идей
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1,Мужское кино
 http://86.57.225.245:7015/play/a00r
-#EXTINF:-1,МузСоюз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1,Музыка Первого (Резерв)
 http://stream.euroasia.lfstrm.tv/muzyka_pervogo/1/index.m3u8
 #EXTINF:-1,Муниципальное Телевидение Волгограда
@@ -113,14 +91,10 @@ http://stream.hope.ua/hopeua/live_1/playlist.m3u8
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1,Наш Дом
 http://85.234.33.60/stream/c11.m3u8
-#EXTINF:-1,Наше TV
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
 #EXTINF:-1,наше любимое hd
 http://91.205.164.201:8181/udp/239.2.1.4:1234
 #EXTINF:-1,Наше Новое Кино
 http://109.248.236.41:4433/udp/238.1.1.54:1234
-#EXTINF:-1,Новый мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1,Общественное Независимое ТВ
 http://85.238.112.40:8810/hls_sec/239.17.75.33-.m3u8
 #EXTINF:-1,ОГТРК
@@ -159,18 +133,8 @@ http://ott-cdn.ucom.am/s99/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
 #EXTINF:-1,Прямой HD
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,Рада
-http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1,Рада ТВ
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
-#EXTINF:-1,Радио Хит ТВ (Орск+2
-http://hithd.camsh.orsk.ru/hls/hit.m3u8
 #EXTINF:-1,РАІ
 http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
-#EXTINF:-1,Ратник HD
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1,Регион 29 (Архангельск)
-http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 #EXTINF:-1,Релакс.TV
 http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8
 #EXTINF:-1,Рудана ТВ
@@ -189,8 +153,6 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1,Санкт-Петербург
 http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
-#EXTINF:-1,СВЕТЛОЕ ТВ
-http://streams.tv.mts.by/svetloe_tv/1/index.m3u8
 #EXTINF:-1,Свое ТВ (Ставрополь)
 http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
 #EXTINF:-1,СГДФ 24 (Екатеринбург)
@@ -201,8 +163,6 @@ http://serv30.vintera.tv:8081/test/Made_in_Siberia2/playlist.m3u8
 http://217.21.34.252:90/city
 #EXTINF:-1,Скифия
 http://cdn10.live-tv.od.ua:8081/odtrkks/odtrkks-abr/odtrkks/odtrkks/playlist.m3u8
-#EXTINF:-1,Солнечногорское ТВ
-http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
 #EXTINF:-1,Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1,Спас
@@ -251,8 +211,6 @@ http://v2.myowntv.org/content/35026/index.m3u8
 http://ott-cdn.ucom.am/s20/index.m3u8
 #EXTINF:-1,ЧГТРК Грозный
 http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
-#EXTINF:-1,Черноморская ТРК
-http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
 #EXTINF:-1,Ювелирочка ТВ
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka/playlist.m3u8
 #EXTINF:-1,Карусель 3
