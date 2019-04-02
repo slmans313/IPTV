@@ -58,8 +58,14 @@ http://61.58.60.194:9000/live/28ch.m3u8
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/201811011123437SzYLRy.png" group-title="Taiwan (臺灣)",八大戲劇台
 http://61.58.60.194:9000/live/105ch.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Taiwan (臺灣)", 卡通频道
+http://125.227.210.37:8887/VideoInput/play.ts
+
 #EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan (臺灣)", 大愛電視
 http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Disney", 迪斯尼动画
+http://125.227.210.37:8894/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://supertv.ebc.net.tw/upload/supertv/img/logoes/pc_logo.png" group-title="Taiwan (臺灣)", 東森超視
 http://61.58.60.194:9000/live/33ch.m3u8
