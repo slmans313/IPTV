@@ -69,11 +69,8 @@ http://60.199.188.61/HLS/Congress1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d2/Congress_Channel_2_%28Taiwan%29.jpg/440px-Congress_Channel_2_%28Taiwan%29.jpg" group-title="Taiwan (台湾)", 国会频道2
 http://60.199.188.61/HLS/Congress2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/CTS_Logo.png/189px-CTS_Logo.png" group-title="Taiwan (台湾)",  華視主頻
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/CTS_Logo.png/189px-CTS_Logo.png" group-title="Taiwan (台湾)",  華視
 http://125.227.210.37:8903/VideoInput/play.ts 
-
-#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="Taiwan (台湾)",  民视综艺台
-http://185.216.119.139:2015/ftvs.php?channelid=57c521d65c531b535e38c917&channeltype=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/150px-SET_incorporated_logo.svg.png" group-title="Taiwan (台湾)",  三立综艺台
 http://122.146.68.116:4021/VideoInput/play.ts
@@ -90,9 +87,6 @@ http://122.146.68.116:4005/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="Taiwan (台湾)",中天娱乐
 http://122.146.68.116:4007/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_Bravo.png" group-title="Taiwan (台湾)",中视菁采
-http://185.216.119.139:2015/ftvs.php?channelid=585b93c57620ef5c306fad00&channeltype=0
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="Taiwan (台湾)",星卫HD
 http://122.146.68.116:4016/VideoInput/play.ts
 
@@ -101,5 +95,3 @@ http://122.146.68.116:4015/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Taiwan (台湾)", 探索频道
 http://122.146.68.116:4046/VideoInput/play.ts
-
-
