@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png" group-title="Germany(Deutschland)",a.tv
-http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.br.de/fernsehen/ard-alpha/sendungen/ard-alpha-logo-102~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.png" group-title="Germany(Deutschland)", ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3776_av-p.m3u8
-
 #EXTINF:-1  tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Germany(Deutschland)",Alex Berlin TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
 
@@ -17,12 +11,6 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://baden-tv.com/wp-content/uploads/2017/11/badentv-logo.png" group-title="Germany(Deutschland)",Baden TV
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="Germany(Deutschland)",Blizz TV
-http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-
-#EXTINF:-1  tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="Germany(Deutschland)",BR Worldwide
-https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Germany(Deutschland)",BR Fernsehen Süd
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
@@ -45,17 +33,11 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle 
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.deluxemusic.tv/fileadmin/Resources/Public/Images/logo.png" group-title="Germany(Deutschland)",Deluxe Music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png" group-title="Germany(Deutschland)",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://drf-tv.de/media/tv_group/images_21/img_1/works/Druck_DRF1_246pxfw.png" group-title="Germany(Deutschland)", DRF 1
 http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://drf-tv.de/media/tv_group/images_21/img_1/works/Druck_DRF1_246pxfw.png" group-title="Germany(Deutschland)", DRF 1
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:5713-mbr/chunklist_b2096000.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Germany(Deutschland)", Euronews Deutsche
 http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
@@ -65,9 +47,6 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w11465644
 
 #EXTINF:-1  tvg-logo="http://eotv.de/wp-content/uploads/2015/12/Cranberry-Logo.png" group-title="Germany(Deutschland)",eoTV HD
 http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/B-ddZjpJ.png" group-title="Germany(Deutschland)",Family TV
-http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="Germany(Deutschland)",Franken Fernsehen
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
@@ -152,11 +131,6 @@ http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasba
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png" group-title="Germany(Deutschland)", Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="Germany(Deutschland)",rbb Berlin
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_7_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="Germany(Deutschland)",rbb Brandenburg
-https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_7_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png" group-title="Germany(Deutschland)",Regio TV Schwaben
 http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
 
@@ -183,9 +157,6 @@ http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="http://i67.tinypic.com/1zcz428.jpg" group-title="Germany(Deutschland)",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-
-#EXTINF:-1  tvg-logo="http://www.tidenet.de/img/navi_tv_logo.png" group-title="Germany(Deutschland)",Tide TV
-http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png" group-title="Germany(Deutschland)",TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
