@@ -125,10 +125,10 @@ http://49.49.196.6:9981/stream/channelid/569012197?profile=pass
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-OEx5h4fWGEs/W1EQhAgr9JI/AAAAAAAAAFU/9MHJYC1xiuMDPYZIWn2EqtaxMXX-AsoMwCLcBGAs/s1600/TVRI%2BALGHI.jpg" group-title="Asean Sports",TVRI Sports
 http://210.210.155.35/session/8dc2906e-1a3d-11e9-b2c3-8aac890eb9f3/qwr9ew/s/s48/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" group-title="Asian Sports",CCTV-5 体育频道
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="Asian Sports",CCTV-5 体育频道
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B体育赛事.png" group-title="Asian Sports",CCTV-5+ 体育赛事频道
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="Asian Sports",CCTV-5+ 体育赛事频道
 http://112.50.243.7/PLTV/88888888/224/3221225821/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdty.jpg" group-title="Asian Sports", 山东体育
@@ -554,21 +554,26 @@ http://m-iptv.net:6204/NABIL1/123/8809
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportingTV.pt.png" group-title="Football", Sporting TV
 http://m-iptv.net:6204/NABIL1/123/8808
 
-
-#EXTINF:-1 tvg-logo="http://image.jtbcgolf.joins.com/main/151231_h_top_logo.png" group-title="Golf",JTBC Golf (한국어)
-http://14.56.230.103:9981/stream/channelid/2092955303?profile=pass
-#EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf", Golf Network(日本)
-http://203.162.235.41:16924
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="Golf", Movistar Golf (Espana)
-http://m-iptv.net:6204/NABIL1/123/9973
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODk5MTkxMjg4OTE0/tennis-channel-logo-400x300jpg.jpg" group-title="Golf/Tennis", Tennis Channel
+http://kimbogrupol.com:25461/julian/julian1/17290
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf/Tennis", NBC Golf
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/SBS_Golf_logo.png" group-title="Golf",SBS Golf (한국어)
-http://198.144.156.93:9083/live/CA42-live1/aU/Zx/aUZxH_RUOehMBmBXwZjwjQ==/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf",Sky Sports Golf
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf/Tennis",Sky Sports Golf
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/947 
-#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Golf", Ziggo Golf (Nederland)
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="Golf/Tennis", Movistar Golf (Espana)
+http://m-iptv.net:6204/NABIL1/123/9973
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Golf/Tennis", Ziggo Golf (Nederland)
 http://m-iptv.net:6204/NABIL1/123/9520
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/uploadfile/2014/0401/20140401124037301.jpg" group-title="Golf/Tennis",CCTV 高尔夫网球
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000620/index.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav5-1.png" group-title="Golf/Tennis", 博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-logo="http://image.jtbcgolf.joins.com/main/151231_h_top_logo.png" group-title="Golf/Tennis",JTBC Golf (한국어)
+http://14.56.230.103:9981/stream/channelid/2092955303?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/SBS_Golf_logo.png" group-title="Golf/Tennis",SBS Golf (한국어)
+http://198.144.156.93:9083/live/CA42-live1/aU/Zx/aUZxH_RUOehMBmBXwZjwjQ==/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf/Tennis", Golf Network(日本)
+http://203.162.235.41:16924
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AtTheRaces.uk.png" group-title="Horse Racing", Sky At the races (UK)
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/999
@@ -625,13 +630,6 @@ http://m-iptv.net:6204/NABIL1/123/9421
 http://m-iptv.net:6204/NABIL1/123/9420
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/157/icon-size-256.png" group-title="Racing", Ziggo Sports Racing
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65189
-
-#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODk5MTkxMjg4OTE0/tennis-channel-logo-400x300jpg.jpg" group-title="Tennis", Tennis Channel
-http://kimbogrupol.com:25461/julian/julian1/17290
-#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav5-1.png" group-title="Tennis", 博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Supertennis_logo.png" group-title="Tennis", Super Tennis Italia
-http://m-iptv.net:6204/NABIL1/123/9418
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="BT Sports",BT Sports 1
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/1019
