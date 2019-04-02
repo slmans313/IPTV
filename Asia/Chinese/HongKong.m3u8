@@ -75,7 +75,10 @@ http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/400px-2018_Animal_Planet_logo.svg.png" group-title="Taiwan (臺灣)", 動物星球
 http://61.58.60.194:9000/live/21ch.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/fx_channel_logo.gif" group-title="Taiwan (臺灣)", FX 頻道
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FOX.uk.png" group-title="Taiwan (臺灣)",FOX 臺灣
+http://61.58.60.194:9000/live/78ch.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Taiwan (臺灣)", FX 臺灣
 http://122.146.68.116:4015/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20160908173455yhvHFdR.jpg" group-title="Taiwan (臺灣)", 好萊塢電影台
