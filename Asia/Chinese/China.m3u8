@@ -39,6 +39,9 @@ http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="中央电视",CCTV 15 音乐频道
 http://111.40.205.76/PLTV/88888888/224/3221225601/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvfinance.jpg" group-title="中央电视",CCTV 证券资讯
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000606/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/CETV_Logo.png/150px-CETV_Logo.png" group-title="China (中国)", 中国教育电视台
 http://111.40.205.76/PLTV/88888888/224/3221225652/index.m3u8
 
@@ -56,6 +59,9 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVASH.jpg" group-title="China (中国)",CNTV 爱生活
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000639/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVCITY.jpg" group-title="China (中国)",CNTV 城市剧场
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000614/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVDL.jpg" group-title="China (中国)",CNTV 地理
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000615/index.m3u8
@@ -117,11 +123,14 @@ http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="地方电视台",北京卫视
 http://111.40.205.76/PLTV/88888888/224/3221225728/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/btv-12jishi.jpg" group-title="地方电视台", Btv纪实
+#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/btv-12jishi.jpg" group-title="地方电视台", 北京纪实
 http://live.italkdd.com/cds160/hls/channel042/channel042_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="地方电视台", BTV卡酷少儿
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="地方电视台", 北京卡酷少儿
 http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/FAMILY-CHANNEL.jpg" group-title="地方电视台", 家政频道(北京)
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000610/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ijizhi.com/img/UploadFile/201112515747511.jpg" group-title="地方电视台", 天津卫视
 http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8
@@ -141,20 +150,23 @@ http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台", 安徽卫视
 http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ahrw.jpg" group-title="地方电视台",人物频道(安徽)
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="地方电视台",江苏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="地方电视台", 江苏国际
 http://122.146.68.116:4022/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/caifutianxia.jpg" group-title="地方电视台", 江苏财富天下
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/caifutianxia.jpg" group-title="地方电视台", 财富天下(江苏)
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000607/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="地方电视台", 优漫卡通((江苏))
+http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="地方电视台", 江西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225642/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="地方电视台", 优漫卡通
-http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/SETV_fujian.jpg" group-title="地方电视台",东南卫视
 http://111.40.205.76/PLTV/88888888/224/3221225620/index.m3u8
@@ -171,8 +183,8 @@ http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/sztv-live.jpg" group-title="地方电视台",深圳卫视
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000024/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/zhggpd.jpg" group-title="地方电视台",珠海公共频道
-http://hlslive.n21.cc/tm0Or7U/1500/live.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/IPTVSSZN.jpg" group-title="地方电视台",IPTV 收视指 (广东)
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000608/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype.png" group-title="地方电视台", 旅游卫视
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
@@ -207,8 +219,11 @@ http://111.40.205.76/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg" group-title="地方电视台", 辽宁卫视
 http://live.italkdd.com/cds160/hls/channel026/channel026_2000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvlicai.com/Templates/tm_guzhang/img/jtlclogo_sysf.png" group-title="地方电视台",辽宁家庭理财 
+#EXTINF:-1 tvg-logo="http://www.tvlicai.com/Templates/tm_guzhang/img/jtlclogo_sysf.png" group-title="地方电视台",家庭理财 (辽宁)
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000605/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/gtvdianzitiyu_zbb.png" group-title="地方电视台", GTV 电子体育 (辽宁 )
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000611/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/neimenggutv.jpg" group-title="地方电视台",内蒙古卫视
 http://111.40.205.76/PLTV/88888888/224/3221225634/index.m3u8
