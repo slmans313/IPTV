@@ -36,17 +36,20 @@ http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="中央电视",CCTV 15 音乐频道
 http://111.40.205.76/PLTV/88888888/224/3221225601/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="China (中国)",優視頻道
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/CETV_Logo.png/150px-CETV_Logo.png" group-title="China (中国)", 中国教育电视台
 http://111.40.205.76/PLTV/88888888/224/3221225652/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.weathertv.cn/m/i/index/logo.png" group-title="China (中国)",中国天气频道
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000609/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/chtvcn.jpg" group-title="China (中国)", 百姓健康频道
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000602/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cnrcare.jpg" group-title="China (中国)", 央广健康频道
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000603/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="China (中国)",優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVDH.jpg" group-title="China (中国)", CNTV 动画
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000625/index.m3u8
@@ -129,8 +132,11 @@ http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="地方电视台",江苏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="地方电视台", 江苏国际频道
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="地方电视台", 江苏国际
 http://122.146.68.116:4022/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/caifutianxia.jpg" group-title="地方电视台", 江苏财富天下
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000607/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="地方电视台", 江西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225642/index.m3u8
