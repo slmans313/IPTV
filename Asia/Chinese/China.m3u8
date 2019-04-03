@@ -148,6 +148,9 @@ http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/FAMILY-CHANNEL.jpg" group-title="地方电视台", 家政频道(北京)
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000610/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.wangjing.cn/upload/ypshop/1363166697e721a.jpg" group-title="地方电视台", 优优宝贝(北京)
+http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.ijizhi.com/img/UploadFile/201112515747511.jpg" group-title="地方电视台", 天津卫视
 http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8
 
@@ -169,8 +172,11 @@ http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.luckystv.com/images/sitv4.jpg" group-title="地方电视台(上海)",幸福彩
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225886/3.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdsjc.jpg" group-title="地方电视台(上海)",Citv 都市剧场高清
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdsjc.jpg" group-title="地方电视台(上海)",都市剧场高清
 http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://m.gamefy.cn/static/img/logo2016.336c7b6.png" group-title="地方电视台(上海)",游戏风云
+http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台", 安徽卫视
 http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
@@ -190,8 +196,6 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="地方电视台", 优漫卡通(江苏)
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="地方电视台", 江西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225642/index.m3u8
 
@@ -201,36 +205,20 @@ http://111.40.205.76/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/Xiamen_Star_Logo.png/330px-Xiamen_Star_Logo.png" group-title="地方电视台", 厦门卫视
 http://223.110.241.203:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" group-title="地方电视台(浙江)", 浙江卫视
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzzhpd.jpg" group-title="地方电视台(浙江)", 杭州综合
-http://112.17.40.140/PLTV/88888888/224/3221226170/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzwhpd.jpg" group-title="地方电视台(浙江)", 杭州文化
-http://112.17.40.140/PLTV/88888888/224/3221226352/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzshpd.jpg" group-title="地方电视台(浙江)", 杭州生活
-http://112.17.40.140/PLTV/88888888/224/3221226477/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzyspd.jpg" group-title="地方电视台(浙江)", 杭州影视
-http://112.17.40.140/PLTV/88888888/224/3221226362/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv5.jpg" group-title="地方电视台(浙江)", 杭州少儿
-http://112.17.40.140/PLTV/88888888/224/3221226354/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzxfmz.jpg" group-title="地方电视台(浙江)", 西湖明珠
-http://112.17.40.140/PLTV/88888888/224/3221226212/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/GRT_Satellite_Channel_2016_logo.jpg/400px-GRT_Satellite_Channel_2016_logo.jpg" group-title="地方电视台",广东卫视
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/GRT_Satellite_Channel_2016_logo.jpg/400px-GRT_Satellite_Channel_2016_logo.jpg" group-title="地方电视台(广东)",广东卫视
 http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/sztv-live.jpg" group-title="地方电视台",深圳卫视
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/sztv-live.jpg" group-title="地方电视台(广东)",深圳卫视
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000024/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/IPTVSSZN.jpg" group-title="地方电视台",IPTV 收视指 (广东)
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/IPTVSSZN.jpg" group-title="地方电视台(广东)",IPTV 收视指
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000608/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="地方电视台(广东)",嘉佳卡通
+http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0702/1747c4522a367b299082a91ba39ebabb.jpg" group-title="地方电视台(广东)",快乐宠物
+http://112.17.40.140/PLTV/88888888/224/3221226748/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tc.hnntv.cn/public/imgs/wangshi1.png" group-title="地方电视台", 旅游卫视
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
@@ -252,6 +240,12 @@ http://live.italkdd.com/cds160/hls/channel043/channel043_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/01/hunan-tv-logo.jpg" group-title="地方电视台", 湖南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/jyjs.jpg" group-title="地方电视台", 金鹰纪实(湖南)
+http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e4/Aniworld_logo.png/227px-Aniworld_logo.png" group-title="地方电视台", 金鹰卡通(湖南)
+http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/HebeiTV.png/200px-HebeiTV.png" group-title="地方电视台", 河北卫视
 http://111.40.205.76/PLTV/88888888/224/3221225623/index.m3u8
@@ -390,3 +384,62 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/qdtv6.jpg" group-title="地方电视台(山东)",青岛青少旅游
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000505/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" group-title="地方电视台(浙江)", 浙江卫视
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/99/%E9%92%B1%E6%B1%9F%E9%A2%91%E9%81%93.jpg" group-title="地方电视台(浙江)", 钱江电视
+http://112.17.40.140/PLTV/88888888/224/3221226275/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/09/b52be391e1d0e26c46ca8f8c35fa770a.jpg" group-title="地方电视台(浙江)", 浙江经济生活
+http://112.17.40.140/PLTV/88888888/224/3221226423/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img01.cztv.com/201805/23/bd3c96cf1f19aa49e16a12384e6f36aa.jpg" group-title="地方电视台(浙江)", 浙江教育科技频道
+http://112.17.40.140/PLTV/88888888/224/3221226118/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://o.cztvcloud.com/8/594914/images/bar_logo.png" group-title="地方电视台(浙江)", 浙江影视娱乐
+http://112.17.40.140/PLTV/88888888/224/3221226273/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/09/87c6b60ea10f882574570ef2e9d22288.jpg" group-title="地方电视台(浙江)", 浙江民生频道
+http://112.17.40.140/PLTV/88888888/224/3221226237/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img01.cztv.com/201805/23/8b5c0215b0652a42a1070c7e4dcb8935.png" group-title="地方电视台(浙江)", 浙江公共新闻频道
+http://112.17.40.140/PLTV/88888888/224/3221226324/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/09/6a0bca347e8ebf1537adb7d8753b6677.jpg" group-title="地方电视台(浙江)", 浙江少儿
+http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/09/26ae79a65e60561898b8a5d3c4936c51.jpg" group-title="地方电视台(浙江)",浙江数码时代
+http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzzhpd.jpg" group-title="地方电视台(浙江)", 杭州综合
+http://112.17.40.140/PLTV/88888888/224/3221226170/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzwhpd.jpg" group-title="地方电视台(浙江)", 杭州文化
+http://112.17.40.140/PLTV/88888888/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzshpd.jpg" group-title="地方电视台(浙江)", 杭州生活
+http://112.17.40.140/PLTV/88888888/224/3221226477/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzyspd.jpg" group-title="地方电视台(浙江)", 杭州影视
+http://112.17.40.140/PLTV/88888888/224/3221226362/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv5.jpg" group-title="地方电视台(浙江)", 杭州少儿
+http://112.17.40.140/PLTV/88888888/224/3221226354/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hzxfmz.jpg" group-title="地方电视台(浙江)", 西湖明珠
+http://112.17.40.140/PLTV/88888888/224/3221226212/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jxxwzh.jpg" group-title="地方电视台(浙江)", 嘉兴新闻综合
+http://112.17.40.140/PLTV/88888888/224/3221226358/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nbtv1.jpg" group-title="地方电视台(浙江)", 宁波新闻综合
+http://112.17.40.140/PLTV/88888888/224/3221226736/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nbtv2.jpg" group-title="地方电视台(浙江)", 宁波经济生活
+http://112.17.40.140/PLTV/88888888/224/3221226833/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nbtv3.jpg" group-title="地方电视台(浙江)", 宁波都市文体
+http://112.17.40.140/PLTV/88888888/224/3221226740/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nbtv4.jpg" group-title="地方电视台(浙江)", 宁波影视剧
+http://112.17.40.140/PLTV/88888888/224/3221226835/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nbtv5.jpg" group-title="地方电视台(浙江)", 宁波少儿频道
+http://112.17.40.140/PLTV/88888888/224/3221226742/index.m3u8
+
