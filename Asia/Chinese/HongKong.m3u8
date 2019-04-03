@@ -112,7 +112,6 @@ http://122.146.68.116:4016/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="Taiwan (臺灣)",亞洲旅游
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png" group-title="Taiwan (臺灣)",中天綜合
 http://125.227.210.37:8888/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="Taiwan (臺灣)",中天娛樂
@@ -120,3 +119,24 @@ http://122.146.68.116:4007/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://www.wantblogger.com/wp-content/themes/zhongwant/img/logonew.png" group-title="Taiwan (臺灣)",中旺電視
 http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="海外华语频道",優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="海外华语频道", 新唐人美东台
+https://live.ntdimg.com/live400/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="海外华语频道", 新唐人美西台
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="海外华语频道", 新唐人加东台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="海外华语频道", 新唐人加西台
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="海外华语频道", 新唐人旧金山台
+https://live.ntdimg.com/sflive990/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="海外华语频道", 新唐人亚太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
