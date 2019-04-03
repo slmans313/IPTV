@@ -146,10 +146,14 @@ http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
 #EXTINF:-1  tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="Turkey (Türkiye)",Guney TV Tarsus
 rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+#EXTINF:-1  tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/7678c74d-3003-415c-8a90-d50bf31531b6_haberturk-turk-hd.jpg" group-title="Turkey (Türkiye)",Haber Turk 
+http://soledge7.dogannet.tv/S1/HLS_LIVE/haberturk/1000/prog_index.m3u8 
 #EXTINF:0  tvg-logo="http://www.kanal19tv.com/wp-content/uploads/KANAL19-WEB.jpg" group-title="Turkey (Türkiye)", Kanal 19
 http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
+https://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/index.m3u8
 #EXTINF:0  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/Kanal_D.png" group-title="Turkey (Türkiye)", Kanal D
 http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 
@@ -187,6 +191,10 @@ http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="Turkey (Türkiye)", Show 
 http://mn-l.mncdn.com/showturktv/showturktv2/ip.m3u8
+
+#EXTINF:0  tvg-logo="https://www.teve2.com.tr/assets/img/teve2logo.png" group-title="Turkey (Türkiye)",Teve2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8 
+
 #EXTINF:0  tvg-logo="https://i.ytimg.com/vi/YA8T63Wg-Dk/hqdefault.jpg" group-title="Turkey (Türkiye)", TJK TV 
 http://tjktv.ercdn.net/tjktv_576p.m3u8
 #EXTINF:-1  tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="Turkey (Türkiye)",TRT 1
