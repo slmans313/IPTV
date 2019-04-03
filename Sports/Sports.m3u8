@@ -171,7 +171,7 @@ http://125.227.210.37:8886/VideoInput/play.ts
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="中文体育频道",CCTV-5+ 体育赛事频道
-http://112.50.243.7/PLTV/88888888/224/3221225821/index.m3u8
+http://223.110.241.203:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="中文体育频道", Fox Sports 3 (臺灣)
 http://61.216.10.122:4047/VideoInput/play.ts
@@ -179,8 +179,14 @@ http://61.216.10.122:4047/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" group-title="中文体育频道", 广东体育
 http://nclive.grtn.cn/typd/sd/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="中文体育频道", 劲爆体育
+http://112.50.243.7/PLTV/88888888/224/3221226139/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sdty.jpg" group-title="中文体育频道", 山东体育
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000315/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="中文体育频道", 五星体育
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
 
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVGW.jpg" group-title="中文体育频道",CNTV 高网
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000620/index.m3u8
