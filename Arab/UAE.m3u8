@@ -63,14 +63,23 @@ https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" group-title="Kuawait (الكويت)", Kuwait Arabe
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv6
 
+#EXTINF:-1 tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon (لبنان)",Télé Liban
+http://213.162.202.9:8000/play/a00y/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="Lebanon (لبنان)",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="Lebanon (لبنان)",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon (لبنان)",Teleliban TV
-http://213.162.202.9:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="Oman (عمان‎)", Oman TV
+http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="Oman (عمان‎)", Oman TV Live
+http://38.96.148.35:1935/live/omantv03/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/cultural.png" group-title="Oman (عمان‎)", Oman TV Cultural
+http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ares-portal.com/wp-content/uploads/2017/09/plugin.video_.mtvlebanon-1320x743.png" group-title="Lebanon (لبنان)", MTV Lebanon
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
@@ -79,7 +88,7 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Qatar_TV_logo.png" group-title="Qatar(دولة قطر)", Qatar TV
-http://m-iptv.net:6204/NABIL1/123/14047
+http://62.210.141.179:8000/ibrahim/123456/160
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asrar-nour.png" group-title="Saudi Arabia(السعودية)", Asrar Nour
 http://213.162.202.9:8000/play/a01y/index.m3u8
@@ -206,7 +215,7 @@ http://m-iptv.net:6204/NABIL1/123/248
 http://m-iptv.net:6204/NABIL1/123/10024
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SharjahTV.png" group-title="UAE (ماراتيين)",Sharjah TV
-http://111.90.151.57:8080/liviu/12345/105414
+http://62.210.141.179:8000/ibrahim/123456/180
 
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/858360ec819ed54c7f04e211fb773add.jpeg" group-title="UAE (ماراتيين)", Nour Dubai
 http://m-iptv.net:6204/NABIL1/123/10025
