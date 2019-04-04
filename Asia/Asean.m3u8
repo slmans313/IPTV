@@ -46,7 +46,7 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Malaysia", 天映頻道
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg group-title="Malaysia", HITS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Malaysia", HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/logo-signature2x.png" group-title="Malaysia", HBO Signature
 http://m-iptv.net:6204/NABIL1/123/10410
@@ -55,12 +55,10 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Kix.uk.png" group-title="Malaysia",KIX
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Malaysia",Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:0 tvg-logo="http://dojo-box.com/wp-content/uploads/2015/09/logo-aditv.png" group-title="Indonesia",ADiTV
+#EXTINF:0 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png" group-title="Indonesia",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
@@ -299,10 +297,6 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198655
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198657
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/DZRH_News_Television_logo.jpg/250px-DZRH_News_Television_logo.jpg" group-title="Phillippines(Pilipinas)", DZRH News
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198658
-#EXTINF:0 tvg-logo="https://iptv.luxe/images/logo/channel/crops/d911f72fa3d37cdfd8885d81fc868c36.png" group-title="Phillippines(Pilipinas)",INCTV
-https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="https://iptv.luxe/images/logo/channel/crops/b32002693e75e28975a0356500286f70.png" group-title="Phillippines(Pilipinas)",INC Radio
-http://churchrus2-lh.akamaihd.net/i/incradio_1@57550/index_1100_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Filipino_TV_logo.png/180px-Filipino_TV_logo.png" group-title="Phillippines(Pilipinas)", Filipino TV
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198660
 #EXTINF:0 tvg-logo="https://pbo.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-nav.png" group-title="Phillippines(Pilipinas)", Pinoy Box Office
@@ -325,46 +319,33 @@ http://210.210.155.35/x6bnqe/s/s81/index2.m3u8
 http://210.210.155.35/qwr9ew/s/s39/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Viva_TV_logo.jpg/250px-Viva_TV_logo.jpg" group-title="Phillippines(Pilipinas)",Viva TV
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198665
-
 #EXTINF:0 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="Phillippines(Pilipinas)", UNTV Public
 https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b1128000.m3u8?auto
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Zee-Sine-Logo.jpg" group-title="Phillippines(Pilipinas)",Zee Sine
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/206362
 
 #EXTINF:0 tvg-logo="http://bayontv.com.kh/wp-content/uploads/2018/09/bayon272_90e-2.png" group-title="Cambodia(កម្ពុជា ) ", Bayon TV 
 http://103.242.13.90:5555/udp/239.4.1.210:10000
-
 #EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/7/csm_12-400_import_f5aa06c50f.png" group-title="Cambodia(កម្ពុជា ) ",  Hang MeasTV
-http://103.242.13.90:5555/udp/239.4.1.211:10000
-
+http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w469404394_b328000_sleng.m3u8
 #EXTINF:0 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="Cambodia(កម្ពុជា ) ",  Reaksmey News
-http://103.242.13.90:5555/udp/239.4.1.216:10000
-
+http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/chunklist_w1716125825_b328000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-efp1OMX5JYo/V2zy8VAsdbI/AAAAAAAADnM/1UTAAKKtSNktTRFuPC-v0B7P_8E4LCiPQCLcB/s320/msjTVLogo.png" group-title="Cambodia(កម្ពុជា ) ",  MSJ
 http://103.242.13.90:5555/udp/239.4.1.214:10000
-
 #EXTINF:0 tvg-logo="https://nicetv138390404.files.wordpress.com/2018/11/nicetv-logoe5afbce587ba-e6a8aa-e1541836821811.png" group-title="Cambodia(កម្ពុជា ) ",  Nice TV
 http://103.242.13.90:5555/udp/239.4.1.218:10000
-
 #EXTINF:0 tvg-logo="http://www.phnompenhpost.com/sites/default/files/pnn.jpg" group-title="Cambodia(កម្ពុជា ) ",  PNN
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/6/csm_18-400_import_9245798e06.png" group-title="Cambodia(កម្ពុជា ) ",  SEA TV
 http://203.189.147.211:1935/live/myStream_720p/chunklist.m3u8
-
 #EXTINF:0 tvg-logo="http://cache.khmerlive.tv/tvk.png" group-title="Cambodia(កម្ពុជា ) ",  TVK 
 http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
-
 #EXTINF:-1  tvg-logo="https://tv-online.im/wp-content/uploads/2013/05/tv5-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", TV5
 http://103.242.13.90:5555/udp/239.4.2.108:10000
-
 #EXTINF:-1  tvg-logo="https://www.konsva.com/my_file/2017/04/tv9.jpg" group-title="Cambodia(កម្ពុជា ) ", TV9
 http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-Apsara-TV-Live-TV-from-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", Apsara Tv
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/524177-anninh.png" group-title="Vietnam(Việt Nam)", ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
