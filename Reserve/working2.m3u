@@ -1,36 +1,37 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",РОССИЯ-24
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",Россия 24 (Самара)
+http://tvsamara.ru/streaming/r24.m3u8
+
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",Россия 24 (Чита)
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://saratov24.tv/local/templates/saratov24/images/logo.png" group-title="Russia (Россия)",Саратов 24
+http://stream.saratov24.tv:8081/web/c24/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="Asian Sports Channel", Fox Sport 3 (台湾)
 http://122.146.68.116:4047/VideoInput/play.ts
-#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="f8a03a42a5409be266529ed7787a6986" tvg-chno="5",SBS
-http://14.56.230.103:9981/stream/channelid/1111138552?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="cf183d12e91a6063331be96ac46f01c3" tvg-chno="7",KBS2
-http://14.56.230.103:9981/stream/channelid/305993935?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="494503989c4cb3a01bbddd8971d839c9" tvg-chno="7",KBS2
-http://14.56.230.103:9981/stream/channelid/402867529?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="a5b98ce6119bfdccddf46b8241ffcebd" tvg-chno="9",KBS1
-http://14.56.230.103:9981/stream/channelid/1720498597?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="beb6784ff8f0a5c47380d2c1b6156ebb" tvg-chno="11",MBC
-http://14.56.230.103:9981/stream/channelid/1333311166?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="d77a9ba16d1ccaf9e036da528d48bcb8" tvg-chno="17",tvN
-http://14.56.230.103:9981/stream/channelid/563837655?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/KlTCP8V.png" tvg-id="829f86ea2d16f208ea7d428fe77866a4" tvg-chno="23",togater½şTV
-http://14.56.230.103:9981/stream/channelid/1787207554?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/cIpIf6b.png" tvg-id="8ecf90a2bc679ea937d2bffb5cd0f336" tvg-chno="51",SPOTV
-http://14.56.230.103:9981/stream/channelid/579915662?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/wOOQEC1.png" tvg-id="24a1cca6cdf2598f39af8c18dd618059" tvg-chno="53",IB SPORTS
-http://14.56.230.103:9981/stream/channelid/650944804?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/yUk2RhO.png" tvg-id="940ab96f02d2e6cb7a521291680df710" tvg-chno="64",KTV
-http://14.56.230.103:9981/stream/channelid/1874397844?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/6V8X43L.png" tvg-id="8ce69ba124b222a240c770024c967369" tvg-chno="71",FUN TV
-http://14.56.230.103:9981/stream/channelid/563865228?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/f0OW8wX.png" tvg-id="c9091deda010d6bbccf676a4e254dc9c" tvg-chno="116",billiad
-http://14.56.230.103:9981/stream/channelid/1830619593?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/rHO0O4P.png" tvg-id="3e091c3232a1e7453bdc328ce0a8f984" tvg-chno="143",Carrie
-http://14.56.230.103:9981/stream/channelid/840698174?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/EGiEKhj.png" tvg-id="9c1a44acb7e0df904a450269f0e18483" tvg-chno="151",Carrie Kids
-http://14.56.230.103:9981/stream/channelid/742660764?profile=pass
-#EXTINF:-1 logo="http://i.imgur.com/NglRqcV.png" tvg-id="c2b78f209106432d5fc25d1dde0e3cbd" tvg-chno="206",Playboy TV
-http://14.56.230.103:9981/stream/channelid/546289602?profile=pass
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/RU.TV.png" group-title="Russia (Россия)",RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Russia (Россия)", ТВ3
+http://109.70.184.20:8080/udp/239.195.32.15:1234
+
+#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Russia (Россия)", ТВ3
+http://176.101.224.21:8080/udp/239.195.32.15:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
+http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510609997_itv.png" group-title="Crimea (Крым)", ИТВ Крым
+http://185.112.140.3:8892/play/a00b/index.m3u8
 
 #EXTINF:-1,Jivi
 http://188.243.62.238:81/udp/239.239.4.32:5239
