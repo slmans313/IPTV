@@ -102,8 +102,14 @@ http://62.210.141.179:8000/ibrahim/123456/146
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Al_Jazeera_Doc.png/225px-Al_Jazeera_Doc.png" group-title="Qatar(دولة قطر)",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQfXnys.png" group-title="Qatar(دولة قطر)", beIN Sports News
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/62754
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Qatar_TV_logo.png" group-title="Qatar(دولة قطر)", Qatar TV
 http://62.210.141.179:8000/ibrahim/123456/160
+
+#EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190294957541.png" group-title="Saudi Arabia(السعودية)",Al-Qassim
+http://62.210.141.179:8000/ibrahim/123456/91
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asrar-nour.png" group-title="Saudi Arabia(السعودية)", Asrar Nour
 http://213.162.202.9:8000/play/a01y/index.m3u8
@@ -111,11 +117,17 @@ http://213.162.202.9:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ahlu.tv/wp-content/uploads/2017/07/logo.png" group-title="Saudi Arabia(السعودية)", Ahel Al Quran 
 http://62.210.141.179:8000/ibrahim/123456/225
 
-#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/327.png" group-title="Saudi Arabia(السعودية)", Al Quran Al Kareem (Mecca) HD
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/327.png" group-title="Saudi Arabia(السعودية)", Al Quran Al Kareem (Mecca)
 http://62.210.141.179:8000/ibrahim/123456/38
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/5022/d1_tv_sa.png" group-title="Saudi Arabia(السعودية)", Dewan TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/93.ts
+
+#EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190290035643.jpg" group-title="Saudi Arabia(السعودية)",DMM TV
+http://62.210.141.179:8000/ibrahim/123456/110
+
+#EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190297818852.png" group-title="Saudi Arabia(السعودية)",Kaifa
+http://62.210.141.179:8000/ibrahim/123456/87
 
 #EXTINF:-1 tvg-logo="http://www.islambox.com/Images/Products/Channels/mainlogo/sauditv1-logo.png" group-title="Saudi Arabia(السعودية)", Saudi 1 
 http://62.210.141.179:8000/ibrahim/123456/41
@@ -128,6 +140,9 @@ http://62.210.141.179:8000/ibrahim/123456/39
 
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png" group-title="Saudi Arabia(السعودية)", Music Now
 http://streams.iptv.luxe:80/p/563368/c/5/u/220618/Y8DJ1m6NyAHapKjmm636NX6pL9Fkqz
+
+#EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190297148375.jpg" group-title="Saudi Arabia(السعودية)",Nilat TV
+http://62.210.141.179:8000/ibrahim/123456/109
 
 #EXTINF:-1 tvg-logo="http://www.sa24tv.com/images/1.jpg" group-title="Saudi Arabia(السعودية)", SA-24 Sports
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
@@ -167,9 +182,6 @@ http://82.137.248.16:1935/Sat/stream20112018/chunklist_w1198971875.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
 http://82.137.248.16:1935/Drama/stream20112018/chunklist_w98199038.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
 
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/nour_logo.png" group-title="Syria(سوريا)",Nour Elsham TV
 http://82.137.248.16:1935/Nour/stream20112018/chunklist_w1617542602.m3u8
