@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/pervyiy-kanal.png" group-title="Russia (Россия)", Первый канал
 http://109.70.184.20:8080/udp/239.195.32.1:1234
 
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/pervyiy-kanal.png" group-title="Russia (Россия)", Первый канал
-http://176.101.224.21:8080/udp/239.195.32.1:1234
-
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/16/79/gs5.png" group-title="Russia (Россия)", Первый канал HD
 http://91.231.219.145:80/tv_perviy_kanal_HD/video.m3u8
 
@@ -1191,6 +1188,9 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ren_tv_ru_baltic.png/106px-Ren_tv_ru_baltic.png" group-title="Latvia (Latvija)",Рен ТВ Baltic
 http://ott-cdn.ucom.am/s85/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kartina24.tv/images/news/multimania.png" group-title="Latvia (Latvija)", Мультимания
+http://82.193.71.93/MultimaniaLV/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.retv.lv/wp-content/uploads/2017/03/logo-a-e1489505827441.png" group-title="Latvia (Latvija)",RE:TV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8
