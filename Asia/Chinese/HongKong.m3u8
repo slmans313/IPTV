@@ -30,9 +30,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="Hong Kong/Macau(香港/澳门)", 鳳凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Phoenix_NA.svg/135px-Phoenix_NA.svg.png" group-title="Hong Kong/Macau(香港/澳门)",鳳凰美洲
-http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
-
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332" group-title="Hong Kong/Macau(香港/澳门)", 無綫J2
 http://livesec.mudu.tv/watch/qksekk.m3u8?auth_key=1554349698-331046-0-e54e9a40cd1d932f19783e3cce84ca2a
 
@@ -128,6 +125,10 @@ http://125.227.210.37:8907/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://www.ebc.net.tw/Images/169-america.jpg" group-title="海外华语频道", 東森美洲
 http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Phoenix_NA.svg/135px-Phoenix_NA.svg.png" group-title="海外华语频道",鳳凰美洲
+http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="海外华语频道",優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
