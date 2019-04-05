@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="Austria(Österreich)",Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Austria(Österreich)",FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/500px-Logo-gotv-2004.svg_.png" group-title="Austria(Österreich)",Go TV
+http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png" group-title="Austria(Österreich)",Oe24
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png" group-title="Austria(Österreich)",Okto TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="Austria(Österreich)",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/at-yu-planet-tv.jpg" group-title="Austria(Österreich)",YU Planet
+http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Germany(Deutschland)",Alex Berlin TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
 
@@ -8,9 +29,6 @@ http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlis
 
 #EXTINF:-1  tvg-logo="https://baden-tv.com/wp-content/uploads/2017/11/badentv-logo.png" group-title="Germany(Deutschland)",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-
-#EXTINF:-1  tvg-logo="https://baden-tv.com/wp-content/uploads/2017/11/badentv-logo.png" group-title="Germany(Deutschland)",Baden TV
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Germany(Deutschland)",BR Fernsehen Süd
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
@@ -191,23 +209,15 @@ http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png" group-title="Germany(Deutschland)",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="Austria(Österreich)",Deluxe Music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Austria(Österreich)",FS1 Salzburg
-http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/SRF_1_logo.svg/1200px-SRF_1_logo.svg.png" group-title="Switzerland",  SRF 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64970
 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/500px-Logo-gotv-2004.svg_.png" group-title="Austria(Österreich)",Go TV
-http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_SRF_2.svg/1200px-Logo_SRF_2.svg.png" group-title="Switzerland", SRF Zwei
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64969
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png" group-title="Austria(Österreich)",Oe24
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SRF_info_logo.svg/1200px-SRF_info_logo.svg.png" group-title="Switzerland",  SRF Info
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88657
 
-#EXTINF:-1  tvg-logo="http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png" group-title="Austria(Österreich)",Okto TV
-http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="Austria(Österreich)",Tirol TV
-http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/at-yu-planet-tv.jpg" group-title="Austria(Österreich)",YU Planet
-http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/1310877_logo_beatz2.png" group-title="Switzerland",SBeatz TV
+https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
