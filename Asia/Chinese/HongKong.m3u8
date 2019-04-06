@@ -86,6 +86,15 @@ http://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Taiwan (臺灣)", HBO中文電影台
 http://125.227.210.37:8895/VideoInput/play.ts
 
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2151Q1450-L.jpg" group-title="Taiwan (臺灣)", 龍華電影台
+http://ms006.happytv.com.tw/live/xm80UCshgLnL4f0y/index.m3u8?token=c9JZiuKdZjWetb9TuWFZvg&time=1554530036919
+
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2151Q1450-L.jpg" group-title="Taiwan (臺灣)", 龍華偶像台
+http://ms006.happytv.com.tw/live/jluCtnqIsVG31tpb/index.m3u8?token=ju530-kHHWuKLJKGDmJB2A&time=1554530150195
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ltvyingju.jpg" group-title="Taiwan (臺灣)", 龍華日韓台
+http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8?token=sXdnr7TrwoteozOuSE0VgQ&time=1554530058242
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Taiwan (臺灣)", 旅遊生活頻道
 http://125.227.210.37:8891/VideoInput/play.ts
 
@@ -110,8 +119,10 @@ http://122.146.68.116:4046/VideoInput/play.ts
 http://125.227.210.37:8884/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="Taiwan (臺灣)", 緯來體育
 http://125.227.210.37:8897/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="Taiwan (臺灣)",星衛電影台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="Taiwan (臺灣)",衛視西片台
 http://122.146.68.116:4016/VideoInput/play.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="Taiwan (臺灣)",亞洲旅游
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
