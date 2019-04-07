@@ -153,8 +153,29 @@ http://62.210.141.179:8000/ibrahim/123456/232
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="Egypt (مَصر)", MBC Masr
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/63130
 
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3783591_logo_resurrection_tv.png group-title="Ghana",Resurrection TV
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sampsonamoateng.net/wp-content/uploads/2018/08/SAM-LOGO-JPEG-e1535293984113.jpeg" group-title="Ghana",SAM TV
+https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="Ghana",TV Africa
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.espacefmguinee.info/wp-content/uploads/2015/12/etv_160x80.jpg" group-title="Guinea (Guinée)",Espace TV Guinée
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espace_tv-video=1200000-audio_AACL_fra_65200_120=65200.m3u8
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16278/logo_rti%205.png" group-title="Ivory Coast(Côte d’Ivoire)",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png group-title="Ivory Coast(Côte d’Ivoire)",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3dwnh01icn0h133s00sokwo1-wpengine.netdna-ssl.com/wp-content/themes/citizennews_new/images/citizen-digital-logo.png" group-title="Kenya",Citizen TV
+https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://inoorotv.co.ke/wp-content/themes/inoorotv/images/inoorotv_logo.png group-title="Kenya",Inooro TV
+https://vidhttps.r.worldssl.net/inoorotv-origin/liveabr/inoorotv-origin/live3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Kenya",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
@@ -229,10 +250,22 @@ http://213.162.202.9:8000/play/a02a/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://aujourdhui.ma/wp-content/uploads/2017/12/Medi1-TV-Afrique.jpg" group-title="Morooco(المغرب‎)", Medi 1 Afrique
-http://m-iptv.net:6204/NABIL1/123/13997
+https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2q0xv3544jvkb.cloudfront.net/images/tvm-logotipo.jpg" group-title="Mozambique",Televisão de Moçambique
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2q0xv3544jvkb.cloudfront.net/images/programacao/novosb/TVM2-GERALW.jpg" group-title="Mozambique",TVM Internacional
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="Mozambique",Trace Toca
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.acnntv.com/wp-content/uploads/2018/02/428ddc9c-2e6d-47b4-aa1e-85b0f9212c7a-300x54.jpg" group-title="Nigeria(Naija)", Anglican Cable Network Nigeria
+https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bridetvstreaming.org/Logo.png group-title="Nigeria(Naija)",Bride TV
+https://streaming.viewsat.eu/viewsatstream13/viewsatstream13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Nigeria(Naija)",Trace Naija
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
