@@ -157,18 +157,6 @@ http://111.40.205.87/PLTV/88888888/224/3221225740/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tjtv2.jpg" group-title="地方电视台", 天津文艺
 http://39.106.151.203:80/a2/tjtv.m3u8?id=tjwy
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台", 安徽卫视
-http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ahrw.jpg" group-title="地方电视台",人物频道(安徽)
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SUZHTV1.jpg" group-title="地方电视台", 宿州新闻综合(安徽)
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SUZHTV2.jpg" group-title="地方电视台", 宿州公共频道(安徽)
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="地方电视台",江苏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
 
@@ -282,6 +270,27 @@ http://111.40.205.76/PLTV/88888888/224/3221225626/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/GZZYTV1.jpg" group-title="地方电视台",遵义综合(贵州)
 http://pl1.cloud.dayang.com.cn/live/10062_ff4u7R_550.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(安徽)", 安徽卫视
+http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ahrw.jpg" group-title="地方电视台(安徽)",人物频道
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SUZHTV1.jpg" group-title="地方电视台(安徽)", 宿州新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SUZHTV2.jpg" group-title="地方电视台(安徽)", 宿州公共频道
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/masxwpd.jpg" group-title="地方电视台(安徽)", 马鞍山新闻综合
+http://live.massp.cn:5011/vod/video_hls/c01.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/masyspd.jpg" group-title="地方电视台(安徽)", 马鞍山影视
+http://live.massp.cn:5011/vod/video_hls/c02.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/masggpd.jpg" group-title="地方电视台(安徽)", 马鞍山公共
+http://live.massp.cn:5011/vod/video_hls/c03.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="地方电视台(北京)",北京卫视
