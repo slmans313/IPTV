@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://fatstone.tv/wp-content/uploads/2017/09/logo-fatstone-black.png" group-title="Norway(Norge)", Fatstone TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norway(Norge)", Kanal 10 Norge
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://einnsyn.stortinget.no/einnsyn/Content/Custom/style/logo/Stortinget-logo-hvit-tekst-svart.png" group-title="Norway(Norge)", Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norway(Norge)", Nrk
 http://83.56.24.104:9981/stream/channelid/1194774004?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
@@ -9,8 +17,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:0 tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norway(Norge)", Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norway(Norge)", Silence TV
-http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.n4.is/static/themes/2013/images/logo.png" group-title="Iceland(Ísland)", N4 TV (Исландия)
 http://tv.vodafoneplay.is/n4/index.m3u8
