@@ -333,9 +333,8 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/105861
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12ct/images/news12ct-logo.png" group-title="Connecticut", News 12 Connecticut Weather
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
 
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_of_WTTG-TV.png",Fox 5 DC (WTTG)
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/138446
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",Fox 5 DC Plus (WDCA)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/138435
@@ -515,7 +514,7 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77153
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77157
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/225px-WNBC_4_NY.svg.png" group-title="New York", NBC 4 New York (WNBC)
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156747
+https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MadisonSquareGarden.us.png" group-title="New York", MSG
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/78314
@@ -584,11 +583,12 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/714
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/KATU_logo.png" group-title="Oregon",ABC 2 Portland (KATU)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149876
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Ktvz_2010.png" group-title="Oregon", NBC Oregon 21(KTVZ)
+#EXTINF:-1  tvg-logo="https://media.ktvz.com/npg-ktvz-media-us-east-1/photo/2016/08/22/KTVZ%20Logo_3395629_ver1.0.png" group-title="Oregon", NBC Oregon 21(KTVZ)
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/NBC_Sports_Northwest.png" group-title="Oregon", NBC Sports NW
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157702
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/WTAE-TV_logo.png" group-title="Pennsylvania", ABC 4 Pittsburgh (WTAE)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/159921
