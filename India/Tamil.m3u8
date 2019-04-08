@@ -12,6 +12,8 @@ http://live.streamjo.com:1935/sarastv/sarastv.m3u8
 http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/DDPodhigaiLogo.jpg" group-title="Tamil (தமிழ்)", DD Podhigai
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/143636
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Deepam_TV_Logo.png group-title="Tamil (தமிழ்)", Deepam TV
+http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
 #EXTINF:-1 tvg-logo="https://eettv.com/wp-content/uploads/2018/05/eet.png" group-title="Tamil (தமிழ்)", EET TV
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-sxMxH_RhQnA/VSjqnxtlsfI/AAAAAAAAAOU/HTE_d22TbYE/h120/engadaTv.jpg" group-title="Tamil (தமிழ்)", Engada TV
@@ -64,11 +66,16 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 http://8ovgdk34qmpw-hls-live.wmncdn.net/307/tamilan/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.vanaviltv.in/images/logo.png" group-title="Tamil (தமிழ்)",Vanavil Plus TV
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zg0v4hJUnGA/maxresdefault_live.jpg" group-title="Tamil (தமிழ்)",Vasantham TV
-http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.velichamtv.org/velicham/wp-content/uploads/2018/04/Velicham-WEb.png" group-title="Tamil (தமிழ்)",Velicham TV
 http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="Tamil (தமிழ்)",Vendharm TV
 http://45.79.203.234:1935/vendharm/myStream/chunklist_w200179631index.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/10/Zee-Tamil_10.jpg" group-title="Tamil (தமிழ்)",Zee Tamil
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64313
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/ITN_TV_Sri_Lanka.png" group-title="Sir Lanka(ශ්‍රී ලංකා)",ITN channel
+http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zg0v4hJUnGA/maxresdefault_live.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rupavahini.lk/images/logo_2018_new.png" group-title="Sir Lanka(ශ්‍රී ලංකා)", Rupavahini TV
+http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
