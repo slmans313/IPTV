@@ -339,11 +339,8 @@ https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",Fox 5 DC Plus (WDCA)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/138435
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_of_WJLA-TV.png" group-title="DC", ABC 7 DC (WJLA)
-http://p4.giffy.be:8080/sandy/1234/85823
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="DC", NBC 4 DC (WRC)
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/92983
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSNWashington.us.png" group-title="DC", NBC Sports Washington
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/129343
@@ -363,10 +360,6 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156736
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="Florida",CBS 4 Miami (WFOR)
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSWINKNews.us.png" group-title="Florida", CBS 11 Fort Myers (WINK)
-http://p4.giffy.be:8080/sandy/1234/85431
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/WSVN_7_Miami_logo.png/175px-WSVN_7_Miami_logo.png" group-title="Florida", FOX 7 (WSVN)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134553
 
@@ -382,9 +375,6 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152507
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC6WTVJ.us.png" group-title="Florida", NBC 6 Miami (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSWPBT.us.png" group-title="Florida", PBS 31 Florida (WGCU)
-http://p4.giffy.be:8080/sandy/1234/85467
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Wscv51_telemundo_miami.png" group-title="Florida",Telemundo Miami (WSCV)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/108427
@@ -414,8 +404,6 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/712
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/WLTZ_2007.png" group-title="Georgia",NBC 38 Columbus (WLTZ)
 https://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Peachtree.png" group-title="Georgia", Peachtree (WPCH)
-http://p4.giffy.be:8080/sandy/1234/30891
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/chicago/images/d/d4/ABC7_Chicago.png" group-title="Illinois",  ABC 7 Chicago (WLS)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/121299
@@ -574,9 +562,6 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/199205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/WSYX6logonew.PNG" group-title="Ohio", ABC 6 Columbus (WSYX)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/159912
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/WCPO-TV2013.png" group-title="Ohio", ABC 9 Ohio (WCPO)
-http://p4.giffy.be:8080/sandy/1234/85810
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsOhioCleveland.us.png" group-title="Ohio",FOX Sports Ohio
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/714
 
@@ -616,7 +601,6 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/150066
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="Texas", NBC 9 Odessa (KWES)
 https://api.new.livestream.com/accounts/16923548/events/4681078/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/ABC_13_KTRK_Houston_2013_logo.png" group-title="Texas", ABC 13 Houston (KTRK)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/120131
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/KSAT_2013_Logo.png" group-title="Texas", ABC 12 San Antonio (KSAT)
