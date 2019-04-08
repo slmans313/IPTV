@@ -21,7 +21,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://rtm-image.glueapi.io/960x640/live_stream/1-TV1.jpg" group-title="Malaysia",RTM 1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://rtm-image.glueapi.io/960x640/live_stream/2-TV2.jpg" group-title="Malaysia",RTM 2
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/150676
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="Malaysia", RTM Okey
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="Malaysia", RTM Parlimen
@@ -48,6 +48,17 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0 tvg-logo="http://console.celestialtiger.com/images/upload/d379ac903dbb14e08f450d5d234aecf17e4e47bb.png" group-title="Malaysia", 天映经典频道
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29688
+
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",ASTRO 全佳
+http://landiptv.live:8080/abed/abed123xx/150655
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/324_300.png" group-title="Malaysia",ASTRO 双星
+http://landiptv.live:8080/abed/abed123xx/150656
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="Malaysia",ASTRO 喜悦
+http://landiptv.live:8080/abed/abed123xx/142614
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/325_300.png" group-title="Malaysia",ASTRO 小太阳
+http://landiptv.live:8080/abed/abed123xx/142615
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/AstroHuaHeeDailogo.png/220px-AstroHuaHeeDailogo.png" group-title="Malaysia",ASTRO 欢喜
+http://landiptv.live:8080/abed/abed123xx/150663
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Malaysia", HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
