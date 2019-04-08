@@ -12,7 +12,7 @@ http://190.52.32.13:1935/Canal4/smil:manifest.smil/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="Argentina",Canal 26 
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina",Canal PROVINCIAL 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina",Canal Provinical
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Argentina",CIUDAD TV 
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
@@ -60,11 +60,19 @@ https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3
 #EXTINF:0 tvg-logo="http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png" group-title="Perú", CVision TV Musica
 http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="http://rtnh.ht/tnh/media/images/logo_tnh2-copy.png" group-title="Haiti(Ayiti)", Télévision Nationale d'Haïti
+https://hbiptv.live/online/tnh/video.m3u8
 #EXTINF:0 tvg-logo="https://rtvc.radiotelevisioncaraibes.com/sites/default/files/logos/inner/rtvcblue_0.png" group-title="Haiti(Ayiti)", RTVC
-https://hbiptv.live/online/rtvc/video.m3u8?token=S--CXDmu63
+https://hbiptv.live/online/rtvc/video.m3u8
 #EXTINF:0 tvg-logo="https://hbiptv.com/wp-content/uploads/2018/11/nago-tv.png" group-title="Haiti(Ayiti)", Nago TV
 http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="http://rtghaiti.com/wp-content/uploads/2013/02/cropped-cropped-rtgnewbig-copy-e1403851731346.jpg" group-title="Haiti(Ayiti)", RTG 18
+https://hbiptv.live/online/rtg/video.m3u8
+#EXTINF:0 tvg-logo="http://www.haititelevision.com/wp-content/uploads/2018/03/tele_pacific-300x300.png" group-title="Haiti(Ayiti)", Tele Pacific Haiti
+https://hbiptv.live/online/pacific/video.m3u8
+#EXTINF:0 tvg-logo="http://hbiptv.com/wp-content/uploads/2018/11/tele-hirondelle.png" group-title="Haiti(Ayiti)", Tele Hirondelle
+https://hbiptv.live/online/hirondelle/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="Jamaica",Trace Tropical
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
