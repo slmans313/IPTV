@@ -126,8 +126,14 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600k
 #EXTINF:-1 tvg-logo="https://network.aljazeera.com/sites/aj_corporate/files/ajm-sm.png" group-title="Qatar(دولة قطر)",Al Jazeera Mubasher
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 
+#EXTINF:-1 tvg-logo="https://baraem.tv/images/logo.png" group-title="Qatar(دولة قطر)",Baraeim tv
+http://livecdnh2.tvanywhere.ae:80/hls/baraeim/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQfXnys.png" group-title="Qatar(دولة قطر)", beIN Sports News
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/62754
+
+#EXTINF:-1 tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="Qatar(دولة قطر)", Jeem TV
+http://livecdnh2.tvanywhere.ae:80/hls/jeem/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Qatar_TV_logo.png" group-title="Qatar(دولة قطر)", Qatar TV
 http://62.210.141.179:8000/ibrahim/123456/160
@@ -306,10 +312,10 @@ http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCDrama.png" group-title="UAE (ماراتيين)",MBC Drama
-http://m-iptv.net:6204/NABIL1/123/48
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="UAE (ماراتيين)", MBC Bollywood
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/63209
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="UAE (ماراتيين)",MBC Max
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
