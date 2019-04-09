@@ -46,7 +46,7 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152973
 http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BBCAmerica.us.png" group-title="USA",BBC America
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/76453
+http://190.13.120.114/streams/bbcamerica.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png" group-title="Entertainment", Blaze TV
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
@@ -190,7 +190,7 @@ http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit1/playlist.m
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="USA", TBS
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/76423
+http://190.13.120.115/streams/tbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TVOne.us.png" group-title="USA", TV 1
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77160
@@ -353,6 +353,9 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Wftvhd.png" group-title="Florida", ABC 9 Orlando (WFTV)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149872
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" group-title="Florida", CBS 47 Jacksonville (WJAX)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="Florida", ABC 10 Miami (WPLG)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134536
