@@ -61,10 +61,10 @@ http://62.210.141.179:8000/ibrahim/123456/237
 http://62.210.141.179:8000/ibrahim/123456/238
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlNaharTV.png" group-title="Egypt (مَصر)", Al-Nahar TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.ts
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="Egypt (مَصر)", Al-Nahar Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.ts
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://kingdomsat.com/wp-content/uploads/2017/07/logo.png" group-title="Egypt (مَصر)", Al Malakoot
 http://213.162.202.9:8000/play/a01p/index.m3u8
@@ -150,8 +150,11 @@ http://62.210.141.179:8000/ibrahim/123456/228
 #EXTINF:-1 tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="Egypt (مَصر)",Nile Life
 http://62.210.141.179:8000/ibrahim/123456/232
 
+#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="Egypt (مَصر)",Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="Egypt (مَصر)", MBC Masr
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/63130
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3783591_logo_resurrection_tv.png group-title="Ghana",Resurrection TV
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
