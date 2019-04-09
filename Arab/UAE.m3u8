@@ -87,11 +87,17 @@ http://213.162.202.9:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="Lebanon (لبنان)",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="Lebanon (لبنان)",Al Jadeed
+http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="Lebanon (لبنان)",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ares-portal.com/wp-content/uploads/2017/09/plugin.video_.mtvlebanon-1320x743.png" group-title="Lebanon (لبنان)", MTV Lebanon
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
+
+#EXTINF:-1 tvg-logo="https://nbntv.me/wp-content/uploads/2018/08/nbn-logo.jpg" group-title="Lebanon (لبنان)", NBN
+http://livecdnh1.tvanywhere.ae/hls/nbn/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="Lebanon (لبنان)",OTV
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
