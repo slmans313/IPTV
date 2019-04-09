@@ -22,10 +22,11 @@ http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="Hong Kong/Macau(香港/澳门)", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:0 tvg-logo="http://www.hkstv.tv/templates/site_shared/assets/img/blogo.png" group-title="Hong Kong/Macau(香港/澳门)",香港衛視
+http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="Hong Kong/Macau(香港/澳门)",鳳凰中文
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="Hong Kong/Macau(香港/澳门)", 鳳凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 
@@ -37,19 +38,13 @@ http://pullhls.inke.cn/live/1663521478965236/playlist.m3u8
 http://wslive-o-hls.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6/playlist.m3u8
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Pearl.png" group-title="Hong Kong/Macau(香港/澳门)",無綫明珠
 http://58.215.133.189:5021/live/367
-
 #EXTINF:0 tvg-logo="http://www.badouxia.com/Uploads/vod/2019-01-10/5c36e354f35b9.jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.hkstv.tv/templates/site_shared/assets/img/blogo.png" group-title="Hong Kong/Macau(香港/澳门)",香港衛視
-http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Now_TV_logo.svg/1200px-Now_TV_logo.svg.png" group-title="Hong Kong/Macau(香港/澳门)", Now TV
 http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
-
 #EXTINF:0 tvg-logo="http://www.badouxia.com/Uploads/vod/2019-01-18/5c41a323d1934.jpg" group-title="Hong Kong/Macau(香港/澳门)",Now 华剧
 http://live.italkdd.com/cds160/hls/channel004/channel004.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8d/Xing_Kong_Wei_Shi.jpg" group-title="Hong Kong/Macau(香港/澳门)",星空衛視
 http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
 
