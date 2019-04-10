@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", 1TV
+https://amtvdvr.tulix.tv/am2abr/tracks-v3a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/pervyiy-kanal.png" group-title="Russia (Россия)", Первый канал
 http://109.70.184.20:8080/udp/239.195.32.1:1234
 
