@@ -266,7 +266,10 @@ http://37.152.135.169:9002/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/tv2.hu.png" group-title="Hungary(MagyarorszĂˇg)",TV2
 http://37.152.135.169:9002/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/DigiWorld.hu.png" group-title="Hungary(MagyarorszĂˇg)",Digi World HD
+#EXTINF:-1 tvg-logo="http://www.digi24.ro/static/theme-1616-repo/dist/assets/imgs/digi24.ro-logo.png" group-title="România", Digi 24
+http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/DigiWorld.hu.png" group-title="România", Digi World
 http://37.152.135.169:9002/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.residentadvisor.net/images/promoter/ro-kissfmkisstv.jpg" group-title="România", KISS TV
