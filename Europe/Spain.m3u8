@@ -4,7 +4,9 @@
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/24Horas.es.png" group-title="Spanish(español)", 24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png" group-title="Spanish(español)", 3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.laocho.tv/es/wp-content/themes/laochotv_V2.0/images/logo_TVMed_cabecera.png" group-title="Spanish(español)", 8 Mediterraneo
+https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Cero.es.png" group-title="Spanish(español)", #0 (Cero)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88901
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="Spanish(español)",Antena 3
