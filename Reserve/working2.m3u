@@ -1,12 +1,13 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫翡翠
-http://wslive-o-hls.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6/playlist.m3u8
-http://m.567it.com/jade.m3u8
-
 #EXTINF:-1,RED SPAIN
 http://178.132.6.97/RedTVSpain1/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/REN_TV_logo_2015.png" group-title="Russia (Россия)",Рен ТВ
+http://stream.euroasia.lfstrm.tv/rentv/1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", 1TV
 https://amtvdvr.tulix.tv/am2abr/tracks-v3a1/index.m3u8
