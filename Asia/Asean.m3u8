@@ -259,6 +259,8 @@ http://live4.netdesignhost.com/brighttvlive/brighttvlive/playlist.m3u8
 http://stream.rs.co.th/ch2-hi/index.m3u8
 #EXTINF:0  tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="Thailand (ประเทศไทย)",  Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0  tvg-logo="http://cartoonclub.tv/dist/img/system/logo60.png" group-title="Thailand (ประเทศไทย)",  Cartooon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/e/e0/Channel_28_Logo.png/225px-Channel_28_Logo.png" group-title="Thailand (ประเทศไทย)",Ch 3
 http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/2/2a/Channel_13_Logo.png/270px-Channel_13_Logo.png" group-title="Thailand (ประเทศไทย)",Ch 3 Family
@@ -266,7 +268,7 @@ http://ch3-13.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:0 tvg-logo="http://thumbnail.instardara.com/channel/3HD.jpg" group-title="Thailand (ประเทศไทย)",Ch 3 HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand (ประเทศไทย)",Ch 5
-https://c01server.mangotv.in.th:8043/tvxy99/ch5hd/index.m3u8
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thailand (ประเทศไทย)",  Ch 7
 http://103.242.13.90:5555/udp/239.4.2.108:10000
 #EXTINF:0 tvg-logo="https://ufc-video.s3.amazonaws.com/styles/card/s3/image/NONEVENT/Channel8-RSThailand.png?Vdp3h8Hp1V9P8qtmHdVR7K65LrmzZAe0&itok=BzIdXe1Q" group-title="Thailand (ประเทศไทย)",Ch 8
