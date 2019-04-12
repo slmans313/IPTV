@@ -1273,10 +1273,23 @@ http://alpha.tv.online.tm/hls/ch007_400/index.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" group-title="Türkmenistan",Yaslyk TV
 https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://1tv.com.ua/img/logo.png" group-title="Ukraine(Україна)",UA:ПЕРШИЙ
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 tvg-logo="https://culture.suspilne.media/inc/img/logo_culture.png" group-title="Ukraine(Україна)",UA:Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.itk.ua/files/upload/logos/Logo_Ukraina.jpg" group-title="Ukraine(Україна)",Телеканал Україна
+http://78.26.128.52:6666
+#EXTINF:-1 tvg-logo="http://www.itk.ua/files/upload/logos/logo5kanal.jpg" group-title="Ukraine(Україна)",5 Канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1 tvg-logo="https://inter.ua/images/logo.png" group-title="Ukraine(Україна)",Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ntn.ua/images/new_logo.png" group-title="Ukraine(Україна)",НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Ukraine(Україна)", K1
+http://109.68.40.67:80/life/k1_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2019/02/UA_Odessa.png" group-title="Ukraine(Україна)",UA:Одесса
 http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bcap.kh.ua/image/cache/catalog/svetlovodsk/juaharkiv-850x400.jpg" group-title="Ukraine(Україна)",UA:Харьков
@@ -1287,6 +1300,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
 http://cdn10.live-tv.od.ua:8081/odtrkzt/odtrkzt-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zakarpattya.net.ua/postimages/news/2018/12/46856833_372987726772655_3183301791244615680_n.png" group-title="Ukraine(Україна)",UA: Закарпаття
 http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/10/UATV.png" group-title="Ukraine(Україна)",UA TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
@@ -1320,9 +1334,6 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
 
 #EXTINF:-1 tvg-logo="https://4channel.com.ua/wp-content/uploads/2018/04/4logo-main.png" group-title="Ukraine(Україна)",4 канал
 http://cdn.vsnw.net:8081/interradio/1080i.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/5_Kanal.png/220px-5_Kanal.png" group-title="Ukraine(Україна)",5 Канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
 
 #EXTINF:-1 tvg-logo="http://7kanal.com.ua/wp-content/themes/7k/img/logo-big.png" group-title="Ukraine(Україна)",7 Telekanal
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
@@ -1408,26 +1419,17 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine(Україна)", НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 
-#EXTINF:-1 tvg-logo="https://inter.ua/images/logo.png" group-title="Ukraine(Україна)",Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://tivix.co/uploads/posts/2014-03/1395686210_chp-info.png" group-title="Ukraine(Україна)",ЧП.INFO
 http://109.68.40.67/life/magnolia_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://m-studio.net.ua/wp-content/uploads/2017/02/logo_MS__mini___.png" group-title="Ukraine(Україна)",М-Студио
 http://213.174.23.59:8080/MS
 
-#EXTINF:-1 tvg-logo="https://ntn.ua/images/new_logo.png" group-title="Ukraine(Україна)",НТН
-http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://prm.ua/wp-content/themes/prm-new/img/header-logo.png" group-title="Ukraine(Україна)",Прямий
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fbc.net.ua/wp-content/uploads/2017/01/cropped-cropped-cropped-logo111.png" group-title="Ukraine(Україна)",Первый Деловой
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Ukraine(Україна)", K1
-http://109.68.40.67:80/life/k1_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://nktv.mk.ua/assets/components/nktv/channels/kyiv-tv.png" group-title="Ukraine(Україна)", Київ
 http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
