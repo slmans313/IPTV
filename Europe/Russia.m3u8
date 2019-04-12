@@ -1057,7 +1057,6 @@ http://188.35.9.103:8031/udp/117k
 #EXTINF:-1 tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="Georgia (საქართველო)", Rustavi 2
 http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.sat-address.com/f/pics/Stations/Enki-Benki-TV_o.jpg" group-title="Georgia (საქართველო)", Enki-Benki
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 
@@ -1070,11 +1069,19 @@ http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.palitravideo.ge/images/stories/palitratvlogo.png" group-title="Georgia (საქართველო)", Palitra News
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://kaztrk.kz/kaztv/images/kazlogo.png" group-title="Kazakhstan (Казахстан)",Qazaqstan
+http://217.196.24.146:8000/play/530
+#EXTINF:-1 tvg-logo="http://api.kaztrk.kz/uploads/slider/slider_id/23_2/23_2_origin_2.png" group-title="Kazakhstan (Казахстан)",QazSports
+http://217.196.24.146:8000/play/529
+#EXTINF:-1 tvg-logo="https://balapan.kaztrk.kz/balapan/images/online-logo-balapntv.jpg" group-title="Kazakhstan (Казахстан)",Balapn tv
+https://balapan.rtrk.kz/balapan/balapan/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034442917753118720/stLuQkd6_400x400.jpg" group-title="Kazakhstan (Казахстан)", Tamasha
+https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2018/02/LOG-e1518435929410.png" group-title="Kazakhstan (Казахстан)",Первый канал Евразия 
 http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
-
-#EXTINF:-1 tvg-logo="https://kaztrk.kz/kaztv/images/kazlogo.png" group-title="Kazakhstan (Казахстан)",Qazaqstan
-http://77.245.98.22:8000/play/530/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" group-title="Kazakhstan (Казахстан)",KTK
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/ec9c0900e4a5bb220190_250x250c.png" group-title="Kazakhstan (Казахстан)",31 Канал
 http://sc.id-tv.kz/31channel.m3u8
@@ -1094,9 +1101,6 @@ http://sc.id-tv.kz/astana_36_37.m3u8
 #EXTINF:-1 tvg-logo="http://catradeforum.org/wp-content/uploads/2017/09/atamekenlogo4.png" group-title="Kazakhstan (Казахстан)",Atameken Business Channel
 http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://balapan.kaztrk.kz/balapan/images/online-logo-balapntv.jpg" group-title="Kazakhstan (Казахстан)",Balapn tv
-https://balapan.rtrk.kz/balapan/balapan/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://stv-online.kz/static/img/logo.png" group-title="Kazakhstan (Казахстан)",СТВ Казахстан
 http://sc.id-tv.kz/STV_36_37.m3u8
 
@@ -1115,12 +1119,6 @@ http://sc.id-tv.kz/MagiyaKuhni_36_37.m3u8
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh TV
 http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://api.kaztrk.kz/uploads/slider/slider_id/23_2/23_2_origin_2.png" group-title="Kazakhstan (Казахстан)",KazSports
-http://77.245.98.22:8000/play/529/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" group-title="Kazakhstan (Казахстан)",KTK
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo.png" group-title="Kazakhstan (Казахстан)",MTRK
 http://tv2.esilnet.com/hls/mtrk.m3u8
 
@@ -1129,9 +1127,6 @@ http://109.248.236.41:4433/udp/238.1.1.206:1234
 
 #EXTINF:-1 tvg-logo="http://www.rikatv.kz/bitrix/templates/infogis/images/logo_rika_main1.png" group-title="Kazakhstan (Казахстан)",Rika
 http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034442917753118720/stLuQkd6_400x400.jpg" group-title="Kazakhstan (Казахстан)", Tamasha
-https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZCZriy.jpg" group-title="Kazakhstan (Казахстан)", Твое ТВ
 http://sc.id-tv.kz/TvoeTV_36_37.m3u8
