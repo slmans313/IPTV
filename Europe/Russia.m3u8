@@ -1073,6 +1073,9 @@ https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2018/02/LOG-e1518435929410.png" group-title="Kazakhstan (Казахстан)",Первый канал Евразия 
 http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
 
+#EXTINF:-1 tvg-logo="https://kaztrk.kz/kaztv/images/kazlogo.png" group-title="Kazakhstan (Казахстан)",Qazaqstan
+http://77.245.98.22:8000/play/530/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/ec9c0900e4a5bb220190_250x250c.png" group-title="Kazakhstan (Казахстан)",31 Канал
 http://sc.id-tv.kz/31channel.m3u8
 
@@ -1113,16 +1116,13 @@ http://sc.id-tv.kz/MagiyaKuhni_36_37.m3u8
 http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://api.kaztrk.kz/uploads/slider/slider_id/23_2/23_2_origin_2.png" group-title="Kazakhstan (Казахстан)",KazSports
-http://77.245.98.22:8000/play/529/tracks-v1a1/index.m3u8
+http://77.245.98.22:8000/play/529/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" group-title="Kazakhstan (Казахстан)",KTK
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo.png" group-title="Kazakhstan (Казахстан)",MTRK
 http://tv2.esilnet.com/hls/mtrk.m3u8
-
-#EXTINF:-1 tvg-logo="https://kaztrk.kz/kaztv/images/kazlogo.png" group-title="Kazakhstan (Казахстан)",Qazaqstan
-http://77.245.98.22:8000/play/530/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kostanaytv.kz/assets/regions/logo/qostanay.png" group-title="Kazakhstan (Казахстан)",Qostanaı
 http://109.248.236.41:4433/udp/238.1.1.206:1234
