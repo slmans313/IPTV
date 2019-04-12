@@ -6,21 +6,10 @@ http://109.70.184.20:8080/udp/239.195.32.1:1234
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/16/79/gs5.png" group-title="Russia (Россия)", Первый канал HD
 http://91.231.219.145:80/tv_perviy_kanal_HD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1 (Вайнах)
-http://hls-mycdn01792630458.cdnvideo.ru/mycdn01792630458/chechnyatoday/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1 (Калининград)
-http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1(Самара)
-http://tvsamara.ru/streaming/r1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1 (Сочи)
-http://sochi.camera:8080/cam_255/index.m3u8?token=null
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1 (Чувашия)
-http://chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1 (Чита)
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1 
+http://178.162.193.36:8081/chromecast/rossiya1-hq.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",Россия 24
-https://r24.next-dev.ru/540/tv540.m3u8
+http://178.162.193.36:8081/chromecast/rossiya24-hq.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://strana-online.pro/wp-content/uploads/2017/11/volgograd-24.png" group-title="Russia (Россия)",Волгоград 24
 http://hls.volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
@@ -747,7 +736,7 @@ http://109.248.236.41:4433/udp/238.1.1.88:1234
 http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ
-http://109.70.184.20:8080/udp/239.195.32.11:1234
+http://178.162.193.36:8081/chromecast/tnt-hq.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ International
 http://ott-cdn.ucom.am/s19/index.m3u8
