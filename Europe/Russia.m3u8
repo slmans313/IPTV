@@ -10,21 +10,17 @@ http://91.231.219.145:80/tv_perviy_kanal_HD/video.m3u8
 http://178.162.193.36:8081/chromecast/rossiya1-hq.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Russia (Россия)",Россия 24
 http://178.162.193.36:8081/chromecast/rossiya24-hq.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://strana-online.pro/wp-content/uploads/2017/11/volgograd-24.png" group-title="Russia (Россия)",Волгоград 24
-http://hls.volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Russia (Россия)",Якутия 24
-http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gtrk.tv/sites/default/files/channels/mono/mono-b24.png" group-title="Russia (Россия)",Башкортостан 24
-http://live.gtrk.tv/720/b24-720.m3u8
-
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Russia (Россия)",РОССИЯ-K
 http://188.243.62.238:81/udp/239.239.1.5:5239
-
 #EXTINF:-1 tvg-logo="http://rtr-planeta.com/i/main_logo.png" group-title="Russia (Россия)",Россия РТР
 http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/REN_TV_logo_2015.png" group-title="Russia (Россия)",Рен ТВ
+http://178.162.193.36:8081/chromecast/rentv-hq.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
+http://178.162.193.36:8081/chromecast/tvc-hq.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTD.ru.png" group-title="Russia (Россия)",RT Д Русский
 http://rt-doc.secure.footprint.net/1101-inadv-qidx-1k_v3.m3u8
@@ -35,9 +31,6 @@ http://ott-cdn.ucom.am/s63/index.m3u8
 #EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/120/bigposter/591604.png" group-title="Russia (Россия)",RTG TV
 http://ott-cdn.ucom.am/s80/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/REN_TV_logo_2015.png" group-title="Russia (Россия)",Рен ТВ
-http://stream.euroasia.lfstrm.tv/rentv/1/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia (Россия)",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.bntva.ru/images/bntv/24mir.png" group-title="Russia (Россия)",Мир 24
@@ -46,6 +39,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia (Россия)",Мир International
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://strana-online.pro/wp-content/uploads/2017/11/volgograd-24.png" group-title="Russia (Россия)",Волгоград 24
+http://hls.volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Russia (Россия)",Якутия 24
+http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gtrk.tv/sites/default/files/channels/mono/mono-b24.png" group-title="Russia (Россия)",Башкортостан 24
+http://live.gtrk.tv/720/b24-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/1d/Pervyj_gorodskoj_kanal_logo.png" group-title="Russia (Россия)",Первый Городской Казань
 http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/kzn.sdp/playlist.m3u8
@@ -718,10 +718,6 @@ http://109.248.236.41:4433/udp/238.1.1.98:1234
 
 #EXTINF:-1 tvg-logo="http://teletravel.tv/assets/logo-header-5c45c1d5a95358ae14c2e49de4594df6fa31f22e29805e02cc9cfaffda5edfa6.png" group-title="Russia (Россия)",Телепутешествия
 http://ott-cdn.ucom.am/s71/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.telecafe.ru/images/logo-site.png" group-title="Russia (Россия)",Телекафе
 http://stream.euroasia.lfstrm.tv/telekafe/1/index.m3u8
