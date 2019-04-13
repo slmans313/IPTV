@@ -53,8 +53,11 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan (臺灣)", 大愛電視
 http://live.italkdd.com/cds160/hls/channel015/channel015_2000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Disney", 迪斯尼动画
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Taiwan (臺灣)", 迪斯尼动画
 http://125.227.210.37:8894/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Taiwan (臺灣)", 探索频道
+http://122.146.68.116:4046/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebc40.jpg" group-title="Taiwan (臺灣)", 東森戲劇
 http://125.227.210.37:8910/VideoInput/play.ts
@@ -78,12 +81,6 @@ http://60.199.188.61/HLS/Congress2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20160908173455yhvHFdR.jpg" group-title="Taiwan (臺灣)", 好萊塢電影臺
 http://125.227.210.37:8909/VideoInput/play.ts
-
-#EXTINF:-1 tvg-logo="https://www.goodtv.tv/images/GoodTV_logo2.png" group-title="Taiwan (臺灣)",好消息綜合
-http://live.streamingfast.net/osmflivech1.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P310122R1H5.jpg" group-title="Taiwan (臺灣)",好消息真理
-http://live.streamingfast.net/osmflivech2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Taiwan (臺灣)", HBO中文電影臺
 http://125.227.210.37:8895/VideoInput/play.ts
