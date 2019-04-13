@@ -14,10 +14,10 @@ http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/b4d3ae170440facf72122b89465ee27e.jpg" group-title="Denmark (Danmark)", TV 2 Lorry
 http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/b4d3ae170440facf72122b89465ee27e.jpg" group-title="Finland (Suomi)", Yle TV 1
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63038_logo_yle_tv_1.png" group-title="Finland (Suomi)", Yle TV 1
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/b4d3ae170440facf72122b89465ee27e.jpg" group-title="Finland (Suomi)", Yle TV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/1200px-Yle_TV2_logo.svg.png" group-title="Finland (Suomi)", Yle TV 2
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
 
 #EXTINF:0 tvg-logo="https://www.n4.is/static/themes/2013/images/logo.png" group-title="Iceland(Ísland)", N4 TV
@@ -26,14 +26,14 @@ http://tv.vodafoneplay.is/n4/index.m3u8
 #EXTINF:0 tvg-logo="http://fatstone.tv/wp-content/uploads/2017/09/logo-fatstone-black.png" group-title="Norway(Norge)", Fatstone TV
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norway(Norge)", Kanal 10 Norge
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norway(Norge)", Nrk 1
+http://83.56.24.104:9981/stream/channelid/1194774004?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
+
+#EXTINF:0 tvg-logo="https://www.kanal10.se/Images/Logga/kanal10.png" group-title="Norway(Norge)", Kanal 10 Norge
 http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://einnsyn.stortinget.no/einnsyn/Content/Custom/style/logo/Stortinget-logo-hvit-tekst-svart.png" group-title="Norway(Norge)", Stortinget
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norway(Norge)", Nrk
-http://83.56.24.104:9981/stream/channelid/1194774004?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/MTV.uk.png" group-title="Norway(Norge)", MTV Norg
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
