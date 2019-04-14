@@ -25,10 +25,12 @@ https://5aba747f60841.streamlock.net/unevent/smil:iplustv.smil/chunklist_w124074
 http://62.210.141.179:8000/ibrahim/123456/1199
 #EXTINF:-1 tvg-logo="http://uttarbangla.com/Images/CompanyLogo.jpg" group-title="Bengali(বাংলা)",  Uttar Bangla
 http://209.58.164.245/uttarbanglahls/live.m3u8
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/10/zee-bangla_4.jpg" group-title="Bengali(বাংলা)",Zee Bangla
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/101930
-#EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-1024x486.png" group-title="Bengali(বাংলা)",Zee Bangla Cinema
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64321
+
+#EXTINF:-1 tvg-logo="http://www.dhamaal.tv/images/logo.png" group-title="Bhojpuri(भोजपुरी)",Dhamaal
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+#EXTINF:-1 tvg-logo="http://mahuaentertainment.com/images/Mahua_plus_logo.png" group-title="Bhojpuri(भोजपुरी)",Mahua Plus
+http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.bloombergquint.com/bq-logo.png" group-title="India(English)",Bloomberg Quint
 https://d1j33l0xltpapp.cloudfront.net/bqmain_2.m3u8
@@ -46,9 +48,6 @@ https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
 https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="India(English)",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:0 tvg-logo="http://www.zeecafe.tv/wp-content/themes/zeecafe/logo.png" group-title="India(English)",Zee Cafe
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/96960
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="Gujarati(ગુજરાતી)",  CNBC Bajar 
 https://cnbc_gujrati_hls-lh.akamaihd.net/i/cnbc_gujrati_hls_n_1@178933/index_5_av-p.m3u8
@@ -67,6 +66,8 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/824
 #EXTINF:-1 tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2017/01/mainlogo_hindi_new.png" group-title="Hindi(हिन्दी)", News 18 Hindi
 http://62.210.141.179:8000/ibrahim/123456/1204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News18_Rajasthan.jpeg/300px-News18_Rajasthan.jpeg" group-title="Hindi(हिन्दी)", News 18 Rajasthan
+https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="Hindi(हिन्दी)",  WOW Cinema
 https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(हिन्दी)",   Zee Cinema
