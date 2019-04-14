@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1068224865843335170/BfSzKc5O_400x400.jpg" group-title="Kannada( ಕನ್ನಡ)",Sakkat
+http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+
+#EXTINF:0, group-title="Malayalam",Asianet News
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:0, group-title="Malayalam",GoSree Vision
+http://150.242.21.2/gosree.m3u8
+#EXTINF:0, group-title="Malayalam",Harvest TV
+http://7mbd4ogkr3gx-hls-live.wmncdn.net/886/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",Kaumudy
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Malayalam",Media Net
+http://150.242.21.2/medianet.m3u8
+#EXTINF:0, group-title="Malayalam",TCV
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0, group-title="Malayalam",Reporter TV
+http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8
+#EXTINF:0, group-title="Malayalam",News 18 Malayalam
+https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/ITN_TV_Sri_Lanka.png" group-title="Sir Lanka(ශ්‍රී ලංකා)",ITN channel
+http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zg0v4hJUnGA/maxresdefault_live.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rupavahini.lk/images/logo_2018_new.png" group-title="Sir Lanka(ශ්‍රී ලංකා)", Rupavahini TV
+http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.1yestv.com/images/logo.png" group-title="Tamil (தமிழ்)", 1Yes TV
 http://150.242.21.2/oneyes.m3u8
 #EXTINF:-1 tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="Tamil (தமிழ்)", Aarya TV
@@ -26,8 +53,6 @@ https://cdn.ibctamil.com/ibc-comedy/smil:ibccomedy.smil/chunklist.m3u8
 https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923092663024230400/D0Q0FmRX_400x400.jpg" group-title="Tamil (தமிழ்)",Madhimugam TV
 http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-rzwgZtxDid0/V0roG7RCeBI/AAAAAAAAPOI/YfD-SeVTblY4SMnqy4JPKaGqdynV6nRZgCLcB/s1600/Makkal%2BTV.png" group-title="Tamil (தமிழ்)",Makkal TV
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/103402
 #EXTINF:-1 tvg-logo="http://www.malaimurasu.in/wp-content/uploads/2018/01/Malaimurasu-Seithigal-Logo.png" group-title="Tamil (தமிழ்)",Murasu TV
 http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/Nethra.png" group-title="Tamil (தமிழ்)",Nethra TV
@@ -50,16 +75,12 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/73840
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/706800739776143360/P38PX84d.jpg" group-title="Tamil (தமிழ்)",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil (தமிழ்)",Star Vijay
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/177465
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="Tamil (தமிழ்)",Sivan TV
 https://sivan.vedge.infomaniak.com/livecast/sivan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/29074612SKTAT%20TV.png" group-title="Tamil (தமிழ்)",Sktat TV
 http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fMs4cj.png" group-title="Tamil (தமிழ்)",Sri Krishna TV
 http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
-#EXTINF:-1 tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/b46dfdf9-dfcd-4c14-8bb4-f0fb62e1f7a3.jpg" group-title="Tamil (தமிழ்)",Swasthik TV
-rtmp://flash5.chennaistream.net/swasthiktv/_definst_/mp4:swasthiktvlive
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TviHd1.png/1200px-TviHd1.png" group-title="Tamil (தமிழ்)",Tamil Vision
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/605132/tamilan-television-squarelogo-1472818890022.png" group-title="Tamil (தமிழ்)",Tamilian Television
@@ -70,12 +91,3 @@ http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="Tamil (தமிழ்)",Vendharm TV
 http://45.79.203.234:1935/vendharm/myStream/chunklist_w200179631index.m3u8
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/10/Zee-Tamil_10.jpg" group-title="Tamil (தமிழ்)",Zee Tamil
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64313
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/ITN_TV_Sri_Lanka.png" group-title="Sir Lanka(ශ්‍රී ලංකා)",ITN channel
-http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zg0v4hJUnGA/maxresdefault_live.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)",Vasantham TV
-http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.rupavahini.lk/images/logo_2018_new.png" group-title="Sir Lanka(ශ්‍රී ලංකා)", Rupavahini TV
-http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
