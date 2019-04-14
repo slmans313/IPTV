@@ -134,6 +134,12 @@ http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="Germany(Deutschland)",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.main.tv/wp-content/themes/main-tv/img/maintv_media_logo_Web.png" group-title="Germany(Deutschland)",Main TV 1
+http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.main.tv/wp-content/themes/main-tv/img/maintv_media_logo_Web.png" group-title="Germany(Deutschland)",Main TV 2
+http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="Germany(Deutschland)",NDR Hamburg
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
 
