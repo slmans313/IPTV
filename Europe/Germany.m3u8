@@ -53,6 +53,12 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Czech Republic(Česká)",Slagr TV
 http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
+
+#EXTINF:-1  tvg-logo="http://i67.tinypic.com/1zcz428.jpg" group-title="Germany(Deutschland)",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
 #EXTINF:-1  tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Germany(Deutschland)",Alex Berlin TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
 
@@ -67,9 +73,6 @@ https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
 
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Germany(Deutschland)",Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-
-#EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
-https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
 
 #EXTINF:-1  tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/03/Deutsches-Musik-Fernsehen.jpg" group-title="Germany(Deutschland)",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
@@ -207,9 +210,6 @@ http://swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/index_1800_av-p.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.sylt1.tv/wp-content/themes/sylt1/img/sylt1-logo.png" group-title="Germany(Deutschland)",SYLT1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
-
-#EXTINF:-1  tvg-logo="http://i67.tinypic.com/1zcz428.jpg" group-title="Germany(Deutschland)",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png" group-title="Germany(Deutschland)",TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
