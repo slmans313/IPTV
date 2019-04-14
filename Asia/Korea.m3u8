@@ -45,6 +45,9 @@ http://116.45.184.224:9981/stream/channelid/105341578?ticket=B3F8EAECB89B703F2D2
 #EXTINF:-1 logo="http://kbsworldimage.kbs.co.kr/images/logo.png" group-title="South Korea(한국어)",KBS World
 http://cdn.nexttvnet.ru/hlsl/23/kbs_world/playlist.m3u8
 
+#EXTINF:-1 logo="http://i.imgur.com/RcViTam.png" group-title="South Korea(한국어)", KNN
+http://116.45.184.224:9981/stream/channelid/1518177377?ticket=AE81523C785B3982EEB2E2A360FE11B7C4C53C85&profile=pass
+
 #EXTINF:-1 logo="https://i.imgur.com/WDQdCBB.png" group-title="South Korea(한국어)", Korea TV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 
@@ -72,23 +75,19 @@ http://49.166.196.215:9981/stream/channelid/776732422?ticket=AD486C0B5D717496FB5
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/SBS_Plus_logo.png/582px-SBS_Plus_logo.pngg" group-title="South Korea(한국어)", SBS Plus
 http://116.45.184.224:9981/stream/channelid/866404442?ticket=B3F8EAECB89B703F2D258B5F5B96F9C6CF3DB728&profile=pass
 
-#EXTINF:-1 logo="https://i.imgur.com/hHeJkei.png" group-title="South Korea(한국어)",Testing 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5sVA9J.png" group-title="South Korea(한국어)", TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+
+#EXTINF:-1 logo="http://www.news-y.co.kr/wp-content/uploads/2015/02/toplogo-newsy.png" group-title="South Korea(한국어)",Yonhap News
 http://116.45.184.224:9981/stream/channelid/1395283248?ticket=B25D1F096C82330D2C2E710E799255D68C7535C7&profile=pass
 
-#EXTINF:-1 logo="https://i.imgur.com/hHeJkei.png" group-title="South Korea(한국어)",Testing 2
+#EXTINF:-1 logo="http://i.imgur.com/VBMFcZ3.png" group-title="South Korea(한국어)",MBC Dramanet
 http://116.45.184.224:9981/stream/channelid/302476666?ticket=8D36BEAD1258F786C733FA60546FE5E3386597B6&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/VBMFcZ3.png" group-title="South Korea(한국어)",MBC Dramanet
+http://116.45.184.224:9981/stream/channelid/491114527?ticket=76121074951AECD8EE28B41E419411460113F425&profile=pass
 
-#EXTINF:-1 logo="http://i.imgur.com/RcViTam.png" group-title="South Korea(한국어)", KNN
-http://116.45.184.224:9981/stream/channelid/1518177377?ticket=AE81523C785B3982EEB2E2A360FE11B7C4C53C85&profile=pass
-
-#EXTINF:-1 logo="http://i.imgur.com/HiCKxpt.png" group-title="South Korea(한국어)", Testing 3
-http://116.45.184.224:9981/stream/channelid/533834680?ticket=52938702CB77F97667D3B029FE0A15325E147C81&profile=pass
-
-#EXTINF:-1 logo="http://i.imgur.com/VBMFcZ3.png" tgroup-title="South Korea(한국어)", Testing 4
-http://116.45.184.224:9981/stream/channelid/302476666?ticket=8D36BEAD1258F786C733FA60546FE5E3386597B6&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G5sVA9J.png" group-title="South Korea(한국어)", TV조선
-http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 logo="http://i.imgur.com/VBMFcZ3.png" group-title="South Korea(한국어)",JTBC3
+http://116.45.184.224:9981/stream/channelid/563632510?ticket=A4B11DD3BF375E58F77B43601EA6199D9D8385BF&profile=pass
 
 #EXTINF:-1 logo="https://image.ytn.co.kr/general/jpg/mp3/google/logo.png"  group-title="South Korea(한국어)",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
