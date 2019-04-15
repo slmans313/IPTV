@@ -35,19 +35,23 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/it/Boing.it.png" group-title="Italy(Italia)",Boing
 http://80.238.134.35/boing/mpegts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Canale5.it.png" group-title="Italy(Italia)",Canale 5
-http://80.238.134.35/canale5/mpegts
+https://1.ip2stream.icu/live/canale_5_hd/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="Italy(Italia)",Cielo
+https://1.ip2stream.icu/live/cielo_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.licensingitalia.it/wp-content/uploads/2017/04/Cartoonito-Logo-1.jpg" group-title="Italy(Italia)", Cartoonito Italia
 http://80.238.134.35/cartoonito/mpegts
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180617/htu/kisspng-la5-logo-italy-television-channel-5b26f405a622d1.4095499515292794936805.jpg" group-title="Italy(Italia)",La 5
 http://80.238.134.35/la5/mpegts
+#EXTINF:-1  tvg-logo="http://www.dtti.it/wp-content/uploads/2018/03/20_logo-1.jpg" group-title="Italy(Italia)",Mediaset 20
+https://1.ip2stream.icu/live/20_mediaset_hd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1200px-Mediaset_Extra_logo.svg.png" group-title="Italy(Italia)",Mediaset Extra
-http://80.238.134.35/MediasetExtra/mpegts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Italia1.it.png" group-title="Italy(Italia)",Italia 
-http://80.238.134.35/Italia1/mpegts
+https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Italia1.it.png" group-title="Italy(Italia)",Italia 1
+https://1.ip2stream.icu/live/italia_1_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Italia2.it.png" group-title="Italy(Italia)",Italia 2 
 http://80.238.134.35/MediasetItaliaDue/mpegts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Iris.it.png" group-title="Italy(Italia)", Iris
-http://80.238.134.35/Iris/mpegts
+https://1.ip2stream.icu/live/iris_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/346-3464307_rete-4-hd-mediaset.png" group-title="Italy(Italia)", Rete 4
 https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8
 
@@ -78,9 +82,6 @@ http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="Italy(Italia)",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="Italy(Italia)",Cielo
-https://1.ip2stream.icu/live/cielo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/673471/logo_company%20tv.png" group-title="Italy(Italia)",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
@@ -125,7 +126,7 @@ http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
 http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ParamountNetwork.us.png" group-title="Italy(Italia)",Paramount Channel
-https://1.ip2stream.icu/live/paramount_channel_hd/chunks.m3u8$
+https://1.ip2stream.icu/live/paramount_channel_hd/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-primarete-lombardia.jpg" group-title="Italy(Italia)",Primarete Lombardia
 http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
