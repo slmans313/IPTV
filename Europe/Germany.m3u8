@@ -1,253 +1,129 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="Austria(Österreich)",Deluxe Music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Austria(Österreich)",FS1 Salzburg
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/500px-Logo-gotv-2004.svg_.png" group-title="Austria(Österreich)",Go TV
-http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png" group-title="Austria(Österreich)",Oe24
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://stvron.com/canale/mari/okto-tv.png" group-title="Austria(Österreich)",Okto TV
-http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="Austria(Österreich)",Tirol TV
-http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/at-yu-planet-tv.jpg" group-title="Austria(Österreich)",YU Planet
-http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Bulgaria(България)", EuroSports 1
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/78791
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Bulgaria(България)", EuroSports 2
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/78792
-
-#EXTINF:-1 tvg-logo="https://webfiles.notele.be/layout/logo.png" group-title="Belgium", notélé
-https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="Belgium", Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mmtv.bg/mmtv.png" group-title="Bulgaria(България)",MM-TV
-http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.planeta.tv/img/logo-header.png" group-title="Bulgaria(България)",Planeta
-http://84.43.207.130/planetahd/planetahd.m3u8
-
-#EXTINF:-1 tvg-logo="http://radiofresh.bg/i/logo.png" group-title="Bulgaria(България)",Радио Fresh
-http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="Bulgaria(България)",This is Bulgaria
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="Czech Republic(Česká)",Ocko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/375px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Czech Republic(Česká)",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png" group-title="Czech Republic(Česká)",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 tvg-logo="http://retro.monstermedia.cz/wp-content/uploads/2017/09/retro-logo-bile2.png" group-title="Czech Republic(Česká)",Retro Music TV
-http://stream.mediawork.cz/retrotv/retrotvHQ2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://retro.monstermedia.cz/wp-content/uploads/2017/09/retro-logo-bile2.png" group-title="Czech Republic(Česká)",Retro Music TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Czech Republic(Česká)",Slagr TV
-http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
-
 #EXTINF:-1  tvg-logo="http://i67.tinypic.com/1zcz428.jpg" group-title="Germany(Deutschland)",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-
 #EXTINF:-1  tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Germany(Deutschland)",Alex Berlin TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png" group-title="Germany(Deutschland)",Allgau TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://baden-tv.com/wp-content/uploads/2017/11/badentv-logo.png" group-title="Germany(Deutschland)",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Germany(Deutschland)",BR Fernsehen Süd
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
-
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Germany(Deutschland)",Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-
 #EXTINF:-1  tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/03/Deutsches-Musik-Fernsehen.jpg" group-title="Germany(Deutschland)",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
-
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle +
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle 
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png" group-title="Germany(Deutschland)",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://drf-tv.de/media/tv_group/images_21/img_1/works/Druck_DRF1_246pxfw.png" group-title="Germany(Deutschland)", DRF 1
 http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Germany(Deutschland)", Euronews Deutsche
 http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
-
 #EXTINF:-1  tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="Germany(Deutschland)",Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-
 #EXTINF:-1  tvg-logo="http://eotv.de/wp-content/uploads/2015/12/Cranberry-Logo.png" group-title="Germany(Deutschland)",eoTV
 http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="Germany(Deutschland)",Franken Fernsehen
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg" group-title="Germany(Deutschland)",Folx TV
 http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png" group-title="Germany(Deutschland)",h1
 http://livestream.htp.tv/livestream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png" group-title="Germany(Deutschland)", Hamburg 1
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:7651-sbr.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="Germany(Deutschland)",HR Fernsehen
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" group-title="Germany(Deutschland)",Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://kulturmd.de/images/2018_KMDLogo.png" group-title="Germany(Deutschland)",kulturmdTV
 http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png" group-title="Germany(Deutschland)",KabelJournal
 http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png" group-title="Germany(Deutschland)",L-TV
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/maintv.png" group-title="Germany(Deutschland)",main.tv
-http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.hms-dev.com/images/logos/references/mdf1_rbw.png" group-title="Germany(Deutschland)",MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="Germany(Deutschland)",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.main.tv/wp-content/themes/main-tv/img/maintv_media_logo_Web.png" group-title="Germany(Deutschland)",Main TV 1
 http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.main.tv/wp-content/themes/main-tv/img/maintv_media_logo_Web.png" group-title="Germany(Deutschland)",Main TV 2
 http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="Germany(Deutschland)",NDR Hamburg
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="Germany(Deutschland)",NDR Mecklenburg-Vorpommern
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/NDR_1_Niedersachsen_Logo.svg/2000px-NDR_1_Niedersachsen_Logo.svg.png" group-title="Germany(Deutschland)",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="Germany(Deutschland)",NDR Schleswig-Holstein
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-
 #EXTINF:-1  tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Germany(Deutschland)",Noa 4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-
 #EXTINF:-1  tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Germany(Deutschland)",Noa 4 Hamburg
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.otv.de/wp-content/themes/otv/img/logo.png" group-title="Germany(Deutschland)",Oberpfalz TV
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png" group-title="Germany(Deutschland)", oldenburg eins
 http://188.40.16.94:1935/live/studio/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title="Germany(Deutschland)",Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png" group-title="Germany(Deutschland)",OK Koblenz
 http://stream-cdn.ok54.de/hls/ok4.m3u8
-
 #EXTINF:-1 tvg-logo="https://ok54.de/wp-content/uploads/2012/01/ok54.png" group-title="Germany(Deutschland)",OK Trier
 http://stream-cdn.ok54.de/hls/ok54.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="Germany(Deutschland)",Parlamentsfernsehen 1
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="Germany(Deutschland)",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="Germany(Deutschland)",pop10
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png" group-title="Germany(Deutschland)", Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png" group-title="Germany(Deutschland)",Regio TV Schwaben
 http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="Germany(Deutschland)",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="Germany(Deutschland)",Rheinmain TV
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png" group-title="Germany(Deutschland)",Rhein Neckar Fernsehen
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="Germany(Deutschland)",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/1200px-SWR3_Logo.svg.png" group-title="Germany(Deutschland)",SWR 3
 http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="http://images.viaway.com/112567_640.png" group-title="Germany(Deutschland)",SWR Dasding
 http://swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/index_1800_av-p.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.sylt1.tv/wp-content/themes/sylt1/img/sylt1-logo.png" group-title="Germany(Deutschland)",SYLT1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png" group-title="Germany(Deutschland)",TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.tv38.de/wp-content/uploads/2018/11/header.png" group-title="Germany(Deutschland)",TV38
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TV_Mittelrhein_Logo.svg/2000px-TV_Mittelrhein_Logo.svg.png" group-title="Germany(Deutschland)",TV Mittelrhein
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg" group-title="Germany(Deutschland)",TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.teamkral.de/uploads/pics/tvo20logo_01.jpg" group-title="Germany(Deutschland)",TVO
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg" group-title="Germany(Deutschland)",TV Touring Schweinfurt
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg" group-title="Germany(Deutschland)",TV Touring Wurzburg
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="Germany(Deutschland)",Unserding
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="Germany(Deutschland)",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.weltderwunder.de/assets/logo-d3352413add281f623f72749b900081a38dea748e4c2bfd46816501282378788.png" group-title="Germany(Deutschland)", Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png" group-title="Germany(Deutschland)",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 
@@ -270,30 +146,7 @@ http://37.152.135.169:9002/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/tv2.hu.png" group-title="Hungary(MagyarorszĂˇg)",TV2
 http://37.152.135.169:9002/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Netherlands", BVN
-http://e2.tvmucho.com:8081/tvmucho/bvn-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDEvMjMvMjAxNyAwODoxOToyNCBBTSZoYXNoX3ZhbHVlPXZVMjVqTDlkOGJVcWxPak1BRVNrMGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9OEw4TDc5JnN0cm1fbGVuPTE5
-#EXTINF:-1 tvg-logo="https://www.omropfryslan.nl/data/files/styles/small_teaser_background/public/klipkar.jpeg" group-title="Netherlands",Klipkar TV
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/400/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.omropfryslan.nl/data/files/styles/small_teaser_background/public/omrop-fryslan-tv-plaatje-1920x1080-v2.jpg" group-title="Netherlands",Omrop Fryslan TV
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_Radio_538_2014.svg/330px-Logo_Radio_538_2014.svg.png" group-title="Netherlands",Radio 538
-http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/RadioVeronica-logo.png" group-title="Netherlands",Radio Veronica
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/RadioVeronica-logo.png" group-title="Netherlands",Radio Veronica
-http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/220px-Logo_XITE_2017_zwart.png" group-title="Netherlands",Xite
-http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.digi24.ro/static/theme-1616-repo/dist/assets/imgs/digi24.ro-logo.png" group-title="România", Digi 24
-http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/DigiWorld.hu.png" group-title="România", Digi World
-http://37.152.135.169:9002/play/a005/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.residentadvisor.net/images/promoter/ro-kissfmkisstv.jpg" group-title="România", KISS TV
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rockfm.ro/app/assets/layout/rock-logo-white.png" group-title="România",Rock TV
-http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.utv.ro/logo.jpg"  group-title="România", U TV
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/SRF_1_logo.svg/1200px-SRF_1_logo.svg.png" group-title="Switzerland",  SRF 1
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64970
