@@ -85,11 +85,17 @@ http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781422/logo_canale%2085.png" group-title="Italy(Italia)",Canale 85 Puglia
 http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="Italy(Italia)",Carina TV
+#EXTINF:-1  tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="Italy(Italia)",Carina TV 
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network Italia
+https://1.ip2stream.icu/live/cartoon_network_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/673471/logo_company%20tv.png" group-title="Italy(Italia)",Company TV
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rv5nySJ6D54/WP0yNt7TByI/AAAAAAAAFcY/RKs43BS84R0MF6LAAQfIEPg_cIkKvmSIQCLcB/s1600/dea_junior.png" group-title="Italy(Italia)",Dea Junior
+https://1.ip2stream.icu/live/dea_junior_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gentevip.it/wp-content/uploads/2015/06/Deejay-Tv.png" group-title="Italy(Italia)",DeeJay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
