@@ -467,7 +467,6 @@ http://212.200.102.3:5000/rtp/239.0.0.2:5000
 #EXTINF:-1  tvg-logo="https://totaltv.tv/oec/images/tv_channels/e51742b4f3b50692d2cb023806964f46.png" group-title="Serbia(Србија)",KCN Svet+ 3
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
 
-
 #EXTINF:-1  tvg-logo="http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg" group-title="Macedonia(Македонија)",Sky Folk
 http://skyfolk.mk/live.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Macedonia(Македонија)",TV Plus
@@ -476,6 +475,19 @@ http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 http://151.236.247.171:9000/live/dzunde/dzunde/1.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_K-C_2013_Logo.png/150px-TV_K-C_2013_Logo.png" group-title="Slovenia(Slovenija)", TV Koper-Capodistria
 http://213.162.202.9:8000/play/a01e/index.m3u8
+
+#EXTINF:0 tvg-logo="http://fatstone.tv/wp-content/uploads/2017/09/logo-fatstone-black.png" group-title="Norway(Norge)", Fatstone TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norway(Norge)", Nrk 1
+http://83.56.24.104:9981/stream/channelid/1194774004?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
+#EXTINF:0 tvg-logo="https://www.kanal10.se/Images/Logga/kanal10.png" group-title="Norway(Norge)", Kanal 10 Norge
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://einnsyn.stortinget.no/einnsyn/Content/Custom/style/logo/Stortinget-logo-hvit-tekst-svart.png" group-title="Norway(Norge)", Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/MTV.uk.png" group-title="Norway(Norge)", MTV Norg
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norway(Norge)", Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Tv-nitricka.png" group-title="Slovakia(Slovensko)", Nitricka
@@ -643,6 +655,11 @@ http://video.telesafor.com/hls/video_high.m3u8
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_de_Televisi%C3%B3n_Canaria.svg/1920px-Logo_de_Televisi%C3%B3n_Canaria.svg.png" group-title="Spanish(español)", TV Canaria
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SVT1_Logotyp.png" group-title="Sweden(Sverige)", SVT1
+http://83.56.24.104:9981/stream/channelid/1275802491?ticket=6B63C2F774DFB0B98EE3A39E75F79B9BD944E845&profile=pass
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/1200px-TV4sweden_logo.svg.png" group-title="Sweden(Sverige)", TV4
+http://83.56.24.104:9981/stream/channelid/1329177212?ticket=E31854C8621FC2E0886ADA982B74AAAB68AF488D&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/SRF_1_logo.svg/1200px-SRF_1_logo.svg.png" group-title="Switzerland",  SRF 1
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64970
