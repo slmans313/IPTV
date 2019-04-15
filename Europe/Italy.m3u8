@@ -86,7 +86,9 @@ https://1.ip2stream.icu/live/k2_hd/chunks.m3u8
 https://1.ip2stream.icu/live/la_5_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.la7.it/sites/default/files/la7_logo_0102_def.png" group-title="Italy(Italia)",La 7
 https://1.ip2stream.icu/live/la_7_hd/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1200px-Mediaset_Extra_logo.svg.png" group-title="Italy(Italia)",Mediaset Extra
+#EXTINF:-1  tvg-logo="http://www.dtti.it/wp-content/uploads/2018/03/20_logo-1.jpg" group-title="Italy(Italia)",Mediaset 20
+https://1.ip2stream.icu/live/20_mediaset_hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.oggi-in-tv.it/logo_thumb/mediaset-extra-thumb.png" group-title="Italy(Italia)",Mediaset Extra
 https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Italy(Italia)", National Geographic Italia
 https://1.ip2stream.icu/live/national_geographic_hd/chunks.m3u8
@@ -100,24 +102,22 @@ https://1.ip2stream.icu/live/paramount_channel_hd/chunks.m3u8
 https://1.ip2stream.icu/live/premium_action_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.oggi-in-tv.it/logo_thumb/premium-stories-thumb.png" group-title="Italy(Italia)",Premium Stories
 https://1.ip2stream.icu/live/premium_stories_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.la7.it/sites/default/files/la7_logo_0102_def.png" group-title="Italy(Italia)",Premium Studio Universal
-https://1.ip2stream.icu/live/studio_universal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.oggi-in-tv.it/logo_thumb/premium-cinema.png" group-title="Italy(Italia)",Premium Cinema
 https://1.ip2stream.icu/live/premium_cinema_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.oggi-in-tv.it/logo_thumb/premium-joi-thumb.pngg" group-title="Italy(Italia)",Premium Joi
 https://1.ip2stream.icu/live/premium_joi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.realtime.it/media/images/realtime_copy.png" group-title="Italy(Italia)", Real Time
 https://1.ip2stream.icu/live/real_time_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sky_Uno_-_Logo_2018.svg/330px-Sky_Uno_-_Logo_2018.svg.png" group-title="Italy(Italia)", Sky Uno
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/300px-StudioUniversal2016.png" group-title="Italy(Italia)",Studio Universal
+https://1.ip2stream.icu/live/studio_universal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.oggi-in-tv.it/logo_thumb/sky-uno-thumb.png" group-title="Italy(Italia)", Sky Uno
 https://1.ip2stream.icu/live/sky_uno_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.la7.it/sites/default/files/la7_logo_0102_def.png" group-title="Italy(Italia)", Sky Cinema 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sky_Cinema_%2B24_HD_-_Logo_2018.svg/1280px-Sky_Cinema_%2B24_HD_-_Logo_2018.svg.png" group-title="Italy(Italia)", Sky Cinema +24
 https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.la7.it/sites/default/files/la7_logo_0102_def.png" group-title="Italy(Italia)",Sky Cinema Hits
-https://1.ip2stream.icu/live/Sky_cinema_hits_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.la7.it/sites/default/files/la7_logo_0102_def.png" group-title="Italy(Italia)",Sky Cinema Comedy
+#EXTINF:-1 tvg-logo="https://www.oggi-in-tv.it/logo_thumb/sky-cinema-comedy-thumb.png" group-title="Italy(Italia)",Sky Cinema Comedy
 https://1.ip2stream.icu/live/Sky_cinema_comedy_hd/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.dtti.it/wp-content/uploads/2018/03/20_logo-1.jpg" group-title="Italy(Italia)",Mediaset 20
-https://1.ip2stream.icu/live/20_mediaset_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="Italy(Italia)",Sky Cinema Hits
+https://1.ip2stream.icu/live/Sky_cinema_hits_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/346-3464307_rete-4-hd-mediaset.png" group-title="Italy(Italia)", Rete 4
 https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/topcrime.png" group-title="Italy(Italia)", Top Crime
@@ -178,9 +178,6 @@ http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp
 
 #EXTINF:-1  tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="Italy(Italia)",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.marcopolo.tv/assets/images/marcopolo_white.png" group-title="Italy(Italia)",Marcopolo
-http://80.238.134.35/Marcopolo/mpegts
 
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/791188/logo_nettuno%20tv.png" group-title="Italy(Italia)",Nettuno TV
 http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
