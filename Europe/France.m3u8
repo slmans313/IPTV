@@ -71,6 +71,24 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Czech Republic(Česká)",Slagr TV
 http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
 
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/KKR-TV-webtvonlive-com.jpg" group-title="Denmark (Danmark)", KKR TV
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://omtv2.tv2.dk/fileadmin/_processed_/csm_news_positiv_RGB_4c042838f6.png" group-title="Denmark (Danmark)", TV2 News
+https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
+#EXTINF:-1 tvg-logo="http://businesscenterbornholm.dk/wp-content/uploads/2018/06/tv2-bornholm.png" group-title="Denmark (Danmark)", TV2 Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/1ace70ae36f5f9b12d2fe57ef1b3c6b5.jpeg" group-title="Denmark (Danmark)", TV 2 Fyn
+http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/b4d3ae170440facf72122b89465ee27e.jpg" group-title="Denmark (Danmark)", TV 2 Lorry
+http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Done-TV2_Play_W800.jpg" group-title="Denmark (Danmark)", TV2 Play
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/a9/2b/4f/a92b4fe3-a3b8-8e0d-b61a-f2838f6d3b18/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/246x0w.jpg" group-title="Denmark (Danmark)", TV2 Syn
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kringvarp_foroya.jpg/300px-Kringvarp_foroya.jpg" group-title="Denmark (Danmark)", Kringvarp Føroya
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png"  group-title="France(français)", BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BFMTV.fr.png"  group-title="France(français)",BeBlack Africa
@@ -105,6 +123,12 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/107082
 http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="France(français)",  TVM Est parisien
 https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63038_logo_yle_tv_1.png" group-title="Finland (Suomi)", Yle TV 1
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/1200px-Yle_TV2_logo.svg.png" group-title="Finland (Suomi)", Yle TV 2
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
 #EXTINF:-1  tvg-logo="http://i67.tinypic.com/1zcz428.jpg" group-title="Germany(Deutschland)",tagesschau24
@@ -250,3 +274,10 @@ http://37.152.135.169:9002/play/a00j/index.m3u8
 http://37.152.135.169:9002/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/tv2.hu.png" group-title="Hungary(MagyarorszĂˇg)",TV2
 http://37.152.135.169:9002/play/a003/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.ruv.is/sites/all/themes/at_ruv/images/default-image-1200x750.png" group-title="Iceland(Ísland)", RUV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+#EXTINF:0 tvg-logo="http://www.ruv.is/sjonvarp/static/media/RUV2_192.9247daaf.png" group-title="Iceland(Ísland)", RUV 2
+http://ruvruv2erl-live.hls.adaptive.level3.net//ruv/ruv2erl/index/stream5.m3u8
+#EXTINF:0 tvg-logo="https://www.n4.is/static/themes/2013/images/logo.png" group-title="Iceland(Ísland)", N4 TV
+http://tv.vodafoneplay.is/n4/index.m3u8
