@@ -362,19 +362,16 @@ http://live1.kronopress.com:1935/videostar_live/videostar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2DZYiFX0AIqv6r.jpg" group-title="Italy(Italia)",VVideo Star Plus 
 http://live1.kronopress.com:1935/videostar_live/videostar2/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="Kosovo(Kosovës)",RTK 1 Kosovo
+#EXTINF:-1  tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Kosovo(Kosovës)",RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Kosovo(Kosovës)",RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Kosovo(Kosovës)",RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk4.png" group-title="Kosovo(Kosovës)",RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/New%20IPTV%20Icons/discovermalta.png" group-title="Malta",Discover Malta
-http://www.evoiptv.com/hlsdiscover/hlsdiscover.m3u8
-#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/PM.png" group-title="Malta",Drama
-http://www.evoiptv.com/hlsdrama/hlsdrama.m3u8
-#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/maltese/Evo%20Tv.png" group-title="Malta",EVO
-http://www.evoiptv.com/hlsevo/hlsevo.m3u8
-#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/MVTV.png" group-title="Malta",Malta Vision MTV
-http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
-#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/tfal.png" group-title="Malta",Splaxxx
-http://www.evoiptv.com/hlskids/hlskids.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.tvm.com.mt/mt/wp-content/uploads/sites/1/2013/09/tvm_com_mt-Logo-HI-rRES-SOLID-COLOUR.png" group-title="Malta", TVM
 http://212.56.139.219:9981/stream/channelid/1851785642?ticket=D37F8FC8115D59DB6B5741562906F982E241D312&profile=pass
 #EXTINF:-1 tvg-logo="https://3a09223b3cd53870eeaa-7f75e5eb51943043279413a54aaa858a.ssl.cf3.rackcdn.com/73dfe6d7221a3c11bbf12d1392ad2ec81954500570-1330951130-4f54b3da-620x348.jpg" group-title="Malta", TVM 2
@@ -391,6 +388,16 @@ http://212.56.139.219:9981/stream/channelid/1468136085?ticket=1BA086E8E7F9DAEB44
 http://212.56.139.219:9981/stream/channelid/612593995?ticket=BF7ECC3194782A80BBE22976F5308D9EB9110F93&profile=pass
 #EXTINF:-1 tvg-logo="https://www.licensingitalia.it/wp-content/uploads/2017/04/Cartoonito-Logo-1.jpg" group-title="Malta", Cartoonito Malata
 http://212.56.139.219:9981/stream/channelid/55557450?ticket=85FC3B5F9AA0CD31C72158B07283CA397812280F&profile=pass
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/New%20IPTV%20Icons/discovermalta.png" group-title="Malta",Discover Malta
+http://www.evoiptv.com/hlsdiscover/hlsdiscover.m3u8
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/PM.png" group-title="Malta",Drama
+http://www.evoiptv.com/hlsdrama/hlsdrama.m3u8
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/maltese/Evo%20Tv.png" group-title="Malta",EVO
+http://www.evoiptv.com/hlsevo/hlsevo.m3u8
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/MVTV.png" group-title="Malta",Malta Vision MTV
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+#EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/tfal.png" group-title="Malta",Splaxxx
+http://www.evoiptv.com/hlskids/hlskids.m3u8
 
 #EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Netherlands", BVN
 http://e2.tvmucho.com:8081/tvmucho/bvn-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDEvMjMvMjAxNyAwODoxOToyNCBBTSZoYXNoX3ZhbHVlPXZVMjVqTDlkOGJVcWxPak1BRVNrMGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9OEw4TDc5JnN0cm1fbGVuPTE5
