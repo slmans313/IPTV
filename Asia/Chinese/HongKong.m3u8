@@ -89,19 +89,38 @@ http://60.199.188.61/HLS/Congress1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d2/Congress_Channel_2_%28Taiwan%29.jpg/440px-Congress_Channel_2_%28Taiwan%29.jpg" group-title="Taiwan (臺灣)", 國會頻道 2
 http://60.199.188.61/HLS/Congress2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20160908173455yhvHFdR.jpg" group-title="Taiwan (臺灣)", 好萊塢電影臺
+#EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20160908173455yhvHFdR.jpg" group-title="Taiwan (臺灣)", 好萊塢電影
 http://125.227.210.37:8909/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Taiwan (臺灣)", HBO中文電影臺
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Taiwan (臺灣)", HBO中文電影
 http://125.227.210.37:8895/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2151Q1450-L.jpg" group-title="Taiwan (臺灣)", 龍華電影臺
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Taiwan (臺灣)", 靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040707_25993.jpg" group-title="Taiwan (臺灣)",  靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040733_66835.jpgg" group-title="Taiwan (臺灣)", 靖天育樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="Taiwan (臺灣)", 靖天戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="Taiwan (臺灣)", 靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040645_77060.jpg" group-title="Taiwan (臺灣)", 靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040653_18506.jpg" group-title="Taiwan (臺灣)", 靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="Taiwan (臺灣)", 靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="Taiwan (臺灣)", 靖天電影
+http://61.58.60.230:9319/live/244.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2151Q1450-L.jpg" group-title="Taiwan (臺灣)", 龍華電影
 http://ms006.happytv.com.tw/live/xm80UCshgLnL4f0y/index.m3u8?token=c9JZiuKdZjWetb9TuWFZvg&time=1554530036919
 
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2151Q1450-L.jpg" group-title="Taiwan (臺灣)", 龍華偶像臺
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2151Q1450-L.jpg" group-title="Taiwan (臺灣)", 龍華偶像
 http://ms006.happytv.com.tw/live/jluCtnqIsVG31tpb/index.m3u8?token=ju530-kHHWuKLJKGDmJB2A&time=1554530150195
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ltvyingju.jpg" group-title="Taiwan (臺灣)", 龍華日韓臺
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ltvyingju.jpg" group-title="Taiwan (臺灣)", 龍華日韓
 http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8?token=sXdnr7TrwoteozOuSE0VgQ&time=1554530058242
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Taiwan (臺灣)", 旅遊生活頻道
@@ -135,7 +154,7 @@ http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z215143213I8.jpg" group-title="Taiwan (臺灣)",衛視西片臺
 http://122.146.68.116:4016/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Star_chinese_movies_legend.png" group-title="Taiwan (臺灣)",衛視卡式臺
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Star_chinese_movies_legend.png" group-title="Taiwan (臺灣)",衛視卡式
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
 
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="Taiwan (臺灣)",亞洲旅游
