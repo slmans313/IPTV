@@ -82,6 +82,8 @@ http://60.199.188.61/HLS/Congress2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20160908173455yhvHFdR.jpg" group-title="Taiwan (臺灣)", 好萊塢電影
 http://125.227.210.37:8909/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Taiwan (臺灣)", HBO中文電影
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="Taiwan (臺灣)", HBO中文電影 HD
 http://125.227.210.37:8895/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Taiwan (臺灣)", 靖天歡樂
 http://61.58.60.230:9319/live/201.m3u8
@@ -117,6 +119,8 @@ http://125.227.210.37:8903/VideoInput/play.ts
 http://122.146.68.116:4021/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/03/TTV_Home_Channel_with_HD_2015.png" group-title="Taiwan (臺灣)",  臺視
 http://61.216.177.73/sta/ch10119036.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/03/TTV_Home_Channel_with_HD_2015.png" group-title="Taiwan (臺灣)",  臺視 HD
+http://185.216.119.139:2015/ftvs.php?channelid=569f55b2981e0c7f0a061225&channeltype=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/TTV_General_Channel_2016.png/400px-TTV_General_Channel_2016.png" group-title="Taiwan (臺灣)", 臺視綜合
 http://61.216.177.73/sta/ch10119037.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Taiwan (臺灣)", 探索頻道
