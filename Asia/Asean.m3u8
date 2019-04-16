@@ -247,11 +247,13 @@ http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="Thailand (ประเทศไทย)",Ch 5
 http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w540164127_b1024000.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thailand (ประเทศไทย)",  Ch 7
-http://103.242.13.90:5555/udp/239.4.2.108:10000
+http://27.254.130.64/live01/1.m3u8?p=iptv 
 #EXTINF:0 tvg-logo="https://ufc-video.s3.amazonaws.com/styles/card/s3/image/NONEVENT/Channel8-RSThailand.png?Vdp3h8Hp1V9P8qtmHdVR7K65LrmzZAe0&itok=BzIdXe1Q" group-title="Thailand (ประเทศไทย)",Ch 8
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:0  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/DoChannal59.png" group-title="Thailand (ประเทศไทย)",  Do Channel
-https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist_w105799834.m3u8
+https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://www.daradaily.com/images/daradaily_logo_8_2017.png" group-title="Thailand (ประเทศไทย)",  Dara Daily
+http://27.254.130.64/live01/wl16.m3u8?p=iptv 
 #EXTINF:0  tvg-logo="http://www.onlinethailand.net/tv_online/images-full/esan-tv-full.jpg" group-title="Thailand (ประเทศไทย)",  Esan TV
 https://edge1a.v2h-cdn.com/appt3/EsanTV.stream_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.onlinethailand.net/tv_online/images/etv-thai.jpg" group-title="Thailand (ประเทศไทย)",ETV
@@ -321,7 +323,7 @@ http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png" group-title="Thailand (ประเทศไทย)", White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png" group-title="Thailand (ประเทศไทย)", Voice TV 21
-https://c01server.mangotv.in.th:8043/tvxy99/chvoicetv/index.m3u8
+http://27.254.130.64/live02/6.m3u8?p=iptv 
 #EXTINF:0 tvg-logo="http://tv-online.in/wp-content/uploads/2014/10/You-Channel-live.gif" group-title="Thailand (ประเทศไทย)",You Channel
 http://stream.rs.co.th/you-hi/index.m3u8
 
