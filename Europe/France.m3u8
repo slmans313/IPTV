@@ -56,7 +56,10 @@ http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RIK-Sat.png" group-title="Cyprus(Κύπρος)", Rik Sat
-http://us.cloudskep.com/cybcsat/abr/l3/r11/chunks.m3u8?nimblesessionid=1032958
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Sigma_TV.jpg" group-title="Cyprus(Κύπρος)", Sigma TV
+http://81.21.47.74/hls/live.m3u8
+
 #EXTINF:0 tvg-logo="http://www.brtk.net/wp-content/themes/brtk_theme/images/brt1-logo.png" group-title="Cyprus(Kıbrıs)",BRT 1
 http://wms.brtk.net:1935/live/brt1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.brtk.net/wp-content/themes/brtk_theme/images/brt2-logo.png" group-title="Cyprus(Kıbrıs)",BRT 2 Spor
@@ -132,6 +135,9 @@ https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/1200px-Yle_TV2_logo.svg.png" group-title="Finland (Suomi)", Yle TV 2
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hellenicparliament.gr/images/logo_el.gif" group-title="Greece (Ελλάδα)",Βουλή Τηλεόραση
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
