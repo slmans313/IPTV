@@ -118,6 +118,8 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BigTenNetwork.us.png" group-title="College Sports (USA)", Big Ten Network
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 tvg-logo="http://channelv6.com/images/Header/V6-logo.png" group-title="College Sports (USA)", Channel V6
+http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/NewEnglandSportsNetwork.us.png" group-title="College Sports (USA)", NESN
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/51
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1920px-SNY_logo.svg.png" group-title="College Sports (USA)",  SNY
@@ -142,6 +144,8 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WTOC-TV_11_logo.svg/300px-WTOC-TV_11_logo.svg.png" group-title="CBS Regional(USA)", CBS 11 Savannah (WTOC)
 http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
+#EXTINF:-1 tvg-logo="https://pictures.grabien.com/profiles/large/0006/6721.jpg" group-title="CBS Regional(USA)",CBS 12 West Palm Beach (WPEC)
+http://170.250.96.20:8110/cbs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="CBS Regional(USA)", CBS 41 Victoria (KXTS)
 http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" group-title="CBS Regional(USA)", CBS 47 Jacksonville (WJAX)
@@ -150,7 +154,8 @@ http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Fox_4_Kansas_City_logo.png/375px-Fox_4_Kansas_City_logo.png" group-title="Fox Regional(USA)",Fox 4 Kanas (WDAF)
 http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
 
-http://tribwdaf-lh.akamaihd.net/i/WDAFBreaking_1@394769/index_1900_av-b.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Wjbk-logo.png" group-title="Fox Regional(USA)", Fox 2 Detroit (WJBK)
+http://api.new.livestream.com/accounts/6396566/events/2598525/live.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_of_WTTG-TV.png" group-title="Fox Regional(USA)",Fox 5 DC (WTTG)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="Fox Regional(USA)", Fox 5 San Diego (KSWB)
@@ -159,13 +164,15 @@ http://livestream-f.akamaihd.net/9263055_3189799_lsiif62v9mml0go7vgs_1_2320@1768
 http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/WGHP_Fox_8_News_logo.png/225px-WGHP_Fox_8_News_logo.png" group-title="Fox Regional(USA)", Fox 8 North Point (WGHP)
 http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/KSAZ_logo_2006.png/225px-KSAZ_logo_2006.png" group-title="Fox Regional(USA)",Fox 10 Phoniex (KSAZ)
+http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="Fox Regional(USA)", Fox 11 Los Angeles (KTTV)
 https://fubolive.com/live/fox11/index.m3u8
 #EXTINF:-1  tvg-logo="https://localtvkstu.files.wordpress.com/2019/01/kstulogo.jpg" group-title="Fox Regional(USA)", Fox 13 Salt Lake City (KSTU)
 http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8
 #EXTINF:-1  tvg-logo="https://s2.wp.com/wp-content/themes/vip/localtv-2/img/kcpq/logo.png" group-title="Fox Regional(USA)",  FOX 13 Seattle (KCPQ)
 http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WXMI_2009_Logo.png/188px-WXMI_2009_Logo.png" group-title="Fox Regional(USA)", Fox 17 West Michigan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WXMI_2009_Logo.png/188px-WXMI_2009_Logo.png" group-title="Fox Regional(USA)", Fox 17 Michigan (WXMI)
 http://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/KOKI23.png" group-title="Fox Regional(USA)", FOX 23 Tulsa (KOKI)
 https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
@@ -173,7 +180,7 @@ https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="Fox Regional(USA)", Fox 28 Savannah (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 tvg-logo="https://media.fox29.com/lakana-fox-global/theme/images/wtxf/logo-fox-29-philadelphia-wtxf-alt.png" group-title="Fox Regional(USA)", FOX 29 News Philadelphia (WTXF)
+#EXTINF:-1 tvg-logo="https://media.fox29.com/lakana-fox-global/theme/images/wtxf/logo-fox-29-philadelphia-wtxf-alt.png" group-title="Fox Regional(USA)", FOX 29 Philadelphia (WTXF)
 http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
 #EXTINF:-1 tvg-logo="https://localtvkdvr.files.wordpress.com/2016/03/fox31denver-kdvr.jpg" group-title="Fox Regional(USA)", Fox 31 Denver (KDVR)
 http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
@@ -242,4 +249,3 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12wc/images/news12wc-logo.png" group-title="News 12 Regional(USA)", News 12 Westchester Weather
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
-
