@@ -225,8 +225,6 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149884
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77174
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Wsoctv.png/200px-Wsoctv.png" group-title="ABC Regional(USA)" , ABC 9 Charlotte (WSOC)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/159911
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/WTVD_2013_Logo.png" group-title="ABC Regional(USA)" , ABC 11 Durham (WTVD)
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/WEWS-TV_-_News_Net_5_logo.png" group-title="ABC Regional(USA)" , ABC 5 Cleveland (WEWS)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/199205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/WSYX6logonew.PNG" group-title="ABC Regional(USA)" , ABC 6 Columbus (WSYX)
@@ -247,18 +245,15 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152510
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/120137
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/WTVD_2013_Logo.png" group-title="ABC Regional(USA)" , ABC 11 Durham (WTVD)
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="CBS Regional(USA)", CBS 2 Los Angeles (KCBS)
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/12
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo..png" group-title="CBS Regional(USA)", CBS 9 Los Angeles (KCAL)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/164249
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/custom/image/582858d0-9509-11e8-9989-07c471c8ec06.png" group-title="CBS Regional(USA)", CBS 3 Connecticut (WFSB)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/105861
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" group-title="CBS Regional(USA)", CBS 47 Jacksonville (WJAX)
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="CBS Regional(USA)",CBS 4 Miami (WFOR)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WTOC-TV_11_logo.svg/300px-WTOC-TV_11_logo.svg.png" group-title="CBS Regional(USA)", CBS 11 Savannah (WTOC)
-http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wbbm.png/200px-Wbbm.png" group-title="CBS Regional(USA)", CBS 2 Chicago (WBBM)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/155526
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/WBZ_Logo_2014.png" group-title="CBS Regional(USA)",CBS 4 Boston (WBZ)
@@ -271,79 +266,60 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77153
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149922
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KYW-TV_CBS_2013_logo.png/300px-KYW-TV_CBS_2013_logo.png" group-title="CBS Regional(USA)", CBS 3 Philadelphia (KYW)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156743
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="CBS Regional(USA)",CBS 4 Miami (WFOR)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WTOC-TV_11_logo.svg/300px-WTOC-TV_11_logo.svg.png" group-title="CBS Regional(USA)", CBS 11 Savannah (WTOC)
+http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="CBS Regional(USA)", CBS 41 Victoria (KXTS)
 http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" group-title="CBS Regional(USA)", CBS 47 Jacksonville (WJAX)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsArizona.us.png" group-title="Fox Regional(USA)",FOX Sports Arizona
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152488
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="Fox Regional(USA)", Fox 5 San Diego (KSWB)
-http://livestream-f.akamaihd.net/9263055_3189799_lsiif62v9mml0go7vgs_1_2320@176803?v=3.0.3&fp=WIN%25+14%2C0%2C0%2C145
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="Fox Regional(USA)", Fox 11 Los Angeles (KTTV)
-https://fubolive.com/live/fox11/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/FoxSportsPrimeTicket.us.png" group-title="Fox Regional(USA)", Fox Sports Prime Ticket
-http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/713
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/FoxSportsSanDiego.us.png" group-title="Fox Regional(USA)",  Fox Sports San Diego
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152503
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Fox_Sports_West_2012_logo.png/200px-Fox_Sports_West_2012_logo.png" group-title="Fox Regional(USA)",Fox Sports West
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152508
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_of_WTTG-TV.png" group-title="Fox Regional(USA)",,Fox 5 DC (WTTG)
-https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png" group-title="Fox Regional(USA)",Fox 5 DC Plus (WDCA)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/138435
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/WSVN_7_Miami_logo.png/175px-WSVN_7_Miami_logo.png" group-title="Fox Regional(USA)", FOX 7 (WSVN)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134553
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/WFOX-TV_logo.png/300px-WFOX-TV_logo.png" group-title="Fox Regional(USA)",FOX 30 Jaxonville (WFOX)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/105894
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsFlorida.us.png" group-title="Fox Regional(USA)", FOX Sports Florida
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152494
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/Sun_Sports_logo_2012.png" group-title="Fox Regional(USA)", FOX Sports Sun
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152507
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/516kgR-b7XL._SL210_QL95_BG0,0,0,0_FMpng_.png" group-title="Fox Regional(USA)",FOX 5 Atlanta (WAGA)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/160002
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="Fox Regional(USA)", Fox 28 Savannah (WTGS)
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/Wfxg_gold.GIF" group-title="Fox Regional(USA)",FOX 54 Augusta (WFXG)
-http://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Fox_Sports_South_logo.png" group-title="Fox Regional(USA)", FOX Sports South
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152504
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsSoutheast.us.png" group-title="Fox Regional(USA)", FOX Sports Southeast
-http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/712
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/WFLD_Fox_News_Chicago_Logo.png" group-title="Fox Regional(USA)", FOX32 Chicago (WFLD)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134527
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Wbff_2008.png/300px-Wbff_2008.png" group-title="Fox Regional(USA)",FOX 45 Baltimore (WBFF)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/138434
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/WFXT_Boston_25_logo.png" group-title="Fox Regional(USA)",FOX 25 Boston (WFXT)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/138437
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsNorth.us.png" group-title="Fox Regional(USA)", FOX Sports North
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Wjbk-logo.png" group-title="Fox Regional(USA)",FOX 2 Detroit (WJBK)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/164251
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsDetroit.us.png" group-title="Fox Regional(USA)", FOX Sports Detroit
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152493
-#EXTINF:-1 tvg-logo="https://www.wxxv25.com/wp-content/uploads/2018/01/logo-wide.png" group-title="Fox Regional(USA)", FOX 25 Gulfport (WXXV)
-http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsMidwest.us.png" group-title="Fox Regional(USA)", FOX Sports Midwest
-http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/608
 #EXTINF:-1 tvg-logo="https://img.new.livestream.com/events/0000000000278ee3/43dcc2d1-7bc4-48b7-8315-012845031602_170x255.jpg" group-title="Fox Regional(USA)",Fox 5 New York (WNYW)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77157
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Fox_Sports_Carolinas_2012_logo.png/1200px-Fox_Sports_Carolinas_2012_logo.png" group-title="Fox Regional(USA)", FOX Sports Carolinas
-http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/706
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Wraz.jpg" group-title="Fox Regional(USA)", FOX 50 Raleigh (WRAZ)
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77109
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_of_WTTG-TV.png" group-title="Fox Regional(USA)",Fox 5 DC (WTTG)
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="Fox Regional(USA)", Fox 5 San Diego (KSWB)
+http://livestream-f.akamaihd.net/9263055_3189799_lsiif62v9mml0go7vgs_1_2320@176803?v=3.0.3&fp=WIN%25+14%2C0%2C0%2C145
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="Fox Regional(USA)", Fox 11 Los Angeles (KTTV)
+https://fubolive.com/live/fox11/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WXMI_2009_Logo.png/188px-WXMI_2009_Logo.png" group-title="Fox Regional(USA)", Fox 17 West Michigan
+http://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8:USA 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/KOKI23.png" group-title="Fox Regional(USA)", FOX 23 Tulsa (KOKI)
 https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsOhioCleveland.us.png" group-title="Fox Regional(USA)",FOX Sports Ohio
-http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/714
+#EXTINF:-1 tvg-logo="https://www.wxxv25.com/wp-content/uploads/2018/01/logo-wide.png" group-title="Fox Regional(USA)", FOX 25 Gulfport (WXXV)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="Fox Regional(USA)", Fox 28 Savannah (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/WPMT_43_logo.png" group-title="Fox Regional(USA)",  FOX 43 York (WPMT)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/76443
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Wraz.jpg" group-title="Fox Regional(USA)", FOX 50 Raleigh (WRAZ)
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/77109
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WPGHFOX53.png" group-title="Fox Regional(USA)",  Fox 53 Pittsburgh (WPGH)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/150004
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSports.us.png" group-title="Fox Regional(USA)",FOX Sports SouthWest
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152506
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxSportsWisconsin.us.png" group-title="Fox Regional(USA)", FOX Sports Wisconsin
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152510
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/Wfxg_gold.GIF" group-title="Fox Regional(USA)",FOX 54 Augusta (WFXG)
+http://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8
+
 
 
 
