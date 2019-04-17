@@ -55,16 +55,6 @@ http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="Bulgaria(България)",This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RIK-Sat.png" group-title="Cyprus(Κύπρος)", Rik Sat
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Sigma_TV.jpg" group-title="Cyprus(Κύπρος)", Sigma TV
-http://81.21.47.74/hls/live.m3u8
-
-#EXTINF:0 tvg-logo="http://www.brtk.net/wp-content/themes/brtk_theme/images/brt1-logo.png" group-title="Cyprus(Kıbrıs)",BRT 1
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.brtk.net/wp-content/themes/brtk_theme/images/brt2-logo.png" group-title="Cyprus(Kıbrıs)",BRT 2 Spor
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="Czech Republic(Česká)",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/375px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Czech Republic(Česká)",Ocko Expres
@@ -94,7 +84,6 @@ https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kringvarp_foroya.jpg/300px-Kringvarp_foroya.jpg" group-title="Denmark (Danmark)", Kringvarp Føroya
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png"  group-title="France(français)", BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
@@ -136,8 +125,25 @@ http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/1200px-Yle_TV2_logo.svg.png" group-title="Finland (Suomi)", Yle TV 2
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.voloslive.gr/wp-content/uploads/2017/08/axeloostvTV.png" group-title="Greece (Ελλάδα)",Axeloos TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="Greece (Ελλάδα)",4E
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hellenicparliament.gr/images/logo_el.gif" group-title="Greece (Ελλάδα)",Βουλή Τηλεόραση
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/newlogokontra.png" group-title="Greece (Ελλάδα)", Kontra
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:0 tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logo.png" group-title=" Greece (Ελλάδα)", ΚΡΗΤΗ TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1388911_logo_tv_filopoli.png" group-title=" Greece (Ελλάδα)", Filopoli TV
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:0 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1564276_logo_messinia_tv1.png" group-title=" Greece (Ελλάδα)", Messinia TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RIK-Sat.png" group-title=" Greece (Ελλάδα)", Rik Sat (Κύπρος)
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Sigma_TV.jpg" group-title=" Greece (Ελλάδα)", Sigma TV (Κύπρος)
+http://81.21.47.74/hls/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
