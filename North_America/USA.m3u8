@@ -135,6 +135,9 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="USA/Canada", TBS
 http://190.13.120.115/streams/tbs.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/USANetwork.us.png" group-title="USA/Canada", USA Network
+http://170.250.96.20:8105/USANET.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Vibrant_TV_Network_Logo_2015.jpg" group-title="USA/Canada",Vibrant TV
 https://vibranttv.tulix.tv/vibranttv/vibranttv.smil/playlist.m3u8
 
@@ -344,59 +347,58 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/152510
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/300px-KPNX_12_logo.svg.png" group-title="NBC Regional(USA)", NBC 12 Phoniex (KPNX)
-http://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="NBC Regional(USA)", NBC 7 San Diego (KNSD)
-http://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/master.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/KNVN-TV_NBC_24_2013_Logo.png/225px-KNVN-TV_NBC_24_2013_Logo.png" group-title="NBC Regional(USA)", NBC 24 Chico (KNVN)
-https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Comcast_Sportsnet_Bay_Area_logo.png" group-title="NBC Regional(USA)",  NBC Sports Bay Area
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157698
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/NBC_Sports_California.png/1920px-NBC_Sports_California.png" group-title="NBC Regional(USA)", NBC Sports California
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157700
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/NBC4KNBC.us.png" group-title="NBC Regional(USA)", NBC 4 Los Ăngeles (KNBC)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/199217
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRC)
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSNWashington.us.png" group-title="NBC Regional(USA)", NBC Sports Washington DC
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/129343
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/WLTZ_2007.png" group-title="NBC Regional(USA)", NBC 38 Columbus (WLTZ)
-https://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC6WTVJ.us.png" group-title="NBC Regional(USA)", NBC 6 Miami (WTVJ)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/WMAQ_Logo_2012.png/200px-WMAQ_Logo_2012.png" group-title="NBC Regional(USA)", NBC5 Chicago (WMAQ) 
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1200px-NBC_Sports_Chicago_Logo.svg.png" group-title="NBC Regional(USA)", NBC Sports Chicago
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157701
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/WHO-TV_logo.png" group-title="NBC Regional(USA)", NBC 13 Des Moines (WHO-DT)
-https://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/NBC_Sports_Boston.png" group-title="NBC Regional(USA)", NBC Sports Boston
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157699
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/225px-WNBC_4_NY.svg.png" group-title="NBC Regional(USA)", NBC 4 New York (WNBC)
-https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/KFYR5.png/200px-KFYR5.png" group-title="NBC Regional(USA)", NBC North Dakota (KFYR)
-http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WRAL-TV_logo.png" group-title="NBC Regional(USA)", NBC 5 Raleigh (WRAL)
-http://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:encoder25-high/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://www.kgw.com/content/logos/mobile/kgw.png" group-title="NBC Regional(USA)",NBC 8 Portland (KGW)
-https://kgw-lh.akamaihd.net/i/KGW_Shows_1@99580/index_2000_av-p.m3u8
-#EXTINF:-1  tvg-logo="https://media.ktvz.com/npg-ktvz-media-us-east-1/photo/2016/08/22/KTVZ%20Logo_3395629_ver1.0.png" group-title="NBC Regional(USA)", NBC Bend 21(KTVZ)
-http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/NBC_Sports_Northwest.png" group-title="NBC Regional(USA)", NBC Sports NW
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157702
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/WCAU-TV_logo_2012.png/200px-WCAU-TV_logo_2012.png" group-title="NBC Regional(USA)", NBC 10 Philadelphia (WCAU)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/105912
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WPXI_11_logo.png" group-title="NBC Regional(USA)", NBC 11 Pittsburgh(WPXI)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124642
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/NBC_Sports_Philadelphia.jpg" group-title="NBC Regional(USA)", NBC Sports Philadelphia
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/118620
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/225px-WNBC_4_NY.svg.png" group-title="NBC Regional(USA)", NBC 4 New York (WNBC)
+https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/WMAQ_Logo_2012.png/200px-WMAQ_Logo_2012.png" group-title="NBC Regional(USA)", NBC 5 Chicago (WMAQ) 
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WRAL-TV_logo.png" group-title="NBC Regional(USA)", NBC 5 Raleigh (WRAL)
+http://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:encoder25-high/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/KFYR5.png/200px-KFYR5.png" group-title="NBC Regional(USA)", NBC 5 North Dakota (KFYR)
+http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC6WTVJ.us.png" group-title="NBC Regional(USA)", NBC 6 Miami (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/KNSD39.png" group-title="NBC Regional(USA)", NBC 7 San Diego (KNSD)
+http://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.kgw.com/content/logos/mobile/kgw.png" group-title="NBC Regional(USA)",NBC 8 Portland (KGW)
+https://kgw-lh.akamaihd.net/i/KGW_Shows_1@99580/index_2000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="NBC Regional(USA)", NBC 9 Odessa (KWES)
 https://api.new.livestream.com/accounts/16923548/events/4681078/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/WWBT_NBC_12_logo.svg/1200px-WWBT_NBC_12_logo.svg.png" group-title="NBC Regional(USA)", NBC 12 Richmond (WWBT)
 https://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/WVIR.png" group-title="NBC Regional(USA)", NBC 29 (WVIR)
-http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8?forceCacheClearSM=530806100000
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/300px-KPNX_12_logo.svg.png" group-title="NBC Regional(USA)", NBC 12 Phoniex (KPNX)
+http://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/WHO-TV_logo.png" group-title="NBC Regional(USA)", NBC 13 Des Moines (WHO-DT)
+https://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
+#EXTINF:-1  tvg-logo="https://media.ktvz.com/npg-ktvz-media-us-east-1/photo/2016/08/22/KTVZ%20Logo_3395629_ver1.0.png" group-title="NBC Regional(USA)", NBC Bend 21(KTVZ)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/KNVN-TV_NBC_24_2013_Logo.png/225px-KNVN-TV_NBC_24_2013_Logo.png" group-title="NBC Regional(USA)", NBC 24 Chico (KNVN)
+https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/WVIR.png" group-title="NBC Regional(USA)", NBC 29 Charlottesville (WVIR)
+http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WVIT_Logo.png/330px-WVIT_Logo.png" group-title="NBC Regional(USA)", NBC 30 Connecticut (WVIT) 
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/WLTZ_2007.png" group-title="NBC Regional(USA)", NBC 38 Columbus (WLTZ)
+https://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://telemundo51fresno.com/wp-content/uploads/2019/01/cropped-Untitled-1-2.png" group-title="Telemundo Regional(USA)",Telemundo 51 Fresno (KNSO)
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124707
