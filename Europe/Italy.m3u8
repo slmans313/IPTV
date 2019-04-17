@@ -399,6 +399,14 @@ http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
 #EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/tfal.png" group-title="Malta",Splaxxx
 http://www.evoiptv.com/hlskids/hlskids.m3u8
 
+#EXTINF:-1  tvg-logo="http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg" group-title="Macedonia(Македонија)",Sky Folk
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1  tvg-logo="http://tvplus.mk/wp-content/uploads/2015/03/logotvplus.png" group-title="Macedonia(Македонија)",TV Plus
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/TV_Nova_12_Logo.jpg/270px-TV_Nova_12_Logo.jpg" group-title="Macedonia(Македонија)", Nova 12
+http://151.236.247.171:9000/live/dzunde/dzunde/1.ts
+
+
 #EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Netherlands", BVN
 http://e2.tvmucho.com:8081/tvmucho/bvn-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDEvMjMvMjAxNyAwODoxOToyNCBBTSZoYXNoX3ZhbHVlPXZVMjVqTDlkOGJVcWxPak1BRVNrMGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9OEw4TDc5JnN0cm1fbGVuPTE5
 #EXTINF:-1 tvg-logo="https://l1.nl/static/img/social.png" group-title="Netherlands",L1mburg ﻿﻿
@@ -447,6 +455,25 @@ http://video-auth7.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Tvi24.pt.png" group-title="Portuguese (Português)",TVI 24
 http://video-auth7.iol.pt:80/live_tvi24/live_tvi24/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="România", TVR 1	
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="România", TVR 2	
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="România", TVR 3	
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvrhd.tvr.ro/images/logo_main_tvrhd.png" group-title="România",TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvrmoldova.md/g" group-title="România",TVR International 
+http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://cluj.tvr.ro/images/logo_main_tvrcluj.png" group-title="România",TVR Cluj	
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://craiova.tvr.ro/images/logo_main_tvrcraiova.png" group-title="România",TVR Craiova	
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://timisoara.tvr.ro/images/logo_main_tvrtimisoara.png" group-title="România",TVR Timisoara 
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://iasi.tvr.ro/images/logo_main_tvriasi.png" group-title="România",TVR Isasi
+http://82.208.151.107:8088/high/tvriasi/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.digi24.ro/static/theme-1616-repo/dist/assets/imgs/digi24.ro-logo.png" group-title="România", Digi 24
 http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/DigiWorld.hu.png" group-title="România", Digi World
@@ -482,14 +509,6 @@ http://212.200.102.3:5000/rtp/239.0.0.1:5000
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 #EXTINF:-1  tvg-logo="https://totaltv.tv/oec/images/tv_channels/e51742b4f3b50692d2cb023806964f46.png" group-title="Serbia(Србија)",KCN Svet+ 3
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
-
-#EXTINF:-1  tvg-logo="http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg" group-title="Macedonia(Македонија)",Sky Folk
-http://skyfolk.mk/live.m3u8
-#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Macedonia(Македонија)",TV Plus
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/TV_Nova_12_Logo.jpg/270px-TV_Nova_12_Logo.jpg" group-title="Macedonia(Македонија)", Nova 12
-http://151.236.247.171:9000/live/dzunde/dzunde/1.ts
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pop-TV-Logo.svg/1280px-Pop-TV-Logo.svg.png" group-title="Slovenia(Slovenija)", POP
 http://89.212.51.85:8443/udp/239.10.2.12:5000
