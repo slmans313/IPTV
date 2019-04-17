@@ -705,16 +705,12 @@ http://83.56.24.104:9981/stream/channelid/1275802491?ticket=6B63C2F774DFB0B98EE3
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/1200px-TV4sweden_logo.svg.png" group-title="Sweden(Sverige)", TV4
 http://83.56.24.104:9981/stream/channelid/1329177212?ticket=E31854C8621FC2E0886ADA982B74AAAB68AF488D&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/SRF_1_logo.svg/1200px-SRF_1_logo.svg.png" group-title="Switzerland",  SRF 1
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64970
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_SRF_2.svg/1200px-Logo_SRF_2.svg.png" group-title="Switzerland", SRF Zwei
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/64969
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SRF_info_logo.svg/1200px-SRF_info_logo.svg.png" group-title="Switzerland",  SRF Info
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88657
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/1310877_logo_beatz2.png" group-title="Switzerland",Pilatus Beatz TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="Switzerland", Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="Switzerland", La Télé
+https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/1310877_logo_beatz2.png" group-title="Switzerland",Pilatus Beatz
 https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/goggle/plugin.video.telem1/master/resources/icon.png" group-title="Switzerland", TeleM1
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png" group-title="Switzerland", TeleBärn
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/16025_logo_tvo.png" group-title="Switzerland", TVO
