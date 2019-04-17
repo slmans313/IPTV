@@ -30,7 +30,8 @@ https://anjancdn.vstream.online/bstb/ngrp:anjan_hdall/chunklist.m3u8
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 #EXTINF:-1 tvg-logo="http://mahuaentertainment.com/images/Mahua_plus_logo.png" group-title="Bhojpuri(भोजपुरी)",Mahua Plus
 http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Oscar_Movies_Bhojpuri.jpeg" group-title="Bhojpuri(भोजपुरी)",Oscar Movies Bhojpuri
+http://123.249.76.157:10012/bysid/9
 
 #EXTINF:0 tvg-logo="https://www.bloombergquint.com/bq-logo.png" group-title="India(English)",Bloomberg Quint
 https://d1yhck4nr3rup7.cloudfront.net/bqbackup_2.m3u8
@@ -78,6 +79,14 @@ http://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
 http://123.249.76.157:10013/bysid/22
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/channel_three.png" group-title="Hindi(हिन्दी)", Lok Sabha
 http://playhls.media.nic.in/live/lstv-360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.newsnation.in/images/newsnation-logo.png" group-title="Hindi(हिन्दी)", News Nation
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist_b2556060.m3u8
+#EXTINF:-1 tvg-logo="https://static.newsstate.com/static/images/logo.jpg" group-title="Hindi(हिन्दी)", News State
+https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist_b2566563.m3u8
+#EXTINF:-1 tvg-logo="https://static.newsstate.com/static/images/logo.jpg" group-title="Hindi(हिन्दी)", News State Madhya Pradesh
+https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist_b2057143.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.dnavigation.com/clients/Prime-News.png" group-title="Hindi(हिन्दी)", Prime News
 http://123.249.76.157:10014/bysid/2
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/rajyasabhatv.png" group-title="Hindi(हिन्दी)", Rajya Sabha
