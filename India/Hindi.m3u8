@@ -45,6 +45,8 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
 #EXTINF:0 tvg-logo="https://streamvlog.com/wp-content/uploads/2018/12/india-today-tv-english-news-live.jpg" group-title="India(English)",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:0 tvg-logo="http://www.indiaaheadnews.com/wp-content/uploads/2019/01/logo-300x142-2.png" group-title="India(English)",India Ahead
+http://123.249.76.157:10013/bysid/20
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="India(English)",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:0 tvg-logo="https://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="India(English)",News X
@@ -109,7 +111,8 @@ https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist_b2556060.m3u8
 https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist_b2566563.m3u8
 #EXTINF:-1 tvg-logo="https://static.newsstate.com/static/images/logo.jpg" group-title="Hindi(हिन्दी)", News State Madhya Pradesh
 https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist_b2057143.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.pratinidhi.tv/en/wp-content/uploads/2018/11/45364142_318932295504491_3626254335555403776_n-300x300.png" group-title="Hindi(हिन्दी)", Pratinidhi
+http://123.249.76.157:10013/bysid/14
 #EXTINF:-1 tvg-logo="http://www.dnavigation.com/clients/Prime-News.png" group-title="Hindi(हिन्दी)", Prime News
 http://123.249.76.157:10014/bysid/2
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/rajyasabhatv.png" group-title="Hindi(हिन्दी)", Rajya Sabha
@@ -132,6 +135,8 @@ http://123.249.76.157:10018/bysid/21
 http://123.249.76.157:10018/bysid/24
 #EXTINF:-1 tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2017/01/mainlogo_hindi_new.png" group-title="Hindi(हिन्दी)", News 18 Hindi
 http://62.210.141.179:8000/ibrahim/123456/1204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/NewsWorldIndiaLogo.jpg" group-title="Hindi(हिन्दी)", News World India
+http://123.249.76.157:10013/bysid/16
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="Hindi(हिन्दी)", NDTV India
 https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News18_Rajasthan.jpeg/300px-News18_Rajasthan.jpeg" group-title="Hindi(हिन्दी)", News 18 Rajasthan
