@@ -37,14 +37,26 @@ http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/pl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Oscar_Movies_Bhojpuri.jpeg" group-title="Bhojpuri(भोजपुरी)",Oscar Movies Bhojpuri
 http://123.249.76.157:10012/bysid/9
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="India(English)",Animal Planet (India)
+http://123.249.76.157:10024/bysid/60
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="India(English)",Animal Planet HD (India)
+http://123.249.76.157:10024/bysid/152
 #EXTINF:0 tvg-logo="https://www.bloombergquint.com/bq-logo.png" group-title="India(English)",Bloomberg Quint
 https://d1yhck4nr3rup7.cloudfront.net/bqbackup_2.m3u8
 #EXTINF:0 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="India(English)",CNBC 18 News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 #EXTINF:0 tvg-logo="https://images.news18.com/static_news18/pix/ibnhome/news18/megamenu/news18-main.png" group-title="India(English)",CNN News 18 
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Education",Discovery India
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="India(English)",Discovery India
 http://123.249.76.157:10024/bysid/40
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="India(English)",Discovery India HD
+http://123.249.76.157:10024/bysid/150
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="India(English)",Discovery Science India
+http://123.249.76.157:10024/bysid/90
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="India(English)",Discovery Kids India
+http://123.249.76.157:10024/bysid/140
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/dmax-logo-png-3.png" group-title="India(English)",DMAX India
+http://123.249.76.157:10024/bysid/100
 #EXTINF:0 tvg-logo="https://streamvlog.com/wp-content/uploads/2018/12/india-today-tv-english-news-live.jpg" group-title="India(English)",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:0 tvg-logo="http://www.indiaaheadnews.com/wp-content/uploads/2019/01/logo-300x142-2.png" group-title="India(English)",India Ahead
@@ -85,6 +97,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ced60aa5db0a1c93f771b3d5bdea10d6.jpg" group-title="Hindi(हिन्दी)", Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Discovery_Jeet_logo.png/330px-Discovery_Jeet_logo.png" group-title="Hindi(हिन्दी)", Discovery Jeet
+http://123.249.76.157:10024/bysid/81
 #EXTINF:-1 tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="Hindi(हिन्दी)", DD News
 http://playhls.media.nic.in/live/ddnews-360p/index.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/channel_two.png" group-title="Hindi(हिन्दी)", DD Vyas
@@ -117,6 +131,12 @@ https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist_b2556060.m3u8
 https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist_b2566563.m3u8
 #EXTINF:-1 tvg-logo="https://static.newsstate.com/static/images/logo.jpg" group-title="Hindi(हिन्दी)", News State Madhya Pradesh
 https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist_b2057143.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/NewsWorldIndiaLogo.jpg" group-title="Hindi(हिन्दी)", News World India
+http://123.249.76.157:10013/bysid/16
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="Hindi(हिन्दी)", NDTV India
+https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News18_Rajasthan.jpeg/300px-News18_Rajasthan.jpeg" group-title="Hindi(हिन्दी)", News 18 Rajasthan
+https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.pratinidhi.tv/en/wp-content/uploads/2018/11/45364142_318932295504491_3626254335555403776_n-300x300.png" group-title="Hindi(हिन्दी)", Pratinidhi
 http://123.249.76.157:10013/bysid/14
 #EXTINF:-1 tvg-logo="http://www.dnavigation.com/clients/Prime-News.png" group-title="Hindi(हिन्दी)", Prime News
@@ -153,14 +173,10 @@ http://123.249.76.157:10018/bysid/72
 http://123.249.76.157:10018/bysid/21
 #EXTINF:-1 tvg-logo="https://d3e2xvtryj10p1.cloudfront.net/assets/images/logo.png" group-title="Hindi(हिन्दी)", Sony Yay!
 http://123.249.76.157:10018/bysid/24
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Entertainment", TLC Hindi
+http://123.249.76.157:10024/bysid/120
 #EXTINF:-1 tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2017/01/mainlogo_hindi_new.png" group-title="Hindi(हिन्दी)", News 18 Hindi
 http://62.210.141.179:8000/ibrahim/123456/1204
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/NewsWorldIndiaLogo.jpg" group-title="Hindi(हिन्दी)", News World India
-http://123.249.76.157:10013/bysid/16
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="Hindi(हिन्दी)", NDTV India
-https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News18_Rajasthan.jpeg/300px-News18_Rajasthan.jpeg" group-title="Hindi(हिन्दी)", News 18 Rajasthan
-https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="Hindi(हिन्दी)", Wow Cinema
 http://123.249.76.157:10010/bysid/2
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(हिन्दी)",   Zee Cinema
