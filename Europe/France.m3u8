@@ -80,10 +80,14 @@ http://217.144.16.215:1935/live/smil:primazoom.smil/playlist.m3u8
 http://83.167.253.110:5000/live/jimjam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Nova_logo_2017.png/250px-TV_Nova_logo_2017.png" group-title="Czech Republic(Česká)",Nova
 http://217.144.16.215:1935/live/smil:nova.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nova_2_logo-600x207.png/375px-Nova_2_logo-600x207.png" group-title="Czech Republic(Česká)",Nova 2
+https://nova-live.ssl.cdn.cra.cz/channels/mcrg/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="Czech Republic(Česká)",Nova Action
 http://217.144.16.215:1935/live/smil:fanda.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="Czech Republic(Česká)",Nova Cinema
 http://217.144.16.215:1935/live/smil:novacinema.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="Czech Republic(Česká)",Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/mcrh/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Nova_International_logo_2017.png" group-title="Czech Republic(Česká)",Nova International
 http://217.144.16.215:1935/live/smil:novaint.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NovaSport1.png/250px-NovaSport1.png" group-title="Czech Republic(Česká)", Nova Sport 1
@@ -321,6 +325,10 @@ http://37.152.135.169:9002/play/a00h/index.m3u8
 http://37.152.135.169:9002/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTLKlub.hu.png" group-title="Hungary(MagyarorszĂˇg)",RTL Klub
 http://37.152.135.169:9002/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png" group-title="Hungary(MagyarorszĂˇg)",Digisport 1
+http://94.21.106.252:2225/play/digisport1
+#EXTINF:-1 tvg-logo="http://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.pngg" group-title="Hungary(MagyarorszĂˇg)",Digisport 2
+http://94.21.106.252:2225/play/digisport2
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/tv2.hu.png" group-title="Hungary(MagyarorszĂˇg)",TV2
 http://37.152.135.169:9002/play/a003/index.m3u8
 
