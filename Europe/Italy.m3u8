@@ -525,12 +525,20 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norway(Norge)", Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
-
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Jednotka.svg/225px-Jednotka.svg.png" group-title="Slovakia(Slovensko)", Jednotka
 http://217.144.16.215:1935/live/smil:stv1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Dvojka.svg/1200px-Dvojka.svg.png" group-title="Slovakia(Slovensko)", Dvojka
 http://217.144.16.215:1935/live/smil:stv2.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://static.cdn.markiza.sk/media/3.0/mar/grf/header-markiza-logo.png" group-title="Slovakia(Slovensko)", Markiza
+http://217.144.16.215:1935/live/smil:markiza.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://static.cdn.markiza.sk/media/3.0/dajto/grf/header-markiza-logo.png" group-title="Slovakia(Slovensko)",Dajto
+http://217.144.16.215:1935/live/smil:dajto.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/Doma_tv_sk.png/revision/latest?cb=20130329122544" group-title="Slovakia(Slovensko)",Doma
+http://217.144.16.215:1935/live/smil:doma.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovakia(Slovensko)", Joj
+http://217.144.16.215:1935/live/smil:joj.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static1.joj.sk/html/assets/logo-plus-white.png" group-title="Slovakia(Slovensko)", Joj Plus
+http://217.144.16.215:1935/live/smil:jojplus.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Tv-nitricka.png" group-title="Slovakia(Slovensko)", Nitricka
 http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1  tvg-logo="http://www.senzi.sk/images/logo_televizia_senzi.png" group-title="Slovakia(Slovensko)",Senzi TV
