@@ -76,14 +76,19 @@ http://217.144.16.215:1935/live/smil:primalove.smil/playlist.m3u8
 http://217.144.16.215:1935/live/smil:primazoom.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Czech Republic(Česká)",Jim Jam (Česká)
 http://83.167.253.110:5000/live/jimjam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Nova_logo_2017.png/250px-TV_Nova_logo_2017.png" group-title="Czech Republic(Česká)",NOVA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Nova_logo_2017.png/250px-TV_Nova_logo_2017.png" group-title="Czech Republic(Česká)",Nova
 http://217.144.16.215:1935/live/smil:nova.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="Czech Republic(Česká)",Nova Action
+http://217.144.16.215:1935/live/smil:fanda.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="Czech Republic(Česká)",Nova Cinema
 http://217.144.16.215:1935/live/smil:novacinema.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Nova_International_logo_2017.png" group-title="Czech Republic(Česká)",Nova International
 http://217.144.16.215:1935/live/smil:novaint.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="Czech Republic(Česká)",Nova Action
-http://217.144.16.215:1935/live/smil:fanda.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NovaSport1.png/250px-NovaSport1.png" group-title="Czech Republic(Česká)", Nova Sport 1
+http://217.144.16.215:1935/live/smil:sport2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2016-01/1453825455_www.satsis.info__nova-sport-2-hd.png" group-title="Czech Republic(Česká)", Nova Sport 2
+http://217.144.16.215:1935/live/smil:sport2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="Czech Republic(Česká)",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/375px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Czech Republic(Česká)",Ocko Expres
