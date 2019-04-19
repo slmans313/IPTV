@@ -132,16 +132,6 @@ https://live2.ntdimg.com/cnlive/playlist.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tjtv2.jpg" group-title="地方电视台", 天津文艺
 http://39.106.151.203:80/a2/tjtv.m3u8?id=tjwy
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="地方电视台",江苏卫视
-http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="地方电视台", 江苏国际
-http://122.146.68.116:4022/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/caifutianxia.jpg" group-title="地方电视台", 财富天下(江苏)
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000607/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="地方电视台", 优漫卡通(江苏)
-http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SUININGXW.jpg" group-title="地方电视台", 睢宁综合(江苏) 
-http://tv.jrsncn.com:9001/hls/live/live1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/db/GXTV_logo.png/200px-GXTV_logo.png" group-title="地方电视台", 广西卫视
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000038/index.m3u8
 #EXTINF:-1 tvg-logo="http://mserver.mcloud.gxcatv.com/site/byx//upload/Image/mrtp/2018/12/29/1_bc0812c4fc1543ec9e84bac815aee87b.png" group-title="地方电视台", 宾阳电视台(广西)
@@ -440,6 +430,18 @@ http://live.zzbtv.com/live/live122/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/zzfzpd.jpg" group-title="地方电视台(湖南)", 株洲公共法制
 http://live.zzbtv.com/live/live124/800K/tzwj_video.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(江苏)",江苏卫视
+http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="地方电视台(江苏)", 江苏国际
+http://122.146.68.116:4022/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/caifutianxia.jpg" group-title="地方电视台(江苏)", 财富天下
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="地方电视台(江苏)", 优漫卡通
+http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wujiangtv.jpg" group-title="地方电视台(苏州)", 吴江新闻综合
+http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SUININGXW.jpg" group-title="地方电视台", 睢宁综合(江苏) 
+http://tv.jrsncn.com:9001/hls/live/live1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" group-title="地方电视台(陕西)", 陕西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
