@@ -319,10 +319,14 @@ https://nettv.flynet.hu/live/m1hd.m3u8
 https://nettv.flynet.hu/live/m2hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/m3.hu.png" group-title="Hungary(MagyarorszĂˇg)", M3
 https://nettv.flynet.hu/live/m3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/M4Sport.hu.png" group-title="Hungary(MagyarorszĂˇg)",M4 Sports
+https://nettv.flynet.hu/live/m4sporthd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/m5.hu.png" group-title="Hungary(MagyarorszĂˇg)", M5
 https://nettv.flynet.hu/live/m5hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTLplus.hu.png" group-title="Hungary(MagyarorszĂˇg)",RTL+
-http://37.152.135.169:9002/play/a00i/index.m3u8
+https://nettv.flynet.hu/live/rtl+.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTLKlub.hu.png" group-title="Hungary(MagyarorszĂˇg)",RTL Klub
+https://nettv.flynet.hu/live/rtlklubhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTL2.hu.png" group-title="Hungary(MagyarorszĂˇg)",RTL 2
 http://37.152.135.169:9002/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTLGold.hu.png" group-title="Hungary(MagyarorszĂˇg)", RTL Gold
