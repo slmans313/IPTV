@@ -50,6 +50,8 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" group-title="USA/Canada",ICI Tele
 http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="USA/Canada",Logo TV
+http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA/Canada",Kool
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="USA/Canada", Radio y Televisión Martí
@@ -68,9 +70,6 @@ https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
 https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="USA/Canada",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.thenonprofittimes.com/wp-content/uploads/2017/02/Pbs-1.png" group-title="USA/Canada",PBS
-http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.infowars.com/images/real-news-logo.png" group-title="USA/Canada",Real News
 https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
 #EXTINF:-1 tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" group-title="USA/Canada",PATV
@@ -142,12 +141,14 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 http://190.80.3.28/CW/CW.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.kesq.com/npg-kesq-media-us-east-1/photo/2018/11/30/News-Channel-3-No-ABC-Pearl-NEW_1543609674075_22275200_ver1.0.png" group-title="ABC Regional(USA)", ABC 3 Palm Springs (KESQ)
-http://api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8:USA 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/WWSB_2018_Logo.png" group-title="ABC Regional(USA)", ABC 7 Florida (WWSB)
+http://api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8
+#EXTINF:-1 tvg-logo="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/koco/logo.png" group-title="USA/Canada",ABC 5 Oklahoma (KOCO)
+http://espn.tmedia.me/cache/abc.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ABCWWSB.us.png" group-title="ABC Regional(USA)", ABC 7 Sarasota (WWSB)
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/WPLGlogo.png/210px-WPLGlogo.png" group-title="ABC Regional(USA)" , ABC 10 Miami (WPLG)
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ABC10WPLG.us.png" group-title="ABC Regional(USA)" , ABC 10 Miami (WPLG)
 http://190.13.120.121/streams/abc-hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/WTVD_2013_Logo.png" group-title="ABC Regional(USA)" , ABC 11 Durham (WTVD)
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ABCWTVD.us.png" group-title="ABC Regional(USA)" , ABC 11 Durham (WTVD)
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="CBS Regional(USA)",CBS 4 Miami (WFOR)
