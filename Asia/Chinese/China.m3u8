@@ -183,12 +183,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225947/3.m3u8
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000605/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/gtvdianzitiyu_zbb.png" group-title="地方电视台", GTV 电子体育 (辽宁)
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000611/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/neimenggutv.jpg" group-title="地方电视台",内蒙古卫视
-http://111.40.205.76/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-logo="http://218.11.133.12/wp-content/uploads/2015/05/logo%E5%89%AF%E6%9C%AC.png" group-title="地方电视台",围场新闻综合 (内蒙古)
-http://www.vctv.com.cn:9090/hls/zkghtv1.m3u8
-#EXTINF:-1 tvg-logo="http://218.11.133.12/wp-content/uploads/2015/05/logo%E5%89%AF%E6%9C%AC.png" group-title="地方电视台",围场影视 (内蒙古)
-http://www.vctv.com.cn:9090/hls/zkghtv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg" group-title="地方电视台",青海卫视
 http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="地方电视台",安多卫视(藏语)
@@ -783,11 +777,17 @@ http://112.17.40.140/PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/ZJZS-ZH.jpg" group-title="地方电视台(浙江)",舟山新闻综合
 http://stream.wifizs.cn/xwzh/sd/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.mnb.mn/images/mini/tv.png" group-title="Mongolia(Монгол)",МҮОНТ-1
+#EXTINF:-1 tvg-logo="http://www.mnb.mn/images/mini/tv.png" group-title="蒙古(Монгол)",МҮОНТ-1
 http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mnb.mn/images/mini/mnews.png" group-title="Mongolia(Монгол)",Монголын Мэдээ
+#EXTINF:-1 tvg-logo="http://www.mnb.mn/images/mini/mnews.png" group-title="蒙古(Монгол)",Монголын Мэдээ
 http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mnb.mn/images/6.jpg" group-title="Mongolia(Монгол)",MNB спорт
+#EXTINF:-1 tvg-logo="http://www.mnb.mn/images/6.jpg" group-title="蒙古(Монгол)",MNB спорт
 http://103.14.38.107:1935/live/sport.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mnb.mn/images/3.jpg" group-title="Mongolia(Монгол)",MNB world
+#EXTINF:-1 tvg-logo="http://www.mnb.mn/images/3.jpg" group-title="蒙古(Монгол)",MNB world
 http://103.14.38.107:1935/live/world.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/neimenggutv.jpg"  group-title="蒙古(Монгол)",内蒙古卫视
+http://111.40.205.76/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-logo="http://218.11.133.12/wp-content/uploads/2015/05/logo%E5%89%AF%E6%9C%AC.png"  group-title="蒙古(Монгол)",围场新闻综合 (内蒙古)
+http://www.vctv.com.cn:9090/hls/zkghtv1.m3u8
+#EXTINF:-1 tvg-logo="http://218.11.133.12/wp-content/uploads/2015/05/logo%E5%89%AF%E6%9C%AC.png" group-title="蒙古(Монгол)",围场影视 (内蒙古)
+http://www.vctv.com.cn:9090/hls/zkghtv2.m3u8
