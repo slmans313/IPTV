@@ -12,6 +12,19 @@ http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.firstonetv.net/images/logos/al/TVJUG.png" group-title="Albania(Shqipëria)",TV JUG
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digitalb.vo.llnwd.net/supersport/wp-content/uploads/2017/09/SS_1_-e1508158203640.png"group-title="Albania(Shqipëria)", Super Sports 1
+http://188.138.9.87:8081/streamrtmp/tringsport1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://digitalb.vo.llnwd.net/supersport/wp-content/uploads/2017/09/SS_2_-e1508160265558.png"group-title="Albania(Shqipëria)", Super Sports 2
+http://188.138.1.82:8081/streamrtmp/ss2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://digitalb.vo.llnwd.net/supersport/wp-content/uploads/2017/09/SS_3_-e1508160297829.png"group-title="Albania(Shqipëria)", Super Sports 3
+http://188.138.1.82:8081/streamrtmp/ss3/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://shikoonlinee.altervista.org/foto/kanalet/tring-sport1.png"group-title="Albania(Shqipëria)",Tring Sport 1
+http://188.138.9.87:8081/streamrtmp/tringsport1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://shikoonlinee.altervista.org/foto/kanalet/tring-sport2.png"group-title="Albania(Shqipëria)",Tring Sport 2
+http://188.138.1.82:8081/streamrtmp/ss2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://shikoonlinee.altervista.org/foto/kanalet/tring-sport3.png"group-title="Albania(Shqipëria)",Tring Sport 3
+http://188.138.1.82:8081/streamrtmp/ss3/chunks.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="Austria(Österreich)",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
