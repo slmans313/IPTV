@@ -195,14 +195,6 @@ http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title="地方电视台",西藏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Yunnan_TV_logo.png" group-title="地方电视台",云南卫视
-http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0126/9e8dfea74f7c2746dd54cae6a127b24f.jpg" group-title="地方电视台",昌宁电视台
-http://112.113.134.36:680/live/pc/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="地方电视台",迪庆综合(云南)
-http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="地方电视台",迪庆藏语(云南)
-http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(安徽)", 安徽卫视
 http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
@@ -727,6 +719,20 @@ http://klmyzb.rcsxzx.com/hls/klmy3.m3u8
 http://klmyzb.rcsxzx.com/hls/klmy4.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/kelamayi.jpg" group-title="地方电视台(新疆)",克拉玛依 5
 http://klmyzb.rcsxzx.com/hls/klmy5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Yunnan_TV_logo.png" group-title="地方电视台(云南)",云南卫视
+http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0126/9e8dfea74f7c2746dd54cae6a127b24f.jpg" group-title="地方电视台(云南)",昌宁电视台
+http://112.113.134.36:680/live/pc/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="地方电视台(云南)",迪庆综合
+http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="地方电视台(云南)",迪庆藏语
+http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wsrtv.jpg" group-title="地方电视台(云南)",文山新闻综合
+http://store.ovp.wsrtv.com.cn:9090/ch1/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wsrtv.jpg" group-title="地方电视台(云南)",文山公众
+http://store.ovp.wsrtv.com.cn:9090/ch2/hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" group-title="地方电视台(浙江)", 浙江卫视
 http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8
