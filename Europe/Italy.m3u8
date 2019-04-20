@@ -541,15 +541,17 @@ http://217.144.16.215:1935/live/smil:dajto.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/Doma_tv_sk.png/revision/latest?cb=20130329122544" group-title="Slovakia(Slovensko)",Doma
 http://217.144.16.215:1935/live/smil:doma.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovakia(Slovensko)", Joj
-http://217.144.16.215:1935/live/smil:joj.smil/playlist.m3u8
+http://nn1.joj.sk/hls/joj-720.m3u8
+#EXTINF:0 tvg-logo="https://img.joj.sk/rx/d8243ddf9e64c682833f0d16a820d7e8.png" group-title="Slovakia(Slovensko)", Joj Family
+http://nn1.joj.sk/hls/family-540.m3u8
 #EXTINF:0 tvg-logo="https://static1.joj.sk/html/assets/logo-plus-white.png" group-title="Slovakia(Slovensko)", Joj Plus
-http://217.144.16.215:1935/live/smil:jojplus.smil/playlist.m3u8
+https://nova-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/cze/live_hq.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Tv-nitricka.png" group-title="Slovakia(Slovensko)", Nitricka
 http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1  tvg-logo="http://www.senzi.sk/images/logo_televizia_senzi.png" group-title="Slovakia(Slovensko)",Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://img.joj.sk/rx/logowau.png" group-title="Slovakia(Slovensko)",Wau TV
-http://217.144.16.215:1935/live/smil:wau.smil/playlist.m3u8
+https://nn.geo.joj.sk/hls/wau-540.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/LA1.es.png" group-title="Spanish(español)", LA 1
 http://185.243.139.5:5070/La1/index.m3u8
