@@ -451,6 +451,8 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 http://111.7.159.140/PLTV/88888888/224/3221225988/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.badouxia.com/Uploads/vod/2018-08-30/5b87b061c3838.jpg" group-title="地方电视台(河南)", 河南武术世界 
 http://117.158.206.60:9080/live/wssj.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FemRq27.jpg" group-title="地方电视台(河南)",河南文物宝库
+http://39.135.16.142:6060/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://www.731532.com/uploads/allimg/18/1-1P3032241250-L.jpg" group-title="地方电视台(河南)", 卢氏综合
 http://1.199.65.56:81/hls/live1.m3u8
 #EXTINF:-1 tvg-logo="https://www.731532.com/uploads/allimg/18/1-1P3032244000-L.jpg" group-title="地方电视台(河南)", 卢氏影视
@@ -505,7 +507,9 @@ http://tv.jrsncn.com:9001/hls/live/live1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" group-title="地方电视台(陕西)", 陕西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/YA2.jpg" group-title="地方电视台(陕西)", 延安1台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ca/CNNL_logo.png" group-title="地方电视台(陕西)", 农林卫视
+http://39.135.16.142:6060/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/YA1.jpg" group-title="地方电视台(陕西)", 延安1台
 http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/YA2.jpg" group-title="地方电视台(陕西)", 延安2台
 http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
@@ -513,6 +517,7 @@ http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
 http://pili-live-hls.livexianyang.sobeycache.com/xianyang/zb01.m3u8
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0704/9bfca3add98e0f64479134fb4459f06f.jpg" group-title="地方电视台(陕西)", 横山电视台
 http://stream.hsqtv.cn/2/sd/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="地方电视台(江西)", 江西卫视
 http://39.135.16.142:6060/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
@@ -617,6 +622,8 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SN
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000505/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0717/3218a480d0fc64a6a9b2a16c40af3d2f.jpg" group-title="地方电视台(山东)",济宁新闻综合
 http://lives.jnnews.tv:80/video/s10001-jntv/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png" group-title="地方电视台(山西)",山西卫视
