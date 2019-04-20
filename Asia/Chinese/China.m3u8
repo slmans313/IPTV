@@ -30,8 +30,10 @@ http://111.40.205.76/PLTV/88888888/224/3221225601/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.chtv.com.hk/UpLoadFile/image/20180412/20180412100657_98319.png" group-title="China (中国)",中华卫视
 http://pull.kapad.cn/live/test/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/CETV_Logo.png/150px-CETV_Logo.png" group-title="China (中国)", 中国教育电视台
+#EXTINF:-1 tvg-logo="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=fab9c62075310a55c424d9f28f7e2494/7aec54e736d12f2eb4b7f2b343c2d562843568b6.jpg" group-title="China (中国)", CETV1（教育综合)
 http://39.135.16.142:6060/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetvzj.jpg" group-title="China (中国)", CETV早期教育
+http://39.135.16.142:6060/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.weathertv.cn/m/i/index/logo.png" group-title="China (中国)",中国天气
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000609/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/chtvcn.jpg" group-title="China (中国)", 百姓健康
