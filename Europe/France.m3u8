@@ -1,9 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.rtsh.al/rtsh-live/RTSH1_large.png" group-title="Albania(Shqipëria)",RTSH 1
-http://79.106.48.2/live/rtsh_1mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtsh.al/rtsh-live/RTSH2_large.png" group-title="Albania(Shqipëria)",RTSH 2
-http://79.106.48.2/live/rtsh_2mob_p1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/RTSH_1_HD.svg/150px-RTSH_1_HD.svg.png" group-title="Albania(Shqipëria)",RTSH 1
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/RTSH_2_HD.svg/150px-RTSH_2_HD.svg.png" group-title="Albania(Shqipëria)",RTSH 2
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTSH_3_HD.svg/150px-RTSH_3_HD.svg.png" group-title="Albania(Shqipëria)",RTSH 3
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTSH_PLUS.svg/150px-RTSH_PLUS.svg.png" group-title="Albania(Shqipëria)",RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RTSH_SHQIP.svg/150px-RTSH_SHQIP.svg.png" group-title="Albania(Shqipëria)",RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Albania(Shqipëria)",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Albanian-TV-of-America.jpg" group-title="Albania(Shqipëria)",Albanian TV of America
 http://stream.shqiptv.com:7080/altvusa/index.m3u8
 #EXTINF:-1  tvg-logo="http://balkanweb.com/news24/live/images/logolive.png" group-title="Albania(Shqipëria)",News 24
