@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.rtsh.al/rtsh-live/RTSH1_large.png" group-title="Albania(Shqipëria)",RTSH 1
+http://79.106.48.2/live/rtsh_1mob_p1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rtsh.al/rtsh-live/RTSH2_large.png" group-title="Albania(Shqipëria)",RTSH 2
+http://79.106.48.2/live/rtsh_2mob_p1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Albanian-TV-of-America.jpg" group-title="Albania(Shqipëria)",Albanian TV of America
 http://stream.shqiptv.com:7080/altvusa/index.m3u8
 #EXTINF:-1  tvg-logo="http://balkanweb.com/news24/live/images/logolive.png" group-title="Albania(Shqipëria)",News 24
