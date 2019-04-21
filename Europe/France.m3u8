@@ -68,6 +68,15 @@ http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="Bulgaria(България)",This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HRT1-logo.png/375px-HRT1-logo.png" group-title="Croatia(Hrvatska)",HRT 1 
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" group-title="Croatia(Hrvatska)",HRT 2 
+http://195.29.70.82/PLTV /88888888/224/3221226140/04.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" group-title="Croatia(Hrvatska)",HRT 3 
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" group-title="Croatia(Hrvatska)",HRT 4 
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/225px-%C4%8CT1_logo_2012.svg.png" group-title="Czech Republic(Česká)",ČT1
 http://92.62.234.223/103/mystream.m3u8
@@ -84,9 +93,9 @@ http://217.144.16.215:1935/live/smil:barrandov.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Prima_TV_logo.svg/300px-Prima_TV_logo.svg.png" group-title="Czech Republic(Česká)", Prima
 http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Prima_Cool_logo.svg/1200px-Prima_Cool_logo.svg.png" group-title="Czech Republic(Česká)", Prima Cool
-https://nova-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hq.m3u8
+http://92.62.234.223/104/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-nbAar05h3ZU/TV4Kwi0PX2I/AAAAAAAAAHI/pFwNnGVVJeA/s1600/Prima_Love_logo_2011.png" group-title="Czech Republic(Česká)", Prima Love
-https://nova-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hq.m3u8
+http://92.62.234.223/101/mystream.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Prima_ZOOM_logo.svg/1200px-Prima_ZOOM_logo.svg.png" group-title="Czech Republic(Česká)", Prima Zoom
 https://nova-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://krimi.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-krimi-cover.jpg" group-title="Czech Republic(Česká)", Prima Krimi
