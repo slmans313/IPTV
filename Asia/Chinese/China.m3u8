@@ -185,10 +185,6 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
 http://222.207.48.30/hls/jlu_jsds.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/China_yanbian_satellite_tv_logo.png/150px-China_yanbian_satellite_tv_logo.png" group-title="地方电视台", 延边卫视
 http://39.135.16.142:6060/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg" group-title="地方电视台",青海卫视
-http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="地方电视台",安多卫视(藏语)
-http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title="地方电视台",西藏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
 
@@ -532,6 +528,20 @@ http://222.207.48.30/hls/hls97.m3u8
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000605/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/gtvdianzitiyu_zbb.png" group-title="地方电视台(辽宁)", GTV 电子体育
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000611/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg" group-title="地方电视台(青海)",青海卫视
+http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="地方电视台(青海)",安多卫视
+http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/qhshpd.jpg" group-title="地方电视台(青海)",青海生活
+http://111.44.138.251:15414/contents39/live/CHANNEL8c2bd69052744f6698d01be2a829dae9/HD_1212931560398178049/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/qhdspd.jpg" group-title="地方电视台(青海)",青海都市
+http://111.44.138.251:15414/contents39/live/CHANNELd88233ec001443eab59a2654bb3e0d62/HD_1761200208961192182/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xlxwpd.jpg" group-title="地方电视台(青海)",西宁新闻
+http://111.44.138.251:15414/contents38/live/CHANNEL624b6cac092948abad7426bce3d27350/HD_4402299958362184480/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xlshpd.jpg" group-title="地方电视台(青海)",西宁生活
+http://111.44.138.251:15414/contents38/live/CHANNEL10d2ec0ddf704bb3bb45863d5b0f698f/HD_3655028264191063491/live.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" group-title="地方电视台(陕西)", 陕西卫视
