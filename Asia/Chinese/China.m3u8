@@ -167,10 +167,6 @@ http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China (中国)", 新唐人中国台
 https://live2.ntdimg.com/cnlive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ijizhi.com/img/UploadFile/201112515747511.jpg" group-title="地方电视台", 天津卫视
-http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tjtv2.jpg" group-title="地方电视台", 天津文艺
-http://39.106.151.203:80/a2/tjtv.m3u8?id=tjwy
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/db/GXTV_logo.png/200px-GXTV_logo.png" group-title="地方电视台", 广西卫视
 http://222.216.111.82:8088/flv0
 #EXTINF:-1 tvg-logo="http://mserver.mcloud.gxcatv.com/site/byx//upload/Image/mrtp/2018/12/29/1_bc0812c4fc1543ec9e84bac815aee87b.png" group-title="地方电视台", 宾阳电视台(广西)
@@ -768,6 +764,17 @@ http://live6a.pstatp.com/live/gytv3/index.m3u8
 http://zb.pzhgd.com:9091/live/xwzh.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/panzhihua.jpg" group-title="地方电视台(四川)",攀枝花公共
 http://zb.pzhgd.com:9091/live/ggpd_800k.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ijizhi.com/img/UploadFile/201112515747511.jpg" group-title="地方电视台(天津)", 天津卫视
+http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tjtv2.jpg" group-title="地方电视台(天津)", 天津文艺
+http://39.106.151.203:80/a2/tjtv.m3u8?id=tjwy
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif" group-title="地方电视台(天津)", 滨海新闻
+http://60.30.52.41/live/bhtv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif" group-title="地方电视台(天津)", 滨海都市
+http://60.30.52.41/live/bhtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif" group-title="地方电视台(天津)", 滨海影视
+http://60.30.52.41/live/bhtv3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6b/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(新疆)",新疆卫视
