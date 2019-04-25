@@ -39,7 +39,10 @@ http://188.138.1.82:8081/streamrtmp/ss2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://shikoonlinee.altervista.org/foto/kanalet/tring-sport3.png"group-title="Albania(Shqipëria)",Tring Sport 3
 http://188.138.1.82:8081/streamrtmp/ss3/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/300px-ORFeins.svg.png" group-title="Austria(Österreich)", ORF Eins
+http://176.10.117.17:8081/aypitv/ORF1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/300px-ORF2_logo_n.svg.png" group-title="Austria(Österreich)", ORF Zwei
+http://176.10.117.17:8081/aypitv/ORF2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="Austria(Österreich)",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Austria(Österreich)",FS1 Salzburg
