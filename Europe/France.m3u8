@@ -166,6 +166,11 @@ http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1Fqzl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kringvarp_foroya.jpg/300px-Kringvarp_foroya.jpg" group-title="Denmark (Danmark)", Kringvarp Føroya
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1.fr.png"  group-title="France(français)", TF1
+http://176.10.117.12:8081/aypitv/TF1HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png"  group-title="France(français)", M6
+http://176.10.117.17:8081/aypitv/M6_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png"  group-title="France(français)", BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BFMTV.fr.png"  group-title="France(français)",BeBlack Africa
