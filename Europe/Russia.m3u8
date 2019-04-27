@@ -967,12 +967,20 @@ http://85.132.81.184:8080/atv-4/index.m3u8
 http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:0 tvg-logo="http://24.arbtv.az/assets/uploads/sites/Test%20arb%2024%20-1%20-%20Copy.jpg" group-title="Azerbaijan(Azərbaycan)", Arb 24
 http://85.132.81.184:8080/arb24/liveStream1/index.m3u8
+#EXTINF:0 tvg-logo="http://www.cbc.az/assets/uploads/sites/Logo_fin.png" group-title="Azerbaijan(Azərbaycan)", CBC Azərbaycan
+http://streams2.livetv.az/azerbaijan/cbc_stream2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/CBC_Sport%2C_logo%2C_2015.png" group-title="Azerbaijan(Azərbaycan)", CBC Sport
+http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="http://kepez.arbtv.az/assets/uploads/sites/logo.png" group-title="Azerbaijan(Azərbaycan)", Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1  tvg-logo="https://shimaiptv.ir/wp-content/uploads/2018/04/%D8%B3%D8%AD%D8%B1-AZERI.png" group-title="Azerbaijan(Azərbaycan)",Sahar Azeri
 https://cdn2.shimaiptv.ir/live/300k/shimapp/sahar1/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.gunaz.tv/images/l1.png" group-title="Azerbaijan(Azərbaycan)", Gunaz TV
 https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist_w1059123534_b128000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Lider_TV_logo.jpg" group-title="Azerbaijan(Azərbaycan)", Lider TV
+http://streams2.livetv.az/azerbaijan/lider_stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://muztv.az/images/logo17.png" group-title="Azerbaijan(Azərbaycan)", Muztv
+http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://belarus24.by/local/templates/belarus24.responsive/images/logo-company.png" group-title="Belarus(Беларусь)",Беларусь 24
