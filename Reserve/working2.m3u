@@ -3,6 +3,9 @@
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle 
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="Taiwan (臺灣)",  三立臺灣
+http://125.227.210.37:8903/VideoInput/play.ts
+
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN 
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2 
@@ -71,10 +74,6 @@ http://116.42.214.80:9981/stream/channelid/378200553?ticket=94415981A719863D1893
 http://116.42.214.80:9981/stream/channelid/1379200389?ticket=F6B990C72D1C810B66A87F76B74D2686EC5B3BC1&profile=pass
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/SBS_Plus_logo.png/582px-SBS_Plus_logo.png" group-title="South Korea(한국어)", SBS Plus
 http://122.38.74.172:9981/stream/channelid/2132262831?ticket=8235D4595B1ADCBE519C576445320AB8B6B07E86&profile=pass
-
-
-
-	http://218.202.220.2:5000/nn_live.ts?id=CNN
 
 #EXTINF:-1 tvg-logo="https://digitalb.vo.llnwd.net/supersport/wp-content/uploads/2017/09/SS_4_-e1508160344357.png"group-title="Albania(Shqipëria)", Super Sports 4
 https://7streams.pro/lba/123/g7/super4sport.m3u8
