@@ -227,8 +227,12 @@ http://0ajuu84p.rocketcdn.com/kraldijital-akustiktv_720/chunklist.m3u8
 http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="Turkey (Türkiye)",Meclis TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/180px-Nr1_logo_vector.svg.png group-title="Turkey (Türkiye)",NR1
+#EXTINF:-1  tvg-logo="http://mgctv.biz/assets/img/logo_new.png" group-title="Turkey (Türkiye)",MGC TV
+http://iptv.santraltr.com:8080/hls/mgctv.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/180px-Nr1_logo_vector.svg.png" group-title="Turkey (Türkiye)",NR1
 http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Turkey (Türkiye)",NTV
+http://streams2.livetv.az/turk/ntv_stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://rumelitv.com.tr/img/rumelilogo.png" group-title="Turkey (Türkiye)",Rumeli TV
 http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8
 #EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/2414964144/2cq1bv0lwjnmxl87ijpo_400x400.jpeg" group-title="Turkey (Türkiye)", Semerkand TV
@@ -236,7 +240,7 @@ http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Star_TV_logosu.png" group-title="Turkey (Türkiye)",Star TV
 https://blutv-beta.akamaized.net/startvhd/startvhd.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="Turkey (Türkiye)", Show 
-http://mn-l.mncdn.com/showturktv/showturktv2/ip.m3u8
+http://streams2.livetv.az/turk/showtv/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.teve2.com.tr/assets/img/teve2logo.png" group-title="Turkey (Türkiye)",Teve2
 http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8 
 #EXTINF:0  tvg-logo="https://i.ytimg.com/vi/YA8T63Wg-Dk/hqdefault.jpg" group-title="Turkey (Türkiye)", TJK TV 
@@ -261,6 +265,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1  tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/70a243c7-afdb-4c33-b03b-95a94b011d26_tv4-tv.png" group-title="Turkey (Türkiye)",TV 4
 http://176.10.117.12:8081/aypitv/TV4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="Turkey (Türkiye)",TV8 Turk
+http://streams2.livetv.az/turk/tv8_stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/v/vuslat_tv_logo.png" group-title="Turkey (Türkiye)",Vulsat TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.brtk.net/wp-content/themes/brtk_theme/images/brt1-logo.png" group-title="Turkey (Türkiye)",BRT 1 (Kıbrıs)
