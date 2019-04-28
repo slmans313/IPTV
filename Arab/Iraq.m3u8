@@ -201,6 +201,8 @@ http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
 http://streams2.livetv.az/turk/beyaz/playlist.m3u8
 #EXTINF:0  tvg-logo="https://sport-tv-guide.live/images/tv-station-cay-tv-895.png" group-title="Turkey (Türkiye)", CAY TV 
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:0  tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Turkey (Türkiye)", Cartoon Network Türkiye
+http://streams2.livetv.az/turk/cartoon/playlist.m3u8
 #EXTINF:0  tvg-logo="https://truepundit.com/wp-content/uploads/2018/03/cnn-turk-canli-yayini-hd-izlejpg.jpg" group-title="Turkey (Türkiye)",CNN Turk
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
 #EXTINF:0  tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg" group-title="Turkey (Türkiye)", Dersim62 TV
@@ -209,10 +211,14 @@ http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 http://streams2.livetv.az/turk/dream_stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/dreamturk.jpg" group-title="Turkey (Türkiye)",Dream TV Turk
 http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Turkey (Türkiye)",Disney Türkiye
+http://streams2.livetv.az/turk/disney/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="Turkey (Türkiye)",EuroStar
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://frmtv.com/wp-content/uploads/2017/08/frmtvlogo.png" group-title="Turkey (Türkiye)",FRM TV
 http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FOX.uk.png" group-title="Turkey (Türkiye)",Fox Türkiye
+http://streams2.livetv.az/turk/fox_stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="Turkey (Türkiye)",Guney TV Tarsus
 rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
 #EXTINF:-1  tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/7678c74d-3003-415c-8a90-d50bf31531b6_haberturk-turk-hd.jpg" group-title="Turkey (Türkiye)",Haber Turk 
