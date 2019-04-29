@@ -335,11 +335,6 @@ http://94.61.237.161:9981/play/a02f/index.m3u8
 http://94.61.237.161:9981/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportTV5.pt.png" group-title="Portuguese Sports",SPORT TV 5 
 http://94.61.237.161:9981/play/a02h/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportTV5.pt.png" group-title="Portuguese Sports",SPORT TV 6
-rtsp://118.97.96.17:1935/discover/beib1_1
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportTV5.pt.png" group-title="Portuguese Sports",SPORT TV 7
-http://118.97.96.17:1935/discover/beib1_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Portuguese Sports",SPORTV 1 (Brasil)
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29445
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Portuguese Sports",SPORTV 2 (Brasil)
@@ -487,10 +482,6 @@ http://62.210.141.179:8000/ibrahim/123456/239
 http://62.210.141.179:8000/ibrahim/123456/246
 #EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Middle East Sports", Kuwait Sport
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/547069601796730880/wQ8l599B_400x400.png" group-title="Middle East Sports", Nile Sport
-http://62.210.141.179:8000/ibrahim/123456/230
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sd/neelain-sport-95x59.gif" group-title="Middle East Sports",Neelain Sport
-http://62.210.141.179:8000/ibrahim/123456/116
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Middle East Sports", Oman Sports
 http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/14869/logo_sharjah%20sports%20tv5.png" group-title="Middle East Sports",Sharjah Sport
@@ -520,6 +511,13 @@ ttp://176.10.117.12:8081/aypitv/Tivibu3/playlist.m3u8
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/17875
 #EXTINF:-1  tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="Turkish Sports",TRT Sports
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPbeOR1_1@182042/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_epg/sports11.png" group-title="Africa Sports",MBC Sports 11
+http://52.24.12.57/live/test1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sd/neelain-sport-95x59.gif" group-title="Africa Sports",Neelain Sport
+http://62.210.141.179:8000/ibrahim/123456/116
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/547069601796730880/wQ8l599B_400x400.png" group-title="Africa Sports", Nile Sport
+http://62.210.141.179:8000/ibrahim/123456/230
 
 #EXTINF:-1 tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein-NBA.gif" group-title="Basketball",beIN Sports NBA
 http://31.220.1.190:8080/Jessica/Jessica1/136392
