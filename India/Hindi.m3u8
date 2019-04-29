@@ -27,6 +27,8 @@ http://62.210.141.179:8000/ibrahim/123456/1344
 http://123.249.76.157:10029/bysid/1112
 #EXTINF:-1 tvg-logo="http://www.chsuk.tv/img/cateringcircle.png" group-title="Bengali(বাংলা)",Channel S
 http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG" group-title="Bengali(বাংলা)",   DD Bangla
+http://pockettv.xyz/api/zee.m3u8?c=ddbangla
 #EXTINF:-1 tvg-logo="http://www.deshitv.com/images/company_logo/1006.png" group-title="Bengali(বাংলা)", Deshi TV
 http://62.210.141.179:8000/ibrahim/123456/1350
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/dhoom_roku.jpg" group-title="Bengali(বাংলা)", Dhoom Music
@@ -41,6 +43,8 @@ http://123.249.76.157:10030/bysid/1
 http://123.249.76.157:10030/bysid/2
 #EXTINF:-1 tvg-logo="http://uttarbangla.com/Images/CompanyLogo.jpg" group-title="Bengali(বাংলা)",  Uttar Bangla
 http://209.58.164.245/uttarbanglahls/live.m3u8
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/54012/zeebanglatv.png" group-title="Bengali(বাংলা)",   Zee Bangla
+http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 
 #EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="Bhojpuri(भोजपुरी)",Anjan TV
 https://anjancdn.vstream.online/bstb/ngrp:anjan_hdall/chunklist_b1580000.m3u8
@@ -85,6 +89,8 @@ https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
 https://repblicwld.s.llnwi.net/midroll/amagi_hls_data_republict-republictv/CDN/640x360_576000/index.m3u8
 #EXTINF:0 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="India(English)", Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:0 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe.png" group-title="India(English)", Zee Cafe
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="Gujarati(ગુજરાતી)",  CNBC Bajar 
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8?sd=10
@@ -224,9 +230,11 @@ http://62.210.141.179:8000/ibrahim/123456/1204
 http://123.249.76.157:10010/bysid/2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/UTV_Movies_logo.png" group-title="Hindi(हिन्दी)",  UTV Movies
 http://hindi.flussonic.cdnpro.me:80/UTVMOVIES-Hin/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(हिन्दी)",   Zee Cinema
-http://161.0.157.9/PLTV/88888888/224/3221226709/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeTV.in.png" group-title="Hindi(हिन्दी)",    Zee TV
-http://109.248.236.41:4433/udp/238.1.1.31:1234
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(हिन्दी)",   Zee Cinema
+http://161.0.157.9/PLTV/88888888/224/3221226709/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Zee_Hindustan_logo.jpeg" group-title="Hindi(हिन्दी)",    Zee Hindustan
+http://pockettv.xyz/api/zee.m3u8?c=hindustan
 #EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/zoom.png" group-title="Hindi(हिन्दी)",  Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
