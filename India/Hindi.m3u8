@@ -91,6 +91,9 @@ https://repblicwld.s.llnwi.net/midroll/amagi_hls_data_republict-republictv/CDN/6
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:0 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe.png" group-title="India(English)", Zee Cafe
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="India(English)",Zee Etc
+http://pockettv.xyz/api/zee.m3u8?c=etc
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="Gujarati(ગુજરાતી)",  CNBC Bajar 
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8?sd=10
@@ -232,9 +235,13 @@ http://123.249.76.157:10010/bysid/2
 http://hindi.flussonic.cdnpro.me:80/UTVMOVIES-Hin/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeTV.in.png" group-title="Hindi(हिन्दी)",    Zee TV
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Zee-Anmol-Logo.jpg" group-title="Hindi(हिन्दी)",   Zee Anmol
+http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(हिन्दी)",   Zee Cinema
 http://161.0.157.9/PLTV/88888888/224/3221226709/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Zee_Hindustan_logo.jpeg" group-title="Hindi(हिन्दी)",    Zee Hindustan
 http://pockettv.xyz/api/zee.m3u8?c=hindustan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Zee_rajasthan.jpg" group-title="Hindi(हिन्दी)",    Zee Rajasthan
+http://pockettv.xyz/api/zee.m3u8?c=rajasthan
 #EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/zoom.png" group-title="Hindi(हिन्दी)",  Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
