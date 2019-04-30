@@ -15,6 +15,8 @@ http://pockettv.xyz/api/zee.m3u8?c=zkannada
 
 #EXTINF:-1 tvg-logo="http://www.nepal1tv.net/images/nepal1_01.jpg" group-title="Nepali (नेपाली)",  Nepal 1
 http://123.249.76.157:10009/bysid/5
+#EXTINF:-1 tvg-logo="http://nepalitv.co.uk/images/logo.png group-title="Nepali (नेपाली)",  Nepali TV
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" group-title="Malayalam(മലയാളം)",Asianet News
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
@@ -163,11 +165,15 @@ http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Zee Punjabi
 http://pockettv.xyz/api/zee.m3u8?c=punjabi
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/ITN_TV_Sri_Lanka.png" group-title="Sir Lanka(ශ්‍රී ලංකා)",ITN channel
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hiru_TV-Logo.png/220px-Hiru_TV-Logo.png" group-title="Sir Lanka(ශ්‍රී ලංකා)",Hiru
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zg0v4hJUnGA/maxresdefault_live.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)",Vasantham TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/ITN_TV_Sri_Lanka.png" group-title="Sir Lanka(ශ්‍රී ලංකා)",ITN 
+http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zg0v4hJUnGA/maxresdefault_live.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)",Vasantham
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.rupavahini.lk/images/logo_2018_new.png" group-title="Sir Lanka(ශ්‍රී ලංකා)", Rupavahini TV
+#EXTINF:-1 tvg-logo="http://www.rupavahini.lk/images/logo_2018_new.png" group-title="Sir Lanka(ශ්‍රී ලංකා)", Rupavahini
 http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.1yestv.com/images/logo.png" group-title="Tamil (தமிழ்)", 1Yes TV
