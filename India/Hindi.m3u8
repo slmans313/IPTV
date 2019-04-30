@@ -93,6 +93,8 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="India(English)",Zee Etc
 http://pockettv.xyz/api/zee.m3u8?c=etc
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Newwebtrans.png" group-title="India(English)",Zee World
+http://pockettv.xyz/api/zee.m3u8?c=world
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="Gujarati(ગુજરાતી)",  CNBC Bajar 
@@ -237,8 +239,12 @@ http://hindi.flussonic.cdnpro.me:80/UTVMOVIES-Hin/index.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Zee-Anmol-Logo.jpg" group-title="Hindi(हिन्दी)",   Zee Anmol
 http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+#EXTINF:-1 tvg-logo="http://tv.ctgix.net/wp-content/uploads/2018/06/zeeaction.png" group-title="Hindi(हिन्दी)", Zee Action
+http://pockettv.xyz/api/zee.m3u8?c=action
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(हिन्दी)",   Zee Cinema
 http://161.0.157.9/PLTV/88888888/224/3221226709/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.adageindia.in/photo/67267494/zeel-to-bring-back-zee-classic-in-ad-free-vod-format.jpg" group-title="Hindi(हिन्दी)",  Zee Classic
+http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Zee_Hindustan_logo.jpeg" group-title="Hindi(हिन्दी)",    Zee Hindustan
 http://pockettv.xyz/api/zee.m3u8?c=hindustan
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Zee_rajasthan.jpg" group-title="Hindi(हिन्दी)",    Zee Rajasthan
