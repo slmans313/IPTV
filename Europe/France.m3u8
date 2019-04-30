@@ -204,7 +204,7 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 #EXTINF:-1 tvg-logo="http://nowtv.now.com/shares/channelPreview/img/en_hk/color/ch713_170_122.jpg" group-title="France(français)", TV5 Style
 http://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/master.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/d1202aa528842711efdfca7838e400e2.jpeg" group-title="France(français)", TV5 Europe
-http://ott-cdn.ucom.am/s75/index.m3u8
+http://ott-cdn.ucom.am/s75/04.m3u8
 #EXTINF:-1 tvg-logo="https://image-store.slidesharecdn.com/2470438d-37a2-49a1-9d3d-fb7aaf89e073-original.png" group-title="France(français)", TV5 Asie
 http://125.227.210.37:8937/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="France(français)", TV5 Maghreb-Orient
@@ -234,17 +234,17 @@ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/2dbb7a7bc84208a88701a8bfc8dd97b4.jpeg" group-title="Greece (Ελλάδα)",Delta TV
 http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
+EXTINF:0 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1388911_logo_tv_filopoli.png" group-title="Greece (Ελλάδα)", Filopoli TV
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2380522/logo_high%20tv.png" group-title="Greece (Ελλάδα)",High TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ioniantv.gr/wp-content/themes/ioniantv/img/logo-dark.png" group-title="Greece (Ελλάδα)",Ionian Channel
+#EXTINF:-1 tvg-logo="https://ioniantv.gr/wp-content/themes/ioniantv/img/logo-dark.png" group-title="Greece (Ελλάδα)",Ionian TV
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/newlogokontra.png" group-title="Greece (Ελλάδα)", Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0 tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logo.png" group-title="Greece (Ελλάδα)", ΚΡΗΤΗ TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1388911_logo_tv_filopoli.png" group-title="Greece (Ελλάδα)", Filopoli TV
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:0 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1564276_logo_messinia_tv1.png" group-title="Greece (Ελλάδα)", Messinia TV
+##EXTINF:0 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1564276_logo_messinia_tv1.png" group-title="Greece (Ελλάδα)", Messinia TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RIK-Sat.png" group-title="Greece (Ελλάδα)", Rik Sat (Κύπρος)
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
