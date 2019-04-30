@@ -62,6 +62,10 @@ http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/ch
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-n3_Ia8LuZDQ/UZpq-S3YZQI/AAAAAAAAHEY/_WuHBMOUmfo/s1600/channe0l+logo.png" group-title="Bhojpuri(भोजपुरी)",Oscar Movies Bhojpuri
 http://123.249.76.157:10012/bysid/9
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="India(English)",&Flix
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="India(English)",&Prive
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India(English)",9XO
 http://pockettv.xyz/api/zee.m3u8?c=9xo
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="India(English)",Animal Planet (India)
@@ -74,6 +78,10 @@ https://d1yhck4nr3rup7.cloudfront.net/bqbackup_2.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 #EXTINF:0 tvg-logo="https://images.news18.com/static_news18/pix/ibnhome/news18/megamenu/news18-main.png" group-title="India(English)",CNN News 18 
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
+#EXTINF:-1 tvg-logo="http://doordarshan.gov.in/sites/default/files/DD%20INDIA.jpg" group-title="India(English)",DD India
+http://pockettv.xyz/api/zee.m3u8?c=ddindia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DD_News_Logo_2015.jpg/180px-DD_News_Logo_2015.jpg" group-title="India(English)",DD News
+http://pockettv.xyz/api/zee.m3u8?c=ddnews
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="India(English)",Discovery India
 http://123.249.76.157:10024/bysid/40
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="India(English)",Discovery India HD
@@ -103,7 +111,8 @@ http://pockettv.xyz/api/zee.m3u8?c=etc
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Newwebtrans.png" group-title="India(English)",Zee World
 http://pockettv.xyz/api/zee.m3u8?c=world
 
-
+#EXTINF:-1 tvg-logo="https://andtv.zee5.com/wp-content/uploads/sites/3/2019/01/And-Tv-logo.png" group-title="Gujarati(ગુજરાતી)",  &TV
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="Gujarati(ગુજરાતી)",  CNBC Bajar 
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/DDGirnarLogo.jpg/220px-DDGirnarLogo.jpg" group-title="Gujarati(ગુજરાતી)",  DD Girnar
@@ -143,8 +152,12 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Discovery_Jeet_logo.png/330px-Discovery_Jeet_logo.png" group-title="Hindi(हिन्दी)", Discovery Jeet
 http://123.249.76.157:10024/bysid/81
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/DDBiharLogo.jpg" group-title="Hindi(हिन्दी)", DD Bihar
+http://pockettv.xyz/api/zee.m3u8?c=ddbihar
 #EXTINF:-1 tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="Hindi(हिन्दी)", DD News
 http://playhls.media.nic.in/live/ddnews-360p/index.m3u8
+#EXTINF:-1 tvg-logo="http://doordarshan.gov.in/sites/default/files/dd-rajasthan.png" group-title="Hindi(हिन्दी)",  DD Rajasthan
+http://pockettv.xyz/api/zee.m3u8?c=ddrajasthan
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/channel_two.png" group-title="Hindi(हिन्दी)", DD Vyas
 http://playhls.media.nic.in/live/vyas-360p/index.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/dd_kisan.jpg" group-title="Hindi(हिन्दी)", DD Kisan
@@ -276,7 +289,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Zee_Bihar_Jharkhand_New_Logo.jpg" group-title="Hindi(हिन्दी)", Zee Bihar 
 http://pockettv.xyz/api/zee.m3u8?c=biharjharkh
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(हिन्दी)",   Zee Cinema
-http://161.0.157.9/PLTV/88888888/224/3221226709/01.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 #EXTINF:-1 tvg-logo="http://www.adageindia.in/photo/67267494/zeel-to-bring-back-zee-classic-in-ad-free-vod-format.jpg" group-title="Hindi(हिन्दी)",  Zee Classic
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Zee_Hindustan_logo.jpeg" group-title="Hindi(हिन्दी)",    Zee Hindustan
@@ -289,5 +302,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeenews
 http://pockettv.xyz/api/zee.m3u8?c=rajasthan
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943351602857086977/Ct30aWZv_400x400.jpg" group-title="Hindi(हिन्दी)",     Zee Uttar Pradesh
 http://pockettv.xyz/api/zee.m3u8?c=zeenewsupuk
+#EXTINF:-1 tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/10/02/Tv-gec_0.jpg" group-title="Hindi(हिन्दी)", Zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/zoom.png" group-title="Hindi(हिन्दी)",  Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
