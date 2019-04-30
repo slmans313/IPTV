@@ -223,7 +223,8 @@ http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/1200px-Yle_TV2_logo.svg.png" group-title="Finland (Suomi)", Yle TV 2
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/ERT_World.svg/200px-ERT_World.svg.png" group-title="Greece (Ελλάδα)",ERT World
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-nrg-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="Greece (Ελλάδα)",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.voloslive.gr/wp-content/uploads/2017/08/axeloostvTV.png" group-title="Greece (Ελλάδα)",Axeloos TV
@@ -246,6 +247,8 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 ##EXTINF:0 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1564276_logo_messinia_tv1.png" group-title="Greece (Ελλάδα)", Messinia TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:0 tvg-logo="https://thrakinet.tv/wp-content/uploads/2015/11/THRAKINET-300x77.png" group-title="Greece (Ελλάδα)", Θράκη Νετ TV
+http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RIK-Sat.png" group-title="Greece (Ελλάδα)", Rik Sat (Κύπρος)
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Sigma_TV.jpg" group-title="Greece (Ελλάδα)", Sigma TV (Κύπρος)
