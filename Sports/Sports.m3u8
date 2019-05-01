@@ -71,7 +71,7 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX_400x400.jpg" group-title="American Sports", beIN Sports (USA)
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29404
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="American Sports", CBS Sports
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/27935
+http://89.187.177.179:80/CBS_Sports_HD_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="American Sports",Eleven Sports USA
 http://104.200.153.219:80/ElevenSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs1.png" group-title="American Sports",Fox Sports 1 (USA)
@@ -80,14 +80,12 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/27919
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/27918
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="American Sports", NBC Sports
 http://190.13.121.116/streams/nbcsn.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="American Sports", Olympic
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="American Sports", Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="American Sports", NFL Network
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29406
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLRedZone.us.png" group-title="American Sports", NFL Red Zone
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29405
+http://89.187.177.179:80/NFLHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="American Sports", NHL Network
-http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/198552
+http://89.187.177.179:80/NHLHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="American Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/Sportsnet360.ca.png" group-title="American Sports", SportsNet 360
