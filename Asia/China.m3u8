@@ -176,8 +176,6 @@ http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
 http://125.227.210.37:8888/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="Taiwan (臺灣)",中天娛樂
 http://125.227.210.37:8907/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="Taiwan (臺灣)",中天娛樂
-http://live2.ocnttv.com:8089/live1/ztyl1/list.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="中央电视",CCTV-1 综合
 http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
@@ -237,6 +235,10 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 http://live.xinhuashixun.com/live/chn01/desc.m3u8
 #EXTINF:-1 tvg-logo="http://www.chtv.com.hk/UpLoadFile/image/20180412/20180412100657_98319.png" group-title="China (中国)",中华卫视
 http://pull.kapad.cn/live/test/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png/240px-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="China (中国)",中国电影频道
+http://61.58.60.230:9319/live/225.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Onetv_1_2_3_4.jpg/330px-Onetv_1_2_3_4.jpg" group-title="China (中国)",亚太第一卫视
+http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="China (中国)", CETV1
 http://39.135.16.142:6060/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="China (中国)", CETV2
@@ -367,6 +369,8 @@ http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(安徽)", 安徽卫视
 http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgj.jpg" group-title="地方电视台(安徽)",安徽国际
+http://61.58.60.230:9319/live/237.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ahrw.jpg" group-title="地方电视台(安徽)",人物
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/bozhouxinwen.jpg" group-title="地方电视台(安徽)",亳州新闻综合
@@ -530,6 +534,8 @@ http://nclive.grtn.cn/tvs5/sd/live.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225938/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shengzheng.jpg" group-title="地方电视台(广东)", 深圳DV生活
 http://39.135.16.142:6060/PLTV/88888888/224/3221225735/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/szgjpd.jpg" group-title="地方电视台(广东)",深圳国际
+http://61.58.60.230:9319/live/235.m3u8
 #EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/czcazh.jpg" group-title="地方电视台(广东)", 潮安综艺
 http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/czcays.jpg" group-title="地方电视台(广东)", 潮安影视
@@ -660,6 +666,8 @@ http://111.7.159.140/PLTV/88888888/224/3221225988/index.m3u8
 http://117.158.206.60:9080/live/wssj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FemRq27.jpg" group-title="地方电视台(河南)",河南文物宝库
 http://39.135.16.142:6060/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hntvgj.jpg" group-title="地方电视台(河南)", 河南国际
+http://61.58.60.230:9319/live/240.m3u8
 #EXTINF:-1 tvg-logo="https://www.731532.com/uploads/allimg/18/1-1P3032241250-L.jpg" group-title="地方电视台(河南)", 卢氏综合
 http://1.199.65.56:81/hls/live1.m3u8
 #EXTINF:-1 tvg-logo="https://www.731532.com/uploads/allimg/18/1-1P3032244000-L.jpg" group-title="地方电视台(河南)", 卢氏影视
@@ -715,7 +723,7 @@ http://124.232.231.246:6610/000000001001/201500000222/8000.m3u8?zte_auth=9741793
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HUNANTV3.jpg" group-title="地方电视台(湖南)",湖南娱乐
 http://124.232.231.246:6610/000000001001/201500000239/12000.m3u8?zte_auth=5ceb9ed4&IASHttpSessionId=OTT310520190424131535003711&m3u8_level=2&ztecid=201500000239&ispcode=8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hngj.jpg" group-title="地方电视台(湖南)",湖南国际
-http://124.232.231.246:6610/000000001001/201500000242/12000.m3u8?zte_auth=d078ad8b&IASHttpSessionId=OTT312320190424131901003642&m3u8_level=2&ztecid=201500000242&ispcode=8
+http://61.58.60.230:9319/live/231.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg" group-title="地方电视台(湖南)", 茶频道
 http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.entgroup.cn/uploads/201604/2e1349bb-6844-4813-b9d4-39ce31c04d2f.jpg" group-title="地方电视台(湖南)", 金鹰纪实
@@ -777,8 +785,6 @@ http://111.44.138.251:15414/contents39/live/CHANNELd88233ec001443eab59a2654bb3e0
 http://111.44.138.251:15414/contents38/live/CHANNEL624b6cac092948abad7426bce3d27350/HD_4402299958362184480/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xlshpd.jpg" group-title="地方电视台(青海)",西宁生活
 http://111.44.138.251:15414/contents38/live/CHANNEL10d2ec0ddf704bb3bb45863d5b0f698f/HD_3655028264191063491/live.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" group-title="地方电视台(陕西)", 陕西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
@@ -909,9 +915,6 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0717/3218a480d0fc64a6a9b2a16c40af3d2f.jpg" group-title="地方电视台(山东)",济宁新闻综合
 http://lives.jnnews.tv:80/video/s10001-jntv/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png" group-title="地方电视台(山西)",山西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/datong.jpg" group-title="地方电视台(山西)", 大同新闻综合
@@ -937,6 +940,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
 http://39.135.16.142:6060/PLTV/88888888/224/3221225736/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cqtvys.jpg" group-title="地方电视台(四川)",重庆影视
 http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P926234123Q5.jpg" group-title="地方电视台(四川)", 重庆国际
+http://61.58.60.230:9319/live/236.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv2.jpg" group-title="地方电视台(四川)",四川文化旅游
 http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sctv3.jpg" group-title="地方电视台(四川)",四川经济
@@ -952,7 +957,7 @@ http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.zhiboba360.com/pindao/images/scgg.jpg" group-title="地方电视台(四川)", 四川公共
 http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/enjoytv.asia/wp-content/uploads/2019/02/%E5%9B%9B%E5%B7%9D%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.jpg" group-title="地方电视台(四川)", 四川国际
-http://61.58.60.230:9319/live/236.m3u8
+http://61.58.60.230:9319/live/238.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/mstfpd.jpg" group-title="地方电视台(四川)",美食天府
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000604/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/bazhong.jpg" group-title="地方电视台(四川)",巴中综合频道
@@ -1003,7 +1008,6 @@ http://60.30.52.41/live/bhtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/tvstation/logo/JSBHTV.gif" group-title="地方电视台(天津)", 滨海影视
 http://60.30.52.41/live/bhtv3/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6b/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(新疆)",新疆卫视
 http://111.40.205.76/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" group-title="地方电视台(新疆)",兵团卫视
@@ -1033,6 +1037,8 @@ http://rhy.lsj.fffuw.cn/aishang.m3u8?name=yunnan&id=289
 http://rhy.lsj.fffuw.cn/aishang.m3u8?name=yunnan&id=290
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/yntv2.jpg" group-title="地方电视台(云南)",云南少儿频道
 http://rhy.lsj.fffuw.cn/aishang.m3u8?name=yunnan&id=291
+#EXTINF:-1 tvg-logo="http://img.mp.itc.cn/upload/20170405/0cb399c18c024353a46464a4450d2d0b.jpg" group-title="地方电视台(云南)",云南国际
+http://61.58.60.230:9319/live/241.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/yntv2.jpg" group-title="地方电视台(云南)",云视精品
 http://rhy.lsj.fffuw.cn/aishang.m3u8?name=yunnan&id=292
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/yntv2.jpg" group-title="地方电视台(云南)",云南IPTV经典
@@ -1074,6 +1080,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226324/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/09/26ae79a65e60561898b8a5d3c4936c51.jpg" group-title="地方电视台(浙江)",浙江数码时代
 http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
+#EXTINF:-1 tvg-logo="http://o.cztvcloud.com/194/781002/images/images/logo.png" group-title="地方电视台(浙江)",浙江国际
+http://61.58.60.230:9319/live/233.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/taishuntai.jpg" group-title="地方电视台(浙江)",泰顺电视台
 http://taishun.news01.yunshanit.com/720p/StreamName_sd.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/daishantai.jpg" group-title="地方电视台(浙江)",岱山电视台
