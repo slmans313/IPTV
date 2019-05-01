@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="Singapore", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:0 tvg-logo="https://mothership.sg/wp-content/uploads/2019/02/photo_2019-02-20_16-47-10.jpg" group-title="Singapore",OKTO on 5
+#EXTINF:0 tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="Singapore",OKTO on 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:0 tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
@@ -16,7 +16,10 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:0 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Singapore",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Singapore",MUTV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="Singapore", Chelesea TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8 
 
 #EXTINF:0 tvg-logo="https://rtm-image.glueapi.io/960x640/live_stream/1-TV1.jpg" group-title="Malaysia",RTM 1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
@@ -199,9 +202,9 @@ http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="Myanmar(မြန်မာဘာသာ)",MRTV 4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/index_1500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/kSt4dXz6zdYk0tShMBrG3ec3-oBai4GGCtt546xoIXSkVmVA_vY4N2ZuN2n0YS0lZY21" group-title="Myanmar(မြန်မာဘာသာ)",MRTV Hluttaw
-http://103.91.189.205:8081/zg4/13/chunks.m3u8
+http://103.91.189.205:8081/zg5/13/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/W2IMKW4.png" group-title="Myanmar(မြန်မာဘာသာ)",MRTV Farmer
-http://103.91.189.205:8081/zg4/16/playlist.m3u8
+http://103.91.189.205:8081/zg5/16/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="Myanmar(မြန်မာဘာသာ)",5 Plus
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/stream_0.m3u8
 #EXTINF:0 tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="Myanmar(မြန်မာဘာသာ)", Mahar TV
