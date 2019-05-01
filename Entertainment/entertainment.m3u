@@ -37,13 +37,13 @@ http://161.0.157.7/PLTV/88888888/224/3221226800/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment", HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HGTV.us.png" group-title="Entertainment", HGTV
-http://190.13.120.113/streams/hgtv.m3u8
+http://104.200.153.218/HGTVHD_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Kix.uk.png" group-title="Entertainment",KIX
 http://210.210.155.35/uq2663/h/h07/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Luxe_TV.png/250px-Luxe_TV.png" group-title="Entertainment",Luxe
 http://210.210.155.35/x6bnqe/s/s65/index2.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/Lifetime.uk.png" group-title="Entertainment", Life Time
-http://31.220.1.190:8080/Jessica/Jessica1/199610
+http://195.181.168.125:80/Lifetime_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Entertainment", Paramount Channel
 http://espn.tmedia.me/cache/spikeus.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/300px-Star_World_2016_logo.png" group-title="Entertainment", Star World
@@ -78,14 +78,12 @@ http://210.210.155.35/dr9445/h/h02/index2.m3u8
 http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Boomerang.uk.png" group-title="Kids/Animation", Boomerang 
 http://123.249.76.157:10016/bysid/23
-#EXTINF:-1 tvg-logo="https://www.licensingitalia.it/wp-content/uploads/2017/04/Cartoonito-Logo-1.jpg" group-title="Kids/Animation",Cartoonito
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/955
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBeebies.uk.png" group-title="Kids/Animation", Cbeebies
 http://104.200.153.219:80/CBBC_kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/CITV_2013_logo.png" group-title="Kids/Animation",CITV
 http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/961
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
-http://161.0.157.5/PLTV/88888888/224/3221226843/index.m3u8
+http://161.0.157.5/PLTV/88888888/224/3221226843/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Kids/Animation", Disney Channel
 http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/DisneyXD.nz.png" group-title="Kids/Animation", Disney XD 
@@ -125,6 +123,8 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25433
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="Education",Planet Green
 http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Education", Crime & Investigation
+http://104.200.153.218:80/CI_HD_USA_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryShed.uk.png" group-title="Education",Discovery Shed
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25429
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryTurbo.uk.png" group-title="Education",Discovery Turbo
@@ -133,8 +133,6 @@ http://123.249.76.157:10024/bysid/100
 http://39.135.16.142:6060/PLTV/88888888/224/3221225670/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="Education", History 
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/26558
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Education", Crime & Investigation
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25445
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK.jpg" group-title="Education",Viceland
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/26502
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Education", Nat Geographic
