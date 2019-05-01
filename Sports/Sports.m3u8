@@ -62,7 +62,7 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/19104
 #EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/226.png" group-title="Football", Sky Sports Bundesliga 10
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/19103
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Football", Ziggo Sports Voetbal
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18205
+http://89.187.177.179:80/ZiggoSportVoetbal(Sp)/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="Football",CCTV风云足球
 http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 
@@ -72,6 +72,8 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29404
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSSportsNetwork.us.png" group-title="American Sports", CBS Sports
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/27935
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="American Sports",Eleven Sports USA
+http://104.200.153.219:80/ElevenSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs1.png" group-title="American Sports",Fox Sports 1 (USA)
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/27919
 #EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs2.png" group-title="American Sports",Fox Sports 2 (USA)
@@ -103,15 +105,15 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29402
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/ca/SportsnetWorld.ca.png" group-title="American Sports", SportsNet World
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29397
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN1.ca.png" group-title="American Sports", TSN 1
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29396
+http://104.200.153.219:80/TSN1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN2.ca.png" group-title="American Sports", TSN 2
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29395
+http://104.200.153.219:80/TSN2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN3.ca.png" group-title="American Sports", TSN 3
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29394
+http://104.200.153.219:80/TSN3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN4.ca.png" group-title="American Sports", TSN 4
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29393
+http://104.200.153.219:80/TSN4HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN5.ca.png" group-title="American Sports", TSN 5
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29392
+http://104.200.153.219:80/TSN5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODk5MTkxMjg4OTE0/tennis-channel-logo-400x300jpg.jpg" group-title="American Sports", Tennis Channel
 http://104.200.153.219:80/Tennis_HD_USA_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/willowlogo_white_2xIcon.png" group-title="American Sports", Willow
@@ -271,19 +273,19 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18198
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Dutch Sports",EuroSports 2 Nederland
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18197
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_1_Netherlands.png" group-title="Dutch Sports", Fox Sports 1 Nederland
-http://90.84.232.22:8000/play/435efwafq3523/index.m3u8
+http://89.187.177.179/FoxSports1Dutch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_2_Netherlands.png" group-title="Dutch Sports", Fox Sports 2 Nederland
-http://90.84.232.22:8000/play/435624tfsaefwq34r/index.m3u8
+http://104.200.153.219:80/FoxSports2Dutch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_3_Netherlands.png" group-title="Dutch Sports", Fox Sports 3 Nederland
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18216
+http://104.200.153.219:80/FoxSports3Dutch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_4_Netherlands.png" group-title="Dutch Sports", Fox Sports 4 Nederland
-http://90.84.232.22:8000/play/a00ufwertfq3f4523qfca/index.m3u8
+http://89.187.177.179:80/FoxSports4Dutch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/FOX_Sports_5_Netherlands.png" group-title="Dutch Sports", Fox Sports 5 Nederland
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18211
+http://89.187.177.179:80/FoxSports5Dutch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_6.png" group-title="Dutch Sports", Fox Sports 6 Nederland
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18209
+http://104.200.153.219:80/FoxSports6Dutch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png" group-title="Dutch Sports", Ziggo Sport Select
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18207
+http://89.187.177.179:80/ZiggoSportSelectHD(Sp)/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Italia Sports", EuroSports 1 Italia
 https://1.ip2stream.icu/live/eurosport_1_hd/playlist.m3u8
@@ -533,7 +535,7 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25530
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="Golf", Movistar Golf (Espana)
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/19592
 #EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="Golf", Ziggo Golf (Nederland)
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18203
+http://89.187.177.179:80/ZiggoSportGolf(Sp)/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AtTheRaces.uk.png" group-title="Horse Racing", Sky At the races (UK)
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25492
@@ -557,7 +559,7 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://k-1world.com/wp-content/uploads/2016/08/k1-logo-light.png" group-title="MMA",K-1 World
 http://203.154.243.32:8088/live/hfs/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="MMA", WWE
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/13853
+http://104.200.153.219:80/WWEHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.izzudrecoba.com/wp-content/uploads/2016/02/ufctv.jpg" group-title="MMA", UFC TV
 http://31.220.1.190:8080/Jessica/Jessica1/116157
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="MMA", UFC Fight Pass
