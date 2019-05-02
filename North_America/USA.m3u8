@@ -2,8 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="USA/Canada",CBC
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="USA/Canada",CBC HD
+http://195.181.168.125:80/CBCHD_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="USA/Canada",24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/12/abc-family-logo.jpg" group-title="USA/Canada",ABC Family
+http://195.181.169.148:80/ABC_FAMILY_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ce03bcd0975942929a2cef7daced1a01474dd7f441b691ceaa2a9dba454b4cdb.png"group-title="USA/Canada",AKC TV 
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="USA/Canada",American Horrors
@@ -24,14 +28,16 @@ https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA/Canada",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa669303d0149cbef0ef09ee8c679b5b.jpg" group-title="USA/Canada", CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qf54pnv.png" group-title="USA/Canada",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="USA/Canada",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.counterthink.com/Assets/Uploads/640/CounterThink-with-Mike-Adams.jpg" group-title="USA/Canada",CounterThink
 https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa669303d0149cbef0ef09ee8c679b5b.jpg" group-title="USA/Canada", CBN Español
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNorthernOntario.ca.png" group-title="Canada", CTV
+http://195.181.169.148:80/CTVHD_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="USA/Canada",Daystar TV
 https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/1200px-DIY_Network_logo.svg.png" group-title="USA/Canada",DIY
