@@ -316,10 +316,6 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/19919
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/19127
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Dutch Sports",EuroSports 1 Nederland
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18198
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Dutch Sports",EuroSports 2 Nederland
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/18197
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_1_Netherlands.png" group-title="Dutch Sports", Fox Sports 1 Nederland
 http://89.187.177.179/FoxSports1Dutch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/FOX_Sports_2_Netherlands.png" group-title="Dutch Sports", Fox Sports 2 Nederland
@@ -334,6 +330,10 @@ http://89.187.177.179:80/FoxSports5Dutch/tracks-v1a1/mono.m3u8
 http://104.200.153.219:80/FoxSports6Dutch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png" group-title="Dutch Sports", Ziggo Sport Select
 http://89.187.177.179:80/ZiggoSportSelectHD(Sp)/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/82/icon-size-256.png" group-title="Dutch Sports",Ziggo Sport Xtra 1
+http://104.200.153.219:80/ZiggoSporteXtra1(Sp)/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.gids.tv/img/icons/tv/zenders/152/icon-size-256.png" group-title="Dutch Sports",Ziggo Sport Xtra 2
+http://89.187.177.179/ZiggoSporteXtra2(Sp)/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Italia Sports", EuroSports 1 Italia
 https://1.ip2stream.icu/live/eurosport_1_hd/playlist.m3u8
