@@ -5,7 +5,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="USA/Canada",CBC HD
 http://195.181.168.125:80/CBCHD_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="USA/Canada",24-7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/12/abc-family-logo.jpg" group-title="USA/Canada",ABC Family
 http://195.181.169.148:80/ABC_FAMILY_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ce03bcd0975942929a2cef7daced1a01474dd7f441b691ceaa2a9dba454b4cdb.png"group-title="USA/Canada",AKC TV 
@@ -13,9 +13,9 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="USA/Canada",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.axs.tv/ui/images/hdnet_programs/fbthumb_axstv_20140224.png" group-title="USA/Canada",AXS
-http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+http://161.0.157.6/PLTV/88888888/224/3221226568/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png" group-title="USA/Canada", Blaze TV
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA/Canada",BYUtv
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA/Canada",C-SPAN
@@ -38,8 +38,6 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 http://104.200.153.218:80/CP24HD_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="USA/Canada",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.counterthink.com/Assets/Uploads/640/CounterThink-with-Mike-Adams.jpg" group-title="USA/Canada",CounterThink
-https://infowarslive-lh.akamaihd.net/i/infowarsevent_1@366809/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNorthernOntario.ca.png" group-title="Canada", CTV
 http://195.181.169.148:80/CTVHD_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="USA/Canada",Daystar TV
@@ -64,32 +62,26 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 http://195.181.168.125:80/FXHD_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXX.us.png" group-title="USA/Canada",FXX
 http://195.181.168.125:80/FXXHD_Eng/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VEd3y4O.png" group-title="USA/Canada",InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" group-title="USA/Canada",ICI Tele
-http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/playlist.m3u8
+http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_w672334956_b4160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="USA/Canada",Logo TV
-http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/playlist.m3u8
+http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_w1356569684_b4160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA/Canada",Kool
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="USA/Canada", Radio y Televisión Martí
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USA/Canada",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dnY5CJs.png" group-title="USA/Canada",NatureVision
-https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="USA/Canada",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="http://yournewsnet.com/wp-content/uploads/2018/03/NNLogo.jpg" group-title="USA/Canada",Newsnet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSUJ0o2.png" group-title="USA/Canada",Npowered
 https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/channels/images/a543ba57b2624e7784bbf6dabd1c78ce-hd.png" group-title="USA/Canada",NRA
-https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
+https://stream1.nra.tv/nratv/ngrp:nratvall/chunklist_b5895168.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="USA/Canada",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.infowars.com/images/real-news-logo.png" group-title="USA/Canada",Real News
-https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/OWN_TV_Canada.png" group-title="USA/Canada", OWN
 http://104.200.153.218:80/OWN_HD_USA_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" group-title="USA/Canada",PATV
@@ -118,12 +110,8 @@ http://195.181.169.148:80/TBS_Eng/tracks-v1a1/mono.m3u8
 http://195.181.169.148:80/TV_LAND_HD_USA_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/USANetwork.us.png" group-title="USA/Canada", USA Network
 http://170.250.96.20:8105/USANET.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Vibrant_TV_Network_Logo_2015.jpg" group-title="USA/Canada",Vibrant TV
-https://vibranttv.tulix.tv/vibranttv/vibranttv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="USA/Canada",Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wTtig3Mtg3Q/hqdefault.jpg" group-title="USA/Canada",WarRoom
-https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0540_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uUb3vwe.png" group-title="USA/Canada",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e1ded7af7a339d7587735c0d6b4dd7e64cb4bc9209713ad5a9c00dc8bd632332.png" group-title="USA/Canada",WHAM Network
@@ -131,7 +119,7 @@ https://live.cdn.wham.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.whomag.net/wp-content/uploads/2014/09/whomagtv-banner-300x1302.png" group-title="USA/Canada",Who?Mag
 https://vcndmtv.teleosmedia.com/stream/dmtv/whomagmultimedia/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA/Canada",World Fishing Network
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+http://161.0.157.8/PLTV/88888888/224/3221226811/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTAwMzk4Mzg4NTYw/wgnchicago-logoresized-bcpng.png" group-title="USA/Canada", WGN-TV News
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA/Canada", WSVI-TV (Virgin Islands)
@@ -139,9 +127,8 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="USA/Canada",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BigTenNetwork.us.png" group-title="College Sports (USA)", Big Ten Network
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+http://161.0.157.38/PLTV/88888888/224/3221226177/01.m3u8
 #EXTINF:-1 tvg-logo="http://channelv6.com/images/Header/V6-logo.png" group-title="College Sports (USA)", Channel V6
 http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/NewEnglandSportsNetwork.us.png" group-title="College Sports (USA)", NESN
@@ -169,14 +156,14 @@ http://89.187.177.179:80/PAC-12Washington/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/375px-Longhorn_Network_logo.svg.png" group-title="College Sports (USA)",Longhorn Network 
 http://espn.tmedia.me/cache/lghn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="College Sports (USA)",NWCT 12 (Minnesota)
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="CW Regional(USA)", CW Charlotte (WCCB)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="CW Regional(USA)", CW Boston (WHDH)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
 #EXTINF:-1 tvg-logo="https://sflcw.com/wp-content/themes/vip/localtv-2/img/wsfl/logo-gray.png" group-title="CW Regional(USA)", CW South Flordia (WSFL)
-http://190.80.3.28/CW/CW.isml/index.m3u8
+https://bks40001.gttstreamtv.com/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaaie0ygbcrceyig/0001341/CW-audio_128052_eng=128000-video=2800000.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.kesq.com/npg-kesq-media-us-east-1/photo/2018/11/30/News-Channel-3-No-ABC-Pearl-NEW_1543609674075_22275200_ver1.0.png" group-title="ABC Regional(USA)", ABC 3 Palm Springs (KESQ)
 http://api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8
@@ -188,13 +175,13 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/chunklist_b3203072.m3u8
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSWFOR.us.png" group-title="CBS Regional(USA)",CBS 4 Miami (WFOR)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-logo="https://media.heartlandtv.com/designimages/Header+Wide+480x1001.png" group-title="CBS Regional(USA)",CBS 12 Chico (KHSL)
 http://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
 #EXTINF:-1 tvg-logo="https://pictures.grabien.com/profiles/large/0006/6721.jpg" group-title="CBS Regional(USA)",CBS 12 West Palm Beach (WPEC)
 http://170.250.96.20:8110/cbs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="CBS Regional(USA)", CBS 41 Victoria (KXTS)
-http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" group-title="CBS Regional(USA)", CBS 47 Jacksonville (WJAX)
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 
@@ -207,7 +194,7 @@ http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/WBRC_logo_2015.png/300px-WBRC_logo_2015.png" group-title="Fox Regional(USA)", Fox 6 Birmingham (WBRC)
 http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/WSVN_7_Miami_logo.png/175px-WSVN_7_Miami_logo.png" group-title="Fox Regional(USA)", Fox 7 Miami (WSVN)
-http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227013/01.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/FOXWJW.us.png" group-title="Fox Regional(USA)", Fox 8 Cleveland (WJW)
 http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
 #EXTINF:-1  tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTkxNjYxMjAwNzIw/fox8-logojpg.jpg" group-title="Fox Regional(USA)", Fox 8 New Orleans (WVUE-DT)
@@ -216,8 +203,6 @@ http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
 http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/FOX10KSAZ.us.png" group-title="Fox Regional(USA)",Fox 10 Phoenix (KSAZ)
 http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Fox11KTTV.us.png" group-title="Fox Regional(USA)", Fox 11 Los Angeles (KTTV)
-https://fubolive.com/live/fox11/index.m3u8
 #EXTINF:-1  tvg-logo="https://localtvkstu.files.wordpress.com/2019/01/kstulogo.jpg" group-title="Fox Regional(USA)", Fox 13 Salt Lake City (KSTU)
 http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8
 #EXTINF:-1  tvg-logo="https://s2.wp.com/wp-content/themes/vip/localtv-2/img/kcpq/logo.png" group-title="Fox Regional(USA)",  FOX 13 Seattle (KCPQ)
@@ -258,7 +243,7 @@ http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/WVIR.png" group-title="NBC Regional(USA)", NBC 29 Charlottesville (WVIR)
 http://wvir-lh.akamaihd.net/i/WVIR_736@78303/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WVIT_Logo.png/330px-WVIT_Logo.png" group-title="NBC Regional(USA)", NBC 30 Connecticut (WVIT) 
-http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+ttp://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/index_1286_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12ct/images/news12ct-logo.png" group-title="News 12 Regional(USA)", News 12 Connecticut Weather
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
