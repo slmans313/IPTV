@@ -431,6 +431,13 @@ http://171.244.141.125/hls/stream.m3u8
 http://vncdn.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn//upload/Kenh/Hanoi_230.jpg" group-title="Vietnam(Việt Nam)",Hanoi 2
 http://vncdn.mediatech.vn/hntvlive/tv2live.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png" group-title="Vietnam(Việt Nam)",Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png" group-title="Vietnam(Việt Nam)",Đà Nẵng 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://hungyentv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logo_0.png?itok=Z9bP3XoW" group-title="Vietnam(Việt Nam)",Hưng Yên
 http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kontumtv.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png" group-title="Vietnam(Việt Nam)", KRT
@@ -466,23 +473,23 @@ http://thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhLHy_pNldU69lMy5cWvzxeMQ4Id3_mb7higQbPigTQaHe3eBb" group-title="Vietnam(Việt Nam)", TTV
 http://123.30.191.202/hls/ttv.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/1__.png" group-title="Vietnam(Việt Nam)", VTV1
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/5/3/1aeab345e8559658f7464dd96565004ea883a8a16e43f6864f07e62ea42e18dd/dnR2MQ==.m3u8
+https://kcdn-livestream.vtvgiaitri.vn/vtvgtlivestream/vtv1_720/index.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/2__.png" group-title="Vietnam(Việt Nam)", VTV2
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/5/3/9b2f5389afd1b6cf284b0a62dd054cf929d6f47821c0336de93afd315e7304ee/dnR2Mg==.m3u8
+https://kcdn-livestream.vtvgiaitri.vn/vtvgtlivestream/vtv2_720/index.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/3__.png" group-title="Vietnam(Việt Nam)", VTV3
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/6/5/9695ab1e8377ad2481cdef8d2760ff083e9ef7174dd7af9eb0f0f52fc18dffc6/dnR2Mw==.m3u8
+https://kcdn-livestream.vtvgiaitri.vn/vtvgtlivestream/vtv3_720/index.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/4__.png" group-title="Vietnam(Việt Nam)", VTV4
-https://live.vtvdigital.vn/hls/f5aa770641e6ffa6833899b0bfadf2eb/1556780853919/live/_definst_/vtv4-high.m3u8
+https://kcdn-livestream.vtvgiaitri.vn/vtvgtlivestream/vtv4_720/index.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/5__.png" group-title="Vietnam(Việt Nam)", VTV5
-https://live.vtvdigital.vn/hls/0dddef1e162620e1dc7ec35a6cb13490/1556780782533/live/_definst_/vtv5-high.m3u8
+https://kcdn-livesport.vtvgiaitri.vn/vtvlivesport/vtv5_720/index.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/6__.png" group-title="Vietnam(Việt Nam)", VTV6
-https://live.vtvdigital.vn/hls/d593b70db2c8f0d8a03d2fd5aab1de2a/1556780868041/live/_definst_/vtv6-high.m3u8
+https://kcdn-livesport.vtvgiaitri.vn/vtvlivesport/vtv6_720/index.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/27__.png" group-title="Vietnam(Việt Nam)", VTV7
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/10/13/728f07ba3ddc1789f58ce8cd6b2ba5b0e913cd776c6314c5001743ec2ad52499/dnR2Nw==.m3u8
+https://kcdn-livestream.vtvgiaitri.vn/vtvgtlivestream/vtv7_720/index.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/36__.png" group-title="Vietnam(Việt Nam)", VTV8
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/11/15/e83cae555af2368b4fd5b11de82989f480a048060d5c0034762dd2022bc7b277/dnR2OA==.m3u8
+https://kcdn-livestream.vtvgiaitri.vn/vtvgtlivestream/vtv8_720/index.m3u8
 #EXTINF:0 tvg-logo="https://anh.vtvdigital.vn/images/39__.png" group-title="Vietnam(Việt Nam)", VTV9
-https://s2-hcm.sohatv.vn/hls/404578f3cb908501/12/17/be7d996159e3b8195ba5e063bfc6c978184c8d7e7dcee589901de83b313d711d/dnR2OQ==.m3u8
+https://kcdn-livestream.vtvgiaitri.vn/vtvgtlivestream/vtv9_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://vitv.vn/Content/Images/logo.png" tvg-name="VITV" group-title="Vietnam(Việt Nam)", VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhD5JSMY-yA_zL3BO6Sox8kRF25ghdjbAS7Y_66UGIA26Gbysn" group-title="Vietnam(Việt Nam)", VOV Vietnam Journey
