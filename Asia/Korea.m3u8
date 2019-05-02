@@ -108,16 +108,18 @@ http://203.162.235.41:16915
 #EXTINF:-1  tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nippon_tv_logo_2014.png" group-title="Japan(日本)", NTV
 http://203.162.235.41:16905
 #EXTINF:-1  tvg-logo="https://digitalentertainmentmarketing.files.wordpress.com/2014/11/digital-entertainment-post-ntv-nippon-tv-japan.png" group-title="Japan(日本)",NTV News 24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Japan(日本)", Golf Network(日本)
-http://203.162.235.41:16924
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-logo="https://www.eigeki.com/hp/eigeki/img/img_logo_no_reserve.png" group-title="Japan(日本)",BS 衛星劇場
 http://192.240.127.34:1935/live/cs11.stream/play.m3u8
-#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="Japan(日本)",CGNTV 日本
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.nautiljon.com/images/societes/00/07/wowow_prime_7570.jpg" group-title="Japan(日本)", WOWOW プライム
-http://203.162.235.41:16916
 #EXTINF:-1  tvg-logo="https://www.nihon-eiga.com/common/img/neiga_top_og_1812.jpg" group-title="Japan(日本)",BS 日本映画
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8
+#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="Japan(日本)",CGNTV 日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://jp.history.com/wp-content/themes/historychannel/cmn/img/logo.png" group-title="Japan(日本)",History Channel (日本)
 http://192.240.127.34:1935/live/cs14.stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Japan(日本)", Golf Network(日本)
+http://203.162.235.41:16924
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="Japan(日本)",Weather News 日本
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.nautiljon.com/images/societes/00/07/wowow_prime_7570.jpg" group-title="Japan(日本)", WOWOW プライム
+http://203.162.235.41:16916
