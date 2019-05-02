@@ -67,6 +67,15 @@ http://89.187.177.179:80/ZiggoSportVoetbal(Sp)/tracks-v1a1/mono.m3u8
 http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 
 
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/CRI.png" group-title="Cricket", OSN Cricket
+http://104.200.153.218:80/OSN_Cricket_1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket", Sky Sports Cricket
+http://104.200.153.218/SkySportsHD2_123456/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.cricasia.com/wp-content/uploads/2018/04/Watch-Sony-Ten-3-Tv-Channel-Live-Streaming-810x456.png" group-title="Cricket", Sony Ten 3
+http://104.200.153.218/Ten-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/willowlogo_white_2xIcon.png" group-title="Cricket", Willow
+http://195.181.168.125/willowtv2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX_400x400.jpg" group-title="American Sports", beIN Sports (USA)
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29404
@@ -114,8 +123,6 @@ http://104.200.153.219:80/TSN4HD/tracks-v1a1/mono.m3u8
 http://104.200.153.219:80/TSN5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODk5MTkxMjg4OTE0/tennis-channel-logo-400x300jpg.jpg" group-title="American Sports", Tennis Channel
 http://104.200.153.219:80/Tennis_HD_USA_ENG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/willowlogo_white_2xIcon.png" group-title="American Sports", Willow
-http://195.181.168.125/willowtv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="Asean Sports", Astro SuperSports 1
 http://203.154.243.89:1204
@@ -208,13 +215,9 @@ http://123.176.22.42:4022/udp/232.3.0.155:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Sony_SIX_logo.png/240px-Sony_SIX_logo.png" group-title="South Asia Sports", Sony Six
 http://104.200.153.218:80/sonysixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-2-hd.png" group-title="South Asia Sports", Sony Ten 2
-http://123.176.22.42:4022/udp/232.4.0.210:40000
-#EXTINF:-1 tvg-logo="https://www.cricasia.com/wp-content/uploads/2018/04/Watch-Sony-Ten-3-Tv-Channel-Live-Streaming-810x456.png" group-title="South Asia Sports", Sony Ten 3
-http://104.200.153.218/Ten-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Ten_Sports_logo.png" group-title="South Asia Sports", Ten Sports
+http://195.181.169.148:80/TEN2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Ten_Sports_logo.png" group-title="South Asia Sports", TEN Sports Pakistan
 http://123.249.76.157:10018/bysid/25
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/TCR.jpg" group-title="South Asia Sports", Ten Cricket
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/27544
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/KBS_N_Sports.png" group-title="스포츠 채널",KBS N Sports
 http://122.129.115.21:1935/liveedge2/_definst_/tao123/playlist.m3u8
@@ -435,8 +438,6 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25494
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25545
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="UK Sports",Sky Sports Arena
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25542
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="UK Sports",Sky Sports Cricket
-http://104.200.153.218/SkySportsHD2_123456/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="UK Sports", Sky Sports News
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25523
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="UK Sports",Sky Sports Main Event
