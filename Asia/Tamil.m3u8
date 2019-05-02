@@ -4,10 +4,6 @@
 http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TV9-channel-Logo.jpg/375px-TV9-channel-Logo.jpg" group-title="Kannada( ಕನ್ನಡ)",TV 9 Kannada
 http://123.249.76.157:10008/bysid/3
-#EXTINF:-1 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Kannada_Raj_News.png" group-title="Kannada( ಕನ್ನಡ)",Raj News Kannada
-http://pockettv.xyz/api/zee.m3u8?c=rajnewskan
-#EXTINF:-1 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Kannada_Raj_musix.PNG" group-title="Kannada( ಕನ್ನಡ)",Raj Musix Kannada
-http://pockettv.xyz/api/zee.m3u8?c=rajmusic
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.sudditv.com/wp-content/uploads/2017/01/cropped-180X120.png" group-title="Kannada( ಕನ್ನಡ)",Suddi TV
 http://123.249.76.157:10011/bysid/1304
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Kannada.png/1200px-Zee_Kannada.png" group-title="Kannada( ಕನ್ನಡ)", Zee Kannada
@@ -19,7 +15,7 @@ http://123.249.76.157:10009/bysid/5
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" group-title="Malayalam(മലയാളം)",Asianet News
-http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+http://asianetcdn.vidgyor.com/asianet-origin/live1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/DDMalayalam.png" group-title="Malayalam(മലയാളം)",DD Malayalam
 http://pockettv.xyz/api/zee.m3u8?c=ddmalayalam
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png" group-title="Malayalam(മലയാളം)",Flowers TV
@@ -32,12 +28,8 @@ http://7mbd4ogkr3gx-hls-live.wmncdn.net/886/harvesttvlive1/bbb19eae240ec100af921
 http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/MtktZBL.jpg" group-title="Malayalam(മലയാളം)",Media Net Adimaly
 http://150.242.21.2/medianet.m3u8
-#EXTINF:0 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Malayalam_raj_news.png" group-title="Malayalam(മലയാളം)",Raj News Malayalam
-http://pockettv.xyz/api/zee.m3u8?c=rajnewsmal
-#EXTINF:0 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/rajMusixMalayalam.png" group-title="Malayalam(മലയാളം)", Raj Musix Malayalam
-http://pockettv.xyz/api/zee.m3u8?c=rajmusixmal
 #EXTINF:0 tvg-logo="https://www.reporter.live/wp-content/themes/reporter_v2/images/logo_latest.png" group-title="Malayalam(മലയാളം)",Reporter TV
-http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
 #EXTINF:0 tvg-logo="http://just4jolly.com/wp-content/uploads/2016/07/tcvthrissur1.png" group-title="Malayalam(മലയാളം)",TCV
 http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/9DIG5pT.jpg" group-title="Malayalam(മലയാളം)", Ten Digital
