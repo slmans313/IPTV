@@ -542,7 +542,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norway(Norge)", Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
-
 #EXTINF:0 tvg-logo="http://partner.ulango.tv/uploads/channels/18523/logo_stv%201.png" group-title="Slovakia(Slovensko)", Jednotka
 http://gocache3.antik.sk/live/test_stv1_800/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovakia(Slovensko)", Joj
@@ -551,6 +550,10 @@ http://nn1.joj.sk/hls/joj-720.m3u8
 http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static1.joj.sk/html/assets/logo-plus-white.png" group-title="Slovakia(Slovensko)", Joj Plus
 https://nova-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/cze/live_hq.m3u8
+#EXTINF:-1  tvg-logo="https://dusanhoo.webnode.sk/_files/200000514-b0e0eb1db2/LOGO%20CETV.jpg" group-title="Slovakia(Slovensko)",CETV
+http://213.81.153.221:8080/cetv
+#EXTINF:-1  tvg-logo="https://www.tvhronka.sk/engine/wp-content/themes/hronkatv/images/logo.png" group-title="Slovakia(Slovensko)",Hronka
+http://213.81.153.221:8080/hronka
 #EXTINF:0 tvg-logo="http://icedreamkosice.com/wp-content/uploads/2016/04/kosice-dnes-logo.jpg" group-title="Slovakia(Slovensko)", Košice:dnes
 http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.lifetv.sk/documents/12145064/12463415/Logo+Life+Tv+Bendo_Snapseed.jpg" group-title="Slovakia(Slovensko)", Life.TV
@@ -559,18 +562,36 @@ http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 #EXTINF:0 tvg-logo="http://www.tvlux.sk/project/tvlux/design/img/mainLogoClear.png" group-title="Slovakia(Slovensko)", Lux
 http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.zpiestan.sk/uploads/tv-karpaty2-480x311.jpg" group-title="Slovakia(Slovensko)",Karpaty
+http://213.81.153.221:8080/karpaty
 #EXTINF:0 tvg-logo="http://www.nztv.eu/img/logo-nztv-white.png" group-title="Slovakia(Slovensko)", Nové Zámky
 http://s1.media-planet.sk:80/live/novezamky/lihattv.m3u8
 #EXTINF:0 tvg-logo="https://tvoravia.sk/wp-content/uploads/thegem-logos/logo_798fb82d7e99c59716e3c6233e898800_1x.png" group-title="Slovakia(Slovensko)", Oravia
 http://ottst05.flexitv.sk/822-tv-pc.m3u8
+#EXTINF:-1  tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/785_logo_tv_kezmarok1.png" group-title="Slovakia(Slovensko)",Kezmarok
+http://213.81.153.221:8080/kezmarok
+#EXTINF:-1  tvg-logo="https://www.rtvkrea.sk/sites/all/themes/rtvkrea/images/logo.png" group-title="Slovakia(Slovensko)",Krea
+http://213.81.153.221:8080/galanta
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Tv-nitricka.png" group-title="Slovakia(Slovensko)", Nitricka
 http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1  tvg-logo="http://tvpoprad.sk/wp-content/uploads/2016/10/logo-TV-Poprad.png" group-title="Slovakia(Slovensko)",Poprad
+http://213.81.153.221:8080/poprad
+#EXTINF:-1  tvg-logo="http://www.tvpovazie.sk/templates/sj_worldnews/images/logo.png" group-title="Slovakia(Slovensko)", Považie
+http://213.81.153.221:8080/povazie
 #EXTINF:-1  tvg-logo="https://www.puchov.in/wp-content/uploads/2016/12/logo_puchov_in.png" group-title="Slovakia(Slovensko)", Puchov
 http://213.81.153.221:8080/puchov
 #EXTINF:-1  tvg-logo="https://jazykovymentoring.sk/wp-content/uploads/2017/11/logo_w-1-300x147.png" group-title="Slovakia(Slovensko)", Raj TV
 http://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1  tvg-logo="http://www.tvr.sk/sites/all/themes/tvr/logo.png" group-title="Slovakia(Slovensko)", Ruzinov
+http://213.81.153.221:8080/ruzinov
+#EXTINF:-1  tvg-logo="https://www.tvsen.sk/templates/page/img/logo.png" group-title="Slovakia(Slovensko)", Sen TV
+http://213.81.153.221:8080/senica
 #EXTINF:-1  tvg-logo="http://www.senzi.sk/images/logo_televizia_senzi.png" group-title="Slovakia(Slovensko)",Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.lucnica.sk/images/2015/10/logo-severka.jpg" group-title="Slovakia(Slovensko)",Severka
+http://213.81.153.221:8080/severka
+#EXTINF:-1  tvg-logo="http://www.mtt.sk/up/img/mtt-logo4.png" group-title="Slovakia(Slovensko)",Trnava
+http://213.81.153.221:8080/trnava
 #EXTINF:-1  tvg-logo="https://img.joj.sk/rx/logowau.png" group-title="Slovakia(Slovensko)",Wau TV
 https://nn.geo.joj.sk/hls/wau-540.m3u8
 
