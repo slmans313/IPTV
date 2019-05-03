@@ -524,6 +524,12 @@ http://212.200.102.3:5000/rtp/239.0.0.2:5000
 #EXTINF:-1  tvg-logo="https://totaltv.tv/oec/images/tv_channels/e51742b4f3b50692d2cb023806964f46.png" group-title="Serbia(Србија)",KCN Svet+ 3
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia(Slovenija)", Slovenija 1
+https://rtvslolive.akamaized.net/hls/live//584144/tv_slo1/slo1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo2-dark-bg.png" group-title="Slovenia(Slovenija)",Slovenija 2
+https://rtvslolive.akamaized.net/hls/live/584144/tv_slo2/slo2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.napovednik.com/pic/tv/slo3.png" group-title="Slovenia(Slovenija)",Slovenija 3
+https://rtvslolive.akamaized.net/hls/live/685537/tv_slo3/slo3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pop-TV-Logo.svg/1280px-Pop-TV-Logo.svg.png" group-title="Slovenia(Slovenija)", POP
 http://89.212.51.85:8443/udp/239.10.2.12:5000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_K-C_2013_Logo.png/150px-TV_K-C_2013_Logo.png" group-title="Slovenia(Slovenija)", TV Koper-Capodistria
