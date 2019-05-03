@@ -102,6 +102,18 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/225px-%C4%8CT1_logo_2012.svg.png" group-title="Czech Republic(Česká)",ČT1
 http://92.62.234.223/103/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Czech Republic(Česká)",Discovery Česká
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Czech Republic(Česká)", EuroSports 1 Česká
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Czech Republic(Česká)", FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FILMBOX_HD.png" group-title="Czech Republic(Česká)", Filmbox Česká
+http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
+#EXTINF:-1 tvg-logo="http://www.filmpro.cz/filmpro/images/logo-300.gif" group-title="Czech Republic(Česká)", Filmpro
+http://flashmaster1.streamcdn.eu:1935/mgrpavelhladky-flash-live1/_definst_/filmpro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://polar.cz/images/layout/header/logo.png" group-title="Czech Republic(Česká)", Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Prima_TV_logo.svg/300px-Prima_TV_logo.svg.png" group-title="Czech Republic(Česká)", Prima
 http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Prima_Cool_logo.svg/1200px-Prima_Cool_logo.svg.png" group-title="Czech Republic(Česká)", Prima Cool
@@ -110,8 +122,12 @@ http://92.62.234.223/104/mystream.m3u8
 http://92.62.234.223/101/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://krimi.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-krimi-cover.jpg" group-title="Czech Republic(Česká)", Prima Krimi
 http://83.167.253.116:5000/live/prima_krimi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://max.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-max-cover.jpg" group-title="Czech Republic(Česká)", Prima Max
+http://70.32.0.9:5000/live/518/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Czech Republic(Česká)",Jim Jam (Česká)
 http://83.167.253.110:5000/live/jimjam/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://uvedomelyrodic.cz/wp-content/uploads/2018/01/logo_tv-natura.png" group-title="Czech Republic(Česká)",Natura
+http://media1.tvnatura.cz/live_out/2/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Nova_logo_2017.png/250px-TV_Nova_logo_2017.png" group-title="Czech Republic(Česká)",Nova
 https://nova-live.ssl.cdn.cra.cz/channels/mcra/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nova_2_logo-600x207.png/375px-Nova_2_logo-600x207.png" group-title="Czech Republic(Česká)",Nova 2
@@ -122,6 +138,8 @@ http://92.62.234.223/102/mystream.m3u8
 https://nova-live.ssl.cdn.cra.cz/channels/mcri/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="Czech Republic(Česká)",Nova Gold
 https://nova-live.ssl.cdn.cra.cz/channels/mcrh/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://prahatv.eu/images/layout/header/logo.png" group-title="Czech Republic(Česká)",Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="Czech Republic(Česká)",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/375px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Czech Republic(Česká)",Ocko Expres
@@ -130,12 +148,14 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://media-club.tv/wp-content/uploads/2019/02/OCKOBLACK-logo-W.jpg" group-title="Czech Republic(Česká)",Ocko Black
 https://nova-live.ssl.cdn.cra.cz/channels/ocko_black/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="http://retro.monstermedia.cz/wp-content/uploads/2017/09/retro-logo-bile2.png" group-title="Czech Republic(Česká)",Retro Music TV
+#EXTINF:-1 tvg-logo="http://retro.monstermedia.cz/wp-content/uploads/2017/09/retro-logo-bile2.png" group-title="Czech Republic(Česká)",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="Czech Republic(Česká)",Šlágr
 http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://www.starnet.cz/tv/slagr2.png" group-title="Czech Republic(Česká)",Šlágr 2
 http://92.62.234.233/slagr2.m3u#.m3u8
+#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/409/v1-vychodoceska-televize-1.jpg" group-title="Czech Republic(Česká)",Východočeská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/KKR-TV-webtvonlive-com.jpg" group-title="Denmark (Danmark)", KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
