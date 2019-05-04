@@ -134,14 +134,10 @@ http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/855
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/S4C.uk.png" group-title="Ireland",  S4C
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25611
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="USA/Canada",CBC
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="USA/Canada",CBC HD
 http://195.181.168.125:80/CBCHD_Eng/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="USA/Canada",24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/12/abc-family-logo.jpg" group-title="USA/Canada",ABC Family
@@ -174,6 +170,10 @@ https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1  tvg-logo="https://static.ctvnews.ca/bellmedia/cp24/img/cp24-new-logo.png" group-title="USA/Canada", CP24
 http://104.200.153.218:80/CP24HD_Eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="USA/Canada",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1//Assets_1551464980571/Layer3_master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="USA/Canada",CPAC Francais
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2//Assets_1551464980571/Layer3_master.m3u8
 #EXTINF:-1 tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="USA/Canada",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CTVNorthernOntario.ca.png" group-title="USA/Canada", CTV
@@ -320,7 +320,7 @@ http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 http://api.new.livestream.com/accounts/6396566/events/2598525/live.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/FOX4WDAF.us.png" group-title="Fox Regional(USA)",Fox 4 Kanas (WDAF)
 http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/FOXWAGA.us.png" group-title="Fox Regional(USA)",Fox 5 DC (WAGA)
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/FOXWAGA.us.png" group-title="Fox Regional(USA)",Fox 5 Atlanta (WAGA)
 http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/WBRC_logo_2015.png/300px-WBRC_logo_2015.png" group-title="Fox Regional(USA)", Fox 6 Birmingham (WBRC)
 http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
