@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="中文新闻时事",CCTV-13 新闻频道
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000013/index.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/18/01/05/788261aaa7c8574e6e43515b54c7ffc2.jpg" group-title="中文新闻时事",鳳凰資訊
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="中文新闻时事", 東森新聞
 http://125.227.210.37:8892/VideoInput/play.ts 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg" group-title="中文新闻时事", 非凡新闻
@@ -52,7 +52,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:0 tvg-logo="http://www.hkstv.tv/templates/site_shared/assets/img/blogo.png" group-title="Hong Kong/Macau(香港/澳门)",香港衛視台
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="Hong Kong/Macau(香港/澳门)", 鳳凰香港台
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫翡翠台
 http://m.567it.com/jade.m3u8
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫翡翠台 HD
@@ -65,6 +65,8 @@ http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype
 http://edge20-1.edgeware.hk4.tvb.com/session/18427896-6956-11e9-a0f4-0050569023d7/qh33qv/newslive/smil:mobilehd_inews.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.badouxia.com/Uploads/vod/2019-01-10/5c36e354f35b9.jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://img.meituan.net/csc/e9b52be8f186789772ea3249c03909fe10873.jpg" group-title="Hong Kong/Macau(香港/澳门)",TVB功夫台
+http://api2.iptv888.com/play.m3u8?token=mi%2F%2BMN5YgIXTtHXxm5JJQ%2BVF&tid=gt&id=35
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Hong Kong/Macau(香港/澳门)", 天映頻道
 http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="Hong Kong/Macau(香港/澳门)", 天映經典頻道
@@ -97,7 +99,7 @@ http://125.227.210.37:8893/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.cosatech.com.tw//upload/logo/%E6%9D%B1%E6%A3%AE%E6%B4%8B%E7%89%87.jpg" group-title="Taiwan (臺灣)",東森洋片
 http://125.227.210.37:8889/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.cosatech.com.tw//upload/logo/%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC.jpg" group-title="Taiwan (臺灣)", 東森幼幼
-http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000076@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Taiwan (臺灣)", FX 中文電影臺
 http://125.227.210.37:8885/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Taiwan (臺灣)", 國家地理
