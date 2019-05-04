@@ -23,6 +23,13 @@ http://62.210.141.179:8000/ibrahim/123456/75
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ElHeddafTV.png" group-title="Algeria(الدزاير)", El Heddaf
 http://41.111.166.173:8081/live/EL_HEDDAF_TV/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.ortb.bj/images/2017/logos/logo_ortb.png" group-title="Bénin",ORTB
+http://37.235.38.67:9981/stream/channelid/1393123997?profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.rtb.bf/wp-content/uploads/2015/10/LOgo-RTB-272-90.png" group-title="Burkina Faso",RTB TV
+http://37.235.38.67:9981/stream/channelid/1269835742?profile=pass
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/5d/18/cc5d1807d156c21df2b866a4bdceac89.jpg" group-title="Cameroon(Cameroun)", Vision 4 TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
@@ -114,6 +121,9 @@ http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q82Fl8o.jpg" group-title="Libya(ليبيا‎)",One TV
 http://82.212.74.2:8000/live/7308.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ortm_logo_2008.png" group-title="Mali",ORTM
+http://37.235.38.67:9981/stream/channelid/1208438885?profile=pass
+
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/8221/2m_maroc.png" group-title="Morooco(المغرب‎)", 2M
 http://62.210.141.179:8000/ibrahim/123456/243
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2M_TV_logo.png/1200px-2M_TV_logo.png" group-title="Morooco(المغرب‎)", 2M Monde
@@ -161,6 +171,10 @@ http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
 https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tikilive.com/public/files/shows/141/141427/38375-294x165-FFFFFF.jpgg" group-title="Sénégal"",RTS 1
+http://37.235.38.67:9981/stream/channelid/1285181033?profile=pass
+
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Sudan_tv.png" group-title="Sudan(السودان‎)",Sudan TV
 http://62.210.141.179:8000/ibrahim/123456/114
 #EXTINF:-1 tvg-logo="http://www.sudania24.tv/images/logo.png" group-title="Sudan(السودان‎)",Sudania 24
