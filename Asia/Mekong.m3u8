@@ -327,24 +327,12 @@ http://27.254.130.64/live02/6.m3u8?p=iptv
 #EXTINF:0 tvg-logo="http://tv-online.in/wp-content/uploads/2014/10/You-Channel-live.gif" group-title="Thailand (ประเทศไทย)",You Channel
 http://stream.rs.co.th/you-hi/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/1200px-ABS-CBN_%282013%29.svg.png" group-title="Phillippines(Pilipinas)", ABS-CBN
-http://89.187.177.179:80/ABS_CBN_PH/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://img.abs-cbnnews.com/2017/images/anc-logov2.png" group-title="Phillippines(Pilipinas)", ABS-CBN News
-http://89.187.177.179/ANC_PY/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/DZMM.jpeg/1200px-DZMM.jpeg" group-title="Phillippines(Pilipinas)",DZMM
-http://89.187.177.179:80/DZMM_PY/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Gma_life_tv.png/300px-Gma_life_tv.png" group-title="Phillippines(Pilipinas)", GMA Life
-http://89.187.177.179:80/GMA_LIFE_TV_PY/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://images.gmanews.tv/gno/specials/content/30/gma-news-online-noshadow-1.png" group-title="Phillippines(Pilipinas)", GMA News
-http://89.187.177.179:80/FL-vo-LIVEGmanews/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/GMAPINOYTV2012LOGO.jpg" group-title="Phillippines(Pilipinas)", GMA Pinoy
-http://89.187.177.179:80/vo_1974GMAPINOY/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3782299_logo_osn_kapatid_tv5.png" group-title="Phillippines(Pilipinas)",Kapatid
-http://89.187.177.179:80/KAPATID_5_PY/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NEWS5.svg/405px-NEWS5.svg.png" group-title="Phillippines(Pilipinas)", News 5
+http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" group-title="Phillippines(Pilipinas)", CNN Phillippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg" group-title="Phillippines(Pilipinas)",TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/index2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="Phillippines(Pilipinas)",TFC
-http://89.187.177.179:80/vo_1967TFC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Telenovela_Channel_logo.jpg" group-title="Phillippines(Pilipinas)",Telenovela Channel
 http://164.40.161.46:8003/play/s6
 #EXTINF:0 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="Phillippines(Pilipinas)", UNTV Public
