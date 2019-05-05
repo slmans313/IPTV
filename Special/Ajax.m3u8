@@ -1,27 +1,27 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN Sports", beIN Sports 1
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50445
+http://sp.inlinetv.ca:1992/B1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN Sports", beIN Sports 2
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50444
+http://sp.inlinetv.ca:1992/B2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN Sports", beIN Sports 3
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50443
+http://sp.inlinetv.ca:1992/B3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="beIN Sports", beIN Sports 4
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50442
+http://sp.inlinetv.ca:1992/B4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50441
+http://sp.inlinetv.ca:1992/B5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50440
+http://sp.inlinetv.ca:1992/B6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50439
+http://sp.inlinetv.ca:1992/B7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="beIN Sports", beIN Sports 8
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50438
+http://sp.inlinetv.ca:1992/B8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports9.us.png" group-title="beIN Sports", beIN Sports 9
 http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50437
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183173832748.png" group-title="beIN Sports", beIN Sports 10
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50436
+http://sp.inlinetv.ca:1992/B9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183184434963.png" group-title="beIN Sports", beIN Sports 11
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50435
+http://sp.inlinetv.ca:1992/B10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183185429247.jpg" group-title="beIN Sports",beIN Sports 12
 http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50434
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183185442313.jpg" group-title="beIN Sports",beIN Sports 13
@@ -116,8 +116,10 @@ http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/53660
 
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Horse Racing",Dubai Racing (UAE)
+#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Horse Racing",Dubai Racing 
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="Horse Racing",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Horse Racing", Racing.com (Australia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 
@@ -295,6 +297,8 @@ http://89.187.177.179:80/CanalSportHDFR/tracks-v1a1/mono.m3u8
 http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/52871
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="French Sports", EuroSports 2 Francais
 http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/52872
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="French Sports", RMC Sports 2
+http://89.163.140.211:9898/sfrsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Deutsch Sports", EuroSports 1 Deutsch
 http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/4683
@@ -397,7 +401,7 @@ http://persik.by/stream/1860/398212/10314.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Sports +
 http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/00/01/11/06s.png" group-title="Russian Sports", Матч!
-http://78.29.1.217/live/sport/copy/playlist.m3u8 
+https://video-4-306.rutube.ru/stream/10113616/11bbbec75a2ceb8cf446ad16813c6eec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/27/p1d.png" group-title="Russian Sports", Матч! Арена
 http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/55515
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/32/i2o.png" group-title="Russian Sports", Матч! Игра
@@ -413,7 +417,7 @@ http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/55561
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/30/olz.png" group-title="Russian Sports",МАТЧ! ФУТБОЛ 2
 http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/55560
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/31/u02.png" group-title="Russian Sports",МАТЧ! ФУТБОЛ 3
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/55496
+http://91.90.253.66:8080/CH615_std/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://online-allSports.com.ua/images/stories_2/logotv/futbol1uan.png" group-title="Russian Sports",ФУТБОЛ 1
 http://persik.by/stream/3602/287583/10268.m3u8
 #EXTINF:-1 tvg-logo="http://online-allSports.com.ua/images/stories_2/logotv/futbol2uan.png" group-title="Russian Sports",ФУТБОЛ 2
