@@ -269,20 +269,8 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelv6.com/images/Header/V6-logo.png" group-title="College Sports (USA)", Channel V6
 http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Network.us.png" group-title="College Sports (USA)", PAC12 
-http://89.187.177.179:80/PAC12-Network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Arizona.us.png" group-title="College Sports (USA)", PAC12 Arizona
-http://89.187.177.179:80/PAC-12Arizona/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12BayArea.us.png" group-title="College Sports (USA)", PAC12 Bay Area
-http://89.187.177.179/PAC12-BayArea/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12LosAngeles.us.png" group-title="College Sports (USA)", PAC12 Los Angeles
-http://89.187.177.179/PAC12-LosAngeles/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Oregon.us.png" group-title="College Sports (USA)", PAC12 Oregon
-http://89.187.177.179:80/PAC-12Oregon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Mountain.us.png" group-title="College Sports (USA)", PAC12 Mountain
-http://89.187.177.179/PAC-12Mountain/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PAC12Washington.us.png" group-title="College Sports (USA)", PAC12 Washington 
-http://89.187.177.179:80/PAC-12Washington/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/longhorn.png" group-title="College Sports (USA)", Longhorn Network
+http://espn.tmedia.me/cache/lghn.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/375px-Longhorn_Network_logo.svg.png" group-title="College Sports (USA)",Longhorn Network 
 http://espn.tmedia.me/cache/lghn.m3u8
