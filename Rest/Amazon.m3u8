@@ -183,14 +183,20 @@ http://198.1.117.5:1935/live/livestream/chunklist.m3u8
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/bhtv-100x70.png" group-title="Perú", BHTV en vivo
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg" group-title="Perú",Cosmos TV
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Congreso_Television_%28Logo_2015%29.jpg" group-title="Perú", Congreso TV 
 http://stream.congreso.gob.pe/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Perú", IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:0 tvg-logo="http://www.radiosanborja.com/radio/images/LOGO_RSB_2018_261X44.png" group-title="Perú", Radio Sanborja
-https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png" group-title="Perú", CVision TV Musica
 http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Perú", IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Rbc.jpg" group-title="Perú", RBC
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.radiosanborja.com/radio/images/LOGO_RSB_2018_261X44.png" group-title="Perú", Radio Sanborja
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/225px-Sol_tv_pe.png" group-title="Perú", Sol TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://rtnh.ht/tnh/media/images/logo_tnh2-copy.png" group-title="Haiti(Ayiti)", Nationale d'Haïti
 https://hbiptv.live/online/tnh/video.m3u8
@@ -213,18 +219,11 @@ https://hbiptv.live/online/kiskeya/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.haititelevision.com/wp-content/uploads/2018/03/tele-metrolple.jpg" group-title="Haiti(Ayiti)", Tele Metrolple
 https://hbiptv.live/online/metro/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1,1. TELE NATIONALE D'HAITI
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_nhaiti/as/live/hln_nhaiti_1.m3u8
-#EXTINF:-1,3. TELE GINEN
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
-#EXTINF:-1,15. OPA TV
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
-#EXTINF:-1,40. TELE SOLEIL
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
-
 #EXTINF:0 tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png" group-title="Nicaragua", Viva Nicaragua
 http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://sc2.elpais.com.uy/images/default/og_ovacion.jpg" group-title="Uruguay", Ovación
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/180px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Venezuela",Venezolana de TV
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist.m3u8
