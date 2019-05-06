@@ -223,7 +223,8 @@ http://akaram.zecast.net/akaram-live/akaramgalatta1/index.m3u8
 http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
 #EXTINF:-1 tvg-logo="http://theboss.in/wp-content/uploads/2016/06/logo-1.png" group-title="Tamil (தமிழ்)", Boss TV
 http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png" group-title="Tamil (தமிழ்)", City TV
+http://209.58.177.73/citytvhls/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.cvstv.in/images/cvs.png" group-title="Tamil (தமிழ்)",CVS TV
 http://45.79.203.234:1935/cvstv/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/Dheeran.png" group-title="Tamil (தமிழ்)", Dheeran
@@ -234,6 +235,12 @@ http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
 https://mk9qa798qwyb-hls-live.wmncdn.net/abrstream/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://eettv.com/wp-content/uploads/2018/05/eet.png" group-title="Tamil (தமிழ்)",  EETTV
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/salem/n5/0427px427.x427.161011174502.p3n5/catalogue/jawahar-channel-meyyanur-salem-satellite-channels-bap9yi6io2.jpg" group-title="Tamil (தமிழ்)",  Jawahar
+http://jawaharchannel.livebox.co.in/jwhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/salem/n5/0427px427.x427.161011174502.p3n5/catalogue/jawahar-channel-meyyanur-salem-satellite-channels-zdcp1jydem.jpg" group-title="Tamil (தமிழ்)",  Jawahar Plus
+http://jawaharchannel.livebox.co.in/jwplushls/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.jaytv.in/wp-content/uploads/2018/06/Jay-TV-Transparant-Logo.png" group-title="Tamil (தமிழ்)",  Jay
+http://livematrix.in:1935/live/jay/index.m3u8
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCBAKTHI.png" group-title="Tamil (தமிழ்)", IBC Bakthi
 https://cdn.ibctamil.com/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
 #EXTINF:-1 tvg-logo="http://mediaworldasia.dk/images/articles/ibccomedy.jpg" group-title="Tamil (தமிழ்)",IBC Tamil Comedy
@@ -256,6 +263,8 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunkli
 http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/chunklist_w1689463168_b948000.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="Tamil (தமிழ்)",Makkal TV
 http://pockettv.xyz/api/zee.m3u8?c=makkaltv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNTL53Q.png" group-title="Tamil (தமிழ்)", Maya TV
+http://209.58.180.138/mayatvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/07103623murasu.png" group-title="Tamil (தமிழ்)", Murasu
 https://acv.asianetmobiletvplus.com/channels/murasu_lvdtuywsqtouxjyahchfgkstxkllroel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/Nethra.png" group-title="Tamil (தமிழ்)",Nethra TV
@@ -270,8 +279,14 @@ http://account11.livebox.co.in/ntvhls/ntv.m3u8
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/706800739776143360/P38PX84d.jpg" group-title="Tamil (தமிழ்)",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DTkPPPzVwAAonce.jpgg" group-title="Tamil (தமிழ்)", Sky TV
+http://209.58.180.57/skytvhls/live.m3u8
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="Tamil (தமிழ்)",Sivan TV
 https://sivan.vedge.infomaniak.com/livecast/sivan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBXdyQR.jpg" group-title="Tamil (தமிழ்)",SSTV
+http://livematrix.in:1935/sstv/sstv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://ststamiltv.stsstudio.com/wp-content/uploads/2018/07/cropped-STS-logo-inda-2.png" group-title="Tamil (தமிழ்)",STS Tamil
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/29074612SKTAT%20TV.png" group-title="Tamil (தமிழ்)",Sktat
 http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fMs4cj.png" group-title="Tamil (தமிழ்)",Sri Krishna TV
@@ -282,6 +297,8 @@ http://livematrix.in:1935/supertv/supertv/chunklist_w797227048.m3u8
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.ctamiltv.com/uploads/logo.png" group-title="Tamil (தமிழ்)",Tamil TV
 http://ctamiltv.livebox.co.in/ctamiltvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="Tamil (தமிழ்)",Tamil Business
+http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/03/Screenshot_1.png" group-title="Tamil (தமிழ்)",Tamil MTV
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TviHd1.png/1200px-TviHd1.png" group-title="Tamil (தமிழ்)",Tamil Vision
