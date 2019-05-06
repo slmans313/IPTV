@@ -132,6 +132,8 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781336/logo_canal%2015%20zacatecas.png" group-title="México", Canal 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/330px-De_pelicula_logo.pngg" group-title="México", De Película
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.efekto.tv/wp-content/themes/Efekto/assets/imagenes/logos/generales/CapitalHeader.png" group-title="México", Efekto TV
 https://wowzaprod100-i.akamaihd.net/hls/live/254623/1027feb5_1_1152/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/EWTN_logo_2016.png/338px-EWTN_logo_2016.png" group-title="México",EWTN
@@ -183,6 +185,8 @@ http://198.1.117.5:1935/live/livestream/chunklist.m3u8
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/bhtv-100x70.png" group-title="Perú", BHTV en vivo
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/50/49/pe-flag-min.jpg" group-title="Perú", Canal 1019
+http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg" group-title="Perú",Cosmos TV
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Congreso_Television_%28Logo_2015%29.jpg" group-title="Perú", Congreso TV 
@@ -197,6 +201,10 @@ http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/225px-Sol_tv_pe.png" group-title="Perú", Sol TV
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.turbomix.com.pe/styles/common-images/logo.jpg" group-title="Perú", Turbo Mix
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/225px-Sol_tv_pe.png" group-title="Perú", Willax
+http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
 
 #EXTINF:0 tvg-logo="http://rtnh.ht/tnh/media/images/logo_tnh2-copy.png" group-title="Haiti(Ayiti)", Nationale d'Haïti
 https://hbiptv.live/online/tnh/video.m3u8
