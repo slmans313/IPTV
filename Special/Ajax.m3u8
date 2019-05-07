@@ -36,8 +36,6 @@ http://espn.tmedia.me/cache/espn2.m3u8
 http://espn.tmedia.me/cache/espnews.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNU.us.png" group-title="ESPN", ESPN U
 http://espn.tmedia.me/cache/espnu.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/NBA_on_ESPN_logo_2016%E2%80%93present.jpg" group-title="ESPN",ESPN NBA
-http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN+ 1
 http://sportcdn.inlinetv.ca/ESPN_PLUS_01_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN+ 2
@@ -55,10 +53,45 @@ http://sportcdn.inlinetv.ca/ESPN_PLUS_07_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/beINLaLiga.es.png" group-title="Football", beIN LaLiga
 http://stream.tvpor-internet.net/manifest/04/bein-sports-la-liga.m3u8
-#EXTINF:-1 tvg-logo="https://Sport-tv-guide.live/images/stations/a355.png" group-title="Football", Sky Sports Football Italia
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/beINLaLiga.es.png" group-title="Football", beIN LaLiga HD
+https://accesorioscoche.club/t1/t1.m3u8
+#EXTINF:-1 tvg-logo="https://Sport-tv-guide.live/images/stations/a355.png" group-title="Football", Sky Football Italia
 https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="Football",CCTV风云足球
 http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/NBA_on_ESPN_logo_2016%E2%80%93present.jpg" group-title="Basketball",ESPN NBA
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 1
+http://185.246.209.220/nba_1hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 2
+http://185.246.209.220/nba_2hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 3
+http://185.246.209.220/nba_3hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 4
+http://185.246.209.220/nba_4hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 5
+http://185.246.209.220/nba_5hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 6
+http://185.246.209.220/nba_6hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 7
+http://185.246.209.220/nba_7hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 8
+http://185.246.209.220/nba_8hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 9
+http://185.246.209.220/nba_9hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 10
+http://185.246.209.220/nba_10hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 11
+http://185.246.209.220/nba_11hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 12
+http://185.246.209.220/nba_12hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 13
+http://185.246.209.220/nba_13hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 14
+http://185.246.209.220/nba_14hd/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBALeaguePass1.us.png" group-title="Basketball", NBA League Pass 15
+http://185.246.209.220/nba_15hd/mpegts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Cricket", DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
