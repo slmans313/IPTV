@@ -105,6 +105,10 @@ http://70.32.0.9:5000/live/543/playlist.m3u8
 http://185.246.209.220:8080/foodnetwork_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="Entertainment",Fox Crime
 http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO.ca.png" group-title="Entertainment",HBO
+http://185.246.209.109:8080/HBO/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO2.ca.png" group-title="Entertainment",HBO
+http://185.246.209.109:8080/HBO2/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment", HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Kix.uk.png" group-title="Entertainment",KIX
@@ -113,6 +117,9 @@ http://210.210.155.35/uq2663/h/h07/index2.m3u8
 http://210.210.155.35/x6bnqe/s/s65/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Entertainment", Paramount Channel
 http://espn.tmedia.me/cache/spikeus.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Entertainment", Paramount Channel HD
+http://185.246.209.109:8080/PARAMOUNT/mpegts
+https://static.iptv-epg.com/th/ParamountChannel.th.png
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="Entertainment", TBS
