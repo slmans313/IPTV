@@ -101,6 +101,8 @@ http://210.210.155.35/uq2663/h/h10/01.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/300px-Fine_Living_logo.svg.png" group-title="Entertainment",  Fine Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/FoodNetwork.th.png" group-title="Entertainment",  Food Network
+http://185.246.209.220:8080/foodnetwork_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="Entertainment",Fox Crime
 http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment", HITS
@@ -116,11 +118,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="Entertainment", TBS
 http://170.250.96.20:8117/streams/TBS.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TravelChannel.us.png" group-title="Entertainment",Travel Channel
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png" group-title="Entertainment",Trace Sports Stars
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+http://185.246.209.220:8080/travelchannel_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/TNT.ar.png" group-title="Entertainment", TNT 
+http://185.246.209.220:8080/tnt_hd/mpegts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Entertainment",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png" group-title="Entertainment",Trace Sports Stars
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 
 #EXTINF:0 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids/Animation",Aniplus
 http://210.210.155.35/dr9445/h/h02/index2.m3u8
@@ -178,7 +182,7 @@ http://104.200.153.218:80/CI_HD_USA_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_DO.png"group-title="Education",CGTN Documentary 
 http://39.135.16.142:6060/PLTV/88888888/224/3221225670/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Education", Nat Geo
-http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8
+http://185.246.209.220:8080/natgeo_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Education", Nat Geo Wild
 http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Education", Nat Geo People
