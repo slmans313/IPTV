@@ -26,14 +26,20 @@ http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
 https://5b3050bb1b2d8.streamlock.net/tvmlive/tvmlive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina",Canal Provinical
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/Cinecanal.ar.png" group-title="Argentina",Cine Canal
+http://stream.tvpor-internet.net/manifest/03/cinecanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Argentina",Ciudad
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/75UgF.png" group-title="Argentina",CPEtv
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="Argentina",CN3 
 http://wowza.telpin.com.ar:1935/Canal3/Canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/DisneyChannel.mx.png" group-title="Argentina",Disney Latinoamérica
+http://stream.tvpor-internet.net/manifest/03/d1sney.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="Argentina",El Garage
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/Fox.ar.png" group-title="Argentina", Fox Channel Latinoamérica
+http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/HistoryChannel.ar.png" group-title="Argentina", History Latinoamérica
 http://stream.tvpor-internet.net/manifest/01/history.m3u8
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina",Litus 
@@ -46,6 +52,8 @@ https://59c5c86e10038.streamlock.net/8098/8098/chunklist.m3u8
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="Argentina",NET TV 
 http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/ar/StudioUniversal.ar.png" group-title="Argentina",Studio Universal Latinoamérica
+http://stream.tvpor-internet.net/manifest/03/stdio_univ.m3u8
 #EXTINF:0 tvg-logo="https://www.quatrotv.com/wp-content/uploads/2016/11/logoquatro-150x27.png" group-title="Argentina", TDC Firmat
 https://5b7f3c45ab7c2.streamlock.net/8166/ngrp:8166_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://digitalmediawire.com/wp-content/uploads/2016/11/Telefe.jpg" group-title="Argentina",Telefe
@@ -54,39 +62,6 @@ http://31.220.1.190:8080/Jessica/Jessica1/116054
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/TNT.ar.png" group-title="Argentina", TNT Latinoamérica
 http://stream.tvpor-internet.net/manifest/03/tnt.m3u8
-
-
-#EXTINF:-1,latina
-http://stream.tvpor-internet.net/manifest/05/latina.m3u8
-
-#EXTINF:-1,Fox Series
-http://stream.tvpor-internet.net/manifest/02/f0x_series.m3u8
-#EXTINF:-1,Fox Channel
-http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
-#EXTINF:-1,Fox Action
-http://stream.tvpor-internet.net/manifest/02/f0x_action.m3u8
-#EXTINF:-1,Cine Satellite TV
-http://stream.tvpor-internet.net/manifest/03/cinecanal.m3u8
-#EXTINF:-1,Cinemax
-http://stream.tvpor-internet.net/manifest/03/c1nemax.m3u8
-#EXTINF:-1,Studio Universal HD
-http://stream.tvpor-internet.net/manifest/03/stdio_univ.m3u8
-#EXTINF:-1,HBO HD
-http://stream.tvpor-internet.net/manifest/06/hb0hd.m3u8
-#EXTINF:-1,Discovery Channel
-http://stream.tvpor-internet.net/manifest/01/disc_ch.m3u8
-#EXTINF:-1,Discovery Science
-http://stream.tvpor-internet.net/manifest/01/disc_science.m3u8
-#EXTINF:-1,Satellite TV
-http://stream.tvpor-internet.net/manifest/02/estrellas_latam.m3u8
-
-#EXTINF:-1,Discovery Kids HD
-http://stream.tvpor-internet.net/manifest/06/disc_kids.m3u8
-#EXTINF:-1,Disney HD
-http://stream.tvpor-internet.net/manifest/03/d1sney.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://www.cadenaa.tv/web/wp-content/uploads/2018/06/Logo-cabecera.png" group-title="Bolivia", Cadena A
 http://www.channel.tevemi.com:1935/CadenaA/CadenaA/playlist.m3u8
@@ -111,7 +86,6 @@ http://rtmp.cdn.upx.net.br/7cdd_2/myStream.sdp/playlist.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://webmusic.tv/uploads/custom-logo.png" group-title="Brasil",Web Music TV
 http://stmv1.ifantasy.com.br/webmusictv/webmusictv/playlist.m3u8
-
 
 #EXTINF:0 tvg-logo="http://images.eltelon.com/cache/media/120/square_150x150-2.jpg" group-title="Chile", El Pinguino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
@@ -139,7 +113,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="Ecuador",Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/web/wp-content/uploads/2019/03/96-transp.png" group-title="República Dominicana",  Telemicro 5
 http://stream.grupotelemicro.com/hd.m3u8
@@ -169,7 +142,7 @@ https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1447958550_b1300000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="México",Canal Cinco
 http://stream.tvpor-internet.net/manifest/04/canal-cinco.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalJudicial.mx.pngg" group-title="México",Canal Judicial
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalJudicial.mx.png" group-title="México",Canal Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal10.tv/assets/Logo2.png" group-title="México", Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -177,8 +150,16 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781336/logo_canal%2015%20zacatecas.png" group-title="México", Canal 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/330px-De_pelicula_logo.pngg" group-title="México", De Película
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Cinemax.mx.png" group-title="México",Cinemax Latinoamérica
+http://stream.tvpor-internet.net/manifest/03/c1nemax.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/330px-De_pelicula_logo.png" group-title="México", De Película
 https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="México",Discovery Latino
+http://stream.tvpor-internet.net/manifest/01/disc_ch.m3u8
+#EXTINF:-1 tvg-logo="ttps://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="México",Discovery Sci Latino
+http://stream.tvpor-internet.net/manifest/01/disc_science.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/DiscoveryKids.mx.png" group-title="México",Discovery Kids Latino
+http://stream.tvpor-internet.net/manifest/06/disc_kids.m3u8
 #EXTINF:-1 tvg-logo="https://www.efekto.tv/wp-content/themes/Efekto/assets/imagenes/logos/generales/CapitalHeader.png" group-title="México", Efekto TV
 https://wowzaprod100-i.akamaihd.net/hls/live/254623/1027feb5_1_1152/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/EWTN_logo_2016.png/338px-EWTN_logo_2016.png" group-title="México",EWTN
@@ -189,6 +170,8 @@ https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
 http://stream.tvpor-internet.net/manifest/06/golden.m3u8
 #EXTINF:-1 tvg-logo="http://guapilestv.tk/wp-content/uploads/2017/11/cropped-n.png" group-title="México", Guapiles TV
 http://k4.usastreams.com/guapilestv/guapilestv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/HBO.mx.png" group-title="México",HBO Latinoaméric
+http://stream.tvpor-internet.net/manifest/06/hb0hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="México", Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/250px-Multimedios_Television.png" group-title="México",Multimedios CDMX
@@ -231,6 +214,12 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://userscontent2.emaze.com/images/44097fec-bf00-470d-8a3d-305eb132803d/ec0a862a-dd2f-450c-9473-f135041c5312.png" group-title="Panama",Nex 21
 http://198.1.117.5:1935/live/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="Panama",Fox Action
+http://stream.tvpor-internet.net/manifest/02/f0x_action.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png" group-title="Panama",Fox Premium Comedy
+http://161.0.157.7/PLTV/88888888/224/3221226800/01.m3u8
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527252/FOX_Series_HD.png" group-title="Panama",Fox Premium Series
+http://stream.tvpor-internet.net/manifest/02/f0x_series.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="Perú", TV Perú
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
@@ -244,6 +233,8 @@ http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 http://stream.congreso.gob.pe/hls/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png" group-title="Perú", CVision TV Musica
 http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Latina_Television_-_2017_logo.png/240px-Latina_Television_-_2017_logo.png" group-title="Perú", Latina
+http://stream.tvpor-internet.net/manifest/05/latina.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Perú", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Rbc.jpg" group-title="Perú", RBC
