@@ -34,8 +34,8 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
 http://wowza.telpin.com.ar:1935/Canal3/Canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="Argentina",El Garage
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4d/El-Trece-HD-Logo-2011-2016.png/revision/latest?cb=20170721071837" group-title="Argentina",El Trece
-http://31.220.1.190:8080/Jessica/Jessica1/99802
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/HistoryChannel.ar.png" group-title="Argentina", History Latinoamérica
+http://stream.tvpor-internet.net/manifest/01/history.m3u8
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina",Litus 
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="Argentina",Multvision
@@ -52,6 +52,41 @@ https://5b7f3c45ab7c2.streamlock.net/8166/ngrp:8166_all/chunklist.m3u8
 http://31.220.1.190:8080/Jessica/Jessica1/116054
 #EXTINF:-1 tvg-logo="https://logostvArgentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="Argentina",TLX 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/TNT.ar.png" group-title="Argentina", TNT Latinoamérica
+http://stream.tvpor-internet.net/manifest/03/tnt.m3u8
+
+
+#EXTINF:-1,latina
+http://stream.tvpor-internet.net/manifest/05/latina.m3u8
+
+#EXTINF:-1,Fox Series
+http://stream.tvpor-internet.net/manifest/02/f0x_series.m3u8
+#EXTINF:-1,Fox Channel
+http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
+#EXTINF:-1,Fox Action
+http://stream.tvpor-internet.net/manifest/02/f0x_action.m3u8
+#EXTINF:-1,Cine Satellite TV
+http://stream.tvpor-internet.net/manifest/03/cinecanal.m3u8
+#EXTINF:-1,Cinemax
+http://stream.tvpor-internet.net/manifest/03/c1nemax.m3u8
+#EXTINF:-1,Studio Universal HD
+http://stream.tvpor-internet.net/manifest/03/stdio_univ.m3u8
+#EXTINF:-1,HBO HD
+http://stream.tvpor-internet.net/manifest/06/hb0hd.m3u8
+#EXTINF:-1,Discovery Channel
+http://stream.tvpor-internet.net/manifest/01/disc_ch.m3u8
+#EXTINF:-1,Discovery Science
+http://stream.tvpor-internet.net/manifest/01/disc_science.m3u8
+#EXTINF:-1,Satellite TV
+http://stream.tvpor-internet.net/manifest/02/estrellas_latam.m3u8
+
+#EXTINF:-1,Discovery Kids HD
+http://stream.tvpor-internet.net/manifest/06/disc_kids.m3u8
+#EXTINF:-1,Disney HD
+http://stream.tvpor-internet.net/manifest/03/d1sney.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="http://www.cadenaa.tv/web/wp-content/uploads/2018/06/Logo-cabecera.png" group-title="Bolivia", Cadena A
 http://www.channel.tevemi.com:1935/CadenaA/CadenaA/playlist.m3u8
@@ -84,8 +119,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8
 #EXTINF:0 tvg-logo="https://lared.cl/app/themes/lared-theme/img/logox2-2019.png" group-title="Chile",La Red
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Chile", CDO Deportes
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.canalcapital.gov.co/sites/default/files/header-institucional/LOGO-CANAL-CAPITAL_1.png" group-title="Colombia",Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
@@ -130,13 +163,13 @@ http://181.189.225.36:8990/UneTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="Jamaica",Trace Tropical
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvazteca.com/mensaje/img/logo_tvazteca.png" group-title="México",Azteca
-http://104.200.153.219:80/vo_LIVEAZTICA-825/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.azteca.com/imagenes/2018/48/logo-2274363.png" group-title="México",Azteca + 
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://canalonce.mx/generales/wp-content/uploads/2019/04/logo-once-horizontal-blanco118.png" group-title="México",Canal Once 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="México",Canal Once 
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1447958550_b1300000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://canaljudicial.mx/themes/subtema_scjn/logo.jpg" group-title="México",Canal Judicial
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="México",Canal Cinco
+http://stream.tvpor-internet.net/manifest/04/canal-cinco.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalJudicial.mx.pngg" group-title="México",Canal Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal10.tv/assets/Logo2.png" group-title="México", Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -152,6 +185,8 @@ https://wowzaprod100-i.akamaihd.net/hls/live/254623/1027feb5_1_1152/chunklist.m3
 http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="México",Foro
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Golden.mx.png" group-title="México",Golden
+http://stream.tvpor-internet.net/manifest/06/golden.m3u8
 #EXTINF:-1 tvg-logo="http://guapilestv.tk/wp-content/uploads/2017/11/cropped-n.png" group-title="México", Guapiles TV
 http://k4.usastreams.com/guapilestv/guapilestv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="México", Milenio TV
@@ -174,6 +209,10 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/rgc3.png" group-title="México",RCG 3
 http://wowzacontrol.com:1937/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="México",SYFY Latinoamérica
+http://stream.tvpor-internet.net/manifest/02/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Space.mx.png" group-title="México",Space HD
+http://stream.tvpor-internet.net/manifest/03/space.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/teleritmo/tlr-final.jpg" group-title="México",Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Telemar_Mexico.jpg" group-title="México", Telemar
@@ -244,6 +283,8 @@ http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://sc2.elpais.com.uy/images/default/og_ovacion.jpg" group-title="Uruguay", Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/uy/VTV.uy.png" group-title="Uruguay", VTV
+http://stream.tvpor-internet.net/manifest/05/vtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/180px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Venezuela",Venezolana de TV
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist.m3u8
