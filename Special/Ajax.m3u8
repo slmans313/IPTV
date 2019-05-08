@@ -1,31 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN Sports", beIN Sports 1
-http://sp.inlinetv.ca:1992/B1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN Sports", beIN Sports 2
-http://sp.inlinetv.ca:1992/B2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN Sports", beIN Sports 3
-http://sp.inlinetv.ca:1992/B3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="beIN Sports", beIN Sports 4
-http://sp.inlinetv.ca:1992/B4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="beIN Sports", beIN Sports 5
-http://sp.inlinetv.ca:1992/B5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports6.us.png" group-title="beIN Sports", beIN Sports 6
-http://sp.inlinetv.ca:1992/B6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports7.us.png" group-title="beIN Sports", beIN Sports 7
-http://sp.inlinetv.ca:1992/B7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="beIN Sports", beIN Sports 8
-http://sp.inlinetv.ca:1992/B8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports9.us.png" group-title="beIN Sports", beIN Sports 9
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50437
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183173832748.png" group-title="beIN Sports", beIN Sports 10
-http://sp.inlinetv.ca:1992/B9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183184434963.png" group-title="beIN Sports", beIN Sports 11
-http://sp.inlinetv.ca:1992/B10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183185429247.jpg" group-title="beIN Sports",beIN Sports 12
-http://nettv-xcruiser.com:8000/TJNkqmdKKE/slRqytk8co/50434
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183185442313.jpg" group-title="beIN Sports",beIN Sports 13
-http://m-iptv.net:6204/abdulrahman/abdulrahman1/1694
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN Sports", beIN Sports 1 Indonesia
+http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN Sports", beIN Sports 2 Indonesia
+http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN Sports", beIN Sports 3 Indonesia
+http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN 
@@ -138,8 +118,13 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Asian Sports",Fox Sports Asia
 http://iptv-vn1.hdflixtv.com:3000/mytvnet/fox.m3u8?q=sd
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Asian Sports",Fox Sports Asia HD
+http://157.119.56.249:2019/live/gratis/diemdiemaja/116.ts
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Asian Sports",Fox Sports Asia 2
-http://iptv-vn1.hdflixtv.com:3000/mytvnet/fox2.m3u8?q=sd
+http://157.119.56.249:2019/live/gratis/diemdiemaja/115.ts
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Asian Sports",Fox Sports Asia HD
+http://157.119.56.249:2019/live/gratis/diemdiemaja/114.ts
+
 #EXTINF:-1 tvg-logo="http://www.okevision.tv/user_assets/image/channel/update_june_mncsport.jpg" group-title="Asian Sports",MNC Sports
 http://202.80.222.167:80/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=SLB24210201905070510469512227
 #EXTINF:-1 tvg-logo="http://api.kaztrk.kz/uploads/slider/slider_id/23_2/23_2_origin_2.png" group-title="Asian Sports",QazSports
