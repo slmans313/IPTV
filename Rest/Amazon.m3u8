@@ -125,6 +125,27 @@ http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal19.do/wp-content/uploads/2018/06/logo-300-x-300.png" group-title="República Dominicana", Cinevision Canal 19
 http://cinevision01.streamprolive.com/hls/live.m3u8
 
+#EXTINF:0 tvg-logo="http://rtnh.ht/tnh/media/images/logo_tnh2-copy.png" group-title="Haiti(Ayiti)", Nationale d'Haïti
+https://hbiptv.live/online/tnh/video.m3u8
+#EXTINF:0 tvg-logo="http://www.tvhebdo.com/images/logo-55eme-anniversaires.png" group-title="Haiti(Ayiti)", Hebdo
+https://hbiptv.live/live/hebdotvcom/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://hbiptv.com/wp-content/uploads/2018/11/nago-tv.png" group-title="Haiti(Ayiti)", Nago TV
+http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="http://netalkole.net/wp-content/uploads/2017/07/netalkoleapps-1.png" group-title="Haiti(Ayiti)", Netalkole
+https://hbiptv.live/new/app/netalkole/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://rtvc.radiotelevisioncaraibes.com/sites/default/files/logos/inner/rtvcblue_0.png" group-title="Haiti(Ayiti)", RTVC
+https://hbiptv.live/online/rtvc/video.m3u8
+#EXTINF:0 tvg-logo="http://rtghaiti.com/wp-content/uploads/2013/02/cropped-cropped-rtgnewbig-copy-e1403851731346.jpg" group-title="Haiti(Ayiti)", RTG 18
+https://hbiptv.live/online/rtg/video.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/573619719036624897/TGF3t7HB.jpeg" group-title="Haiti(Ayiti)", Sky TV
+https://hbiptv.live/online/skytv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="http://www.haititelevision.com/wp-content/uploads/2018/03/tele_pacific-300x300.png" group-title="Haiti(Ayiti)", Tele Pacific
+https://hbiptv.live/online/pacific/video.m3u8
+#EXTINF:0 tvg-logo="http://www.haititelevision.com/wp-content/uploads/2018/03/tele-kiskeya-live.jpg" group-title="Haiti(Ayiti)", Tele Kiskeya
+https://hbiptv.live/online/kiskeya/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="http://www.haititelevision.com/wp-content/uploads/2018/03/tele-metrolple.jpg" group-title="Haiti(Ayiti)", Tele Metrolple
+https://hbiptv.live/online/metro/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="Honduras",HCH
 http://stream.innovandote.com/hch/hch/chunklist_w2132733389.m3u8
@@ -217,6 +238,9 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://canal2tv.com/wp-content/uploads/2017/05/LOGO-Y-SLOGAN-HEADER-1.png" group-title="Nicaragua",Canal 2
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png" group-title="Nicaragua", Viva Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://userscontent2.emaze.com/images/44097fec-bf00-470d-8a3d-305eb132803d/ec0a862a-dd2f-450c-9473-f135041c5312.png" group-title="Panama",Nex 21
 http://198.1.117.5:1935/live/livestream/chunklist.m3u8
@@ -256,29 +280,9 @@ http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/225px-Sol_tv_pe.png" group-title="Perú", Willax
 http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
 
-#EXTINF:0 tvg-logo="http://rtnh.ht/tnh/media/images/logo_tnh2-copy.png" group-title="Haiti(Ayiti)", Nationale d'Haïti
-https://hbiptv.live/online/tnh/video.m3u8
-#EXTINF:0 tvg-logo="http://www.tvhebdo.com/images/logo-55eme-anniversaires.png" group-title="Haiti(Ayiti)", Hebdo
-https://hbiptv.live/live/hebdotvcom/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://hbiptv.com/wp-content/uploads/2018/11/nago-tv.png" group-title="Haiti(Ayiti)", Nago TV
-http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-logo="http://netalkole.net/wp-content/uploads/2017/07/netalkoleapps-1.png" group-title="Haiti(Ayiti)", Netalkole
-https://hbiptv.live/new/app/netalkole/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://rtvc.radiotelevisioncaraibes.com/sites/default/files/logos/inner/rtvcblue_0.png" group-title="Haiti(Ayiti)", RTVC
-https://hbiptv.live/online/rtvc/video.m3u8
-#EXTINF:0 tvg-logo="http://rtghaiti.com/wp-content/uploads/2013/02/cropped-cropped-rtgnewbig-copy-e1403851731346.jpg" group-title="Haiti(Ayiti)", RTG 18
-https://hbiptv.live/online/rtg/video.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/573619719036624897/TGF3t7HB.jpeg" group-title="Haiti(Ayiti)", Sky TV
-https://hbiptv.live/online/skytv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="http://www.haititelevision.com/wp-content/uploads/2018/03/tele_pacific-300x300.png" group-title="Haiti(Ayiti)", Tele Pacific
-https://hbiptv.live/online/pacific/video.m3u8
-#EXTINF:0 tvg-logo="http://www.haititelevision.com/wp-content/uploads/2018/03/tele-kiskeya-live.jpg" group-title="Haiti(Ayiti)", Tele Kiskeya
-https://hbiptv.live/online/kiskeya/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="http://www.haititelevision.com/wp-content/uploads/2018/03/tele-metrolple.jpg" group-title="Haiti(Ayiti)", Tele Metrolple
-https://hbiptv.live/online/metro/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://zizonline.com/wp-content/uploads/2016/11/ziz_logo.png" group-title="Saint Kitts and Nevis", ZIZ
+http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png" group-title="Nicaragua", Viva Nicaragua
-http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://sc2.elpais.com.uy/images/default/og_ovacion.jpg" group-title="Uruguay", Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
