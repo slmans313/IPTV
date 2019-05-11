@@ -334,16 +334,10 @@ http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China (中国)", 新唐人中国台
 https://live2.ntdimg.com/cnlive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/db/GXTV_logo.png/200px-GXTV_logo.png" group-title="地方电视台", 广西卫视
-http://222.216.111.82:8088/flv0
 #EXTINF:-1 tvg-logo="https://n.sinaimg.cn/finance/crawl/300/w550h550/20190428/AMGL-hwfpcxm6839020.jpg" group-title="地方电视台",海南卫视
 http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sanya.jpg" group-title="地方电视台",三亚新闻
 http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mserver.mcloud.gxcatv.com/site/byx//upload/Image/mrtp/2018/12/29/1_bc0812c4fc1543ec9e84bac815aee87b.png" group-title="地方电视台", 宾阳电视台(广西)
-http://nsul01u0.live2.danghongyun.com:80/live/hls/dc1b796e8fc3462aad9f5185f3b88e13/9304582eb01c4ceaacccfe682ee32db7.m3u8
-#EXTINF:-1 tvg-logo="http://www.gx.xinhuanet.com/wq/luocheng/images/top.jpg" group-title="地方电视台", 罗城综合
-http://120.78.123.146:9100/lctvlive/lch.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png" group-title="地方电视台", 宁夏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Jilin_Television.png" group-title="地方电视台", 吉林卫视
@@ -584,6 +578,46 @@ http://112.17.40.140/PLTV/88888888/224/3221226748/index.m3u8
 http://live.yjbc.tv:8081/live/smil:yjtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/yangjiang2.jpg" group-title="地方电视台(广东)",阳江公共
 http://live.yjbc.tv:8081/live/smil:yjtv2.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/db/GXTV_logo.png/200px-GXTV_logo.png" group-title="地方电视台(广西)", 广西卫视
+http://222.216.111.82:8088/flv0
+#EXTINF:-1 tvg-logo="http://mserver.mcloud.gxcatv.com/site/byx//upload/Image/mrtp/2018/12/29/1_bc0812c4fc1543ec9e84bac815aee87b.png" group-title="地方电视台(广西)", 宾阳电视台(广西)
+http://nsul01u0.live2.danghongyun.com:80/live/hls/dc1b796e8fc3462aad9f5185f3b88e13/9304582eb01c4ceaacccfe682ee32db7.m3u8
+#EXTINF:-1 tvg-logo="http://www.gx.xinhuanet.com/wq/luocheng/images/top.jpg" group-title="地方电视台(广西)", 罗城综合
+http://120.78.123.146:9100/lctvlive/lch.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nnggpd.jpg" group-title="地方电视台(广西)",南宁公共
+http://111.12.110.76:6610/000000001000/NNGG/1.m3u8?livemode=1&IASHttpSessionId=SLB3800201903101254503191073
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nlysyl.jpg" group-title="地方电视台(广西)",南宁影视娱乐
+http://111.12.110.89:6610/000000001000/NNYS/1.m3u8?livemode=1&IASHttpSessionId=SLB1643120190310130553896009
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="地方电视台(广西)",南宁新闻综合
+http://111.12.110.87:6610/000000001000/NNXW/1.m3u8?livemode=1&IASHttpSessionId=SLB1643120190310130729896151
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nldssh.jpg" group-title="地方电视台(广西)",南宁都市生活
+http://111.12.83.56:6060/000000001000/NNDS/1.m3u8?livemode=1
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ylxwzhpd.jpg" group-title="地方电视台(广西)",玉林新闻综合
+http://111.12.83.13:6610/000000001000/Yulin/1.m3u8?livemode=1&IASHttpSessionId=SLB20002019031013092037863610
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/yulin.jpg" group-title="地方电视台(广西)",桂林新闻综合
+http://111.12.83.7:6410/000000001000/Guilin/1.m3u8?livemode=1
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/yulin.jpg" group-title="地方电视台(广西)",桂林公共
+http://111.12.83.7:6410/000000001000/GLGG/1.m3u8?livemode=1
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/yulin.jpg" group-title="地方电视台(广西)",桂林科教旅游
+http://111.12.83.7:6410/000000001000/GLLY/1.m3u8?livemode=1
+#EXTINF:-1 tvg-logo="http://www.gx.xinhuanet.com/wq/luocheng/images/top.jpg" group-title="地方电视台(广西)",贵港新闻综合
+http://111.12.83.13:6610/000000001000/XinWenZongHe/1.m3u8?livemode=1&IASHttpSessionId=SLB20072019031013115337860633
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/beihai.jpg" group-title="地方电视台(广西)",北海新闻综合
+http://111.12.83.2:6610/000000001000/BeiHai/1.m3u8?livemode=1&IASHttpSessionId=SLB19992019031013130037521848
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/beihai.jpg" group-title="地方电视台(广西)",北海公共
+http://111.12.83.7:6410/000000001000/BHGG/1.m3u8?livemode=1
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/beihai.jpg" group-title="地方电视台(广西)",北海经济科教
+http://111.12.83.2:6610/000000001000/BHJJ/1.m3u8?livemode=1&IASHttpSessionId=SLB20042019031013141037132508
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wuzhou.jpg" group-title="地方电视台(广西)",梧州新闻综合
+http://111.12.83.60:6610/000000001000/WuZhou/1.m3u8?livemode=1&IASHttpSessionId=SLB19972019031013144238170753
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lzsxwpd.jpg" group-title="地方电视台(广西)",柳州新闻综合
+http://111.12.83.116:6610/000000001000/LZXWZH/1.m3u8?livemode=1&IASHttpSessionId=SLB20482019031013151237694220
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lzskjpd.jpg" group-title="地方电视台(广西)",柳州科教
+http://111.12.83.7:6410/000000001000/lzkj/1.m3u8?livemode=1
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lzsggpd.jpg" group-title="地方电视台(广西)",柳州公共
+http://111.12.83.7:6410/000000001000/lzgg/1.m3u8?livemode=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(甘肃)",甘肃卫视
 http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8
