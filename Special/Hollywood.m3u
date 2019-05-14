@@ -71,10 +71,6 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/YMON.png" group-title="News",Your Money
 https://yourmoneylive.akamaized.net/hls/live/712194/yourmoneyau/live1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Entertainment", Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Entertainment", Adult Swim Marathon
-http://adultswimhls-i.akamaihd.net/hls/live/242140/adultswim_2/animated/1/master_Layer4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BET.uk.png" group-title="Entertainment", BET
@@ -124,6 +120,10 @@ http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png" group-title="Entertainment",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Kids/Animation",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png"group-title="Kids/Animation", Adult Swim Marathon
+http://adultswimhls-i.akamaihd.net/hls/live/242140/adultswim_2/animated/1/master_Layer.m3u8
 #EXTINF:0 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids/Animation",Aniplus
 http://210.210.155.35/dr9445/h/h02/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids/Animation", Baby TV
@@ -131,27 +131,13 @@ http://livecdnh1.tvanywhere.ae:80/hls/baby/06.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Boomerang.uk.png" group-title="Kids/Animation", Boomerang 
 http://123.249.76.157:10016/bysid/23
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBeebies.uk.png" group-title="Kids/Animation", Cbeebies
-http://89.187.177.179:80/CBBC_kids/tracks-v1a1/mono.m3u8
+http://195.181.169.148:80/CBBC_kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
 http://161.0.157.5/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Kids/Animation", Disney Channel
 http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/DisneyXD.nz.png" group-title="Kids/Animation", Disney XD 
-http://89.187.177.179:80/Disney_XD_UK_kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/DisneyJunior.nz.png" group-title="Kids/Animation", Disney Junior
-http://89.187.177.179:80/Disney_JR_UK_kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="Kids/Animation", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Family_Chrgd_logo.svg/330px-Family_Chrgd_logo.svg.png" group-title="Kids/Animation", Family Chrgd
-http://89.187.177.179:80/Family_Chargd_kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Nickelodeon.pt.png" group-title="Kids/Animation", Nickelodeon
-http://89.187.177.179/Nick_USA_kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nickelodeon JR
-http://89.187.177.179/Nickjr_west_kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nicktoons.uk.png" group-title="Kids/Animation", NickToons
-http://89.187.177.179:80/NickToons_UK_kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSKids.us.png" group-title="Kids/Animation", PBS Kids
-http://89.187.177.179:80/PBS_kids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
