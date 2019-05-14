@@ -1,20 +1,49 @@
 #EXTM3U
 
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/MBN_Logo.jpg" group-title="South Korea(한국어)",MBN
+http://122.129.115.21:1935/edgedol/_definst_/tao135/playlist.m3u8
 #EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/KBS_1_logo_2018.svg.png" group-title="South Korea(한국어)",KBS1
 http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
-
 #EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/KBS2.png" group-title="South Korea(한국어)",KBS2
 http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.poscojoongwoo.com/resources/img/front/site/img_sitelogo19.jpg"  group-title="Golf",SBS Golf
 http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Channels_ebs1.png" group-title="South Korea(한국어)", EBS 1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u
-
 #EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" group-title="South Korea(한국어)", Asia N
 http://121.156.46.79/live/10201.m3u8?sid=60720
+#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" group-title="South Korea(한국어)", 채널 A
+http://122.129.115.21:1935/edgedol/_definst_/tao134/playlist.m3u8
+#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Music_Makes_One_Mnet_Logo.png/300px-Music_Makes_One_Mnet_Logo.png" group-title="South Korea(한국어)", M Net
+http://122.129.115.21:1935/edgedol/_definst_/tao101/playlist.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Olive_logo.png"  group-title="South Korea(한국어)",Olive
+http://122.129.115.21:1935/edgedol/_definst_/tao109/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.spotv.net/images/onair_spotv.png"  group-title="Asian Sports",SPOTV
+http://122.129.115.21:1935/edgedol/_definst_/tao124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png"  group-title="Golf",JTBC Golf
+http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5sVA9J.png" group-title="South Korea(한국어)", TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 logo="https://image.ytn.co.kr/general/jpg/mp3/google/logo.png"  group-title="South Korea(한국어)",YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/5cbOrX4.png" group-title="South Korea(한국어)", tvN
+http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
+#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" group-title="South Korea(한국어)", Aniplus
+http://122.129.115.21:1935/edgedol/_definst_/tao114/playlist.m3u8
+#EXTINF:-1 logo="http://www.news-y.co.kr/wp-content/uploads/2015/02/toplogo-newsy.png"  group-title="South Korea(한국어)",Yonhap News
+http://122.129.115.21:1935/edgedol/_definst_/tao121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/KBS_N_Sports.png"  group-title="Asian Sports",KBS N Sports
+http://122.129.115.21:1935/edgedol/_definst_/tao123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.skylife.co.kr/upload/channel/file826d61b3-cfbf-44b6-b0a1-3cb93a814b7d.png"  group-title="Asian Sports",Sky Sports
+http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
+olleh tv, http://121.156.46.79/live/10451.m3u8?sid=60720
+#EXTINF:-1 logo="https://m.science.ytn.co.kr/img/common/science_logo_1.png"  group-title="South Korea(한국어)",YTN 사이언스
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+BBC World, http://121.156.46.79/live/10371.m3u8?sid=60720
+?????, http://121.156.46.79/live/10481.m3u8?sid=60720
+
+
+
 
 #EXTINF:0 tvg-logo="http://bayontv.com.kh/wp-content/uploads/2018/09/bayon272_90e-2.png" group-title="Cambodia(កម្ពុជា ) ", Bayon TV 
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
