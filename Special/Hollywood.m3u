@@ -29,7 +29,9 @@ http://104.200.153.219:80/CBCNEWSHD_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_EN.png" group-title="News",CGTN English
 http://39.135.16.142:6060/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN International
+http://121.156.46.79/live/10091.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="News", CNBC
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CNBCWorld.us.png" group-title="News",CNBC World
