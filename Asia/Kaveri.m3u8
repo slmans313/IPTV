@@ -78,6 +78,15 @@ http://pockettv.xyz/api/zee.m3u8?c=ztalkieshd
 #EXTINF:-1 tvg-logo="https://zeeyuva.zee5.com/wp-content/uploads/sites/6/2019/01/cropped-Zee-Yuva.png" group-title="Marathi(मराठी )",  Zee Yuva
 http://pockettv.xyz/api/zee.m3u8?c=zyuva
 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/101_TVM-01.png" group-title=Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ), TVM
+http://54.169.75.117:1935/live/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/208_GoPlus_TV_-01.png" group-title=Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ), Go Plus
+http://goplus.myvnc.com/live/1007/10079/master.m3u8
+#EXTINF:-1 tvg-logo="http://vnews.mv/themes/vmedia/images/vtv.png" group-title=Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ),VTV
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/196_Yes_TV-01.png" group-title=Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ), YES
+http://54.179.182.237:1935/live/livestream/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1015133039595327488/yWGH4XGG_400x400.jpg" group-title="Odia(ଓଡ଼ିଆ)",  DD Odia
 http://pockettv.xyz/api/zee.m3u8?c=ddodia
 #EXTINF:0 tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/12/news18-odia-1.png" group-title="Odia(ଓଡ଼ିଆ)",ETV Odiya
