@@ -48,6 +48,8 @@ http://161.0.157.6/PLTV/88888888/224/3221226568/01.m3u8
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA/Canada",BYUtv
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CMT_2017.png/263px-CMT_2017.png group-title="USA/Canada",CMT
+http://espn.tmedia.me/cache/cmt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA/Canada",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltcivXp.png" group-title="USA/Canada",C-SPAN 2
@@ -80,12 +82,12 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 http://185.246.209.109:8080/test/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Estrella_TV_-_2009_Logo.png/270px-Estrella_TV_-_2009_Logo.png" group-title="USA/Canada",Estrella TV
 http://stream.tvpor-internet.net/manifest/02/estrellas_latam.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" group-title="USA/Canada",ICI Tele
-http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_w672334956_b4160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png" group-title="USA/Canada",Ici Tele
+http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_w1610652848_b4160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51KxCs%2BTT8L._SY355_.png" group-title="USA/Canada",Law & Crime Trial
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="USA/Canada",Logo TV
-http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_w1356569684_b4160000_sleng.m3u8
+http://espn.tmedia.me/cache/logotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA/Canada",Kool
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="USA/Canada", Radio y Televisión Martí
