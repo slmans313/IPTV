@@ -199,6 +199,18 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.zeebioskop.com/images/image002.png" group-title="Indonesia", Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index2.m3u8
 
+#EXTINF:0 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Phillippines(Pilipinas)", TV 5
+http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" group-title="Phillippines(Pilipinas)", CNN Phillippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg" group-title="Phillippines(Pilipinas)",TBN Asia
+http://210.210.155.35/qwr9ew/s/s39/index2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Telenovela_Channel_logo.jpg" group-title="Phillippines(Pilipinas)",Telenovela Channel
+http://164.40.161.46:8003/play/s6
+#EXTINF:0 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="Phillippines(Pilipinas)", UNTV Public
+https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="Myanmar(မြန်မာဘာသာ)",MRTV
 http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="Myanmar(မြန်မာဘာသာ)",MRTV 4
@@ -264,7 +276,6 @@ http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8
 http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Thailand (ประเทศไทย)", FX Thai
 http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/GMM_25_Logo.png/270px-GMM_25_Logo.png" group-title="Thailand (ประเทศไทย)",G MM25
 http://27.254.130.64/live01/chsd_GMM_11.m3u8?p=iptv
 #EXTINF:0  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png" group-title="Thailand (ประเทศไทย)",  Happy TV
@@ -328,17 +339,6 @@ http://27.254.130.64/live02/6.m3u8?p=iptv
 #EXTINF:0 tvg-logo="http://tv-online.in/wp-content/uploads/2014/10/You-Channel-live.gif" group-title="Thailand (ประเทศไทย)",You Channel
 http://stream.rs.co.th/you-hi/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Phillippines(Pilipinas)", TV 5
-http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" group-title="Phillippines(Pilipinas)", CNN Phillippines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg" group-title="Phillippines(Pilipinas)",TBN Asia
-http://210.210.155.35/qwr9ew/s/s39/index2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Telenovela_Channel_logo.jpg" group-title="Phillippines(Pilipinas)",Telenovela Channel
-http://164.40.161.46:8003/play/s6
-#EXTINF:0 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="Phillippines(Pilipinas)", UNTV Public
-https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8
-
 #EXTINF:-1  tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-Apsara-TV-Live-TV-from-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", Apsara Tv
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bayontv.com.kh/wp-content/uploads/2018/09/bayon272_90e-2.png" group-title="Cambodia(កម្ពុជា ) ", Bayon TV 
@@ -369,9 +369,16 @@ http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000117@HHZT;LIVE
 #EXTINF:-1  tvg-logo="https://www.konsva.com/my_file/2017/04/tv9.jpg" group-title="Cambodia(កម្ពុជា ) ", TV9
 http://220.158.149.14:9999/live/TV00000000000000000120@HHZT;LIVE
-#EXTINF:-1  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg" group-title="Cambodia(កម្ពុជា ) ", MVTV Laos
-https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1228847336.m3u8
 
+
+#EXTINF:-1  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg" group-title="Laos(ລາວ) ", MVTV Laos
+https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1228847336.m3u8
+#EXTINF:-1  tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg" group-title="Laos(ລາວ) ", Lao Champa TV
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.malimarcdn.com/laochampatv2HD.jpg" group-title="Laos(ລາວ) ", Lao Champa TV 2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg" group-title="Laos(ລາວ) ", Lao Champa TV 3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1024px-VTC1_logo_2018.svg.png" group-title="Vietnam(Việt Nam)", VTC1
 https://cdn.vtc.gov.vn/live/eds/VTC1_1/hlsv5/VTC1_1-audio_20000=212400-video=2821200.m3u8
