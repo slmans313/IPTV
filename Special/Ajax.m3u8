@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN Sports", beIN Sports 1 Indonesia
-http://157.119.56.249:2019/live/gratis/diemdiemaja/131.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="beIN Sports", beIN Sports 2 Indonesia
-http://157.119.56.249:2019/live/gratis/diemdiemaja/130.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN Sports", beIN Sports 3 Indonesia
-http://157.119.56.249:2019/live/gratis/diemdiemaja/129.ts
-
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN 
 http://espn.tmedia.me/cache/espn1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png"group-title="ESPN",ESPN 2 
@@ -18,22 +11,30 @@ http://espn.tmedia.me/cache/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/NBA_on_ESPN_logo_2016%E2%80%93present.jpg" group-title="ESPN",ESPN NBA
 http://80.80.160.168/live/6/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football",Sky Sports Football
+http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png group-title="Football",Sky Sports Premiere League
+http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/beINLaLiga.es.png" group-title="Football", beIN LaLiga
 http://stream.tvpor-internet.net/manifest/04/bein-sports-la-liga.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="Football",CCTV风云足球
-http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://image.jtbc3foxsports.joins.com/common/logo.png" group-title="Football",JTBC 3 Fox
-http://121.156.46.79/live/10701.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://Sport-tv-guide.live/images/stations/a355.png" group-title="Football", Sky Football Italia
 https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://eimg.smzdm.com/201804/10/5acc23e7420729424.png" group-title="Football", PP体育
+#EXTINF:-1 tvg-logo="http://image.jtbc3foxsports.joins.com/common/logo.png" group-title="Football",JTBC 3 Fox
+http://121.156.46.79/live/10701.m3u8?sid=60720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="Football",CCTV风云足球
+http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://eimg.smzdm.com/201804/10/5acc23e7420729424.png" group-title="Football", PP 体育
 http://112.17.40.140/PLTV/88888888/224/3221226429/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Cricket", DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket",Sky Sports Cricket
+http://62.210.70.119:80/live.ts?channelId=124&deviceMac=00:1A:79:43:84:1E&uid=3037
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
 http://161.0.157.9/PLTV/88888888/224/3221226812/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", Sky Sports Golf
+http://62.210.70.119:80/live.ts?channelId=128&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="http://www.tgckorea.com/resources/images/golf/top_logo.png" group-title="Golf", Golf Channel Korea
 http://121.156.46.79/live/10291.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png"  group-title="Golf",JTBC Golf
@@ -45,6 +46,8 @@ http://203.162.235.41:16924
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Racing",Fox Sports Racing
 http://161.0.157.6/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Racing",Sky Sports F1
+http://62.210.70.119:80/live.ts?channelId=136&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Racing", Sky Sports F1 (Italia)
 https://1.ip2stream.icu/live/sky_sport_f1_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/skysportmotogp.png" group-title="Racing", Sky Sports MotoGP (Italia)
@@ -54,6 +57,9 @@ https://1.ip2stream.icu/live/sky_sport_motogp_hd/playlist.m3u8
 http://92.43.140.249/s86/04.m3u8 
 #EXTINF:-1 tvg-logo="http://2upyml2xgast2pwf71r0ycaj.wpengine.netdna-cdn.com/wp-content/uploads/fightsports140.jpg" group-title="MMA",Fight Sports
 http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 tvg-logo="http://2upyml2xgast2pwf71r0ycaj.wpengine.netdna-cdn.com/wp-content/uploads/fightsports140.jpg" group-title="MMA",Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
 
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -61,6 +67,8 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="Horse Racing",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/gb/RacingUK.uk.png" group-title="Horse Racing", Racing UK
+http://163.172.112.225:80/live.ts?channelId=172&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Horse Racing", Racing.com (Australia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 
