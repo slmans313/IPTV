@@ -25,6 +25,14 @@ http://121.156.46.79/live/10701.m3u8?sid=60720
 http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://eimg.smzdm.com/201804/10/5acc23e7420729424.png" group-title="Football", PP 体育
 http://112.17.40.140/PLTV/88888888/224/3221226429/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn01.supersoccer.tv/v3/img/ss.png" group-title="Football",Super Soccer TV
+http://210.210.155.35/uq2663/h/h20/01.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Football",Man U TV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="Football", Chelsea TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8 
+#EXTINF:0 tvg-logo="https://www.firstonetv.live/images/logos/es/REAL_MADRID.png" group-title="Football", Real Madrid TV Eng
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Cricket", DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
@@ -87,8 +95,6 @@ http://202.80.222.167:80/000001/2/ch00000090990000001753/index.m3u8?virtualDomai
 http://217.196.24.146:8000/play/529
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Asian Sports", RTM Sports
 http://rtmonenews.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-#EXTINF:0 tvg-logo="https://cdn01.supersoccer.tv/v3/img/ss.png" group-title="Asian Sports",Super Soccer TV
-http://210.210.155.35/uq2663/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="Asian Sports",Türkmen Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-HtYPaueR2CI/XBOKRlxqu5I/AAAAAAAATKU/3mx9c_3a7IQpVNrr7KajlRe8aaa0ekBSQCLcBGAs/s1600/tvri-sport-hd.png" group-title="Asian Sports",TVRI Sports
@@ -187,16 +193,6 @@ http://163.172.112.225:80/live.ts?channelId=157&deviceMac=00:1A:79:43:84:1E&uid=
 http://163.172.112.225:80/live.ts?channelId=158&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://www.frontrunner.tv/wp-content/uploads/2016/11/footer-logo.png" group-title="UK Sports", FrontRunner
 http://163.172.112.225:80/live.ts?channelId=159&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="LFC tv" tvg-logo="" group-title="UK Sports",LFC tv - LFC tv
-http://163.172.112.225:80/live.ts?channelId=163&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 1" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 1 - MOTOGP LIVE 1
-http://163.172.112.225:80/live.ts?channelId=165&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2 - MOTOGP LIVE 2
-http://163.172.112.225:80/live.ts?channelId=166&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3 - MOTOGP LIVE 3
-http://163.172.112.225:80/live.ts?channelId=167&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-id="motorstv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Motorsport TV" tvg-logo="" group-title="UK Sports",Motorsport TV - Motorsport TV
-http://163.172.112.225:80/live.ts?channelId=168&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK Sports", Premier Sports 
 http://163.172.112.225:80/live.ts?channelId=170&deviceMac=00:1A:79:43:84:1E&uid=3037
 
