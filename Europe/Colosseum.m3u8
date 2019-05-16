@@ -298,6 +298,10 @@ http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk4.png" group-title="Kosovo(Kosovës)",RTK 4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Logo_RTL_Luxembourg.png/375px-Logo_RTL_Luxembourg.png" group-title="Luxembourg(Lëtzebuerg)",RTL Télé Lëtzebuerg
+http://live01.rtl.lu/channel1/smil:channel1/chunklist_b4168000_slltz.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Logo_2ten_RTL.jpg" group-title="Luxembourg(Lëtzebuerg)",Den 2. RTL
+http://live01.rtl.lu/channel2/smil:channel2/chunklist_b4168000_slltz.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.tvm.com.mt/mt/wp-content/uploads/sites/1/2013/09/tvm_com_mt-Logo-HI-rRES-SOLID-COLOUR.png" group-title="Malta", TVM
 http://212.56.139.219:9981/stream/channelid/1851785642?ticket=D37F8FC8115D59DB6B5741562906F982E241D312&profile=pass
