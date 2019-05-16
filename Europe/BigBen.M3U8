@@ -27,6 +27,10 @@ http://185.53.163.214:5678/ipvt_008
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/STV.uk.png" group-title="Scotland", STV
 http://185.53.163.214:5678/ipvt_011
 
+#EXTINF:-1 tvg-logo="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/Eir-Sport-1.png" group-title="Ireland", eir Sport 1
+http://163.172.112.225:80/live.ts?channelId=154&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/Eir-Sport-2.png" group-title="Ireland", eir Sport 2
+http://163.172.112.225:80/live.ts?channelId=155&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="Ireland", TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTENewsNow.ie.png" group-title="Ireland",RTE News Now
