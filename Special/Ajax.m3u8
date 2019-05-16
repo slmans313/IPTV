@@ -68,6 +68,8 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/gb/RacingUK.uk.png" group-title="Horse Racing", Racing UK
 http://163.172.112.225:80/live.ts?channelId=172&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://sdata.attheraces.com/assets/img/template/logo.png" group-title="Horse Racing", At The Races
+http://163.172.112.225:80/live.ts?channelId=173&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="Horse Racing", Racing.com (Australia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 
@@ -155,6 +157,51 @@ http://89.163.140.211:9898/sfrsport2/index.m3u8
 http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1553.png"  group-title="European Sports", Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png"  group-title="UK Sports", Sky Sports Action
+http://62.210.70.119:80/live.ts?channelId=120&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="UK Sports",Sky Sports Arena
+http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="UK Sports",Sky Sports Main Events
+http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="UK Sports",Sky Sports Mix
+http://62.210.70.119:80/live.ts?channelId=132&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="UK Sports",Sky Sports News
+http://62.210.70.119:80/live.ts?channelId=138&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="UK Sports", BT Sport 1
+http://163.172.117.134:80/live.ts?channelId=141&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="UK Sports", BT Sport 2
+http://163.172.117.134:80/live.ts?channelId=143&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="UK Sports", BT Sport 3
+http://163.172.117.134:80/live.ts?channelId=145&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="UK Sports", BT Sport 3
+http://163.172.117.134:80/live.ts?channelId=147&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="eirsport1.ie" tvg-link="http://epgguide.net?epg=9&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="eir Sport 1" tvg-logo="" group-title="UK Sports",eir Sport 1 - eir Sport 1
+http://163.172.112.225:80/live.ts?channelId=154&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="eirsport2.ie" tvg-link="http://epgguide.net?epg=9&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="eir Sport 2" tvg-logo="" group-title="UK Sports",eir Sport 2 - eir Sport 2
+http://163.172.112.225:80/live.ts?channelId=155&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Eurosport 1" tvg-logo="" group-title="UK Sports",Eurosport 1 - Eurosport 1
+http://163.172.112.225:80/live.ts?channelId=156&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Eurosport 2" tvg-logo="" group-title="UK Sports",Eurosport 2 - Eurosport 2
+http://163.172.112.225:80/live.ts?channelId=157&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="freesports.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FreeSports" tvg-logo="" group-title="UK Sports",FreeSports - FreeSports
+http://163.172.112.225:80/live.ts?channelId=158&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="Frontrunner" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FrontRunner" tvg-logo="" group-title="UK Sports",FrontRunner - FrontRunner
+http://163.172.112.225:80/live.ts?channelId=159&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="LFC tv" tvg-logo="" group-title="UK Sports",LFC tv - LFC tv
+http://163.172.112.225:80/live.ts?channelId=163&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 1" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 1 - MOTOGP LIVE 1
+http://163.172.112.225:80/live.ts?channelId=165&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2 - MOTOGP LIVE 2
+http://163.172.112.225:80/live.ts?channelId=166&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://163.172.112.225:80/live.ts?channelId=167&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="motorstv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Motorsport TV" tvg-logo="" group-title="UK Sports",Motorsport TV - Motorsport TV
+http://163.172.112.225:80/live.ts?channelId=168&deviceMac=00:1A:79:43:84:1E&uid=3037
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Premier Sports HD" tvg-logo="" group-title="UK Sports",Premier Sports HD - Premier Sports HD
+http://163.172.112.225:80/live.ts?channelId=170&deviceMac=00:1A:79:43:84:1E&uid=3037
+
 
 #EXTINF:-1 tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/deutschetelekom/telekomsport/telekomsport_ox__W1000xh0.jpg" group-title="Deutsch Sports",Telekom Fussball 1
 http://tsfuba-lh.akamaihd.net:80/i/p-2780_u-_l-2780_hls_a-_c-DE_e-14664_i-9852150020170722125810_k-_q-_t-hdvideo/tsfuba01_1@514039/index_3235_av-p.m3u8
