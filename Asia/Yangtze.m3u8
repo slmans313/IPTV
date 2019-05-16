@@ -10,15 +10,17 @@ http://125.227.210.37:8892/VideoInput/play.ts
 http://125.227.210.37:8900/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="中文新闻时事",民视新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png" group-title="中文新闻时事", TVBS 新聞
+http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a1/ERA_News_Channel_logo_2006.jpg/220px-ERA_News_Channel_logo_2006.jpg" group-title="中文新闻时事",年代新聞
 http://125.227.210.37:8901/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="中文新闻时事",中天新聞
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png" group-title="中文新闻时事", 壹新闻
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png" group-title="中文新闻时事", 壹新聞
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.lizhizu.com/uploads/images/20180627/aa19c935d32caf71bdaa087442c2ff8a.jpg" group-title="中文新闻时事",寰宇新闻
+#EXTINF:0 tvg-logo="http://www.lizhizu.com/uploads/images/20180627/aa19c935d32caf71bdaa087442c2ff8a.jpg" group-title="中文新闻时事",寰宇新聞
 http://ms003.happytv.com.tw/live/Btl59TBpbXESUqTf/index.m3u8
-#EXTINF:0 tvg-logo="http://pic.iask.cn/fimg/53787170106.jpg" group-title="中文新闻时事",寰宇新闻2
+#EXTINF:0 tvg-logo="http://pic.iask.cn/fimg/53787170106.jpg" group-title="中文新闻时事",寰宇新聞 2
 http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="Hong Kong/Macau(香港/澳门)",澳亞衛視
@@ -121,7 +123,7 @@ http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 #EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/wlrb.jpg" group-title="Taiwan (臺灣)", 緯來日本
 http://125.227.210.37:8884/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="Taiwan (臺灣)", 緯來體育
-http://125.227.210.37:8897/VideoInput/play.ts
+http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/201612291141158VY55pE.png" group-title="Taiwan (臺灣)",衛視中文臺
 http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z215143213I8.jpg" group-title="Taiwan (臺灣)",衛視西片臺
@@ -134,6 +136,8 @@ http://125.227.210.37:8888/VideoInput/play.ts
 http://125.227.210.37:8907/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png"group-title="Taiwan (臺灣)", 新唐人亚太
 https://live.ntdimg.com/aplive200/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="中央电视",CCTV-1 综合
 http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
