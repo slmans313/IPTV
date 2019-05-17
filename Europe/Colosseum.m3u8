@@ -336,6 +336,10 @@ http://skyfolk.mk/live.m3u8
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/TV_Nova_12_Logo.jpg/270px-TV_Nova_12_Logo.jpg" group-title="Macedonia(Македонија)", Nova 12
 http://151.236.247.171:9000/live/dzunde/dzunde/1.ts
+#EXTINF:-1  tvg-logo="https://24.mk/images/vesti24_logo.png" group-title="Macedonia(Македонија)",24 ЖИВО
+https://hls.telekabel.com.mk:1936/live/11/2500-def.m3u8
+#EXTINF:-1  tvg-logo="https://mojtv.hr/m2/img/ch/30.png" group-title="Macedonia(Македонија)",Cinemania
+https://hls.telekabel.com.mk:1936/live/131/2500-def.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png" group-title="Montenegro(Црна Гора)", Boin
@@ -476,16 +480,6 @@ http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.utv.ro/logo.jpg"  group-title="România", U TV
 http://81.196.0.126/utvedge/utvlive/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/11296_logo_cinemax_2.png" group-title="Serbia(Србија)",Cinemax 2
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/903
-#EXTINF:-1  tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/62586_logo_cinestar_action_srbija.png" group-title="Serbia(Србија)",Cinestar Action
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/901
-#EXTINF:-1  tvg-logo="https://telemach.ba/oec/images/tv_channels/738ed646cbaa94b220e18f3e7ebbb6cb.png" group-title="Serbia(Србија)",Cinestar Fantasy
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/902
-#EXTINF:-1  tvg-logo="https://tvprofil.com/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="Serbia(Србија)",Cinestar Premier 1
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/900
-#EXTINF:-1  tvg-logo="https://tvprofil.com/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="Serbia(Србија)",Cinestar Premier 2
-http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/899
 #EXTINF:-1  tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Serbia(Србија)",Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://mts.spectar.tv/dist/img/mts.png" group-title="Serbia(Србија)",MTS Classic
@@ -498,6 +492,11 @@ http://212.200.102.3:5000/rtp/239.0.0.1:5000
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 #EXTINF:-1  tvg-logo="https://totaltv.tv/oec/images/tv_channels/e51742b4f3b50692d2cb023806964f46.png" group-title="Serbia(Србија)",KCN Svet+ 3
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Serbia(Србија)", EuroSports 1 Србија
+https://hls.telekabel.com.mk:1936/live/141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Serbia(Србија)", EuroSports 2 Србија
+https://hls.telekabel.com.mk:1936/live/151/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia(Slovenija)", Slovenija 1
 https://rtvslolive.akamaized.net/hls/live//584144/tv_slo1/slo1_720p/chunklist.m3u8
