@@ -179,16 +179,17 @@ http://181.189.225.36:8990/UneTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="Jamaica",Trace Tropical
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://static.azteca.com/imagenes/2018/48/logo-2274363.png" group-title="México",Azteca + 
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="México", Animal Planent Latinoamérica
 http://stream.tvpor-internet.net/manifest/01/anim_planet/manifest/01/anim_planet.m3u8
 #EXTINF:-1 tvg-logo="http://c7jalisco.com/images/logo.jpg" group-title="México", C7 Jalisco
-https://5ca3e84a76d30.streamlock.net/c7noticias/videoc7noticias/chunklist_w1160890960.m3u8
+http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w1160890960.m3u8
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/4572.gifg" group-title="México", C7 Cultura
 http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="México",Canal Once 
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1447958550_b1300000_slesp.m3u8
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="México",Canal Cinco
 http://stream.tvpor-internet.net/manifest/04/canal-cinco.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalJudicial.mx.png" group-title="México",Canal Judicial
@@ -199,6 +200,8 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781336/logo_canal%2015%20zacatecas.png" group-title="México", Canal 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cbtelevision.com.mx/wp-content/uploads/2018/10/logo_2x-copia_6af9e860c94fcdc7a5d9ed896a5b3f97.png" group-title="México", CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Cinemax.mx.png" group-title="México",Cinemax Latinoamérica
 http://stream.tvpor-internet.net/manifest/03/c1nemax.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/330px-De_pelicula_logo.png" group-title="México", De Película
@@ -243,12 +246,16 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 http://wowzacontrol.com:1937/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="México",SYFY Latinoamérica
 http://stream.tvpor-internet.net/manifest/02/syfy.m3u8
+#EXTINF:-1 tvg-logo="http://sqcs.com.mx/wp-content/uploads/2019/01/logo_radio_y_tv.png" group-title="México", SQCS
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Space.mx.png" group-title="México",Space HD
 http://stream.tvpor-internet.net/manifest/03/space.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/teleritmo/tlr-final.jpg" group-title="México",Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Telemar_Mexico.jpg" group-title="México", Telemar
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.teleyucatan.gob.mx//files-content/conf/teleyucatan-bco.png" group-title="México", Trecevisión Yucatán 
+http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpacifico.mx/images/_tvp/logos/logo_tvp_vacontigo_02.png" group-title="México", TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="México", TVMÁS
