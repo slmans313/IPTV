@@ -14,7 +14,7 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football",Sky Football
 http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football",Sky Premiere League
-http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:43:84:1E&uid=3037
+http://109.236.92.216:9090/SkySports_Premierleague/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/beINLaLiga.es.png" group-title="Football", beIN LaLiga
 http://stream.tvpor-internet.net/manifest/04/bein-sports-la-liga.m3u8
 #EXTINF:-1 tvg-logo="https://Sport-tv-guide.live/images/stations/a355.png" group-title="Football", Sky Football Italia
@@ -172,7 +172,7 @@ https://hls.telekabel.com.mk:1936/live/31/2500-def.m3u8
 https://hls.telekabel.com.mk:1936/live/41/2500-def.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png"  group-title="UK Sports", Sky Sports Action
-http://62.210.70.119:80/live.ts?channelId=120&deviceMac=00:1A:79:43:84:1E&uid=3037
+http://109.236.92.216:9090/SkySports_Action/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="UK Sports",Sky Sports Arena
 http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:43:84:1E&uid=3037
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="UK Sports",Sky Sports Main Events
