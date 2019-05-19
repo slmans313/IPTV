@@ -7,7 +7,7 @@ http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="中文新闻时事", 東森新聞
 http://125.227.210.37:8892/VideoInput/play.ts 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg" group-title="中文新闻时事", 非凡新闻
-http://125.227.210.37:8900/VideoInput/play.ts
+http://192.240.120.102:8081/live/rec_c20295.m3u8
 #EXTINF:-1 tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="中文新闻时事",民视新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png" group-title="中文新闻时事", TVBS 新聞
@@ -15,7 +15,7 @@ http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a1/ERA_News_Channel_logo_2006.jpg/220px-ERA_News_Channel_logo_2006.jpg" group-title="中文新闻时事",年代新聞
 http://125.227.210.37:8901/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="中文新闻时事",中天新聞
-http://125.227.210.37:8911/VideoInput/play.ts
+http://192.240.120.102:8081/live/rec_c20369.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png" group-title="中文新闻时事", 壹新聞
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.lizhizu.com/uploads/images/20180627/aa19c935d32caf71bdaa087442c2ff8a.jpg" group-title="中文新闻时事",寰宇新聞
@@ -48,15 +48,17 @@ http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="Hong Kong/Macau(香港/澳门)", 鳳凰香港台
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫翡翠台
-http://m.567it.com/jade.m3u8
+http://192.240.120.102:8081/live/rec_c20106.m3u8
+#EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫翡翠台
+http://192.240.120.102:8081/live/rec_c20064.m3u8
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫J2
-http://125.59.176.43:9981/stream/channelid/1745783410
+http://192.240.120.102:8081/live/rec_c20098.m3u8
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫新聞台
-http://125.59.176.43:9981/stream/channelid/133005736
+http://192.240.120.102:8081/live/rec_c20110.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="Hong Kong/Macau(香港/澳门)",無綫明珠
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+http://192.240.120.102:8081/live/rec_c20111.m3u8
 #EXTINF:0 tvg-logo="http://www.badouxia.com/Uploads/vod/2019-01-10/5c36e354f35b9.jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+http://192.240.120.102:8081/live/rec_c20099.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Hong Kong/Macau(香港/澳门)", 天映頻道
 http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="Hong Kong/Macau(香港/澳门)", 天映經典頻道
@@ -68,10 +70,13 @@ http://220.158.149.14:9999/live/TV00000000000000000035@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)", ViuTVsix
 http://58.176.140.127:9981/stream/channelid/932104385
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)", ViuTV
-http://58.176.140.127:9981/stream/channelid/408465505
+http://192.240.120.102:8081/live/rec_c20105.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="Taiwan (臺灣)", BabyFirst臺灣
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/gtv-drama-live.jpg" group-title="Taiwan (臺灣)", 八大戲劇台
+http://192.240.120.102:8081/live/rec_c20274.m3u8
 #EXTINF:-1 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="Taiwan (臺灣)", CNEX 紀實頻道
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CartoonNetwork.mx.png" group-title="Taiwan (臺灣)", 卡通頻道
@@ -92,6 +97,8 @@ http://220.158.149.14:9999/live/TV00000000000000000076@HHZT;LIVE
 http://61.58.60.230:9319/live/10.m3u8
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="Taiwan (臺灣)", 大愛二台
 http://61.58.60.230:9319/live/191.m3u8
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/FTV-NEWS-Logo.jpg" group-title="Taiwan (臺灣)", 民視
+http://192.240.120.102:8081/live/rec_c20334.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Taiwan (臺灣)", 靖天歡樂
 http://61.58.60.230:9319/live/201.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040707_25993.jpg" group-title="Taiwan (臺灣)",  靖天資訊
