@@ -355,12 +355,6 @@ http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png" group-title="地方电视台", 宁夏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Jilin_Television.png" group-title="地方电视台", 吉林卫视
-http://39.135.16.142:6060/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jldspd.jpg" group-title="地方电视台", 吉林都市
-http://222.207.48.30/hls/jlu_jsds.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/China_yanbian_satellite_tv_logo.png/150px-China_yanbian_satellite_tv_logo.png" group-title="地方电视台", 延边卫视
-http://39.135.16.142:6060/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title="地方电视台",西藏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
 
@@ -861,6 +855,23 @@ http://222.207.48.30/hls/hls97.m3u8
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000605/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/gtvdianzitiyu_zbb.png" group-title="地方电视台(辽宁)", GTV 电子体育
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000611/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Jilin_Television.png" group-title="地方电视台(吉林)", 吉林卫视
+http://39.135.16.142:6060/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jldspd.jpg" group-title="地方电视台(吉林)", 吉林都市
+http://222.207.48.30/hls/jlu_jsds.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/China_yanbian_satellite_tv_logo.png/150px-China_yanbian_satellite_tv_logo.png" group-title="地方电视台(吉林)", 延边卫视
+http://39.135.16.142:6060/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv1.jpg" group-title="地方电视台(吉林)", 长春综合
+http://stream.chinactv.com/ctv1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv2.jpg" group-title="地方电视台(吉林)", 长春娱乐
+http://stream.chinactv.com/ctv2/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv3.jpg" group-title="地方电视台(吉林)", 长春市民
+http://stream.chinactv.com/ctv3/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv4.jpg" group-title="地方电视台(吉林)", 长春经济
+http://stream.chinactv.com/ctv4/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ctv5.jpg" group-title="地方电视台(吉林)", 长春汽车
+http://stream.chinactv.com/ctv5/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg" group-title="地方电视台(青海)",青海卫视
 http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
