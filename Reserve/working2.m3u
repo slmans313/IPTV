@@ -7,6 +7,9 @@ http://192.240.120.102:8081/live/rec_c20103.m3u8
 Lotus Macau
 http://192.240.120.102:8081/live/rec_c20338.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="Taiwan (臺灣)",  三立臺灣
+http://125.227.210.37:8903/VideoInput/play.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="中文新闻时事",中天新聞
 http://125.227.210.37:8911/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.badouxia.com/Uploads/vod/2019-01-10/5c36e354f35b9.jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊台
