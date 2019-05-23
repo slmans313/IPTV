@@ -153,8 +153,7 @@ http://111.40.205.76/PLTV/88888888/224/3221225674/index.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav5-1.png" group-title="中文体育频道", 博斯魅力網
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="中文体育频道", 11 Sports 台湾 1
-http://cdn7.woideas.com/tv11.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/sporttv-500x500.jpg" group-title="European Sports", TV All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
@@ -171,36 +170,6 @@ https://hls.telekabel.com.mk:1936/live/31/2500-def.m3u8
 #EXTINF:-1  tvg-logo="http://sportklub.rs/assets/images/programs/epg/w_sk_3.png"  group-title="European Sports", Sport Klub 3
 https://hls.telekabel.com.mk:1936/live/41/2500-def.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png"  group-title="UK Sports", Sky Sports Action
-http://109.236.92.216:9090/SkySports_Action/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="UK Sports",Sky Sports Arena
-http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="UK Sports",Sky Sports Main Events
-http://103.194.171.167:8081/abr_hls/abr_C-2/hls/C-2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="UK Sports",Sky Sports Mix
-http://62.210.70.119:80/live.ts?channelId=132&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="UK Sports",Sky Sports News
-http://62.210.70.119:80/live.ts?channelId=138&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="UK Sports", BT Sport 1
-http://103.194.171.167:8081/abr_hls/abr_C-1/hls/C-1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="UK Sports", BT Sport 2
-http://103.194.171.167:8081/abr_hls/abr_C-3/hls/C-3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="UK Sports", BT Sport 3
-http://163.172.117.134:80/live.ts?channelId=145&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="UK Sports", BT Sport ESPN
-http://163.172.117.134:80/live.ts?channelId=147&deviceMac=00:1A:79:43:84:1E&uid=3037
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="UK Sports", Eurosport 1
-http://163.172.112.225:80/live.ts?channelId=156&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="UK Sports", Eurosport 2
-http://163.172.112.225:80/live.ts?channelId=157&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="UK Sports", FreeSports
-http://163.172.112.225:80/live.ts?channelId=158&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-logo="https://www.frontrunner.tv/wp-content/uploads/2016/11/footer-logo.png" group-title="UK Sports", FrontRunner
-http://163.172.112.225:80/live.ts?channelId=159&deviceMac=00:1A:79:43:84:1E&uid=3037
-#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK Sports", Premier Sports 
-http://163.172.112.225:80/live.ts?channelId=170&deviceMac=00:1A:79:43:84:1E&uid=3037
 
 
 #EXTINF:-1 tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/deutschetelekom/telekomsport/telekomsport_ox__W1000xh0.jpg" group-title="Deutsch Sports",Telekom Fussball 1
