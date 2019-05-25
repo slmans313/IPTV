@@ -15,7 +15,7 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/67.ts
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="أنباء",Al Jazeera
 http://ott-cdn.ucom.am/s69/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.nile.eg/wp-content/themes/nileeg/images/logo.png" group-title="أنباء",Al Nile
-http://62.210.141.179:8000/ibrahim/123456/231
+http://109.236.92.216:9090/nile_news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ecJLWk.png" group-title="أنباء", Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/ann_news_syria_channel_live_online_free_arabic_channel.jpg" group-title="أنباء", ANN
@@ -117,6 +117,8 @@ http://213.162.202.9:8000/play/a00y/index.m3u8
 https://upload.wikimedia.org/wikipedia/ar/archive/b/b8/20170615234205%21Arabica_music.png
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/b/b8/20170615234205%21Arabica_music.png" group-title="Lebanon (لبنان)",Arabica
 http://95.170.215.124/live/disk1/Arabica/anevia1/Arabica.m3u8
+#EXTINF:-1 tvg-logo="https://aghaniaghani.com/images/logo.png group-title="Lebanon (لبنان)",Aaghani
+http://109.236.92.216:9090/Aghani/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="Lebanon (لبنان)",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="Lebanon (لبنان)",Al Jadeed
@@ -257,6 +259,8 @@ http://176.10.117.12:8081/aypitv/cira/playlist.m3u8
 http://62.210.141.179:8000/ibrahim/123456/218
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/lana-95x95.gif" group-title="Syria(سوريا)",Lana TV
 http://213.162.202.9:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/lana-95x95.gif" group-title="Syria(سوريا)",Lana TV
+http://109.236.92.216:9090/LANA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.orient-news.net/tamplate/2018/shared/images/Orient-NET1.png" group-title="Syria(سوريا)",Orient
 http://62.210.141.179:8000/ibrahim/123456/401
 #EXTINF:-1 tvg-logo="http://ronahi.tv/wp-content/uploads/2018/06/logo.png" group-title="Syria(سوريا)", Ronahi TV
@@ -296,6 +300,8 @@ http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1  tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE (ماراتيين)",Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fatafeat_Logo_Final.jpg/255px-Fatafeat_Logo_Final.jpg" group-title="UAE (ماراتيين)",Fatafeat
+http://109.236.92.216:9090/Fatafeat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="UAE (ماراتيين)",Fox Action Movies
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://majid.ae/wp-content/themes/majid/images/logo.png" group-title="UAE (ماراتيين)",Majid
