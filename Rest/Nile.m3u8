@@ -46,6 +46,10 @@ http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
 http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
 #EXTINF:-1 tvg-logo="https://kingdomsat.com/wp-content/uploads/2017/07/logo.png" group-title="Egypt (مَصر)", Al Malakoot
 http://213.162.202.9:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ySPt82O4uP0/U2YqJmty5QI/AAAAAAAABJg/m91h5epESfE/s1600/Cairo-Zaman.png" group-title="Egypt (مَصر)",  Cairo Cinema
+http://109.236.92.216:9090/Cairo_Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/8035_logo_cairo_drama.png" group-title="Egypt (مَصر)",  Cairo Drama
+http://109.236.92.216:9090/Cairo_Drama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBC.png" group-title="Egypt (مَصر)", CBC 
 http://95.170.215.124/live/disk1/CBC/anevia1/CBC.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbc-eg.com/assets/images/cbc-drama-logo.png" group-title="Egypt (مَصر)",CBC Drama
@@ -64,14 +68,12 @@ http://95.170.215.124/live/disk1/dmc/anevia1/dmc.m3u8
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
 #EXTINF:-1 tvg-logo="http://www.mazzikagroup.com/Images/mazzika_logo.png" group-title="Egypt (مَصر)", Mazzika
 http://95.170.215.124/live/disk1/Mazzika/anevia1/Mazzika.m3u8
+#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/cinema/cinema.png" group-title="Egypt (مَصر)",Nile Cinema
+http://109.236.92.216:9090/nile_cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.niletc.tv/images/comedy/comedy.png" group-title="Egypt (مَصر)",Nile Comedy
-http://62.210.141.179:8000/ibrahim/123456/234
-#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/culture/culture.png" group-title="Egypt (مَصر)",Nile Culture
-http://62.210.141.179:8000/ibrahim/123456/236
-#EXTINF:-1 tvg-logo="https://www.niletc.tv/images/family/family.png" group-title="Egypt (مَصر)",Nile Family
-http://62.210.141.179:8000/ibrahim/123456/228
+http://109.236.92.216:9090/nile_comedy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="Egypt (مَصر)",Nile Life
-http://62.210.141.179:8000/ibrahim/123456/232
+http://109.236.92.216:9090/NileLife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="Egypt (مَصر)",Nile Drama
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="Egypt (مَصر)", MBC Masr
