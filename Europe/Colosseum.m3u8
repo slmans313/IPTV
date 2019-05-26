@@ -202,10 +202,6 @@ http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
 http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://ulango.tv/uploads/channels/791293/logo_rtr.png" group-title="Italy(Italia)",RTTR TV Trento
 http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/RTV_San_Marino_2013.png" group-title="Italy(Italia)",RTV San Marino
-http://o4.senape.tv:1935/webtv_live4/_definst_/0QBXFQ2L0I5P/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781395/logo_rtv%20san%20marino%20sport.png" group-title="Italy(Italia)",RTV San Marino Sport
-http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/home/logo_interne.gif" group-title="Italy(Italia)",Senato TV
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781590/logo_sicilia%20media%20tv.png" group-title="Italy(Italia)",Sicilia Media TV
@@ -465,7 +461,7 @@ http://stream.adunity.com/b1/b1_640-.m3u8
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="http://columna.mipadoweb.ro/wp-content/uploads/2019/01/lg2-320x92-300x86.png" group-title="România",Columna
 http://77.36.61.147/hls/channel4/bitrate4.m3u8
-#EXTINF:-1 tvg-logo="http://www.digi24.ro/static/theme-1616-repo/dist/assets/imgs/digi24.ro-logo.png" group-title="România", Digi 24
+#EXTINF:-1 tvg-logo="https://www.digi24.ro/static/theme-repo/bin/images/digi24-logo.png" group-title="România", Digi 24
 http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/DigiWorld.hu.png" group-title="România", Digi World
 http://37.152.135.169:9002/play/a005/index.m3u8
@@ -478,9 +474,9 @@ http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.utv.ro/logo.jpg"  group-title="România", U TV
 http://81.196.0.126/utvedge/utvlive/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-1200-630.png" group-title=San Mario",RTV San Mario
+#EXTINF:-1  tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-1200-630.png" group-title="San Mario",RTV San Mario
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1  tvg-logo="https://ulango.tv/uploads/channels/3781395/logo_rtv%20san%20marino%20sport.png" group-title=San Mario",RTV Sports
+#EXTINF:-1  tvg-logo="https://ulango.tv/uploads/channels/3781395/logo_rtv%20san%20marino%20sport.png" group-title="San Mario",RTV Sports
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita_t64SEQoNzIwcCk=.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/rs/CineStarAction.rs.png" group-title="Serbia(Србија)",Cinestar Action
