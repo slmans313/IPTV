@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg" group-title="中文新闻时事", 非凡新闻
-http://125.227.210.37:8900/VideoInput/play.ts
-TVBS
-http://192.240.120.102:8081/live/rec_c20103.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png" group-title="中文新闻时事", 壹新聞
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8
 
@@ -15,15 +11,6 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunkl
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Pearl.png" group-title="Hong Kong/Macau(香港/澳门)",無綫明珠
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 
-http://192.240.120.102:8081/live/rec_c20363.m3u8
-Lotus Macau
-http://192.240.120.102:8081/live/rec_c20338.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="Taiwan (臺灣)",  三立臺灣
-http://125.227.210.37:8903/VideoInput/play.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="中文新闻时事",中天新聞
-http://125.227.210.37:8911/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.badouxia.com/Uploads/vod/2019-01-10/5c36e354f35b9.jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/YMON.png" group-title="News",Your Money
