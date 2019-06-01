@@ -212,6 +212,8 @@ http://almanyadaturktv.radyotelekomtv.com:1935/almanyadaturktv/almanyadaturktv/c
 http://streams2.livetv.az/turk/beyaz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="Turkey (Türkiye)",Bloomberg HT
 http://streams2.livetv.az/turk/bloomberg_stream/playlist.m3u8
+#EXTINF:0  tvg-logo="http://cantv.tv/wp-content/uploads/2019/04/cropped-can_tv_web_site_logo_00-300x141.png" group-title="Turkey (Türkiye)", CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:0  tvg-logo="https://sport-tv-guide.live/images/tv-station-cay-tv-895.png" group-title="Turkey (Türkiye)", CAY TV 
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 #EXTINF:0  tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Turkey (Türkiye)", Cartoon Network Türkiye
@@ -275,7 +277,9 @@ http://streams2.livetv.az/turk/showtv/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.kesintisiztv.com/kanallar/tbmm-tv.png" group-title="Turkey (Türkiye)", TBMM
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:0  tvg-logo="https://www.teve2.com.tr/assets/img/teve2logo.png" group-title="Turkey (Türkiye)",Teve2
-http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8 
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:0  tvg-logo="http://webtvonlive.com/wp-content/uploads/tv4-webtvonlive-com.jpg" group-title="Turkey (Türkiye)",TV4
+https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://i.ytimg.com/vi/YA8T63Wg-Dk/hqdefault.jpg" group-title="Turkey (Türkiye)", TJK TV 
 http://tjktv.ercdn.net/tjktv_576p.m3u8
 #EXTINF:-1  tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="Turkey (Türkiye)",TRT 1
