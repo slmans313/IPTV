@@ -42,6 +42,8 @@ http://121.156.46.79/live/10701.m3u8?sid=60720
 http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://eimg.smzdm.com/201804/10/5acc23e7420729424.png" group-title="Football", PP 体育
 http://112.17.40.140/PLTV/88888888/224/3221226429/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-news-bcdn-ll.dailyhunt.in/cmd/resize/400x400_60/fetchdata13/images/03/93/40/039340311761138995ad3a8af7de4fd6.jpg" group-title="Football",Sony Ten 2
+https://stream10.joovox.com/Ten2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://cdn01.supersoccer.tv/v3/img/ss.png" group-title="Football",Super Soccer TV
 http://210.210.155.35/uq2663/h/h20/01.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Football",Man U TV
@@ -52,12 +54,8 @@ https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="Football", Real Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football", Sky Sports Football
-http://primestreams.tv:826/jamesfamily/jamesfamily/1591
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football", Sky Sports Premiere League
-http://primestreams.tv:826/jamesfamily/jamesfamily/1650
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/FOXSoccerPlus.us.png" group-title="Football",Fox Soccer Plus
-http://primestreams.tv:826/jamesfamily/jamesfamily/33472
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Cricket", DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
@@ -71,6 +69,11 @@ https://stream10.joovox.com:443/StarSports2/index.m3u8
 https://stream10.joovox.com/StarSportsSelectHD1/index.m3u8
 #EXTINF:-1 tvg-logo="http://kanchanskytv.com.np/wp-content/uploads/2018/12/8-star-select-hd2-large.jpg" group-title="Cricket",Star Sport Select 2
 https://stream10.joovox.com/StarSportsSelectHD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.cricasia.com/wp-content/uploads/2018/04/Watch-Sony-Ten-3-Tv-Channel-Live-Streaming-810x456.png" group-title="Cricket",Sony Ten 3
+https://stream10.joovox.com/Ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Cricket",Sony Six
+https://stream10.joovox.com/SixHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf", Sky Sports Golf
 http://primestreams.tv:826/jamesfamily/jamesfamily/1592
@@ -200,6 +203,8 @@ http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_105.png" group-title="Asian Sports",True Sports 7
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="Asian Sports",Sony Ten
+https://stream10.joovox.com/TenHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="中文体育频道", beIN Sports 2 (香港)
