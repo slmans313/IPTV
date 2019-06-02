@@ -50,6 +50,8 @@ https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8 
 #EXTINF:0 tvg-logo="https://www.firstonetv.live/images/logos/es/REAL_MADRID.png" group-title="Football", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0 tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="Football", Real Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football", Sky Sports Football
 http://primestreams.tv:826/jamesfamily/jamesfamily/1591
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football", Sky Sports Premiere League
@@ -71,7 +73,9 @@ https://stream10.joovox.com/StarSportsSelectHD1/index.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf", Sky Sports Golf
 http://primestreams.tv:826/jamesfamily/jamesfamily/1592
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
-http://161.0.157.9/PLTV/88888888/224/3221226812/01.m3u8
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf 2
+https://xyss3.herokuapp.com/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 #EXTINF:-1 tvg-logo="http://www.tgckorea.com/resources/images/golf/top_logo.png" group-title="Golf", Golf Channel Korea
 http://121.156.46.79/live/10291.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png"  group-title="Golf",JTBC Golf
