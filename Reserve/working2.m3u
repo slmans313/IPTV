@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Mezzo.fr.png" group-title="France(français)",Mezzo
+http://ott-cdn.ucom.am/s35/04.m3u8
+#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/447/bigposter/618337.png" group-title="Russia (Россия)",RTG HD
+http://ott-cdn.ucom.am/s63/04.m3u8
+#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/120/bigposter/591604.png" group-title="Russia (Россия)",RTG TV
+http://ott-cdn.ucom.am/s80/04.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1024px-VTC1_logo_2018.svg.png" group-title="Vietnam(Việt Nam)", VTC1
 https://cdn.vtc.gov.vn/live/eds/VTC1_1/hlsv5/VTC1_1-audio_20000=212400-video=2821200.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/VTC3_logo_2018.svg/1024px-VTC3_logo_2018.svg.png" group-title="Vietnam(Việt Nam)", VTC3
