@@ -32,9 +32,9 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 https://video-4-306.rutube.ru/stream/10113616/9f87a9a0cecbe773be6fddcbd93585ac/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTD.ru.png" group-title="Russia (Россия)",RT Д Русский
 http://rt-doc.secure.footprint.net/1101-inadv-qidx-1k_v3.m3u8
-#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/447/bigposter/618337.png" group-title="Russia (Россия)",RTG
-http://ott-cdn.ucom.am/s63/04.m3u8
-#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/120/bigposter/591604.png" group-title="Russia (Россия)",RTG
+#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/447/bigposter/618337.png" group-title="Russia (Россия)",RTG HD
+http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/210/index.m3u8
+#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/120/bigposter/591604.png" group-title="Russia (Россия)",RTG TV
 http://ott-cdn.ucom.am/s80/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia (Россия)",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -44,6 +44,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Russia (Россия)",Мир International
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/ntv.png" group-title="Russia (Россия)", НТВ
+http://91.231.219.145:80/tv_ntv_HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Russia (Россия)", ТВ3
 http://195.88.254.8:8080/tv3.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/200px-Zvezda_logo.svg.png" group-title="Russia (Россия)",Звезда
@@ -291,8 +293,6 @@ http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://nikatv.ru/public/img/logo2.png"group-title="Russia (Россия)",Ника
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/ntv.png" group-title="Russia (Россия)", НТВ
-http://91.231.219.145:80/tv_ntv_HD/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.ntvmir.ntv.ru/img/rus/logo-mir.gif" group-title="Russia (Россия)",НТВ мир
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-logo="http://saransk-tv.ru/assets/images/slider/170321-pic-01.jpg" group-title="Russia (Россия)", НТМ Мордовия
