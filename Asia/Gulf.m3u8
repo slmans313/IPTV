@@ -8,6 +8,8 @@ http://213.162.202.9:8000/play/a01j/index.m3u8
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 tvg-logo="https://www.mbc.net/en/corporate/channels/alhadath/main/0/imageBinary/ab183bf5467dc16c6e230e38b9d1f9f5029b4a90/alhadath.png" group-title="أنباء", Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
+#EXTINF:-1 tvg-logo="http://www.alhayat.com/themes/hayat/images/alhayat-logo.jpg" group-title="أنباء",Al-Hayat
+http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="أنباء",Al Jazeera
 http://ott-cdn.ucom.am/s69/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.nile.eg/wp-content/themes/nileeg/images/logo.png" group-title="أنباء",Al Nile
@@ -50,7 +52,8 @@ http://live.pamir.tv/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/tracks-v1a1/mono.m
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/a/ahmadsharifi/Payameafghan%20LOGO.png" group-title="Afghanistan(افغانستان)", Payam-E-Afghan TV
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/602/live12345/payameafghantv.stream/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:0 tvg-logo="http://www.jrtv.gov.jo/templates/jrtv_home/images/logomain.png" group-title="Jordan(الْأُرْدُنّ)",Jordan TV
+http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kFNTsJ.png" group-title="Jordan(الْأُرْدُنّ)",MB Moghraby
 http://213.162.202.9:8000/play/a01t/index.m3u8
 
@@ -144,7 +147,9 @@ http://livecdnh2.tvanywhere.ae:80/hls/jeem/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asrar-nour.png" group-title="Saudi Arabia(السعودية)", Asrar Nour
 http://213.162.202.9:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Saudi Arabia(السعودية)", Al Quran Al Kareem (Mecca)
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png",Al Sunna (Medina)
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/5022/d1_tv_sa.png" group-title="Saudi Arabia(السعودية)", Dewan TV
 http://79.158.8.150:7001/play/a0ca
 #EXTINF:-1 tvg-logo="http://www.sa24tv.com/images/1.jpg" group-title="Saudi Arabia(السعودية)", SA-24 Sports
@@ -184,6 +189,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="UAE (ماراتيين)", Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-logo="http://www.ajmantv.com/img/ajmantv_logo.png" group-title="UAE (ماراتيين)",Ajman
+http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="UAE (ماراتيين)", Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png" group-title="UAE (ماراتيين)", Dubai One
@@ -222,6 +229,8 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="UAE (ماراتيين)",Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:-1 tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg" group-title="UAE (ماراتيين)",Wanasah
+http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 #EXTINF:-1 tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="UAE (ماراتيين)",YAS Sports
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
