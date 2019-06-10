@@ -17,8 +17,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Congo(Kikongo)",Tracekitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/eg/alHayat_95x39.gif" group-title="Egypt (مَصر)", Al Hayah
-http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/AlKaheraWalNas.png" group-title="Egypt (مَصر)", Al Kahera Wal Nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlNaharTV.png" group-title="Egypt (مَصر)", Al-Nahar TV
@@ -175,10 +173,19 @@ http://37.235.38.67:9981/stream/channelid/1285181033?profile=pass
 #EXTINF:-1 tvg-logo="http://www.africaradios.com/wp-content/uploads/2017/10/Rts2-Senegal-250x160.jpg" group-title="Sénégal"",RTS 2
 http://37.235.38.67:9981/stream/channelid/1736536993?profile=pass
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1008971919314612224/S3gl9AN7_400x400.jpg" group-title="Somalia(الصومال‎)",SLNTV
+http://213.162.202.9:8000/play/a01o/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="South Africa",Trace Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://mahgoubsons.com/wp/wp-content/uploads/2017/10/BNTV_logo.png" group-title="Sudan(السودان‎)", Blue Nile
+http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="Tunisia(تونس)", Neesma
+http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://thedronemedia.ug/wp-content/uploads/2017/07/salt.png" group-title="Uganda", Salt TV
 http://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/index_150_av-p.m3u8
