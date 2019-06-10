@@ -36,8 +36,6 @@ http://espn.tmedia.me/cache/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/NBA_on_ESPN_logo_2016%E2%80%93present.jpg" group-title="ESPN",ESPN NBA
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://image.jtbc3foxsports.joins.com/common/logo.png" group-title="Football",JTBC 3 Fox
-http://121.156.46.79/live/10701.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="Football",CCTV风云足球
 http://39.135.16.142:6060/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://eimg.smzdm.com/201804/10/5acc23e7420729424.png" group-title="Football", PP 体育
@@ -85,8 +83,6 @@ http://bb1.qat5.ru:80/testtest/testtest/17442
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf 2
 https://xyss3.herokuapp.com/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-#EXTINF:-1 tvg-logo="http://www.tgckorea.com/resources/images/golf/top_logo.png" group-title="Golf", Golf Channel Korea
-http://121.156.46.79/live/10291.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png"  group-title="Golf",JTBC Golf
 http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8
 #EXTINF:-1 tvg-logo="https://www.poscojoongwoo.com/resources/img/front/site/img_sitelogo19.jpg"  group-title="Golf",SBS Golf
@@ -181,22 +177,14 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 http://210.210.155.35/qwr9ew/s/s48/01.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="Asian Sports",  MNC Sports
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://www.billiardstv.co.kr/image/common/sports1_logo.png"  group-title="Asian Sports",Billard TV
-http://121.156.46.79/live/10081.m3u8?sid=60720
-#EXTINF:-1 tvg-logo="http://www.ibsportstv.com/resources/images/tv/top_logo.png"  group-title="Asian Sports",IB Sports
-http://121.156.46.79/live/10221.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/KBS_N_Sports.png"  group-title="Asian Sports",KBS N Sports
 http://122.129.115.21:1935/edgedol/_definst_/tao123/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.spotv.net/images/onair_spotv.png"  group-title="Asian Sports",SPOTV
 http://122.129.115.21:1935/edgedol/_definst_/tao124/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.spotv.net/images/onair_spotv_2.png"  group-title="Asian Sports",SPOTV 2
 http://122.129.115.21:1935/edgedol/_definst_/tao125/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.skylife.co.kr/upload/channel/file826d61b3-cfbf-44b6-b0a1-3cb93a814b7d.png"  group-title="Asian Sports",Sky Sports
-http://121.156.46.79/live/10441.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://tv.skylife.co.kr/upload/channel/file826d61b3-cfbf-44b6-b0a1-3cb93a814b7d.png"  group-title="Asian Sports",SBS Sports
 http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mbc_kr_sports_plus.png" group-title="Asian Sports", MBC Sports
-http://121.156.46.79/live/10431.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_097.png" group-title="Asian Sports", True Sports 1
 http://27.254.149.109:8081/tumlive/TruesportHD1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/TrueSport-HD2-320.png" group-title="Asian Sports", True Sports 2
