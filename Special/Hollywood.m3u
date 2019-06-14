@@ -109,6 +109,8 @@ http://185.246.209.109:8080/FOX/index.m3u8
 http://210.210.155.35/uq2663/h/h19/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment", HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Lifetime.th.png" group-title="Entertainment", Lifetime
+http://62.210.27.219:80/live.ts?channelId=49&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Kix.uk.png" group-title="Entertainment",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Luxe_TV.png/250px-Luxe_TV.png" group-title="Entertainment",Luxe
@@ -125,6 +127,8 @@ http://170.250.96.20:8117/streams/TBS.m3u8
 http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Entertainment",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Entertainment",TLC
+http://62.210.27.219:80/live.ts?channelId=47&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png" group-title="Entertainment",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Universal.uk.png" group-title="Entertainment",Universal
@@ -159,10 +163,16 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 http://161.0.157.5/PLTV/88888888/224/3221226253/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Education",Discovery
 http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryDMAX.uk.png" group-title="Education",DMax
+http://62.210.27.219:80/live.ts?channelId=37&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryHistory.uk.png" group-title="Education", Discovery History
+http://62.210.27.219:80/live.ts?channelId=33&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="Education", Discovery Science
-http://123.249.76.157:10024/bysid/90
+http://62.210.27.219:80/live.ts?channelId=34&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryShed.uk.png" group-title="Education",Discovery Shed
 http://62.210.27.219:80/live.ts?channelId=36&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryTurbo.uk.png" group-title="Education",Discovery Turbo
+http://62.210.27.219:80/live.ts?channelId=35&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/HistoryChannel.ph.png" group-title="Education",History
 http://62.210.27.219:80/live.ts?channelId=43&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="Education",Investigation Discovery 
@@ -273,7 +283,7 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="Music",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Music", MTV
-http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+http://62.210.27.219:80/live.ts?channelId=50&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="Music",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k1l3hbT.jpg" group-title="Music",SignMe TV
