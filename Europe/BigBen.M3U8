@@ -20,6 +20,8 @@ http://185.53.163.214:5678/ipvt_004
 http://185.53.163.214:5678/ipvt_005
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Alibi.uk.png" group-title="UK", Alibi
 http://62.210.27.219:80/live.ts?channelId=59&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Blaze.uk.png" group-title="UK", Blaze
+http://62.210.27.219:80/live.ts?channelId=38&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK", British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-video=150000-audio_AACL_eng_65600_120=65600.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK",Channel 4
@@ -254,9 +256,6 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 tvg-logo="https://mediaweb.wpxi.com/theme/images/logo-main-wpxi.png" group-title="NBC Regional(USA)",NBC 11 Pittsburgh (WPXI)
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/WWBT_NBC_12_logo.svg/300px-WWBT_NBC_12_logo.svg.png" group-title="NBC Regional(USA)",NBC 12 Richmond (WWBT)
-http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/WHO-TV_logo.png/225px-WHO-TV_logo.png" group-title="NBC Regional(USA)",NBC 13 Des Moines (WHO-DT)
 http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/index_1900_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://media.graytvinc.com/designimages/site+logo+368x132+Depth.png" group-title="NBC Regional(USA)",NBC 15 Madison (WMTV)
