@@ -99,12 +99,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png"  group-title="Entertainment", Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png"  group-title="Entertainment", Food Network
+http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/300px-Fine_Living_logo.svg.png" group-title="Entertainment",  Fine Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",  Fox
 http://185.246.209.109:8080/FOX/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FYI.us.png" group-title="Entertainment",  Fyi
-http://27.254.149.109:8081/tumlive/fyi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="Entertainment",  Gem TV Asia
 http://210.210.155.35/uq2663/h/h19/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment", HITS
@@ -162,26 +162,24 @@ http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="Education", Discovery Science
 http://123.249.76.157:10024/bysid/90
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryShed.uk.png" group-title="Education",Discovery Shed
-http://195.181.169.148:80/Discovery_Shed_UK_Eng/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryTurbo.uk.png" group-title="Education",Discovery Turbo
-http://123.249.76.157:10024/bysid/100
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/DiscoveryVelocity.ca.png" group-title="Education", Discovery Velocity
-http://195.181.169.148:80/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
+http://62.210.27.219:80/live.ts?channelId=36&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/HistoryChannel.ph.png" group-title="Education",History
+http://62.210.27.219:80/live.ts?channelId=43&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="Education",Investigation Discovery 
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="Education",Planet Green
 http://80.80.160.168/live/4/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Education", Crime & Investigation
 http://210.186.80.171:9000/0.ts
-#EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_DO.png"group-title="Education",CGTN Documentary 
-http://39.135.16.142:6060/PLTV/88888888/224/3221225670/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Education", Nat Geo
-http://185.246.209.220:8080/natgeo_hd/mpegts
+http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Education", Nat Geo Wild
-http://121.156.46.79/live/10231.m3u8?sid=60720
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Education", Nat Geo People
-http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:48:53:86&uid=471
 
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AMC.kr.png" group-title="Movies",AMC
+http://62.210.27.219:80/live.ts?channelId=24&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="Movies",Cinemaworld
 http://45.126.83.51:443/uq2663/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.pngg" group-title="Movies",Fox Family Movies
@@ -204,6 +202,8 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 http://espn.tmedia.me/cache/spikeus.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Movies", Paramount HD
 http://185.246.209.109:8080/PARAMOUNT/mpegts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="Movies",SYFY
+http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime.us.png" group-title="Movies", Showtime
 http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies
