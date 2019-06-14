@@ -43,13 +43,17 @@ http://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/STV.uk.png" group-title="UK", STV
 http://185.53.163.214:5678/ipvt_011
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Sky1.uk.png" group-title="UK",Sky 1
-http://bb1.qat5.ru:80/testtest/testtest/201
+http://62.210.27.219:80/live.ts?channelId=25&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Sky2.uk.png" group-title="UK",Sky 2
+http://62.210.27.219:80/live.ts?channelId=27&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK", TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Yesterday.uk.png" group-title="UK",Yesterday
-http://195.181.169.148/YESTERDAY_UK_ENG/mono.m3u8
+http://62.210.27.219:80/live.ts?channelId=66&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UK",UTV
 http://185.53.163.214:5678/ipvt_012
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="USA/Canada",Animal Planet (Canada)
 http://80.80.160.168/live/1/1500000/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="USA/Canada",CBC
