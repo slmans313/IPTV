@@ -52,6 +52,10 @@ http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w469404394_b328000
 #EXTINF:-1 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="News",CGTN English
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Germany(Deutschland)", Das Erste
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
+http://173.208.193.162:8080/zdf/index.m3u8
+
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Music_Makes_One_Mnet_Logo.png/300px-Music_Makes_One_Mnet_Logo.png" group-title="South Korea(한국어)", M Net
 http://199.21.149.42:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.M3U8
@@ -59,8 +63,7 @@ http://199.21.149.42:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live
 #EXTINF:-1 tvg-logo="https://www.poscojoongwoo.com/resources/img/front/site/img_sitelogo19.jpg"  group-title="Golf",SBS Golf
 http://199.21.149.43:9083/live/CA42-live1/aU/Zx/aUZxH_RUOehMBmBXwZjwjQ==/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.skylife.co.kr/upload/channel/file826d61b3-cfbf-44b6-b0a1-3cb93a814b7d.png"  group-title="Asian Sports",Sky Sports
-http://199.21.149.43:9083/live/CA42-live1/i2/nf/i2nfLOej2Axq88UtJWw3DQ==/live.m3u8
+
 
 #EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/KBS2.png" group-title="South Korea(한국어)",KBS2
 http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
