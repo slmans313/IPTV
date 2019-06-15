@@ -802,8 +802,21 @@ http://87.252.229.252:8083/pinsk
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2016-03/1458548411_9a02d429778be68c4f235620d263a1ad.jpg" group-title="Belarus(Беларусь)",ОНТ.BY
 http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eesti_Televisioon_Logo.svg/300px-Eesti_Televisioon_Logo.svg.png" group-title="Estonia (Eesti)",ETV
+http://95.153.22.122:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/300px-ETV2_logo.svg.png" group-title="Estonia (Eesti)",ETV 2
+http://95.153.22.122:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="Estonia (Eesti)",ETV +
+http://95.153.22.122:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Kanal_2_logo.svg/225px-Kanal_2_logo.svg.png" group-title="Estonia (Eesti)",Kanal 2
+http://95.153.22.122:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://kanal11.postimees.ee/img/header-logo.png" group-title="Estonia (Eesti)",Kanal 11
+http://95.153.22.122:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://kanal12.postimees.ee/img/header-logo.png" group-title="Estonia (Eesti)",Kanal 12
+http://95.153.22.122:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="Estonia (Eesti)",Tallinna
-http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
+http://95.153.22.122:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sports_full_color_35.png/300px-Sports_full_color_35.png" group-title="Estonia (Eesti)",TV Play Sports
 http://88.216.48.14:80/tvplaysphd/live.m3u8
 
