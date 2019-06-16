@@ -782,8 +782,10 @@ http://83.56.24.104:9981/stream/channelid/1329177212?ticket=E31854C8621FC2E0886A
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/846763000275107840/0enf3YUj_400x400.jpg" group-title="Sweden(Sverige)", DI TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/SRF_1_logo.svg/1200px-SRF_1_logo.svg.png" group-title="Switzerland", SRF 1
-http://176.10.117.18:8081/aypitv/srf1_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RTS_Un_logo_2015.svg/300px-RTS_Un_logo_2015.svg.png"  group-title="Switzerland", RTS Un
+https://s6.tntendirect.com/rts1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RTS_Deux_logo_2015.svg/300px-RTS_Deux_logo_2015.svg.png" group-title="Switzerland", RTS Duex
+https://s6.tntendirect.com/rts2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C2x3L4NQbRQ/WVPJYoRXHgI/AAAAAAAAHgo/34ndMIW1CjgIHR9lSb_wDRd_EF-3C6GqQCLcBGAs/s1600/srf_2_ch.png" group-title="Switzerland", SRF Zwei
 http://176.10.117.18:8081/aypitv/SRF2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SRF_info_logo.svg/1200px-SRF_info_logo.svg.png" group-title="Switzerland", SRF Info
