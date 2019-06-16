@@ -194,15 +194,14 @@ http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1Fqzl
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FranceO.fr.png"  group-title="France(français)", France Ô
 http://109.236.92.216:9090/FRANCEO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France2.fr.png"  group-title="France(français)",  France 2
 https://s6.tntendirect.com/france2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png"  group-title="France(français)",  France 3
 http://109.236.92.216:9090/France3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France4.fr.png"  group-title="France(français)",  France 4
+https://s6.tntendirect.com/france4/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France5.fr.png"  group-title="France(français)",  France 5
 https://s6.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tntendirect.com/images/channel/6ter.png"  group-title="France(français)",  6ter
@@ -215,8 +214,8 @@ http://ec.playmedia.fr/beblack/africa/playlist.m3u8
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3784017_logo_beblack_classik.png"  group-title="France(français)",BeBlack Classik
 http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_FR.png"  group-title="France(français)", CGTN France
-http://39.135.16.142:6060/PLTV/88888888/224/3221225665/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/C8.fr.png"  group-title="France(français)", C8
+https://s6.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.d5tv.fr/fond-d5-v3.png"  group-title="France(français)", D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png"  group-title="France(français)", Euronews
@@ -231,7 +230,7 @@ https://s6.tntendirect.com/gulli/live/chunks.m3u8
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/bt-gongmax-hover.jpg"  group-title="France(français)", Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FTEL.2Enews.2F2018.2F01.2F11.2Fb85737c6-5e58-47cf-bdbd-c35240f61ec3.2Ejpeg/643x361/crop-from/top/la-chaine-l-equipe-21-va-changer-de-nom.jpg"  group-title="France(français)", L'Équipe 21
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/LEquipe21.fr.png"  group-title="France(français)", L'Équipe 21
 https://s6.tntendirect.com/lequipe21/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1504905935/6907.png"  group-title="France(français)", La Chaine Normande
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
@@ -245,8 +244,10 @@ https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 http://rt-france.secure.footprint.net/1107-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_T%C3%A9b%C3%A9o.svg/1200px-Logo_T%C3%A9b%C3%A9o.svg.png" group-title="France(français)",Tébéo
 https://live2.awedia.com/hls/tebeo_hi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="France(français)",TF1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1.fr.png" group-title="France(français)",TF1
 https://s6.tntendirect.com/tf1/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="France(français)",TF1 Séries Films
+https://s6.tntendirect.com/hd1/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101077726612676608/tS3DbFx0_400x400.png" group-title="France(français)", Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="France(français)", TV5 Info
@@ -265,6 +266,8 @@ http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="France(français)",  TVM Est parisien
 https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/W9.fr.png" group-title="France(français)", W9
+https://s1.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ZEEMagicLogo.jpg" group-title="France(français)",  Zee Magic
 http://pockettv.xyz/api/zee.m3u8?c=magic
 
