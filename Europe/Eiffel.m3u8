@@ -216,6 +216,8 @@ http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 http://ec.playmedia.fr/beblack/classik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/C8.fr.png"  group-title="France(français)", C8
 https://s6.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CStar.fr.png"  group-title="France(français)", CStar
+https://s6.tntendirect.com/d17/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.d5tv.fr/fond-d5-v3.png"  group-title="France(français)", D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png"  group-title="France(français)", Euronews
@@ -238,6 +240,8 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/208/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.monacochannel.mc/var/monaco/storage/images/media/monaco-channel/icones-chaines/logo-monaco-info-2018/5096065-2-fre-FR/Logo-Monaco-Info-2018_40x40.png" group-title="France(français)",Monaco Info
 http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/NRJ12.fr.png" group-title="France(français)",NRJ 12
+https://s6.tntendirect.com/nrj12/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1280px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France(français)", RMC Découverte
 https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/200px-RT-France-logo.svg.png" group-title="France(français)", RT français
@@ -248,6 +252,10 @@ https://live2.awedia.com/hls/tebeo_hi.m3u8
 https://s6.tntendirect.com/tf1/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="France(français)",TF1 Séries Films
 https://s6.tntendirect.com/hd1/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TFX.fr.png" group-title="France(français)",TFX
+https://s6.tntendirect.com/nt1/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TMC.fr.png" group-title="France(français)",TFX
+https://s6.tntendirect.com/tmc/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101077726612676608/tS3DbFx0_400x400.png" group-title="France(français)", Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="France(français)", TV5 Info
