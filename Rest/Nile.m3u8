@@ -4,12 +4,8 @@
 http://stream.mslive.in:1935/jazz/gcb577/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="Algeria(الدزاير)", Chaine Nord Africaine
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ortb.bj/images/2017/logos/logo_ortb.png" group-title="Bénin",ORTB
-http://37.235.38.67:9981/stream/channelid/1393123997?profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.rtb.bf/wp-content/uploads/2015/10/LOgo-RTB-272-90.png" group-title="Burkina Faso",RTB TV
-http://37.235.38.67:9981/stream/channelid/1269835742?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Entv_5.jpg" group-title="Algeria(الدزاير)", Algerie 5
+http://109.236.92.216:9090/Algerie5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/5d/18/cc5d1807d156c21df2b866a4bdceac89.jpg" group-title="Cameroon(Cameroun)", Vision 4 TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
@@ -25,6 +21,8 @@ http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
 http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
 #EXTINF:-1 tvg-logo="https://kingdomsat.com/wp-content/uploads/2017/07/logo.png" group-title="Egypt (مَصر)", Al Malakoot
 http://213.162.202.9:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="http://azharitv.net/wp-content/uploads/2017/06/LOGO-AZHARI-NEW-2017-3.png" group-title="Egypt (مَصر)", Azhari TV
+http://109.236.92.216:9090/Azhari/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ySPt82O4uP0/U2YqJmty5QI/AAAAAAAABJg/m91h5epESfE/s1600/Cairo-Zaman.png" group-title="Egypt (مَصر)",  Cairo Cinema
 http://109.236.92.216:9090/Cairo_Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/8035_logo_cairo_drama.png" group-title="Egypt (مَصر)",  Cairo Drama
@@ -85,8 +83,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/espace_tv/hls_video/espac
 
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16278/logo_rti%205.png" group-title="Ivory Coast(Côte d’Ivoire)",RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist_w2123045922_b250000.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16278/logo_rti%205.png" group-title="Ivory Coast(Côte d’Ivoire)",RTI 1 HD
-http://37.235.38.67:9981/stream/channelid/197387105?profile=pass
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png" group-title="Ivory Coast(Côte d’Ivoire)",RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist_w1505588093_b250000.m3u8
 
@@ -103,8 +99,6 @@ http://197.232.56.13:1935/live/_definst_/kasstv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://en.218tv.net/wp-content/uploads/2018/10/218news-logo-.png" group-title="Libya(ليبيا‎)", Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/218TVChannel.PNG" group-title="Libya(ليبيا‎)", Libya Hadash
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/79.ts
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nnjDRq29LMQ/WT1nt5kQkqI/AAAAAAAAGhE/z3sTCTwGgEo5CXqLDR0UyZ1vdXG_Xm6ZgCLcB/s1600/libyas_channel_jo.png" group-title="Libya(ليبيا‎)",Libya's Channel
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 #EXTINF:-1 tvg-logo="http://libyaelwatan.com/wp-content/uploads/2018/09/logo-200.png" group-title="Libya(ليبيا‎)",El Watan 
@@ -113,9 +107,6 @@ http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
 http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q82Fl8o.jpg" group-title="Libya(ليبيا‎)",One TV
 http://82.212.74.2:8000/live/7308.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ortm_logo_2008.png" group-title="Mali",ORTM
-http://37.235.38.67:9981/stream/channelid/1208438885?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2M_TV_logo.png/1200px-2M_TV_logo.png" group-title="Morooco(المغرب‎)", 2M Monde
 http://109.236.92.216:9090/2M/tracks-v1a1/mono.m3u8
@@ -168,21 +159,16 @@ http://flash.netcasterusa.com:1935/itvlive/itvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
 https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.tikilive.com/public/files/shows/141/141427/38375-294x165-FFFFFF.jpg" group-title="Sénégal",RTS 1
-http://37.235.38.67:9981/stream/channelid/1285181033?profile=pass
-#EXTINF:-1 tvg-logo="http://www.africaradios.com/wp-content/uploads/2017/10/Rts2-Senegal-250x160.jpg" group-title="Sénégal", RTS 2
-http://37.235.38.67:9981/stream/channelid/1736536993?profile=pass
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1008971919314612224/S3gl9AN7_400x400.jpg" group-title="Somalia(الصومال‎)",SLNTV
 http://213.162.202.9:8000/play/a01o/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="South Africa",Trace Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://mahgoubsons.com/wp/wp-content/uploads/2017/10/BNTV_logo.png" group-title="Sudan(السودان‎)", Blue Nile
 http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
+#EXTINF:-1 tvg-logo="http://mahgoubsons.com/wp/wp-content/uploads/2018/04/S24_logo.png" group-title="Sudan(السودان‎)", Sudan 24
+http://109.236.92.216:9090/Sudan24-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="Tunisia(تونس)", Neesma
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
