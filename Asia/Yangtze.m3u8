@@ -64,16 +64,14 @@ http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
 http://220.158.149.14:9999/live/TV00000000000000000035@HHZT;LIVE
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="Taiwan (臺灣)", BabyFirst臺灣
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="Taiwan (臺灣)", CNEX 紀實頻道
-http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CartoonNetwork.mx.png" group-title="Taiwan (臺灣)", 卡通頻道
-http://113.196.177.81:8887/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Taiwan (臺灣)", 迪斯尼动画
-http://113.196.177.81:8894/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Taiwan (臺灣)", 探索频道
-http://122.146.68.116:4046/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="Taiwan (臺灣)",民视
+http://60.251.37.44:8080/live/super7659.m3u8
+#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png" group-title="Taiwan (臺灣)",中天綜合
+http://125.227.210.37:8888/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="Taiwan (臺灣)",中天娛樂
+http://61.216.10.122:4007/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="Taiwan (臺灣)",  三立臺灣
+http://125.227.210.37:8903/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ebc40.jpg" group-title="Taiwan (臺灣)", 東森戲劇
 http://113.196.177.81:8910/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.ebc.net.tw/Images/169-emovie.jpg" group-title="Taiwan (臺灣)",  東森電影
@@ -86,6 +84,16 @@ http://220.158.149.14:9999/live/TV00000000000000000076@HHZT;LIVE
 http://61.58.60.230:9319/live/10.m3u8
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="Taiwan (臺灣)", 大愛二台
 http://61.58.60.230:9319/live/191.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="Taiwan (臺灣)", BabyFirst臺灣
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="Taiwan (臺灣)", CNEX 紀實頻道
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CartoonNetwork.mx.png" group-title="Taiwan (臺灣)", 卡通頻道
+http://113.196.177.81:8887/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Taiwan (臺灣)", 迪斯尼动画
+http://113.196.177.81:8894/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Taiwan (臺灣)", 探索频道
+http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Taiwan (臺灣)", 靖天歡樂
 http://61.58.60.230:9319/live/201.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040707_25993.jpg" group-title="Taiwan (臺灣)",  靖天資訊
@@ -138,12 +146,6 @@ http://125.227.210.37:8884/VideoInput/play.ts
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z215143213I8.jpg" group-title="Taiwan (臺灣)",衛視西片臺
 http://122.146.68.116:4016/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png" group-title="Taiwan (臺灣)",中天綜合
-http://125.227.210.37:8888/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="Taiwan (臺灣)",中天娛樂
-http://61.216.10.122:4007/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="Taiwan (臺灣)",  三立臺灣
-http://125.227.210.37:8903/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="Taiwan (臺灣)", 新唐人亚太
 https://live.ntdimg.com/aplive200/playlist.m3u8
 
