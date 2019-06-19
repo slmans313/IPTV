@@ -69,7 +69,7 @@ http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="News", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="News",TRT World
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="News",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8
 
@@ -204,6 +204,8 @@ http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:48:53:86&uid=471
 http://62.210.27.219:80/live.ts?channelId=24&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="Movies",Cinemaworld
 http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="Movies",Cinemax
+http://203.207.56.228/live/iptv022.m3u8
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.pngg" group-title="Movies",Fox Family Movies
 http://27.254.149.109:8081/bypass/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.24.co.za/files/Cms/General/d/127/4846b11e8b1b4c1a866c4c428bbed264.jpg" group-title="Movies",Fox Premium Movies
@@ -211,9 +213,13 @@ http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX
 http://27.254.149.109:8081/bypass/FXHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO.ca.png" group-title="Movies",HBO
-http://185.246.209.109:8080/HBO/mpegts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO2.ca.png" group-title="Movies",HBO 2
-http://185.246.209.109:8080/HBO2/mpegts
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
+http://203.207.56.228/live/iptv006.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
+http://203.207.56.228/live/iptv007.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="Movies",HBO Family
+http://203.207.56.228/live/iptv004.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Movies",Max Prime
 http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png"  group-title="Movies",MGM
@@ -295,7 +301,7 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="Music",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Music", MTV
-http://62.210.27.219:80/live.ts?channelId=50&deviceMac=00:1A:79:48:53:86&uid=471
+http://203.207.56.228/live/iptv020.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="Music",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k1l3hbT.jpg" group-title="Music",SignMe TV
