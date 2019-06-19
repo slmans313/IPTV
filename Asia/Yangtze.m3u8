@@ -16,6 +16,8 @@ http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
 http://125.227.210.37:8901/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="中文新闻时事",中天新聞
 http://125.227.210.37:8911/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文新闻时事",壹新闻
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
 #EXTINF:0 tvg-logo="http://pic.iask.cn/fimg/53787170106.jpg" group-title="中文新闻时事",寰宇新聞 2
 http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8
 
@@ -47,6 +49,8 @@ http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="Hong Kong/Macau(香港/澳门)", 鳳凰香港台
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
+#EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Jade.png" group-title="Hong Kong/Macau(香港/澳门)",無綫翡翠台 HD
 http://ttzx.tv/hls/jade.m3u8
 #EXTINF:0 tvg-logo="http://img.tvb.com/tv/live/dd08067c-cb30-4d92-a7ea-031a98d33775.jpg" group-title="Hong Kong/Macau(香港/澳门)",無綫J2台
 http://ttzx.tv/hls/j2.m3u8
