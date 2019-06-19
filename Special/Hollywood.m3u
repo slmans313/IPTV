@@ -86,7 +86,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226201/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ComedyCentral.uk.png" group-title="Entertainment",Comedy Central
 http://espn.tmedia.me/cache/cc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ComedyCentralExtra.uk.png" group-title="Entertainment",Comedy Central Xtra
-http://62.210.27.219:80/live.ts?channelId=40&deviceMac=00:1A:79:48:53:86&uid=471
+http://94.46.222.90:2831
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="Entertainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/375px-Diva_logo.svg.png" group-title="Entertainment", Diva
@@ -276,8 +276,12 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 http://203.207.56.228/live/iptv020.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVBase.uk.png" group-title="Music", MTV Base
 http://94.46.222.90:2106
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVHits.uk.png group-title="Music", MTV Hits
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVClassic.uk.png" group-title="Music", MTV Classic
+http://94.46.222.90:2107
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVHits.uk.png" group-title="Music", MTV Hits
 http://94.46.222.90:2108
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVMusic.uk.png" group-title="Music",MTV Music
+http://94.46.222.90:2109
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVRocks.uk.png" group-title="Music", MTV Rocks
 http://94.46.222.90:2112
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="Music",The Country Network
