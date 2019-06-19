@@ -77,8 +77,6 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BET.uk.png" group-title="Entertainment", BET
-http://espn.tmedia.me/cache/bet.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Bravo.us.png" group-title="Entertainment", Bravo
 http://161.0.157.9/PLTV/88888888/224/3221226804/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
@@ -224,12 +222,8 @@ http://203.207.56.228/live/iptv007.m3u8
 http://203.207.56.228/live/iptv004.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Movies",Max Prime
 http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png"  group-title="Movies",MGM
-http://185.246.209.109:8080/MGM/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movie 4U 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Movies",Paramount
-http://espn.tmedia.me/cache/spikeus.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Movies", Paramount HD
 http://185.246.209.109:8080/PARAMOUNT/mpegts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="Movies",SYFY
@@ -272,30 +266,6 @@ https://content-aeui1.uplynk.com/242958bda884470d8337512ae3b6133b/g.m3u8
 https://content-aeui1.uplynk.com/7c0b119ac2884fd6bb99e8504e66a46a/g.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" group-title="Music" group-title="Music",Ditty TV
 https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w1540160005.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music" group-title="Music",DJing
-https://www.djing.com/tv/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Animation
-https://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Classics
-https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Electro Rock
-https://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing French touch
-https://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Hedonist
-https://www.djing.com/tv/session_hedonist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Hot Hot Hot
-https://www.djing.com/tv/h-01-fta.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Ibiza
-https://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Karaoke
-https://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Summer Vibes
-https://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Underground
-https://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" group-title="Music",DJing Wild EDM
-http://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 tvg-logo="https://indiewaveentertainment.com/wp-content/uploads/2017/09/logo_square.png" group-title="Music",IndieWave
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="Music", Kool London Radio
@@ -304,6 +274,12 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Music", MTV
 http://203.207.56.228/live/iptv020.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVBase.uk.png" group-title="Music", MTV Base
+http://94.46.222.90:2106
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVHits.uk.png group-title="Music", MTV Hits
+http://94.46.222.90:2108
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTVRocks.uk.png" group-title="Music", MTV Rocks
+http://94.46.222.90:2112
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="Music",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k1l3hbT.jpg" group-title="Music",SignMe TV
@@ -315,6 +291,4 @@ http://content-aeui1.uplynk.com/3c5cbf1e936848eeb242887fa19d2a58/g.m3u8
 #EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="Music", V2BEAT TV
 http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/VH1.in.png" group-title="Music", VH1
-http://espn.tmedia.me/cache/vh1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/VH1.in.png" group-title="Music", VH1 HD
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
