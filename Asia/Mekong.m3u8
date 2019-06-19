@@ -402,10 +402,16 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 http://118.69.197.145/hls/bptv1.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-pQRzTkOMDyA/UYvB3H2zuMI/AAAAAAAAARA/B-eTGYr4ac8/s1600/binh-phuoc2.jpg" group-title="Vietnam(Việt Nam)", BPTV 2
 http://118.69.197.145/hls/bptv2.m3u8
+#EXTINF:-1 tvg-logo="http://brt.vn/common/v2/images/Banner150219.png" group-title="Vietnam(Việt Nam)", BRT
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/06/707779-Binh-Thuan.png" group-title="Vietnam(Việt Nam)", BTV
+http://202.43.109.142:1935/thbttv/bttv/chunklist_w1829470998.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR85kzm0URKyx2FgxFByn3Yfy9gfN9l4Rgq87fb7MZGC8PmXH0r" group-title="Vietnam(Việt Nam)", Cà Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/bang-gia-quang-cao-truyen-hinh-daklak.png" group-title="Vietnam(Việt Nam)", DRT
 http://118.69.161.10:8134/liveevent.m3u8
+#EXTINF:-1 tvg-logo="http://hoabinhtv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logohb_1.png" group-title="Vietnam(Việt Nam)", HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/04/843599-hatinh.png" group-title="Vietnam(Việt Nam)",HTTV
 http://171.244.141.125/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z202163955160.jpg" group-title="Vietnam(Việt Nam)",Hanoi 1
@@ -419,13 +425,15 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/492375-ha-tinh.png/revision/latest?cb=20180304090310" group-title="Vietnam(Việt Nam)",HTV
 http://171.244.141.125/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://hungyentv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logo_0.png?itok=Z9bP3XoW" group-title="Vietnam(Việt Nam)",Hưng Yên
-http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
+http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
 #EXTINF:-1 tvg-logo="http://kontumtv.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png" group-title="Vietnam(Việt Nam)", KRT
 http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 #EXTINF:-1 tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png" group-title="Vietnam(Việt Nam)", LA34
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1 tvg-logo="http://mtvwe.com/images/logo.png" group-title="Vietnam(Việt Nam)", MTV Việt Nam
 http://220.158.149.14:9999/live/TV00000000000000000111@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/4028eaa467639b470167787ae85a0a2d/logontv2019-lai.png" group-title="Vietnam(Việt Nam)",Nghệ An
+http://113.160.173.47:8080/live/na1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="Vietnam(Việt Nam)",Nhân Dân
 https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/3/31/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_v%C3%A0_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Y%C3%AAn.png/revision/latest?cb=20180912032545&path-prefix=vi" group-title="Vietnam(Việt Nam)", PTP
