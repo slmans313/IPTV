@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Alibi.uk.png" group-title="UK", Alibi
+http://94.46.222.90:3547
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCAlba.uk.png" group-title="UK", BBC Alba
 http://185.53.163.214:5678/ipvt_008
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/BENTV.png/225px-BENTV.png" group-title="UK", Ben TV
@@ -24,6 +26,8 @@ http://185.53.163.214:5678/ipvt_005
 http://94.46.222.90:6701
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="UK",Channel 5 USA
 http://94.46.222.90:3433
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK",5 Star
+http://94.46.222.90:6703
 #EXTINF:-1 tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK", British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-video=150000-audio_AACL_eng_65600_120=65600.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="UK", English Club
