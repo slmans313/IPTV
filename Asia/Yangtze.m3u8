@@ -54,9 +54,9 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://ttzx.tv/hls/jade.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332" group-title="Hong Kong/Macau(香港/澳门)",無綫J2台
 http://ttzx.tv/hls/j2.m3u8
-#EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Pearl.png" group-title="Hong Kong/Macau(香港/澳门)",無綫明珠
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540" group-title="Hong Kong/Macau(香港/澳门)",無綫明珠
 http://ttzx.tv/hls/prarl.m3u8
-#EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-J5.png" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊台
+#EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1211981021_b1096000.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Hong Kong/Macau(香港/澳门)", 天映頻道
 http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
@@ -243,52 +243,6 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P4221A029332.jpg" group-title="China (中国)", E娱乐
 http://dlhls.live.cnlive.com:1935/cdn/eyule/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnzrx.jpg" group-title="China (中国)", CIBN 真人秀
-http://dangbei.ds01.cibn.cc/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
-#EXTINF:-1 tvg-logo="https://s3.mogucdn.com/mlcdn/fe720b/190312_775d3j8dl8i1bde1f0cehdk53l63a_240x160.jpg" group-title="China (中国)", CIBN 院线大
-http://dangbei.ds01.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnjiaoyang.jpg" group-title="China (中国)", CIBN 骄阳剧场
-http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnjunshi.jpg" group-title="China (中国)", CIBN 军事
-http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnljsy.jpg" group-title="China (中国)", CIBN 流金岁月
-http://dangbei.ds01.cibn.cc/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnhaolaiwu.jpg" group-title="China (中国)", CIBN 好莱坞
-http://dangbei.ds01.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibndianying.jpg" group-title="China (中国)", CIBN 电影
-http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnhaibo.jpg" group-title="China (中国)", CIBN 嗨播
-http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVASH.jpg" group-title="China (中国)",CNTV 爱生活
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000639/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVCITY.jpg" group-title="China (中国)",CNTV 城市剧场
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000614/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVDL.jpg" group-title="China (中国)",CNTV 地理
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000615/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVDH.jpg" group-title="China (中国)", CNTV 动画
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000625/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/guoxue.jpg" group-title="China (中国)",CNTV 国学
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000636/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVGZJC.jpg" group-title="China (中国)",CNTV 古装剧场
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000622/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVHXS.jpg" group-title="China (中国)",CNTV 好学生
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000629/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVJTYY.jpg" group-title="China (中国)",CNTV 家庭影院
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000635/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVJM.jpg" group-title="China (中国)",CNTV 解秘
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000624/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVJX.jpg" group-title="China (中国)",CNTV 精选
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000621/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVJLJC.jpg" group-title="China (中国)",CNTV 军旅剧场
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000617/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVMZ.jpg" group-title="China (中国)",CNTV 美妆
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000616/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVMUSIC.jpg" group-title="China (中国)",CNTV 音乐现场
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000613/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CNTVZJ.jpg" group-title="China (中国)", CNTV 早教
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000627/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 动作电影
 http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
