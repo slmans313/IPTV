@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Alibi.uk.png" group-title="UK", Alibi
 http://94.46.222.90:3547
+#EXTINF:-1 tvg-logo="https://www.abntv.co/wp-content/uploads/2018/12/logo-header-sky.png" group-title="UK", ABN TV
+http://94.46.222.90:6711
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCAlba.uk.png" group-title="UK", BBC Alba
 http://185.53.163.214:5678/ipvt_008
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/BENTV.png/225px-BENTV.png" group-title="UK", Ben TV
@@ -28,6 +30,8 @@ http://94.46.222.90:6701
 http://94.46.222.90:3433
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK",5 Star
 http://94.46.222.90:6703
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/5Spike_Logo.svg/1200px-5Spike_Logo.svg.png" group-title="UK",5 Spike
+http://94.46.222.90:6702
 #EXTINF:-1 tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK", British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-video=150000-audio_AACL_eng_65600_120=65600.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="UK", English Club
@@ -135,6 +139,8 @@ http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="USA/Canada",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png" group-title="USA/Canada",Smithsonian channel
+http://94.46.222.90:6931
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/Space.ca.png" group-title="USA/Canada", Space
 http://203.154.243.89:1423
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="USA/Canada",Spydar TV
