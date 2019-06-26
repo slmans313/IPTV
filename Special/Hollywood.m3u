@@ -236,6 +236,12 @@ http://185.246.209.109:8080/PARAMOUNT/mpegts
 http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime.us.png" group-title="Movies", Showtime
 http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="Movies", Sky Cinema Action
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="Movies", Sky Cinema Premiere
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="Movies", Sky Cinema Select
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies", Sony Movies
