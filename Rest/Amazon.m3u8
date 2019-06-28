@@ -72,6 +72,10 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8
 #EXTINF:0 tvg-logo="https://lared.cl/app/themes/lared-theme/img/logox2-2019.png" group-title="Chile",La Red
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvsalud.com/inicio/img/logo-tvsalud.png" group-title="Chile", TV Salud
+http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="Chile", Uestv
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.canalcapital.gov.co/sites/default/files/header-institucional/LOGO-CANAL-CAPITAL_1.png" group-title="Colombia",Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
