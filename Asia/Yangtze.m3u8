@@ -10,18 +10,18 @@ http://61.216.10.122:4078/VideoInput/play.ts
 http://125.227.210.37:8900/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="中文新闻时事",民视新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png" group-title="中文新闻时事", TVBS 新聞
-http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a1/ERA_News_Channel_logo_2006.jpg/220px-ERA_News_Channel_logo_2006.jpg" group-title="中文新闻时事",年代新聞
 http://125.227.210.37:8901/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="中文新闻时事",中天新聞
-http://125.227.210.37:8911/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文新闻时事",壹新闻
-http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
 #EXTINF:0 tvg-logo="http://pic.iask.cn/fimg/53787170106.jpg" group-title="中文新闻时事",寰宇新聞 2
 http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png" group-title="中文新闻时事", 三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-logo="https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png" group-title="中文新闻时事", TVBS 新聞
+http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文新闻时事",壹新闻
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="中文新闻时事",中天新聞
+http://125.227.210.37:8911/VideoInput/play.ts
 
 
 #EXTINF:-1 tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="Hong Kong/Macau(香港/澳门)",澳亞衛視
@@ -58,8 +58,6 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunkl
 http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8d/Xing_Kong_Wei_Shi.jpg" group-title="Hong Kong/Macau(香港/澳门)",星空衛視
 http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/32/U.wiki_logo_Dim_Sum_TV.png" group-title="Hong Kong/Macau(香港/澳门)",卫视點心
-http://220.158.149.14:9999/live/TV00000000000000000035@HHZT;LIVE
 
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="Taiwan (臺灣)",民视
