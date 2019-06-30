@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/9XTashanLogo.jpg" group-title="Punjabi (ਪੰਜਾਬੀ)",  9X Tashan
-http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TravelChannel.us.png" group-title="Entertainment",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="Georgia (საქართველო)", Pirveli Arxi (1TV)
 http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
@@ -14,15 +14,6 @@ http://ott-cdn.ucom.am/s35/04.m3u8
 http://ott-cdn.ucom.am/s63/04.m3u8
 #EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/120/bigposter/591604.png" group-title="Russia (Россия)",RTG TV
 http://ott-cdn.ucom.am/s80/04.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1024px-VTC1_logo_2018.svg.png" group-title="Vietnam(Việt Nam)", VTC1
-https://cdn.vtc.gov.vn/live/eds/VTC1_1/hlsv5/VTC1_1-audio_20000=212400-video=2821200.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/VTC3_logo_2018.svg/1024px-VTC3_logo_2018.svg.png" group-title="Vietnam(Việt Nam)", VTC3
-https://cdn.vtc.gov.vn/live/eds/VTC3_3/hlsv5/VTC3_3-audio_20000=212400-video=1200000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi(हिन्दी)", & Pictures
-https://stream10.joovox.com/AndPictures/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png" group-title="中文新闻时事", 壹新聞
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8
