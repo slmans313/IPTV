@@ -353,7 +353,7 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/300px-ZDF_logo.svg.png" group-title="Germany(Deutschland)",ZDF
 http://173.208.193.162:8080/zdf/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ZDFneo_2017.svg/300px-ZDFneo_2017.svg.png" group-title="Germany(Deutschland)",ZDF Neo
-http://176.10.117.21:8081/aypitv/ZDF_NEOHD/playlist.m3u8
+http://89.1.124.36:3003/hdmi
 #EXTINF:-1  tvg-logo="https://www.drupal.org/files/arte.jpg" group-title="Germany(Deutschland)",Arte
 http://176.10.117.12:8081/aypitv/ArteHd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="Germany(Deutschland)",Kika
@@ -482,6 +482,8 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png" group-title="Germany(Deutschland)",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zeeonedeapp.blob.core.windows.net/cmsstorage/zeeone/media/images/logo/android-icon-111x60_1.png" group-title="Germany(Deutschland)",Zee One
+http://89.1.124.36:3001/hdmi
 
 #EXTINF:-1 tvg-logo="https://1music.hu/assets/images/logo.png" group-title="Hungary(MagyarorszĂˇg)", 1 Music
 http://1music.hu/1music.m3u8
