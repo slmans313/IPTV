@@ -138,7 +138,9 @@ http://id1.indostreamingtv.com/live/tv77/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TV One
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:0  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/TVRI_3.png/revision/latest?cb=20190323100849" group-title="Indonesia",TVRI 3
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Babel
@@ -155,7 +157,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Jambi
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Jakarta
+#EXTINF:0  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/TVRI_3.png/revision/latest?cb=20190323100849" group-title="Indonesia",TVRI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
