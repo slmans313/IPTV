@@ -4,12 +4,16 @@
 http://94.46.222.90:3547
 #EXTINF:-1 tvg-logo="https://www.abntv.co/wp-content/uploads/2018/12/logo-header-sky.png" group-title="UK", ABN TV
 http://94.46.222.90:6711
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
+http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC Two
+http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCAlba.uk.png" group-title="UK", BBC Alba
 http://185.53.163.214:5678/ipvt_008
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/BENTV.png/225px-BENTV.png" group-title="UK", Ben TV
 http://94.46.222.90:6712
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Blaze.uk.png" group-title="UK", Blaze
-http://94.46.222.90:5526
+http://62.210.27.219:80/live.ts?channelId=38&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="News",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="UK",CBBC
@@ -19,21 +23,21 @@ http://94.46.222.90:3548
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/GoodFood.uk.png" group-title="UK",Good Food
 http://94.46.222.90:3545
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
-http://94.46.222.90:4403
+http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK", ITV 2
-http://94.46.222.90:4404
+http://62.210.27.219:80/live.ts?channelId=14&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK", ITV 3
-http://185.53.163.214:5678/ipvt_003
+http://62.210.27.219:80/live.ts?channelId=15&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK", ITV 4
-http://94.46.222.90:4405
+http://62.210.27.219:80/live.ts?channelId=16&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK", ITV BE
-http://94.46.222.90:4406
+http://62.210.27.219:80/live.ts?channelId=17&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK",Channel 5
-http://94.46.222.90:6701
+http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="UK",Channel 5 USA
-http://94.46.222.90:3433
+http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK",5 Star
-http://94.46.222.90:6703
+http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/5Spike_Logo.svg/1200px-5Spike_Logo.svg.png" group-title="UK",5 Spike
 http://94.46.222.90:6702
 #EXTINF:-1 tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK", British Muslim TV
@@ -41,11 +45,11 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/br
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="UK", English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK",Channel 4
-http://94.46.222.90:4410
+http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:48:53:86&uid=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" group-title="UK",Film 4
 http://94.46.222.90:3542
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",E4
-http://94.46.222.90:9448
+http://62.210.27.219:80/live.ts?channelId=19&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/GOLD.uk.png" group-title="UK", Gold
 http://94.46.222.90:3543
 #EXTINF:-1 tvg-logo="http://www.marcroberts.ie/News/img_news/keep-it-country.png" group-title="UK", Keep It Country
