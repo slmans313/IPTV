@@ -19,7 +19,7 @@ http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.ctcmedia.ru/bitrix/templates/ctcmedia/images/ctc_logo_mini.png" group-title="Russia (Россия)",СТС Love
 http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/103/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/REN_TV_logo_2015.png" group-title="Russia (Россия)",Рен
-http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/128/index.m3u8
+http://hls.telenet.lv:7878/rentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ
 http://182.73.122.74:10005/bysid/413
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ International
@@ -512,7 +512,7 @@ http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/232/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tck.tv/img/logo778.png" group-title="Russia (Россия)",ТК Центр Красноярск
 http://www.tck.tv/hls_hd/hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TravelChannel.us.png" group-title="Russia (Россия)",Travel Channel Россия
-http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/1044/index.m3u8
+http://hls.telenet.lv:7878/109/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg" group-title="Russia (Россия)",Тольятти 24
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
 #EXTINF:-1 tvg-logo="http://tochkatv.tv/wp-content/uploads/2017/09/logo.png" group-title="Russia (Россия)",Точка ТВ
@@ -732,7 +732,7 @@ http://streams2.livetv.az/azerbaijan/xazar_sd_stream2/playlist.m3u8
 http://win26.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://belarus24.by/local/templates/belarus24.responsive/images/logo-company.png" group-title="Belarus(Беларусь)",Беларусь 24
-http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/1061/index.m3u8
+http://hls.telenet.lv:7878/Belarus24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.shumilino.by/wp-content/uploads/2015/09/BELARUS4V.jpg" group-title="Belarus(Беларусь)",Беларусь 4 Витебск
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 tvg-logo="https://www.lider-press.by/images/articles/2015/september/belarus4_mogilev.jpg" group-title="Belarus(Беларусь)",Беларусь 4 Могилёв
@@ -768,7 +768,7 @@ http://streams.tv.mts.by/soviet_classic/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TNTInternational.png" group-title="Belarus(Беларусь)", ТНТ Беларусь
 http://streams.tv.mts.by/tnt_international/index.m3u8
 #EXTINF:-1 tvg-logo="http://kazaky.ucoz.com/_sf/1/142.jpg" group-title="Belarus(Беларусь)",Перец
-http://streams.tv.mts.by/peretz_int/index.m3u8
+http://streams.tv.mts.by/peretz_int/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://pinsk.gov.by/1window/TRK_Pinsk/Logotip_TRK.jpg" group-title="Belarus(Беларусь)", Пинск
 http://87.252.229.252:8083/pinsk
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2016-03/1458548411_9a02d429778be68c4f235620d263a1ad.jpg" group-title="Belarus(Беларусь)",ОНТ.BY
@@ -918,6 +918,8 @@ https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20001=960
 https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="http://en.1bma.lv/uploaded/spaw/images/1m.jpg" group-title="Latvia (Latvija)",1 Baltic Music
 https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/tv24_riga_lativa.jpg" group-title="Latvia (Latvija)",24 Riga
+http://hls.telenet.lv:7878/riga24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latvia (Latvija)",Chau
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="https://kartina24.tv/images/news/multimania.png" group-title="Latvia (Latvija)", Мультимания
