@@ -11,6 +11,10 @@ http://203.207.56.228/live/iptv001.m3u8
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2 
 http://161.0.157.6/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/225px-Espn2.svg.png" group-title="ESPN",ESPN 2 Latinoamérica
+http://34.210.107.160:80/live/cyx-9A00459B4CFAba10FC93719718F1.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/ESPN%2B_logo.png/375px-ESPN%2B_logo.png" group-title="ESPN",ESPN + Latinoamérica
+http://34.210.107.160:80/live/cyx-82AA096548B7bdc40409351DBA52.ts
 
 #EXTINF:-1 tvg-logo="http://image.jtbc3foxsports.joins.com/common/logo.png" group-title="Football",JTBC 3 Fox
 http://121.156.46.79/live/10701.m3u8?sid=60720
@@ -20,6 +24,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226429/index.m3u8
 http://210.210.155.35/uq2663/h/h20/01.m3u8
 #EXTINF:0 tvg-logo="https://uz24.uz/userfiles/images/FUTBOL%20TV.jpg" group-title="Football",Futbol TV
 http://st6.allplay.uz/iptv/84/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Football",Fox Sports 2 Latinoamérica
+http://34.210.107.160:80/live/cyx-A330DA5B45DEa2e96A69E2A9E92D.ts
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football", Sky Sports Football
 http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football", Sky Sports EPL
@@ -51,6 +57,8 @@ http://203.162.235.41:16924
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Racing",Fox Sports Racing
 http://161.0.157.6/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Racing",Fox Sports 3 Latinoamérica
+http://34.210.107.160:80/live/cyx-3ABEF41742F6b4bf681424B4E0B9.ts
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="MMA", FightBox
 http://92.43.140.249/s86/04.m3u8 
@@ -154,8 +162,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
 http://61.216.10.122:4047/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" group-title="中文体育频道", 广东体育
 http://nclive.grtn.cn/typd/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="中文体育频道", 劲爆体育
-http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jbtyhd/4000000/d1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="中文体育频道", 五星体育
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="中文体育频道",Newtv 精品体育
@@ -169,24 +175,26 @@ http://61.58.60.230:9319/live/75.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="中文体育频道", 11 Sports 台湾 2
 http://61.58.60.230:9319/live/102.m3u8
 
-#EXTINF:-1 tvg-logo="http://ioamoilfoggia.it/wp-content/uploads/2017/05/rai-sport-piu-hd.jpg" group-title="European Sports", Rai Sports Plus
+#EXTINF:-1 tvg-logo="http://ioamoilfoggia.it/wp-content/uploads/2017/05/rai-sport-piu-hd.jpg" group-title="European/South American Sports", Rai Sports Plus
 https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/sporttv-500x500.jpg" group-title="European Sports", TV All Sports
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/sporttv-500x500.jpg" group-title="European/South American Sports", TV All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sports_full_color_35.png" group-title="European Sports", TV Play Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sports_full_color_35.png" group-title="European/South American Sports", TV Play Sports
 https://sportmir.tv/tvplay_sports_hd/mpegts?token=sportmirtv
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="European Sports", RMC Sports 2
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="European/South American Sports", RMC Sports 2
 http://89.163.140.211:9898/sfrsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://sport.orange.sk/fileadmin/orange-sport/user_uploads/pages/common/images/orange-sport.png"  group-title="European Sports", Orange Sports
+#EXTINF:-1 tvg-logo="https://sport.orange.sk/fileadmin/orange-sport/user_uploads/pages/common/images/orange-sport.png" group-title="European/South American Sports", Orange Sports
 http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1553.png"  group-title="European Sports", Flow Sports 1
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1553.png"  group-title="European/South American Sports", Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
-#EXTINF:-1  tvg-logo="http://sportklub.rs/assets/images/programs/epg/w_sk_1.png"  group-title="European Sports", Sport Klub 1
+#EXTINF:-1  tvg-logo="http://sportklub.rs/assets/images/programs/epg/w_sk_1.png"  group-title="European/South American Sports", Sport Klub 1
 https://hls.telekabel.com.mk:1936/live/21/2500-def.m3u8
-#EXTINF:-1  tvg-logo="http://sportklub.rs/assets/images/programs/epg/w_sk_2.png"  group-title="European Sports", Sport Klub 2
+#EXTINF:-1  tvg-logo="http://sportklub.rs/assets/images/programs/epg/w_sk_2.png"  group-title="European/South American Sports", Sport Klub 2
 https://hls.telekabel.com.mk:1936/live/31/2500-def.m3u8
-#EXTINF:-1  tvg-logo="http://sportklub.rs/assets/images/programs/epg/w_sk_3.png"  group-title="European Sports", Sport Klub 3
+#EXTINF:-1  tvg-logo="http://sportklub.rs/assets/images/programs/epg/w_sk_3.png"  group-title="European/South American Sports", Sport Klub 3
 https://hls.telekabel.com.mk:1936/live/41/2500-def.m3u8
+#EXTINF:-1  tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/tyc_sports_c.png"  group-title="European/South American Sports", TyC SPORTS
+http://34.210.107.160/live/cyx-4024403E46E7afde33D0C369FE4D.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Eurasia
