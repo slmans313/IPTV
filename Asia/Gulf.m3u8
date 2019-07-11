@@ -92,7 +92,7 @@ http://109.236.92.216:9090/Aghani/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="Lebanon (لبنان)",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdnar.almayadeen.net/cdn/website/images/web-logo.png" group-title="Lebanon (لبنان)",Al Mayadeen
-http://live.mdn.tv/almayadeen/smil:mayadeen.smil/chunklist_b1300000.m3u8
+http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" group-title="Lebanon (لبنان)",Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:-1 tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="Lebanon (لبنان)",Future TV
@@ -180,7 +180,9 @@ http://82.137.248.16:1935/SEdu/stream20112018/chunklist_w1551912453.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/syrian_logo.png" group-title="Syria(سوريا)", Syrian Satellite
 http://82.137.248.16:1935/Sat/stream20112018/chunklist_w1198971875.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
-http://95.170.215.124/live/disk1/Syria_Drama/anevia1/Syria_Drama.m3u8
+http://95.170.215.109/hls/m3u8/Syria_Drama.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="Syria(سوريا)", Sama TV
+http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/nour_logo.png" group-title="Syria(سوريا)",Nour Elsham TV
 http://82.137.248.16:1935/Nour/stream20112018/chunklist_w1617542602.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/souryana_logo.png" group-title="Syria(سوريا)",Radio Souryana
@@ -196,6 +198,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 #EXTINF:-1 tvg-logo="http://www.ajmantv.com/img/ajmantv_logo.png" group-title="UAE (ماراتيين)",Ajman
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/248px-Cartoon_Network_Arabic_logo.png" group-title="UAE (ماراتيين)",Cartoon Network كرتون
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="UAE (ماراتيين)", Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png" group-title="UAE (ماراتيين)", Dubai One
