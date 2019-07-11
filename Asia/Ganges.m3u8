@@ -33,6 +33,8 @@ http://pockettv.xyz/api/zee.m3u8?c=ddbangla
 http://123.249.76.157:10030/bysid/5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bengali(বাংলা)", Gazi TV
 http://103.214.156.2:8080/hls/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/288px-Channel-i.svg.pngg" group-title="Bengali(বাংলা)", Channel I
+http://162.254.149.187:1935/live/channel-i/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iplustv.com/webtheme/images/logo.png" group-title="Bengali(বাংলা)", I Plus TV
 https://5aba747f60841.streamlock.net/unevent/smil:iplustv.smil/chunklist_w1906442699_b848000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bengali(বাংলা)", Independent
@@ -230,13 +232,15 @@ http://123.249.76.157:10020/bysid/5
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v9jPVGykR8E/VxcM3jVBf8I/AAAAAAAABT0/bngrh1sDv74jKAGHFDnJdqgfVIS2RXpLgCLcB/s1600/Satsang%2BTV.png" group-title="Hindi(हिन्दी)", Satsang
 http://pockettv.xyz/api/zee.m3u8?c=satsangtv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/255px-SET_India.jpg" group-title="Hindi(हिन्दी)", Sony ETV
-http://94.46.222.90:5503
+http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi(हिन्दी)", Sony Max
 http://94.46.222.90:5510
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hindi(हिन्दी)", Sony SAB
 http://94.46.222.90:5506
 #EXTINF:-1 tvg-logo="http://www.stvharyananews.in/wp-content/uploads/2019/01/main-logo.png" group-title="Hindi(हिन्दी)", STV Haryana News
 http://123.249.76.157:10029/bysid/1106
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg" group-title="Hindi(हिन्दी)", Star Gold
+http://50.7.77.34/stargold/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.stvharyananews.in/wp-content/uploads/2019/01/main-logo.png" group-title="Hindi(हिन्दी)", STV Uttar Pradesh
 http://123.249.76.157:10029/bysid/1113
 #EXTINF:-1 tvg-logo="http://taazatv.com/wp-content/uploads/2018/06/cropped-download-1-192x192.png" group-title="Hindi(हिन्दी)", Taaza TV
