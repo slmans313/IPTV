@@ -545,6 +545,7 @@ https://rtvslolive.akamaized.net/hls/live/685537/tv_slo3/slo3_720p/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_K-C_2013_Logo.png/150px-TV_K-C_2013_Logo.png" group-title="Slovenia(Slovenija)", TV Koper-Capodistria
 http://213.162.202.9:8000/play/a01e/index.m3u8
 
+
 #EXTINF:0 tvg-logo="http://chanlogos.xmltv.se/fatstone.tv.png" group-title="Norway(Norge)", Fatstone TV
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norway(Norge)", Nrk 1
@@ -557,6 +558,8 @@ http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/play
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norway(Norge)", Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="http://partner.ulango.tv/uploads/channels/18523/logo_stv%201.png" group-title="Slovakia(Slovensko)", Jednotka
 http://gocache3.antik.sk/live/test_stv1_800/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovakia(Slovensko)", Joj
@@ -565,6 +568,12 @@ http://nn1.joj.sk/hls/joj-720.m3u8
 http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static1.joj.sk/html/assets/logo-plus-white.png" group-title="Slovakia(Slovensko)", Joj Plus
 https://nova-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-logo="https://www.skylink.sk/doc/um_kanal_img/joj-plus-1a-403.png" group-title="Slovakia(Slovensko)", Joj +1
+http://173.249.28.105:8000/play/jojp1/index.m3u8
+#EXTINF:-1  tvg-logo="http://static.cdn.markiza.sk/media/3.0/mar/grf/header-markiza-logo.png" group-title="Slovakia(Slovensko)",Markiza
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1  tvg-logo="https://www.skylink.sk/doc/um_kanal_img/markiza_plus1_basic_full_rgb_hd-499.PNG" group-title="Slovakia(Slovensko)",Markíza Plus
+http://173.249.28.105:8000/play/markizaplus1/index.m3u8
 #EXTINF:-1  tvg-logo="https://dusanhoo.webnode.sk/_files/200000514-b0e0eb1db2/LOGO%20CETV.jpg" group-title="Slovakia(Slovensko)",CETV
 http://213.81.153.221:8080/cetv
 #EXTINF:-1  tvg-logo="https://www.tvhronka.sk/engine/wp-content/themes/hronkatv/images/logo.png" group-title="Slovakia(Slovensko)",Hronka
@@ -579,8 +588,6 @@ http://tv.geniusnet.sk:8081/localltv/pl.m3u8
 http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.zpiestan.sk/uploads/tv-karpaty2-480x311.jpg" group-title="Slovakia(Slovensko)",Karpaty
 http://213.81.153.221:8080/karpaty
-#EXTINF:-1  tvg-logo="http://static.cdn.markiza.sk/media/3.0/mar/grf/header-markiza-logo.png" group-title="Slovakia(Slovensko)",Markiza
-http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:0 tvg-logo="http://www.nztv.eu/img/logo-nztv-white.png" group-title="Slovakia(Slovensko)", Nové Zámky
 http://s1.media-planet.sk:80/live/novezamky/lihattv.m3u8
 #EXTINF:0 tvg-logo="https://tvoravia.sk/wp-content/uploads/thegem-logos/logo_798fb82d7e99c59716e3c6233e898800_1x.png" group-title="Slovakia(Slovensko)", Oravia
