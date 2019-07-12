@@ -152,7 +152,12 @@ http://121.156.46.79/live/10221.m3u8?sid=60720
 http://121.156.46.79/live/10441.m3u8?sid=60720
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mbc_kr_sports_plus.png" group-title="Asian Sports", MBC Sports
 http://121.156.46.79/live/10431.m3u8?sid=60720
-
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_097.png" group-title="Asian Sports", True Sport 1
+http://27.254.149.109:8081/bypass/TruesportHD1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/TrueSport-HD2-320.png" group-title="Asian Sports", True Sport 2
+http://27.254.149.109:8081/bypass/TruesportHD2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_184.png" group-title="Asian Sports", True Sport 3
+http://27.254.149.109:8081/bypass/TruesportHD3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="中文体育频道", beIN Sports 2 (香港)
 http://125.227.210.37:8886/VideoInput/play.ts
