@@ -191,13 +191,15 @@ https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FranceO.fr.png"  group-title="France(français)", France Ô
 http://109.236.92.216:9090/FRANCEO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France2.fr.png"  group-title="France(français)",  France 2
-https://s1.tntendirect.com/france2/live/playlist.m3u8
+http://176.10.117.12:8081/aypitv/France2HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png"  group-title="France(français)",  France 3
 http://109.236.92.216:9090/France3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France4.fr.png"  group-title="France(français)",  France 4
 https://s6.tntendirect.com/france4/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France5.fr.png"  group-title="France(français)",  France 5
 https://s2.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://servicepresse.arte.tv/static/img/ARTE-seul-2.png"  group-title="France(français)", Arte
+http://176.10.117.12:8081/aypitv/ArteHd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tntendirect.com/images/channel/6ter.png"  group-title="France(français)",  6ter
 https://s1.tntendirect.com/6ter/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png"  group-title="France(français)", BFM Paris
@@ -251,7 +253,7 @@ http://rt-france.secure.footprint.net/1107-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_T%C3%A9b%C3%A9o.svg/1200px-Logo_T%C3%A9b%C3%A9o.svg.png" group-title="France(français)",Tébéo
 https://live2.awedia.com/hls/tebeo_hi.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1.fr.png" group-title="France(français)",TF1
-https://s2.tntendirect.com/tf1/live/chunks.m3u8
+http://176.10.117.12:8081/aypitv/TF1HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="France(français)",TF1 Séries Films
 https://s4.tntendirect.com/hd1/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TFX.fr.png" group-title="France(français)",TFX
