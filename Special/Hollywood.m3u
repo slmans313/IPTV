@@ -127,8 +127,6 @@ http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer
 http://adultswimhls-i.akamaihd.net/hls/live/242140/adultswim_2/animated/1/master_Layer.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids/Animation", Baby TV
 http://livecdnh1.tvanywhere.ae:80/hls/baby/06.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Boomerang.uk.png" group-title="Kids/Animation", Boomerang 
-http://163.172.112.225:80/live.ts?channelId=101&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
 http://210.186.80.171:9000/6.ts
 #EXTINF:-1 tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="Kids/Animation",Da Vinci
@@ -147,8 +145,6 @@ http://203.207.56.228/live/iptv011.m3u8
 http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nickelodeon Junior
 http://185.246.209.109:8080/NICKJR/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJrToo.uk.png" group-title="Kids/Animation",NickJr Too
-http://163.172.112.225:80/live.ts?channelId=100&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
@@ -177,8 +173,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AMC.kr.png" group-title="Movies",AMC
-http://62.210.27.219:80/live.ts?channelId=24&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
 http://203.207.56.228/live/iptv015.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxplus-logo.png" group-title="Movies", Filmbox Plus
@@ -199,9 +193,8 @@ http://203.207.56.228/live/iptv006.m3u8
 http://203.207.56.228/live/iptv007.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="Movies",HBO Family
 http://203.207.56.228/live/iptv004.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" group-title="Movies",HBO Zone
+http://185.246.209.109:8080/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Movies",Max Prime
 http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movie 4U 
@@ -209,7 +202,7 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Movies", Paramount
 http://185.246.209.109:8080/PARAMOUNT/mpegts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="Movies",SYFY
-http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:48:53:86&uid=471
+http://185.246.209.109:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime.us.png" group-title="Movies", Showtime
 http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="Movies", Sky Cinema Action
