@@ -11,6 +11,10 @@ http://203.207.56.228/live/iptv001.m3u8
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2 
 http://161.0.157.6/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espnu.png" group-title="ESPN",ESPN U
+http://185.246.209.109:8080/ESPNU/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pipul.tv/wp-content/uploads/2018/08/espnews.png" group-title="ESPN",ESPN News
+http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://backgroundcheckall.com/wp-content/uploads/2017/12/bt-logo-transparent-background-13.png" group-title="Football", BT Sport 1
 http://89.187.181.233:25461/nerpa/kIPJTeNRoe/1315
