@@ -72,8 +72,6 @@ http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="USA/Canada",El Rey
 http://185.246.209.109:8080/test/mpegts
-
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpgg"  group-title="USA/Canada", EMCI TV Montréal
 https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA/Canada",Filmrise Classics
@@ -88,6 +86,10 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-logo="http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png" group-title="USA/Canada",Ici Tele
 http://flowcaster.cdn.clearcable.net:1935/icilive/smil:icitv.smil/chunklist_w1610652848_b4160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/IFC_2014_logo.svg/375px-IFC_2014_logo.svg.png" group-title="USA/Canada",IFC
+http://185.246.209.109:8080/IFC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/300px-ION_Television_2016.svg.png" group-title="USA/Canada",ION
+http://185.246.209.109:8080/ION/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51KxCs%2BTT8L._SY355_.png" group-title="USA/Canada",Law & Crime Trial
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA/Canada",Kool
