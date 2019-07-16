@@ -37,7 +37,8 @@ http://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK", TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://thumbnail.imgbin.com/23/20/7/imgbin-american-broadcasting-company-logo-big-three-television-networks-freeform-abc-news-jingdong-broadcasting-co-KWKAkEcDZv6dkyE2FuYVv0MpA_t.jpg" group-title="USA/Canada",CBC
+http://185.246.209.109:8080/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="USA/Canada",Animal Planet (Canada)
 http://80.80.160.168/live/1/1500000/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBC.ca.png" group-title="USA/Canada",CBC
@@ -72,8 +73,12 @@ http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="USA/Canada",El Rey
 http://185.246.209.109:8080/test/mpegts
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpgg"  group-title="USA/Canada", EMCI TV Montréal
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg"  group-title="USA/Canada", EMCI TV Montréal
 https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Freeform.us.png"  group-title="USA/Canada",Freeform
+http://185.246.209.109:8080/FREEFORM/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FuseTV.us.png"  group-title="USA/Canada",Fuse
+http://185.246.209.109:8080/FUSE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA/Canada",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA/Canada",Filmrise Crime
@@ -94,6 +99,8 @@ http://185.246.209.109:8080/ION/index.m3u8
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA/Canada",Kool
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MeTV_logo_2014.png/338px-MeTV_logo_2014.png" group-title="USA/Canada",ME TV
+http://185.246.209.109:8080/ME_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USA/Canada",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="USA/Canada",Newsmax
@@ -124,8 +131,6 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png" group-title="USA/Canada",Smithsonian channel
 http://94.46.222.90:6931
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/Space.ca.png" group-title="USA/Canada", Space
-http://203.154.243.89:1423
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="USA/Canada",Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA/Canada",TBD
@@ -180,6 +185,8 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="CW Regional(USA)", CW Boston (WHDH)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="CW Regional(USA)", CW Boston (WHDH)
+http://185.246.209.109:8080/CW/index.m3u8
 #EXTINF:-1 tvg-logo="https://sflcw.com/wp-content/themes/vip/localtv-2/img/wsfl/logo-gray.png" group-title="CW Regional(USA)", CW South Florida (WSFL)
 http://190.80.3.28/CW/CW.isml/index.m3u8
 
