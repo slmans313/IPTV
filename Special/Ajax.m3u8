@@ -200,10 +200,16 @@ http://61.58.60.230:9319/live/75.m3u8
 http://61.58.60.230:9319/live/102.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-HD.png" group-title="European/South American Sports", Eurosport 1
-http://89.187.181.233:25461/nerpa/kIPJTeNRoe/2088
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="European/South American Sports", Eurosport 2
-http://89.187.181.233:25461/nerpa/kIPJTeNRoe/2087
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1.png" group-title="European/South American Sports",Arena Sport 1
+http://93.155.247.249/m3u8/arenasport1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA2.png" group-title="European/South American Sports",Arena Sport 2
+http://93.155.247.249/m3u8/arenasport2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA3.png" group-title="European/South American Sports",Arena Sport 3
+http://93.155.247.249/m3u8/arenasport3.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4.png" group-title="European/South American Sports",Arena Sport 4
+http://93.155.247.249/m3u8/arenasport4.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA5.png" group-title="European/South American Sports",Arena Sport 5
+http://93.155.247.249/m3u8/arenasport5.m3u8
 #EXTINF:-1 tvg-logo="http://ioamoilfoggia.it/wp-content/uploads/2017/05/rai-sport-piu-hd.jpg" group-title="European/South American Sports", Rai Sports Plus
 https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.polsatsport.pl/templates/psport2014/gfx/logo-polsat-sport.png" group-title="European/South American Sports", Polsat Sport
@@ -233,7 +239,7 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Sports +
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/00/01/11/06s.png" group-title="Russian Sports", Матч!
-https://sportmir.tv/match_tv_hd/index.m3u8?token=sportmirtv
+http://193.111.244.23:7676/match_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/27/p1d.png" group-title="Russian Sports", Матч! Арена
 http://st5.allplay.uz/iptv/19/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/07/92/25/hla.png" group-title="Russian Sports", Матч! Страна
@@ -241,15 +247,11 @@ http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/32/i2o.png" group-title="Russian Sports", Матч! Игра
 http://st5.allplay.uz/iptv/79/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png" group-title="Russian Sports",МАТЧ! Футбол 1
-https://sportmir.tv/match_futbol1_hd/index.m3u8?token=sportmirtv
+http://st5.allplay.uz/iptv/68/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/30/olz.png" group-title="Russian Sports",МАТЧ! Футбол 2 
-https://sportmir.tv/match_futbol2_hd/index.m3u8?token=sportmirtv
+http://st5.allplay.uz/iptv/24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/31/u02.png" group-title="Russian Sports",МАТЧ! ФУТБОЛ 3
-https://sportmir.tv/match_futbol3_hd/index.m3u8?token=sportmirtv
-#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/futbol-1-ua.jpg" group-title="Russian Sports", Футбол 1
-https://sportmir.tv/futbol1_ua_hd/index.m3u8?token=sportmirtv
-#EXTINF:-1 tvg-logo="http://www.frocus.net/images/logotv/original/futbol-2-ua.jpg" group-title="Russian Sports", Футбол 2
-https://sportmir.tv/futbol2_ua_hd/index.m3u8?token=sportmirtv
+http://193.111.244.23:7676/football_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/c/ce/%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg/1024px-%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg.png" group-title="Russian Sports",МАТЧ ПРЕМЬЕР
 http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/220/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.football-tv.ru/wp-content/uploads/2017/11/logo-mini-1.png" group-title="Russian Sports", Телеканал Футбол
