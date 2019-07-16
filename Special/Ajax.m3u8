@@ -10,7 +10,7 @@ http://203.207.56.228/live/iptv001.m3u8
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN 
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2 
-http://161.0.157.6/PLTV/88888888/224/3221226881/index.m3u8
+http://185.246.209.109:8080/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espnu.png" group-title="ESPN",ESPN U
 http://185.246.209.109:8080/ESPNU/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pipul.tv/wp-content/uploads/2018/08/espnews.png" group-title="ESPN",ESPN News
@@ -70,6 +70,8 @@ http://34.210.107.160:80/live/cyx-3ABEF41742F6b4bf681424B4E0B9.ts
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="MMA", FightBox
 http://92.43.140.249/s86/04.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UFCTV.us.png" group-title="MMA",UFC Fight Pass
+http://185.246.209.109:8080/UFC_FIGHT_PASS/index.m3u8
 
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -118,6 +120,8 @@ http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221226177/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="American Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="American Sports",NBA TV
+http://185.246.209.109:8080/NBA9/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NewEnglandSportsNetworkPlus.us.png" group-title="American Sports",NESN
 http://185.246.209.109:8080/NESN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="American Sports",NFL Network
