@@ -82,6 +82,8 @@ http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BET.us.png" group-title="Entertainment", BET
+http://185.246.209.109:8080/BET/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Bravo.us.png" group-title="Entertainment", Bravo
 http://185.246.209.109:8080/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
@@ -186,7 +188,9 @@ http://27.254.149.109:8081/bypass/Foxfamily/playlist.m3u8
 http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX
 http://27.254.149.109:8081/bypass/FXHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXX.us.png" group-title="Movies",FX
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXM.us.png" group-title="Movies",FXM
+http://185.246.209.109:8080/FXM/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXX.us.png" group-title="Movies",FXX
 http://185.246.209.109:8080/FXX/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO.ca.png" group-title="Movies",HBO
 http://203.207.56.228/live/iptv005.m3u8
@@ -232,6 +236,8 @@ https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CMT_2017.png/263px-CMT_2017.png" group-title="Music",CMT 
+http://185.246.209.109:8080/CMT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZmYjEwOTktYmFiYi00ZjBhLWJkMDEtODhlMTU2Zjg2M2M1XkEyXkFqcGdeQXVyNDY5MTI4ODg@._V1_SX1777_CR0,0,1777,999_AL_.jpg" group-title="Music", Dance Music TV
