@@ -640,6 +640,8 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", 1TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gisher.org/images1/armtv/h2big.jpg" group-title="Armenia(Հայաստան)", H2
+http://ott-cdn.ucom.am/s2/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.21tv.am/img/21tv.png" group-title="Armenia(Հայաստան)", Դար 21
 http://ott-cdn.ucom.am/s10/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCVuwfC.png" group-title="Armenia(Հայաստան)", 5-րդ ալիք
@@ -652,6 +654,10 @@ http://ott-cdn.ucom.am/s11/04.m3u8
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 #EXTINF:-1 tvg-logo="https://armeniatv.am/pics/logo_1.png" group-title="Armenia(Հայաստան)", Armenia
 http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:-1 tvg-logo="http://arabictvs.com/video-elements/files/2009/10/amga-tv.jpg" group-title="Armenia(Հայաստան)",Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/mtv-armenia-hd.png" group-title="Armenia(Հայաստան)", Armenia Music
+http://v3.myowntv.org/content/35978/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.armeniatv.am/pics/premium-h.png" group-title="Armenia(Հայաստան)", Armenia Premium 1
 http://ott-cdn.ucom.am/s83/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o2rwtC8.png" group-title="Armenia(Հայաստան)",Armenia Premium 2
@@ -680,10 +686,16 @@ http://ott-cdn.ucom.am/s53/04.m3u8
 http://ott-cdn.ucom.am/s3/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Armenia(Հայաստան)", Kentron
 http://ott-cdn.ucom.am/s5/04.m3u8
+#EXTINF:-1 tvg-logo="https://media.am/sites/default/files/story_gallary/2019/02/12/logo-01.jpg" group-title="Armenia(Հայաստան)",MoTV
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:-1 tvg-logo="http://tbn.am/wp-content/uploads/2016/04/logo-tbn-new-e1455708114554.png" group-title="Armenia(Հայաստան)", TBN Armenia
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://static.pn.am/images/panarmenian_net_logotype.gif group-title="Armenia(Հայաստան)", PanArmenia
+http://37.221.175.40:8082/Panarm/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="http://haytube.am/wp-content/uploads/2016/04/usarmenia-300x150.jpg" group-title="Armenia(Հայաստան)",US Armenia
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-#EXTINF:-1 tvg-logo="http://yerkirmedia.am/wp-content/uploads/2017/04/logo_for-site.png" group-title="Armenia(Հայաստան)", Yerkir Media
-http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
+#EXTINF:-1 tvg-logo="http://yerkirmedia.am/wp-content/uploads/2017/04/logo_for-site.png" group-title="Armenia(Հայաստան)",Yerkir Media
+http://ott-cdn.ucom.am/s7/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Az%C9%99rbaycan_Televiziya_logo.png" group-title="Azerbaijan(Azərbaycan)",AZ
 http://streams2.livetv.az/azerbaijan/aztvhd/playlist.m3u8
