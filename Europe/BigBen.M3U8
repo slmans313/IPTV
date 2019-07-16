@@ -1,27 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Alibi.uk.png" group-title="UK", Alibi
-http://94.46.222.90:3547
-#EXTINF:-1 tvg-logo="https://www.abntv.co/wp-content/uploads/2018/12/logo-header-sky.png" group-title="UK", ABN TV
-http://94.46.222.90:6711
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
 http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC Two
 http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:48:53:86&uid=471
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCAlba.uk.png" group-title="UK", BBC Alba
-http://185.53.163.214:5678/ipvt_008
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/BENTV.png/225px-BENTV.png" group-title="UK", Ben TV
-http://94.46.222.90:6712
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Blaze.uk.png" group-title="UK", Blaze
 http://tclhosting.com/test/miniProxy.php/http://d2m1uxwc5tgx9.cloudfront.net/blaze/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="News",Bloomberg UK
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="UK",CBBC
-http://185.53.163.214:5678/ipvt_009
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eden.uk.png" group-title="UK",Eden
-http://94.46.222.90:3548
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/GoodFood.uk.png" group-title="UK",Good Food
-http://94.46.222.90:3545
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
 http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK", ITV 2
@@ -38,50 +22,21 @@ http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:48:53:86&uid=471
 http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK",5 Star
 http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:48:53:86&uid=471
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/5Spike_Logo.svg/1200px-5Spike_Logo.svg.png" group-title="UK",5 Spike
-http://94.46.222.90:6702
 #EXTINF:-1 tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK", British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-video=150000-audio_AACL_eng_65600_120=65600.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="UK", English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK",Channel 4
 http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:48:53:86&uid=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" group-title="UK",Film 4
-http://94.46.222.90:3542
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",E4
 http://62.210.27.219:80/live.ts?channelId=19&deviceMac=00:1A:79:48:53:86&uid=471
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/GOLD.uk.png" group-title="UK", Gold
-http://94.46.222.90:3543
 #EXTINF:-1 tvg-logo="http://www.marcroberts.ie/News/img_news/keep-it-country.png" group-title="UK", Keep It Country
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.co.uk/wp-content/uploads/2017/11/logo-mytv-branco_300px.png" group-title="UK", myTV
-http://94.46.222.90:4139
-#EXTINF:-1 tvg-logo="http://www.ptcnetwork.tv/wp-content/uploads/2016/06/ptc-punjabi.jpg"  group-title="UK",PTC Punjabi UK
-http://94.46.222.90:5509
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="UK",RT UK
 http://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/12/ROK.png" group-title="UK", ROK
-http://94.46.222.90:5520
-#EXTINF:-1 tvg-logo="http://www.sikhchannel.tv/wp-content/uploads/2014/10/sc-logo-160x160.png" group-title="UK",Sikh Channel UK
-http://94.46.222.90:5534
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Showcase_Logo_2015.png/225px-Showcase_Logo_2015.png" group-title="UK",Showcase TV
-http://94.46.222.90:5531
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Sony_crime.png" group-title="UK",Sony Crime
-http://94.46.222.90:4363
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png" group-title="UK",True Entertainment
-http://94.46.222.90:4366
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/True_Movies.png/200px-True_Movies.png" group-title="UK",True Movies
-http://94.46.222.90:4364
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK", TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UK",UTV
-http://185.53.163.214:5678/ipvt_012
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/W.uk.png" group-title="UK",W
-http://94.46.222.90:3544
-#EXTINF:-1 tvg-logo="http://yangatv.com/wp-content/themes/yanga/assets/images/logos/logo-yanga-header.png" group-title="UK",Yanga! TV
-http://94.46.222.90:5519
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="USA/Canada",Animal Planet (Canada)
 http://80.80.160.168/live/1/1500000/live.m3u8
@@ -117,6 +72,8 @@ http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-logo="https://www.elreynetwork.com/images/logo.png" group-title="USA/Canada",El Rey
 http://185.246.209.109:8080/test/mpegts
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpgg"  group-title="USA/Canada", EMCI TV Montréal
 https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA/Canada",Filmrise Classics
@@ -151,12 +108,12 @@ http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/1200px-PBS_Logo.svg.png" group-title="USA/Canada",PBS
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/1200px-PBS_Logo.svg.png" group-title="USA/Canada",PBS America
-http://94.46.222.90:6728
 #EXTINF:-1 tvg-logo="https://cdn.poptv.com/Pop_logo_KFC_2.png" group-title="USA/Canada",POP
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA/Canada",Rev'n
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ReelzChannel.us.png" group-title="USA/Canada",Reelz
+http://185.246.209.109:8080/REELZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUS.ru.png" group-title="USA/Canada",RT US
 http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G4C6z9h.jpg" group-title="USA/Canada",SafeTV4U2
