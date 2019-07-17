@@ -207,13 +207,13 @@ http://176.10.117.12:8081/aypitv/France2HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png"  group-title="France(français)",  France 3
 http://109.236.92.216:9090/France3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France4.fr.png"  group-title="France(français)",  France 4
-https://s6.tntendirect.com/france4/live/playlist.m3u8
+https://s6.tntendirect.com/france4/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDE5IDU6MzE6MzYgUE0maGFzaF92YWx1ZT11ODZQdnFJVFJZeTUyQkRnVW9obVJnPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France5.fr.png"  group-title="France(français)",  France 5
-https://s2.tntendirect.com/france5/live/playlist.m3u8
+https://s7.tntendirect.com/france5/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDE5IDU6MzI6MDEgUE0maGFzaF92YWx1ZT1LempqV1lud2xPL2JJSE1KQlR4ekd3PT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 tvg-logo="http://servicepresse.arte.tv/static/img/ARTE-seul-2.png"  group-title="France(français)", Arte
 http://176.10.117.12:8081/aypitv/ArteHd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tntendirect.com/images/channel/6ter.png"  group-title="France(français)",  6ter
-https://s1.tntendirect.com/6ter/live/playlist.m3u8
+https://s1.tntendirect.com/6ter/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDE5IDU6MzI6NDEgUE0maGFzaF92YWx1ZT1MUVFlYWQ3UXp0SlFjV1lZK1NuU0dnPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png"  group-title="France(français)", BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_48566ee80198edc8188a34286e41ee46/logo200.jpg?size=200"  group-title="France(français)", BFM Business
@@ -245,7 +245,7 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-logo="https://www.grandlille.tv/wp-content/uploads/2018/10/grand-lille-info-tv-logo.png" group-title="France(français)", Grand Lille TV 
 http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-gulli.jnsmedia.fr/bundles/jeunesseintegrationgulli/images/header/logo-gulli.png" group-title="France(français)", Gulli
-https://s1.tntendirect.com/gulli/live/chunks.m3u8
+https://s6.tntendirect.com/gulli/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDE5IDU6MzQ6MDQgUE0maGFzaF92YWx1ZT10REUyWUl2RExwY2o3cmRZR0tSM1RRPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/logo.jpg" group-title="France(français)", Gong
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.gongnetworks.com/images/bt-gongmax-hover.jpg"  group-title="France(français)", Gong Max
