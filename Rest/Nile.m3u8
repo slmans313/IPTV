@@ -32,7 +32,7 @@ http://95.170.215.109/hls/CBC-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbc-eg.com/assets/images/cbc-drama-logo.png" group-title="Egypt (مَصر)",CBC Drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Cbc_sofra_logo.png" group-title="Egypt (مَصر)",CBC Sofra
-http://95.170.215.124/live/disk1/CBC_Sofra/anevia1/CBC_Sofra.m3u8
+http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="http://csat.tv/images/1234.PNG" group-title="Egypt (مَصر)",Coptic Sat 
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/16257/logo_ctv5.png" group-title="Egypt (مَصر)", Coptic TV
@@ -43,8 +43,6 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
 http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/DMC-Drama-webtvonlive-com.jpg" group-title="Egypt (مَصر)", DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1 tvg-logo="http://www.mazzikagroup.com/Images/mazzika_logo.png" group-title="Egypt (مَصر)", Mazzika
-http://95.170.215.124/live/disk1/Mazzika/anevia1/Mazzika.m3u8
 #EXTINF:-1 tvg-logo="http://www.niletc.tv/images/cinema/cinema.png" group-title="Egypt (مَصر)",Nile Cinema
 http://109.236.92.216:9090/nile_cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.niletc.tv/images/comedy/comedy.png" group-title="Egypt (مَصر)",Nile Comedy
@@ -59,8 +57,6 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Mody-Kids-TV.png" group-title="Egypt (مَصر)", Mody Kids
 http://109.236.92.216:9090/Mody_Kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1164_1.png" group-title="Egypt (مَصر)", PNC
-http://95.170.215.124/live/disk1/Panorama-Drama/anevia1/Panorama-Drama.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="Egypt (مَصر)", Rotana Aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="Egypt (مَصر)", Rotana Cinema
@@ -75,8 +71,8 @@ http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Egypt (مَصر)",Rotana Music
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3q8Guij10mU/XE7VztdewXI/AAAAAAAAASU/ixIpazgT438JbrxtCWp-jDBSMxCzLPhpgCLcBGAs/s1600/720.png" group-title="Egypt (مَصر)",Toktok Aflam
-http://95.170.215.124/live/disk1/TOKTOK-AFLAM/anevia1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.watanegypt.tv/design/home/img/logo.png" group-title="Egypt (مَصر)",Watan
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea", Televisión de Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w2108596902_b1500000.m3u8
