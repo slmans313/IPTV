@@ -10,6 +10,8 @@ https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
 https://live2.hoolatv.com/live/bbcfour_hi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Blaze.uk.png" group-title="UK", Blaze
 http://tclhosting.com/test/miniProxy.php/http://d2m1uxwc5tgx9.cloudfront.net/blaze/live.m3u8
+#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/citv.png group-title="UK", Citv
+https://live2.hoolatv.com/live/citv_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
 https://live2.hoolatv.com/live/itv_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK", ITV 2
@@ -20,26 +22,32 @@ https://live2.hoolatv.com/live/itv3_hi/chunks.m3u8?__fvd__
 https://live2.hoolatv.com/live/itv4_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK", ITV BE
 https://live2.hoolatv.com/live/itvbe_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK",Channel 4
+https://live2.hoolatv.com/live/channel4_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",E4
+https://live2.hoolatv.com/live/e4_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",More 4
+https://live2.hoolatv.com/live/more4_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/4music.png" group-title="UK",4 Music
+https://live2.hoolatv.com/live/4music_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK",Channel 5
-http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:48:53:86&uid=471
+https://live2.hoolatv.com/live/channel5_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="UK",Channel 5 USA
-http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:48:53:86&uid=471
+https://live2.hoolatv.com/live/5usa_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK",5 Star
-http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:48:53:86&uid=471
+https://live2.hoolatv.com/live/5star_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK", British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-video=150000-audio_AACL_eng_65600_120=65600.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="UK", English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK",Channel 4
-http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:48:53:86&uid=
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",E4
-http://62.210.27.219:80/live.ts?channelId=19&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="http://www.marcroberts.ie/News/img_news/keep-it-country.png" group-title="UK", Keep It Country
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="UK",RT UK
 http://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK", TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Quest.uk.png" group-title="UK", Quest
+https://live2.hoolatv.com/live/quest_hi/chunks.m3u8?__fvd__
 
 #EXTINF:-1 tvg-logo="https://thumbnail.imgbin.com/23/20/7/imgbin-american-broadcasting-company-logo-big-three-television-networks-freeform-abc-news-jingdong-broadcasting-co-KWKAkEcDZv6dkyE2FuYVv0MpA_t.jpg" group-title="USA/Canada",CBC
 http://185.246.209.109:8080/ABC/index.m3u8
