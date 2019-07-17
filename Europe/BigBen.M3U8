@@ -1,21 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
-http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:48:53:86&uid=471
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC Two
-http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:48:53:86&uid=471
+https://live2.hoolatv.com/live/bbcone_hi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
+https://live2.hoolatv.com/live/bbctwo_hi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="UK", CBBC
+https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four
+https://live2.hoolatv.com/live/bbcfour_hi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Blaze.uk.png" group-title="UK", Blaze
 http://tclhosting.com/test/miniProxy.php/http://d2m1uxwc5tgx9.cloudfront.net/blaze/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
-http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:48:53:86&uid=471
+https://live2.hoolatv.com/live/itv_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK", ITV 2
 https://live2.hoolatv.com/live/itv2_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK", ITV 3
-http://62.210.27.219:80/live.ts?channelId=15&deviceMac=00:1A:79:48:53:86&uid=471
+https://live2.hoolatv.com/live/itv3_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK", ITV 4
-http://62.210.27.219:80/live.ts?channelId=16&deviceMac=00:1A:79:48:53:86&uid=471
+https://live2.hoolatv.com/live/itv4_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK", ITV BE
-http://62.210.27.219:80/live.ts?channelId=17&deviceMac=00:1A:79:48:53:86&uid=471
+https://live2.hoolatv.com/live/itvbe_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK",Channel 5
 http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:48:53:86&uid=471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="UK",Channel 5 USA
