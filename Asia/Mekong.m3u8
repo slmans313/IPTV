@@ -203,8 +203,12 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(03)/index.
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/GMA_Pinoy_TV_2005.png/revision/latest/scale-to-width-down/300?cb=20160908041333" group-title="Phillippines(Pilipinas)", GMA Pinoy
+#EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/gmap.png" group-title="Phillippines(Pilipinas)", GMA Pinoy
 http://164.40.161.43:10011
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_%28ABC5%29_Logo.svg/330px-TV5_%28ABC5%29_Logo.svg.png" group-title="Phillippines(Pilipinas)", 5
+http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/5_Plus_2019_logo.svg/330px-5_Plus_2019_logo.svg.png" group-title="Phillippines(Pilipinas)", 5 Plus
+http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w1575736103.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" group-title="Phillippines(Pilipinas)", CNN Phillippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg" group-title="Phillippines(Pilipinas)",TBN Asia
