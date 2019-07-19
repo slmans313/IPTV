@@ -14,10 +14,12 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="http://www.chsuk.tv/img/cateringcircle.png" group-title="Bengali(বাংলা)",Channel S
 http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bengali(বাংলা)", Gazi TV
-http://tv.mirpurnetbd.com:8081/2/2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/288px-Channel-i.svg.png" group-title="Bengali(বাংলা)", Channel I
 http://162.254.149.187:1935/live/channel-i/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digibangla.tech/wp-content/uploads/2019/05/digibangla-r.png" group-title="Bengali(বাংলা)",Digi Bangla
+http://130.185.150.79:1935/db24/digibangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bengali(বাংলা)", Gazi TV
+http://tv.mirpurnetbd.com:8081/2/2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.iplustv.com/webtheme/images/logo.png" group-title="Bengali(বাংলা)", I Plus TV
 https://5aba747f60841.streamlock.net/unevent/smil:iplustv.smil/chunklist_w1906442699_b848000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="Bengali(বাংলা)", Independent
@@ -110,3 +112,5 @@ https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_1
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/zoom.png" group-title="Hindi(हिन्दी)",  Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hindi(हिन्दी)",  Zee Cinema
+http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
