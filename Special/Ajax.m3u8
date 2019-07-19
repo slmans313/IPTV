@@ -61,13 +61,14 @@ http://203.162.235.41:16924
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Racing",Fox Sports Racing
 http://161.0.157.6/PLTV/88888888/224/3221226181/01.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Racing",Fox Sports 3 Latinoamérica
-http://34.210.107.160:80/live/cyx-3ABEF41742F6b4bf681424B4E0B9.ts
+
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="MMA", FightBox
 http://92.43.140.249/s86/04.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UFCTV.us.png" group-title="MMA",UFC Fight Pass
 http://185.246.209.109:8080/UFC_FIGHT_PASS/index.m3u8
+#EXTINF:-1  tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png"  group-title="MMA",  Combate
+https://azuls.azureedge.net/hls1/combate.m3u8
 
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -224,8 +225,12 @@ https://hls.telekabel.com.mk:1936/live/21/2500-def.m3u8
 https://hls.telekabel.com.mk:1936/live/31/2500-def.m3u8
 #EXTINF:-1  tvg-logo="http://sportklub.rs/assets/images/programs/epg/w_sk_3.png"  group-title="European/South American Sports", Sport Klub 3
 https://hls.telekabel.com.mk:1936/live/41/2500-def.m3u8
-#EXTINF:-1  tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/tyc_sports_c.png"  group-title="European/South American Sports", TyC SPORTS
-http://34.210.107.160/live/cyx-4024403E46E7afde33D0C369FE4D.ts
+#EXTINF:-1  tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png"  group-title="European/South American Sports", Sportv
+https://azuls.azureedge.net/hls1/sportv1.m3u8
+#EXTINF:-1  tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png"  group-title="European/South American Sports", Sportv 2
+https://azuls.azureedge.net/hls1/sportv2.m3u8
+#EXTINF:-1  tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png"  group-title="European/South American Sports", Sportv 3
+https://azuls.azureedge.net/hls1/sportv3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Eurasia
