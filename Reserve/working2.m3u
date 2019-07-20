@@ -89,12 +89,6 @@ http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", 1TV
 https://amtvdvr.tulix.tv/am2abr/tracks-v3a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/24Horas.es.png" group-title="Spanish(español)", 24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0400_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
-https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/apple-touch-icon.png" group-title="News",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
@@ -136,12 +130,6 @@ https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://inter.ua/images/logo.png" group-title="Ukraine(Україна)",Iнтер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://prm.ua/wp-content/themes/prm-new/img/header-logo.png" group-title="Ukraine(Україна)",Прямий
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
-
-#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181001132346096.jpg" group-title="Ukraine(Україна)", Київ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-
 #EXTINF:-1 tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="Ukraine(Україна)",KRATU
 http://46.175.163.130/vod/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="Ukraine(Україна)",KRATU
@@ -149,12 +137,6 @@ http://212.113.32.169:8080/Apple/2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://o-tv.tv/img/logo.png" group-title="Ukraine(Україна)",OTV
 http://212.26.146.148/hls/otv.m3u8
-
-#EXTINF:-1 tvg-logo="http://1zahid.com/img/logo.png" group-title="Ukraine(Україна)", Перший західний
-http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
-
-#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Ukraine(Україна)",Рада
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://yatb.tv/wp-content/uploads/2018/03/73d917e7-logo.jpg" group-title="Ukraine(Україна)",ЯТБ
 http://46.175.163.130/vod/8/index.m3u8
@@ -183,11 +165,9 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv7
 #EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" group-title="Kuawait (الكويت)", Kuwait Arabe
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv6
 
-#EXTINF:-1 tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" group-title="Morooco(المغرب‎)",Assadissa
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-
 #EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+
 #EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
 https://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/index.m3u8
 
@@ -213,6 +193,9 @@ http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8
 #EXTINF:-1,Ланет PLAY
 http://play.lanet.tv/live/2003.m3u8
+
+#EXTINF:-1 tvg-logo="https://ictv.ua/wp-content/themes/ictv/includes/images/new_design/new_logo.png" group-title="Ukraine(Україна)", ICTV
+http://194.44.203.253/hls/6/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CNBCWorld.us.png" group-title="News",CNBC World
 http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
