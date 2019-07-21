@@ -116,6 +116,8 @@ http://185.246.209.109:8080/HGTV/index.m3u8
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Lifetime.th.png" group-title="Entertainment", Lifetime
 http://185.246.209.109:8080/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="Entertainment", Outdoor Channel
+http://185.246.209.109:8080/OUTDOOR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png"  group-title="Entertainment",Runway TV
@@ -218,6 +220,8 @@ http://185.246.209.109:8080/FXX/index.m3u8
 http://185.246.209.109:8080/HALLMARK_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO.ca.png" group-title="Movies",HBO
 http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/290.png" group-title="Movies",HBO Comedy
+http://185.246.209.109:8080/HBO_COMEDY/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
 http://203.207.56.228/live/iptv006.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
@@ -252,6 +256,10 @@ http://185.246.209.109:8080/Starz_CINEMA/index.m3u8
 http://185.246.209.109:8080/Starz_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/StarzEncore.us.png" group-title="Movies",Starz Encore
 http://185.246.209.109:8080/Starz_ENCORE/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.amcnetworks.com/sundance/logos/sundance_tv_logo.png" group-title="Movies",Sundance TV
+http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png group-title="Movies",Starz Family
+http://185.246.209.109:8080/STARZ_KIDS/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/WB-Logo.PNG" group-title="Movies",WB Channel
 http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="Movies",Western 4U
@@ -268,16 +276,6 @@ http://185.246.209.109:8080/CMT/index.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZmYjEwOTktYmFiYi00ZjBhLWJkMDEtODhlMTU2Zjg2M2M1XkEyXkFqcGdeQXVyNDY5MTI4ODg@._V1_SX1777_CR0,0,1777,999_AL_.jpg" group-title="Music", Dance Music TV
 https://vcndmtv.teleosmedia.com/stream/dmtv/dmtv/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-edm-mainstage.jpg" group-title="Music" group-title="Music",DanceTV EDM Mainstage
-https://content-aeui1.uplynk.com/122c5b282f1c4b5d91187fe1819446a5/g.m3u8
-#EXTINF:-1 tvg-logo="http://www.dancetv.hu/images/logo/dancetv_logo_gold_small.png" group-title="Music" group-title="Music",DanceTV Algorhythm
-https://content-aeui1.uplynk.com/dfc594bfc9f946e1936521000cfa706c/g.m3u8
-#EXTINF:-1 tvg-logo="http://www.dancetv.hu/images/logo/dancetv_logo_gold_small.png" group-title="Music" group-title="Music",DanceTV Deep Tech Minimal
-https://content-aeui1.uplynk.com/1c26c11f8d294765b09de6681e50b3bb/g.m3u8
-#EXTINF:-1 tvg-logo="http://www.dancetv.hu/images/logo/dancetv_logo_gold_small.png" group-title="Music" group-title="Music",DanceTV House Floor
-https://content-aeui1.uplynk.com/242958bda884470d8337512ae3b6133b/g.m3u8
-#EXTINF:-1 tvg-logo="http://www.dancetv.hu/images/logo/dancetv_logo_gold_small.png" group-title="Music" group-title="Music",DanceTV Deep House District
-https://content-aeui1.uplynk.com/7c0b119ac2884fd6bb99e8504e66a46a/g.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" group-title="Music" group-title="Music",Ditty TV
 https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w1540160005.m3u8
 #EXTINF:-1 tvg-logo="https://indiewaveentertainment.com/wp-content/uploads/2017/09/logo_square.png" group-title="Music",IndieWave
