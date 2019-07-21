@@ -60,6 +60,10 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="Brasil",RedeTV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+#EXTINF:-1 tvg-logo="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png"  group-title="Brasil",Globo
+http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
+#EXTINF:-1 tvg-logo="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png"  group-title="Brasil",Globo
+http://192.119.9.66/live/765F0119-14A6-4092-a1ac-B90749DF5BAC.ts
 #EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="Brasil",Globo News
 http://192.119.9.66:80/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts
 #EXTINF:-1 tvg-logo="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" group-title="Brasil",Globo São Paulo
@@ -70,14 +74,10 @@ https://d2x66w752hdvvk.cloudfront.net/hls1/boborj.m3u8
 http://192.119.9.66/live/cbcc8be34dae221438ec265721521995.ts
 #EXTINF:-1 tvg-logo="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" group-title="Brasil",Globo Nordeste
 https://d2x66w752hdvvk.cloudfront.net/hls1/bobonordeste.m3u8
-#EXTINF:-1 tvg-logo="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png"  group-title="Brasil",Globo
-http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts
-#EXTINF:-1 tvg-logo="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png"  group-title="Brasil",Globo
-http://192.119.9.66/live/765F0119-14A6-4092-a1ac-B90749DF5BAC.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png" group-title="Brasil",Record News
+https://d2x66w752hdvvk.cloudfront.net/hls1/recordsp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Logo_of_Record_News.jpg/220px-Logo_of_Record_News.jpg" group-title="Brasil",Record News
 http://192.119.9.66:80/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Brasil",Cartoon Network Brasil
-http://192.119.9.66:80/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 #EXTINF:-1 tvg-logo="https://www.playplus.com/assets/images/im_logo.png" group-title="Brasil",Playplus
 http://192.119.9.66/live/izvEVcVeGFsxgElhIQSgp1io3tc1EzRO.ts
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Ctj1w022X8o/V46T65nb_CI/AAAAAAAAkKM/8VjGhia7L7EE9bccoCQitOJMNTAgz-tqQCLcB/s1600/sportv-premiere.jpg" group-title="Brasil",Sportv Premiere
@@ -90,18 +90,81 @@ http://192.119.9.66:80/live/04FC1508-FAF2-49E6-944f-4821DD152F32.ts
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022014/untitled-1_11.png" group-title="Brasil",Canção Nova 
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/G1_logo.svg/225px-G1_logo.svg.png" group-title="Brasil",G1
-http://lista.digitalgroup.me:80/live/JorgeC/11223344/17129.m3u8
 #EXTINF:-1 tvg-logo="http://www.jkfm.com.br/site//assets/imagem/logo/logo-jk.png" group-title="Brasil",JK FM
 http://rtmp.cdn.upx.net.br/7cdd_2/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png" group-title="Brasil",Megapix
+https://d2x66w752hdvvk.cloudfront.net/hls1/megapix.m3u8
 #EXTINF:-1 tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_1.png" group-title="Brasil",Rede New
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png" group-title="Brasil",Tele Cine Action
+https://d2x66w752hdvvk.cloudfront.net/hls1/telecineaction.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/TC_Fun.png" group-title="Brasil",Tele Cine Fun
+https://d2x66w752hdvvk.cloudfront.net/hls1/telecinefun.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png" group-title="Brasil",Tele Cine Pipoca
+https://d2x66w752hdvvk.cloudfront.net/hls1/telecinepipoca.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/TC_Premium.png" group-title="Brasil",Tele Cine Premium
+https://d2x66w752hdvvk.cloudfront.net/hls1/telecinepremium.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TC_Touch.png" group-title="Brasil",Tele Cine Touch
+https://d2x66w752hdvvk.cloudfront.net/hls1/telecinetouch.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/TVN-Brasil-webtvonlive.com_.jpg group-title="Brasil",TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-eXchZx_nEGo/VtSeURcIo1I/AAAAAAAAFOI/jSPWDVZrwv8/s1600/LOGO%2BTV-0.png" group-title="Brasil",TV Aracati
 http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.pngg" group-title="Brasil",Tooncast
+https://d2x66w752hdvvk.cloudfront.net/hls1/tooncast.m3u8
 #EXTINF:-1 tvg-logo="https://webmusic.tv/uploads/custom-logo.png" group-title="Brasil",Web Music TV
 http://stmv1.ifantasy.com.br/webmusictv/webmusictv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Brasil", AXN Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/axn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="Brasil", Boomerang Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Brasil",Cartoon Network Brasil
+http://192.119.9.66:80/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
+#EXTINF:-1 tvg-logo="http://www.cc.com/sitewide/images/logos/cc_site_logo_2018.png" group-title="Brasil",Comedy Central Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/comedycentral.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Brasil", Disney Channel Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/disney.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Brasil", Disney Junior Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/disneyjunior.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO.ca.png" group-title="Brasil",HBO Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO2.ca.png" group-title="Brasil",HBO 2 Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/hbo2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="Brasil",HBO Family Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/hbofamily.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Brasil",HBO Signature Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/hbosignature.m3u8
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/HBO_PLUS__Black-lr.png" group-title="Brasil",HBO Plus Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/hboplus.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/network/fox.png" group-title="Brasil",FOX Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/fox.m3u8
+#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2017/09/FOX-PREMIUM-1-aplicacio%CC%81n-fondo-claro.png" group-title="Brasil", FOX Premium 1
+https://d2x66w752hdvvk.cloudfront.net/hls1/foxpremium1.m3u8
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498272/FOX_Premium_2_HD.png" group-title="Brasil", FOX Premium 2
+https://d2x66w752hdvvk.cloudfront.net/hls1/foxpremium2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Brasil",FX Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/fx.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Brasil",Discovery Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/HistoryChannel.ph.png" group-title="Brasil",History Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/history.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Brasil",MTV Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/mtv.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Brasil", National Geo Wild
+https://d2x66w752hdvvk.cloudfront.net/hls1/natgeowild.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Nickelodeon.kr.png" group-title="Brasil", Nickelodeon Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/nick.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Brasil", Nickelodeon Jr Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/nickjr.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Brasil", Parmount
+https://d2x66w752hdvvk.cloudfront.net/hls1/paramount.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="Brasil",SYFY Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/syfy.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Brasil",TLC Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/tlc.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TNT.us.png" group-title="Brasil",TNT Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/tnt.m3u8
 
 
 
