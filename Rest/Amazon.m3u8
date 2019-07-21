@@ -56,6 +56,8 @@ http://136.243.3.70:1935/PalenqueTv/PalenqueTv/palylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/boliviatv-2.png" group-title="Bolivia",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.band.uol.com.br/core/includes/menu-unico/images/logo-band.png" group-title="Brasil",Band News
+http://192.119.9.66/live/A92D0C31-58A1-41D7-bdd0-1F60F3C78153.ts
 #EXTINF:-1 tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png" group-title="Brasil",TV Brasil
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="Brasil",RedeTV!
@@ -98,6 +100,8 @@ https://d2x66w752hdvvk.cloudfront.net/hls1/megapix.m3u8
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png" group-title="Brasil",Tele Cine Action
 https://d2x66w752hdvvk.cloudfront.net/hls1/telecineaction.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Telecine_Cult_2.png" group-title="Brasil",Tele Cine Cult
+http://192.119.9.66/live/8D84A824-DCB7-496F-b971-C9500AFA435E.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/TC_Fun.png" group-title="Brasil",Tele Cine Fun
 https://d2x66w752hdvvk.cloudfront.net/hls1/telecinefun.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png" group-title="Brasil",Tele Cine Pipoca
@@ -149,9 +153,13 @@ https://d2x66w752hdvvk.cloudfront.net/hls1/fx.m3u8
 https://d2x66w752hdvvk.cloudfront.net/hls1/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/HistoryChannel.ph.png" group-title="Brasil",History Brasil
 https://d2x66w752hdvvk.cloudfront.net/hls1/history.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1200px-H2_TV_logo.svg.png" group-title="Brasil",H2 Brasil
+http://192.119.9.66/live/C5906BD1-EDB6-48CB-bd4e-C2D2592C1036.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Brasil",MTV Brasil
 https://d2x66w752hdvvk.cloudfront.net/hls1/mtv.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Brasil", National Geo Wild
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Brasil", National Geo
+http://192.119.9.66/live/01B287C6-63DB-4C2F-99b5-B1CA684E1866.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Brasil", National Geo Wild Brasil
 https://d2x66w752hdvvk.cloudfront.net/hls1/natgeowild.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Nickelodeon.kr.png" group-title="Brasil", Nickelodeon Brasil
 https://d2x66w752hdvvk.cloudfront.net/hls1/nick.m3u8
