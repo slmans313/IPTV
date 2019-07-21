@@ -196,10 +196,12 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/SmithsonianChannel.us.png" group-title="Learning",  Smithsonian Channel
 http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movies",Cinemax Asia
 http://203.207.56.228/live/iptv015.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/moremax.png" group-title="Movies",Cinemax Moremax
+http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png" group-title="Movies",Cinemax Thrillermax
+http://185.246.209.109:8080/THRILLERMAX/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxplus-logo.png" group-title="Movies", Filmbox Plus
 http://86.122.217.108:7300/filmboxplus
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies
@@ -208,7 +210,7 @@ http://27.254.149.109:8081/bypass/Foxfamily/playlist.m3u8
 http://161.0.157.7/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX
 http://27.254.149.109:8081/bypass/FXHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXM.us.png" group-title="Movies",FXM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png" group-title="Movies",FXM
 http://185.246.209.109:8080/FXM/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXX.us.png" group-title="Movies",FXX
 http://185.246.209.109:8080/FXX/index.m3u8
