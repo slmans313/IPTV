@@ -94,6 +94,8 @@ https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/
 http://rtmp.cdn.upx.net.br/7cdd_2/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png" group-title="Brasil",Megapix
 https://d2x66w752hdvvk.cloudfront.net/hls1/megapix.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/300px-Multishow_logo_red_2012.svg.png" group-title="Brasil",Multishow
+https://azuls.azureedge.net/hls1/multishow.m3u8
 #EXTINF:-1 tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_1.png" group-title="Brasil",Rede New
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TC_Action.png" group-title="Brasil",Tele Cine Action
@@ -128,6 +130,8 @@ https://d2x66w752hdvvk.cloudfront.net/hls1/boomerang.m3u8
 https://azuls.azureedge.net/hls1/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Brasil",Cartoon Network Brasil
 http://192.119.9.66:80/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1024px-Canal_Sony_logo.svg.png" group-title="Brasil",Canal Sony
+https://azuls.azureedge.net/hls1/sony.m3u8
 #EXTINF:-1 tvg-logo="http://www.cc.com/sitewide/images/logos/cc_site_logo_2018.png" group-title="Brasil",Comedy Central Brasil
 https://d2x66w752hdvvk.cloudfront.net/hls1/comedycentral.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Brasil", Disney Channel Brasil
@@ -136,6 +140,18 @@ https://d2x66w752hdvvk.cloudfront.net/hls1/disney.m3u8
 https://d2x66w752hdvvk.cloudfront.net/hls1/disneyjunior.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyXD.uk.png" group-title="Brasil", Disney XD Brasil
 https://azuls.azureedge.net/hls1/disneyxd.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Brasil",Discovery Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Brasil", Discovery Kids Brasil  
+https://azuls.azureedge.net/hls1/discoverykids.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/network/fox.png" group-title="Brasil",FOX Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/fox.m3u8
+#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2017/09/FOX-PREMIUM-1-aplicacio%CC%81n-fondo-claro.png" group-title="Brasil", FOX Premium 1
+https://d2x66w752hdvvk.cloudfront.net/hls1/foxpremium1.m3u8
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498272/FOX_Premium_2_HD.png" group-title="Brasil", FOX Premium 2
+https://d2x66w752hdvvk.cloudfront.net/hls1/foxpremium2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Brasil",FX Brasil
+https://d2x66w752hdvvk.cloudfront.net/hls1/fx.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO.ca.png" group-title="Brasil",HBO Brasil
 https://d2x66w752hdvvk.cloudfront.net/hls1/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO2.ca.png" group-title="Brasil",HBO 2 Brasil
@@ -146,16 +162,6 @@ https://d2x66w752hdvvk.cloudfront.net/hls1/hbofamily.m3u8
 https://d2x66w752hdvvk.cloudfront.net/hls1/hbosignature.m3u8
 #EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/HBO_PLUS__Black-lr.png" group-title="Brasil",HBO Plus Brasil
 https://d2x66w752hdvvk.cloudfront.net/hls1/hboplus.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/network/fox.png" group-title="Brasil",FOX Brasil
-https://d2x66w752hdvvk.cloudfront.net/hls1/fox.m3u8
-#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2017/09/FOX-PREMIUM-1-aplicacio%CC%81n-fondo-claro.png" group-title="Brasil", FOX Premium 1
-https://d2x66w752hdvvk.cloudfront.net/hls1/foxpremium1.m3u8
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498272/FOX_Premium_2_HD.png" group-title="Brasil", FOX Premium 2
-https://d2x66w752hdvvk.cloudfront.net/hls1/foxpremium2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Brasil",FX Brasil
-https://d2x66w752hdvvk.cloudfront.net/hls1/fx.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Brasil",Discovery Brasil
-https://d2x66w752hdvvk.cloudfront.net/hls1/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/HistoryChannel.ph.png" group-title="Brasil",History Brasil
 https://d2x66w752hdvvk.cloudfront.net/hls1/history.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1200px-H2_TV_logo.svg.png" group-title="Brasil",H2 Brasil
