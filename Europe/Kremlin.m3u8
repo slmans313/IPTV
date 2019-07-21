@@ -24,6 +24,8 @@ http://ott-cdn.ucom.am/s85/04.m3u8
 http://182.73.122.74:10005/bysid/413
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ
 http://vs350.vcdn.biz/1ff4118dc0fefcbd3ce5ae5fdf2fc482_megogo/vod/fs/o/40500701/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid333265525-b4000000.m3u8
+#EXTINF:-1 tvg-logo="https://tntmusic.ru/static/img/fb.jpg" group-title="Russia (Россия)",ТНТ Music
+http://212.112.101.69:8081/stream78/output.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.tnt-online.ru/masha_layer/img/tnt-logo-new.png" group-title="Russia (Россия)",ТНТ International
 http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
@@ -910,6 +912,10 @@ http://stream.onlinetv.kg/Streaming/HLSAndroid/19/129/af2812cb630f4906adfd06a5c6
 http://stream.onlinetv.kg/Streaming/HLSAndroid/19/135/af2812cb630f4906adfd06a5c6885225/stream.m3u8
 #EXTINF:-1 tvg-logo="http://namba.kg/tv/ima/htvkg.png" group-title="Kyrgyzstan(Кыргызстан)",Хамелеон ТВ: Телеканал
 http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/3b/New_TV_%28%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F%29.png/revision/latest?cb=20180308115738&path-prefix=ru" group-title="Kyrgyzstan(Кыргызстан)",New TV
+http://212.112.101.69:8081/stream32/output.m3u8
+#EXTINF:-1 tvg-logo="http://www.aknet.kg/files/media/osh_tv.jpg" group-title="Kyrgyzstan(Кыргызстан)",Ош ТВ
+http://212.112.101.69:8081/stream26/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://neskaties.lv/misc/lnt/logo.png" group-title="Latvia (Latvija)",LNT
 https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20001=96000-video=2200000.m3u8
