@@ -224,7 +224,7 @@ https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b
 #EXTINF:0 tvg-logo="http://churchrus-files.edgesuite.net/CHURCHR-US/537/663/INCTV.png" group-title="Phillippines(Pilipinas)", Inc TV
 https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="Myanmar(မြန်မာဘာသာ)",MRTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="Myanmar(မြန်မာဘာသာ)",မြန်မာ့အသံနှင့်ရုပ်မြင်သံကြား (MRTV)
 http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="Myanmar(မြန်မာဘာသာ)",MRTV 4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
@@ -340,9 +340,11 @@ http://stream.rs.co.th/you-hi/index.m3u8
 #EXTINF:0 tvg-logo="http://www.zabbtv.com/images/head_zabbtv.jpg" group-title="Thailand (ประเทศไทย)", Zabb TV
 http://thaitvstream.com/play/a071260/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://tv-online.im/wp-content/uploads/2013/05/tv5-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", TV5
+http://220.158.149.14:9999/live/TV00000000000000000117@HHZT;LIVE
 #EXTINF:-1  tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-Apsara-TV-Live-TV-from-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", Apsara Tv
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://bayontv.com.kh/wp-content/uploads/2018/09/bayon272_90e-2.png" group-title="Cambodia(កម្ពុជា ) ", Bayon TV 
+#EXTINF:0 tvg-logo="http://bayontv.com.kh/wp-content/uploads/2018/09/bayon272_90e-2.png" group-title="Cambodia(កម្ពុជា ) ", ទូរទស្សន៍បាយ័ន (Bayon)
 http://220.158.149.14:9999/live/TV00000000000000000122@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="Cambodia(កម្ពុជា ) ", CNC News
 http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
@@ -366,8 +368,6 @@ http://220.158.149.14:9999/live/TV00000000000000000038@HHZT;LIVE
 http://220.158.149.14:9999/live/TV00000000000000000124@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://cache.khmerlive.tv/tvk.png" group-title="Cambodia(កម្ពុជា ) ",  TVK 
 http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://tv-online.im/wp-content/uploads/2013/05/tv5-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", TV5
-http://220.158.149.14:9999/live/TV00000000000000000117@HHZT;LIVE
 #EXTINF:-1  tvg-logo="https://www.konsva.com/my_file/2017/04/tv9.jpg" group-title="Cambodia(កម្ពុជា ) ", TV9
 http://220.158.149.14:9999/live/TV00000000000000000120@HHZT;LIVE
 
