@@ -18,6 +18,13 @@ http://185.246.209.109:8080/ESPN2/index.m3u8
 http://185.246.209.109:8080/ESPNU/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pipul.tv/wp-content/uploads/2018/08/espnews.png" group-title="ESPN",ESPN News
 http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ESPN_Classic_Logo.svg/1200px-ESPN_Classic_Logo.svg.png" group-title="ESPN",ESPN Classic
+http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Fox Sports", Fox Sport 1
+http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" group-title="Fox Sports",  Fox Sport 2
+http://185.246.209.109:8080/FOX_SPORTS2/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Football",GOL TV
@@ -49,7 +56,14 @@ http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
 http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://chennailogs.willow.tv/fpdf17/WillowLogo_Black.png" group-title="Cricket",Willow 
 http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2017/08/sony-ten1.png" group-title="Cricket",Sony Ten 1
+http://globalbd.mywire.org:8081/globe/ten1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sony-ten-2-live.png" group-title="Cricket",Sony Ten 2
+http://globalbd.mywire.org:8081/globe/ten2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="Cricket",Sony Ten 3
+http://globalbd.mywire.org:8081/globe/ten3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Cricket",Sony Ten ESPN
+http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
 https://kerenua.xyz/zine/mini/miniProxy.php/http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
@@ -61,7 +75,7 @@ http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
 http://203.162.235.41:16924
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Racing",Fox Sports Racing
-http://161.0.157.6/PLTV/88888888/224/3221226181/01.m3u8
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="MMA", FightBox
 http://92.43.140.249/s86/04.m3u8 
@@ -139,6 +153,16 @@ http://185.246.209.109:8080/SPORTSNET_ONE/index.m3u8
 http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/SportsnetWorld.ca.png" group-title="American Sports", Sports Net World
 http://185.246.209.109:8080/SPORTSNET_WORLD/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN1.ca.png" group-title="American Sports", TSN 1
+http://185.246.209.109:8080/TSN1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN2.ca.png" group-title="American Sports", TSN 2
+http://185.246.209.109:8080/TSN2/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN3.ca.png" group-title="American Sports", TSN 3
+http://185.246.209.109:8080/TSN3/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN4.ca.png" group-title="American Sports", TSN 4
+http://185.246.209.109:8080/TSN4/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TSN5.ca.png" group-title="American Sports", TSN 5
+http://185.246.209.109:8080/TSN5/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png" group-title="American Sports",Yes Network
 http://185.246.209.109:8080/YES/index.m3u8
 #EXTINF:-1 tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="American Sports",NBC Sports Boston
