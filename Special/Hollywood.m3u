@@ -131,7 +131,7 @@ http://170.250.96.20:8117/streams/TBS.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TCM.us.png" group-title="Entertainment",TCM
 http://185.246.209.109:8080/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TNT.us.png" group-title="Entertainment",TNT
-http://185.246.209.109:8080/TNT/mpegts
+http://185.246.209.109:8080/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TravelChannel.us.png" group-title="Entertainment",Travel Channel
 http://185.246.209.109:8080/TRAVEL_CHANNEL/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Entertainment",TLC
@@ -237,9 +237,9 @@ http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movie 4U 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="Movies", MGM
-http://185.246.209.109:8080/MGM/mpegts
+http://185.246.209.109:8080/MGM/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Movies", Paramount
-http://185.246.209.109:8080/PARAMOUNT/mpegts
+http://185.246.209.109:8080/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="Movies",SYFY
 http://185.246.209.109:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime.us.png" group-title="Movies", Showtime
