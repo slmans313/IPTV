@@ -20,10 +20,14 @@ http://185.246.209.109:8080/ESPNU/index.m3u8
 http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ESPN_Classic_Logo.svg/1200px-ESPN_Classic_Logo.svg.png" group-title="ESPN",ESPN Classic
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png" group-title="ESPN",ESPN Brasil
+http://192.119.9.66:80/live/F17F8B9C-3510-4EEB-b30c-703934BD630E.ts
+#EXTINF:-1 tvg-logo="https://sky.vteximg.com.br/arquivos/ids/156043/espn-extra-hd.png" group-title="ESPN",ESPN Extra Brasil
+http://192.119.9.66:80/live/04FC1508-FAF2-49E6-944f-4821DD152F32.ts
 
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Fox Sports", Fox Sport 1
+#EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Fox Sports", Fox Sport 1 USA
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" group-title="Fox Sports",  Fox Sport 2
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" group-title="Fox Sports",  Fox Sport 2 USA
 http://185.246.209.109:8080/FOX_SPORTS2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/300px-FOX_Sports_logo.svg.png" group-title="Fox Sports", Fox Sport Brasil
 http://192.119.9.66/live/lou03n5lzubyfxzpa56v8lx15t0dswro.ts
