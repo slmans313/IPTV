@@ -478,8 +478,6 @@ http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://olegov.iptvzone.me/iptv/ZU54SDN3F82CRM/108/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tck.tv/img/logo778.png" group-title="Russia (Россия)",ТК Центр Красноярск
 http://www.tck.tv/hls_hd/hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TravelChannel.us.png" group-title="Russia (Россия)",Travel Channel Россия
-http://hls.telenet.lv:7878/109/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg" group-title="Russia (Россия)",Тольятти 24
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
 #EXTINF:-1 tvg-logo="http://tochkatv.tv/wp-content/uploads/2017/09/logo.png" group-title="Russia (Россия)",Точка ТВ
@@ -517,7 +515,9 @@ http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia (Россия)",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/68.png" group-title="Russia (Россия)",TV1000
-http://pub1-cdn.perm.ertelecom.ru/tv1000russkoekinohd_gibrid/0/track_2_4000/playlist.m3u8
+http://st5.allplay.uz/iptv/16/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.viasatworld.com/media/1074/actionlogo.png" group-title="Russia (Россия)",TV1000 Action
+http://212.112.101.69:8081/stream58/output.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvreclama.ru/upload/iblock/8a1/8a1b0f403a12cc8b3122bf0a0e8e978d.png" group-title="Russia (Россия)",ТV1000 Русское кино
 http://st5.allplay.uz/iptv/35/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.viasatworld.com/media/1074/actionlogo.png group-title="Russia (Россия)",TV1000 Action
@@ -601,6 +601,8 @@ http://st5.allplay.uz/iptv/42/tracks-v3a1/mono.m3u8
 http://212.112.101.69:8081/stream43/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Russia (Россия)", Nick Jr Россия
 http://212.112.101.69:8081/stream68/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TravelChannel.us.png" group-title="Russia (Россия)",Travel Channel Россия
+http://212.112.101.69:8081/stream67/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/VH1ClassicEurope.uk.png" group-title="Russia (Россия)",VH1 Classic Россия
 http://182.73.122.74:10005/bysid/409
 
