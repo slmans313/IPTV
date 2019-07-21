@@ -121,6 +121,8 @@ https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
 http://185.246.209.109:8080/FREEFORM/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FuseTV.us.png"  group-title="USA/Canada",Fuse
 http://185.246.209.109:8080/FUSE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Fusion_TV_2013_logo.png/200px-Fusion_TV_2013_logo.png"  group-title="USA/Canada",Fusion
+http://185.246.209.109:8080/FUSION/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA/Canada",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA/Canada",Filmrise Crime
@@ -141,8 +143,12 @@ http://185.246.209.109:8080/IFC/index.m3u8
 http://185.246.209.109:8080/ION/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51KxCs%2BTT8L._SY355_.png" group-title="USA/Canada",Law & Crime Trial
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/300px-Logo_TV_2015.svg.png" group-title="USA/Canada",Logo TV
+http://185.246.209.109:8080/LOGO/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA/Canada",Kool
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/MavTV-2018.PNG/300px-MavTV-2018.PNG" group-title="USA/Canada",MAV TV
+http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MeTV_logo_2014.png/338px-MeTV_logo_2014.png" group-title="USA/Canada",ME TV
 http://185.246.209.109:8080/ME_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USA/Canada",Mobcrush
@@ -157,6 +163,8 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 https://stream1.nra.tv/nratv/ngrp:nratvall/chunklist_b5895168.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="USA/Canada",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/2000px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="USA/Canada",Oxygen TV
+http://185.246.209.109:8080/OXYGEN_TV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" group-title="USA/Canada",PATV
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/1200px-PBS_Logo.svg.png" group-title="USA/Canada",PBS
@@ -183,6 +191,8 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TVLandEast.us.png" group-title="USA/Canada", TV Land
 http://185.246.209.109:8080/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/TVOne_2016.png/330px-TVOne_2016.png" group-title="USA/Canada", TV One
+http://185.246.209.109:8080/TVONE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/UnivisionCanada.ca.png" group-title="USA/Canada", Univision
 http://185.246.209.109:8080/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WeTV.us.png" group-title="USA/Canada",WE TV
@@ -198,7 +208,7 @@ https://vcndmtv.teleosmedia.com/stream/dmtv/whomagmultimedia/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="USA/Canada",World Fishing Network
 http://161.0.157.8/PLTV/88888888/224/3221226811/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTAwMzk4Mzg4NTYw/wgnchicago-logoresized-bcpng.png" group-title="USA/Canada", WGN-TV News
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA/Canada", WSVI-TV (Virgin Islands)
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="USA/Canada",Xcorps
