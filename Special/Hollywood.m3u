@@ -34,6 +34,8 @@ http://203.162.235.41:16918
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CNBCWorld.us.png" group-title="News",CNBC World
 http://203.162.235.41:16919
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CNBCWorld.us.png" group-title="News",CNBC World
+http://livecdn.long.tv:6543/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8?sid=6b8dfbcaa1a84158b4821a4e37625f52&origin=MTAuMjAuNjMuMjAyOjYwNjA=
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="News",DW English
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News", Euronews
@@ -102,6 +104,8 @@ http://185.246.209.109:8080/BET/index.m3u8
 http://185.246.209.109:8080/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 tvg-logo="http://www.cc.com/sitewide/images/logos/cc_site_logo_2018.png" group-title="Entertainment",Comedy Central
+http://190.2.154.164:8082/TV0811
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="Entertainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment", ET Live
