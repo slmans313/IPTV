@@ -8,7 +8,10 @@ http://203.207.56.228/live/iptv002.m3u8
 http://203.207.56.228/live/iptv001.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="beIN", beIN Sports USA
 http://185.246.209.109:8080/BEIN1/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein6.gifg" group-title="beIN", beIN Sports 6 Arabic
+http://94.236.230.110:3333/6
+#EXTINF:-1 tvg-logo="http://hadarasport.com/wp-content/uploads/2018/05/bein8.gif" group-title="beIN", beIN Sports 8 Arabic
+http://94.236.230.110:3333/8
 
 #EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN 
 http://185.246.209.109:8080/ESPN/index.m3u8
