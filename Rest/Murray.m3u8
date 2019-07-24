@@ -59,17 +59,17 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TVNZ_1_logo.svg/375px-TVNZ_1_logo.svg.png" group-title="New Zealand", TVNZ 1
-http://43.224.120.99:8080/tv1.m3u8
+http://43.224.120.99:8080/tv1/tv1_1500k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/TVNZ_2_logo.svg/300px-TVNZ_2_logo.svg.png" group-title="New Zealand", TVNZ 2
-http://43.224.120.99:8080/tv2.m3u8
+http://43.224.120.99:8080/tv2/tv2_1500k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="New Zealand", Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Four_New_Zealand_logo.svg/250px-Four_New_Zealand_logo.svg.png" group-title="New Zealand", FOUR
-http://43.224.120.99:8080/four.m3u8
+http://43.224.120.99:8080/four/four_1000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Choice_TV-_Channel_Logo_2015.png/375px-Choice_TV-_Channel_Logo_2015.png" group-title="New Zealand", Choice TV
-http://43.224.120.99:8080/choicetv.m3u8
+http://43.224.120.99:8080/choicetv/choicetv_1000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Prime2016NZ.png" group-title="New Zealand", Prime NZ
-http://43.224.120.99:8080/prime.m3u8
+http://43.224.120.99:8080/prime/prime_1000k.m3u8
 #EXTINF:-1 tvg-logo="https://skynz.akamaized.net/documents/24003/39746/parliament-tv.png" group-title="New Zealand",Parliament TV
 http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="New Zealand",Wairarapa TV
@@ -77,4 +77,4 @@ http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png" group-title="New Zealand", Maori TV
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Te_Reo_TV_logo.png" group-title="New Zealand", Te Reo (Maori)
-http://43.224.120.99:8080/tereo.m3u8
+http://43.224.120.99:8080/tereo/tereo_1000k.m3u8
