@@ -79,6 +79,8 @@ http://live-vrt.akamaized.net/groupb/live/live-audio_track_0_dut=128000-video=30
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Canal_Zoom_logo.png" group-title="Belgium", Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium", Focus
+https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://webfiles.notele.be/layout/logo.png" group-title="Belgium", notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="Belgium", Radio Contact
