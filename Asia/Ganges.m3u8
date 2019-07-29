@@ -135,6 +135,10 @@ https://etv-rajasthan.akamaized.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/rajyasabhatv.png" group-title="Hindi(हिन्दी)", Rajya Sabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Sanskarlogo.jpg" group-title="Hindi(हिन्दी)",  Sanskar
+http://pockettv.xyz/api/zee.m3u8?c=sanskartv
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-v9jPVGykR8E/VxcM3jVBf8I/AAAAAAAABT0/bngrh1sDv74jKAGHFDnJdqgfVIS2RXpLgCLcB/s1600/Satsang%2BTV.png" group-title="Hindi(हिन्दी)", Satsang
+http://pockettv.xyz/api/zee.m3u8?c=satsangtv
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/Sri%20Sankara.png" group-title="Hindi(हिन्दी)", Sri Sankara
 http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/255px-SET_India.jpg" group-title="Hindi(हिन्दी)", Sony ETV
@@ -147,9 +151,35 @@ https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_1
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="Hindi(हिन्दी)", Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="Hindi(हिन्दी)",  Wion
+http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/zoom.png" group-title="Hindi(हिन्दी)",  Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="Hindi(हिन्दी)", Zee News
 http://pockettv.xyz/api/zee.m3u8?c=zeenews
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hindi(हिन्दी)",  Zee Cinema
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeTV.in.png" group-title="Hindi(हिन्दी)",    Zee TV
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Zee-Anmol-Logo.jpg" group-title="Hindi(हिन्दी)",   Zee Anmol
+http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+#EXTINF:-1 tvg-logo="http://tv.ctgix.net/wp-content/uploads/2018/06/zeeaction.png" group-title="Hindi(हिन्दी)", Zee Action
+http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:-1 tvg-logo="http://www.sustainabilitystandards.in/wp-content/uploads/2017/11/Zee-Business-CS6-1110x550.png" group-title="Hindi(हिन्दी)", Zee Business
+http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Zee_Bihar_Jharkhand_New_Logo.jpg" group-title="Hindi(हिन्दी)", Zee Bihar 
+http://pockettv.xyz/api/zee.m3u8?c=biharjharkh
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(हिन्दी)",   Zee Cinema
 http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.adageindia.in/photo/67267494/zeel-to-bring-back-zee-classic-in-ad-free-vod-format.jpg" group-title="Hindi(हिन्दी)",  Zee Classic
+http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Zee_Hindustan_logo.jpeg" group-title="Hindi(हिन्दी)",    Zee Hindustan
+http://pockettv.xyz/api/zee.m3u8?c=hindustan
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/170x170/zeemp_386x386_1504116384.png" group-title="Hindi(हिन्दी)",  Zee MPC
+http://pockettv.xyz/api/zee.m3u8?c=newsmpcg
+#EXTINF:-1 tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/12/15/765566-zee-news-logo.jpg" group-title="Hindi(हिन्दी)",  Zee News
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Zee_rajasthan.jpg" group-title="Hindi(हिन्दी)",    Zee Rajasthan
+http://pockettv.xyz/api/zee.m3u8?c=rajasthan
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943351602857086977/Ct30aWZv_400x400.jpg" group-title="Hindi(हिन्दी)",     Zee Uttar Pradesh
+http://pockettv.xyz/api/zee.m3u8?c=zeenewsupuk
+#EXTINF:-1 tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/10/02/Tv-gec_0.jpg" group-title="Hindi(हिन्दी)", Zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
