@@ -542,17 +542,32 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png" group-title="Germany(Deutschland)",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://zeeonedeapp.blob.core.windows.net/cmsstorage/zeeone/media/images/logo/android-icon-111x60_1.png" group-title="Germany(Deutschland)",Zee One
-http://89.1.124.36:3001/hdmi
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/M1_logo_2012.png/1024px-M1_logo_2012.png" group-title="Hungary(MagyarorszĂˇg)",M1
+http://bos.00387.info:8080/HU:M1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Duna_logo_2012.png" group-title="Hungary(MagyarorszĂˇg)",Duna
+http://bos.00387.info:8080/HU:DunaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://1music.hu/assets/images/logo.png" group-title="Hungary(MagyarorszĂˇg)", 1 Music
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTL2.hu.png" group-title="Hungary(MagyarorszĂˇg)",RTL 2
 http://37.152.135.169:9002/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTLGold.hu.png" group-title="Hungary(MagyarorszĂˇg)", RTL Gold
 http://37.152.135.169:9002/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1200px-RTL_Klub_logo.svg.png" group-title="Hungary(MagyarorszĂˇg)",RTL Klub
+http://bos.00387.info:8080/HU:RTLKlub/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png" group-title="Hungary(MagyarorszĂˇg)",Super TV2
+http://bos.00387.info:8080/HU:SuperTV2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Logo_of_the_Cool_TV.png" group-title="Hungary(MagyarorszĂˇg)",Cool TV
+http://bos.00387.info:8080/HU:CoolTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.cc.com/sitewide/images/logos/cc_site_logo_2018.png" group-title="Hungary(MagyarorszĂˇg)",Comedy Central Magyar
+http://bos.00387.info:8080/HU:ComedyCentral/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/09/Fehervar-TV-670x300.jpg" group-title="Hungary(MagyarorszĂˇg)", Fehervar TV
 https://cloudfront44.lexanetwork.com:1440/HDE016/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO.ca.png" group-title=""Hungary(MagyarorszĂˇg)",HBO Magyar
+http://bos.00387.info:8080/HU:HBO1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HBO2.ca.png" group-title=""Hungary(MagyarorszĂˇg)",HBO 2 Magyar
+http://bos.00387.info:8080/HU:HBO2/index.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.ruv.is/sites/all/themes/at_ruv/images/default-image-1200x750.png" group-title="Iceland(Ísland)", RUV
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream5.m3u8
