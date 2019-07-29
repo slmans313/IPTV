@@ -6,6 +6,8 @@ http://brightbroadcasting.livebox.co.in/bhoomitvhls/bhoomitv.m3u8
 http://hamsatv.livebox.co.in/livehls/hamsatv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1068224865843335170/BfSzKc5O_400x400.jpg" group-title="Kannada( ಕನ್ನಡ)",Sakkat
 http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Kannada.png/1200px-Zee_Kannada.png" group-title="Kannada( ಕನ್ನಡ)", Zee Kannada
+http://pockettv.xyz/api/zee.m3u8?c=zkannada
 
 #EXTINF:-1 tvg-logo="http://nepalitv.co.uk/images/logo.png" group-title="Nepali (नेपाली)",  Nepali TV
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
@@ -30,6 +32,10 @@ https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.sm
 https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/881858253751275521/2ZFdJffV_400x400.jpg" group-title="Malayalam(മലയാളം)",Channel D
 http://37.220.111.189:1935/JioTv/Studio_web/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/DDMalayalam.png" group-title="Malayalam(മലയാളം)",DD Malayalam
+http://pockettv.xyz/api/zee.m3u8?c=ddmalayalam
+#EXTINF:0 tvg-logo="http://www.asianetmobiletv.com/channels/Flowers.png" group-title="Malayalam(മലയാളം)",Flowers TV
+http://pockettv.xyz/api/zee.m3u8?c=flowerstv
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/897672724880936964/DaWnKvjI.png" group-title="Malayalam(മലയാളം)",GoSree Vision
 http://150.242.21.2/gosree.m3u8
 #EXTINF:0 tvg-logo="https://harvesttv.in/wp-content/uploads/2019/02/Harvest-ATE-121.png" group-title="Malayalam(മലയാളം)",Harvest TV
@@ -55,8 +61,19 @@ https://news18kerala-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_5_av-p.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVThRRX.png" group-title="Malayalam(മലയാളം)",Vismaya
 http://150.242.21.2/vismaya.m3u8
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/DDSahyadriLogo.jpg/220px-DDSahyadriLogo.jpg" group-title="Marathi(मराठी )",  DD Sahyadri
+http://pockettv.xyz/api/zee.m3u8?c=ddsahyadri
 #EXTINF:0 tvg-logo="https://static.lokmat.news18.com/ibnlokmat/uploads/lokmat-img/news18lokmat.png" group-title="Marathi(मराठी )",News 18 Lokmat
 http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/86232/zee24taas.png" group-title="Marathi(मराठी )",Zee 24 Taas
+http://pockettv.xyz/api/zee.m3u8?c=24taas
+#EXTINF:-1 tvg-logo="https://zeemarathi.zee5.com/wp-content/uploads/sites/2/2019/03/cropped-Zee-Marathi-Logo-1.png" group-title="Marathi(मराठी )",Zee Marathi 
+http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
+#EXTINF:-1 tvg-logo="https://api.themediaant.com/images/medias/55fb00a38ead0e79178b5ed6/cc910d1c976a445c5250665dcb26fa12.jpg" group-title="Marathi(मराठी )", Zee Talkies
+http://pockettv.xyz/api/zee.m3u8?c=ztalkieshd
+#EXTINF:-1 tvg-logo="https://zeeyuva.zee5.com/wp-content/uploads/sites/6/2019/01/cropped-Zee-Yuva.png" group-title="Marathi(मराठी )",  Zee Yuva
+http://pockettv.xyz/api/zee.m3u8?c=zyuva
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/101_TVM-01.png" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",TVM
 http://54.169.75.117:1935/live/livestream/chunklist.m3u8
@@ -67,12 +84,19 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/196_Yes_TV-01.png" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",YES
 http://54.179.182.237:1935/live/livestream/chunklist.m3u8
 
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1015133039595327488/yWGH4XGG_400x400.jpg" group-title="Odia(ଓଡ଼ିଆ)",  DD Odia
+http://pockettv.xyz/api/zee.m3u8?c=ddodia
 #EXTINF:0 tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/12/news18-odia-1.png" group-title="Odia(ଓଡ଼ିଆ)",ETV Odiya
 https://etv-oriya.akamaized.net/i/etv_odia_news_n_1@179753/index_5_av-p.m3u8
 #EXTINF:0 tvg-logo="https://live.odishatv.in/wp-content/uploads/2018/05/logo-new-black.png" group-title="Odia(ଓଡ଼ିଆ)",Odisha TV
 http://edge-ap2.cloudfrontcdn.in:1935/unevent1/smil:test.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://kanaknews.com/wp-content/uploads/2015/11/kanak_logo11.png" group-title="Odia(ଓଡ଼ିଆ)",Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://ste.india.com/images/logo/Zee_Kalinga_News.png" group-title="Odia(ଓଡ଼ିଆ)", Zee Kalinga
+http://pockettv.xyz/api/zee.m3u8?c=kalinga
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Zee_Sarthak.jpg" group-title="Odia(ଓଡ଼ିଆ)", Zee Sarthak
+http://pockettv.xyz/api/zee.m3u8?c=sarthaktv
+
 
 #EXTINF:-1 tvg-logo="http://mylivechannels.com/uploads/thumbs/1539608495_icon.png" group-title="Punjabi (ਪੰਜਾਬੀ)", 5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
@@ -172,6 +196,8 @@ http://mhonestream.in:1935/mhone/mhonemusic/chunklist_w1199195642.m3u8
 http://195.181.169.151:8080/vaani_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.sikhchannel.tv/wp-content/uploads/2014/10/sc-logo-160x160.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Sikh Channel
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Zee Punjabi
+http://pockettv.xyz/api/zee.m3u8?c=punjabi
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hiru_TV-Logo.png/220px-Hiru_TV-Logo.png" group-title="Sir Lanka(ශ්‍රී ලංකා)",Hiru
 http://cdncities.com/8012/8012/playlist.m3u8
@@ -266,6 +292,8 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunkli
 http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/chunklist_w1689463168_b948000.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/mayatv1.png" group-title="Tamil (தமிழ்)", Maya TV
 http://209.58.180.138/mayatvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="Tamil (தமிழ்)",Makkal TV
+http://pockettv.xyz/api/zee.m3u8?c=makkaltv
 #EXTINF:-1 tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/07103623murasu.png" group-title="Tamil (தமிழ்)", Murasu
 https://acv.asianetmobiletvplus.com/channels/murasu_lvdtuywsqtouxjyahchfgkstxkllroel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/Nethra.png" group-title="Tamil (தமிழ்)",Nethra TV
@@ -320,9 +348,15 @@ http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="Tamil (தமிழ்)",Vendharm
 http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://netloid.com/wp-content/uploads/2019/04/zee-tamil.jpg" group-title="Tamil (தமிழ்)", Zee Tamil
+http://pockettv.xyz/api/zee.m3u8?c=zeetamil
 
 #EXTINF:-1 tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/skyworth/v5/etv.jpg" group-title="Telugu (తెలుగు)",ETV Telugu
 http://195.181.169.151:8080/ETVHD/TELU/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Zee_Telugu_logo.jpeg" group-title="Telugu (తెలుగు)", Zee Telugu
+http://pockettv.xyz/api/zee.m3u8?c=zeetelegusd
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/Zee_Cinemalu_HD.png/revision/latest?cb=20180101032550" group-title="Telugu (తెలుగు)", Zee Cinemalu
+http://pockettv.xyz/api/zee.m3u8?c=zcinemalusd
 
 
 #EXTINF:-1 tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvLogos/ptvHomeLogo1.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",PTV Home
@@ -377,9 +411,9 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
 https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/SBUPUNm.png"" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Nazrana TV
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
-#EXTINF:-1  tvg-logo="https://shimaiptv.ir/wp-content/uploads/2018/04/%D8%B3%D8%AD%D8%B1-URDU.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)", Sahar Urdu
-https://cdn2.shimaiptv.ir/live/300k/shimapp/sahar2/stream.m3u8
 #EXTINF:-1  tvg-logo="http://geotez.tv/assets/front/images/tez_logo.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dVDzRTu.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1045553547792633857/zTeZgMyl_400x400.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Zee Salaam
+http://pockettv.xyz/api/zee.m3u8?c=zeesalaam
