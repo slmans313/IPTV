@@ -481,27 +481,36 @@ https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunkl
 #EXTINF:-1  tvg-logo="https://ulango.tv/uploads/channels/3781395/logo_rtv%20san%20marino%20sport.png" group-title="San Mario",RTV Sports
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita_t64SEQoNzIwcCk=.m3u8
 
-#EXTINF:-1  tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png" group-title="Serbia(Србија)",RTS 1
+#EXTINF:-1  tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",RTS 1
 http://at.iptvboard.me:80/RTS1/index.m3u8
-#EXTINF:-1  tvg-logo="https://nstatic.net/img/tv/channels/m/rts-2.png" group-title="Serbia(Србија)",RTS 2
+#EXTINF:-1  tvg-logo="https://nstatic.net/img/tv/channels/m/rts-2.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",RTS 2
 http://at.iptvboard.me:80/RTS2/index.m3u8
-#EXTINF:-1  tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Serbia(Србија)",Duga TV
+#EXTINF:-1  tvg-logo="https://nstatic.net/img/tv/channels/m/rts-2.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",Nova M
+http://185.59.220.134:80/NOVAM/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/N1teleLogo.jpg/225px-N1teleLogo.jpg" group-title="Serbia/Montenegro(Србија/Црна Гора)",N1
+http://185.59.220.134:80/N1SRB/index.m3u8
+#EXTINF:-1  tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://totaltv.tv/oec/images/tv_channels/305c3934493482bcd70f3fd0b2a2cbc1.png" group-title="Serbia(Србија)",KCN Kopernikus 1
+#EXTINF:-1 tvg-logo="https://totaltv.tv/oec/images/tv_channels/305c3934493482bcd70f3fd0b2a2cbc1.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",KCN Kopernikus 1
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/7164/logo_k-cn%20music%202.png" group-title="Serbia(Србија)",KCN Music 2
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/7164/logo_k-cn%20music%202.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",KCN Music 2
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
-#EXTINF:-1  tvg-logo="https://totaltv.tv/oec/images/tv_channels/e51742b4f3b50692d2cb023806964f46.png" group-title="Serbia(Србија)",KCN Svet+ 3
+#EXTINF:-1  tvg-logo="https://totaltv.tv/oec/images/tv_channels/e51742b4f3b50692d2cb023806964f46.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",KCN Svet+ 3
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenia(Slovenija)", Slovenija 1
-https://rtvslolive.akamaized.net/hls/live//584144/tv_slo1/slo1_720p/chunklist.m3u8
+http://rtvslolive.akamaized.net/hls/live/584144/tv_slo1_int/slo1_int/slo1_720p/chunklist.m3u8
+http://rtvslolive.akamaized.net/hls/live/584144/tv_slo1/slo1/r-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo2-dark-bg.png" group-title="Slovenia(Slovenija)",Slovenija 2
-https://rtvslolive.akamaized.net/hls/live/584144/tv_slo2/slo2_720p/chunklist.m3u8
+http://rtvslolive.akamaized.net/hls/live/584144/tv_slo2_int/slo2_int/slo2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.napovednik.com/pic/tv/slo3.png" group-title="Slovenia(Slovenija)",Slovenija 3
-https://rtvslolive.akamaized.net/hls/live/685537/tv_slo3/slo3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_K-C_2013_Logo.png/150px-TV_K-C_2013_Logo.png" group-title="Slovenia(Slovenija)", TV Koper-Capodistria
-http://213.162.202.9:8000/play/a01e/index.m3u8
+https://rtvslolive.akamaized.net/hls/live/685537/tv_slo3_int/slo3_int/slo3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.napovednik.com/pic/tv/slo3.png" group-title="Slovenia(Slovenija)",Maribor TV
+https://rtvslolive.akamaized.net/hls/live/689305/tv_mb/tvmb/r-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvkp-dark-bg.png" group-title="Slovenia(Slovenija)", TV Koper-Capodistria
+https://rtvslolive.akamaized.net/hls/live/689305/tv_kp/tvkp/r-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvmmc-dark-bg.png" group-title="Slovenia(Slovenija)",MMC TV
+https://rtvslolive.akamaized.net/hls/live/685537/tv_mmc/mmctv/r-playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://chanlogos.xmltv.se/fatstone.tv.png" group-title="Norway(Norge)", Fatstone TV
