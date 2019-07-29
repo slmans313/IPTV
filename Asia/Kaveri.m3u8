@@ -77,12 +77,18 @@ http://pockettv.xyz/api/zee.m3u8?c=zyuva
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/101_TVM-01.png" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",TVM
 http://54.169.75.117:1935/live/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://maldivestv.mv/img/logo.png" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",Maldives TV
+https://58bdd3c8ef31c.streamlock.net/live/smil:maldivestv.smil/chunklist_w286000383_b1596000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/208_GoPlus_TV_-01.png" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",Go Plus
 http://goplus.myvnc.com/live/1007/10079/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814347538648223745/3_4USAlu_400x400.jpg" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",Munnaaru
+http://w1.viastreaming.net:1935/munnaar/live/chunklist_w2102165900.m3u8
+#EXTINF:-1 tvg-logo="https://psmnews.mv/images/logo-psm-news.png" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",PSM News
+http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/chunklist_w639865266_b1596000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://vnews.mv/themes/vmedia/images/vtv.png" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/196_Yes_TV-01.png" group-title="Maldives(ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ)",YES
-http://54.179.182.237:1935/live/livestream/chunklist.m3u8
+http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1015133039595327488/yWGH4XGG_400x400.jpg" group-title="Odia(ଓଡ଼ିଆ)",  DD Odia
 http://pockettv.xyz/api/zee.m3u8?c=ddodia
