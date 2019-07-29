@@ -38,8 +38,6 @@ http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/itv3_hi/
 http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/itv4_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK", ITV BE
 http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/itvbe_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/ITV_Choice.svg/1200px-ITV_Choice.svg.png" group-title="UK", ITV Choice
-http://183.89.118.89:1019
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK",Channel 4
 http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/channel4_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",E4
@@ -82,6 +80,14 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/quest_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/questred.png" group-title="UK", Quest Red
 http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/questred_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="UK",Virgin Media One
+http://93.107.103.248:8123/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="http://virginmediasolutions.ie/wp-content/uploads/2018/08/TWO_RED_HEX.png" group-title="UK",Virgin Media Two
+http://93.107.103.248:8123/play/a06b/index.m3u8
+#EXTINF:-1 tvg-logo="http://virginmediasolutions.ie/wp-content/uploads/2018/08/THREE_RED_HEX.png" group-title="UK",Virgin Media Three
+http://93.107.103.248:8123/play/a069/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://thumbnail.imgbin.com/23/20/7/imgbin-american-broadcasting-company-logo-big-three-television-networks-freeform-abc-news-jingdong-broadcasting-co-KWKAkEcDZv6dkyE2FuYVv0MpA_t.jpg" group-title="USA/Canada",CBC
 http://185.246.209.109:8080/ABC/index.m3u8
