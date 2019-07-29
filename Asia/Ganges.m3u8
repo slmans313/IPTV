@@ -56,6 +56,10 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="Gujarati(ગુજરાતી)",  CNBC Bajar 
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8?sd=10
 
+#EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/3/2019/01/And-Tv-logo.png" group-title="Hindi(हिन्दी)", &  TV
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi(हिन्दी)", &  Pictures
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 #EXTINF:-1 tvg-logo="https://firstindianews.com/images/logo.png" group-title="Hindi(हिन्दी)", 1st News
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi(हिन्दी)",ABP News
@@ -105,9 +109,9 @@ https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/Sri%20Sankara.png" group-title="Hindi(हिन्दी)", Sri Sankara
 http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/255px-SET_India.jpg" group-title="Hindi(हिन्दी)", Sony ETV
-http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
+http://130.185.150.79:1935/trunk/SONY-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" group-title="Hindi(हिन्दी)", Star Plus
-http://globalbd.mywire.org:8081/globe/starplus/chunks.m3u8
+http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi(हिन्दी)", Sony Max
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_1500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://753619.smushcdn.com/1323606/wp-content/uploads/2019/04/logo_site-768x345.png?lossy=1&strip=1&webp=1" group-title="Hindi(हिन्दी)",  The Q (India)
@@ -116,5 +120,7 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/zoom.png" group-title="Hindi(हिन्दी)",  Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="Hindi(हिन्दी)", Zee News
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hindi(हिन्दी)",  Zee Cinema
 http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
