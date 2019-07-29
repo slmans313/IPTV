@@ -259,6 +259,8 @@ http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:0  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/DoChannal59.png" group-title="Thailand (ประเทศไทย)",  Do Channel
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Thailand (ประเทศไทย)"", Disney (ระเทศไทย
+https://vipunlimit.express-stream.live/bkk1live/disney/chunks.m3u8
 #EXTINF:0  tvg-logo="http://www.8875fm.com/image/topmenu/menu_logo.png" group-title="Thailand (ประเทศไทย)",  DDTV
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 #EXTINF:0  tvg-logo="http://www.onlinethailand.net/tv_online/images-full/esan-tv-full.jpg" group-title="Thailand (ประเทศไทย)",  Esan TV
@@ -300,7 +302,7 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png" group-title="Thailand (ประเทศไทย)",ONE 31
 http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/PPTV_HD_36_Logo.svg/300px-PPTV_HD_36_Logo.svg.png" group-title="Thailand (ประเทศไทย)", PPTV
-http://27.254.130.64:80/feed/chpptvhd/playlist.m3u8
+https://vipunlimit.express-stream.live/bkk1live/pptvhd_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://livetvcentral.com/imgs/tvs/951.jpg" group-title="Thailand (ประเทศไทย)" ,Sabaidee TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:0 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png" group-title="Thailand (ประเทศไทย)" ,Suwannabhumi TV
@@ -327,6 +329,38 @@ http://27.254.130.64/live02/6.m3u8?p=iptv
 http://stream.rs.co.th/you-hi/index.m3u8
 #EXTINF:0 tvg-logo="http://www.zabbtv.com/images/head_zabbtv.jpg" group-title="Thailand (ประเทศไทย)", Zabb TV
 http://thaitvstream.com/play/a071260/index.m3u8
+
+
+
+
+#EXTINF:-1,TRUE SPARK JUMP
+https://vipunlimit.express-stream.live/bkk1live/sparkjump/chunks.m3u8
+#EXTINF:-1,True SPARK PLAY
+https://vipunlimit.express-stream.live/bkk1live/sparkplay/chunks.m3u8
+#EXTINF:-1,VERY
+https://vipunlimit.express-stream.live/bkk1live/very/chunks.m3u8
+#EXTINF:-1,TRUE INSIDE
+https://vipunlimit.express-stream.live/bkk1live/inside/chunks.m3u8
+#EXTINF:-1,TrueSelect
+https://vipunlimit.express-stream.live/bkk1live/2select/chunks.m3u8
+#EXTINF:-1,TRUE EXPLORT SCI
+https://vipunlimit.express-stream.live/bkk1live/expsci/chunks.m3u8
+#EXTINF:-1,TRUE EXPLORT WILD
+https://vipunlimit.express-stream.live/bkk1live/expwild/chunks.m3u8
+#EXTINF:-1,TRUE EXPLORT LIFE
+https://vipunlimit.express-stream.live/bkk1live/explife/chunks.m3u8
+#EXTINF:-1,FOX THAI
+https://vipunlimit.express-stream.live/bkk1live/foxthai/chunks.m3u8
+#EXTINF:-1,True asian series
+https://vipunlimit.express-stream.live/bkk1live/aser/chunks.m3u8
+#EXTINF:-1,True thaifilm
+https://vipunlimit.express-stream.live/bkk1live/thaifilm/chunks.m3u8
+#EXTINF:-1,True Movie Hits
+https://vipunlimit.express-stream.live/bkk1live/moviehits/chunks.m3u8
+#EXTINF:-1,TRUE Film Asia
+https://vipunlimit.express-stream.live/bkk1live/filmasia/chunks.m3u8
+#EXTINF:-1,TRUE SERIES
+https://vipunlimit.express-stream.live/bkk1live/2series/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://tv-online.im/wp-content/uploads/2013/05/tv5-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", TV5
 http://220.158.149.14:9999/live/TV00000000000000000117@HHZT;LIVE
