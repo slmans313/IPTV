@@ -39,6 +39,13 @@ http://185.246.209.109:8080/ESPNU/index.m3u8
 http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ESPN_Classic_Logo.svg/1200px-ESPN_Classic_Logo.svg.png" group-title="ESPN",ESPN Classic
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN Mosaico Brasil
+http://192.119.9.66/live/F17F8B9C-3510-4EEB-b30c-703934BD630E.ts
+#EXTINF:-1 tvg-logo="https://www.theSportsdb.com/images/media/logo/qwvsut1433964035.png" group-title="ESPN",ESPN Brasil
+http://192.119.9.66/live/EF2501AD-C1A1-4B8A-baba-4CEF4B5D3561.ts
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="ESPN",ESPN Extra Brasil
+http://192.119.9.66/live/04FC1508-FAF2-49E6-944f-4821DD152F32.ts
+
 
 #EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Fox Sports", Fox Sport 1 USA
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
@@ -287,7 +294,7 @@ http://hrv.00387.info:80/Arena5HDHR/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA6.png" group-title="European/South American Sports",Arena Sport 6
 http://hrv.00387.info:80/Arena6HDHR/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="European/South American Sports",Band Sport
-https://d2x66w752hdvvk.cloudfront.net/hls1/bandsports.m3u8
+http://192.119.9.66/live/mdPmLXj7Z4ON54iJDPNbWaiyZLyZU0Xl.ts
 #EXTINF:-1 tvg-logo="http://www.irplus.in.th/listed/dcorp/images/2-12864-logo-1.jpg" group-title="European/South American Sports",Edge Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 #EXTINF:-1 tvg-logo="http://ioamoilfoggia.it/wp-content/uploads/2017/05/rai-sport-piu-hd.jpg" group-title="European/South American Sports", Rai Sports Plus
