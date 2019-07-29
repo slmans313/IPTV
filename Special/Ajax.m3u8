@@ -89,6 +89,8 @@ https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/04.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="Football", Real Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/chunklist_b1000000.m3u8
+#EXTINF:0 tvg-logo="https://live.sevillafc.es/sites/live-sevillafc-redisenoweb.emergya.com/files/inline-images/escudosfc.png" group-title="Football", Sevilla TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Cricket", DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
@@ -106,6 +108,9 @@ http://globalbd.mywire.org:8081/globe/ten1/playlist.m3u8
 http://globalbd.mywire.org:8081/globe/ten3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Cricket",Sony Ten ESPN
 http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TennisChannel.us.png" group-title="Golf", Tennis
+http://yrsprts.xyz/hls/stream.m3u8?ch=tennis
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
 https://kerenua.xyz/zine/mini/miniProxy.php/http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
