@@ -278,6 +278,9 @@ http://181.189.225.36:8990/UneTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="Jamaica",Trace Tropical
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/10/rms-24-7.png" group-title="México",24/7 RMS
+http://76.110.142.23:28004
 #EXTINF:-1 tvg-logo="https://amastv.com/img/logo_amas.png" group-title="México",A+ TV 7.2
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="México", ADN 40
@@ -347,16 +350,6 @@ http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/XHQRV_ultra92.5_logo.png" group-title="México", Ultra 92.5 FM
 https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
-#EXTINF:-1,VTV +
-http://76.110.142.23:28001
-#EXTINF:-1,VTV
-http://76.110.142.23:28002
-
-#EXTINF:-1,MV
-http://76.110.142.23:28004
-
-
-
 
 #EXTINF:-1 tvg-logo="http://canal2tv.com/wp-content/uploads/2017/05/LOGO-Y-SLOGAN-HEADER-1.png" group-title="Nicaragua",Canal 2
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
@@ -402,6 +395,10 @@ http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Nevis_TV_2015.jpg" group-title="Saint Kitts and Nevis",Nevis Television
 http://31.14.40.142:544/liveTrans/ngrp:NTvDirect_all/chunklist_w2112971763_b1365536.m3u8
 
+#EXTINF:0 tvg-logo="https://www.vtv.com.uy/wp-content/uploads/2013/11/Logo1.png" group-title="Uruguay",VTV
+http://76.110.142.23:28001
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/800px-VTV%2BUruguay.svg.png" group-title="Uruguay",VTV+
+http://76.110.142.23:28002
 #EXTINF:0 tvg-logo="https://sc2.elpais.com.uy/images/default/og_ovacion.jpg" group-title="Uruguay", Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
