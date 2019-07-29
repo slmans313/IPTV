@@ -71,7 +71,7 @@ http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/millenni
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/movies4men.png" group-title="UK", Movies4men
 http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/movies4men_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="UK",RT UK
-http://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
+http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/s4c.png" group-title="UK",S4C
 http://tclhosting.com/test/miniProxy.php/https://live2.hoolatv.com/live/s4c_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK", TG4
@@ -190,7 +190,7 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ReelzChannel.us.png" group-title="USA/Canada",Reelz
 http://185.246.209.109:8080/REELZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUS.ru.png" group-title="USA/Canada",RT US
-http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live 
+http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G4C6z9h.jpg" group-title="USA/Canada",SafeTV4U2
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="USA/Canada",Screamfest
