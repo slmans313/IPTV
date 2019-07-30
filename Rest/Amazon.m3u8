@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1043886275193970688/6Yifwwqw_400x400.jpg" group-title="Argentina", TPA Noticias
-https://5975e06a1f292.streamlock.net:4443/quatro/ngrp:quatro_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/TeleAruba_logo.gif" group-title="Aruba", Telearuba 13
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
+
 #EXTINF:0 tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="Argentina", 13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="Argentina", 24/7 Canal de Noticias
@@ -196,6 +197,19 @@ http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="Colombia",Telecaribe Deportes
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png" group-title="Colombia",Red Más
+http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://telemedellin.tv/wp-content/themes/telemedellin/img/logo_telemedellin.png" group-title="Colombia",Tele Medellin
+http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.televid.tv/templates/ps_template_190108/images/designer/eec079dd42fd3895ecad3bfb20333475_logo_televid.png" group-title="Colombia",Tele Vid
+http://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
+#EXTINF:-1 tvg-logo="https://teleamiga.tv/sites/default/files/logo2.png" group-title="Colombia",Teleamiga
+http://api.new.livestream.com/accounts/18971084/events/6841479/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.teleantioquia.co/wp-content/uploads/2016/04/25145310/TA_te_ve_en_grande.png" group-title="Colombia",Tele Antiquioa
+http://api.new.livestream.com/accounts/9427524/events/8459038/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.pngg" group-title="Colombia",Telecafé
+http://api.new.livestream.com/accounts/1015476/events/7158511/live.m3u8
+
 
 #EXTINF:-1  tvg-logo="http://www.canal15.ucr.ac.cr/wp-content/uploads/2018/06/CANALUCR_logo.png" group-title="Costa Rica",Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
