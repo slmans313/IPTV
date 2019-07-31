@@ -160,7 +160,7 @@ http://203.207.56.228/live/iptv011.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick Toons
 http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nick Jr
-https://api.vpnmate.com/play/?vlc=1&channel=3005814&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+https://api.vpnmate.com/play/?vlc=1&channel=200428&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="Kids/Animation", POP
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
@@ -210,9 +210,9 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="Movies",SYFY
-https://api.vpnmate.com/play/?vlc=1&channel=200598&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+https://api.vpnmate.com/play/?vlc=1&channel=200598&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime.us.png" group-title="Movies", Showtime
-https://api.vpnmate.com/play/?vlc=1&channel=200598&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+https://api.vpnmate.com/play/?vlc=1&channel=200598&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime2.us.png" group-title="Movies", Showtime 2
 https://api.vpnmate.com/play/?vlc=1&channel=1018262&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ShowtimeShowcase.us.png" group-title="Movies", Showtime Showcase
@@ -224,7 +224,10 @@ http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="Movies",Western 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title=Music",MTV 
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Music",MTV
+http://93.107.103.248:8123/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title=Music",MTV Asia
 http://203.207.56.228/live/iptv013.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/330px-Box_hits.svg.png" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
@@ -244,8 +247,6 @@ https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/seglist_720p.m3u
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="Music",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Music", MTV
-http://93.107.103.248:8123/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="Music",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Revolt.us.png" group-title="Music",Revolt
