@@ -128,7 +128,7 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TVRIBaliLogo2019.svg/1200px-TVRIBaliLogo2019.svg.png" group-title="Bali", TVRI Bali
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
-#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Bali",TVRI I Nusa Tenggara Barat
+#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Bali",TVRI Nusa Tenggara Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Bali",TVRI  Nusa Tenggara Timur
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
@@ -156,16 +156,22 @@ http://202.80.222.182:80/000001/2/ch00000090990000001695/1001.m3u8?virtualDomain
 http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://www.mgstv.co.id/images/logo.png" group-title="Jawa",Megaswara TV
 http://wowza60.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://sbo.co.id/asset/images/logo.png" group-title="Jawa",SBO
+http://stream.sbo.co.id:1935/sbotv/live/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan",TVRI  Kalimantan Barat
+#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan",TVRI Kalimantan Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
-#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan", TVRI  Kalimantan Tengah
+#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan", TVRI Kalimantan Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan", TVRI  Kalimantan Timur
+#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan", TVRI Kalimantan Timur
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
-#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan",TVRI  Kalimantan Selatan
+#EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan",TVRI Kalimantan Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:0 tvg-logo="https://dutatv.com/wp-content/uploads/2019/06/dutatv-web-header.png" group-title="Kalimantan", Duta TV
+https://video2.onlivestreaming.net/dutatelevisi/liveabr/playlist.m3u8
+#EXTINF:0 tvg-logo="http://pktvbontang.com/wp-content/uploads/2019/06/LOGOPKTV2019.png" group-title="Kalimantan", PKTV
+http://wowza60.indostreamserver.com:1935/pktv/live/playlist.m3u8
 
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Maluku",TVRI Maluku
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
