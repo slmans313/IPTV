@@ -90,11 +90,14 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="Berita Bahasa",I News
 http://202.80.222.175/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
-
 #EXTINF:0 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="Agama", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://storage.nu.or.id/storage/post/16_9/big/1428588428.jpg" group-title="Agama", Aswaja TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" group-title="Agama",DAAI TV
 http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="Agama", I am Channel
+http://iamchannel.org:1935/tes/1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://maramissetiawan.files.wordpress.com/2012/03/logo.png" group-title="Agama",InsanTV
 http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b1627136.m3u8
 #EXTINF:0 tvg-logo="http://reformed21.tv/images/logo.png" group-title="Agama", Reformed 21
@@ -105,13 +108,15 @@ http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 http://202.80.222.130/000001/2/ch00000000000000001522/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Agama", TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.wesalonline.tv/wp-content/uploads/2016/04/logo-wesal-png.png" group-title="Agama", Wesal TV
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="Hiburan",Drama Sangat
 https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0tOiOQhnKdMnuZz0P6l_BsM)/dm/3/x6zvnex/s/live-4.m3u8
 #EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="Hiburan",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="Hiburan",The Indonesia Channel
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:0 tvg-logo="https://www.gprtv.id/frontend/asset/img/gpr-logo.png" group-title="Hiburan",GPR TV
+http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Hiburan",J'Go FMP
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-ohxn-z9aFVQ/WOaP_fJVYsI/AAAAAAAAELw/QPNQuKQov-EOHCci0BysKFkswAlgT70ugCLcB/s1600/channel_dangdutz.jpg" group-title="Hiburan",Dangdutz
@@ -120,10 +125,20 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:0 tvg-logo="http://www.inspira.tv/images/logo.png" group-title="Hiburan",Inspria
 http://stream1.ninmedia.tv/inspiratv/udp.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Hiburan",Kitanesia
+http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/300px-Mayapada_TV.png" group-title="Hiburan",myTV
 http://e20-us-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://mkri.id/public/design2016/img/garuda-indonesia.png" group-title="Hiburan",MK TV
+http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Hiburan",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="Hiburan",The Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:0 tvg-logo="http://tribrata.tv/wp-content/uploads/2019/06/logo-tribrata-1.png" group-title="Hiburan",Tribrata tv
+http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i2.wp.com/tvdesa.id/wp-content/uploads/2018/06/TV-Dea-460.png" group-title="Hiburan",TV Desa
+http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 
 
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TVRIBaliLogo2019.svg/1200px-TVRIBaliLogo2019.svg.png" group-title="Bali", TVRI Bali
@@ -148,6 +163,8 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/BBSTV_%28September_2017%29.png/1200px-BBSTV_%28September_2017%29.png" group-title="Jawa",BBSTV Surabaya
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Baraya_TV.png/revision/latest?cb=20180920095655" group-title="Jawa", Baraya TV
+http://stream1.ninmedia.tv/barayatv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/200px-CTV_Banten.png" group-title="Jawa",CTV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Jawa",Dhamma
@@ -162,7 +179,10 @@ http://wowza60.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 http://stream.sbo.co.id:1935/sbotv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Jawa",Tatv
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-
+#EXTINF:0 tvg-logo="http://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Jawa",Tatv
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="http://news.tvku.tv/assets2/images/logotvku2.png" group-title="Jawa",TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Kalimantan",TVRI Kalimantan Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
@@ -176,6 +196,8 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
 https://video2.onlivestreaming.net/dutatelevisi/liveabr/playlist.m3u8
 #EXTINF:0 tvg-logo="http://pktvbontang.com/wp-content/uploads/2019/06/LOGOPKTV2019.png" group-title="Kalimantan", PKTV
 http://wowza60.indostreamserver.com:1935/pktv/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png" group-title="Kalimantan",Pon TV
+https://5bb648ab35ae7.streamlock.net/pontv2/live/playlist.m3u8
 
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Maluku",TVRI Maluku
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
@@ -216,13 +238,20 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(03)/index.m3u8
 #EXTINF:0  tvg-logo="http://www.bungotv.co.id/BUNGOTV.png" group-title="Sumatera",Bungo TV
 http://103.229.72.178/mobile/bungotv.stream.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/NIIKoFX.jpg" group-title="Sumatera",Gmeilang TV
+http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:0  tvg-logo="http://2.bp.blogspot.com/_knbMLJw0sQA/Syby-VMQLeI/AAAAAAAAAAU/LU-FvZzkXm4/w1200-h630-p-k-no-nu/logojambitv.jpg" group-title="Sumatera",  Jambi TV
+http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4e/JEK_TV_%282018%29.png/300px-JEK_TV_%282018%29.png" group-title="Sumatera",Jek TV
 http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.padangtv.id/wp-content/uploads/2016/06/logo1.png" group-title="Sumatera",Padang TV
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:0  tvg-logo="http://www.radartv.co.id/wp-content/uploads/2019/07/Logo-Radar-TV-2019.png" group-title="Sumatera",Radar TV Lampung
+http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.riauchannel.tv/wp-content/uploads/2018/06/log1.png" group-title="Sumatera",Riau Channel
 https://video2.onlivestreaming.net/riauchannel/livestream/playlist.m3u8
-
+#EXTINF:0  tvg-logo="http://www.tegartv.com/wp-content/uploads/2019/06/Logo-TegarTV.png" group-title="Sumatera", Tegar TV
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/gmap.png" group-title="Phillippines(Pilipinas)", GMA Pinoy
 http://164.40.161.43:10011
