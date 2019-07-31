@@ -217,7 +217,6 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="中国上星频道", 哈哈炫动
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="中国上星频道", 安徽卫视
 http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
 #EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="中国上星频道",北京卫视
@@ -372,10 +371,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China (中国)", 新唐人中国台
 https://live2.ntdimg.com/cnlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sanya.jpg" group-title="地方电视台",三亚新闻
-http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgj.jpg" group-title="地方电视台(安徽)",安徽国际
 http://61.58.60.230:9319/live/237.m3u8
@@ -663,6 +658,8 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225772/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/liupanshui.jpg" group-title="地方电视台(贵州)",六盘水新闻综合
 http://39.135.16.142:6060/PLTV/88888888/224/3221225773/1/index.m3u8?fmt=ts2hls
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sanya.jpg" group-title="地方电视台(海南)",三亚新闻
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" group-title="地方电视台(黑龙江)",HRB新闻综合
 http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
