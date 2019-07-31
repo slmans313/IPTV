@@ -4,10 +4,6 @@
 http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
 #EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/KBS2.png" group-title="South Korea(한국어)",KBS2
 http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
-#EXTINF:-1 logo="http://kbsworldimage.kbs.co.kr/images/logo.png" group-title="South Korea(한국어)",KBS World Asia
-http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
-#EXTINF:-1 logo="http://kbsworldimage.kbs.co.kr/images/logo.png" group-title="South Korea(한국어)",KBS World Russia
-http://cdn.nexttvnet.ru/hlsl/23/kbs_world/playlist.m3u8
 #EXTINF:-1 logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ani_box.jpg" group-title="South Korea(한국어)",Anibox
 http://122.129.115.21:1935/edgedol/_definst_/tao113/playlist.m3u8
 #EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" group-title="South Korea(한국어)", Aniplus 한국어
@@ -34,6 +30,8 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FOX.uk.png" group-title="South Korea(한국어)",FOX  한국어
 http://122.129.115.21:1935/edgedol/_definst_/tao106/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.billboard.com/files/styles/landscape_768/public/media/HallyPOP-Logo-2018-billboard-1548.jpg" group-title="South Korea(한국어)",HallyPOP
+https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/WDQdCBB.png" group-title="South Korea(한국어)", Korea TV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea(한국어)", MBC
@@ -66,6 +64,7 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 logo="http://m.korean.ytn.co.kr/img/header_ytnworld_v2.png"  group-title="South Korea(한국어)",YTN 코리안
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b732000.m3u8
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/811423180854149121/7iTj7-5h_400x400.jpg"  group-title="North Korea(조선)",Korean Central Television 
 https://tv.nknews.org/tvhls/stream.m3u8
 
