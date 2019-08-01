@@ -135,10 +135,13 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="Horse Racing",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png group-title="Horse Racing", Racing.com (Australia)
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png" group-title="Horse Racing", Racing.com (Australia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/KonnyyMir.ru.png" group-title="Horse Racing",Конный мир
 http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/214/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="Hockey",NHL Network
+http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="American Sports", Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
@@ -174,8 +177,6 @@ http://185.246.209.109:8080/MSG/index.m3u8
 http://185.246.209.109:8080/MSG+/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NewEnglandSportsNetworkPlus.us.png" group-title="American Sports",NESN
 http://185.246.209.109:8080/NESN/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="American Sports",NHL Network
-http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="American Sports",NWCT 12
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/SECNetwork.us.png" group-title="American Sports",SEC Network
@@ -201,12 +202,8 @@ http://185.246.209.109:8080/TSN5/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png" group-title="American Sports",Yes Network
 http://185.246.209.109:8080/YES/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://api.kaztrk.kz/uploads/slider/slider_id/23_2/23_2_origin_2.png" group-title="Asian Sports",QazSports
 http://217.196.24.146:8000/play/529
-#EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="Asian Sports",Türkmen Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="Asian Sports",  MNC Sports
 https://live.mncnow.id/mncsports/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/KBS_N_Sports.png"  group-title="Asian Sports",KBS N Sports
