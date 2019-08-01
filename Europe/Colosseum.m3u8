@@ -259,7 +259,7 @@ http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.festivalaquilone.it/images/telesud.jpg" group-title="Italy(Italia)",Telesud Trapani
 http://live.streamcaster.net:1935/telesud3_live/telesud/chunklist_w1977902813.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/TeleTicino.png" group-title="Italy(Italia)",TeleTicino
-http://teleticinolive.vedge.infomaniak.com/livecast/teleticinolive/playlist.m3u8
+https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
 #EXTINF:-1 tvg-logo="http://www.italianews24.it/public/tv/Televomero.jpg" group-title="Italy(Italia)",Televomero Campania
 http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tg_norba24.png" group-title="Italy(Italia)",TG Norba 24
@@ -762,31 +762,37 @@ http://83.56.24.104:9981/stream/channelid/1329177212?ticket=E31854C8621FC2E0886A
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/846763000275107840/0enf3YUj_400x400.jpg" group-title="Sweden(Sverige)", DI TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RTS_Un_logo_2015.svg/300px-RTS_Un_logo_2015.svg.png"  group-title="Switzerland", RTS Un
-https://s6.tntendirect.com/rts1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RTS_Deux_logo_2015.svg/300px-RTS_Deux_logo_2015.svg.png" group-title="Switzerland", RTS Duex
-https://s6.tntendirect.com/rts2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C2x3L4NQbRQ/WVPJYoRXHgI/AAAAAAAAHgo/34ndMIW1CjgIHR9lSb_wDRd_EF-3C6GqQCLcBGAs/s1600/srf_2_ch.png" group-title="Switzerland", SRF Zwei
 http://176.10.117.18:8081/aypitv/SRF2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SRF_info_logo.svg/1200px-SRF_info_logo.svg.png" group-title="Switzerland", SRF Info
 http://176.10.117.18:8081/aypitv/SRFINFO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Switzerland", RSI LA1
-http://176.10.117.21:8081/aypitv/RSI_LA1Yenikart/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1920px-RSI_La_2_2012.svg.png" group-title="Switzerland", RSI LA2
-http://176.10.117.21:8081/aypitv/RSI_LAHD2ZUG/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_Tele_M1.svg/1200px-Logo_Tele_M1.svg.png" group-title="Switzerland", Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
-#EXTINF:-1 tvg-logo="http://www.3plus.tv/sites/all/themes/tplus/logo.png" group-title="Switzerland", 3+
-http://185.41.78.157:8047/play/a01n
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="Switzerland", Canal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="Switzerland", La Télé
+#EXTINF:-1 tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Switzerland", Canal Alpha 
+https://canalalpha.vedge.infomaniak.com/livecast/smil:canalalpha.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Switzerland", Canal Alpha Ju
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.die-neue-zeit.tv/wp-content/uploads/dnz-logo-2.png" group-title="Switzerland", Die Neue Zeit TV
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
+#EXTINF:-1 tvg-logo="http://www.latele.ch/sites/default/files/images-header/header_logo_vaud_fribourg.png" group-title="Switzerland", La Télé
 https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lfmtv.ch/wp-content/uploads/2017/02/logo_v02-2.png" group-title="Switzerland", LFM TV
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w638707571_b3000000.m3u8
+#EXTINF:-1 tvg-logo="http://www.marcello-alexander.ch/images/musig24-Logo01-2-2.gif" group-title="Switzerland", Musig24
+https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/1310877_logo_beatz2.png" group-title="Switzerland",Pilatus Beatz
 https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png" group-title="Switzerland", TeleBärn
+#EXTINF:-1 tvg-logo="https://i2.wp.com/qs24.tv/wp-content/uploads/2019/06/Logo_QS24_weiss_Pfade.png" group-title="Switzerland",QS24
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://reezom.s3.amazonaws.com/wp-content/uploads/tv-show-imaging-habillage-%C3%A9mission-logo-rougetv.jpg" group-title="Switzerland",RogueTV
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TeleB%C3%A4rn_Logo.svg/1200px-TeleB%C3%A4rn_Logo.svg.png" group-title="Switzerland", Tele Bärn
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TeleBielingue_Logo.svg/1280px-TeleBielingue_Logo.svg.png" group-title="Switzerland", Tele Bielingue
+https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Switzerland", TVM 3
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/16025_logo_tvo.png" group-title="Switzerland", TVO
 https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8
