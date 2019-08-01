@@ -45,6 +45,8 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png" group-title="中文频道", TVBS 新聞
 http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文频道",壹新闻
+http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
 #EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="中文频道", 無綫財經資訊台
 http://220.246.167.173:8080/6.ts
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/806-phoenixinfonews.png" group-title="中文频道", 鳳凰資訊
@@ -53,8 +55,10 @@ http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="中文频道", 鳳凰香港台
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-
-
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="中文频道",CCTV-2 财经
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="中文频道",CCTV-13 新闻频道
+http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="中文频道",民視台灣台
 https://mozai.4gtv.tv/m3u8/mobile/4gtv-4gtv001/master.m3u8?token=hA5RfFGWq0e9cBOAeUYz1w&expires=1564685102&refer=
@@ -82,6 +86,7 @@ http://113.196.177.81:8893/VideoInput/play.ts
 http://113.196.177.81:8889/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="中文频道", 東森新聞
 http://61.216.10.122:4078/VideoInput/play.ts
+
 #EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="中文频道", 大愛一台
 http://61.58.60.230:9319/live/10.m3u8
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="中文频道", 大愛二台
@@ -90,8 +95,7 @@ http://61.58.60.230:9319/live/191.m3u8
 http://125.227.210.37:8901/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/Ustv_logo.jpg" group-title="中文频道", 非凡新闻
 http://125.227.210.37:8900/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文频道",壹新闻
-http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="中文频道",澳亞衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
@@ -171,9 +175,6 @@ http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 http://122.146.68.116:4016/VideoInput/play.ts
 
 
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="中文频道",CCTV-2 财经
-http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" group-title="中文频道",CCTV-3 综艺
 http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="中文频道",CCTV-4 中文国际
@@ -190,8 +191,6 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
 http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="中文频道",CCTV-12 社会与法
 http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="中文频道",CCTV-13 新闻频道
-http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title="中文频道",CCTV-14 少儿
 http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="中文频道",CCTV 15 音乐
