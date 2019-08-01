@@ -47,18 +47,22 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文频道",壹新闻
 http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
-#EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="中文频道", 無綫財經資訊台
-http://220.246.167.173:8080/6.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="中文频道",CCTV-13 新闻频道
+http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/806-phoenixinfonews.png" group-title="中文频道", 鳳凰資訊
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中文频道", 凤凰卫视中文台
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="中文频道", 鳳凰香港台
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="中文频道",CCTV-2 财经
+
+#EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="中文频道", 無綫財經資訊台
+http://220.246.167.173:8080/6.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/1280px-CCTV-2_%E8%B4%A2%E7%BB%8F.svg.png" group-title="中文频道",CCTV-2 财经
 http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="中文频道",CCTV-13 新闻频道
-http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://static.reuters.com/resources/media/editorial/20160911/Logo_yicai.gif" group-title=""中文频道",第一财经
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="中文频道",民視台灣台
 https://mozai.4gtv.tv/m3u8/mobile/4gtv-4gtv001/master.m3u8?token=hA5RfFGWq0e9cBOAeUYz1w&expires=1564685102&refer=
@@ -314,10 +318,14 @@ http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226746/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="中文少儿频道",嘉佳卡通
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cosatech.com.tw//upload/logo/%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC.jpg" group-title="少儿", 東森幼幼
+#EXTINF:-1 tvg-logo="http://www.cosatech.com.tw//upload/logo/%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC.jpg" group-title="中文少儿频道", 東森幼幼
 http://220.158.149.14:9999/live/TV00000000000000000076@HHZT;LIVE
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetvzj.jpg" group-title="中文少儿频道", CETV(早期教育)
 http://39.135.16.142:6060/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="中文少儿频道",动漫秀场
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjing.cn/upload/ypshop/1363166697e721a.jpg" group-title="中文少儿频道", 优优宝贝
+http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="中文体育频道", beIN Sports 2 (香港)
 http://125.227.210.37:8886/VideoInput/play.ts
@@ -466,20 +474,13 @@ http://cctvtxyh5c.liveplay.myqcloud.com/wstv/btv9_2_hd.m3u8
 http://61.58.60.230:9319/live/226.m3u8
 #EXTINF:-1 tvg-logo="http://p2.diaoyu.com/M01/15/16/CgAAilUJTaOAWJnRAAA2KD1DMWU213.png" group-title="地方电视台(北京)", 四海钓鱼
 http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjing.cn/upload/ypshop/1363166697e721a.jpg" group-title="地方电视台(北京)", 优优宝贝
-http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV-DOCUMENTARY.jpg" group-title="地方电视台(上海)",全纪实频道
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/uploadfile/2014/0124/20140124025942625.jpg" group-title="地方电视台(上海)", 东方电影
 http://117.156.28.57/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.reuters.com/resources/media/editorial/20160911/Logo_yicai.gif" group-title="地方电视台(上海)",第一财经
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/shanghaidianshiju.png" group-title="地方电视台(上海)",电视剧频道
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="地方电视台(上海)",动漫秀场
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fazhitiandi.jpg" group-title="地方电视台(上海)", 法治天地
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5132041150-L.jpg" group-title="地方电视台(上海)",金色频道
