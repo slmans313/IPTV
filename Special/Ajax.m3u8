@@ -34,8 +34,6 @@ http://94.236.230.110:3333/8
 http://185.246.209.109:8080/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2 
 http://185.246.209.109:8080/ESPN2/index.m3u8
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espnu.png" group-title="ESPN",ESPN U
-http://185.246.209.109:8080/ESPNU/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pipul.tv/wp-content/uploads/2018/08/espnews.png" group-title="ESPN",ESPN News
 http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ESPN_Classic_Logo.svg/1200px-ESPN_Classic_Logo.svg.png" group-title="ESPN",ESPN Classic
@@ -43,9 +41,6 @@ http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Fox Sports", Fox Sport 1 USA
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" group-title="Fox Sports",  Fox Sport 2 USA
-http://185.246.209.109:8080/FOX_SPORTS2/tracks-v1a1/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Football",GOL TV
 http://185.246.209.109:8080/GOL_TV/index.m3u8
@@ -55,25 +50,12 @@ http://76.110.142.23:28003
 http://112.17.40.140/PLTV/88888888/224/3221226429/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Football", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:0 tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="Football", Real Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/chunklist_b1000000.m3u8
-#EXTINF:0 tvg-logo="https://live.sevillafc.es/sites/live-sevillafc-redisenoweb.emergya.com/files/inline-images/escudosfc.png" group-title="Football", Sevilla TV
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Cricket", DSports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="Cricket",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://sportschunky.com/wp-content/uploads/2019/03/Star-Sports-1-Live-Streaming.png" group-title="Cricket",Star Sports 1
-http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/6a/6acf7f7fa01ea01c3f594021fa775518.png" group-title="Cricket",Star Sports 2
-http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://chennailogs.willow.tv/fpdf17/WillowLogo_Black.png" group-title="Cricket",Willow 
-http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sportstvon.com/wp-content/uploads/2017/08/sony-ten1.png" group-title="Cricket",Sony Ten 1
-http://globalbd.mywire.org:8081/globe/ten1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="Cricket",Sony Ten 3
-http://globalbd.mywire.org:8081/globe/ten3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Cricket",Sony Ten ESPN
 http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Cricket", Sony Six
