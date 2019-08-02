@@ -274,14 +274,20 @@ http://jawaharchannel.livebox.co.in/jwhls/live.m3u8
 http://jawaharchannel.livebox.co.in/jwplushls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.jaytv.in/wp-content/uploads/2018/06/Jay-TV-Transparant-Logo.png" group-title="Tamil (தமிழ்)",  Jay
 http://livematrix.in:1935/live/jay/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-white.png" group-title="Tamil (தமிழ்)", IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_mid.m3u8
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCBAKTHI.png" group-title="Tamil (தமிழ்)", IBC Bakthi
-https://cdn.ibctamil.com/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_mid.m3u8
 #EXTINF:-1 tvg-logo="http://mediaworldasia.dk/images/articles/ibccomedy.jpg" group-title="Tamil (தமிழ்)",IBC Tamil Comedy
-https://cdn.ibctamil.com/ibc-comedy/smil:ibccomedy.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCISAI.png" group-title="Tamil (தமிழ்)",IBC Tamil Music
-https://cdn.ibctamil.com/ibc-music/smil:ibcmusic.smil/index.m3u8
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_mid.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-event.png" group-title="Tamil (தமிழ்)", IBC Events
+https://ibcevent-live.ibctamil.com/transcode/ibcevent_mid.m3u8
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="Tamil (தமிழ்)",IBC Kids
-https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
+https://ibckids-origin.ibctamil.com/transcode/ibckids_mid.m3u8
+#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCISAI.png" group-title="Tamil (தமிழ்)",IBC Music
+https://ibcmusic-origin.ibctamil.com/transcode/ibcmusic_mid.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-siluvaii.png" group-title="Tamil (தமிழ்)", IBC Siluvai
+https://ibcsiluvai-origin.ibctamil.com/transcode/ibcsiluvai_mid.m3u8
 #EXTINF:-1 tvg-logo="http://inayam.tv/images/logo.png" group-title="Tamil (தமிழ்)", Inayam
 http://live.streamjo.com:1935/cctv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-zeTW6LjG3sE/WtQjJdb4tnI/AAAAAAAAArk/iN1DpmS3SN462maAo9ku_1c94WTD91tqACK4BGAYYCw/s1600/Jaffna-Festival-450-150.png" group-title="Tamil (தமிழ்)", Jaffna TV
