@@ -6,6 +6,8 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://bf.ygsaeq.cn/10088/j2tv.m3u8?auth_key=1581268666-0-0-dde1ff48abfe26aa3d3e0f9ca7164cd5
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540" group-title="中文频道",無綫明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="中文频道", 無綫財經資訊台
+http://220.246.167.173:8080/6.ts
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="中文频道",TVB星河
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="中文频道", 港台電視 31
@@ -41,24 +43,24 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="中文频道",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.pngg" group-title="中文频道", 華視新聞
+http://v.wangjiuling.com/tv?sv=oMrVLWNH2lCAjcgnMlL1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png" group-title="中文频道",  三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png" group-title="中文频道", TVBS 新聞
 http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文频道",壹新闻
 http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/TTV_Finance_Channel_2016.png/440px-TTV_Finance_Channel_2016.png" group-title="中文频道", 台視財經
+http://v.wangjiuling.com/tv?sv=9OdwXxbSvJCywCK98OaP
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="中文频道",CCTV-13 新闻频道
 http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
-
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/806-phoenixinfonews.png" group-title="中文频道", 鳳凰資訊
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中文频道", 凤凰卫视中文台
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="中文频道", 鳳凰香港台
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-
-#EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="中文频道", 無綫財經資訊台
-http://220.246.167.173:8080/6.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/1280px-CCTV-2_%E8%B4%A2%E7%BB%8F.svg.png" group-title="中文频道",CCTV-2 财经
 http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.reuters.com/resources/media/editorial/20160911/Logo_yicai.gif" group-title="中文频道",第一财经
