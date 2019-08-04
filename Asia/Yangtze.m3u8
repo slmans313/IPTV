@@ -14,6 +14,8 @@ http://qqpull.inke.cn/live/1564934103743521.m3u8
 http://220.246.167.173:8080/6.ts
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="中文频道",TVB星河
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="中文频道", 港台電視 31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="中文频道", 港台電視 32
@@ -29,6 +31,10 @@ http://220.246.167.173:8080/2.ts
 http://198.16.106.58:8278/ftvhd_taiwan/playlist.m3u8?tid=15573501&tsum=347eb9f7de202d4d67e4ac834d2f5f8f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/300px-Tvbs-logo-42.png" group-title="中文频道", TVBS歡樂
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GTV_Variety_logo_2018.png/330px-GTV_Variety_logo_2018.png" group-title="中文频道",八大綜合
+http://60.251.37.44:8080/live/gtv7659.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/GTV_One_logo_2018_01.png/330px-GTV_One_logo_2018_01.pngg" group-title="中文频道", 八大第一
+http://60.251.37.44:8080/live/gtvfirst7659.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="中文频道", 湖南卫视
 http://39.135.16.142:6060/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
