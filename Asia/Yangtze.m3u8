@@ -14,26 +14,17 @@ http://220.246.167.173:8080/6.ts
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="中文频道", ViuTV (99台)
 http://220.246.167.173:8080/0.ts
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="中文频道",ViuTVsix (96台)
+http://220.246.167.173:8080/2.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="中文频道", 港台電視 31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="中文频道", 港台電視 32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="中文频道", 香港开電視台
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="中文频道", ViuTV (99台)
-http://220.246.167.173:8080/0.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="中文频道",ViuTVsix (96台)
-http://220.246.167.173:8080/1.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="中文频道",ViuTVsix (96台)
-http://220.246.167.173:8080/9.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="中文频道",ViuTVsix (96台)
-http://220.246.167.173:8080/7.ts
-
-
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="中文频道",民視
-http://198.16.106.58:8278/ftvhd_taiwan/playlist.m3u8?tid=15573501&tsum=347eb9f7de202d4d67e4ac834d2f5f8f
+http://198.16.106.58:8278/ftvhd_taiwan/playlist.m3u8?tid=15515466&tsum=0ac32014b8b4228abe56cf79c2e94630
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/300px-Tvbs-logo-42.png" group-title="中文频道", TVBS歡樂
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GTV_Variety_logo_2018.png/330px-GTV_Variety_logo_2018.png" group-title="中文频道",八大綜合
