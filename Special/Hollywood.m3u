@@ -95,6 +95,8 @@ https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/BBCLifestyle.za.png" group-title="Entertainment", BBC Lifestyle
+http://203.207.56.228/live/iptv003.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BET.us.png" group-title="Entertainment", BET
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Bravo.us.png" group-title="Entertainment", Bravo
@@ -105,6 +107,8 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="Entertainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/EEntertainment.br.png" group-title="Entertainment", E!
+http://203.207.56.228/live/iptv002.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment", ET Live
 http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest_7.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/foodnetwork.png" group-title="Entertainment", Food Network
@@ -172,7 +176,9 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mo
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyBBCEarth.in.png" group-title="Learning",BBC Earth
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/BBCEarth.id.png" group-title="Learning", BBC Earth
+http://203.207.56.228/live/iptv001.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyBBCEarth.in.png" group-title="Learning",Sony BBC Earth
 http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Learning", Discovery
 http://203.207.56.228/live/iptv012.m3u8
