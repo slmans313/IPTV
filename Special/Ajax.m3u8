@@ -28,8 +28,8 @@ http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
 http://94.236.230.110:3333/6
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="beIN", beIN Sports 8 العَرَبِيَّة‎
 http://94.236.230.110:3333/8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 Türkiye
-http://78.169.186.2:8080/2.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN", beIN Sports 1 US
+http://23.237.22.82:8086/udp/127.0.0.1:56021
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN.us.png" group-title="ESPN",ESPN 
 http://185.246.209.109:8080/ESPN/index.m3u8
@@ -40,18 +40,22 @@ http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNClassics.us.png" group-title="ESPN",ESPN Classic
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Fox Sports", Fox Sport 1 USA
+#EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Fox Sports", Fox Sport 1 US
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png group-title="Fox Sports", Fox Sport 2 US
+http://23.237.22.82:8086/udp/127.0.0.1:56047
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/NBC_Sports_Boston.png/250px-NBC_Sports_Boston.png" group-title="NBC Sports",NBC Sports Boston
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="NBC Sports",NBC Sports
+http://23.237.22.82:8086/udp/127.0.0.1:56016
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsBoston.us.png" group-title="NBC Sports",NBC Sports Boston
 https://kerenua.xyz/zine/mini/miniProxy.php/http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/NBC_Sports_Bay_Area.png" group-title="NBC Sports",NBC Sports Bay Area
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsBayArea.us.png" group-title="NBC Sports",NBC Sports Bay Area
 https://kerenua.xyz/zine/mini/miniProxy.php/http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/2596k/prog.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/NBC_Sports_California.png" group-title="NBC Sports",NBC Sports California
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsCalifornia.us.png" group-title="NBC Sports",NBC Sports California
 https://seorankingsolution.com/seodashboard/plugins/QuickWebProxy/miniProxy.php/http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1200px-NBC_Sports_Chicago_Logo.svg.png" group-title="NBC Sports",NBC Sports Chicago
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsChicago.us.png" group-title="NBC Sports",NBC Sports Chicago
 https://kerenua.xyz/zine/mini/miniProxy.php/http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/2596k/prog.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/440px-NBC_Sports_Philadelphia.png" group-title="NBC Sports",NBC Sports Philadelphia
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsPhiladelphia.us.png" group-title="NBC Sports",NBC Sports Philadelphia
 https://kerenua.xyz/zine/mini/miniProxy.php/http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/2596k/prog.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Basketball",NBA TV
