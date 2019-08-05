@@ -113,6 +113,8 @@ http://203.207.56.228/live/iptv002.m3u8
 http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest_7.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/foodnetwork.png" group-title="Entertainment", Food Network
 https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX
+http://23.237.22.82:8086/udp/127.0.0.1:56163
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Entertainment", Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png"  group-title="Entertainment", Fashion TV Midnite
@@ -175,6 +177,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b2694
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UniversalKids.us.png" group-title="Kids/Animation", Universal Kids
+http://23.237.22.82:8086/udp/127.0.0.1:56076
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/BBCEarth.id.png" group-title="Learning", BBC Earth
 http://203.207.56.228/live/iptv001.m3u8
