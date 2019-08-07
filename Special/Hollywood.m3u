@@ -180,9 +180,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UniversalKids.us.png" group-title="Kids/Animation", Universal Kids
 http://23.237.22.82:8086/udp/127.0.0.1:56076
 
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/BBCEarth.id.png" group-title="Learning", BBC Earth
-http://203.207.56.228/live/iptv001.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyBBCEarth.in.png" group-title="Learning",Sony BBC Earth
 http://130.185.150.79:1935/trunk/BBC-EARTH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Learning", Discovery
@@ -202,7 +199,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/SmithsonianChannel.us.png" group-title="Learning",  Smithsonian Channel
 http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/us/HallmarkMoviesMysteries.us.png" group-title="Movies", Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HallmarkMoviesMysteries.us.png" group-title="Movies", Hallmark Movies & Mysteries
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
 http://203.207.56.228/live/iptv007.m3u8
