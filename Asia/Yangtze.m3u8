@@ -26,7 +26,11 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="中文频道",民視
-http://198.16.106.58:8278/ftvhd_taiwan/playlist.m3u8?tid=15092389&tsum=49a799090606d8138756fe1d372e7ff4
+http://202.39.28.229:8114/0.ts
+#EXTINF:-1,中視
+http://202.39.28.229:8113/0.ts
+#EXTINF:-1,公視
+http://202.39.28.229:8115/0.ts
 #EXTINF:-1 tvg-logo="https://www.tacttv.com/wp-content/uploads/2018/11/%E5%8F%B0%E7%81%A3%E8%97%9D%E8%A1%93%E5%8F%B0logo.png" group-title="中文频道", 台灣藝術
 http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/300px-Tvbs-logo-42.png" group-title="中文频道", TVBS歡樂
@@ -37,8 +41,15 @@ http://60.251.37.44:8080/live/gtv7659.m3u8
 http://60.251.37.44:8080/live/gtvfirst7659.m3u8
 #EXTINF:-1 tvg-logo="http://www.ctitv.com.tw/wp-content/uploads/2018/08/cti-logo.png" group-title="中文频道", 中天綜合
 http://60.250.69.26:8080/live/cti9785.m3u8
+#EXTINF:-1,中天娛樂
+http://202.39.28.229:8124/0.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="中文频道",  三立臺灣
 http://36.230.28.107/2.ts
+#EXTINF:-1,三立都會
+http://202.39.28.229:8118/0.ts
+#EXTINF:-1,東森綜合
+http://202.39.28.229:8116/0.ts
+
 #EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="中文频道", 大愛一台
 http://61.58.60.230:9319/live/10.m3u8
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="中文频道", 大愛二台
@@ -95,6 +106,11 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png" group-title="中文频道", TVBS 新聞
 http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
+#EXTINF:-1,台視新聞
+http://202.39.28.229:8111/0.ts
+#EXTINF:-1,華視新聞
+http://202.39.28.229:8112/0.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文频道",壹新闻
 http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="中文频道",CCTV-13 新闻频道
