@@ -54,20 +54,6 @@ http://185.246.209.109:8080/NBA9/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="Baseball",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA1.png" group-title="Soccer",Arena Sport 1
-http://hrv.00387.info:80/Arena1HDHR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA2.png" group-title="Soccer",Arena Sport 2
-http://hrv.00387.info:80/Arena2HDHR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA3.png" group-title="Soccer",Arena Sport 3
-http://hrv.00387.info:80/Arena3HDHR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA4.png" group-title="Soccer",Arena Sport 4
-http://hrv.00387.info:80/Arena4HDHR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA5.png" group-title="Soccer",Arena Sport 5
-http://hrv.00387.info:80/Arena5HDHR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/images/logo-arenaA6.png" group-title="Soccer",Arena Sport 6
-http://hrv.00387.info:80/Arena6HDHR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/BT-Sports-1.png" group-title="Soccer", BT Sports 1 
-http://cdn.brots.world/hls2/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.comparaiso.es/sites/comparaiso.es/files/images/logos/bein-laliga-200x300.png" group-title="Soccer",beIN LaLiga
 http://23.237.22.82:8086/udp/127.0.0.1:56022
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/CBC_Sport%2C_logo%2C_2015.png" group-title="Soccer", CBC Sport
@@ -122,7 +108,7 @@ http://185.246.209.109:8080/NFL_REDZONE/index.m3u8
 http://185.246.209.109:8080/NFL_NOW/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf", NBC Golf
-https://kerenua.xyz/zine/mini/miniProxy.php/http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+http://190.2.154.164:8082/TV0670
 #EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png"  group-title="Golf",JTBC Golf
 http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8
 #EXTINF:-1 tvg-logo="https://www.poscojoongwoo.com/resources/img/front/site/img_sitelogo19.jpg"  group-title="Golf",SBS Golf
@@ -132,6 +118,8 @@ http://203.162.235.41:16924
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="MMA", FightBox
 http://92.43.140.249/s86/04.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/FightNetwork.ca.png" group-title="MMA",Fight
+http://190.2.154.164:8082/TV0674
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/UFCTV.us.png" group-title="MMA",UFC Fight Pass
 http://185.246.209.109:8080/UFC_FIGHT_PASS/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="MMA",WWE
@@ -222,12 +210,29 @@ https://vipunlimit.express-stream.live/bkk1live/tsphd1/chunks.m3u8
 https://vipunlimit.express-stream.live/bkk1live/tsp5/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.ibsportstv.com/webuser/page/img/img_in_tit_sports.png" group-title="Asian Sports", IB Sport
 http://211.40.75.110:8080/0.ts
-
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Sport1.png" group-title="Asian Sports", ,Skynet Sports 1
+http://190.2.154.164:8082/TV0660
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/sports2.png" group-title="Asian Sports", Skynet Sports 2
+http://190.2.154.164:8082/TV0661
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/sports3.png" group-title="Asian Sports", Skynet Sports 3
+http://190.2.154.164:8082/TV0662
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Sport4.png" group-title="Asian Sports", Skynet Sports 4
+http://190.2.154.164:8082/TV0663
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Sport5.png" group-title="Asian Sports", Skynet Sports 5
+http://190.2.154.164:8082/TV0664
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Sport6.png group-title="Asian Sports", Skynet Sports 6
+http://190.2.154.164:8082/TV0665
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/sports-.png" group-title="Asian Sports", Skynet Sports +
+http://190.2.154.164:8082/TV0666
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsporthd.jpg" group-title="Asian Sports",Skynet Sports HD
+http://190.2.154.164:8082/TV0673
 
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/freesports.png" group-title="European/South American Sports", Free Sports
 https://live2.hoolatv.com/live/freesports_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-logo="https://www.m4sport.hu/wp-content/plugins/telesport.hu.widgets/widgets/editedMenu/images/logo_m4sport.png" group-title="European/South American Sports",M4 Sport
-http://bos.00387.info:8080/HU:M4Sport/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/Eurosport.au.png" group-title="European/South American Sports",Eurosport
+http://190.2.154.164:8082/TV0672
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="European/South American Sports",EDGE
+http://190.2.154.164:8082/TV0671
 #EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/epgcatalog/MYSPORTS1_FULL.png" group-title="European/South American Sports", My Sports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w2102582891_b6628000.m3u8
 #EXTINF:-1 tvg-logo="http://ioamoilfoggia.it/wp-content/uploads/2017/05/rai-sport-piu-hd.jpg" group-title="European/South American Sports", Rai Sports Plus
