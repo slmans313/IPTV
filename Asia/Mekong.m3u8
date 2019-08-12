@@ -429,6 +429,12 @@ https://vipunlimit.express-stream.live/bkk1live/very/chunks.m3u8
 http://stream.rs.co.th/you-hi/index.m3u8
 #EXTINF:0 tvg-logo="http://www.zabbtv.com/images/head_zabbtv.jpg" group-title="Thailand (ประเทศไทย)", Zabb TV
 http://thaitvstream.com/play/a071260/index.m3u8
+
+
+#EXTINF:0 tvg-logo="https://image.roku.com/channels/images/03e438edbbc9469dbb981bbc7c28280b-hd.jpg" group-title="Thailand (ประเทศไทย)", TATV
+http://162.212.178.70:4842/bysid/6
+#EXTINF:0 tvg-logo="http://www.nattv.com/images/lg2.gif" group-title="Thailand (ประเทศไทย)",NATTV
+http://162.212.178.70:4842/bysid/3
 #EXTINF:0 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/afa0264a-73ac-490b-b2ce-9d8e9e372759.png" group-title="Thailand (ประเทศไทย)", True Asian Series
 https://vipunlimit.express-stream.live/bkk1live/aser/chunks.m3u8
 #EXTINF:0 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/d6c9368f-1a96-4988-8517-1e97313027bd_320.png" group-title="Thailand (ประเทศไทย)",True Film Asia
@@ -563,5 +569,7 @@ http://thtg.vn:8001/thtg.m3u8
 http://thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" group-title="Vietnam(Việt Nam)", TTXVN
 http://live.vnanet.vn/VnewsLive_Android.m3u8
+#EXTINF:-1 tvg-logo="http://i0.wp.com/vbstelevision.com/wp-content/uploads/2016/04/cropped-logo512x512.png" group-title="Vietnam(Việt Nam)",VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vitv.vn/Content/Images/logo.png" tvg-name="VITV" group-title="Vietnam(Việt Nam)", VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
