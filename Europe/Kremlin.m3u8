@@ -510,6 +510,12 @@ http://212.112.101.69:8081/stream54/output.m3u8
 http://212.112.101.69:8081/stream54/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatNature.ru.png" group-title="Russia (Россия)",Viasat Nature
 http://212.112.101.69:8081/stream53/output.m3u8
+#EXTINF:-1 tvg-logo="http://www.viasat-channels.tv/uploads/tv/channel/logo/2/2.png" group-title="Russia (Россия)",Viasat VIP Comedy
+http://broadcasting.cdn.contentgm.com:8080/vip_comedy/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1 tvg-logo="http://www.viasat-channels.tv/uploads/tv/channel/logo/3/3.png" group-title="Russia (Россия)",Viasat VIP Megahit
+http://broadcasting.cdn.contentgm.com:8080/vip_megahit/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1 tvg-logo="http://www.viasat-channels.tv/uploads/tv/channel/logo/6/6.png" group-title="Russia (Россия)",Viasat VIP Premiere
+http://broadcasting.cdn.contentgm.com:8080/vip_premiere/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 tvg-logo="http://vrt.tv/assets/vrt/img/logo/logo_30.png" group-title="Russia (Россия)",VRT.TV
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.xn--80af5aj3e.xn--p1ai/assets/images/logo.png" group-title="Russia (Россия)",Юрган ТВ
@@ -546,10 +552,14 @@ http://ott-cdn.ucom.am/s31/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Russia (Россия)",Cartoon Network Россия
 http://91.194.72.46:10044/play/Cartoon_Network_HD
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Russia (Россия)",Discovery Россия
+http://broadcasting.cdn.contentgm.com:8080/discovery/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png" group-title="Russia (Россия)", Food Network Россия
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/FoxLife.ru.png" group-title="Russia (Россия)",Fox Life
 http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/HistoryChannel.ph.png" group-title="Russia (Россия)",History Россия
+http://broadcasting.cdn.contentgm.com:8080/history/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Russia (Россия)",Jim Jam Россия
 http://212.112.101.69:8081/stream38/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Russia (Россия)", National Geo Wild Россия
