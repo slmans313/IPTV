@@ -128,6 +128,8 @@ http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50184.m3u8
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png"group-title="Golf", ザ・ゴルフ・チャンネル
 http://203.162.235.41:16924
 
+#EXTINF:-1 tvg-logo="http://s.glaz.tv/images/logos/tv/big/boec-tv.jpg" group-title=MMA",Боец ТВ
+http://broadcasting.cdn.contentgm.com:8080/boets/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="MMA", FightBox
 http://92.43.140.249/s86/04.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/FightNetwork.ca.png" group-title="MMA",Fight
@@ -260,27 +262,19 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Sports +
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/00/01/11/06s.png" group-title="Russian Sports", Матч!
-http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/212/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/27/p1d.png" group-title="Russian Sports", Матч! Арена
-http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/207/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/07/92/25/hla.png" group-title="Russian Sports", Матч! Страна
-http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/107/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/32/i2o.png" group-title="Russian Sports", Матч! Игра
-http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/225/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png" group-title="Russian Sports",МАТЧ! Футбол 1
-http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/124/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/30/olz.png" group-title="Russian Sports",МАТЧ! Футбол 2 
-http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/211/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/31/u02.png" group-title="Russian Sports",МАТЧ! ФУТБОЛ 3
-http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/206/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/c/ce/%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg/1024px-%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg.png" group-title="Russian Sports",МАТЧ ПРЕМЬЕР
-http://83797743.ottv.info/iptv/B4K44SQURMDGXQ/220/index.m3u8
+http://vs314.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid733928993-b4000000.m3u8
 #EXTINF:-1 tvg-logo="http://www.football-tv.ru/wp-content/uploads/2017/11/logo-mini-1.png" group-title="Russian Sports", Телеканал Футбол
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatSport.ru.png" group-title="Russian Sports", Viasat Sport
 http://212.112.101.69:8081/stream55/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Russian Sports", EuroSports 1 Россия
 http://212.112.101.69:8081/stream44/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/Futbol1.ua.png" group-title="Russian Sports", Футбол 1
+http://broadcasting.cdn.contentgm.com:8080/footbal_1/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/Futbol2.ua.png" group-title="Russian Sports", Футбол 2
+http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/02/31/08/sd0.png" group-title="Russian Sports",Наш футбол
+http://broadcasting.cdn.contentgm.com:8080/nash_football/video.m3u8?token=8UjWeshNwq
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="Middle East Sports",Abu Dhabi Sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
