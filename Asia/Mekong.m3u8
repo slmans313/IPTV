@@ -200,8 +200,6 @@ http://wowza60.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 http://stream.sbo.co.id:1935/sbotv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Jawa",Tatv
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="http://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Jawa",Tatv
-http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="http://news.tvku.tv/assets2/images/logotvku2.png" group-title="Jawa",TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
 
@@ -413,6 +411,8 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 https://edge1a.v2h-cdn.com/appt3/Thaiban.stream_720p/chunklist_w1960436073.m3u8
 #EXTINF:0  tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="Thailand (ประเทศไทย)",  Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Thai_TV_Global_Network.jpg" group-title="Thailand (ประเทศไทย)",  TGN
+http://162.212.178.70:4842/bysid/4
 #EXTINF:0  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png" group-title="Thailand (ประเทศไทย)",  69 TV
 https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w559182369.m3u8
 #EXTINF:0 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/09/cedb4c86-0ad5-4934-8a9e-e3da10f17388.png" group-title="Thailand (ประเทศไทย)", True4U
@@ -487,13 +487,12 @@ http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.konsva.com/my_file/2017/04/tv9.jpg" group-title="Cambodia(កម្ពុជា ) ", TV9
 http://220.158.149.14:9999/live/TV00000000000000000120@HHZT;LIVE
 
-
-
-
 #EXTINF:-1  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg" group-title="Laos(ລາວ)", MVTV Laos
 https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1228847336.m3u8
 #EXTINF:0  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/MHONG.png"  group-title="Laos(ລາວ)", MVTV Hmong
 https://edge1a.v2h-cdn.com/appt7/MHONG.stream_720p/chunklist_w839479703.m3u8
+#EXTINF:-1  tvg-logo="https://i.malimarcdn.com/laothaiusHDF.jpg" group-title="Laos(ລາວ)", Lao-Thai TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.malimarcdn.com/laochampatvHD.jpg" group-title="Laos(ລາວ)", Lao Champa TV
 https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.malimarcdn.com/laochampatv2HD.jpg" group-title="Laos(ລາວ)", Lao Champa TV 2
