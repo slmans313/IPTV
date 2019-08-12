@@ -50,6 +50,8 @@ http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Basketball",NBA TV
 http://185.246.209.109:8080/NBA9/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Basketball", Sky Sports Action
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50189.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="Baseball",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
@@ -66,10 +68,12 @@ http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="Soccer",Sony Ten 2
 http://163.172.85.133:8080/TenS/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://gen-tec.co/gentecwiz/OTTtv/logo/uk%20sports%20and%20movies%20/SKY%20SPORTS%20FOOTBALL%201080.png" group-title="Soccer",Sky Sports Football
-http://thepk.co:2086/live/drifter1/Drifter1/38338.m3u8
-#EXTINF:-1 tvg-logo="http://gen-tec.co/gentecwiz/OTTtv/logo/uk%20sports%20and%20movies%20/SKY%20SPORTS%20PREMIER%20LEAGUE%20HD.png" group-title="Soccer",Sky Sports PL
-http://thepk.co:2086/live/drifter1/Drifter1/2835.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Soccer",Sky Sports Football
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50185.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Soccer",Sky Sports PL
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50180.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Soccer",Sky Sports Main Event
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50183.m3u8 
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/TrueSport-HD2-320.png" group-title="Soccer", True Sport 2
 https://vipunlimit.express-stream.live/bkk1live/tsphd2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_184.png" group-title="Soccer", True Sport 3
@@ -97,8 +101,14 @@ http://163.172.85.133:8080/TenS/3/index.m3u8
 http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="Cricket",Sony ESPN
 http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/willowlogo_white_2xIcon.png" group-title="Cricket", Willow Tv
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/newuiimgs/willowlogo_white_2xIcon.png" group-title="Cricket", Willow TV
 http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket", Sky Sports Cricket
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50187.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Motor Racing",Sky Sports F1
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50186.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="Football",NFL Network
 http://185.246.209.109:8080/NFL_NETWORK/tracks-v1a1/index.m3u8
@@ -113,6 +123,8 @@ http://54.39.124.28/pro.php/http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/
 http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8
 #EXTINF:-1 tvg-logo="https://www.poscojoongwoo.com/resources/img/front/site/img_sitelogo19.jpg"  group-title="Golf",SBS Golf
 http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png"  group-title="Golf", Sky Sports Golf
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50184.m3u8 
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png"group-title="Golf", ザ・ゴルフ・チャンネル
 http://203.162.235.41:16924
 
@@ -124,8 +136,10 @@ http://190.2.154.164:8082/TV0674
 http://185.246.209.109:8080/UFC_FIGHT_PASS/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="MMA",WWE
 http://162.210.195.121:8080/WWETVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="MMA", SKy Sports Arena
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50188.m3u8 
 
-#EXTINF:-1 tvg-ID="13.ts" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
+#EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Horse Racing",Dubai Racing 
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
@@ -135,6 +149,8 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/about-us/logos/starHub-logo.png" group-title="Horse Racing", Horse Racing Ch 88 
 http://182.19.212.148:8089/0.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsRacing.uk.png" group-title="Horse Racing",Sky Sports Racing
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79691.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="Hockey",NHL Network
 http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
@@ -227,18 +243,21 @@ http://190.2.154.164:8082/TV0666
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsporthd.jpg" group-title="Asian Sports",Skynet Sports HD
 http://190.2.154.164:8082/TV0673
 
+
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/freesports.png" group-title="European/South American Sports", Free Sports
 https://live2.hoolatv.com/live/freesports_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/Eurosport.au.png" group-title="European/South American Sports",Eurosport
 http://190.2.154.164:8082/TV0672
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="European/South American Sports",EDGE
 http://190.2.154.164:8082/TV0671
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="European/South American Sports", Sky Sports Mix
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50182.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="European/South American Sports", Sky Sports News
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50181.m3u8 
 #EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/epgcatalog/MYSPORTS1_FULL.png" group-title="European/South American Sports", My Sports 1
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w2102582891_b6628000.m3u8
 #EXTINF:-1 tvg-logo="http://ioamoilfoggia.it/wp-content/uploads/2017/05/rai-sport-piu-hd.jpg" group-title="European/South American Sports", Rai Sports Plus
 https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Sky_Sport_Austria_DE_RGB.png" group-title="European/South American Sports", Sky Sports Austria
-http://hrv.00387.info/GER:SkySPORTAUSTRIAUHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/sporttv-500x500.jpg" group-title="European/South American Sports", TV All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1  tvg-logo="https://www.virginmedia.ie/content/dam/www-virginmedia-ie/img/vm-sport-red-logo.png"  group-title="European/South American Sports",Virgin Media Sport
