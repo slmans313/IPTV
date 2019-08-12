@@ -199,7 +199,7 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 tvg-logo="https://europaplustv.com/images/europa_tv.png" group-title="Russia (Россия)",Europa Plus
 http://212.112.101.69:8081/stream69/output.m3u8
 #EXTINF:-1 tvg-logo="http://eurokino.tv/images/eurokino_logo.png" group-title="Russia (Россия)",Еврокино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/903-inadv-qidx-4k_v5.m3u8
+http://broadcasting.cdn.contentgm.com:8080/Evrokino/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 tvg-logo="https://www.rabotnikitv.com/wp-content/uploads/2019/01/eda-300x182.jpg" group-title="Russia (Россия)",Еда Премиум
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HbwP0Ke.png" group-title="Russia (Россия)",Енисей
@@ -947,6 +947,8 @@ https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 tvg-logo="https://culture.suspilne.media/inc/img/logo_culture.png" group-title="Ukraine(Україна)",UA:Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/300px-1%2B1_logo.svg.png" group-title="Ukraine(Україна)", 1+1
+http://broadcasting.cdn.contentgm.com:8080/1+1/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 tvg-logo="http://5streamking.co/images/channels/2plus2.png" group-title="Ukraine(Україна)", 2+2
 http://193.107.128.15:9000/2+2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/300px-Logo_112_Ukraine.svg.png" group-title="Ukraine(Україна)",112 Україна
