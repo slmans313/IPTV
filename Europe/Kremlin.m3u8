@@ -800,8 +800,6 @@ https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8
 http://tv2.esilnet.com/hls/mtrk.m3u8
 #EXTINF:-1 tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" group-title="Kazakhstan (Казахстан)",KTK
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ycgb4R2.jpg" group-title="Kazakhstan (Казахстан)",7 Канал
-http://78.40.108.218/7channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/REN_TV_logo_2015.png" group-title="Kazakhstan (Казахстан)",Рен ТВ Казахстан
 http://212.112.101.69:8081/stream03/output.m3u8
 #EXTINF:-1 tvg-logo="http://aktobetv.kz/assets/regions/logo/aqtobe.png" group-title="Kazakhstan (Казахстан)",Aктобе 
@@ -814,10 +812,14 @@ http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8
 http://onrez.kaztrk.kz/regional/taraztv/index.m3u8 
 #EXTINF:-1 tvg-logo="http://oraltv.kz/assets/regions/logo/aqjaiyq.png?v=1" group-title="Kazakhstan (Казахстан)",Oral
 http://onrez.kaztrk.kz/regional/oraltv/index.m3u8 
-#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh (English)
-http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8
-#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh (Казахстан)
-http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh TV (English)
+http://kazakhtvru.ultraiptv.com/live_en/playlist3/index.m3u8
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh TV (Казахстан)
+http://kazakhtvru.ultraiptv.com/live_en/playlist3/index.m3u8
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh TV (русском)
+http://kazakhtvru.ultraiptv.com/live_ru/playlist3/index.m3u8
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",(Кыргызстан)
+http://kazakhtvkg.ultraiptv.com/live_kg/playlist3/index.m3u8
 #EXTINF:-1 tvg-logo="http://kokshetautv.kz/assets/regions/logo/kokshe.png" group-title="Kazakhstan (Казахстан)",Ko’kokshe
 http://onrez.kaztrk.kz/regional/kokshetautv/index.m3u8 
 #EXTINF:-1 tvg-logo="http://shymkenttv.kz/assets/regions/logo/ontustik.png" group-title="Kazakhstan (Казахстан)",Ontustik
