@@ -21,7 +21,13 @@ http://d2m1uxwc5tgx9.cloudfront.net/blaze/4/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-challenge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/cbeebies.png" group-title="UK", Cbeebies
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-cbeebies/itracks-v1a1/mono.m3u8
+https://live2.hoolatv.com/live/cbeebies_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBSAction.uk.png" group-title="UK", CBS Action
+https://149.5.96.135:443/live/cbsaction_hi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBSDrama.uk.png" group-title="UK", CBS Drama
+https://149.5.96.135:443/live/cbsdrama_hi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBSReality.uk.png" group-title="UK", CBS Reality
+https://149.5.96.135:443/live/cbsreality_hi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/dave.png" group-title="UK", Dave
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
@@ -39,9 +45,11 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel4/tracks-v1
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",E4
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/More4.uk.png" group-title="UK",More 4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-more4/tracks-v1a1/mono.m3u8
+https://live2.hoolatv.com/live/more4_hi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/4music.png" group-title="UK",4 Music
 https://live2.hoolatv.com/live/4music_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/4Seven.uk.png" group-title="UK",4 Music
+https://149.5.96.135:443/live/4seven_hi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK",Channel 5
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="UK",Channel 5 USA
