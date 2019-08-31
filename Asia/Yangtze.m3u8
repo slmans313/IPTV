@@ -108,7 +108,8 @@ http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" group-title="廣東話", 广东体育
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=20&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/gdzjdy.jpg" group-title=""廣東話",珠江电影
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="中文频道",民視
@@ -471,44 +472,9 @@ http://r.gslb.lecloud.com:80/live/hls/2018040830000001a13/desc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2e/Logo_of_Minan_channel%2CZayton_television.jpg" group-title="地方电视台(福建)",泉州閩南語頻道
 http://live.qztvxwgj.com/live/mny.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gdgjpd.jpg"group-title="地方电视台(广东)",广东国际 (粤语)
-http://nclive.grtn.cn/gjpd/sd/live.m3u8 
-#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201805/20180529120119rdMG.jpg"group-title="地方电视台(广东)",广东珠江 (粤语)
-http://nclive.grtn.cn/zjpd/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/gdzjdy.jpg" group-title="地方电视台(广东)",珠江电影 (粤语)
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/14848/20180107150849-820390729_jpeg_911_679_56316.jpg/300" group-title="地方电视台(广东)", 英语辅导频道
 http://39.135.16.142:6060/PLTV/88888888/224/3221225737/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gdxwpd.jpg"group-title="地方电视台(广东)",广东新闻
-http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs1.jpg"group-title="地方电视台(广东)",广东经视
-http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs3.jpg"group-title="地方电视台(广东)",广东综艺
-http://dslive.grtn.cn:80/4K/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs4.jpg"group-title="地方电视台(广东)",广东影视
-http://nclive.grtn.cn/tvs4/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs5.jpg"group-title="地方电视台(广东)",广东少儿
-http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201805/201805301034084lUq.jpg"group-title="地方电视台(广东)",广东公共
-http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201805/20180530110054wDLp.jpg"group-title="地方电视台(广东)",广东房产
-http://nclive.grtn.cn/fcpd/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/golf.jpg"group-title="地方电视台(广东)",广东高尔夫
-http://nclive.grtn.cn/grfpd/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzzhpd.jpg" group-title="地方电视台(广东)",广州综合
-http://rhy.lsj.fffuw.cn/gz/live.m3u8?id=gztv1
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzxwpd.jpg" group-title="地方电视台(广东)",广州新闻
-http://rhy.lsj.fffuw.cn/gz/live.m3u8?id=gztv2
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzjjpd.jpg" group-title="地方电视台(广东)",广州经济
-http://rhy.lsj.fffuw.cn/gz/live.m3u8?id=gztv3
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzyspd.jpg" group-title="地方电视台(广东)",广州影视
-http://rhy.lsj.fffuw.cn/gz/live.m3u8?id=gztv5
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzshpd.jpg" group-title="地方电视台(广东)",广州生活
-http://rhy.lsj.fffuw.cn/gz/live.m3u8?id=gztv6
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzsepd.jpg" group-title="地方电视台(广东)",广州少儿
-http://rhy.lsj.fffuw.cn/gz/live.m3u8?id=gztv7
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/guangzjs.jpg" group-title="地方电视台(广东)",广州竞赛
-http://rhy.lsj.fffuw.cn/gz/live.m3u8?id=gztv4
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/szggpd.jpg" group-title="地方电视台(广东)",深圳卫视
 http://sztv-hls.cutv.com/2q76Sw2/500/i6k2n70.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shengzheng.jpg" group-title="地方电视台(广东)", 深圳DV生活
