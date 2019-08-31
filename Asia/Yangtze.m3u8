@@ -58,7 +58,7 @@ http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=20&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gdzjpd.jpg" group-title="廣東話", 广东珠江
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=008&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/gdzjdy.jpg" group-title=""廣東話",珠江电影
+#EXTINF:-1 tvg-logo="http://www.nb876.com/tvpic/gdzjdy.jpg" group-title="廣東話",珠江电影
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 
@@ -106,6 +106,15 @@ http://122.146.68.116:4015/VideoInput/play.ts
 http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="电影",CCTV-6 电影
 http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png/240px-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="电影",中国电影频道
+http://61.58.60.230:9319/live/225.m3u8
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="电影",Newtv 动作电影
+http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="电影",Newtv 精品电影
+http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/uploadfile/2014/0124/20140124025942625.jpg" group-title="电影", 东方电影
+http://117.156.28.57/PLTV/88888888/224/3221225656/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="纪实片",国家地理频道
 http://122.146.68.116:4020/VideoInput/play.ts
@@ -217,22 +226,16 @@ http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
 http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="中文频道", CETV4
 http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png/240px-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="中文频道",中国电影频道
-http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="中文频道", 安徽卫视
 http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
 #EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="中文频道",北京卫视
 http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
-#EXTINF:-1 tvg-logo="https://media.bjnews.com.cn/image/2019/05/03/4788479376108891447.jpg" group-title="中文频道",北京冬奥纪实
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="中文频道", 重庆卫视
 http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/SETV_fujian.jpg" group-title="中文频道",东南卫视
 http://39.135.16.142:6060/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/FJTV-670x300.jpg" group-title="中文频道",海峡卫视
 http://stream7.fjtv.net/hxpdfh/hd/live.m3u8
-#EXTINF:0 tvg-logo="http://www.hkstv.tv/templates/site_shared/assets/img/blogo.png" group-title="中文频道",香港衛視台
-http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/Xiamen_Star_Logo.png/330px-Xiamen_Star_Logo.png" group-title="中文频道", 厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="中文频道",甘肃卫视
@@ -289,7 +292,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title="中文频道",西藏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6b/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="中文频道",新疆卫视
 http://39.135.16.142:6060/PLTV/88888888/224/3221225759/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/42502774189.jpg" group-title="中文频道",新疆维语卫视
@@ -326,43 +328,39 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="中央电视",CCTV怀旧剧场
 http://39.135.16.142:6060/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 动作电影
-http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 动画王国
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 动画王国
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 古装剧场
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 古装剧场
 http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 明星大片
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 明星大片
 http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 惊悚悬疑
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 惊悚悬疑
 http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 金牌综艺
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 金牌综艺
 http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 精品电影
-http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 军事评论
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 军事评论
 http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 爱情喜剧
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 爱情喜剧
 http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 精品大剧
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 精品大剧
 http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 海外剧场
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 海外剧场
 http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 精品记录
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 精品记录
 http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 健康有约
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 健康有约
 http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 电竟
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 电竟
 http://111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 军旅剧场
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 军旅剧场
 http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 家庭剧场
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 家庭剧场
 http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVXWWL.jpg" group-title="China (中国)",Newtv 炫舞未来
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVXWWL.jpg" group-title="Newtv",Newtv 炫舞未来
 http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="China (中国)",Newtv 中国功夫
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Newtv",Newtv 中国功夫
 http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China (中国)", 新唐人中国台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="Newtv", 新唐人中国台
 https://live2.ntdimg.com/cnlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgj.jpg" group-title="地方电视台(安徽)",安徽国际
@@ -406,8 +404,7 @@ http://61.58.60.230:9319/live/226.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/uploadfile/2014/0124/20140124025942625.jpg" group-title="地方电视台(上海)", 东方电影
-http://117.156.28.57/PLTV/88888888/224/3221225656/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.zhiboba.org/zbbimg/shanghaidianshiju.png" group-title="地方电视台(上海)",电视剧频道
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/fazhitiandi.jpg" group-title="地方电视台(上海)", 法治天地
