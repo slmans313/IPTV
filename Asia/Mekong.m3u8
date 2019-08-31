@@ -61,7 +61,7 @@ http://202.80.222.182/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=00
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"group-title="Indonesia",SCTV
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar
-http://id2.indostreamingtv.com/live/tv111/index.m3u8
+http://202.80.222.182:80/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png" group-title="Indonesia",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/38/11/d2381148-6e16-b809-3fcd-bc83874141c2/pr_source.jpg/1200x630wa.png" group-title="Indonesia", Digdaya tv
@@ -86,8 +86,6 @@ http://202.80.222.171:80/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain
 http://rtmonenewsmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
 #EXTINF:0 tvg-logo="https://cdn.techinasia.com/data/images/taMh0Gayw75Jes0i0WQPWHRQ2p2leVNZhnPn4PG3.png" group-title="Berita Bahasa", Astro Awani
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
-#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Berita Bahasa",Bernama TV
-http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1717
 #EXTINF:0 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="Berita Bahasa",BeritaSatu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:0  tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="Berita Bahasa",Jakarta Globe
@@ -99,8 +97,6 @@ http://202.80.222.175/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=00
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://storage.nu.or.id/storage/post/16_9/big/1428588428.jpg" group-title="Agama", Aswaja TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="Singapore/Malaysia",Astro Naura
-http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1708
 #EXTINF:0 tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" group-title="Agama",DAAI TV
 http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 #EXTINF:0 tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="Agama", I am Channel
@@ -120,8 +116,6 @@ http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="Hiburan",Drama Sangat
 https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0o2gkYV4a3FPTHTcqQ_3Afo)/dm/3/x6zvnex/s/live-4.m3u8
-#EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="Hiburan",Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-logo="https://www.gprtv.id/frontend/asset/img/gpr-logo.png" group-title="Hiburan",GPR TV
 http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Hiburan",J'Go FMP
@@ -138,10 +132,6 @@ http://stream1.ninmedia.tv/inspiratv/udp.stream_720p/playlist.m3u8
 http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
 #EXTINF:0 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Hiburan",Kitanesia
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="Hiburan",Kix
-http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1716
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/300px-Mayapada_TV.png" group-title="Hiburan",myTV
-http://e20-us-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://mkri.id/public/design2016/img/garuda-indonesia.png" group-title="Hiburan",MK TV
 http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Hiburan",RRI Net
@@ -211,7 +201,7 @@ https://5bb648ab35ae7.streamlock.net/pontv2/live/playlist.m3u8
 
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Maluku/Papau",TVRI Maluku
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
-#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Maluku//Papau",TVRI Papau
+#EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Maluku/Papau",TVRI Papau
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 
 #EXTINF:0  tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Sulawesi", TVRI Gorontalo
