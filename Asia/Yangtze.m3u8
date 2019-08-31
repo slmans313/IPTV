@@ -1,11 +1,87 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="新聞",東森新聞
+http://104.217.240.66:16021/0.ts
+#EXTINF:-1 tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="新聞",民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png" group-title="新聞",  三立新聞
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png" group-title="新聞",中天新聞
+http://104.217.240.66:16016/0.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="新聞",壹新闻
+http://104.217.240.66:16022/0.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="新聞",CCTV-13 新闻频道
+http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/806-phoenixinfonews.png" group-title="新聞", 鳳凰資訊
+http://104.217.240.66:16035/0.ts
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040707_25993.jpg" group-title="新聞",  靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/1280px-CCTV-2_%E8%B4%A2%E7%BB%8F.svg.png" group-title="财经",CCTV-2 财经
+http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.reuters.com/resources/media/editorial/20160911/Logo_yicai.gif" group-title="财经",第一财经
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="電影", 衛視電影
+http://104.217.240.66:16026/0.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/FXNow.ca.png" group-title="電影", FX (亚洲)
+http://122.146.68.116:4015/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="電影", 靖天電影
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="電影",CCTV-6 电影
+http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="少儿", BabyFirst臺灣
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:0 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="少儿",妙米
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="少儿", 哈哈炫动
+http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="少儿", 卡酷少儿
+http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="少儿", 优漫卡通
+http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e4/Aniworld_logo.png/227px-Aniworld_logo.png" group-title="少儿", 金鹰卡通
+http://112.50.243.8/PLTV/88888888/224/3221226746/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="少儿",嘉佳卡通
+http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetvzj.jpg" group-title="少儿", CETV(早期教育)
+http://39.135.16.142:6060/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="少儿",动漫秀场
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjing.cn/upload/ypshop/1363166697e721a.jpg" group-title="少儿", 优优宝贝
+http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="体育",CCTV-5 体育频道
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="体育",CCTV-5+ 体育赛事
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvgefwq.jpg" group-title="体育",CCTV 高尔夫·网球
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="体育", 五星体育
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="体育",Newtv 精品体育
+http://111.40.205.76/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="体育",Newtv 搏击剧场
+http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav5-1.png" group-title="体育", 博斯魅力網
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="体育", 11 Sports 台湾 1
+http://61.58.60.230:9319/live/75.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="体育", 11 Sports 台湾 2
+http://61.58.60.230:9319/live/102.m3u8
+#EXTINF:0 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育", Fox Sports 台湾
+http://104.217.240.66:16025/3.ts
+
+
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429" group-title="廣東話",無綫翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540" group-title="廣東話",無綫明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="廣東話",TVB星河
 http://104.217.240.66:16032/0.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="廣東話", 鳳凰香港台
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="廣東話", 無綫財經資訊
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1286040896_b224000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="廣東話",澳视资讯
@@ -28,8 +104,7 @@ http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" group-title="廣東話", 广东体育
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=20&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="中文频道", 衛視電影台
-http://104.217.240.66:16026/0.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="中文频道",民視
@@ -53,22 +128,9 @@ http://61.58.60.230:9319/live/10.m3u8
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="中文频道", 大愛二台
 http://61.58.60.230:9319/live/191.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="中文频道",東森新聞
-http://104.217.240.66:16021/0.ts
-#EXTINF:-1 tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png" group-title="中文频道",民視新聞
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png" group-title="中文频道",  三立新聞
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/CTI_logo.svg/1200px-CTI_logo.svg.png" group-title="中文频道",中天新聞
-http://104.217.240.66:16016/0.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="中文频道",壹新闻
-http://104.217.240.66:16022/0.ts
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="中文频道",国家地理频道
 http://122.146.68.116:4020/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/FXNow.ca.png" group-title="中文频道", FX (亚洲)
-http://122.146.68.116:4015/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="中文频道", 緯來體育
 http://104.217.240.66:16027/0.ts
 #EXTINF:-1 tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="中文频道", 番薯 TV
@@ -77,8 +139,6 @@ http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cp
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="中文频道", 靖天歡樂
 http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040707_25993.jpg" group-title="中文频道",  靖天資訊
-http://61.58.60.230:9319/live/202.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040733_66835.jpg" group-title="中文频道", 靖天育樂
 http://61.58.60.230:9319/live/204.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="中文频道", 靖天戲劇
@@ -91,8 +151,6 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="中文频道", 靖天日本
 http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="中文频道", 靖天電影
-http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="中文频道", 探索頻道
 http://104.217.240.66:16030/0.ts
 
@@ -111,18 +169,9 @@ http://nclive.grtn.cn/tvs2/sd/live.m3u8
 http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="中文频道",CCTV-8 电视剧
 http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="中文频道",CCTV-13 新闻频道
-http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/806-phoenixinfonews.png" group-title="中文频道", 鳳凰資訊
-http://104.217.240.66:16035/0.ts
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中文频道", 凤凰卫视中文台
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="中文频道", 鳳凰香港台
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/1280px-CCTV-2_%E8%B4%A2%E7%BB%8F.svg.png" group-title="中文频道",CCTV-2 财经
-http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.reuters.com/resources/media/editorial/20160911/Logo_yicai.gif" group-title="中文频道",第一财经
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="中文频道",澳亞衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
@@ -131,8 +180,6 @@ http://stream.mastvnet.com/MSTV/playlist.m3u8
 http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="中文频道",CCTV-4 中文国际
 http://39.135.16.142:6060/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="中文频道",CCTV-6 电影
-http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CCTV_7_%E5%9B%BD%E9%98%B2_%E5%86%9B%E4%BA%8B.png/300px-CCTV_7_%E5%9B%BD%E9%98%B2_%E5%86%9B%E4%BA%8B.png" group-title="中文频道",CCTV-7 军事
 http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" group-title="中文频道",CCTV-9 纪录
@@ -249,50 +296,6 @@ http://livehyw2.sobeycache.com/xjtvs/zb02.m3u8
 http://livehyw2.sobeycache.com/xjtvs/zb03.m3u8 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" group-title="中文频道",兵团卫视
 http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="中文少儿频道", BabyFirst臺灣
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:0 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="中文少儿频道",妙米
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="中文少儿频道", 哈哈炫动
-http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="中文少儿频道", 卡酷少儿
-http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="中文少儿频道", 优漫卡通
-http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e4/Aniworld_logo.png/227px-Aniworld_logo.png" group-title="中文少儿频道", 金鹰卡通
-http://112.50.243.8/PLTV/88888888/224/3221226746/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="中文少儿频道",嘉佳卡通
-http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cosatech.com.tw//upload/logo/%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC.jpg" group-title="中文少儿频道", 東森幼幼
-http://220.158.149.14:9999/live/TV00000000000000000076@HHZT;LIVE
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetvzj.jpg" group-title="中文少儿频道", CETV(早期教育)
-http://39.135.16.142:6060/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="中文少儿频道",动漫秀场
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjing.cn/upload/ypshop/1363166697e721a.jpg" group-title="中文少儿频道", 优优宝贝
-http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="中文体育频道",CCTV-5 体育频道
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="中文体育频道",CCTV-5+ 体育赛事
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvgefwq.jpg" group-title="中文体育频道",CCTV 高尔夫·网球
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="中文体育频道", 五星体育
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="中文体育频道",Newtv 精品体育
-http://111.40.205.76/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="中文体育频道",Newtv 搏击剧场
-http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav5-1.png" group-title="中文体育频道", 博斯魅力網
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports1.uk.png" group-title="中文体育频道", 11 Sports 台湾 1
-http://61.58.60.230:9319/live/75.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="中文体育频道", 11 Sports 台湾 2
-http://61.58.60.230:9319/live/102.m3u8
-#EXTINF:0 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="中文体育频道", Fox Sports 台湾
-http://104.217.240.66:16025/3.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/CCTV-%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" group-title="中央电视",CCTV卫生健康
