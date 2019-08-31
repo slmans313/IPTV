@@ -10,10 +10,12 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 http://104.217.240.66:16016/0.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d9/%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%A8%99%E8%AA%8C.jpg" group-title="新聞",壹新闻
 http://104.217.240.66:16022/0.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="新聞",CCTV-13 新闻频道
-http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/806-phoenixinfonews.png" group-title="新聞", 鳳凰資訊
 http://104.217.240.66:16035/0.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="新聞",CCTV-13 新闻频道
+http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="新聞",中国气象频道
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040707_25993.jpg" group-title="新聞",  靖天資訊
 http://61.58.60.230:9319/live/202.m3u8
 
@@ -62,7 +64,7 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台灣",民視
 http://104.217.240.66:16001/0.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/245px-China_TV_logo_since_19971030.svg.png" group-title="中文频道",中視
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/245px-China_TV_logo_since_19971030.svg.png" group-title="台灣",中視
 http://104.217.240.66:16003/0.ts
 #EXTINF:-1 tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="台灣", 華視
 http://104.217.240.66:16004/0.ts
@@ -84,6 +86,17 @@ http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin
 #EXTINF:-1 tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="台灣", 信吉电视
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="台灣", 靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040733_66835.jpg" group-title="台灣", 靖天育樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="台灣", 靖天戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="台灣", 靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="台灣", 靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/37/Star_Chinese_Movies_HD.png" group-title="电影", 衛視電影
 http://104.217.240.66:16026/0.ts
@@ -96,6 +109,8 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="纪实片",国家地理频道
 http://122.146.68.116:4020/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="纪实片", 探索頻道
+http://104.217.240.66:16030/0.ts
 #EXTINF:-1 tvg-logo="http://www.entgroup.cn/uploads/201604/2e1349bb-6844-4813-b9d4-39ce31c04d2f.jpg" group-title="纪实片", 金鹰纪实
 http://39.135.16.142:6060/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" group-title="纪实片",上海纪实
@@ -153,19 +168,6 @@ http://61.58.60.230:9319/live/102.m3u8
 http://104.217.240.66:16025/3.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="中文频道", 靖天歡樂
-http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040733_66835.jpg" group-title="中文频道", 靖天育樂
-http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="中文频道", 靖天戲劇
-http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="中文频道", 靖天國際
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="中文频道", 靖天日本
-http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="中文频道", 探索頻道
-http://104.217.240.66:16030/0.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png" group-title="中文频道",CCTV-1 综合
 http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="中文频道", 湖南卫视
@@ -177,10 +179,6 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" group-title="中文频道", 浙江卫视
 http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ef/TVS2-Logo.png/440px-TVS2-Logo.png"group-title="中文频道",南方卫视 (廣東話)
-http://nclive.grtn.cn/tvs2/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="中文频道",CCTV-8 电视剧
 http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中文频道", 凤凰卫视中文台
@@ -221,8 +219,6 @@ http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
 http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png/240px-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="中文频道",中国电影频道
 http://61.58.60.230:9319/live/225.m3u8
-#EXTINF:-1 tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="中文频道",中国气象频道
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="中文频道", 安徽卫视
 http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
 #EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="中文频道",北京卫视
@@ -293,12 +289,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title="中文频道",西藏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xizang-zangyu.jpg" group-title="中文频道",西藏藏语卫视
-http://39.135.16.142:6060/PLTV/88888888/224/3221225697/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="中文频道",安多卫视 (藏语)
-http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/SCTV-1_logo.png/225px-SCTV-1_logo.png" group-title="中文频道",康巴卫视 (藏语)
-http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6b/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="中文频道",新疆卫视
 http://39.135.16.142:6060/PLTV/88888888/224/3221225759/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/42502774189.jpg" group-title="中文频道",新疆维语卫视
@@ -307,7 +298,6 @@ http://livehyw2.sobeycache.com/xjtvs/zb02.m3u8
 http://livehyw2.sobeycache.com/xjtvs/zb03.m3u8 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" group-title="中文频道",兵团卫视
 http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/CCTV-%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" group-title="中央电视",CCTV卫生健康
 http://39.135.16.142:6060/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
@@ -721,8 +711,6 @@ http://live.zzbtv.com/live/live124/800K/tzwj_video.m3u8
 http://ltetp3.tv189.com/live/tm-jsgjhd-800k.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/JSTV5.jpg" group-title="地方电视台(江苏)", 江苏靓妆
 http://39.135.16.142:6060/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/caifutianxia.jpg" group-title="地方电视台(江苏)", 财富天下
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000607/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wujiangtv.jpg" group-title="地方电视台(江苏)", 吴江新闻综合
 http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SUININGXW.jpg" group-title="地方电视台(江苏)", 睢宁综合
@@ -730,20 +718,8 @@ http://tv.jrsncn.com:9001/hls/live/live1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lnjj.jpg" group-title="地方电视台(辽宁)", 辽宁经济 
 http://lms.csytv.com/Live/123/live/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lnjy.jpg" group-title="地方电视台(辽宁)", 辽宁青少年
-http://222.207.48.30/hls/hls99.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lngg.jpg" group-title="地方电视台(辽宁)",辽宁公共
 http://61.161.250.43:8114/hls/index.m3u8?FvSeid=1&Fsv_ctype=lives&Fsv_otype=1&Provider_id=&Pcontent_id=&Fsv_chan_hls_se_idx=56
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lnty.jpg" group-title="地方电视台(辽宁)", 辽宁体育
-http://222.207.48.30/hls/hls3.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lnsh.jpg" group-title="地方电视台(辽宁)", 辽宁生活
-http://222.207.48.30/hls/hls96.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lnbf.jpg" group-title="地方电视台(辽宁)", 辽宁北方
-http://222.207.48.30/hls/hls55.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lnds.jpg" group-title="地方电视台(辽宁)", 辽宁都市
-http://222.207.48.30/hls/hls88.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lnys.jpg" group-title="地方电视台(辽宁)", 辽宁影视
-http://222.207.48.30/hls/hls97.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jldspd.jpg" group-title="地方电视台(吉林)", 吉林都市
 http://222.207.48.30/hls/jlu_jsds.m3u8
@@ -783,8 +759,6 @@ http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/YA2.jpg" group-title="地方电视台(陕西)", 延安2台
 http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/XianyangTV.png" group-title="地方电视台(陕西)",咸阳电视一台
-http://pili-live-hls.livexianyang.sobeycache.com/xianyang/zb01.m3u8
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2018/0704/9bfca3add98e0f64479134fb4459f06f.jpg" group-title="地方电视台(陕西)", 横山电视台
 http://stream.hsqtv.cn/2/sd/live.m3u8
 
@@ -862,8 +836,6 @@ http://175.6.25.177/lms_30814/tv_channel_246__redirect__30814.m3u8
 http://175.6.25.177/lms_30814/tv_channel_247__redirect__30814.m3u8
 #EXTINF:-1 tvg-logo="http://www.abatv.com.cn/images/abweb/img/logo.png" group-title="地方电视台(四川)",阿坝州综合
 http://ablive.abatv.com.cn:85/live/zhpd.m3u8
-#EXTINF:-1 tvg-logo="http://www.abatv.com.cn/images/abweb/img/logo.png" group-title="地方电视台(四川)",阿坝州文艺(藏语)
-http://ablive.abatv.com.cn:85/live/wypd.m3u8
 #EXTINF:-1 tvg-logo="http://www.sichuanmianning.com/images/mianlin_tv/img/logo.png" group-title="地方电视台(四川)",冕宁电视台
 http://live.sichuanmianning.com/live/xwpd.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/snxwzh.jpg" group-title="地方电视台(四川)",遂宁综合
@@ -936,8 +908,8 @@ http://61.58.60.230:9319/live/241.m3u8
 http://112.113.134.36:680/live/pc/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="地方电视台(云南)",迪庆综合
 http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="地方电视台(云南)",迪庆藏语
-http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wsrtv.jpg" group-title="地方电视台(云南)",文山新闻综合
 http://store.ovp.wsrtv.com.cn:9090/ch1/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/wsrtv.jpg" group-title="地方电视台(云南)",文山公众
@@ -992,6 +964,18 @@ http://112.17.40.140/PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/ZJZS-ZH.jpg" group-title="地方电视台(浙江)",舟山新闻综合
 http://stream.wifizs.cn/xwzh/sd/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xizang-zangyu.jpg" group-title="藏语(བོད་སྐད་)",西藏藏语卫视
+http://39.135.16.142:6060/PLTV/88888888/224/3221225697/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="藏语(བོད་སྐད་)",安多卫视
+http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/SCTV-1_logo.png/225px-SCTV-1_logo.png" group-title="藏语(བོད་སྐད་)",康巴卫视
+http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.abatv.com.cn/images/abweb/img/logo.png" group-title="藏语(བོད་སྐད་)",阿坝州文艺
+http://ablive.abatv.com.cn:85/live/wypd.m3u8
+#EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="藏语(བོད་སྐད་)",迪庆藏语
+http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.mnb.mn/images/mini/tv.png" group-title="蒙古(Монгол)",МҮОНТ-1
 http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mnb.mn/images/mini/mnews.png" group-title="蒙古(Монгол)",Монголын Мэдээ
@@ -1000,13 +984,3 @@ http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
 http://103.14.38.107:1935/live/sport.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mnb.mn/images/3.jpg" group-title="蒙古(Монгол)",MNB world
 http://103.14.38.107:1935/live/world.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hlbexwzh.jpg" group-title="蒙古(Монгол)",呼伦贝尔新闻
-http://live1.hrtonline.cn:1935/live/live100/500K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hlbeysyl.jpg" group-title="蒙古(Монгол)",呼伦贝尔影视
-http://live1.hrtonline.cn:1935/live/live101/500K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hlbeshzx.jpg" group-title="蒙古(Монгол)",呼伦贝尔生活
-http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://218.11.133.12/wp-content/uploads/2015/05/logo%E5%89%AF%E6%9C%AC.png"  group-title="蒙古(Монгол)",围场新闻综合
-http://www.vctv.com.cn:9090/hls/zkghtv1.m3u8
-#EXTINF:-1 tvg-logo="http://218.11.133.12/wp-content/uploads/2015/05/logo%E5%89%AF%E6%9C%AC.png" group-title="蒙古(Монгол)",围场影视
-http://www.vctv.com.cn:9090/hls/zkghtv2.m3u8
