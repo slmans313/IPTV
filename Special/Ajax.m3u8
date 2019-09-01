@@ -7,6 +7,9 @@ http://89.38.97.48:8080/TV5439
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png group-title="BT Sports", BT Sports 3
 http://89.38.97.48:8080/TV5443
 
+#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN Sports",beIN USA
+http://23.237.22.82:8086/udp/127.0.0.1:56021
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="Baseball",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
 
@@ -227,8 +230,6 @@ http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3
 http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="Middle East Sports", IRIB Varzesh
 https://stream.persianleague.com/live/varzesh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/3.ir.png" group-title="Iran (العراق)", IRIB 3 
-https://stream.persianleague.com/live/tv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Middle East Sports", Kuwait Sport
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Middle East Sports", Oman Sports
