@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png" group-title="综艺台",CCTV-1 综合
 http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="综艺台",CCTV-8 电视剧
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="综艺台", 湖南卫视
 http://39.135.16.142:6060/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="综艺台",江苏卫视
@@ -189,35 +191,38 @@ http://61.58.60.230:9319/live/102.m3u8
 #EXTINF:0 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育", Fox Sports 台湾
 http://104.217.240.66:16025/3.ts
 
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="教育台", CETV1
+http://39.135.16.142:6060/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="教育台", CETV2
+http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv3.jpg" group-title="教育台", CETV3
+http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="教育台", CETV4
+http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CCTV_7_%E5%9B%BD%E9%98%B2_%E5%86%9B%E4%BA%8B.png/300px-CCTV_7_%E5%9B%BD%E9%98%B2_%E5%86%9B%E4%BA%8B.png" group-title="教育台",CCTV-7 军事
+http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" group-title="教育台",CCTV-10 科教
+http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png/330px-CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png" group-title="教育台",CCTV-17 农业农村
+http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/ICS_logo.png" group-title="教育台",ICS 上海外语
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/14848/20180107150849-820390729_jpeg_911_679_56316.jpg/300" group-title="教育台", 英语辅导频道
+http://39.135.16.142:6060/PLTV/88888888/224/3221225737/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="中文频道",CCTV-8 电视剧
-http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="中文频道",澳亞衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" group-title="中文频道",CCTV-3 综艺
 http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="中文频道",CCTV-4 中文国际
 http://39.135.16.142:6060/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CCTV_7_%E5%9B%BD%E9%98%B2_%E5%86%9B%E4%BA%8B.png/300px-CCTV_7_%E5%9B%BD%E9%98%B2_%E5%86%9B%E4%BA%8B.png" group-title="中文频道",CCTV-7 军事
-http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" group-title="中文频道",CCTV-10 科教
-http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg" group-title="中文频道",CCTV-11 戏曲
 http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="中文频道",CCTV-12 社会与法
 http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="中文频道",CCTV 15 音乐
 http://111.40.205.76/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png/330px-CCTV_17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png" group-title="中文频道",CCTV-17 农业农村
-http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="中文频道", CETV1
-http://39.135.16.142:6060/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="中文频道", CETV2
-http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv3.jpg" group-title="中文频道", CETV3
-http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="中文频道", CETV4
-http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="中文频道", 安徽卫视
 http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="中文频道", 重庆卫视
@@ -402,8 +407,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225932/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/huanxiaojuchang.jpg" group-title="地方电视台(上海)",欢笑剧场
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225963/3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/ICS_logo.png" group-title="地方电视台(上海)",ICS 上海外语
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5131Z9270-L.gif" group-title="地方电视台(上海)",极速汽车
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225962/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/qicaixiju.jpg" group-title="地方电视台(上海)",七彩戏剧
@@ -455,9 +458,6 @@ http://r.gslb.lecloud.com:80/live/hls/2018040830000001a13/desc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2e/Logo_of_Minan_channel%2CZayton_television.jpg" group-title="地方电视台(福建)",泉州閩南語頻道
 http://live.qztvxwgj.com/live/mny.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/14848/20180107150849-820390729_jpeg_911_679_56316.jpg/300" group-title="地方电视台(广东)", 英语辅导频道
-http://39.135.16.142:6060/PLTV/88888888/224/3221225737/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shengzheng.jpg" group-title="地方电视台(广东)", 深圳DV生活
 http://39.135.16.142:6060/PLTV/88888888/224/3221225735/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/szgjpd.jpg" group-title="地方电视台(广东)",深圳国际
