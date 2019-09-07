@@ -487,11 +487,12 @@ http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Russia (Россия)",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/68.png" group-title="Russia (Россия)",TV1000
-http://212.112.101.69:8081/stream56/output.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="http://www.viasatworld.com/media/1074/actionlogo.png" group-title="Russia (Россия)",TV1000 Action
-http://212.112.101.69:8081/stream58/output.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvreclama.ru/upload/iblock/8a1/8a1b0f403a12cc8b3122bf0a0e8e978d.png" group-title="Russia (Россия)",ТV1000 Русское кино
-http://212.112.101.69:8081/stream57/output.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-logo="https://www.tv.lt/uploads/ic/400x400_out/uploads/media/2015/05/tv1000-premium-5551c642a07b8.png" group-title="Russia (Россия)",TV1000 Premium
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-audio_20001=96000-video=2200000.m3u8
+
 #EXTINF:-1 tvg-logo="http://tk-union.tv/assets/components/union/u_logo.png" group-title="Russia (Россия)",ЮНИОН
 http://dprtv.phoenix-dnr.ru/union
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bG6kBxM.png" group-title="Russia (Россия)",Кварц ТВ
@@ -505,11 +506,11 @@ http://ott-cdn.ucom.am/s20/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fnpm8RO.png" group-title="Russia (Россия)",Univer
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatExplore.ru.png" group-title="Russia (Россия)", Viasat Explore
-http://212.112.101.69:8081/stream54/output.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="Russia (Россия)",Viasat History
-http://212.112.101.69:8081/stream54/output.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatNature.ru.png" group-title="Russia (Россия)",Viasat Nature
-http://212.112.101.69:8081/stream53/output.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="http://www.viasat-channels.tv/uploads/tv/channel/logo/2/2.png" group-title="Russia (Россия)",Viasat VIP Comedy
 http://broadcasting.cdn.contentgm.com:8080/vip_comedy/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 tvg-logo="http://www.viasat-channels.tv/uploads/tv/channel/logo/3/3.png" group-title="Russia (Россия)",Viasat VIP Megahit
@@ -889,6 +890,8 @@ https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20000=9
 https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv3/logo.png" group-title="Latvia (Latvija)",TV3 Latvija
 https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/3plus/logo.png" group-title="Latvia (Latvija)",3+ Latvija
+https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv6/logo.png" group-title="Latvia (Latvija)",TV6 Latvija
 https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="http://en.1bma.lv/uploaded/spaw/images/1m.jpg" group-title="Latvia (Latvija)",1 Baltic Music
