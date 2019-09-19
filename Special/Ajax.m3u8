@@ -1,15 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN.us.png" group-title="BT Sports", ESPN
-http://sports24.club/live/m3u8/espn3.m3u8?ch=espn
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="BT Sports", ESPN 2
-http://sports24.club/live/m3u8/espn3.m3u8?ch=espn2
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNU.us.png" group-title="BT Sports", ESPN U
-http://sports24.club/live/m3u8/espn3.m3u8?ch=espnu
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNNews.us.png" group-title="BT Sports", ESPN News
-http://sports24.club/live/m3u8/espn3.m3u8?ch=espnews
-
-#EXTINF:-1, tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN Sports",beIN USA
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="beIN Sports",beIN USA
 http://23.237.22.82:8086/udp/127.0.0.1:56021
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="Baseball",MLB Network
