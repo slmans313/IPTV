@@ -30,6 +30,8 @@ http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/ESPN.us.png" group-title="Sports",ESPN
 http://ak-hls-brs-espn1.espn.go.com/hls/live/218616/p/1/espn1-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/ESPN2.ar.png" group-title="Sports",ESPN 2
@@ -65,7 +67,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png"  group-title="Golf",JTBC Golf
-http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8
+http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.poscojoongwoo.com/resources/img/front/site/img_sitelogo19.jpg"  group-title="Golf",SBS Golf
 http://122.129.115.21:1935/edgedol/_definst_/tao128/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png"group-title="Golf", ザ・ゴルフ・チャンネル
@@ -91,52 +93,54 @@ http://122.129.115.21:1935/edgedol/_definst_/tao125/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sbs_sports_kr.png/130px-Sbs_sports_kr.png"  group-title="Asian Sports",SBS Sports
 http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Eurasia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="спорта", Setanta Eurasia
 http://92.46.127.146:8080//SetantaSport/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian Sports", Setanta Sports +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="спорта", Setanta Sports +
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.football-tv.ru/wp-content/uploads/2017/11/logo-mini-1.png" group-title="Russian Sports", Телеканал Футбол
+#EXTINF:-1 tvg-logo="http://www.football-tv.ru/wp-content/uploads/2017/11/logo-mini-1.png" group-title="спорта", Телеканал Футбол
 http://ott-cdn.ucom.am/s41/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="Middle East Sports",Abu Dhabi Sports 1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="رياضات",Abu Dhabi Sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports2.ae.png" group-title="Middle East Sports",Abu Dhabi Sports 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports2.ae.png" group-title="رياضات",Abu Dhabi Sports 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports3.ae.png" group-title="Middle East Sports",Abu Dhabi Sports 3
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports3.ae.png" group-title="رياضات",Abu Dhabi Sports 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports4.ae.png" group-title="Middle East Sports",Abu Dhabi Sports 4
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports4.ae.png" group-title="رياضات",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports5.ae.png" group-title="Middle East Sports",Abu Dhabi Sports 5
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports5.ae.png" group-title="رياضات",Abu Dhabi Sports 5
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports5
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports6.ae.png" group-title="Middle East Sports",Abu Dhabi Sports 6
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports6.ae.png" group-title="رياضات",Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="Middle East Sports",Al Kass Sports 1 
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="رياضات",Al Kass Sports 1 
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="Middle East Sports",Al Kass Sports 2
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="رياضات",Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="Middle East Sports",Al Kass Sports 4
+#EXTINF:-1tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="رياضات",Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="Middle East Sports",Al Kass Sports 5
+#EXTINF:-1tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="رياضات",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/media/C2rNnvXWQAAOHtz.jpg" group-title="Middle East Sports",Al Kass Sports Online
+#EXTINF:-1tvg-logo="https://pbs.twimg.com/media/C2rNnvXWQAAOHtz.jpg" group-title="رياضات",Al Kass Sports Online
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlineA/master570.m3u8
-#EXTINF:-1tvg-logo="http://www.inlife.tv/sites/default/files/logos/bahrain-sports-tv.gif" group-title="Middle East Sports",Bahrain Sports
+#EXTINF:-1tvg-logo="http://www.inlife.tv/sites/default/files/logos/bahrain-sports-tv.gif" group-title="رياضات",Bahrain Sports
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="Middle East Sports", Dubai Sports 1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports1.ae.png" group-title="رياضات", Dubai Sports 1
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports2.ae.png" group-title="Middle East Sports", Dubai Sports 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/DubaiSports2.ae.png" group-title="رياضات", Dubai Sports 2
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/DubaiSports.png" group-title="Middle East Sports", Dubai Sports 3
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/DubaiSports.png" group-title="رياضات", Dubai Sports 3
 http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="Middle East Sports", IRIB Varzesh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="رياضات", IRIB Varzesh
 https://stream.persianleague.com/live/varzesh/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Middle East Sports", Kuwait Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="رياضات", Jordan Sports
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w587021344.m3u8
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="رياضات", Kuwait Sport
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Middle East Sports", Oman Sports
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="رياضات", Oman Sports
 http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/14869/logo_sharjah%20sports%20tv5.png" group-title="Middle East Sports",Sharjah Sport
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/14869/logo_sharjah%20sports%20tv5.png" group-title="رياضات",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
-#EXTINF:-1  tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_epg/sports11.png" group-title="Middle East Sports",MBC Sports 11
+#EXTINF:-1  tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_epg/sports11.png" group-title="رياضات",MBC Sports 11
 http://52.24.12.57/live/test1/index.m3u8
-#EXTINF:-1  tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" group-title="Middle East Sports",TRT Spor
+#EXTINF:-1  tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png" group-title="رياضات",TRT Spor
 https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_720p_av-b.m3u8
