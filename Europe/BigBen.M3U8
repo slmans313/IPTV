@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four
 https://live2.hoolatv.com/live/bbcfour_hi/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/bbcalba.png" group-title="UK", BBC Alba
@@ -30,28 +26,14 @@ https://149.5.96.135:443/live/cbsdrama_hi/playlist.m3u8
 https://149.5.96.135:443/live/cbsreality_hi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/dave.png" group-title="UK", Dave
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV 1
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK", ITV 2
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK", ITV 3
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK", ITV 4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK", ITV BE
 https://live2.hoolatv.com/live/itvbe_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK",Channel 4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK",E4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/More4.uk.png" group-title="UK",More 4
 https://live2.hoolatv.com/live/more4_hi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/4music.png" group-title="UK",4 Music
 https://live2.hoolatv.com/live/4music_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/4Seven.uk.png" group-title="UK",4 Seven
 https://149.5.96.135:443/live/4seven_hi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK",Channel 5
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK",5 USA
 https://live2.hoolatv.com/live/5usa_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK",5 Star
@@ -74,12 +56,6 @@ http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/
 https://live2.hoolatv.com/live/millenniumtv_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/movies4men.png" group-title="UK", Movies4men
 https://live2.hoolatv.com/live/movies4men_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/onlymotors/wp-content/uploads/sites/19/2017/08/onlymotorsLOGO2.png" group-title="UK", Only Motor
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="UK",Pick
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="UK",RT UK
-http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/s4c.png" group-title="UK",S4C
 https://live2.hoolatv.com/live/s4c_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/10/Sky-One-OCT-2017.png" group-title="UK",Sky One
@@ -88,10 +64,6 @@ http://93.107.103.248:8123/play/a0ad/index.m3u8
 http://93.107.103.248:8123/play/skytwo/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="UK", Sky Crime & Thriller
 http://93.107.103.248:8123/play/skythriller/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK", TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Quest.uk.png" group-title="UK", Quest
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-quest/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/questred.png" group-title="UK", Quest Red
 https://live2.hoolatv.com/live/questred_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="UK",Virgin Media One
@@ -203,8 +175,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_5000
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ReelzChannel.us.png" group-title="USA/Canada",Reelz
 http://185.246.209.109:8080/REELZ/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUS.ru.png" group-title="USA/Canada",RT US
-http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G4C6z9h.jpg" group-title="USA/Canada",SafeTV4U2
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="USA/Canada",Screamfest
