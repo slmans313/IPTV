@@ -30,6 +30,12 @@ http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/ESPN.us.png" group-title="Sports",ESPN
+http://ak-hls-brs-espn1.espn.go.com/hls/live/218616/p/1/espn1-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ar/ESPN2.ar.png" group-title="Sports",ESPN 2
+http://ak-hls-brs-espn2.espn.go.com/hls/live/218615/p/2/espn2-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNU.us.png" group-title="Sports",ESPN U
+http://ak-hls-brs-espnu.espn.go.com/hls/live/203627/p/u/espnu-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="Sports", FightBox
 http://92.43.140.249/s86/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="Sports",MLB Network
@@ -39,7 +45,7 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w210258
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sports",NBA TV
 https://bozztv.com/36bay2/gin/giniko_nbaplus_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="Sports", Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="http://ioamoilfoggia.it/wp-content/uploads/2017/05/rai-sport-piu-hd.jpg" group-title="Sports", Rai Sports Plus
 https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Sports", Tennis Channel
