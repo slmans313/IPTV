@@ -44,10 +44,14 @@ https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" group-title="News",RT International
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="News", Sky News UK
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUS.ru.png" group-title="News",RT US
+http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="News",RT UK
+http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2014/10/Australia-channel-300x169.jpg" group-title="News", Sky News Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="News", Sky News UK
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/es/Telesur.es.png" group-title="News", Telesur English
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="News",TRT World
@@ -80,10 +84,28 @@ https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="Entertainment", BBC One
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="Entertainment", BBC Two
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="Entertainment",Channel 4
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="Entertainment",Channel 5
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="Entertainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="Entertainment",E4
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/onlymotors/wp-content/uploads/sites/19/2017/08/onlymotorsLOGO2.png" group-title="Entertainment", Only Motor
+https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="Entertainment",Pick
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="Entertainment", TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Quest.uk.png" group-title="Entertainment", Quest
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-quest/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment", ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Entertainment", Fashion TV
@@ -92,6 +114,14 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png"  group-title="Entertainment", Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="Entertainment", ITV 1
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="Entertainment", ITV 2
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="Entertainment", ITV 3
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="Entertainment", ITV 4
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PopTV.us.png" group-title="Entertainment",Pop
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
