@@ -11,7 +11,7 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC News
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
-https://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/index.m3u8
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CBCNews.ca.png" group-title="News",CBC News
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
@@ -84,8 +84,6 @@ https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BET.us.png" group-title="Entertainment", BET
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Bravo.us.png" group-title="Entertainment", Bravo
-http://23.237.22.82:8086/udp/127.0.0.1:56060
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 #EXTINF:-1 tvg-logo="http://www.cc.com/sitewide/images/logos/cc_site_logo_2018.png" group-title="Entertainment",Comedy Central
@@ -96,18 +94,12 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/192
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/foodnetwork.png" group-title="Entertainment", Food Network
 https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX
-http://23.237.22.82:8086/udp/127.0.0.1:56163
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Entertainment", Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png"  group-title="Entertainment", Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png"  group-title="Entertainment", Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/300px-Fine_Living_logo.svg.png" group-title="Entertainment",  Fine Living
-http://70.32.0.9:5000/live/543/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png" group-title="Entertainment", HGTV
-http://23.237.22.82:8086/udp/127.0.0.1:56069
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PopTV.us.png" group-title="Entertainment",Pop
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
@@ -116,10 +108,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="Entertainment",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="Entertainment", TBS
-http://23.237.22.82:8086/udp/127.0.0.1:56266
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TNT.us.png" group-title="Entertainment",TNT
-http://23.237.22.82:8086/udp/127.0.0.1:56261
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png" group-title="Entertainment",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 
@@ -171,12 +159,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Learning", National Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HallmarkMoviesMysteries.us.png" group-title="Movies", Hallmark Movies & Mysteries
-http://23.237.22.82:8086/udp/127.0.0.1:56067
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/FXNow.ca.png" group-title="Movies",FX
-http://23.237.22.82:8086/udp/127.0.0.1:56250
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXX.us.png" group-title="Movies",FXX
-http://23.237.22.82:8086/udp/127.0.0.1:56251
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Lifetime.th.png" group-title="Movies", Lifetime
 http://203.154.243.31:15002
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movie 4U 
@@ -217,5 +199,3 @@ http://content-aeui1.uplynk.com/3c5cbf1e936848eeb242887fa19d2a58/g.m3u8
 http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/VH1.in.png" group-title="Music", VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-#EXTINF:-1 tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/vintagemusictv/wp-content/uploads/sites/93/2017/08/logo-vintage-tv-copy.png" group-title="Music", Vintage TV
-http://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagetv/tracks-v1a1/mono.m3u8
