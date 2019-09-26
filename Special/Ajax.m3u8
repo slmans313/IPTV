@@ -20,6 +20,14 @@ https://bozztv.com/36bay2/gin/giniko_nbaplus_1000kb_36bay2/tracks-v1a1/mono.m3u8
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="Sports", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarSports1.in.png" group-title="Sports",Star Sports 1
+http://144.217.70.223:8080/StarSports_Hd1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/KBS_N_Sports.png"  group-title="Sports",KBS N Sports
+http://122.129.115.21:1935/edgedol/_definst_/tao123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sbs_sports_kr.png/130px-Sbs_sports_kr.png"  group-title="Sports",SBS Sports
+http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.skylife.co.kr/upload/channel/file826d61b3-cfbf-44b6-b0a1-3cb93a814b7d.png" group-title="Sports",Sky Sports
+http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
 #EXTINF:-1tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/stadafric-logo-e1446802352584.jpg" group-title="Sports",Stad’Afric
 https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sports", Setanta Eurasia
@@ -58,13 +66,6 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/about-us/logos/starHub-logo.png" group-title="Horse Racing", Horse Racing Ch 88 
 http://182.19.212.148:8089/1.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/KBS_N_Sports.png"  group-title="Asian Sports",KBS N Sports
-http://122.129.115.21:1935/edgedol/_definst_/tao123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sbs_sports_kr.png/130px-Sbs_sports_kr.png"  group-title="Asian Sports",SBS Sports
-http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.skylife.co.kr/upload/channel/file826d61b3-cfbf-44b6-b0a1-3cb93a814b7d.png" group-title="Asian Sports",Sky Sports
-http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="رياضات",Abu Dhabi Sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
