@@ -1,6 +1,6 @@
 #EXTM3U  
 #EXTINF:0 tvg-logo="https://www.universfreebox.com/IMG/artoff34756.png" group-title="News",Africanews 
-https://stream-03.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irW9CwsjDW-3wL3LtL1VNoZc)/dm/3/x6i7vf8/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irW9CwsjDW-3wL3LtL1VNoZc)/dm/3/x6i7vf8/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/ABCN.png" group-title="News",ABC Australia
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="News",ABC News
@@ -11,8 +11,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC News
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
-http://184.82.142.53:1002
 #EXTINF:-1 tvg-logo="https://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
@@ -157,6 +155,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b2694
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 tvg-logo="https://www.ytv.com/wp-content/themes/ytv-child/assets/icons/sitelogo.png" group-title="Kids/Animation",YTV
+http://144.217.70.223:8080/YTVHD_kids/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Learning",Animal Planet
 http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8 
@@ -180,7 +180,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning", UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movies",&Flix
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
