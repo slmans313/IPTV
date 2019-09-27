@@ -2,6 +2,9 @@
 
 #EXTINF:-1 tvg-logo="http://www.hamsatv.in/assets/images/logo.png" group-title="Kannada( ಕನ್ನಡ)",Hamsa
 http://hamsatv.livebox.co.in/livehls/hamsatv.m3u8
+
+#EXTINF:-1 tvg-logo="http://prajaatvkannada.com/wp-content/uploads/2019/03/1-300x196.png" group-title="Kannada( ಕನ್ನಡ)", Prajaa Kannada TV
+http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1068224865843335170/BfSzKc5O_400x400.jpg" group-title="Kannada( ಕನ್ನಡ)",Sakkat
 http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Kannada.png/1200px-Zee_Kannada.png" group-title="Kannada( ಕನ್ನಡ)", Zee Kannada
@@ -175,6 +178,8 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnfNtzq.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Raonuk Punjab Dee
 http://195.181.169.151:8080/raonuk_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.divyaupchar.com/wp-content/uploads/2018/05/1-1.jpg" group-title="Punjabi (ਪੰਜਾਬੀ)", Manoranjan Movies
+http://103.98.79.205:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="Punjabi (ਪੰਜਾਬੀ)", MH1 News
 http://mhonestream.in:1935/mhone/mhonenews/chunklist_w1346430719.m3u8
 #EXTINF:-1 tvg-logo="http://shraddha.mhone.in/wp-content/uploads/2016/12/sharaddha-1.png" group-title="Punjabi (ਪੰਜਾਬੀ)", MH1 Shardha
@@ -307,7 +312,8 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetelegusd
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/Zee_Cinemalu_HD.png/revision/latest?cb=20180101032550" group-title="Telugu (తెలుగు)", Zee Cinemalu
 http://pockettv.xyz/api/zee.m3u8?c=zcinemalusd
 
-
+#EXTINF:-1  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/aalami_tv.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Alami Sahara
+http://103.98.79.205:4000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvLogos/ptvHomeLogo1.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",PTV Home
 http://67.231.248.131:1935/live/PTVhome/chunklist_w1961087555.m3u8
 #EXTINF:-1 tvg-logo="http://www.ptv.com.pk/public/user/assets/images/ptv-familyNews.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",PTV News
@@ -360,6 +366,11 @@ https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m
 https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Nazrana TV
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
+#EXTINF:-1  tvg-logo="https://rozetv.com/wp-content/uploads/2019/03/logo-animation-1.gif" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Roze News
+http://streamer64.ebound.tv/tv/roze/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/8e/96/58/8e965854-c275-8a1e-b445-e9047949ae96/source/512x512bb.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Tehzeeb TV
+http://streamer64.ebound.tv/tv/tehzeeb/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="http://geotez.tv/assets/front/images/tez_logo.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dVDzRTu.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Urdu TV Toronto
