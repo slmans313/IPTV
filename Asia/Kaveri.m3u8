@@ -193,29 +193,17 @@ http://cdncities.com/8012/8012/playlist.m3u8
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zg0v4hJUnGA/maxresdefault_live.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)",Vasantham
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.rupavahini.lk/images/logo_2018_new.png" group-title="Sir Lanka(ශ්‍රී ලංකා)", Rupavahini
+#EXTINF:-1 tvg-logo="http://www.rupavahini.lk/images/rupa-logo-sin-eng.png" group-title="Sir Lanka(ශ්‍රී ලංකා)", Rupavahini
 http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
 #EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-001.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)", DAN TamiOli
 http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
 #EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-010.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)", DAN Music Tamil
 http://askmedia.livebox.co.in/DANMusichls/danmusic.m3u8
-#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-009.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)", DAN News
-http://askmedia.livebox.co.in/DANNewshls/dannews.m3u8
-#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-006.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)", Holy Mary
-http://askmedia.livebox.co.in/HolymaryTVhls/holymarytv.m3u8
-#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-005.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)", Ohm Tv
-http://askmedia.livebox.co.in/OhmTVhls/ohmtv.m3u8
-#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-007.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)", Pirai
-http://askmedia.livebox.co.in/PiraiTVhls/piraitv.m3u8
-#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-004.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)", Kalvi Tamil
-http://askmedia.livebox.co.in/KalviTV1hls/kalvitv1.m3u8
-#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-003.jpg" group-title="Sir Lanka(ශ්‍රී ලංකා)", Yarl
-http://askmedia.livebox.co.in/YarlTVhls/yarl.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.1yestv.com/images/logo.png" group-title="Tamil (தமிழ்)", 1Yes TV
 http://150.242.21.2/oneyes.m3u8
 #EXTINF:-1 tvg-logo="http://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png" group-title="Tamil (தமிழ்)", 3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/tracks-v1a1/mono.m3u
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="Tamil (தமிழ்)", Aarya TV
 http://150.242.21.2/aaryaa.m3u8
 #EXTINF:-1 tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavan-tv-hd.png" group-title="Tamil (தமிழ்)", Aathavan
@@ -224,16 +212,10 @@ http://81.24.198.44/AthavanTR/tracks-v1a1/index.m3u8
 http://81.24.198.44/A-MI/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://athavantv.com/wp-content/themes/athavantv_new/images/athavan-classic.png" group-title="Tamil (தமிழ்)", Aathavan Classic
 http://81.24.198.44/A-HI/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jHhblaS.png" group-title="Tamil (தமிழ்)",  Agam TV
-http://209.58.160.206/agamtvhls/live.m3u8
-#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="Tamil (தமிழ்)", Akaram 
-http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
-#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaramkidz.png" group-title="Tamil (தமிழ்)", Akaram Gallata
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaramgalatta.PNG" group-title="Tamil (தமிழ்)", Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramgalatta1/index.m3u8
+#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaramgalatta.PNG" group-title="Tamil (தமிழ்)", Akaram Gallata
+http://akaram.zecast.net/akaram-live/akaramgalatta1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="Tamil (தமிழ்)", Akaram Mix
-http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
+http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://theboss.in/wp-content/uploads/2016/06/logo-1.png" group-title="Tamil (தமிழ்)", Boss TV
 http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png" group-title="Tamil (தமிழ்)", City TV
