@@ -12,12 +12,14 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Bengali(বাংলা)",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="http://www.chsuk.tv/img/cateringcircle.png" group-title="Bengali(বাংলা)",Channel S
-http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/288px-Channel-i.svg.png" group-title="Bengali(বাংলা)", Channel I
 http://144.217.70.223:8080/CHANNELI-Bang/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.chsuk.tv/img/cateringcircle.png" group-title="Bengali(বাংলা)",Channel S
+http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG" group-title="Bengali(বাংলা)",   DD Bangla
 http://pockettv.xyz/api/zee.m3u8?c=ddbangla
+#EXTINF:-1 tvg-logo="https://madanichannel.tv/img/logo.png" group-title="Bengali(বাংলা)",    Madani Bengali
+https://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://uttarbangla.com/Images/CompanyLogo.jpg" group-title="Bengali(বাংলা)",  Uttar Bangla
 http://209.58.164.245/uttarbanglahls/live.m3u8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/neke5QKPSc8/mqdefault.jpg" group-title="Bengali(বাংলা)",   Zee 24 Ghanta
@@ -35,6 +37,8 @@ http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
 
 #EXTINF:0 tvg-logo="https://streamvlog.com/wp-content/uploads/2018/12/india-today-tv-english-news-live.jpg" group-title="India(English)",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-logo="https://madanichannel.tv/img/logo.png" group-title="India(English)", Madani English
+https://svs.itworkscdn.net/madanitvenlive/mdtve.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe.png" group-title="India(English)", Zee Cafe
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="India(English)",Zee Etc
@@ -64,7 +68,7 @@ http://pockettv.xyz/api/zee.m3u8?c=9xm
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" group-title="Hindi(हिन्दी)",Bhakti Sagar E24
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599064s.jpg" group-title="Hindi(हिन्दी)",Big Magic
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/BigMagic.in.png" group-title="Hindi(हिन्दी)",Big Magic
 http://pockettv.xyz/api/zee.m3u8?c=bigmagic
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="Hindi(हिन्दी)", B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
