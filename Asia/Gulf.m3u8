@@ -56,14 +56,7 @@ http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.roya.tv/img/royatv/royaTvLogo.png" group-title="Jordan(الْأُرْدُنّ)",Ro'ya TV
 https://roya-live.ercdn.net/roya/roya.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kFNTsJ.png" group-title="Jordan(الْأُرْدُنّ)",MB Moghraby
-http://213.162.202.9:8000/play/a01t/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.ashura.tv/live-tv/al-awhad-tv/logo.jpg" group-title="Kuwait (الكويت)",Al-Awhad TV
-http://213.162.202.9:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fadak.tv/style_img/fadak%20web%20banner.png" group-title="Kuwait (الكويت)",Al-Shahed TV
-http://213.162.202.9:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.alraimedia.com/TV/Frontend/ALRAiTV_in_red_circle.png" group-title="Kuwait (الكويت)",Al Rai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Kuwait (الكويت)", Kuwait TV 1
@@ -155,26 +148,17 @@ http://livecdnh2.tvanywhere.ae:80/hls/baraeim/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="Qatar(دولة قطر)", Jeem TV
 http://livecdnh2.tvanywhere.ae:80/hls/jeem/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asrar-nour.png" group-title="Saudi Arabia(السعودية)", Asrar Nour
-http://213.162.202.9:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Saudi Arabia(السعودية)", Al Quran Al Kareem (Mecca)
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png",Al Sunna (Medina)
+#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Saudi Arabia(السعودية)",Al Sunna (Medina)
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.sa24tv.com/images/1.jpg" group-title="Saudi Arabia(السعودية)", SA-24 Sports
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/07/sbcfut1.png" group-title="Saudi Arabia(السعودية)",SBC
-http://109.236.92.216:9090/SBC/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/snews_logo.png" group-title="Syria(سوريا)", Alikhbaria TV
 http://82.137.248.16:1935/Snews/stream20112018/chunklist_w1174282414.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/2606914_logo_cira_tv_kurd.png" group-title="Syria(سوريا)", Cira TV
-http://176.10.117.12:8081/aypitv/cira/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/lana-95x95.gif" group-title="Syria(سوريا)",Lana TV
 http://109.236.92.216:9090/LANA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://ronahi.tv/wp-content/uploads/2018/06/logo.png" group-title="Syria(سوريا)", Ronahi TV
-http://176.10.117.12:8081/aypitv/Ronahi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="Syria(سوريا)", Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/sedu_logo.png" group-title="Syria(سوريا)", Syrian Education
@@ -182,7 +166,7 @@ http://82.137.248.16:1935/SEdu/stream20112018/chunklist_w1551912453.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/syrian_logo.png" group-title="Syria(سوريا)", Syrian Satellite
 http://82.137.248.16:1935/Sat/stream20112018/chunklist_w1198971875.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
-http://95.170.215.109/hls/m3u8/Syria_Drama.m3u8
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="Syria(سوريا)", Sama TV
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/nour_logo.png" group-title="Syria(سوريا)",Nour Elsham TV
@@ -196,8 +180,6 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="UAE (ماراتيين)", Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="UAE (ماراتيين)", Al Aan TV
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Cb53JquW4AA_-o9.jpg" group-title="UAE (ماراتيين)",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_w1270221403_b764000_t64VVE=.m3u8
 #EXTINF:-1 tvg-logo="http://www.ajmantv.com/img/ajmantv_logo.png" group-title="UAE (ماراتيين)",Ajman
@@ -250,13 +232,9 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w81
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 #EXTINF:-1 tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="UAE (ماراتيين)",YAS Sports
 http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title=UAE "(ماراتيين)",Star World UAE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title=UAE "(ماراتيين)",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
-http://50.7.77.34/starworld/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/ye/samaalyaman-95x66.gif" group-title="Yemen (اليمن)",Sama Yemen TV
-http://213.162.202.9:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://hunaaden.com/user_images/news/04-06-16-58710067.jpg" group-title="Yemen (اليمن)",Yemen Shabab
 https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-logo="https://www.almasirah.net/images/logo.png" group-title="Yemen (اليمن)",المسيرة‎
