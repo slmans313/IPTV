@@ -55,7 +55,8 @@ http://150.242.21.2/tendigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVThRRX.png" group-title="Malayalam(മലയാളം)",Vismaya
 http://150.242.21.2/vismaya.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png" group-title="Marathi(मराठी )",9X Jhakaas
+http://103.98.79.205:4000/play/a00o/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/DDSahyadriLogo.jpg/220px-DDSahyadriLogo.jpg" group-title="Marathi(मराठी )",  DD Sahyadri
 http://pockettv.xyz/api/zee.m3u8?c=ddsahyadri
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/86232/zee24taas.png" group-title="Marathi(मराठी )",Zee 24 Taas
@@ -317,10 +318,16 @@ http://67.231.248.131:1935/live/8090/chunklist_w2102431795.m3u8
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)", 92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",ARY Digital
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/pk/Arydigital.pk.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",ARY Digital
 http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/ARY_News.png/revision/latest?cb=20111001144016" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",ARY News
-http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/pk/ARYFamily.pk.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",ARY Family
+http://103.98.79.205:4000/play/a02c/index.m3u8
+#EXTINF:-1  tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",ARY Music
+http://103.98.79.205:4000/play/a028/index.m3u8
+#EXTINF:-1  tvg-logo="https://aryqtv.tv/wp-content/uploads/2018/04/ARY-QTV-Logo.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",ARY QTV
+http://158.69.229.30:8081/qtv_live/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",ARY Zindagi
+http://103.98.79.205:4000/play/a02b/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.channelwin.tv/uploads/userfiles/images/channel%20win%20approved%20logo-01(1).jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Channel Win
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://dunyanews.tv/english2/images/DUNYAAA.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Dunya
