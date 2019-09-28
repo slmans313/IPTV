@@ -509,16 +509,23 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 tvg-logo="https://zagorodny.tv/assets/logos/logo_header-7c39baa677d9f4f64779509ab03ad2bb36a16323387e8c46583f1b0ea5cae4e2.png" group-title="Russia (Россия)",Загородный
 http://ott-cdn.ucom.am/s31/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Russia (Россия)",Cartoon Network Россия
-http://91.194.72.46:10044/play/Cartoon_Network_HD
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Russia (Россия)",Discovery Россия
-http://broadcasting.cdn.contentgm.com:8080/discovery/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Russia (Россия)",Disney Channel Россия
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyJunior.ee.png" group-title="Russia (Россия)",Disney Junior Россия
+http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/Nickelodeon.ee.png" group-title="Russia (Россия)",Nickelodeon Россия
+http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/NickJr.ee.png" group-title="Russia (Россия)",Nick JR Россия
+http://88.119.220.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nicktoons.uk.png" group-title="Russia (Россия)",Nicktoons Россия
+http://88.119.220.2/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png" group-title="Russia (Россия)", Food Network Россия
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/FoxLife.ru.png" group-title="Russia (Россия)",Fox Life
 http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/HistoryChannel.ph.png" group-title="Russia (Россия)",History Россия
-http://broadcasting.cdn.contentgm.com:8080/history/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Russia (Россия)", National Geographic Россия
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" group-title="Crimea (Крым)",1 Крым
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
