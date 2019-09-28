@@ -12,6 +12,8 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b16000
 http://92.43.140.249/s85/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="Russia (Россия)",ТНТ
 http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="Russia (Россия)",СТС
+https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Russia (Россия)", ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_/8%D1%81_2013/9.svg/1200px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_/8%D1%81_2013/9.svg.png" group-title="Russia (Россия)",Пятница!
@@ -507,7 +509,6 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 tvg-logo="https://zagorodny.tv/assets/logos/logo_header-7c39baa677d9f4f64779509ab03ad2bb36a16323387e8c46583f1b0ea5cae4e2.png" group-title="Russia (Россия)",Загородный
 http://ott-cdn.ucom.am/s31/04.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Russia (Россия)",Cartoon Network Россия
 http://91.194.72.46:10044/play/Cartoon_Network_HD
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Russia (Россия)",Discovery Россия
@@ -734,12 +735,24 @@ https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple91/v4/43/9b/0b/439b0b22-7df6-60ac-1575-0a933f5a8e56/source/60x60bb.jpg" group-title="Georgia (საქართველო)", Palitra News
 http://stream.it-solutions.ge:1935/livetv/stream3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kaztrk.kz/kaztv/images/kazlogo.png" group-title="Kazakhstan (Казахстан)",Qazaqstan
-http://217.196.24.146:8000/play/530
-#EXTINF:-1 tvg-logo="https://balapan.kaztrk.kz/balapan/images/online-logo-balapntv.jpg" group-title="Kazakhstan (Казахстан)",Balapn
-http://217.196.24.146:8000/play/a002 
+#EXTINF:-1 tvg-logo="http://tv7.kz/wp-content/themes/tv7/images/logo.png" group-title="Kazakhstan (Казахстан)",7 канал
+https://sc.id-tv.kz/7_kanal_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Channel_31_logo_%28Kazakhstan%29.png" group-title="Kazakhstan (Казахстан)",31 Канал
+https://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://astanatv.kz/assets/images/logo/logo.png" group-title="Kazakhstan (Казахстан)",Astana TV
+https://sc.id-tv.kz/Astana_38_39.m3u8
+#EXTINF:-1 tvg-logo="http://www.asylarna.kz/images/logo2.png" group-title="Kazakhstan (Казахстан)",Асыл Арна
+https://sc.id-tv.kz/AsylArna_38_39.m3u8
+#EXTINF:-1 tvg-logo="http://sdu.edu.kz/media/filer_public_thumbnails/filer_public/79/6a/796a6541-b725-49b8-a491-1834db02db1e/dombyra.jpg__300x300_q85_crop_subsampling-2_upscale.jpg" group-title="Kazakhstan (Казахстан)",Dombyra TV
+https://sc.id-tv.kz/Dombyra_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/upload/anounces/big_7bf88eac91a1cad134014240280c5899.jpg" group-title="Kazakhstan (Казахстан)",Ел Арна
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://cache-khabar.cdnvideo.ru/templates/gk_university/images/logo.png" group-title="Kazakhstan (Казахстан)",Хабар
+https://sc.id-tv.kz/Habar_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://www.almatv.kz/upload/resize_cache/iblock/e09/85_85_0/logo-01.png" group-title="Kazakhstan (Казахстан)",Магия Кухни ТВ
+https://sc.id-tv.kz/MagiyaKuhni.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034442917753118720/stLuQkd6_400x400.jpg" group-title="Kazakhstan (Казахстан)", Tamasha
-https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8
+https://sc.id-tv.kz/Tamasha_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo.png" group-title="Kazakhstan (Казахстан)",MTRK
 http://tv2.esilnet.com/hls/mtrk.m3u8
 #EXTINF:-1 tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" group-title="Kazakhstan (Казахстан)",KTK
@@ -752,6 +765,8 @@ http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8 
 #EXTINF:-1 tvg-logo="http://taraztv.kz/assets/regions/logo/jambyl.png" group-title="Kazakhstan (Казахстан)",Jambyl 
 http://onrez.kaztrk.kz/regional/taraztv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/b/b1/Jastar_1_%28%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%29.png/revision/latest?cb=20180516152556&path-prefix=ru" group-title="Kazakhstan (Казахстан)",Jastar TV
+https://sc.id-tv.kz/JASTAR_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://oraltv.kz/assets/regions/logo/aqjaiyq.png?v=1" group-title="Kazakhstan (Казахстан)",Oral
 http://onrez.kaztrk.kz/regional/oraltv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Kazakhstan (Казахстан)",Kazakh TV (English)
@@ -774,9 +789,10 @@ http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 http://onrez.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1 tvg-logo="http://semeytv.kz/assets/regions/logo/semey.png" group-title="Kazakhstan (Казахстан)",Semei’ 
 http://onrez.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-logo="http://tdk42.kz/wp-content/themes/tdk42/images/logo_20.png" group-title="Kazakhstan (Казахстан)",ТДК 42
+https://sc.id-tv.kz/TDK-42_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Kazakhstan (Казахстан)",Хабар 24
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/nav/ktrk.png" group-title="Kyrgyzstan(Кыргызстан)",КТРК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
