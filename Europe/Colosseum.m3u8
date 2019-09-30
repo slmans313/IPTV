@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 1
 http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2000px-Rai_2_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 2
-http://176.10.117.21:8081/aypitv/RAI2HDZUG/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/200px-Rai_3_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+http://185.236.229.66:8000/play/a0aj
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TG3_-_Logo_2019.svg/375px-TG3_-_Logo_2019.svg.png" group-title="Italy(Italia)",Rai 3
+http://185.236.229.66:8000/play/a0ak
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png" group-title="Italy(Italia)",Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/200px-Rai_5_-_Logo_2017.svg.png" group-title="Italy(Italia)",Rai 5
@@ -22,12 +22,14 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Italy(Italia)",Euronews Italia
 https://www.mytivu.it/Application/Channels/Euronews/Euronews.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png group-title="Italy(Italia)",La7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/LA7_logo.png" group-title="Italy(Italia)",La7
 https://www.mytivu.it/Application/Channels/La7.php
 #EXTINF:-1 tvg-logo="https://www.siciliatv.org/wp-content/uploads/2018/08/USR_USR_appicon_1525360433_9119.png" group-title="Italy(Italia)", Sicilia TV
 https://ad.mysisli.com/live/siciliatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.supersixtv.net/img/loghiprinc.png" group-title="Italy(Italia)", Supersix Friuli
 https://dcunilive35-lh.akamaihd.net/i/dclive_1@677812/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TG3_-_Logo_2019.svg/375px-TG3_-_Logo_2019.svg.png" group-title="Italy(Italia)",TG3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecitta.tv/wp-content/uploads/2017/01/telecitta-logo.jpg" group-title="Italy(Italia)", Telecitta
 http://213.187.12.18:80/live/tv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/topcrime.png" group-title="Italy(Italia)", Top Crime
