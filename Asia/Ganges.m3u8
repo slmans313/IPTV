@@ -39,8 +39,6 @@ https://anjancdn.vstream.online/bstb/ngrp:anjan_hdall/chunklist_b1580000.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=bigganga
 #EXTINF:-1 tvg-logo="http://www.dabangg.tv/images/logo.png" group-title="Bhojpuri(भोजपुरी)",Dabangg
 http://103.98.79.205:4000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.dhamaal.tv/images/logo.png" group-title="Bhojpuri(भोजपुरी)",Dhamaal
-http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/HousefullActionLogo.png/220px-HousefullActionLogo.png" group-title="Bhojpuri(भोजपुरी)",Housefull Action
 http://103.98.79.205:4000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sangeetbhojpuri.com/wp-content/uploads/2016/09/Sangeet-Bhojpuri-272x90.png" group-title="Bhojpuri(भोजपुरी)",Sangeet Bhojpuri
@@ -76,7 +74,9 @@ http://103.98.79.205:4000/play/a01h/index.m3u8
 http://103.98.79.205:4000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dillagi.tv/img/logo.png" group-title="मनोरंजन", Dillagi
 http://103.98.79.205:4000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png"  group-title="मनोरंजन", Star Plus
+#EXTINF:-1 tvg-logo="https://d2niqk5ygbfu8v.cloudfront.net/wp-content/uploads/2018/03/unnamed-10.jpg"  group-title="मनोरंजन",  Living Foodz हिन्दी
+http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="मनोरंजन", Star Plus
 http://144.217.70.223:8080/StarPlusHDIND-Hin/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/255px-SET_India.jpg" group-title="मनोरंजन", Sony ETV
 http://144.217.70.223:8080/SONYTVHDIND-Hin/index.m3u8
@@ -157,6 +157,10 @@ http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
 http://pockettv.xyz/api/zee.m3u8?c=9xm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="संगीत",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ced60aa5db0a1c93f771b3d5bdea10d6.jpg" group-title="संगीत",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.dhamaal.tv/images/logo.png" group-title="संगीत",धमाल
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.joovox.com/wp-content/uploads/2019/06/mastiii_tv_in-1.png" group-title="संगीत",Mastiii
 http://103.98.79.205:4000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="संगीत",Pop Pataka
@@ -186,7 +190,3 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/rajyasabhatv.png" group-title="सीखना",Rajya Sabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ced60aa5db0a1c93f771b3d5bdea10d6.jpg" group-title="Hindi(हिन्दी)", Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://d2niqk5ygbfu8v.cloudfront.net/wp-content/uploads/2018/03/unnamed-10.jpg" group-title="Hindi(हिन्दी)",  Living Foodz
-http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
