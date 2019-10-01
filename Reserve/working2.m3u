@@ -14,6 +14,9 @@ http://122.129.115.21:1935/edgedol/_definst_/tao122/playlist.m3u8
 
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
+http://220.158.149.14:9999/live/TV00000000000000000018@HHZT;LIVE
+
 
 #EXTINF:0 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Pilipinas",Island Living on BEAM
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
@@ -46,17 +49,10 @@ http://ott-cdn.ucom.am/s80/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Next_TV_News_Logo.png" group-title="中文新闻时事", 壹新聞/财经
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-J5.png" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1211981021_b1096000.m3u8
-
-#EXTINF:0 tvg-logo="http://devwebsvr2.cosmel.com/uat.cits.hk/mytv-super/public/images/Free-Pearl.png" group-title="Hong Kong/Macau(香港/澳门)",無綫明珠
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-
 #EXTINF:0 tvg-logo="http://www.badouxia.com/Uploads/vod/2019-01-10/5c36e354f35b9.jpg" group-title="Hong Kong/Macau(香港/澳门)", 無綫財經資訊台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Channels_ebs1.png" group-title="South Korea(한국어)", EBS 1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u
-
 
 #EXTINF:0 tvg-logo="http://bayontv.com.kh/wp-content/uploads/2018/09/bayon272_90e-2.png" group-title="Cambodia(កម្ពុជា ) ", Bayon TV 
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
@@ -68,26 +64,6 @@ http://203.189.147.211:1935/live/myStream_720p/chunklist.m3u8
 http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/7/csm_12-400_import_f5aa06c50f.png" group-title="Cambodia(កម្ពុជា ) ", Rasmey Hang Meas
 http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w469404394_b328000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Music_Makes_One_Mnet_Logo.png/300px-Music_Makes_One_Mnet_Logo.png" group-title="South Korea(한국어)", M Net
-http://199.21.149.42:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.M3U8
-#EXTINF:-1 tvg-logo="https://www.poscojoongwoo.com/resources/img/front/site/img_sitelogo19.jpg"  group-title="Golf",SBS Golf
-http://199.21.149.43:9083/live/CA42-live1/aU/Zx/aUZxH_RUOehMBmBXwZjwjQ==/live.m3u8
-#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/KBS2.png" group-title="South Korea(한국어)",KBS2
-http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
-
-BS1
-http://220.158.149.14:9999/live/TV00000000000000000075@HHZT;LIVE
-
-BS Fuji
-http://220.158.149.14:9999/live/TV00000000000000000072@HHZT;LIVE
-
-BS TBS
-
-http://220.158.149.14:9999/live/TV00000000000000000074@HHZT;LIVE
-
-BS Asahi
-http://220.158.149.14:9999/live/TV00000000000000000073@HHZT;LIVE
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle 
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
@@ -198,7 +174,6 @@ http://play.lanet.tv/live/2003.m3u8
 #EXTINF:-1 tvg-logo="https://ictv.ua/wp-content/themes/ictv/includes/images/new_design/new_logo.png" group-title="Ukraine(Україна)", ICTV
 http://194.44.203.253/hls/6/stream.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1(Самара)
 http://tvsamara.ru/streaming/r1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1 (Сочи)
@@ -210,3 +185,7 @@ http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/903551417721339904/_fg9BObb.jpg" group-title="Japan(日本)", NHK BS 1
 http://125.227.210.37:8939/VideoInput/play.ts
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
+http://39.135.16.142:6060/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
+
