@@ -280,9 +280,7 @@ https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1504905935/6907.png"  group-title="France(français)", La Chaine Normande
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.lci.fr/assets/images/logo_lci.png"  group-title="France(français)", LCI
-https://lcilivhlshdslive-lh.akamaihd.net/i/lci_1@301585/index_2328k_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,L'Equipe 21
-http://90.23.238.199:2002/bysid/2562
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="France(français)",M6
 http://163.172.43.207:8081/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Mezzo.fr.png" group-title="France(français)",Mezzo
@@ -319,8 +317,6 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plus
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/d1202aa528842711efdfca7838e400e2.jpeg" group-title="France(français)", TV5 Europe
 http://ott-cdn.ucom.am/s75/04.m3u8
-#EXTINF:-1 tvg-logo="https://image-store.slidesharecdn.com/2470438d-37a2-49a1-9d3d-fb7aaf89e073-original.png" group-title="France(français)", TV5 Asie
-http://203.207.56.228/live/iptv021.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TV5MondeAsia.fr.png" group-title="France(français)", TV5 Maghreb-Orient
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv7_colmar_fr.png" group-title="France(français)",  TV7 Colmar
@@ -399,12 +395,12 @@ https://mcdn.daserste.de/daserste/de/profile1/master_3744.m3u8
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/300px-ZDF_logo.svg.png" group-title="Germany(Deutschland)",ZDF
 http://185.254.160.4:8000/play/a00i/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ZDFneo_2017.svg/300px-ZDFneo_2017.svg.png" group-title="Germany(Deutschland)",ZDF Neo
-http://176.10.117.21:8081/aypitv/ZDF_NEOHD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.drupal.org/files/arte.jpg" group-title="Germany(Deutschland)",Arte
-http://176.10.117.12:8081/aypitv/ArteHd/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="Germany(Deutschland)",Kika
 http://185.254.160.4:8000/play/a00j/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/at/3sat.at.png" group-title="Germany(Deutschland)",3 Sat
+http://185.254.160.4:8000/play/a00h/index.m3u8
+
+
 #EXTINF:-1  tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Germany(Deutschland)",Alex Berlin TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png" group-title="Germany(Deutschland)",Allgau TV
