@@ -149,12 +149,20 @@ http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429" group-title="粵語台",翡翠台 HD
 http://59.148.103.41:8000/bysid/1
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/6/63/J2.png/revision/latest?cb=20080701083942" group-title="粵語台",無綫J2台
+http://14.123.236.208:8000/bysid/82
+#EXTINF:0 tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_713_/t011d25007511359af3.png" group-title="粵語台",無綫新聞台
+http://14.123.236.208:8000/bysid/83
+#EXTINF:0 tvg-logo="https://17angel.com/wp-content/uploads/2019/09/tvbf446x248.png group-title="粵語台",無綫財經 · 資訊台
+http://14.123.236.208:8000/bysid/85
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540" group-title="粵語台",明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540" group-title="粵語台",明珠台 HD
+http://14.123.236.208:8000/bysid/2
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="粵語台", 港台電視 31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="粵語台", 港台電視 32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540" group-title="粵語台",明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/150px-Phoenix_HK.svg.png" group-title="粵語台", 鳳凰香港台
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="粵語台", 香港开電視台
