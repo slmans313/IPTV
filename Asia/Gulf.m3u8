@@ -148,31 +148,24 @@ http://livecdnh2.tvanywhere.ae:80/hls/baraeim/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="Qatar(دولة قطر)", Jeem TV
 http://livecdnh2.tvanywhere.ae:80/hls/jeem/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Saudi Arabia(السعودية)", Al Quran Al Kareem (Mecca)
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Saudi Arabia(السعودية)",Al Sunna (Medina)
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
-#EXTINF:-1 tvg-logo="http://www.sa24tv.com/images/1.jpg" group-title="Saudi Arabia(السعودية)", SA-24 Sports
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/snews_logo.png" group-title="Syria(سوريا)", Alikhbaria TV
-http://82.137.248.16:1935/Snews/stream20112018/chunklist_w1174282414.m3u8
+#EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="Syria(سوريا)", Alikhbaria TV
+http://82.137.248.16:1935/Snews/stream20112018/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/lana-95x95.gif" group-title="Syria(سوريا)",Lana TV
 http://109.236.92.216:9090/LANA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="Syria(سوريا)", Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/sedu_logo.png" group-title="Syria(سوريا)", Syrian Education
-http://82.137.248.16:1935/SEdu/stream20112018/chunklist_w1551912453.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/syrian_logo.png" group-title="Syria(سوريا)", Syrian Satellite
-http://82.137.248.16:1935/Sat/stream20112018/chunklist_w1198971875.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
+#EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="Syria(سوريا)", Syrian Education
+http://82.137.248.16:1935/SEdu/stream20112018/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.online/rtv_icons/syrian_logo.png" group-title="Syria(سوريا)", Syrian Satellite
+http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/drama_logo.png" group-title="Syria(سوريا)", Syrian Drama TV
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="Syria(سوريا)", Sama TV
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/nour_logo.png" group-title="Syria(سوريا)",Nour Elsham TV
-http://82.137.248.16:1935/Nour/stream20112018/chunklist_w1617542602.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/souryana_logo.png" group-title="Syria(سوريا)",Radio Souryana
-http://82.137.248.16:1935/Souryana/stream20112018/chunklist_w821508526.m3u8
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.online/rtv_icons/nour_logo.png" group-title="Syria(سوريا)",Nour Elsham TV
+http://82.137.248.16:1935/Nour/stream20112018/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="Syria(سوريا)",Radio Souryana
+http://82.137.248.16:1935/Souryana/stream20112018/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/rtv_icons/ugarit_logo.png" group-title="Syria(سوريا)", Ugarit TV 
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
 
