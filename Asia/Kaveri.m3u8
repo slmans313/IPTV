@@ -98,36 +98,51 @@ http://pockettv.xyz/api/zee.m3u8?c=kalinga
 http://pockettv.xyz/api/zee.m3u8?c=sarthaktv
 
 
-#EXTINF:-1 tvg-logo="http://mylivechannels.com/uploads/thumbs/1539608495_icon.png" group-title="Punjabi (ਪੰਜਾਬੀ)", 5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://mylivechannels.com/uploads/thumbs/1539608495_icon.png" group-title="Punjabi (ਪੰਜਾਬੀ)", 5aab MUSIC
-http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/9XTashanLogo.jpg" group-title="Punjabi (ਪੰਜਾਬੀ)",  9X Tashan
-http://pockettv.xyz/api/zee.m3u8?c=9xtashan
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/ATN_Punjabi.jpg" group-title="Punjabi (ਪੰਜਾਬੀ)", ATN Alpha ETC Punjabi
-http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://apnapunjab.tv/images/logo.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Apna Punjab
-https://apna.r.worldssl.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gaundapunjablive.com/wp-content/uploads/2017/06/BBC-LOGO-MADE.png" group-title="Punjabi (ਪੰਜਾਬੀ)",BBC Toronto
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="Punjabi (ਪੰਜਾਬੀ)",Boogle Bollywood 
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="http://karytv.com/wp-content/uploads/2018/04/canada-one-channel-logo.jpg" group-title="Punjabi (ਪੰਜਾਬੀ)",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIRGI-Yswyy701pmz2LWwCpfRV-exXYarO9cXRZlqUvaHceEF" group-title="Punjabi (ਪੰਜਾਬੀ)",Channel Y
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mylivechannels.com/uploads/thumbs/1539443516_CHARDIKLATIME.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Chardikla Time TV 
-http://195.181.169.151:8080/ChardiklaTIMETV-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/66/5d/c8/665dc866-df03-0f5f-8f37-fba059f74155/source/512x512bb.jpg" group-title="Punjabi (ਪੰਜਾਬੀ)",Cine Voice
-http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="Punjabi (ਪੰਜਾਬੀ)",DD Punjabi
+#EXTINF:-1 tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="मनोरंजन", DD Punjabi
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
-#EXTINF:-1 tvg-logo="http://karytv.com/wp-content/uploads/2015/05/desi-logo.png" group-title="Punjabi (ਪੰਜਾਬੀ)",Desi Channel
+#EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png" group-title="मनोरंजन", 5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/logo%205aab%20tv%20-%20australia.PNG" group-title="मनोरंजन", 5aab ऑस्ट्रेलिया
+http://158.69.124.9:1935/5aabtv/5aabtvaus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/ATN_Punjabi.jpg" group-title="मनोरंजन",  ATN ਪੰਜਾਬੀ
+http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://apnapunjab.tv/images/logo.png" group-title="मनोरंजन",  Apna Punjab
+https://apna.r.worldssl.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://southasiandaily.com/wp-content/uploads/2015/10/Capture12.png" group-title="मनोरंजन",  Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mylivechannels.com/uploads/thumbs/1539443516_CHARDIKLATIME.png" group-title="मनोरंजन", Chardikla Time
+http://195.181.169.151:8080/ChardiklaTIMETV-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/66/5d/c8/665dc866-df03-0f5f-8f37-fba059f74155/source/512x512bb.jpg"  group-title="मनोरंजन",,Cine Voice
+http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://karytv.com/wp-content/uploads/2015/05/desi-logo.png" group-title="मनोरंजन", Desi Channel
 http://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/db/5c/8a/db5c8ace-ebb6-9ad9-2e5d-58be1716a725/source/512x512bb.jpg" group-title="Punjabi (ਪੰਜਾਬੀ)",Desi Plus
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/db/5c/8a/db5c8ace-ebb6-9ad9-2e5d-58be1716a725/source/512x512bb.jpg" group-title="मनोरंजन", Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ektatv.com/wp-content/uploads/2018/07/01-1.png" group-title="Punjabi (ਪੰਜਾਬੀ)",Fastway TV
+#EXTINF:-1 tvg-logo="http://ektatv.com/wp-content/uploads/2018/07/01-1.png" group-title="मनोरंजन", Fastway TV
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="मनोरंजन",  Zee Punjabi
+http://pockettv.xyz/api/zee.m3u8?c=punjabi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/9XTashanLogo.jpg" group-title="ਸੰਗੀਤ",  9X Tashan
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_music.png" group-title="ਸੰਗੀਤ", 5aab Music
+http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="ਸੰਗੀਤ", ,Boogle Bollywood 
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.divyaupchar.com/wp-content/uploads/2018/05/1-1.jpg" group-title="ਫਿਲਮਾਂ", Manoranjan Movies
+http://103.98.79.205:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_gurbani.png" group-title="ਧਰਮ", 5aab Gurbani
+http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://gaundapunjablive.com/wp-content/uploads/2017/06/BBC-LOGO-MADE.png" group-title="ਰੇਡੀਓ",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://fatehtvonline.com/wp-content/uploads/2014/10/Untitled-3.gif" group-title="Punjabi (ਪੰਜਾਬੀ)",Fateh TV 
 http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mylivechannels.com/uploads/thumbs/1539832370_f3de7c09000880c4b818d0284612101b_v.png" group-title="Punjabi (ਪੰਜਾਬੀ)",Gabruu TV
@@ -182,8 +197,7 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnfNtzq.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Raonuk Punjab Dee
 http://195.181.169.151:8080/raonuk_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.divyaupchar.com/wp-content/uploads/2018/05/1-1.jpg" group-title="Punjabi (ਪੰਜਾਬੀ)", Manoranjan Movies
-http://103.98.79.205:4000/play/a001/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="Punjabi (ਪੰਜਾਬੀ)", MH1 News
 http://mhonestream.in:1935/mhone/mhonenews/chunklist_w1346430719.m3u8
 #EXTINF:-1 tvg-logo="http://shraddha.mhone.in/wp-content/uploads/2016/12/sharaddha-1.png" group-title="Punjabi (ਪੰਜਾਬੀ)", MH1 Shardha
@@ -194,8 +208,7 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 http://195.181.169.151:8080/vaani_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.sikhchannel.tv/wp-content/uploads/2014/10/sc-logo-160x160.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Sikh Channel
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
-#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="Punjabi (ਪੰਜਾਬੀ)", Zee Punjabi
-http://pockettv.xyz/api/zee.m3u8?c=punjabi
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hiru_TV-Logo.png/220px-Hiru_TV-Logo.png" group-title="Sir Lanka(ශ්‍රී ලංකා)",Hiru
 http://cdncities.com/8012/8012/playlist.m3u8
@@ -344,6 +357,8 @@ http://158.69.229.30:8081/qtv_live/livestream/playlist.m3u8
 http://103.98.79.205:4000/play/a02b/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.channelwin.tv/uploads/userfiles/images/channel%20win%20approved%20logo-01(1).jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Channel Win
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://karytv.com/wp-content/uploads/2018/04/canada-one-channel-logo.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://dunyanews.tv/english2/images/DUNYAAA.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Dunya
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-2ABz0cjqe6Y/VSJpSmwV2tI/AAAAAAAAN1g/sr5TKRFQWqU/s1600/DD-Kashir.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",DD Kashir
