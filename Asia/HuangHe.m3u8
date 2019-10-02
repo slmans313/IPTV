@@ -147,6 +147,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429" group-title="粵語台",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429" group-title="粵語台",翡翠台 HD
+http://59.148.103.41:8000/bysid/1
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="粵語台", 港台電視 31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="粵語台", 港台電視 32
@@ -157,6 +159,10 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="粵語台", 香港开電視台
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="粵語台",ViuTV6
+http://59.148.103.41:8000/bysid/96
+#EXTINF:0 tvg-logo="https://viu.tv/assets/img/logo.png" group-title="粵語台",ViuTV
+http://59.148.103.41:8000/bysid/99
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="粵語台",澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="粵語台",澳视葡文
