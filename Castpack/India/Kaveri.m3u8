@@ -27,16 +27,12 @@ http://livematrix.in:1935/live/jay/index.m3u8
 https://ibcevent-live.ibctamil.com/transcode/ibcevent_mid.m3u8
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="Tamil (தமிழ்)",IBC Kids
 https://ibckids-origin.ibctamil.com/transcode/ibckids_mid.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-zeTW6LjG3sE/WtQjJdb4tnI/AAAAAAAAArk/iN1DpmS3SN462maAo9ku_1c94WTD91tqACK4BGAYYCw/s1600/Jaffna-Festival-450-150.png" group-title="பொழுதுபோக்கு", Jaffna TV
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YXBwNGsudGFtaWx0dl9zY3JlZW5fMV8xNTU2MDc4MDIxXzA0MQ/screen-1.jpg?h=355&fakeurl=1&type=.jpg" group-title="பொழுதுபோக்கு", Jaffna TV
 http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="பொழுதுபோக்கு", Kalaignar
 https://acv.asianetmobiletvplus.com/channels/kalaignartv_czdxzllrwvzueajklabzwgwbwkxzsvky/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923092663024230400/D0Q0FmRX_400x400.jpg" group-title="Tamil (தமிழ்)",Madhimugam TV
-http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/chunklist_w1689463168_b948000.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="Tamil (தமிழ்)",Makkal TV
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="Tamil (தமிழ்)", மக்கள்
 http://pockettv.xyz/api/zee.m3u8?c=makkaltv
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/Nethra.png" group-title="Tamil (தமிழ்)",Nethra TV
-http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PALAARTV1.png" group-title="Tamil (தமிழ்)",Palar TV
 http://209.58.178.82/palartvhls/live.m3u8
 #EXTINF:-1 tvg-logo="http://pepperstv.com/support/images/peppers-logo.png" group-title="Tamil (தமிழ்)",Peppers TV
@@ -68,6 +64,8 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://netloid.com/wp-content/uploads/2019/04/zee-tamil.jpg" group-title="பொழுதுபோக்கு", Zee Tamil
 http://pockettv.xyz/api/zee.m3u8?c=zeetamil
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923092663024230400/D0Q0FmRX_400x400.jpg" group-title="செய்திகள்", ,Madhimugam TV
+http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2018/01/Malaimurasu-Seithigal-Logo.png" group-title="செய்திகள்", Malaimurasu
 https://wowzaprod170-i.akamaihd.net/hls/live/630629/b6055932/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="செய்திகள்",Tamil Business
