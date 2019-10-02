@@ -5,6 +5,7 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Singapore/Malaysia",Astro வானவில்
 http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
 
+
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:0  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/TVRI_DKI_Jakarta_2.png/revision/latest?cb=20190323100909" group-title="Indonesia",TVRI Jakarta
@@ -49,6 +50,10 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Berita Bahasa",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png" group-title="Agama", Al Quran Al Kareem
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-logo="http://tvonlines.in/wp-content/uploads/2012/12/Al-Sunna-Al-Nabawiyah-TV.jpg" group-title="Agama",Al Sunna
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:0 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="Agama", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://storage.nu.or.id/storage/post/16_9/big/1428588428.jpg" group-title="Agama", Aswaja TV
