@@ -1,8 +1,8 @@
 #EXTM3U  
 #EXTINF:0 tvg-logo="https://www.universfreebox.com/IMG/artoff34756.png" group-title="News",Africanews 
-https://stream-04.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irVJqXJI6KHs03eMCVH5L62w)/dm/3/x6i7vf8/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irVJqXJI6KHs03eMCVH5L62w)/dm/3/x6i7vf8/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News", Euronews 
-https://stream-02.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa9kwX9nCqB4YQtel_fCrkyI)/dm/3/x2j4h4m/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa9kwX9nCqB4YQtel_fCrkyI)/dm/3/x2j4h4m/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/ABCN.png" group-title="News",ABC Australia
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="News",ABC News
@@ -94,12 +94,16 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/375px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="Entertainment", BBC 1
+http://185.254.160.4:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Bravo.us.png" group-title="Entertainment", Bravo
 http://144.217.70.223:8080/BRAVOHD_Eng/index.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ComedyCentral.nz.png" group-title="Entertainment",Comedy Central
-http://184.82.142.53:1019
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="Entertainment",Channel 4
+http://185.254.160.4:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png group-title="Entertainment",Channel 5
+http://185.254.160.4:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="Entertainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="Entertainment",E4
@@ -122,6 +126,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png"  group-title="Entertainment", Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/300px-ITV_logo_2019.svg.png" group-title="Entertainment", ITV 1
+http://185.254.160.4:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="Entertainment", ITV 2
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="Entertainment", ITV 3
@@ -153,6 +159,8 @@ http://pockettv.xyz/api/zee.m3u8?c=world
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation", Cartoon Network
 http://144.217.70.223:8080/Cartoon_Network_USA_kids/index.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="Kids/Animation", CBBC
+http://185.254.160.4:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyChannel.uk.png" group-title="Kids/Animation", Disney
 http://144.217.70.223:8080/Disney_HD_CA_kids/index.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids/Animation", Disney Junior
