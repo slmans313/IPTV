@@ -1,12 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/300px-Sun_TV_logo.svg.png" group-title="பொழுதுபோக்கு", Sun TV
-http://malloostips.com:80/api/jio/jiohd.php?c=Sun_TV_HD/Sun_TV_HD_1200.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Raj_TV_Tamil.png" group-title="செய்திகள்",Raj TV
 http://45.120.188.184/hdmi
 #EXTINF:-1 tvg-logo="http://www.1yestv.com/images/logo.png" group-title="பொழுதுபோக்கு", 1Yes TV
 http://150.242.21.2/oneyes.m3u8
-#EXTINF:-1 tvg-logo="http://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png" group-title="பொழுதுபோக்கு", 3 Tamil TV
+#EXTINF:-1 tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png" group-title="பொழுதுபோக்கு", 3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="பொழுதுபோக்கு", Aarya TV
 http://150.242.21.2/aaryaa.m3u8
@@ -94,7 +92,7 @@ http://81.24.198.44/A-MI/index.m3u8
 http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCISAI.png" group-title="இசை",IBC Music
 https://ibcmusic-origin.ibctamil.com/transcode/ibcmusic_mid.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/706800739776143360/P38PX84d.jpg" group-title="இசை",Santhora TV
+#EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim@2x.gif" group-title="இசை",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 #EXTINF:-1 tvg-logo="http://ragam.tv/wp-content/uploads/2018/09/Ragam_APP_Logo.png" group-title="இசை",Ragam TV
 http://account11.livebox.co.in/ntvhls/ntv.m3u8
@@ -172,8 +170,6 @@ http://pockettv.xyz/api/zee.m3u8?c=ztalkieshd
 #EXTINF:-1 tvg-logo="https://zeeyuva.zee5.com/wp-content/uploads/sites/6/2019/01/cropped-Zee-Yuva.png" group-title="मराठी",  Zee Yuva
 http://pockettv.xyz/api/zee.m3u8?c=zyuva
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Gemini_TV.jpg" group-title="తెలుగు)", Genmini TV
-http://malloostips.com:80/api/jio/jiohd.php?c=Gemini_TV_HD/Gemini_TV_HD_1200.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Jai_Telangana_TV.jpg/200px-Jai_Telangana_TV.jpg" group-title="తెలుగు)", Jai Telangana (TV1)
 http://103.98.79.205:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/skyworth/v5/etv.jpg" group-title="తెలుగు)",ETV Telugu
