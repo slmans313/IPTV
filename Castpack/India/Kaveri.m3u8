@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/300px-Sun_TV_logo.svg.png" group-title="பொழுதுபோக்கு", Sun TV
-http://malloostips.com:80/api/jio/jiohd.php?c=Sun_TV_HD/Sun_TV_HD_1200.
+http://malloostips.com:80/api/jio/jiohd.php?c=Sun_TV_HD/Sun_TV_HD_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.1yestv.com/images/logo.png" group-title="பொழுதுபோக்கு", 1Yes TV
 http://150.242.21.2/oneyes.m3u8
 #EXTINF:-1 tvg-logo="http://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png" group-title="பொழுதுபோக்கு", 3 Tamil TV
@@ -167,11 +167,13 @@ http://pockettv.xyz/api/zee.m3u8?c=ztalkieshd
 #EXTINF:-1 tvg-logo="https://zeeyuva.zee5.com/wp-content/uploads/sites/6/2019/01/cropped-Zee-Yuva.png" group-title="मराठी",  Zee Yuva
 http://pockettv.xyz/api/zee.m3u8?c=zyuva
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Jai_Telangana_TV.jpg/200px-Jai_Telangana_TV.jpg" group-title="Telugu (తెలుగు)", Jai Telangana (TV1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Gemini_TV.jpg" group-title="తెలుగు)", Genmini TV
+http://malloostips.com:80/api/jio/jiohd.php?c=Gemini_TV_HD/Gemini_TV_HD_1200.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Jai_Telangana_TV.jpg/200px-Jai_Telangana_TV.jpg" group-title="తెలుగు)", Jai Telangana (TV1)
 http://103.98.79.205:4000/play/a005/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/skyworth/v5/etv.jpg" group-title="Telugu (తెలుగు)",ETV Telugu
+#EXTINF:-1 tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/skyworth/v5/etv.jpg" group-title="తెలుగు)",ETV Telugu
 http://103.211.38.148:80/0.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Zee_Telugu_logo.jpeg" group-title="Telugu (తెలుగు)", Zee Telugu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Zee_Telugu_logo.jpeg" group-title="తెలుగు)", Zee Telugu
 http://pockettv.xyz/api/zee.m3u8?c=zeetelegusd
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/Zee_Cinemalu_HD.png/revision/latest?cb=20180101032550" group-title="Telugu (తెలుగు)", Zee Cinemalu
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/Zee_Cinemalu_HD.png/revision/latest?cb=20180101032550" group-title="తెలుగు)", Zee Cinemalu
 http://pockettv.xyz/api/zee.m3u8?c=zcinemalusd
