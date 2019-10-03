@@ -95,6 +95,10 @@ http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Canal_Zoom_logo.png" group-title="Belgium", Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://audiovisual.ec.europa.eu/presentation/img/content/03-EBS/01-EBS/ebs-LOGO.png" group-title="Belgium", EbS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_or/EBS.m3u8
+#EXTINF:-1 tvg-logo="https://audiovisual.ec.europa.eu/presentation/img/content/03-EBS/01-EBS/ebs-LOGO.png" group-title="Belgium", EbSplus
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8
 #EXTINF:-1 tvg-logo="https://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium", Focus
 https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://webfiles.notele.be/layout/logo.png" group-title="Belgium", notélé
@@ -323,6 +327,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
 http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="France(français)", TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.bzh/sites/default/files/logo.png" group-title="France(français)",TVR Bretagne
+https://origin1.dvmr.fr/hls/tvr/tvr.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="France(français)",  TVM Est parisien
 https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/W9.fr.png" group-title="France(français)", W9
