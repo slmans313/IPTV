@@ -77,26 +77,27 @@ http://213.162.202.9:8000/play/a01l/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="Iraq (العراق)",Zarok TV
 http://213.162.202.9:8000/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/330px-KanHinuchit.svg.png" group-title="Isarel (ישראל)",Kan 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_kan.png" group-title="Isarel (ישראל)",Ha-Hinuhit
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.makan.org.il/images/logo_makan.png" group-title="Isarel (ישראל)",Makan
-https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Isarel (ישראל)",Keshet News 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/330px-KanHinuchit.svg.png" group-title="ישראל",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_kan.png" group-title="ישראל",Ha-Hinuhit
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.makan.org.il/images/logo_makan.png" group-title="ישראל",Makan
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="ישראל",Keshet News 
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://aunmedia.org/sites/default/files/internship/kneset.jpg" group-title="Isarel (ישראל)",Knesset Channel
+#EXTINF:-1 tvg-logo="http://aunmedia.org/sites/default/files/internship/kneset.jpg" group-title="ישראל",Knesset Channel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iland.tv/img/logo1.png" group-title="Isarel (ישראל)",ILand TV
+#EXTINF:-1 tvg-logo="https://www.iland.tv/img/logo1.png" group-title="ישראל",ILand TV
 http://146.185.61.140:1935/ILAND/smil:iland.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hala-tv.com/images/hala_logo.png" group-title="Isarel (ישראל)",Hala TV
+#EXTINF:-1 tvg-logo="http://www.hala-tv.com/images/hala_logo.png" group-title="ישראל",Hala TV
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Reshet_13_logo.svg/220px-Reshet_13_logo.svg.png" group-title="Isarel (ישראל)",Reshet 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Reshet_13_logo.svg/220px-Reshet_13_logo.svg.png" group-title="ישראל",Reshet 13
 http://nana10-hdl-uk-sw.ctedgecdn.net/10tv_Desktop/index_2400.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/330px-Arutz_20.svg.png" group-title="Isarel (ישראל)",Channel 20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/330px-Arutz_20.svg.png" group-title="ישראל",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.yeshuachai.tv/sites/default/files/logo.png" group-title="Isarel (ישראל)",Yeshua Chai
+#EXTINF:-1 tvg-logo="https://www.yeshuachai.tv/sites/default/files/logo.png" group-title="ישראל",Yeshua Chai
 http://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/master.m3u8
+
 
 #EXTINF:0  tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png" group-title="Turkey (Türkiye)", A Haber
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
