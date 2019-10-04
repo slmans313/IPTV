@@ -54,6 +54,8 @@ http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.roya.tv/img/royatv/royaTvLogo.png" group-title="Jordan(الْأُرْدُنّ)",Ro'ya TV
 https://roya-live.ercdn.net/roya/roya.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4.jpg" group-title="Jordan(الْأُرْدُنّ)",Karameesh Channel
+http://95.170.215.109/hls/Karameesh-Backup-M.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.alraimedia.com/TV/Frontend/ALRAiTV_in_red_circle.png" group-title="Kuwait (الكويت)",Al Rai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
@@ -112,6 +114,8 @@ http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 #EXTINF:-1 tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="Lebanon (لبنان)",OTV
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
+#EXTINF:-1 tvg-logo="http://tahatv.com/images/menue%20bar/77_46.png" group-title="Lebanon (لبنان)",Taha TV
+http://95.170.215.109/hls/TAHA-Backup-M.m3u8
 
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="Oman (عمان‎)", Oman TV
 http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
@@ -187,6 +191,8 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1  tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE (ماراتيين)",Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 tvg-logo="https://majid.ae/wp-content/themes/majid/images/logo.png" group-title="UAE (ماراتيين)",Majid Kids
+http://95.170.215.109/hls/Majid-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="UAE (ماراتيين)",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC2.ae.png" group-title="UAE (ماراتيين)",MBC 2
@@ -215,6 +221,7 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b2000000.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w814636843_b1296000_slAR.m3u8
 #EXTINF:-1 tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg" group-title="UAE (ماراتيين)",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/5.png" group-title="Yemen (اليمن)",Yemen TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
