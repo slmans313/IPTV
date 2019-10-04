@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Russia (Россия)",360°
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Russia (Россия)",360°
+http://360tv-cdn.facecast.io/360/channel2/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://andtv.zee5.com/wp-content/uploads/sites/3/2019/01/And-Tv-logo.png" group-title="Gujarati(ગુજરાતી)",  &TV
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
