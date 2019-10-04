@@ -539,16 +539,36 @@ http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png" group-title="Germany(Deutschland)",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/DunaWorld.hu.png" group-title="Hungary(MagyarorszĂˇg)",Duna World
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/DunaWorld.hu.png" group-title="MagyarorszĂˇg",Duna World
 http://162.212.178.70:4842/bysid/26
-#EXTINF:-1 tvg-logo="https://1music.hu/assets/images/logo.png" group-title="Hungary(MagyarorszĂˇg)", 1 Music
+#EXTINF:-1 tvg-logo="https://1music.hu/assets/images/logo.png" group-title="MagyarorszĂˇg", 1 Music
 http://1music.hu/1music.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTL2.hu.png" group-title="Hungary(MagyarorszĂˇg)",RTL 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTL2.hu.png" group-title="MagyarorszĂˇg",RTL 2
 http://37.152.135.169:9002/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTLGold.hu.png" group-title="Hungary(MagyarorszĂˇg)", RTL Gold
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTLGold.hu.png" group-title="MagyarorszĂˇg", RTL Gold
 http://37.152.135.169:9002/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/Fehervartv.hu.png" group-title="Hungary(MagyarorszĂˇg)", Fehervar TV
+#EXTINF:-1 tvg-logo="https://balatontelevizio.hu/app/themes/balatontv/dist/images/BTV-logo_2e64ac5c.png" group-title="MagyarorszĂˇg", Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-logo="https://cms.sulinet.hu/get/d/0fb6e8f0-c5c0-4d75-a10b-a9376c180212/1/5/b/Large/mar31_bptvlogo_a.jpg" group-title="MagyarorszĂˇg", Budapest Európa TV
+http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="http://www.valakikell.hu/wp-content/uploads/2018/10/estv.jpg group-title="MagyarorszĂˇg", ESTV
+https://cloudfront63.lexanetwork.com:1440/HDE032/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/Fehervartv.hu.png" group-title="MagyarorszĂˇg", Fehervar TV
 https://cloudfront44.lexanetwork.com:1440/HDE016/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="https://gyongyostv.hu/wp-content/uploads/2018/11/gytv-logo-hd.jpg" group-title="MagyarorszĂˇg", Gyöngyösi TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="http://www.dealood.com/content/uploads/images/March2019/5c97263048ab9-download%20(1)-large.png" group-title="MagyarorszĂˇg", Kapos TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay016/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="http://kanizsatv.hu/images/logo.png" group-title="MagyarorszĂˇg", Kanizsa TV
+https://cloudfront44.lexanetwork.com:1440/HDE024/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="https://www.studiopresent.com/sites/default/files/styles/big_logos/public/2018-06/pannon-rtv.png" group-title="MagyarorszĂˇg", Pannon RTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://eap-circuit.eu/wp-content/uploads/2018/10/streamspe%CC%80ort_budapest.png" group-title="MagyarorszĂˇg", Streamsports
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.visittata.com/pic/infomedium/A38D861FF40CBDC3C09AE845C6BBB6CE.jpg" group-title="MagyarorszĂˇg", Tatai TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay014/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wzns82OVSw0/maxresdefault_live.jpg" group-title="MagyarorszĂˇg", Telekeszi Tv
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream001.sdp/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.ruv.is/sites/all/themes/at_ruv/images/default-image-1200x750.png" group-title="Iceland(Ísland)", RUV
