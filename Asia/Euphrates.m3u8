@@ -53,6 +53,8 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="Iraq (العراق)", Dejlah
 https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kurdistan24.net/images/Logo.png" group-title="Iraq (العراق)",Kurdistan 24
+http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
 #EXTINF:-1 tvg-logo="http://broadcastprome.com/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo-for-web.jpg" group-title="Iraq (العراق)",MBC Iraq
 http://95.170.215.103/hls/m3u8/MBC-IRAQ-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NRT_TV.png/330px-NRT_TV.png" group-title="Iraq (العراق)",NRT
@@ -63,12 +65,11 @@ https://5d5e28481f3ad.streamlock.net/NRT2/ngrp:livestream_all/chunklist_w1121167
 http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GArpqi6cy00/WRg5OrFQZ6I/AAAAAAAAABc/I6aW8nEXqF09itdEpj2ekqWOv_cb7JSVgCLcB/s1600/medmuziktv.png" group-title="Iraq (العراق)", Med Muzîk
 http://213.162.202.9:8000/play/a01h/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.rudaw.net/images/logo-ar.png" group-title="Iraq (العراق)",Rudaw Kurdi
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Rudaw.jpg" group-title="Iraq (العراق)",Rudaw Kurdi
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sterktv.net/wp-content/uploads/2018/10/sterktv-logo-1.png" group-title="Iraq (العراق)",Sterk TV
-http://213.162.202.9:8000/play/a01l/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="Iraq (العراق)",Zarok TV
-http://213.162.202.9:8000/play/a02b/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/WAAR_TV_HD.png/330px-WAAR_TV_HD.png" group-title="Iraq (العراق)",Waar TV
+http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/330px-KanHinuchit.svg.png" group-title="ישראל",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8
@@ -78,10 +79,8 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklis
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="ישראל",Keshet News 
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://aunmedia.org/sites/default/files/internship/kneset.jpg" group-title="ישראל",Knesset Channel
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/New_knesset_channel.jpg/revision/latest?cb=20180809093042" group-title="ישראל",Knesset Channel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iland.tv/img/logo1.png" group-title="ישראל",ILand TV
-http://146.185.61.140:1935/ILAND/smil:iland.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hala-tv.com/images/hala_logo.png" group-title="ישראל",Hala TV
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Reshet_13_logo.svg/220px-Reshet_13_logo.svg.png" group-title="ישראל",Reshet 13
@@ -100,8 +99,6 @@ http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:0 tvg-logo="http://i.tmgrup.com.tr/a2tv/content/i/a2/a2tv-logo.png" group-title="Turkey (Türkiye)", A2
 http://streams2.livetv.az/turk/a2_stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.tmgrup.com.tr/aav/site/v2/i/imaj_atvavrupa_yeni.jpg" group-title="Turkey (Türkiye)",A TV Avrupa
-http://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8
 #EXTINF:0 tvg-logo="http://i.tmgrup.com.tr/anews/site/v1/i/logo-anews.png" group-title="Turkey (Türkiye)",A News
 http://trkvz-live.ercdn.net/anewshd/anewshd_720p.m3u8
 #EXTINF:0 tvg-logo="http://akilli.tv/assets/img/logo.png" group-title="Turkey (Türkiye)",Akilli TV
