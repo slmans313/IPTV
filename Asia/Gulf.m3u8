@@ -67,23 +67,25 @@ http://95.170.215.109:80/hls/m3u8/TOYOR-J-Backup.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4.jpg" group-title="Jordan(الْأُرْدُنّ)",Karameesh Channel
 http://95.170.215.109/hls/Karameesh-Backup-M.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.alraimedia.com/TV/Frontend/ALRAiTV_in_red_circle.png" group-title="Kuwait (الكويت)",Al Rai
+#EXTINF:-1 tvg-logo="https://www.alraimedia.com/TV/Frontend/ALRAiTV_in_red_circle.png" group-title="الكويت",Al Rai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Kuwait (الكويت)", Kuwait TV 1
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="الكويت", Kuwait TV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT2.jpg" group-title="Kuwait (الكويت)", Kuwait TV 2
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT2.jpg" group-title="الكويت", Kuwait TV 2
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" group-title="Kuwait (الكويت)", KTV Kids 
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" group-title="الكويت", KTV Kids 
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" group-title="Kuwait (الكويت)", KTV Ethraa 
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" group-title="الكويت", KTV Ethraa 
 https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Kuwait (الكويت)", Kuwait TV Al Qurain
+#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="الكويت", Kuwait TV Al Qurain
 https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/kw/almajlis-95x41.gif" group-title="Kuwait (الكويت)",Kuwait TV Al Majlis 
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/kw/almajlis-95x41.gif" group-title="الكويت",Kuwait TV Al Majlis 
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" group-title="Kuwait (الكويت)", Kuwait Arabe
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" group-title="الكويت", Kuwait Arabe
 https://svs.itworkscdn.net/ktvarabelive/karabe.smil/chunklist_b2400000.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Tv_funoon_tv.png" group-title="Kuwait (الكويت)",Fuoon TV
+#EXTINF:-1 tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="الكويت", Kuwait Sport
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Tv_funoon_tv.png" group-title="الكويت",Fuoon TV
 http://livecdnh3.tvanywhere.ae:80/hls/funoon/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="Lebanon (لبنان)",Aaghani
@@ -127,12 +129,14 @@ http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
 #EXTINF:-1 tvg-logo="http://tahatv.com/images/menue%20bar/77_46.png" group-title="Lebanon (لبنان)",Taha TV
 http://95.170.215.109/hls/TAHA-Backup-M.m3u8
 
-#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="Oman (عمان‎)", Oman TV
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="عمان", Oman TV
 http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="Oman (عمان‎)", Oman TV Live
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="عمان", Oman TV Live
 http://38.96.148.35:1935/live/omantv03/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/cultural.png" group-title="Oman (عمان‎)", Oman TV Cultural
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/cultural.png" group-title="عمان", Oman TV Cultural
 http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="عمان", Oman Sports
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo.png" group-title="Palestine (فلسطين)",Al Aqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
