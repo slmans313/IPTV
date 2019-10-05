@@ -1,31 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 1
-http://balancer.cdniptv.com:80/bein1hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 2
-http://balancer.cdniptv.com:80/bein2hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 3
-http://balancer.cdniptv.com:80/bein3hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 4
-http://balancer.cdniptv.com:80/bein4hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 5
-http://balancer.cdniptv.com:80/bein5hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 6
-http://balancer.cdniptv.com:80/bein6hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 7
-http://balancer.cdniptv.com:80/bein7hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 8
-http://balancer.cdniptv.com:80/bein8hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 9
-http://balancer.cdniptv.com:80/bein9hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 10
-http://balancer.cdniptv.com:80/bein10hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 11
-http://balancer.cdniptv.com:80/bein11hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="beIN",beIN 12
-http://balancer.cdniptv.com:80/bein12hd.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN.us.png" group-title="ESPN",ESPN
 https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2
@@ -87,12 +61,16 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Soccer", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/rs/SportKlub1.rs.png" group-title="Soccer",SK1
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Soccer", Real Madrid TV Español
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/rs/SportKlub1.rs.png" group-title="Soccer",Sports Klub 1
 http://79.101.26.242:81/pztaldoopnm/sk1.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/rs/SportKlub1.rs.png" group-title="Soccer",SK2
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/rs/SportKlub1.rs.png" group-title="Soccer",Sports Klub 2
 http://79.101.26.242:81/pztaldoopnm/sk2.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/rs/SportKlub1.rs.png" group-title="Soccer",SK3
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/rs/SportKlub1.rs.png" group-title="Soccer",Sports Klub3
 http://79.101.26.242:81/pztaldoopnm/sk3.m3u8
+#EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="رياضات",TRT Spor
+http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png"  group-title="Golf",JTBC Golf
 http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
@@ -148,5 +126,3 @@ https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
 http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/14869/logo_sharjah%20sports%20tv5.png" group-title="رياضات",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="رياضات",TRT Spor
-http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
