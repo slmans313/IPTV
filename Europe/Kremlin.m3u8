@@ -551,13 +551,19 @@ http://streams2.livetv.az/azerbaijan/xazar_sd_stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_tSYQldIdyI/XBQYPRsRd-I/AAAAAAAAB5U/qEhPdv-tu9AWvEztT12Kmnz5lBR5-0nygCLcBGAs/s1600/NNT.png" group-title="Azerbaijan(Azərbaycan)",Ümüd
 http://win26.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://belarus24.by/local/templates/belarus24.responsive/images/logo-company.png" group-title="Belarus(Беларусь)",Беларусь 24
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom-eng/images/channels/topbelarus-1.png" group-title="Belarus(Беларусь)",Беларусь 1
+http://178.124.183.13:80/hls/M52YG9EVYD/bw5000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom-eng/images/channels/topbelarus-2.png" group-title="Belarus(Беларусь)",Беларусь 2
+http://178.124.183.13:80/hls/GCKYZGGFEJ/bw5000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom-eng/images/channels/topbelarus-3.png" group-title="Belarus(Беларусь)",Беларусь 3
+http://178.124.183.13:80/hls/TSNEW37RPC/bw5000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom-eng/images/channels/topbelarus-24.png" group-title="Belarus(Беларусь)",Беларусь 24
 https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.shumilino.by/wp-content/uploads/2015/09/BELARUS4V.jpg" group-title="Belarus(Беларусь)",Беларусь 4 Витебск
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 tvg-logo="https://www.lider-press.by/images/articles/2015/september/belarus4_mogilev.jpg" group-title="Belarus(Беларусь)",Беларусь 4 Могилёв
 http://86.57.225.238:8090
-#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom/images/channels/topbelarus-5i.png" group-title="Belarus(Беларусь)", Belarus 5
+#EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom-eng/images/channels/topbelarus-5.png" group-title="Belarus(Беларусь)", Belarus 5
 http://95.46.208.76:9898/belarus5
 #EXTINF:-1 tvg-logo="https://img.dni.ru/binaries/v2_articlepic/656630.jpg" group-title="Belarus(Беларусь)",Муз ТВ Беларусь
 http://streams.tv.mts.by/belmustv/1/index.m3u8
@@ -634,7 +640,7 @@ http://188.93.95.34/marao/mono.m3u8
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.palitravideo.ge/images/stories/palitratvlogo.png" group-title="Georgia (საქართველო)", Palitra News
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple91/v4/43/9b/0b/439b0b22-7df6-60ac-1575-0a933f5a8e56/source/60x60bb.jpg" group-title="Georgia (საქართველო)", Palitra News
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple91/v4/43/9b/0b/439b0b22-7df6-60ac-1575-0a933f5a8e56/source/60x60bb.jpg" group-title="Georgia (საქართველო)", Star Vision
 http://stream.it-solutions.ge:1935/livetv/stream3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv7.kz/wp-content/themes/tv7/images/logo.png" group-title="Kazakhstan (Казахстан)",7 канал
