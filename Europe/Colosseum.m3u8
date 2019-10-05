@@ -255,7 +255,7 @@ http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s.tvp.pl/files/portal/v4/gfx/logo/polonia-logo.png" group-title="Poland (Polska)",  TVP Polonia
-http://broadcasting.cdn.contentgm.com:8080/TVP_Polonia/video.m3u8?token=8UjWeshNwq
+https://rsdt-waw802-228.tvp.pl/token/video/live/34414171/20191005/661499293/524582a5-18f4-4abc-9067-3c420e67b1e6/live204.isml/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/TVP3bialystok.png" group-title="Poland (Polska)", TVP 3 Białystok
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TVP3-Bydgoszcz.svg/375px-TVP3-Bydgoszcz.svg.png" group-title="Poland (Polska)", TVP 3 Bydgoszcz
@@ -362,7 +362,7 @@ http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
 http://82.208.151.107:8088/high/tvriasi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România", B1
 http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:-1 tvg-logo="https://www.credo.tv/images/Orizontale/LIVE-b.jpg" group-title="România", Credo TV
+#EXTINF:-1 tvg-logo="https://www.credo.tv/wp-content/uploads/2019/07/logo-2.png" group-title="România", Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="http://columna.mipadoweb.ro/wp-content/uploads/2019/01/lg2-320x92-300x86.png" group-title="România",Columna
 http://77.36.61.147/hls/channel4/bitrate4.m3u8
@@ -384,17 +384,17 @@ http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.replicahd.ro/wp-content/uploads/2017/06/cropped-ANTET-300.png" group-title="România",Televiziunea Info
 http://163.172.172.80:8080/hls/InfoHd.m3u8
-#EXTINF:-1 tvg-logo="http://www.utv.ro/logo.jpg"  group-title="România", U TV
+#EXTINF:-1 tvg-logo="https://www.utv.ro/static/theme-repo/bin/images/logo-utv.png"  group-title="România", U TV
 http://81.196.0.126/utvedge/utvlive/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-1200-630.png" group-title="San Mario",RTV San Mario
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1  tvg-logo="https://ulango.tv/uploads/channels/3781395/logo_rtv%20san%20marino%20sport.png" group-title="San Mario",RTV Sports
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/RtvSport.jpg/revision/latest?cb=20170316232555" group-title="San Mario",RTV Sports
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita_t64SEQoNzIwcCk=.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/rs/RTS1.rs.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",RTS 1
 http://62.210.205.41:8080/RTS1/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/rs/RTS3.rs.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",RTS 3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/1200px-RTS_3_logo.svg.png" group-title="Serbia/Montenegro(Србија/Црна Гора)",RTS 3
 http://93.87.85.150:80/PLTV/88888888/224/3221226575/03.m3u8?accountinfo=yT3136xHyci%2F1Lwr9plJ6b4pEQwVtxY%2FuC5XlCvYDSwK11EyX4ZT%2F3rSRSjQzYryr5jnU6CWqZ44bsdSXtUhp5rRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9VAQe05Iuvgb0rcmheAIpBaakxQBS0eD07v1BkAeLxdU%3D%3A20180117163907%3AUTC%2C667265279573212594%2C89.172.240.222%2C20180117163907%2Curn%3AHuawei%3AliveTV%3AXTV100001884%2C110E1005EC64BE6489BBA475683DED13%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/rs/Prva.rs.png" group-title="Serbia/Montenegro(Србија/Црна Гора)", 1 Prva
 http://62.210.205.41:8080/PRVA/index.m3u8
