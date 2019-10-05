@@ -175,16 +175,10 @@ http://62.210.205.41:8080/RTL/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvaurora.tv/wp-content/themes/sw/img/logo.png" group-title="Croatia(Hrvatska)",Aurora TV
 http://85.94.81.190:8844/sdi/aurora.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/225px-%C4%8CT1_logo_2012.svg.png" group-title="Czech Republic(Česká)",ČT1
-http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Czech Republic(Česká)",Discovery Česká
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Czech Republic(Česká)", EuroSports 1 Česká
-http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Czech Republic(Česká)", FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FILMBOX_HD.png" group-title="Czech Republic(Česká)", Filmbox Česká
-http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 #EXTINF:-1 tvg-logo="http://www.filmpro.cz/filmpro/images/logo-300.gif" group-title="Czech Republic(Česká)", Filmpro
 http://flashmaster1.streamcdn.eu:1935/mgrpavelhladky-flash-live1/_definst_/filmpro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://polar.cz/images/layout/header/logo.png" group-title="Czech Republic(Česká)", Polar TV
@@ -213,7 +207,9 @@ http://92.62.234.223/102/mystream.m3u8
 https://nova-live.ssl.cdn.cra.cz/channels/mcri/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="Czech Republic(Česká)",Nova Gold
 https://nova-live.ssl.cdn.cra.cz/channels/mcrh/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://prahatv.eu/images/layout/header/logo.png" group-title="Czech Republic(Česká)",Praha TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="Czech Republic(Česká)",Nova Gold
+http://92.62.234.206/klik.m3u
+#EXTINF:-1 tvg-logo="http://klik-tv.net/wp-content/themes/4klik-tv_net/images/logo.png" group-title="Czech Republic(Česká)",Klik TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="Czech Republic(Česká)",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
