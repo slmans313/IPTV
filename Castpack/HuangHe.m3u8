@@ -1,7 +1,7 @@
 #EXTM3U  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_B4E78F.svg/1920px-CCTV-2_B4E78F.svg.png" group-title="新闻/财经",CCTV-2 财经  
 http://39.135.16.142:6060/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="新闻/财经",CCTV-13 新闻 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="新闻/财经",CCTV-13 新闻 
 http://39.135.16.142:6060/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls  
 #EXTINF:-1 tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="新闻/财经",中国气象频道  
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8  
@@ -120,7 +120,7 @@ http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
 http://39.135.16.142:6060/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Tianjin_Television_logo.png/120px-Tianjin_Television_logo.png group-title="中国", 天津卫视
 http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/55/YNtv.png" group-title="中国",云南卫视
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg" group-title="中国",云南卫视
 http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title="中国",西藏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
