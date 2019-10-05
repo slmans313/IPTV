@@ -119,6 +119,8 @@ http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:0 tvg-logo="http://i.tmgrup.com.tr/a2tv/content/i/a2/a2tv-logo.png" group-title="Türkiye", A2
 http://streams2.livetv.az/turk/a2_stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.akittv.com.tr/assets/img/logo.png" group-title="Türkiye", Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:0 tvg-logo="http://akilli.tv/assets/img/logo.png" group-title="Türkiye",Akilli TV
 http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.beyaztv.com.tr/images/logo.png" group-title="Türkiye",Beyaz TV
@@ -217,9 +219,13 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="Türkiye",TV8 Turk
 http://streams2.livetv.az/turk/tv8_stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.wmtv.com.tr/img/logo.jpeg" group-title="Türkiye",Women TV
+https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1  tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/v/vuslat_tv_logo.png" group-title="Türkiye",Vulsat TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.brtk.net/wp-content/themes/brtk_theme/images/brt1-logo.png" group-title="Türkiye",BRT 1 (Kıbrıs)
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.brtk.net/wp-content/themes/brtk_theme/images/brt2-logo.png" group-title="Türkiye",BRT 2 Spor (Kıbrıs)
+#EXTINF:0 tvg-logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2018/12/BRT-HD-300x217.png" group-title="Türkiye",BRT 1 (Kıbrıs)
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.brtk.net/wp-content/uploads/2014/10/brt2-logo.jpg" group-title="Türkiye",BRT 2 Spor (Kıbrıs)
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://sd-19828.dedibox.fr/TVTURK/LOGO/brt2.png" group-title="Türkiye",BRT 3 (Kıbrıs)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
