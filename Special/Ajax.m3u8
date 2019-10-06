@@ -6,6 +6,8 @@ https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
 https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="ESPN",ESPN Brasil
 http://207.180.242.63:8080/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="ESPN",ESPN Brasil HK
+http://202.40.202.173:8000/main
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/FoxSports.br.png" group-title="Fox Sports",Fox Sports 1 Brasil
 http://207.180.242.63:8080/hls/foxsports/index.m3u8
@@ -124,3 +126,5 @@ http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3
 http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UabsrITb75Y/WPJW_GspK_I/AAAAAAAAFIc/RktLzJcQaRsYCth0poXmunqqTKQhhtI6wCLcB/s1600/sharjah_sports_tv.png" group-title="رياضات",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/On_Sport.jpg" group-title="رياضات", ON Sport
+http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
