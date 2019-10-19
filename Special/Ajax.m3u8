@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png group-title="beIN",beIN Sports 1
+https://live.we-play.tv/app/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="beIN",beIN Sports 2
+https://live.we-play.tv/app/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/825_300.png" group-title="beIN",beIN Sports Rugby
+https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN.us.png" group-title="ESPN",ESPN
 https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="ESPN",ESPN 2
@@ -73,6 +81,10 @@ http://79.101.26.242:81/pztaldoopnm/sk1.m3u8
 http://79.101.26.242:81/pztaldoopnm/sk2.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/rs/SportKlub1.rs.png" group-title="Soccer",Sports Klub 3
 http://79.101.26.242:81/pztaldoopnm/sk3.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/pt/SportTV1.pt.png" group-title="Soccer",Sports TV 1
+https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/pt/SportTV2.pt.png" group-title="Soccer",Sports TV 2
+https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="Soccer",TRT Spor
 http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png" group-title="Soccer",Premiere Football HD2
