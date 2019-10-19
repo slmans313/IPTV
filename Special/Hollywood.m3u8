@@ -1,6 +1,6 @@
 #EXTM3U  
 #EXTINF:0 tvg-logo="https://www.universfreebox.com/IMG/artoff34756.png" group-title="News",Africanews 
-https://stream-03.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irWl254tlO2rA25dD5clHNTI)/dm/3/x6i7vf8/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irWl254tlO2rA25dD5clHNTI)/dm/3/x6i7vf8/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News", Euronews 
 https://stream-01.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa15Y2-Ib_AsvclaJ2XUMh4M)/dm/3/x2j4h4m/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/ABCN.png" group-title="News",ABC Australia
@@ -199,13 +199,18 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mo
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/AnimalPlanet.id.png" group-title="Learning",Animal Planet
+https://live.youlive-cdn.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/DaVinciLearning.ru.png" group-title="Learning",Da Vinci Learning
 http://45.126.83.51/uq2663/h/h01/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Discovery.th.png" group-title="Learning",Discovery
+https://live.we-play.tv/app/discovery/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Learning",Discovery Asia
+https://live.youlive-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.docuboxlive.com/img/docu_logo.png" group-title="Learning",Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/History.pl.png" group-title="Learning",History
