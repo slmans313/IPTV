@@ -55,8 +55,10 @@ http://95.107.132.131:3344/udp/235.0.0.6:9009
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/f2d6beb9b61145a68e0493eeed4766cb-hd.jpg" group-title="Shqipëria/Kosovës", Ora TV
 http://dcunilive36-lh.akamaihd.net:80/i/dclive_1@662093/master.m3u8
+#EXTINF:-1  tvg-logo="http://www.oranews.tv/themes/oranewstheme/assets/img/logoora.png" group-title="Shqipëria/Kosovës",Ora HD
+https://oranews.tv/oranews/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.oranews.tv/themes/oranewstheme/assets/img/logoora.png" group-title="Shqipëria/Kosovës",Ora News
-http://145.239.2.153:8081/oranews/live/chunks.m3u8
+https://tv.oranews.tv/channelone/channelone/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://opoja.tv/wp-content/uploads/2018/10/Final-300x113.png" group-title="Shqipëria/Kosovës",Opoja
 https://54627d4fc5996.streamlock.net/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://report-tv.al/wp-content/uploads/2017/05/report_logo_qender.png" group-title="Shqipëria/Kosovës",Report-TV
@@ -287,7 +289,7 @@ http://163.172.43.207:8081/d17/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.cnews.fr/sites/all/themes/directmatinv4/cnews-logo.png"  group-title="France(français)", C News
 http://163.172.43.207:8081/itele/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png"  group-title="France(français)", CGTN Français
-http://39.135.16.142:6060/PLTV/88888888/224/3221225665/1/index.m3u8?fmt=ts2hls
+http://220.158.149.28:8180/live/TV00000000000000000016@HHZT
 #EXTINF:-1 tvg-logo="https://www.d5tv.fr/fond-d5-v3.png"  group-title="France(français)", D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg"  group-title="France(français)", EMCI TV Paris
