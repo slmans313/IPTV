@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://www.universfreebox.com/IMG/artoff34756.png" group-title="News",Africanews 
 https://stream-02.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irWl254tlO2rA25dD5clHNTI)/dm/3/x6i7vf8/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News", Euronews 
-https://stream-02.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa15Y2-Ib_AsvclaJ2XUMh4M)/dm/3/x2j4h4m/s/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa15Y2-Ib_AsvclaJ2XUMh4M)/dm/3/x2j4h4m/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/ABCN.png" group-title="News",ABC Australia
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="News",ABC News
@@ -96,12 +96,18 @@ https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7
 http://185.254.160.4:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="Entertainment",E4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Entertainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/723_300.png" group-title="Entertainment", Diva
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="Entertainment",E4
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HGTV.us.png" group-title="Entertainment",HGTV
 https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="Entertainment",HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="Entertainment", KIX
+http://45.126.83.51/uq2663/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/onlymotors/wp-content/uploads/sites/19/2017/08/onlymotorsLOGO2.png" group-title="Entertainment", Only Motor
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="Entertainment",Pick
@@ -128,6 +134,8 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/TBS.mx.png" group-title="Entertainment",TBS
 https://cvtv.cvalley.net/hls/TBSHD/TBSHD.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/THRILL.png" group-title="Entertainment", Thrill
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/TNT.pl.png" group-title="Entertainment",TNT
 https://cvtv.cvalley.net/hls/TNTHD/TNTHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/USANetwork.us.png" group-title="Entertainment",USA Network
@@ -139,6 +147,27 @@ http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Newwebtrans.png" group-title="Entertainment",Zee World
 http://pockettv.xyz/api/zee.m3u8?c=world
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movies",&Flix
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="Movies",&Prive
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/182_Cinemaworld_HD-01.png" group-title="Movies",Cinema World
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="Movies",Mafa Short Flim
+https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Lifetime.th.png" group-title="Movies", Lifetime
+http://203.154.243.31:15002
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Grit.us.png" group-title="Movies", Grit
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/True_Movies.png/200px-True_Movies.png" group-title="Movies",True Movies
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="Movies",The Works
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids/Animation", AniPlus
+http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids/Animation", Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="Kids/Animation", Duck TV
@@ -156,7 +185,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/DaVinciLearning.ru.png" group-title="Learning",Da Vinci Learning
+http://45.126.83.51/uq2663/h/h01/index2.m3u8
 #EXTINF:-1 tvg-logo="http://www.docuboxlive.com/img/docu_logo.png" group-title="Learning",Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/History.pl.png" group-title="Learning",History
@@ -173,24 +204,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning", UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="Movies",&Flix
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="Movies",&Prive
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="Movies",Mafa Short Flim
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Lifetime.th.png" group-title="Movies", Lifetime
-http://203.154.243.31:15002
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Grit.us.png" group-title="Movies", Grit
-https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/True_Movies.png/200px-True_Movies.png" group-title="Movies",True Movies
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="Movies",The Works
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="Music",9XO
 http://pockettv.xyz/api/zee.m3u8?c=9xo
