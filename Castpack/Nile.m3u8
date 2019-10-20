@@ -38,8 +38,10 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
 http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/DMC-Drama-webtvonlive-com.jpg" group-title="Egypt (مَصر)", DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="Egypt (مَصر)",Nile Drama
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/eg/NileDrama.eg.png" group-title="Egypt (مَصر)",Nile Drama
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/eg/NileCinema.eg.png" group-title="Egypt (مَصر)",Nile Cinema
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="Egypt (مَصر)", MBC Masr
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
 #EXTINF:-1 tvg-logo="http://tunisvista.com/medias/mekameleen-tv-live-online-egypt.jpg" group-title="Egypt (مَصر)", Mekameleen News
@@ -58,6 +60,8 @@ http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="Egypt (مَصر)",Rotana Music
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF:-1 tvg-logo="https://www.elbalad.news/themes/balad/images/sada.png" group-title="Egypt (مَصر)",Sada Elbalad
+http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.watanegypt.tv/design/home/img/logo.png" group-title="Egypt (مَصر)",Watan
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 
