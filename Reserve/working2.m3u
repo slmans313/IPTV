@@ -18,10 +18,20 @@ http://170.250.96.20:8117/streams/TBS.m3u8
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea(한국어)", MBC
 http://122.129.115.21:1935/edgedol/_definst_/tao122/playlist.m3u8
 
-https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 http://220.158.149.14:9999/live/TV00000000000000000018@HHZT;LIVE
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar
+http://202.80.222.170/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Netmediatama.png/300px-Netmediatama.png" group-title="Indonesia",Net
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"group-title="Indonesia",SCTV
+http://live02.mncnow.id/sctv/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="Indonesia", Trans TV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+#EXTINF:0 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia", Trans 7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Pilipinas",Island Living on BEAM
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
