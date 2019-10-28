@@ -232,8 +232,6 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/KKR-TV-webtvonlive-com.jpg" group-title="Denmark (Danmark)", KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://omtv2.tv2.dk/fileadmin/_processed_/csm_news_positiv_RGB_4c042838f6.png" group-title="Denmark (Danmark)", TV2 News
-https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
 #EXTINF:-1 tvg-logo="http://businesscenterbornholm.dk/wp-content/uploads/2018/06/tv2-bornholm.png" group-title="Denmark (Danmark)", TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/1ace70ae36f5f9b12d2fe57ef1b3c6b5.jpeg" group-title="Denmark (Danmark)", TV 2 Fyn
@@ -244,9 +242,14 @@ http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/1_2kojfk4m/sd/6000/t/3s
 https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/a9/2b/4f/a92b4fe3-a3b8-8e0d-b61a-f2838f6d3b18/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/246x0w.jpg" group-title="Denmark (Danmark)", TV2 Syn
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://www.tv2nord.dk/files/styles/fixed_width_medium_2x/public/media/2015/39/salto_logo_roed_0.jpg" group-title="Denmark (Danmark)", TV 2 Nord Salto
+https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://www.tv2east.dk/files/media/2019/15/tv2_oest_logo_stor.jpg" group-title="Denmark (Danmark)", TV 2 Øst
+http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/-YKISZ71uQSojctuBa_EhQ/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://mediajob.pr-produktnyt.dk/xdoc/4/cust/2973/logo.png" group-title="Denmark (Danmark)", TV 2 Østjylland
+https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kringvarp_foroya.jpg/300px-Kringvarp_foroya.jpg" group-title="Denmark (Danmark)", Kringvarp Føroya
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FranceO.fr.png"  group-title="France(français)", France Ô
 http://163.172.43.207:8081/franceo/live/playlist.m3u8
@@ -314,14 +317,12 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 http://163.172.43.207:8081/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Mezzo.fr.png" group-title="France(français)",Mezzo
 http://92.43.140.249/s35/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Numero23.fr.png" group-title="France(français)",Numero23
+http://163.172.43.207:8081/numero23/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.monacochannel.mc/var/monaco/storage/images/media/monaco-channel/icones-chaines/logo-monaco-info-2018/5096065-2-fre-FR/Logo-Monaco-Info-2018_40x40.png" group-title="France(français)",Monaco Info
 http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/NRJ12.fr.png" group-title="France(français)",NRJ 12
 http://163.172.43.207:8081/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCdecouverte.fr.png" group-title="France(français)", RMC Découverte
-http://90.23.238.199:2002/bysid/2564
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCdecouverte.fr.png" group-title="France(français)", RMC Story
-http://90.23.238.199:2002/bysid/2565
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/200px-RT-France-logo.svg.png" group-title="France(français)", RT français
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_T%C3%A9b%C3%A9o.svg/1200px-Logo_T%C3%A9b%C3%A9o.svg.png" group-title="France(français)",Tébéo
