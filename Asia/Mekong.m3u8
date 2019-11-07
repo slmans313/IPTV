@@ -80,6 +80,8 @@ https://edge1a.v2h-cdn.com/appt7/WSM.stream_720p/chunklist_w1940196884.m3u8
 https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="ประเทศไทย", MONO 29
 http://183.182.100.184/live/mono29/index.m3u
+#EXTINF:0 tvg-logo="http://www.nattv.com/images/lg2.gif" group-title="ประเทศไทย",NATTV
+http://162.212.178.70:4842/bysid/3
 #EXTINF:0 tvg-logo="https://www.nationtv.tv/main/assets/images-v5/logo.png" group-title="ประเทศไทย",Nation TV
 http://live.nationtv.tv/hls/ntv_th_hd.m3u8
 #EXTINF:0 tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="ประเทศไทย", News 1
@@ -98,6 +100,10 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.smartsme.co.th/images/logo/logo_SmartSME.png" group-title="ประเทศไทย" ,Smart SME TV
 https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/nxAsRw3.jpg" group-title="ประเทศไทย",Sat V 
+http://stream.rs.co.th/you-hi/index.m3u8
+#EXTINF:0 tvg-logo="https://image.roku.com/channels/images/03e438edbbc9469dbb981bbc7c28280b-hd.jpg" group-title="ประเทศไทย", TATV
+http://162.212.178.70:4842/bysid/6
 #EXTINF:0 tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="ประเทศไทย",Thairath
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png" group-title="ประเทศไทย",  Thai Baan
@@ -116,14 +122,11 @@ http://183.182.100.184/live/true4u/index.m3u
 https://stream-03.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8h_EN6-sEdFJ4rXDYUEEljE)/dm/3/x6g9qjj/live.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png" group-title="ประเทศไทย", White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/nxAsRw3.jpg" group-title="ประเทศไทย",Sat V 
-http://stream.rs.co.th/you-hi/index.m3u8
+#EXTINF:0 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png, Voice TV
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.zabbtv.com/images/head_zabbtv.jpg" group-title="ประเทศไทย", Zabb TV
 http://live.thaitvstream.com/play/a071260/index.m3u8
-#EXTINF:0 tvg-logo="https://image.roku.com/channels/images/03e438edbbc9469dbb981bbc7c28280b-hd.jpg" group-title="ประเทศไทย", TATV
-http://162.212.178.70:4842/bysid/6
-#EXTINF:0 tvg-logo="http://www.nattv.com/images/lg2.gif" group-title="ประเทศไทย",NATTV
-http://162.212.178.70:4842/bysid/3
+
 
 #EXTINF:-1  tvg-logo="http://tbcccambodia.org/images/upload/members/12-Sep-2016/KCS.png" group-title="Cambodia(កម្ពុជា ) ", TV3
 http://43.245.34.2:9000/live/TV3KH.m3u8
