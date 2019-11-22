@@ -196,6 +196,10 @@ http://61.58.60.230:9319/live/203.m3u8
 http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="臺灣", 靖天日本
 http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040645_77060.jpg" group-title="臺灣", 靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040653_18506.jpg" group-title="臺灣", 靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="藏语台",安多卫视
 http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
@@ -208,8 +212,6 @@ http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png/240px-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="电影",中国电影频道
 http://61.58.60.230:9319/live/225.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="电影",天映频道
-http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="电影",Newtv 动作电影
 http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P426225Q10-L.jpg" group-title="电影",Newtv 搏击
@@ -230,8 +232,6 @@ http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="少儿", BabyFirst 频道
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:0 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="少儿",妙米
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="少儿", 哈哈炫动
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="少儿", 卡酷少儿
@@ -244,10 +244,6 @@ http://112.50.243.8/PLTV/88888888/224/3221226746/3.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="少儿",动漫秀场
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040645_77060.jpg" group-title="少儿", 靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040653_18506.jpg" group-title="少儿", 靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="少儿",黑莓动画
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
