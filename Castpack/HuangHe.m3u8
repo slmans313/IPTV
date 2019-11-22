@@ -136,7 +136,6 @@ http://218.102.66.166:8001/bysid/83
 http://218.102.66.166:8001/bysid/85
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="香港/粵語",TVB 星河
 http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000015391574&ct=17984&tsum=168fc6ebb3cd296ba6444593acba415d
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="香港/粵語", 香港开電視台
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:0 tvg-logo="https://viu.tv/public/v2/live/mobile/ViuTVLogo_copy.png" group-title="香港/粵語",ViuTV
@@ -169,7 +168,8 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="臺灣", 三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/next-tv-live.jpg group-title="臺灣", 壹新聞
+http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ttv.com.tw/finance/images/TTV-Finance_logo200.png" group-title="臺灣",台視财经 
 http://ad.mysisli.com/live/TTVHD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="臺灣", 大愛一台
