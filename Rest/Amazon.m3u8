@@ -58,7 +58,12 @@ http://136.243.3.70:1935/PalenqueTv/PalenqueTv/palylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/boliviatv-2.png" group-title="Bolivia",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Brasil",Globo Sp
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Gloob.br.png" group-title="Brasil",Gloob
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Multishow.br.png",Multishow Chanel
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="Brasil",RedeTV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png" group-title="Brasil",SBT
@@ -189,10 +194,14 @@ https://watch.haitilive.net/FreeTV/!/tva30/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/35957_logo_azteca_honduras4.png" group-title="Honduras",Azteca Honduras
 http://aztecalive-lh.akamaihd.net:80/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/06/Canal-5-Honduras-200x180.png" group-title="Honduras", Canal 5 Honduras
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 tvg-logo="https://hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="Honduras",HCH
 http://stream.innovandote.com/hch/hch/chunklist_w2132733389.m3u8
 #EXTINF:-1 tvg-logo="http://www.sitvhn.com/img/siTVlogo.png" group-title="Honduras",SI TV
 https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tsi-honduras-logo-A80A69CD6F-seeklogo.com.png" group-title="Honduras",TSI 
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 #EXTINF:-1 tvg-logo="http://dazplayer.com/img_chh/ten_ecuador.png" group-title="Honduras", TEN
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
 #EXTINF:-1 tvg-logo="http://www.qhubochano.com/wp-content/uploads/2018/09/Logo.png" group-title="Honduras", Q'hubo
