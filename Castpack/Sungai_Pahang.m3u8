@@ -43,7 +43,8 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVm9hHR7jXSHjQpof6
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVjUSyQchcz6UnCCoFJoZVo)/dm/3/x6qqja6/live.m3u8
 #EXTINF:0 tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="Singapore/Malaysia",Drama Sangat 
 https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lePqfJHgrHb4UPZApKwzZs)/dm/3/x6zvnex/live.m3u8
-
+#EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Singapore/Malaysia", TVIKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Singapore/Malaysia",Astro AEC
 http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000016302253&ct=17975&tsum=49305fbef37ad7f136193102fbfebea1
@@ -73,13 +74,16 @@ http://45.126.83.51/uq2663/h/h37/01.m3u8
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="Singapore/Malaysia",K+
 http://45.126.83.51/uq2663/h/h08/index.m3u8
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-RwzegzN6MTY/VOuDg0Sqw6I/AAAAAAAAEqI/pyujuSj90rc/s1600/LBS%2BTV%2BK-Drama%2BLive%2BSTreaming.png" group-title="Singapore/Malaysia",LBS K-Drama
+http://210.210.155.35:80/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="Singapore/Malaysia",Sony One
-http://50.7.161.82:8278/SetOne/playlist.m3u8?tid=m02000000000014244954&ct=17982&tsum=2a160ea054855b501a39a31ef6e18cb8
+http://45.126.83.51/uq2663/h/h143/index.m3u8
+#EXTINF:0 tvg-logo=https://static.iptv-epg.com/id/GEMChannel.id.png" group-title="Singapore/Malaysia", Sony Gem
+http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/240?cb=20170606050150" group-title="Singapore/Malaysia", Thrill
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/435_300.png" group-title="Singapore/Malaysia",TVN Movies
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
-#EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Singapore/Malaysia", TVIKIM
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-
 
 #EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
