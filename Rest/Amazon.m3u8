@@ -130,13 +130,13 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/250px-Multimedios_Television.png" group-title="Costa Rica",Multimedios Costa Rica
 http://mdstrm.com:80/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/Cubavision2008.pn" group-title="Cuba",Cubavisión
-http://76.110.142.23:28011
-
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nos_Pais_Logo.svg/1200px-Nos_Pais_Logo.svg.png" group-title="Curaçao",Nos Païs
 http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w1798703532_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://telecuracao.com/wp-content/themes/telecurazao-mk01-theme/images/logo-small.png" group-title="Curaçao",Tele Curaçao
 http://api.streann.com:8080/loadbalancer-dev/services/public/channels/56992db2e4b045bf250ba13c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvdirect13.com/img/tvdirect13-w.png" group-title="Curaçao",TV Direct 13
+https://edge1.tvdirect13.com/live/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="http://wowelsalvador.com/imagenes/logooff.fw.png" group-title="El Salvador",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -212,9 +212,6 @@ http://181.189.225.36:8990/UneTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="Jamaica",Trace Tropical
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/10/rms-24-7.png" group-title="México",24/7 RMS
-http://76.110.142.23:28004
 #EXTINF:-1 tvg-logo="https://amastv.com/img/logo_amas.png" group-title="México",A+ TV 7.2
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="México", ADN 40
@@ -329,10 +326,6 @@ http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Nevis_TV_2015.jpg" group-title="Saint Kitts and Nevis",Nevis Television
 http://31.14.40.142:544/liveTrans/ngrp:NTvDirect_all/chunklist_w2112971763_b1365536.m3u8
 
-#EXTINF:0 tvg-logo="https://www.vtv.com.uy/wp-content/uploads/2013/11/Logo1.png" group-title="Uruguay",VTV
-http://76.110.142.23:28001
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/800px-VTV%2BUruguay.svg.png" group-title="Uruguay",VTV+
-http://76.110.142.23:28002
 #EXTINF:0 tvg-logo="https://sc2.elpais.com.uy/images/default/og_ovacion.jpg" group-title="Uruguay", Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
@@ -340,9 +333,5 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Venezuela", Promar
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.televen.com/wp-content/uploads/2016/02/LOGO-TELEVEN-HOME-1.png" group-title="Venezuela",Televen
-http://76.110.142.23:28012
 #EXTINF:-1 tvg-logo="https://www.telesurenglish.net/export/sites/telesur/arte/Texto-telesur-hd.png_1571705870.png" group-title="Venezuela", Telesur
 http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_de_Venevisi%C3%B3n.svg/800px-Logo_de_Venevisi%C3%B3n.svg.png" group-title="Venezuela", Venevisión
-http://76.110.142.23:28005
