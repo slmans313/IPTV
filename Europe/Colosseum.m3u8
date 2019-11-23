@@ -680,6 +680,10 @@ http://83.56.24.104:9981/stream/channelid/1329177212?ticket=E31854C8621FC2E0886A
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/846763000275107840/0enf3YUj_400x400.jpg" group-title="Sweden(Sverige)", DI TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ch/RTS1.ch.png" group-title="Switzerland", RTS 1
+http://163.172.43.207:8081/rts1/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ch/RTS2.ch.png" group-title="Switzerland", RTS 2
+http://163.172.43.207:8081/rts2/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_Tele_M1.svg/1200px-Logo_Tele_M1.svg.png" group-title="Switzerland", Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="Switzerland", Canal 9
