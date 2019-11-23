@@ -128,6 +128,8 @@ http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 https://stream.ecable.tv/africancine/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/182_Cinemaworld_HD-01.png" group-title="Movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Movies",J'Go FMP
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Lifetime.th.png" group-title="Movies", Lifetime
 http://203.154.243.31:15002
 #EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="Movies",Mafa Short Flim
@@ -140,8 +142,22 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="Movies",The Works
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/435_300.png" group-title="Movies",TVN Movies
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2016/04/CCTV-6-logo-2016-640x480.png" group-title="Movies",中国电影频道
+http://61.58.60.230:9319/live/225.m3u8
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies",黑莓电影
+http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",天映频道
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_100.png" group-title="Movies", 天映经典
+http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000015419636&ct=18077&tsum=89c0763b0ca173060b8de9cd9b318ead
+#EXTINF:-1  tvg-logo="https://www.nihon-eiga.com/common/img/neiga_top_og_1812.jpg" group-title="Movies",BS 日本映画
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8
+#EXTINF:-1  tvg-logo="https://www.nautiljon.com/images/societes/00/07/wowow_prime_7570.jpg" group-title="Movies", WOWOW プライム
+http://203.162.235.41:16916
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Kids/Animation", Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
@@ -153,12 +169,8 @@ https://194.204.46.137/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_200
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="Kids/Animation", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Kids/Animation",Newtv 动作电影
-http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040645_77060.jpg" group-title="Kids/Animation", 靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040653_18506.jpg" group-title="Kids/Animation", 靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:0 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids/Animation",妙米
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Kids/Animation", Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png" group-title="Kids/Animation", PBS Kids
@@ -167,6 +179,22 @@ http://190.80.3.28/PBS/PBS.isml/index.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="Kids/Animation", BabyFirst 频道
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids/Animation", 哈哈炫动
+http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="Kids/Animation", 卡酷少儿
+http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="Kids/Animation", 优漫卡通
+http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e4/Aniworld_logo.png/227px-Aniworld_logo.png" group-title="Kids/Animation", 金鹰卡通
+http://112.50.243.8/PLTV/88888888/224/3221226746/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="Kids/Animation",嘉佳卡通
+http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="Kids/Animation",动漫秀场
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Kids/Animation",黑莓动画
+http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
@@ -184,6 +212,26 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning", UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/jyjs.jpg" group-title="Learning",金鹰纪实
+http://39.135.36.158:18890/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011724&owchid=ystenlive&owsid=1106497909461431848&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhGRixuNJLUNu2DBYpc6QsaE3%2flx5n8V0jfiNYU%2fTgbW1jSw07dYEaQMRlC6v1JMQu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/Doc_Channel.jpg" group-title="纪实片",纪实频道
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
+#EXTINF:-1 tvg-logo="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=2931015d91cad1c8d0bbfb2147050034/9922720e0cf3d7ca62b42e04f61fbe096b63a905.jpg" group-title="Learning",全纪实
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="Learning",Newtv 精品记录
+http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="Learning", CETV1
+http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="Learning", CETV2
+http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv3.jpg" group-title="Learning", CETV3
+http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="Learning", CETV4
+http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/1.m3u8
+#EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/78078440198.jpg" group-title="Learning", 山东教育
+http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/ICS_logo.png" group-title="Learning",ICS 上海外语
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="Music",9XO
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
