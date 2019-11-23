@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국", MBC
+http://211.54.140.36/hdmi
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/SBS_Plus_logo.png/582px-SBS_Plus_logo.png" group-title="한국", SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="한국", SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/811423180854149121/7iTj7-5h_400x400.jpg"  group-title="한국",Korean Central Television 
+https://tv.nknews.org/tvhls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Channels_ebs1.png" group-title="한국", EBS 1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="한국", EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="한국", EBSi
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title="한국",  EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/kq2wSR9.png" group-title="한국", EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.billboard.com/files/styles/landscape_768/public/media/HallyPOP-Logo-2018-billboard-1548.jpg" group-title="한국",HallyPOP
+https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5sVA9J.png" group-title="한국", TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
+#EXTINF:-1 logo="https://image.ytn.co.kr/general/jpg/mp3/google/logo.png"  group-title="한국",YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 logo="https://m.science.ytn.co.kr/img/common/science_logo_1.png"  group-title="한국",YTN 사이언스
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ytn.co.kr/img/global/top_tit.jpg" group-title="한국",YTN 코리안
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="日本",NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本",NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本", NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hC8bRk.png" group-title="日本",NHK 华语视界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003461/nhkwlive-zh/index_bitrate1180K.m3u8
+#EXTINF:-1 tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本", TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg" group-title="日本", BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="日本", テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Logo_asahi.png" group-title="日本", BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png" group-title="日本",フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-logo="http://www.bsfuji.tv/top/common/img/topparts/logo_bsf181201.png" group-title="日本",BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png" group-title="日本", テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg" group-title="日本", BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日本", BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1  tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nippon_tv_logo_2014.png" group-title="日本", 日テレ
+http://203.162.235.41:16905
+#EXTINF:-1  tvg-logo="https://digitalentertainmentmarketing.files.wordpress.com/2014/11/digital-entertainment-post-ntv-nippon-tv-japan.png" group-title="日本",日テレ NEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo="https://www.eigeki.com/hp/eigeki/img/img_logo_no_reserve.png" group-title="日本",BS 衛星劇場
+http://192.240.127.34:1935/live/cs11.stream/play.m3u8
+#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="日本",CGN 日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://jp.history.com/wp-content/themes/historychannel/cmn/img/logo.png" group-title="日本", テレビ歴史
+http://192.240.127.34:1935/live/cs14.stream/play.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="日本", ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
