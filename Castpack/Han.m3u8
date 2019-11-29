@@ -1,11 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="한국",KBS 1
+http://211.245.55.198:22514/m2u/239.192.67.100:49220 
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="한국",KBS 2
+http://211.245.55.198:22514/m2u/239.192.67.99:49220
+
+
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국", MBC
 http://211.54.140.36/hdmi
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="한국",SBS
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/SBS.kr.png group-title="한국",SBS
 http://211.245.55.198:22514/m2u/239.192.67.98:49220
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/SBS_Plus_logo.png/582px-SBS_Plus_logo.png" group-title="한국", SBS Plus
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/SBSPlus.kr.png" group-title="한국", SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="한국", SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
@@ -24,8 +30,10 @@ http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.billboard.com/files/styles/landscape_768/public/media/HallyPOP-Logo-2018-billboard-1548.jpg" group-title="한국",HallyPOP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5sVA9J.png" group-title="한국", TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 #EXTINF:-1 logo="https://image.ytn.co.kr/general/jpg/mp3/google/logo.png"  group-title="한국",YTN
