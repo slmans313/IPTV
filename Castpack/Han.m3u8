@@ -22,9 +22,9 @@ http://211.245.55.198:22514/m2u/239.192.57.8:49220
 
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국", MBC
 http://211.54.140.36/hdmi
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCDrama.kr.png" group-title="한국", MBC Drama
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/MBC_DRAMANET.png group-title="한국", MBC Drama
 http://211.245.55.198:22514/m2u/239.192.48.6:49220
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCEvery1.kr.png" group-title="한국",MBC Every1
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/MBC_EVERY1@4x.png" group-title="한국",MBC Every1
 http://211.245.55.198:22514/m2u/239.192.50.6:49220
 #EXTINF:-1 tvg-logo="https://file.namu.moe/file/d7082e15b2d1d2a891243d0a31e8bcd2c760b5b6f46c3ade6ec3b4740da8e0c0.png" group-title="한국",MBC ON
 http://211.245.55.198:22514/m2u/239.192.48.7:49220
@@ -36,12 +36,8 @@ http://211.245.55.198:22514/m2u/239.192.69.75:49220
 
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="한국",SBS
 http://211.245.55.198:22514/m2u/239.192.67.98:49220
-#EXTINF:-1 logo="https://y4j7y8s9.ssl.hwcdn.net/wp-content/uploads/2018/11/i13472558570-1-750x375.jpg" group-title="한국",SBS Afreeca
-http://211.245.55.198:22514/m2u/239.192.70.37:49220
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/SBSCNBC.kr.png" group-title="한국",SBS CNBC
 http://211.245.55.198:22514/m2u/239.192.53.8:49220
-#EXTINF:-1 logo="https://newsimg.sedaily.com/2019/09/18/1VOAL1XR4P_2.jpg" group-title="한국",SBS F!L
-http://211.245.55.198:22514/m2u/239.192.81.65:49220
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/SBSfunE.kr.png" group-title="한국",SBS fun E
 http://211.245.55.198:22514/m2u/239.192.55.3:49220
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/SBSMTV.kr.png" group-title="한국",SBS MTV
@@ -73,6 +69,8 @@ http://211.245.55.198:22514/m2u/239.192.67.227:49220
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",HallyPOP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Mplex.kr.png" group-title="한국",Mplex
+http://211.245.55.198:22514/m2u/239.192.64.10:49220
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OCN.kr.png" group-title="한국",OCN
 http://211.245.55.198:22514/m2u/239.192.67.226:49220
@@ -81,6 +79,15 @@ http://211.245.55.198:22514/m2u/239.192.67.226:49220
 http://211.245.55.198:22514/m2u/239.192.67.228:49220
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Screen.kr.png" group-title="한국",Screen
 http://211.245.55.198:22514/m2u/239.192.67.229:49220
+
+
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/tvN.kr.png" group-title="한국",tvN
+http://211.245.55.198:22514/m2u/239.192.53.7:49220
+#EXTINF:-1 logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636422945132629057.png" group-title="한국",OtvN
+http://211.245.55.198:22514/m2u/239.192.53.10:49220
+#EXTINF:-1 logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png" group-title="한국",XtvN
+http://211.245.55.198:22514/m2u/239.192.57.6:49220
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5sVA9J.png" group-title="한국", TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
