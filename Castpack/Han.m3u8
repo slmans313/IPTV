@@ -101,10 +101,12 @@ http://211.245.55.198:22514/m2u/239.192.57.6:49220
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/YTN.kr.png"  group-title="한국",YTN
+http://211.245.55.198:22514/m2u/239.192.47.7:49220
+#EXTINF:-1 logo="https://m.ytn.co.kr/img/live/live_dmb.jpg"  group-title="한국",YTN DMB
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1 logo="https://m.science.ytn.co.kr/img/common/science_logo_1.png"  group-title="한국",YTN 사이언스
+#EXTINF:-1 logo="https://m.science.ytn.co.kr/img/common/science_logo_1.png"  group-title="한국",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.iptv-epg.com/kr/YTNLife.kr.png" group-title="한국",YTN 코리안
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="한국",YTN Korean
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="日本",NHK総合
