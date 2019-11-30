@@ -48,37 +48,45 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Channels_ebs1.png" group-title="한국", EBS 1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBS.kr.png" group-title="한국", EBS 1
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="한국", EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="한국", EBSi
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus1.kr.png" group-title="한국", EBS+ 1
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title="한국",  EBS+ 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus2.kr.png" group-title="한국",  EBS+ 2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/kq2wSR9.png" group-title="한국", EBSe
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",Ch CGV
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/CHANNEL_A@2x.png" group-title="한국", Channel A
+http://211.245.55.198:22514/m2u/239.192.47.4:49220
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/ChannelCGV.kr.png" group-title="한국",Ch CGV
 http://211.245.55.198:22514/m2u/239.192.67.227:49220
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/CineF.kr.png" group-title="한국",Cinef
+http://211.245.55.198:22514/m2u/239.192.69.36:49220
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",HallyPOP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/M_NET@2x.png" group-title="한국",Mnet
+http://211.245.55.198:22514/m2u/239.192.48.5:49220
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Mplex.kr.png" group-title="한국",Mplex
 http://211.245.55.198:22514/m2u/239.192.64.10:49220
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OCN.kr.png" group-title="한국",OCN
 http://211.245.55.198:22514/m2u/239.192.67.226:49220
+#EXTINF:-1 logo="https://sorimon.com/image/channel/OLIVE@2x.png" group-title="한국",Olive
+http://211.245.55.198:22514/m2u/239.192.58.10:49220
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",Super Action
 http://211.245.55.198:22514/m2u/239.192.67.228:49220
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Screen.kr.png" group-title="한국",Screen
 http://211.245.55.198:22514/m2u/239.192.67.229:49220
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/SKY_DRAMA@2x.png" group-title="한국",sky Drama
+http://211.245.55.198:22514/m2u/239.192.64.14:49220
 
 
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/tvN.kr.png" group-title="한국",tvN
@@ -89,14 +97,14 @@ http://211.245.55.198:22514/m2u/239.192.53.10:49220
 http://211.245.55.198:22514/m2u/239.192.57.6:49220
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G5sVA9J.png" group-title="한국", TV Chosun
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/TV_CHOSUN@2x.png" group-title="한국", TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 
 #EXTINF:-1 logo="https://image.ytn.co.kr/general/jpg/mp3/google/logo.png"  group-title="한국",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1 logo="https://m.science.ytn.co.kr/img/common/science_logo_1.png"  group-title="한국",YTN 사이언스
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ytn.co.kr/img/global/top_tit.jpg" group-title="한국",YTN 코리안
+#EXTINF:-1 tvg-name="" tvg-logo="https://ytn.co.kr/img/global/top_tit.jpg" group-title="한국",YTN 코리안
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="日本",NHK総合
