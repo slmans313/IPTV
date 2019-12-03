@@ -182,7 +182,9 @@ http://211.245.55.198:22514/m2u/239.192.67.162:49220
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/IBSports.kr.png"  group-title="Sports",IB Sports
 http://211.245.55.198:22514/m2u/239.192.57.7:49220
 
-#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2014/05/golf_render_-rgb.png"  group-title="Sports",NBC Golf
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png"  group-title="Sports",NBC Golf
+http://peer3.savitar.tv/GOLF/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png  group-title="Sports",NBC Golf Japan
 http://203.154.243.89:1208
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png"  group-title="Sports", ゴルフネットワーク
 http://203.162.235.41:16924
@@ -254,14 +256,10 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/192
 http://45.126.83.51/uq2663/h/h11/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/DIY_Network_0.png" group-title="Entertainment", DIY
 http://peer3.savitar.tv/DIY/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png" group-title="Entertainment",E!
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png" group-title="Entertainment",E!
 http://peer1.savitar.tv/E/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png" group-title="Entertainment",E! Asia
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png" group-title="Entertainment",E! Asia
 http://210.210.155.35/uq2663/h/h10/01.m3u8
-#EXTINF:-1 tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/onlymotors/wp-content/uploads/sites/19/2017/08/onlymotorsLOGO2.png" group-title="Entertainment", Only Motor
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="Entertainment", TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment", ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Entertainment", Fashion TV
@@ -272,10 +270,18 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png"  group-title="Entertainment", Food Network
 http://peer1.savitar.tv/FoodNetwork/myStream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/br/Lifetime.br.png" group-title="Entertainment", Lifetime
-http://203.154.243.31:15002
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Freeform.us.png" group-title="Entertainment",Freeform
+http://peer2.savitar.tv/Freeform/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png group-title="Entertainment", HGTV
+http://peer3.savitar.tv/HGTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/7c15b157-b50a-4547-877e-6a5ff7aa6bd1.png" group-title="Entertainment", Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/br/Lifetime.br.png" group-title="Entertainment", Lifetime
+http://203.154.243.31:15002
+#EXTINF:-1 tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/onlymotors/wp-content/uploads/sites/19/2017/08/onlymotorsLOGO2.png" group-title="Entertainment", Only Motor
+https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="Entertainment", TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="Entertainment",Star World
@@ -295,6 +301,10 @@ http://peer2.savitar.tv/FX/myStream/playlist.m3u8
 http://peer2.savitar.tv/FXMovie/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXX.us.png" group-title="Movies",FXX
 http://peer3.savitar.tv/FXX/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Hallmark.us.png" group-title="Movies",Hallmark Channel
+http://peer3.savitar.tv/Hallmark/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HallmarkMoviesMysteries.us.png" group-title="Movies",Hallmark Movies
+http://peer3.savitar.tv/HMM/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
 http://peer1.savitar.tv/HBO/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Movies",J'Go FMP
@@ -448,6 +458,8 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="Music",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/br/MTV.us.png" group-title="Entertainment", MTV
+http://peer3.savitar.tv/MTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTVLive.us.png" group-title="Music", MTV Live
 https://livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://dealood.com/content/uploads/images/June2019/sunburn[1]" group-title="Music",Sunburn TV
