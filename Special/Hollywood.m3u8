@@ -221,10 +221,14 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/375px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Entertainment",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/si/AMC.si.png" group-title="Entertainment", AMC
+http://peer1.savitar.tv/AMC/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Entertainment", AXN
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/AandE.au.png" group-title="Entertainment", A&E
+http://peer1.savitar.tv/AE/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/fc/0c/a1/fc0ca1a2ce9b65e40d3981320addacc9.png" group-title="Entertainment", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png" group-title="Entertainment", Blue Ant Entertainment
@@ -336,6 +340,8 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Kids/Animation",黑莓动画
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AnimalPlanet.us.png" group-title="Learning",Animal Planet
+http://peer1.savitar.tv/Animal/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
