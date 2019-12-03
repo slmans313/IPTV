@@ -43,7 +43,7 @@ https://1636691764.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HLN.us.png" group-title="News",HLN
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/mono.m3u8
+http://peer2.savitar.tv/HLN/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.presstv.com/custom/images/site/LOGO.gif" group-title="News",IRIB Press TV
 https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.licensedtolie.com/wp-content/uploads/1280px-I24NEWS_logo.svg_.png" group-title="News",Israel 24
@@ -109,6 +109,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGEA7rM0sKrWVSAO0hcwXGK160414/ELMThTOIE4lvUg5gDa6qYf0Z160414_1460628727.png" group-title="Sports",CCTV-5+ 体育赛事
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sports", NBA TV
+http://peer2.savitar.tv/NBA/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports", Premier Football 1
 http://119.59.116.83:8081/4k/t1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports", Premier Football 2
@@ -125,6 +127,8 @@ https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_062.png" group-title="Sports",True Sport HD4
 https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" group-title="Sports",WWE
+http://peer1.savitar.tv/WWE/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Sports",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -336,6 +340,8 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
 http://203.154.243.31:15001
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/si/DiscoveryScience.si.png" group-title="Learning",Discovery Science
+http://peer2.savitar.tv/Science/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.docuboxlive.com/img/docu_logo.png" group-title="Learning",Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
