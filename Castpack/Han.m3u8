@@ -4,7 +4,7 @@
 https://tv.nknews.org/tvhls/stream.m3u8
 
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="한국",KBS 1
-http://211.245.55.198:22514/m2u/239.192.67.100:49220 
+http://139.99.136.95:2306/kbs1/video.m3u8
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="한국",KBS 2
 http://211.245.55.198:22514/m2u/239.192.67.99:49220
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/KBSDrama.kr.png" group-title="한국",KBS Drama
@@ -46,6 +46,11 @@ http://211.245.55.198:22514/m2u/239.192.55.4:49220
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="한국", SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+
+#EXTINF:-1 logo="https://sorimon.com/image/channel/JTBC.png" group-title="한국",JTBC
+http://139.99.136.95:2306/jtbc/video.m3u8
+#EXTINF:-1 logo="https://mqa.oksusu.com/public/common/img/logo/nsepg_874.png" group-title="한국",JTBC 2
+http://139.99.136.95:2306/jtbc2/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBS.kr.png" group-title="한국", EBS 1
