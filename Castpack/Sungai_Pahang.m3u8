@@ -87,8 +87,8 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Indonesia",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar
-http://delivery-2.macan.live/stream/id_indosiar/index.m3u8?token=3kvMSffD
+#EXTINF:0 tvg-logo="https://www.indosiar.com/assets/logo.png group-title="Indonesia",Indosiar
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="Indonesia",I News
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",Kompas TV
@@ -99,7 +99,7 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:0 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia",Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1650266961_b1492000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Netmediatama.png/300px-Netmediatama.png" group-title="Indonesia",Net
+#EXTINF:0 tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Indonesia",Net
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
 #EXTINF:0 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
@@ -125,10 +125,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Indonesia",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/375px-Rajawali_Televisi.svg.png" group-title="Indonesia", RTV
-http://202.80.222.171:80/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TV One
-http://202.80.222.130/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png" group-title="Indonesia",Bali TV
