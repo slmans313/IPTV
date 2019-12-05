@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Korean_central_tv.png/revision/latest?cb=20121202094345"  group-title="한국",Korean Central Television 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Korean_central_tv.png/revision/latest?cb=20121202094345"  group-title="한국",Korean Central Television 
 https://tv.nknews.org/tvhls/stream.m3u8
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="한국",KBS 1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="한국",KBS 1
 http://139.99.136.95:2306/kbs1/video.m3u8
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="한국",KBS 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="한국",KBS 2
 http://139.99.136.95:2306/kbs2/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBSNSports.kr.png"  group-title="한국",KBS N Sports
 http://139.99.136.95:2306/kbsnsports/video.m3u8
