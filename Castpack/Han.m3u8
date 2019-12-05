@@ -18,11 +18,11 @@ http://139.99.136.95:2306/mbcsports2/video.m3u8
 http://139.99.136.95:2306/mbcsports/video.m3u8
 
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="한국",SBS
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="한국",SBS
 http://139.99.136.95:2306/sbs/video.m3u8
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/SBSPlus.kr.png" group-title="한국", SBS Plus
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSPlus.kr.png" group-title="한국", SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="한국", SBS Star
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="한국", SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SPOTV.kr.png"  group-title="한국",SPOTV
@@ -32,20 +32,20 @@ http://139.99.136.95:2306/spotv2/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SkySports.kr.png"  group-title="한국",Sky Sports
 http://139.99.136.95:2306/skysports/video.m3u8
 
-#EXTINF:-1 logo="https://sorimon.com/image/channel/JTBC.png" group-title="한국",JTBC
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/JTBC.png" group-title="한국",JTBC
 http://139.99.136.95:2306/jtbc/video.m3u8
-#EXTINF:-1 logo="https://mqa.oksusu.com/public/common/img/logo/nsepg_874.png" group-title="한국",JTBC 2
+#EXTINF:-1 tvg-logo="https://mqa.oksusu.com/public/common/img/logo/nsepg_874.png" group-title="한국",JTBC 2
 http://139.99.136.95:2306/jtbc2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/BadukTV.kr.png" group-title="한국",바둑 TV
 http://139.99.136.95:2306/gotv/video.m3u8
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/BilliardsTV.kr.png" group-title="한국",Billiards TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/BilliardsTV.kr.png" group-title="한국",Billiards TV
 http://139.99.136.95:2306/billiards/video.m3u8
 
-#EXTINF:-1 logo="https://sorimon.com/image/channel/CHANNEL_A.png" group-title="한국",채널A
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/CHANNEL_A.png" group-title="한국",채널A
 http://139.99.136.95:2306/channela/video.m3u8
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="한국",Disney 한국
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="한국",Disney 한국
 http://139.99.136.95:2306/disney/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBS.kr.png" group-title="한국", EBS 1
@@ -56,7 +56,7 @@ http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus2.kr.png" group-title="한국",  EBS+ 2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/kq2wSR9.png" group-title="한국", EBSe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kq2wSR9.png" group-title="한국", EBSe
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
@@ -75,25 +75,25 @@ http://139.99.136.95:2306/mnet/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OCN.kr.png" group-title="한국",OCN
 http://139.99.136.95:2306/ocn/video.m3u8
-#EXTINF:-1 logo="https://sorimon.com/image/channel/OLIVE@2x.png" group-title="한국",Olive
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/OLIVE@2x.png" group-title="한국",Olive
 http://139.99.136.95:2306/olive/video.m3u8
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/SuperAction.kr.png" group-title="한국",수퍼액션 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SuperAction.kr.png" group-title="한국",수퍼액션 
 http://139.99.136.95:2306/superaction/video.m3u8
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/Tooniverse.kr.png group-title="한국",투니버스
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Tooniverse.kr.png group-title="한국",투니버스
 http://139.99.136.95:2306/tooniverse/video.m3u8
-#EXTINF:-1 logo="https://sorimon.com/image/channel/TVN.png" group-title="한국",tvN
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/TVN.png" group-title="한국",tvN
 http://139.99.136.95:2306/tvn/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/TV_CHOSUN@2x.png" group-title="한국", 조선 TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/YTN.kr.png"  group-title="한국",YTN
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/YTN.kr.png"  group-title="한국",YTN
 http://139.99.136.95:2306/ytn/video.m3u8
-#EXTINF:-1 logo="https://m.ytn.co.kr/img/live/live_dmb.jpg"  group-title="한국",YTN DMB
+#EXTINF:-1 tvg-logo="https://m.ytn.co.kr/img/live/live_dmb.jpg"  group-title="한국",YTN DMB
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/YTNScience.kr.png" group-title="한국",YTN Science
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/YTNScience.kr.png" group-title="한국",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="한국",YTN Korean
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
