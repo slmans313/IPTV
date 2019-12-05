@@ -12,6 +12,8 @@ http://139.99.136.95:2306/kbsnsports/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국", MBC
 http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-logo="https://file.namu.moe/file/d7082e15b2d1d2a891243d0a31e8bcd2c760b5b6f46c3ade6ec3b4740da8e0c0.png" group-title="한국",MBC ON
+http://139.99.136.95:2306/mbcsports2/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png"  group-title="한국",MBC Sports+
 http://139.99.136.95:2306/mbcsports/video.m3u8
 
@@ -35,6 +37,16 @@ http://139.99.136.95:2306/jtbc/video.m3u8
 #EXTINF:-1 logo="https://mqa.oksusu.com/public/common/img/logo/nsepg_874.png" group-title="한국",JTBC 2
 http://139.99.136.95:2306/jtbc2/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/BadukTV.kr.png" group-title="한국",바둑 TV
+http://139.99.136.95:2306/gotv/video.m3u8
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/BilliardsTV.kr.png" group-title="한국",Billiards TV
+http://139.99.136.95:2306/billiards/video.m3u8
+
+#EXTINF:-1 logo="https://sorimon.com/image/channel/CHANNEL_A.png" group-title="한국",채널A
+http://139.99.136.95:2306/channela/video.m3u8
+
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="한국",Disney 한국
+http://139.99.136.95:2306/disney/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBS.kr.png" group-title="한국", EBS 1
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
@@ -49,10 +61,16 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/FTV.kr.png" group-title="한국",FTV 한국
+http://139.99.136.95:2306/ftv/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="한국",HallyPOP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/M_NET@2x.png" group-title="한국",Mnet
+
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/MBN.png" group-title="한국",MNB
+http://139.99.136.95:2306/mbn/video.m3u8
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/M_NET@2x.png" group-title="한국",MNet
 http://139.99.136.95:2306/mnet/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OCN.kr.png" group-title="한국",OCN
@@ -60,10 +78,15 @@ http://139.99.136.95:2306/ocn/video.m3u8
 #EXTINF:-1 logo="https://sorimon.com/image/channel/OLIVE@2x.png" group-title="한국",Olive
 http://139.99.136.95:2306/olive/video.m3u8
 
-#EXTINF:-1 logo="https://static.iptv-epg.com/kr/tvN.kr.png" group-title="한국",tvN
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/SuperAction.kr.png" group-title="한국",수퍼액션 
+http://139.99.136.95:2306/superaction/video.m3u8
+
+#EXTINF:-1 logo="https://static.iptv-epg.com/kr/Tooniverse.kr.png group-title="한국",투니버스
+http://139.99.136.95:2306/tooniverse/video.m3u8
+#EXTINF:-1 logo="https://sorimon.com/image/channel/TVN.png" group-title="한국",tvN
 http://139.99.136.95:2306/tvn/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/TV_CHOSUN@2x.png" group-title="한국", TV Chosun
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/TV_CHOSUN@2x.png" group-title="한국", 조선 TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/YTN.kr.png"  group-title="한국",YTN
