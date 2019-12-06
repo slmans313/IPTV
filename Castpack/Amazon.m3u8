@@ -89,10 +89,12 @@ http://198.255.82.82:9088/hls/ms_cinemax.m3u8
 http://198.255.82.82:9088/hls/ms_disney_jr.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/DisneyXD.sa.png" group-title="Brasil",Disney XD Brasil
 http://198.255.82.82:9088/hls/ms_disney_xd.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="Brasil",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Brasil",Fox Sports 1 Brasil
-http://198.255.82.82:9088/hls/ms_fox_sport_1.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxsportshd_98fbc42f_880d97a04978b82e755748ba0062f2a4844d62b9.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Brasil",Fox Sports 2 Brasil
-http://198.255.82.82:9088/hls/ms_fox_sport_2.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_c2d23474605aa50ce30cd3b58879034a35d3a28b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Brasil",FX Brasil
 http://198.255.82.82:9088/hls/ms_fx.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBO2.br.png" group-title="Brasil",HBO 2 Brasil
@@ -111,6 +113,8 @@ http://198.255.82.82:9088/hls/ms_premier_2hd.m3u8
 http://198.255.82.82:9088/hls/ms_premier_3hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Premiere2.br.png" group-title="Brasil",Premiere 4
 http://198.255.82.82:9088/hls/ms_premier_4hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Premiere2.br.png" group-title="Brasil",Premiere 5
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere5_0486ffb0_a069cd8fdf631b37dc88d851c1a94349283f254d.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineAction.br.png" group-title="Brasil",Telecine Action
 http://198.255.82.82:9088/hls/ms_tc_action.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePremium.br.png" group-title="Brasil",Telecine Premium
@@ -323,6 +327,8 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 http://wowzacontrol.com:1937/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sqcs.com.mx/wp-content/uploads/2019/01/logo_radio_y_tv.png" group-title="México", SQCS
 http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Space.mx.png" group-title="México",Space
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_40235b820326bbc932b55fcaceb2b771a13dc61b/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/teleritmo/tlr-final.jpg" group-title="México",Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Telemar_Mexico.jpg" group-title="México", Telemar
