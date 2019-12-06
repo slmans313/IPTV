@@ -5,18 +5,31 @@ http://stream.mslive.in:1935/jazz/gcb577/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="Algeria(الدزاير)", Chaine Nord Africaine
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rtb.bf/wp-content/uploads/2019/08/LOgo-RTB-272-90.png" group-title="Burkina Faso", RTB
-https://edge9.vedge.infomaniak.com/livecast/rtbtvlive1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.ortb.bj/images/2017/logos/logo_ortb.png" group-title="Bénin", ORTB
+https://stream.ecable.tv/ortb/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Cameroun", Cameroon Radio TV
-http://217.160.66.104:8081/crtv/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rtb.bf/wp-content/uploads/2019/08/LOgo-RTB-272-90.png" group-title="Burkina Faso", RTB
+https://stream.ecable.tv/rtb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Cameroun", CRTV
+https://stream.ecable.tv/crtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/09/afrique_media_cm.png" group-title="Cameroun",Afrique Media
 https://stream.ecable.tv/afc/BANDAKANY.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2018/02/b_one_tv_cd.png" group-title="Cameroun",B-One
+https://stream.ecable.tv/b-one/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.stakrn.com/wp-content/uploads/boom-tv-logo.png" group-title="Cameroun",Boom TV
+https://stream.ecable.tv/boom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/7ebe5340-f30a-11e8-9f8a-e9ca4b6252dc.png" group-title="Cameroun", Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/7ebe5340-f30a-11e8-9f8a-e9ca4b6252dc.png" group-title="Cameroun", Vision 4 HD
+https://stream.ecable.tv/vision4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Congo(Kikongo)",Tracekitoko
+#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/rtnc_cd_tv.png" group-title="Kikongo",RTNC
+https://stream.ecable.tv/rtnc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Kikongo",Tracekitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tele50.net/img/logo.png" group-title="Kikongo", Tele 50
+https://stream.ecable.tv/tele50/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/AlKaheraWalNas.png" group-title="Egypt (مَصر)", Al Kahera Wal Nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
@@ -59,14 +72,23 @@ http://162.212.178.70:4842/bysid/13
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea", Televisión de Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w2108596902_b1500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Ghana_TV.png" group-title="Ghana",Ghana TV
+https://stream.ecable.tv/ghanatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.africawebtv.com/wp-content/uploads/2015/02/adomtv_logo.png" group-title="Ghana",ADOM TV
+https://stream.ecable.tv/adom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/joy_news_gh.png" group-title="Ghana",Joy News
+https://stream.ecable.tv/joynews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png" group-title="Ghana",Joy Prime
+https://stream.ecable.tv/joyprime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.africaradios.com/wp-content/uploads/2017/10/Kessben-TV.jpg" group-title="Ghana",Kessben
+https://stream.ecable.tv/kessben/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3783591_logo_resurrection_tv.png" group-title="Ghana",Resurrection TV
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sampsonamoateng.net/wp-content/uploads/2018/08/SAM-LOGO-JPEG-e1535293984113.jpeg" group-title="Ghana",SAM TV
 https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="Ghana",TV Africa
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.africawebtv.com/wp-content/uploads/2015/02/adomtv_logo.png" group-title="Ghana",ADOM TV
-http://bk7l2g37dx53-hls-live.5centscdn.com/adom/5b97b7d64a64c7cd54c18b07e93570a1.sdp/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://rtgkoloma.info/wp-content/uploads/2017/12/logofinal.jpg" group-title="Guinea (Guinée)",RTG
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
@@ -123,19 +145,21 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="Mozambique",Trace Toca
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.acnntv.com/wp-content/uploads/2018/02/428ddc9c-2e6d-47b4-aa1e-85b0f9212c7a-300x54.jpg" group-title="Nigeria(Naija)", Anglican Cable Network
+#EXTINF:-1 tvg-logo="https://www.acnntv.com/wp-content/uploads/2018/02/428ddc9c-2e6d-47b4-aa1e-85b0f9212c7a-300x54.jpg" group-title="Naija", Anglican Cable Network
 https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.bridetvstreaming.org/Logo.png" group-title="Nigeria(Naija)",Bride TV
+#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2019/01/Arewa24.png" group-title="Naija", Arewa 24
+https://stream.ecable.tv/arewa24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.bridetvstreaming.org/Logo.png" group-title="Naija",Bride TV
 https://streaming.viewsat.eu/viewsatstream13/viewsatstream13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://dovevision.org/wp-content/uploads/2017/12/logo.png" group-title="Nigeria(Naija)",Dove TV
+#EXTINF:-1 tvg-logo="http://dovevision.org/wp-content/uploads/2017/12/logo.png" group-title="Naija",Dove TV
 https://streaming.viewsat.eu/viewsatstream03/viewsatstream03.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dunamisgospel.org/images/digc_logo.png" group-title="Nigeria(Naija)",Dunamis TV
+#EXTINF:-1 tvg-logo="https://www.dunamisgospel.org/images/digc_logo.png" group-title="Naija",Dunamis TV
 https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Nigeria(Naija)",Trace Naija
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Naija",Trace Naija
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.lagostelevision.com/wp-content/uploads/2016/11/ltv-logo-1-300x158.png" group-title="Nigeria(Naija)",Lagos Television
+#EXTINF:-1 tvg-logo="http://www.lagostelevision.com/wp-content/uploads/2016/11/ltv-logo-1-300x158.png" group-title="Naija",Lagos Television
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.loveworldplus.tv/wp-content/uploads/2016/09/logo_small1.png" group-title="Nigeria(Naija)",Love World Plus TV
+#EXTINF:-1 tvg-logo="https://www.loveworldplus.tv/wp-content/uploads/2016/09/logo_small1.png" group-title="Naija",Love World Plus TV
 http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
@@ -153,6 +177,8 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rts.sn/assets/images/rts/rts2sd.png" group-title="Senegal",RTS 2
 http://213.254.12.4:8000/play/a06b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ab/2sTV_logo.png" group-title="Senegal", 2 STV
+https://stream.ecable.tv/2stv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/africatv_sudan.jpg" group-title="Sudan(السودان‎)", Africa TV
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u
