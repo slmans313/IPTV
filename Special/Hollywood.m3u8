@@ -86,18 +86,20 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sports", beIN 2
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGETEIZZ4GiRbyPpk11xQdL160414/ELMTWHMxJ0d8XhldQZEClglQ160414_1460625135.png" group-title="Sports",CCTV-5 体育频道
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGEA7rM0sKrWVSAO0hcwXGK160414/ELMThTOIE4lvUg5gDa6qYf0Z160414_1460628727.png" group-title="Sports",CCTV-5+ 体育赛事
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports", Fox Sport 1 Asia
 https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports", Fox Sport 2 Asia
 https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports", Fox Sport 3 Asia
 https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Sports", Fox Sports News Australia
+#EXTINF:-1 tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Sports", Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGETEIZZ4GiRbyPpk11xQdL160414/ELMTWHMxJ0d8XhldQZEClglQ160414_1460625135.png" group-title="Sports",CCTV-5 体育频道
-http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGEA7rM0sKrWVSAO0hcwXGK160414/ELMThTOIE4lvUg5gDa6qYf0Z160414_1460628727.png" group-title="Sports",CCTV-5+ 体育赛事
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sports", NBA TV
+https://route8haqhxc4-joelonlyne-che.8a09.starter-us-east-2.openshiftapps.com/cdn/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_1080_/t0198f53e0cc91f8e77.png" group-title="Sports", 五星体育
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="Sports", True Sport HD1
@@ -205,14 +207,20 @@ http://210.210.155.66/h/h141/02.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png" group-title="Entertainment", Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC1.uk.png" group-title="Entertainment", BBC 1
+https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC2.uk.png" group-title="Entertainment", BBC 2
 https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="Entertainment", Challenge
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-challenge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ComedyCentral.de.png" group-title="Entertainment", Comedy Central
 https://livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WKMGDT2.us.png" group-title="Entertainment", DABL
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Dave.uk.png" group-title="Entertainment", Dave
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Entertainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/723_300.png" group-title="Entertainment", Diva
