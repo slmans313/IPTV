@@ -520,22 +520,20 @@ http://87.252.229.252:8083/pinsk
 http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eesti_Televisioon_Logo.svg/300px-Eesti_Televisioon_Logo.svg.png" group-title="Estonia (Eesti)",ETV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eesti_Televisioon_Logo.svg/300px-Eesti_Televisioon_Logo.svg.png" group-title="Eesti",ETV
 https://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/300px-ETV2_logo.svg.png" group-title="Estonia (Eesti)",ETV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/300px-ETV2_logo.svg.png" group-title="Eesti",ETV 2
 https://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="Estonia (Eesti)",ETV +
-http://95.153.22.122:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Kanal_2_logo.svg/225px-Kanal_2_logo.svg.png" group-title="Estonia (Eesti)",Kanal 2
-http://95.153.22.122:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://kanal11.postimees.ee/img/header-logo.png" group-title="Estonia (Eesti)",Kanal 11
+#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv3/logo.png" group-title="Latvija",TV3 Eesti
+http://185.176.117.243/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TV62018.jpg/230px-TV62018.jpg" group-title="Eesti",TV6 Eesti
+http://185.176.117.243/live/eds/TV6_EE_SD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://kanal11.postimees.ee/img/header-logo.png" group-title="Eesti",Kanal 11
 https://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://kanal12.postimees.ee/img/header-logo.png" group-title="Estonia (Eesti)",Kanal 12
+#EXTINF:-1 tvg-logo="https://kanal12.postimees.ee/img/header-logo.png" group-title="Eesti",Kanal 12
 https://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="Estonia (Eesti)",Tallinna
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="Eesti",Tallinna
 https://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sports_full_color_35.png/300px-Sports_full_color_35.png" group-title="Estonia (Eesti)",TV Play Sports
-http://88.216.48.14:80/tvplaysphd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="Georgia (საქართველო)", პირველი არხი
 http://188.93.95.34/gpb-1tv/mono.m3u8
@@ -642,33 +640,33 @@ http://stream.onlinetv.kg/Streaming/HLSAndroid/19/129/af2812cb630f4906adfd06a5c6
 #EXTINF:-1 tvg-logo="http://namba.kg/tv/ima/htvkg.png" group-title="Kyrgyzstan(Кыргызстан)",Хамелеон ТВ: Телеканал
 http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/lnt/logo.png" group-title="Latvia (Latvija)",LNT
+#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/lnt/logo.png" group-title="Latvija",LNT
 https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/LTV1_logo_2017.png/revision/latest?cb=20180715080428" group-title="Latvia (Latvija)", LTV1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/LTV1_logo_2017.png/revision/latest?cb=20180715080428" group-title="Latvija", LTV1
 https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://ltv.lsm.lv/assets/channel/logo2.png" group-title="Latvia (Latvija)", LTV7
+#EXTINF:-1 tvg-logo="https://ltv.lsm.lv/assets/channel/logo2.png" group-title="Latvija", LTV7
 https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/kanals2/logo.png" group-title="Latvia (Latvija)",Kanals 2
+#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/kanals2/logo.png" group-title="Latvija",Kanals 2
 https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv3/logo.png" group-title="Latvia (Latvija)",TV3 Latvija
+#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv3/logo.png" group-title="Latvija",TV3 Latvija
 https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/3plus/logo.png" group-title="Latvia (Latvija)",3+ Latvija
+#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/3plus/logo.png" group-title="Latvija",3+ Latvija
 https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv6/logo.png" group-title="Latvia (Latvija)",TV6 Latvija
+#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv6/logo.png" group-title="Latvija",TV6 Latvija
 https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="http://en.1bma.lv/uploaded/spaw/images/1m.jpg" group-title="Latvia (Latvija)",1 Baltic Music
+#EXTINF:-1 tvg-logo="http://en.1bma.lv/uploaded/spaw/images/1m.jpg" group-title="Latvija",1 Baltic Music
 https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latvia (Latvija)",Chau
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latvija",Chau
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 tvg-logo="https://kartina24.tv/images/news/multimania.png" group-title="Latvia (Latvija)", Мультимания
+#EXTINF:-1 tvg-logo="https://kartina24.tv/images/news/multimania.png" group-title="Latvija", Мультимания
 http://82.193.71.93/MultimaniaLV/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tv3_logo_rgb_transparent.png/1200px-Tv3_logo_rgb_transparent.png" group-title="Lithuania (Lietuva)",TV3 Lietuva
-https://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20001=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TV62018.jpg/230px-TV62018.jpg" group-title="Lithuania (Lietuva)",TV6 Lietuva
-https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20002=96000-video=2200000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/TV8_logo_for_Sweden_and_Lithuania.png" group-title="Lithuania (Lietuva)",TV8 Lietuva
-https://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tv3_logo_rgb_transparent.png/1200px-Tv3_logo_rgb_transparent.png" group-title="Lietuva",TV3 Lietuva
+http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TV62018.jpg/230px-TV62018.jpg" group-title="Lietuva",TV6 Lietuva
+http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/TV8_logo_for_Sweden_and_Lithuania.png" group-title="Lietuva",TV8 Lietuva
+http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="Moldova",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
