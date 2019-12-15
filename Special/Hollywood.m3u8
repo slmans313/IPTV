@@ -142,6 +142,9 @@ http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv2.br.png" group-title="Sports",SporTV 2
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_346/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="Sports",TRT Spor
+http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football", Premier Football 1
 http://119.59.116.83:8081/4k/t1/playlist.m3u8
@@ -191,10 +194,9 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Tennis", Tennis Channel+ 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-#EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="Sports",TRT Spor
-http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav5-1.png" group-title="Sports", 博斯魅力網
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav5-1.png" group-title="Tennis", 博斯魅力網
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Entertainment",Adult Swim
