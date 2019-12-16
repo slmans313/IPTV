@@ -148,54 +148,26 @@ http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:0 tvg-logo="http://i.tmgrup.com.tr/a2tv/content/i/a2/a2tv-logo.png" group-title="Türkiye",A2
 http://streams2.livetv.az/turk/a2_stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2018/12/BRT-HD-300x217.png" group-title="Türkiye",BRT 1 (Kıbrıs)
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.brtk.net/wp-content/uploads/2014/10/brt2-logo.jpg" group-title="Türkiye",BRT 2 Spor (Kıbrıs)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:0 tvg-logo="http://sd-19828.dedibox.fr/TVTURK/LOGO/brt2.png" group-title="Türkiye",BRT 3 (Kıbrıs)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/833294014476595200/tDTtFwpn_400x400.jpg" group-title="Türkiye", Canlı 24
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="Türkiye",Canlı 360
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 #EXTINF:0  tvg-logo="https://truepundit.com/wp-content/uploads/2018/03/cnn-turk-canli-yayini-hd-izlejpg.jpg" group-title="Türkiye",CNN Turk
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
-#EXTINF:0  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Türkiye",Kanal D
-http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiye",NTV
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:0  tvg-logo="https://static.iptv-epg.com/tr/StarTV.tr.png" group-title="Türkiye",Star
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:0  tvg-logo="https://www.teve2.com.tr/assets/img/teve2logo.png" group-title="Türkiye",Teve2
-http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.akittv.com.tr/assets/img/logo.png" group-title="Türkiye",Akit TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:0 tvg-logo="https://al-zahratv.com/wp-content/uploads/2018/01/4-4.jpg" group-title="Türkiye",Al Zahra tv
-http://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://akilli.tv/assets/img/logo.png" group-title="Türkiye",Akilli TV
-http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.beyaztv.com.tr/images/logo.png" group-title="Türkiye",Beyaz TV
-http://streams2.livetv.az/turk/beyaz/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="Türkiye",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:0 tvg-logo="http://www.kanal16haber.com/resimler/kanal16_2caa4b289a6057d5afa6.png" group-title="Türkiye",Bursa Kanal 16
-http://www.kanal16haber.com:4343/hls/canli1.m3u8
-#EXTINF:0  tvg-logo="http://cantv.tv/wp-content/uploads/2019/04/cropped-can_tv_web_site_logo_00-300x141.png" group-title="Türkiye",CAN TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:0  tvg-logo="https://sport-tv-guide.live/images/tv-station-cay-tv-895.png" group-title="Türkiye",CAY TV 
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:0  tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg" group-title="Türkiye",Dersim62 TV
-http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/dreamturk.jpg" group-title="Türkiye",Dream TV Turk
-http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Türkiye",Disney Türkiye
 http://streams2.livetv.az/turk/disney/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.elittv.ch/images/elityenilogokucuk2opy.png" group-title="Türkiye",Elit TV
-http://source2.primetime.ch:2981/play/elittv/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="Türkiye",EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FOX.uk.png" group-title="Türkiye",Fox Türkiye
-http://streams2.livetv.az/turk/fox_stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="Türkiye",Guney TV Tarsus
-rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/dreamturk.jpg" group-title="Türkiye",Dream TV
+http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fb/Haberturk_gazetesi_logosu.jpg" group-title="Türkiye",Haber Turk 
 http://soledge7.dogannet.tv/S1/HLS_LIVE/haberturk/1000/prog_index.m3u8 
-#EXTINF:0  tvg-logo="https://www.freeetv.com/images/03_logo/kanal19_Turkey.jpg" group-title="Türkiye",Kanal 19
-http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
-#EXTINF:0  tvg-logo="http://www.yenikonya.com.tr/uploads/2016/06/04/detay1465041126.jpg" group-title="Türkiye",Kon TV
-https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
+#EXTINF:0  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Türkiye",Kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:0  tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Türkiye",Kral
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/468714376023666688/30svdqHA_400x400.png" group-title="Türkiye",Kral Pop
@@ -206,37 +178,62 @@ http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/404.png" group-title="Türkiye",Minika ÇOCUK
 http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiye",NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://static.iptv-epg.com/tr/StarTV.tr.png" group-title="Türkiye",Star
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0  tvg-logo="http://www.semerkandtv.com.tr/Content/img/logo.png" group-title="Türkiye",Semerkand
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:0  tvg-logo="https://www.kesintisiztv.com/kanallar/tbmm-tv.png" group-title="Türkiye",TBMM
+https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:0  tvg-logo="https://www.teve2.com.tr/assets/img/teve2logo.png" group-title="Türkiye",Teve2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Türkiye",TLC Türkiye
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1  tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="Türkiye",Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.akittv.com.tr/assets/img/logo.png" group-title="Türkiye",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 tvg-logo="https://al-zahratv.com/wp-content/uploads/2018/01/4-4.jpg" group-title="Türkiye",Al Zahra tv
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://akilli.tv/assets/img/logo.png" group-title="Türkiye",Akilli TV
+http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://www.kanal16haber.com/resimler/kanal16_2caa4b289a6057d5afa6.png" group-title="Türkiye",Bursa Kanal 16
+http://www.kanal16haber.com:4343/hls/canli1.m3u8
+#EXTINF:0  tvg-logo="http://cantv.tv/wp-content/uploads/2019/04/cropped-can_tv_web_site_logo_00-300x141.png" group-title="Türkiye",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:0  tvg-logo="https://sport-tv-guide.live/images/tv-station-cay-tv-895.png" group-title="Türkiye",CAY TV 
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:0  tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg" group-title="Türkiye",Dersim62 TV
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elittv.ch/images/elityenilogokucuk2opy.png" group-title="Türkiye",Elit TV
+http://source2.primetime.ch:2981/play/elittv/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="Türkiye",EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="Türkiye",Guney TV Tarsus
+rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+#EXTINF:0  tvg-logo="https://www.freeetv.com/images/03_logo/kanal19_Turkey.jpg" group-title="Türkiye",Kanal 19
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
+#EXTINF:0  tvg-logo="http://www.yenikonya.com.tr/uploads/2016/06/04/detay1465041126.jpg" group-title="Türkiye",Kon TV
+https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
 #EXTINF:-1  tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="Türkiye",Meclis TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1  tvg-logo="http://mgctv.biz/assets/img/logo_new.png" group-title="Türkiye",MGC TV
 http://iptv.santraltr.com:8080/hls/mgctv.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nr1_logo_vector.svg/180px-Nr1_logo_vector.svg.png" group-title="Türkiye",NR1
-https://stream-02.sg1.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDACANWB5I1jqEf5J-ufiY9A)/dm/3/x67c77j/live.m3u8
 #EXTINF:-1  tvg-logo="http://rumelitv.com.tr/img/rumelilogo.png" group-title="Türkiye",Rumeli TV
 http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/40/55/54/40555489faf07aabc2001322f637be0e.jpg" group-title="Türkiye",Royal TV
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
-#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/2414964144/2cq1bv0lwjnmxl87ijpo_400x400.jpeg" group-title="Türkiye",Semerkand TV
-http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="Türkiye",Show 
-http://streams2.livetv.az/turk/showtv/playlist.m3u8
-#EXTINF:0  tvg-logo="https://www.kesintisiztv.com/kanallar/tbmm-tv.png" group-title="Türkiye",TBMM
-https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g_400x400.jpg" group-title="Türkiye",Tivi Turk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0  tvg-logo="http://webtvonlive.com/wp-content/uploads/tv4-webtvonlive-com.jpg" group-title="Türkiye",TV4
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Türkiye",TLC Türkiye
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1  tvg-logo="https://enflasyonlamucadele.org.tr/files/2018/10/Natural-Tv-150x150.png" group-title="Türkiye",Natural TV
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.wmtv.com.tr/img/logo.jpeg" group-title="Türkiye",Women TV
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1  tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/v/vuslat_tv_logo.png" group-title="Türkiye",Vulsat TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2018/12/BRT-HD-300x217.png" group-title="Türkiye",BRT 1 (Kıbrıs)
-http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.brtk.net/wp-content/uploads/2014/10/brt2-logo.jpg" group-title="Türkiye",BRT 2 Spor (Kıbrıs)
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:0 tvg-logo="http://sd-19828.dedibox.fr/TVTURK/LOGO/brt2.png" group-title="Türkiye",BRT 3 (Kıbrıs)
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+
