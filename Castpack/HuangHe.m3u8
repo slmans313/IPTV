@@ -17,9 +17,9 @@ http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8
 #EXTINF:-1 tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="中国",北京卫视
 http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="中国",凤凰资讯
-http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+http://112.50.243.8/PLTV/88888888/224/3221225901/3.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中国",凤凰中文
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+http://112.50.243.8/PLTV/88888888/224/3221225900/3.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGEGJXtt9IosRPRo2JkaKLr160414/ELMTBuLpRx1rF76N1FUQCvoY160414_1460616309.png" group-title="中国",CCTV-2 财经
@@ -124,7 +124,7 @@ http://59.148.103.41:8000/bysid/1
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540" group-title="香港/粵語",明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:0 tvg-logo="http://i1.hdslb.com/bfs/archive/6e1f2f12cc1fca296f2e986a307f69c4345bd172.jpg" group-title="香港/粵語",無綫新聞台
-http://202.40.202.173:8000/main
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1576835031~exp=1576921431~acl=/newslive/smil:mobile_inews.smil/*~hmac=d5c2081744db10a36375126286a7e9e35fefc2cf25f68af4f1c41d4bdcc457ce
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="香港/粵語",TVB 星河
 http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000015391574&ct=17984&tsum=168fc6ebb3cd296ba6444593acba415d
 #EXTINF:0 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港/粵語",香港开電視
