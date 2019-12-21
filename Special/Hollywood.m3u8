@@ -84,6 +84,16 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master
 #EXTINF:-1 tvg-logo="https://www.yicai.com/img/logo.66870cb6.png" group-title="Financial News",第一财经
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/ArenaSport1.hr.png" group-title="Sports",Arena Sport 1
+http://176.67.198.12:4063/udp/239.1.1.109:22109
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/ArenaSport2.hr.png" group-title="Sports",Arena Sport 2
+http://176.67.198.12:4063/udp/239.1.1.110:22110
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/ArenaSport3.hr.png" group-title="Sports",Arena Sport 3
+http://176.67.198.12:4063/udp/239.1.1.111:22111
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/ArenaSport4.hr.png" group-title="Sports",Arena Sport 4
+http://176.67.198.12:4063/udp/239.1.1.112:22112
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Sports",beIN 1 Asia
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sports",beIN 2 Asia
@@ -329,8 +339,6 @@ https://stream.ecable.tv/africancine/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/it/RaiMovie.it.png" group-title="Movies",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OCN.kr.png" group-title="Movies",OCN
-http://139.99.136.95:2306/ocn/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="Movies",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/435_300.png" group-title="Movies",TVN Movies
@@ -392,7 +400,7 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AnimalPlanet.us.png" group-title="Learning",Animal Planet
-http://203.162.235.46:19004/hls/EROSPORTNEWS_HD/playlist.m3u8
+http://23kds.lctv.52live.win/mkrihber.m3u8?tm=1576899991&key=d95d828b53e3f3397cf8ebb7cececae2
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
@@ -474,35 +482,3 @@ https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/VH1.in.png" group-title="Music",VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-
-#EXTINF:-1,TG 1
-http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1,TG 2
-http://5.135.92.133:52841/out/u/452_1.m3u8
-#EXTINF:-1,Rai 3
-http://5.135.92.133:52841/out/u/448_1.m3u8
-#EXTINF:-1,Rete 4
-http://5.135.92.133:52841/out/u/435_1.m3u8
-#EXTINF:-1,Canale 5
-http://5.135.92.133:52841/out/u/425_1.m3u8
-#EXTINF:-1,Italia 1
-http://5.135.92.133:52841/out/u/53_1.m3u8
-#EXTINF:-1,LA 7
-http://5.135.92.133:52841/out/u/101_1.m3u8
-#EXTINF:-1,Real Time
-http://5.135.92.133:52841/out/u/113_1.m3u8
-#EXTINF:-1,Mediaset
-http://5.135.92.133:52841/out/u/77_1.m3u8
-#EXTINF:-1,TGCOM 24
-http://5.135.92.133:52841/out/u/73_1.m3u8
-#EXTINF:-1,Rai Glup
-http://5.135.92.133:52841/out/u/444_1.m3u8
-#EXTINF:-1,Bunga Bunga
-http://5.135.92.133:52841/out/u/109_1.m3u8
-#EXTINF:0,Klan Kosov
-http://5.135.92.133:52841/out/u/400_2.m3u8
-#EXTINF:0,Kohavision
-http://5.135.92.133:52841/out/u/38_2.m3u8
-
-
-http://5.135.92.133:42692/out/u/wjfidshgosg.m3u8
