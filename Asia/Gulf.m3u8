@@ -261,12 +261,14 @@ http://82.137.248.16:1935/Souryana/stream20112018/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/ugarit_logo.png" group-title="Syria(سوريا)",Ugarit TV 
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="UAE (ماراتيين)",Abu Dhabi TV
+#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" group-title="UAE (ماراتيين)",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Ad-drama.png" group-title="UAE (ماراتيين)",Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" group-title="UAE (ماراتيين)",Abu Dhabi Drama
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="UAE (ماراتيين)",Alaan TV
 http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
+#EXTINF:-1  tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE (ماراتيين)",,Abu Dhabi Emarat
+http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Cb53JquW4AA_-o9.jpg" group-title="UAE (ماراتيين)",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_w1270221403_b764000_t64VVE=.m3u8
 #EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1523379977.png" group-title="UAE (ماراتيين)",Ajman
@@ -286,7 +288,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1  tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE (ماراتيين)",Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-logo="https://majid.ae/wp-content/themes/majid/images/logo.png" group-title="UAE (ماراتيين)",Majid Kids
-http://95.170.215.109/hls/Majid-Backup-M.m3u8
+http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png" group-title="UAE (ماراتيين)",OSN Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="UAE (ماراتيين)",OSN Cinema 1
