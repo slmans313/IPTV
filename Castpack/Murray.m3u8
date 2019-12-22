@@ -10,6 +10,12 @@ https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/11251996-1x1-large.png" group-title="Australia", ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="Australia",Bloomberg Australia
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Australia",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://tbivision.com/files/2014/10/Australia-channel-300x169.jpg" group-title="Australia",Sky News Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png,Mic_.2KNN9OHw1p.png.pagespeed.ce.2KNN9OHw1p.png" group-title="Australia", 澳大利亚天和电视台
 http://rtvcdn.com.au:8082/TV_GG.m3u8
 #EXTINF:-1 tvg-logo="https://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png" group-title="Australia",C31
@@ -26,6 +32,27 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia", Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC1.uk.png" group-title="UK",BBC 1
+https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC2.uk.png" group-title="UK",BBC 2
+https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="UK",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK",Challenge
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-challenge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/PickTV.uk.png" group-title="UK",Pick
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/onlymotors/wp-content/uploads/sites/19/2017/08/onlymotorsLOGO2.png" group-title="UK",Only Motor
+https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUK.ru.png" group-title="UK",RT UK
+http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="New Zealand", TVNZ 1
 http://43.224.120.99:8080/tv1/tv1_1500k.m3u8
