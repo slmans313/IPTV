@@ -97,8 +97,6 @@ https://stream.ecable.tv/kessben/tracks-v1a1/mono.m3u8
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sampsonamoateng.net/wp-content/uploads/2018/08/SAM-LOGO-JPEG-e1535293984113.jpeg" group-title="Ghana",SAM TV
 https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="Ghana",TV Africa
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://rtgkoloma.info/wp-content/uploads/2017/12/logofinal.jpg" group-title="Guinée",RTG
@@ -134,6 +132,11 @@ http://82.212.74.2:8000/live/7308.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ortm_logo_2008.png" group-title="Mali",ORTM
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2africaprodimgcdn.tv2u.com/channels/logo/original/0x80/1576238915185.png" group-title="Nambia",Nambia TV 2
+https://za-tv2a-wowza-origin01.akamaized.net/tv2n/smil:tv2nlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://genderlinks.org.za/wp-content/uploads/imported/articles/images/original/05918_one_africa_tv_logo_700x0_80.jpg" group-title="Nambia",One Africa TV
+https://za-tv2a-wowza-origin02.akamaized.net/oneafrica/smil:oneafrica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://ortn.ne/wp-content/uploads/2019/04/ORTN-Niger-300x221.jpg" group-title="Niger",Télé Sahel
 http://213.254.12.4:8000/play/a065
