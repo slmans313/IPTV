@@ -18,7 +18,7 @@ http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus1.kr.png" group-title="한국",EBS+ 1
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus2.kr.png" group-title="한국", EBS+ 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus2.kr.png" group-title="한국",EBS+ 2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kq2wSR9.png" group-title="한국",EBSe
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
@@ -68,6 +68,18 @@ http://203.162.235.41:16912
 http://203.162.235.41:16905
 #EXTINF:-1 tvg-logo="https://digitalentertainmentmarketing.files.wordpress.com/2014/11/digital-entertainment-post-ntv-nippon-tv-japan.png" group-title="日本",日テレ NEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="日本",Tokyo MX 1
+http://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="日本",Tokyo MX 2
+http://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="日本",MX Live
+http://movie.mcas.jp/mcas/smil:mx_live.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://wc.home-tv.co.jp/images/logo.png" group-title="日本",ぽるぽるTV
+https://movie.mcas.jp/mcas/smil:gm1.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.home-tv.co.jp/wp-content/themes/home-master/img/h_logo.png" group-title="日本",Home News 広島気象情報
+https://movie.mcas.jp/mcas/smil:gm2.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.gtv.co.jp/common/images/logo-h_pc.png" group-title="日本",群馬テレビ
+https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="日本",CGN 日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://jp.history.com/wp-content/themes/historychannel/cmn/img/logo.png" group-title="日本",テレビ歴史
