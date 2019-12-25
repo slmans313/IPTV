@@ -136,10 +136,13 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RTL-TVI_logo.svg/1280px-RTL-TVI_logo.svg.png" group-title="Belgium",RTL TVI
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rtvbn.com/skin/default/img/logo.png" group-title="Bosna",RTV BN
-http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ba/Hayat.ba.png" group-title="Bosna",Hayat
+http://84.22.33.254/unicast.hayatbosnia/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/1200px-RTRS_Logo.svg.png" group-title="Bosna",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.b1tv.ba/wp-content/uploads/2018/11/Logo-finish-veliki-300x300.png" group-title="Bosna",B1
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
 #EXTINF:-1 tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="Bosna",777 Tehnika TV
