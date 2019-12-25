@@ -32,6 +32,10 @@ http://84.22.33.254/unicast.rtk2/index.m3u8
 http://84.22.33.254/unicast.rtk3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk4.png" group-title="Shqipëria/Kosovës",RTK 4
 http://84.22.33.254/unicast.rtk4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://artmotion.net/wp-content/uploadimet/2018/11/ext.jpg" group-title="Shqipëria/Kosovës",Art Motion
+http://84.22.33.254/unicast.infochannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/KlanTV.al.png" group-title="Shqipëria/Kosovës",Klan
 http://95.107.132.131:3344/udp/235.0.0.1:9009
 #EXTINF:-1 tvg-logo="https://klankosova.tv/wp-content/themes/klankosova-tv/images/logo.png" group-title="Shqipëria/Kosovës",Klan Kosov
@@ -40,8 +44,10 @@ http://5.135.92.133:52841/out/u/400_2.m3u8
 http://95.107.132.131:3344/udp/235.0.0.6:9009
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/kohavision-logo.png group-title="Shqipëria/Kosovës",Kohavision
 http://5.135.92.133:52841/out/u/38_2.m3u8
-#EXTINF:-1 tvg-logo="http://www.oranews.tv/themes/oranewstheme/assets/img/logoora.png" group-title="Shqipëria/Kosovës",Ora HD
+#EXTINF:-1 tvg-logo="http://www.oranews.tv/themes/oranewstheme/assets/img/logoora.png" group-title="Shqipëria/Kosovës",Ora
 https://oranews.tv/oranews/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rrokum.tv/foto/rrokum_fb.png" group-title="Shqipëria/Kosovës",Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvpuls.com/images/assets/header_logo_rtv_puls.png" group-title="Shqipëria/Kosovës",RTV Puls
 http://84.22.33.254/unicast.pulstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/08/Logo_TV21_1_PNG.png" group-title="Shqipëria/Kosovës",TV 21
@@ -50,6 +56,7 @@ http://84.22.33.254/unicast.rtv21/index.m3u8
 http://95.107.132.131:3344/udp/232.10.15.1:9356
 #EXTINF:-1 tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria/Kosovës",Vision TV Plus
 http://95.107.132.131:3344/udp/238.11.12.2:9009
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/3Plus.al.png" group-title="Shqipëria/Kosovës",3plus
 http://84.22.33.254/unicast.3plus/index.m3u8
@@ -65,7 +72,7 @@ http://stream.shqiptv.com:7080/altvusa/index.m3u8
 https://tiny.gjirafa.com/live/mWgsaktJ93W4pUDKwZdD0Vn91u2WqsOs/yyqtyk.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/Jolly.al.png" group-title="Shqipëria/Kosovës",Jolly
 http://84.22.33.254/unicast.jollyhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1RAlaGY.jpg" group-title="Shqipëria/Kosovës",Liria TV
+#EXTINF:-1 tvg-logo="https://tvmak.com/img/tvliria.jpg" group-title="Shqipëria/Kosovës",Liria TV
 http://84.22.33.254/unicast.tvliria/index.m3u8
 #EXTINF:-1 tvg-logo="http://balkanweb.com/news24/live/images/logolive.png" group-title="Shqipëria/Kosovës",News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
@@ -73,8 +80,6 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 https://54627d4fc5996.streamlock.net/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://report-tv.al/wp-content/uploads/2017/05/report_logo_qender.png" group-title="Shqipëria/Kosovës",Report-TV
 http://95.107.132.131:3344/udp/238.20.15.5:9009
-#EXTINF:-1 tvg-logo="http://www.rrokum.tv/foto/rrokum_fb.png" group-title="Shqipëria/Kosovës",Rrokum TV
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RtvZik_logo_58ffc167a169e.png" group-title="Shqipëria/Kosovës",RTV Zik
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.scan-tv.com/wp-content/uploads/2016/12/logo-default.png" group-title="Shqipëria/Kosovës",Scan Tv
@@ -495,6 +500,10 @@ http://84.22.33.254/unicast.sat1/index.m3u8
 http://84.22.33.254/unicast.sat1gold/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="Deutschland",TLC Deutsch
+http://84.22.33.254/unicast.tlc/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Deutschland",Alex Berlin TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
