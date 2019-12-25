@@ -202,12 +202,13 @@ https://ms1.sedemosmi.tv/live/index.m3u8
 https://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
 #EXTINF:-1 tvg-logo="http://www.mmtv.bg/mmtv.png" group-title="България",MM-TV
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png" group-title="България",Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alfa.bg/images/logo_alfa.jpg" group-title="България",Alfa TV
 http://alfa.bg:1935/live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://balkanmusic.tv/wp-content/uploads/2018/05/Balkan-Music-logoOK-e1527188267567.png" group-title="България",Balkan Music
-http://51.254.45.61:8080/hls/balkanmusic.m3u8
+#EXTINF:-1 tvg-logo="https://test.balkanika.tv/wp-content/uploads/2018/07/logo_Balkanika_kvadrat.png" group-title="България",Ballkanika
+http://84.22.33.254/unicast.ballkanika/index.m3u8
 #EXTINF:-1 tvg-logo="https://city.bg/theme_assets/city/images/logo.png group-title="България",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.planeta.tv/img/logo-header.png" group-title="България",Planeta
@@ -218,6 +219,8 @@ http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
 http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-logo="http://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="България",This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thevoice.bg/share/default/img/The_Voice_black_logo.png" group-title="България",The Voice
+http://84.22.33.254/unicast.thevoice/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ottresource.aviion.tv/18988b7176f2420d9584da7f2b1e2da4.png" group-title="Hrvatska",HRT 1 
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
@@ -500,8 +503,11 @@ http://84.22.33.254/unicast.sat1/index.m3u8
 http://84.22.33.254/unicast.sat1gold/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
+http://84.22.33.254/unicast.vox/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Deutschland",Disney Deutsch
+http://84.22.33.254/unicast.disneychannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="Deutschland",TLC Deutsch
 http://84.22.33.254/unicast.tlc/index.m3u8
 
@@ -664,15 +670,3 @@ https://ruvruverl-live-hls.secure.footprint.net/f93971c9d341476a506344e4994f741b
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
 #EXTINF:0tvg-logo="https://www.n4.is/static/themes/2013/images/logo.png" group-title="Ísland",N4 TV
 http://tv.vodafoneplay.is/n4/index.m3u8
-#EXTINF:0tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Ísland",Sport TV 1
-https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
-#EXTINF:0tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Ísland",Sport TV 2
-https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
-#EXTINF:0tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Ísland",Sport TV 3
-https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
-#EXTINF:0tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Ísland",Sport TV 4
-https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
-#EXTINF:0tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Ísland",Sport TV 5
-https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
-#EXTINF:0tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Ísland",Sport TV 6
-https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
