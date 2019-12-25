@@ -5,10 +5,10 @@ http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Russia (Россия)",360°
 http://360tv-cdn.facecast.io/360/channel2/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://andtv.zee5.com/wp-content/uploads/sites/3/2019/01/And-Tv-logo.png" group-title="Gujarati(ગુજરાતી)",  &TV
-http://pockettv.xyz/api/zee.m3u8?c=andtvhd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Kannada.png/1200px-Zee_Kannada.png" group-title="ಕನ್ನಡ", Zee Kannada
-http://pockettv.xyz/api/zee.m3u8?c=zkannada
+#EXTINF:-1 tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria/Kosovës",Vision TV Plus
+http://84.22.33.254/unicast.vizionplus/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034442917753118720/stLuQkd6_400x400.jpg" group-title="Kazakhstan (Казахстан)", Tamasha
 https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.bjnews.com.cn/image/2019/05/03/4788479376108891447.jpg" group-title="中文频道",北京冬奥纪实
@@ -32,17 +32,6 @@ http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:0 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia", Trans 7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Pilipinas",Island Living on BEAM
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.sparkfestbytsp.com/wp-content/uploads/2018/01/03InqTV.png" group-title="Pilipinas",TVshop on BEAM
-https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Poplife_tv_logo.jpg/revision/latest?cb=20181210080025" group-title="Pilipinas",POP Life
-https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.sparkfestbytsp.com/wp-content/uploads/2018/01/03InqTV.png" group-title="Pilipinas",Inquirer 990 TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ITwzWaj.jpg" group-title="Pilipinas", Life TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
-
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png" group-title="Brasil",SBT São Paulo
@@ -53,12 +42,6 @@ http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="South Korea(한국어)", MBC
 https://5ca29b882aaf6.streamlock.net/livetv/BusanMBC_TV_livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Mezzo.fr.png" group-title="France(français)",Mezzo
-http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/447/bigposter/618337.png" group-title="Russia (Россия)",RTG HD
-http://ott-cdn.ucom.am/s63/04.m3u8
-#EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/120/bigposter/591604.png" group-title="Russia (Россия)",RTG TV
-http://ott-cdn.ucom.am/s80/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Channels_ebs1.png" group-title="South Korea(한국어)", EBS 1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u
@@ -78,8 +61,6 @@ http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w469404394_b328000
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
 http://39.135.16.142:6060/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1200px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png" group-title="Russia (Россия)",Пятница!
-http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amptv.png/330px-Amptv.png" group-title="Armenia(Հայաստան)", 1TV
 https://amtvdvr.tulix.tv/am2abr/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/apple-touch-icon.png" group-title="News",CBS News
