@@ -88,12 +88,14 @@ http://84.22.33.254/unicast.tringcomedy/index.m3u8
 http://84.22.33.254/unicast.tringfantasy/index.m3u
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/T-Hist.al.png" group-title="Shqipëria/Kosovës",Tring History
 http://84.22.33.254/unicast.tringhistory/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringLife.al.png" group-title="Shqipëria/Kosovës",Tring International
+#EXTINF:-1 tvg-logo="http://www.rielroma.eu/index_htm_files/3256.png" group-title="Shqipëria/Kosovës",Tring International
 http://84.22.33.254/unicast.motorstv/index.m3u8
+#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Tring%20Kids.png" group-title="Shqipëria/Kosovës",Tring Kids
+http://84.22.33.254/unicast.kids/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringLife.al.png" group-title="Shqipëria/Kosovës",Tring Life
 http://84.22.33.254/unicast.tringlife/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/Living.al.png group-title="Shqipëria/Kosovës",Tring Living
+http://84.22.33.254/unicast.tringlivinghd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/Muse.al.png" group-title="Shqipëria/Kosovës",Tring Muse
 http://84.22.33.254/unicast.tringmuse/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringPlanet.al.png" group-title="Shqipëria/Kosovës",Tring Planet
@@ -102,17 +104,11 @@ http://84.22.33.254/unicast.tringplanet/index.m3u8
 http://84.22.33.254/unicast.tringsuper/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringTring.al.png" group-title="Shqipëria/Kosovës",Tring Tring
 http://84.22.33.254/unicast.tringtring/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringTring.al.png" group-title="Shqipëria/Kosovës",Tring Living
-http://84.22.33.254/unicast.tringlivinghd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringTring.al.png" group-title="Shqipëria/Kosovës",Tring Tip TV
-http://84.22.33.254/unicast.tiptv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringTring.al.png" group-title="Shqipëria/Kosovës",Tring Kids
-http://84.22.33.254/unicast.kids/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringWorld.al.png" group-title="Shqipëria/Kosovës",Tring World
 http://84.22.33.254/unicast.tringworld/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TipTv.al.png" group-title="Shqipëria/Kosovës",Tip TV
+http://84.22.33.254/unicast.tiptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/al/TVJUG.png" group-title="Shqipëria/Kosovës",TV JUG
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://shkabaj.net/tv/img/tvnew_rtvilirida.png" group-title="Shqipëria/Kosovës",RTV Ilirida
