@@ -224,20 +224,28 @@ http://www.evoiptv.com/hlskids/hlskids.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/MRT1.mk.png" group-title="Македонија",MRT 1
 http://190.2.154.72:8081/tvstanici/5mob/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/08/Logo_TV21_1_PNG.png" group-title="Македонија",TV 21 Македонија
-http://84.22.33.254/unicast.rtv21macedonia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Vesti24.mk.png" group-title="Македонија",24 Vesti
+http://190.2.154.72:8081/tvstanici/24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Alfa.mk.png" group-title="Македонија",Alfa
+http://190.2.154.72:8081/tvstanici/33/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.alsat-m.tv/wp-content/themes/alsat/images/alsat_logo.png group-title="Македонија",Alsat-M
+http://84.22.33.254/unicast_alsatmm/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Kanal5.mk.png" group-title="Македонија",Kanal 5
+http://190.2.154.72:8081/tvstanici/2mob/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Sitel.mk.png" group-title="Македонија",Sitel
 http://190.2.154.72:8081/tvstanici/s1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Telma.mk.png" group-title="Македонија", Telma
 http://190.2.154.72:8081/tvstanici/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Alfa.mk.png" group-title="Македонија",Alfa
-http://190.2.154.72:8081/tvstanici/33/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Kanal5.mk.png" group-title="Македонија",Kanal 5
-http://190.2.154.72:8081/tvstanici/2mob/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Vesti24.mk.png" group-title="Македонија",24 Vesti
-http://190.2.154.72:8081/tvstanici/24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/08/Logo_TV21_1_PNG.png" group-title="Македонија",TV 21 Македонија
+http://84.22.33.254/unicast.rtv21macedonia/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://rtk.mk/images/stories/joomlart/rtk_logo_small.png" group-title="Македонија",RTK
 http://95.86.27.228/rtklive/rtklive_1500/index.m3u8
+#EXTINF:-1 tvg-logo="http://shenja.tv/wp-content/uploads/2016/11/logo1.png group-title="Македонија",Shenja
+http://84.22.33.254/unicast.shenjatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258111_files/skyfolkmk.png" group-title="Македонија",Sky Folk
 http://skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-logo="https://starfolkmusic.mk/wp-content/uploads/2019/10/logo-300x169.png" group-title="Македонија",Star Folk
@@ -415,12 +423,14 @@ https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunkl
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/RTS1.rs.png" group-title="Србија/Црна Гора",RTS 1 Србија
 http://62.210.205.41:8080/RTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/1200px-RTS_3_logo.svg.png" group-title="Србија/Црна Гора",RTS 3
-http://93.87.85.150:80/PLTV/88888888/224/3221226575/03.m3u8?accountinfo=yT3136xHyci%2F1Lwr9plJ6b4pEQwVtxY%2FuC5XlCvYDSwK11EyX4ZT%2F3rSRSjQzYryr5jnU6CWqZ44bsdSXtUhp5rRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9VAQe05Iuvgb0rcmheAIpBaakxQBS0eD07v1BkAeLxdU%3D%3A20180117163907%3AUTC%2C667265279573212594%2C89.172.240.222%2C20180117163907%2Curn%3AHuawei%3AliveTV%3AXTV100001884%2C110E1005EC64BE6489BBA475683DED13%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Prva.rs.png" group-title="Србија/Црна Гора",1 Prva
-http://62.210.205.41:8080/PRVA/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/OBN.rs.png" group-title="Србија/Црна Гора",OBN
-http://62.210.205.41:8080/OBN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mtel.me/oec/images/tv_channels/6bc4f54dfa8c2ab2557a45a739e7c3a6.png" group-title="Србија/Црна Гора",O2.TV
+http://84.22.33.254/unicast.b92/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Prva.rs.png" group-title="Србија/Црна Гора",Prva
+http://84.22.33.254/unicast.prva/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Pink1.rs.png" group-title="Србија/Црна Гора",Pink
+http://84.22.33.254/unicast.pink/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Србија/Црна Гора",Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://totaltv.tv/oec/images/tv_channels/305c3934493482bcd70f3fd0b2a2cbc1.png" group-title="Србија/Црна Гора",KCN Kopernikus 1
