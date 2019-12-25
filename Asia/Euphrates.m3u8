@@ -157,12 +157,16 @@ http://wms.brtk.net:1935/live/brt1/playlist.m3u8
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="Türkiye",Canlı 360
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://truepundit.com/wp-content/uploads/2018/03/cnn-turk-canli-yayini-hd-izlejpg.jpg" group-title="Türkiye",CNN Turk
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Türkiye",Cartoon Network Türkiye
+http://84.22.33.254/unicast.cartoonnetwork/index.m3u8
+#EXTINF:0 tvg-logo="https://truepundit.com/wp-content/uploads/2018/03/cnn-turk-canli-yayini-hd-izlejpg.jpg" group-title="Türkiye",CNN Türkiye
 http://streams2.livetv.az/turk/cnn_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Türkiye",Disney Türkiye
 http://streams2.livetv.az/turk/disney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/dreamturk.jpg" group-title="Türkiye",Dream TV
 http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/Fox.tr.png" group-title="Türkiye",Fox Türkiye
+http://84.22.33.254/unicast.foxcrime/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fb/Haberturk_gazetesi_logosu.jpg" group-title="Türkiye",Haber Turk 
 http://soledge7.dogannet.tv/S1/HLS_LIVE/haberturk/1000/prog_index.m3u8 
 #EXTINF:0 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Türkiye",Kanal D
