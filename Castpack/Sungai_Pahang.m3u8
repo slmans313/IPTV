@@ -91,18 +91,18 @@ https://dl.dropbox.com/s/phpfg274xbjqxbl/GTV.m3u8?dl=0
 https://dl.dropbox.com/s/zdwanaxp8nccuob/Indosiar.m3u8?dl=0
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="Indonesia",I News
 https://dl.dropbox.com/s/q0iru9054bsoxmg/inews.m3u8?dl=0
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.jawapos.tv/images/logo_jawapos.png" group-title="Indonesia",Jawa Pos
+https://dl.dropbox.com/s/v6lp4kxku9ggjsb/JawaPos.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",Kompas TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/300px-RCTI_2015.svg.png" group-title="Indonesia",RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Indonesia",MNC
 https://dl.dropbox.com/s/iruxo9yn5l00abd/MNCTV.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1432776307_logo_news.png" group-title="Indonesia",MNC News
-https://cdn-livetv1.metube.id/hls/mncnews.m3u8
-#EXTINF:0 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1442313368_logo_SOCCER-CHANNEL.png" group-title="Indonesia",MNC Soccer
-https://cdn-livetv1.metube.id/hls/soccer.m3u8
 #EXTINF:0 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia",Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1650266961_b1492000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/MyTV.png" group-title="Indonesia",myTV
+https://dl.dropbox.com/s/q1nbvy14bajjx41/My%20Tv.m3u8?dl=0
 #EXTINF:0 tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Indonesia",Net
 https://dl.dropbox.com/s/4x6avyxdo9mc2ph/NET%20TV.m3u8?dl=0
 #EXTINF:0 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
@@ -119,12 +119,15 @@ https://dl.dropbox.com/s/og25nmf6u54dfx9/Tvone.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy.jpg" group-title="Indonesia",TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="http://www.arematv.id/wp-content/uploads/2016/09/logo5.png" group-title="Indonesia",Arema TV
+http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", Bayu TV
+http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
 #EXTINF:0 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="Indonesia",BeritaSatu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="Indonesia",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="Indonesia",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Indonesia",RRI Net
@@ -155,16 +158,18 @@ http://stream1.ninmedia.tv/inspiratv/udp.stream_720p/playlist.m3u8
 http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg" group-title="Indonesia",JAK tv
 http://202.80.222.182:80/000001/2/ch00000090990000001695/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://www.jember1tv.co.id/wp-content/uploads/2016/07/logo-retina.png" group-title="Indonesia", Jember 1 TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/chunklist_w829570418.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4e/JEK_TV_%282018%29.png/300px-JEK_TV_%282018%29.png" group-title="Indonesia",Jek TV
 http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="Indonesia",JTV Surabaya
 http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://jpmstream.com/mobile/images/18.png" group-title="Indonesia",Kawanua tv
+http://122.248.43.138:1935/ch18/myStream/chunklist_w588500490.m3u8
 #EXTINF:0 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Indonesia",Kitanesia
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.mgstv.co.id/images/logo.png" group-title="Indonesia",Megaswara TV
 http://wowza60.indostreamserver.com:1935/mgstv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="Indonesia",MNC Sports
-https://live.mncnow.id/mncsports/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://www.padangtv.id/wp-content/uploads/2016/06/logo1.png" group-title="Indonesia",Padang TV
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://pktvbontang.com/wp-content/uploads/2019/06/LOGOPKTV2019.png" group-title=Indonesia",PKTV
@@ -173,6 +178,8 @@ http://wowza60.indostreamserver.com:1935/pktv/live/playlist.m3u8
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://radarlampungtv.co.id/wp-content/uploads/2019/10/cropped-logosmallradarlampungtv-8.jpg" group-title="Indonesia",Radar TV Lampung
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil-HD.png" group-title="Indonesia",Ruang Trampil
+https://dl.dropbox.com/s/2ukyp4uu55y5rw6/RuangTrampil.m3u8?dl=0
 #EXTINF:0 tvg-logo="http://sbo.co.id/asset/images/logo.png" group-title="Indonesia",SBO
 http://stream.sbo.co.id:1935/sbotv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Indonesia",Tatv
