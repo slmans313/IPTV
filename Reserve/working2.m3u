@@ -52,12 +52,12 @@ http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 http://203.176.130.123:8989/live/etv_480k.stream/chunklist_w1606248672.m3u8
 #EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/6/csm_18-400_import_9245798e06.png" group-title="Cambodia(កម្ពុជា ) ",  SEA TV
 http://203.189.147.211:1935/live/myStream_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://tv-online.im/wp-content/uploads/2013/05/tv5-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", TV5
+#EXTINF:-1 tvg-logo="https://tv-online.im/wp-content/uploads/2013/05/tv5-Cambodia.jpg" group-title="Cambodia(កម្ពុជា ) ", TV5
 http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/7/csm_12-400_import_f5aa06c50f.png" group-title="Cambodia(កម្ពុជា ) ", Rasmey Hang Meas
 http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w469404394_b328000_sleng.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Germany(Deutschland)",Deutsche Welle 
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
 http://39.135.16.142:6060/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
@@ -110,20 +110,18 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv7
 #EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" group-title="Kuawait (الكويت)", Kuwait Arabe
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv6
 
-#EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
 https://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:0  tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Turkey (Türkiye)", Kral
+#EXTINF:0 tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Turkey (Türkiye)", Kral
 http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/468714376023666688/30svdqHA_400x400.png" group-title="Turkey (Türkiye)", Kral Pop
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:0  tvg-logo="http://tvsefasi.com/images/tvlogo/kralpopakustik.png" group-title="Turkey (Türkiye)", Kral POP Akustik
+#EXTINF:0 tvg-logo="http://tvsefasi.com/images/tvlogo/kralpopakustik.png" group-title="Turkey (Türkiye)", Kral POP Akustik
 http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Star_TV_logosu.png" group-title="Turkey (Türkiye)",Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="Germany(Deutschland)",HR Fernsehen
+#EXTINF:-1 tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="Germany(Deutschland)",HR Fernsehen
 http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 #EXTINF:-1,City TV
 http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8
