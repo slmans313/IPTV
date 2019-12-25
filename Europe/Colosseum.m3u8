@@ -431,13 +431,13 @@ http://212.200.102.3:5000/rtp/239.0.0.3:5000
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_of_TV_SLO_1_HD_%282012-%29.png" group-title="Slovenija",Slovenija 1
-http://rtvslolive.akamaized.net/hls/live/584144/tv_slo1_int/slo1_int/slo1_720p/chunklist.m3u8
+https://rtvslolive.akamaized.net/hls/live/584144/tv_slo1/slo1/r-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo2-dark-bg.png" group-title="Slovenija",Slovenija 2
-http://rtvslolive.akamaized.net/hls/live/584144/tv_slo2_int/slo2_int/slo2_720p/chunklist.m3u8
+https://20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://www.napovednik.com/pic/tv/slo3.png" group-title="Slovenija",Slovenija 3
-https://rtvslolive.akamaized.net/hls/live/685537/tv_slo3_int/slo3_int/slo3_720p/chunklist.m3u8
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://www.napovednik.com/pic/tv/slo3.png" group-title="Slovenija",Maribor TV
-https://rtvslolive.akamaized.net/hls/live/689305/tv_mb/tvmb/r-playlist.m3u8
+https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvkp-dark-bg.png" group-title="Slovenija",TV Koper-Capodistria
 https://rtvslolive.akamaized.net/hls/live/689305/tv_kp/tvkp/r-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvmmc-dark-bg.png" group-title="Slovenija",MMC TV
