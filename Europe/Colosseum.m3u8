@@ -461,30 +461,30 @@ https://rtvslolive.akamaized.net/hls/live/689305/tv_kp/tvkp/r-playlist.m3u8
 https://rtvslolive.akamaized.net/hls/live/685537/tv_mmc/mmctv/r-playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="http://chanlogos.xmltv.se/fatstone.tv.png" group-title="Norge",Fatstone TV
+#EXTINF:-1 tvg-logo="http://chanlogos.xmltv.se/fatstone.tv.png" group-title="Norge",Fatstone TV
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norge",Nrk 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1200px-NRK1-Logo.svg.png" group-title="Norge",Nrk 1
 http://83.56.24.104:9981/stream/channelid/1194774004?ticket=4AA30FC8C970308072857B0215ADD02EA6A672CD&profile=pass
-#EXTINF:0 tvg-logo="https://www.kanal10.se/Images/Logga/kanal10.png" group-title="Norge",Kanal 10 Norge
+#EXTINF:-1 tvg-logo="https://www.kanal10.se/Images/Logga/kanal10.png" group-title="Norge",Kanal 10 Norge
 http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://einnsyn.stortinget.no/einnsyn/Content/Custom/style/logo/Stortinget-logo-hvit-tekst-svart.png" group-title="Norge",Stortinget
+#EXTINF:-1 tvg-logo="https://einnsyn.stortinget.no/einnsyn/Content/Custom/style/logo/Stortinget-logo-hvit-tekst-svart.png" group-title="Norge",Stortinget
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/gb/MTV.uk.png" group-title="Norge",MTV Norg
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/MTV.uk.png" group-title="Norge",MTV Norg
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0 tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norge",Silence TV
+#EXTINF:-1 tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png" group-title="Norge",Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Jednotka.svg/225px-Jednotka.svg.png" group-title="Slovensko",Jednotka
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Jednotka.svg/225px-Jednotka.svg.png" group-title="Slovensko",Jednotka
 https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Dvojka.svg/225px-Dvojka.svg.png" group-title="Slovensko",Dvojka
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Dvojka.svg/225px-Dvojka.svg.png" group-title="Slovensko",Dvojka
 https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
-#EXTINF:0 tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovensko",Joj
+#EXTINF:-1 tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovensko",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:0 tvg-logo="https://img.joj.sk/rx/d8243ddf9e64c682833f0d16a820d7e8.png" group-title="Slovensko",Joj Family
+#EXTINF:-1 tvg-logo="https://img.joj.sk/rx/d8243ddf9e64c682833f0d16a820d7e8.png" group-title="Slovensko",Joj Family
 http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static1.joj.sk/html/assets/logo-plus-white.png" group-title="Slovensko",Joj Plus
+#EXTINF:-1 tvg-logo="https://static1.joj.sk/html/assets/logo-plus-white.png" group-title="Slovensko",Joj Plus
 https://nova-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-logo="https://www.skylink.sk/doc/um_kanal_img/joj-plus-1a-403.png" group-title="Slovensko",Joj +1
+#EXTINF:-1 tvg-logo="https://www.skylink.sk/doc/um_kanal_img/joj-plus-1a-403.png" group-title="Slovensko",Joj +1
 http://173.249.28.105:8000/play/jojp1/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.cdn.markiza.sk/media/3.0/mar/grf/header-markiza-logo.png" group-title="Slovensko",Markiza
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
@@ -494,19 +494,19 @@ http://173.249.28.105:8000/play/markizaplus1/index.m3u8
 http://213.81.153.221:8080/cetv
 #EXTINF:-1 tvg-logo="https://www.tvhronka.sk/engine/wp-content/themes/hronkatv/images/logo.png" group-title="Slovensko",Hronka
 http://213.81.153.221:8080/hronka
-#EXTINF:0 tvg-logo="http://icedreamkosice.com/wp-content/uploads/2016/04/kosice-dnes-logo.jpg" group-title="Slovensko",Košice:dnes
+#EXTINF:-1 tvg-logo="http://icedreamkosice.com/wp-content/uploads/2016/04/kosice-dnes-logo.jpg" group-title="Slovensko",Košice:dnes
 http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.lifetv.sk/documents/12145064/12463415/Logo+Life+Tv+Bendo_Snapseed.jpg" group-title="Slovensko",Life.TV
+#EXTINF:-1 tvg-logo="http://www.lifetv.sk/documents/12145064/12463415/Logo+Life+Tv+Bendo_Snapseed.jpg" group-title="Slovensko",Life.TV
 http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.tvlocall.eu/wp-content/uploads/2017/10/logo_vkek.png" group-title="Slovensko",LocAll
+#EXTINF:-1 tvg-logo="http://www.tvlocall.eu/wp-content/uploads/2017/10/logo_vkek.png" group-title="Slovensko",LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:0 tvg-logo="http://www.tvlux.sk/project/tvlux/design/img/mainLogoClear.png" group-title="Slovensko",Lux
+#EXTINF:-1 tvg-logo="http://www.tvlux.sk/project/tvlux/design/img/mainLogoClear.png" group-title="Slovensko",Lux
 http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zpiestan.sk/uploads/tv-karpaty2-480x311.jpg" group-title="Slovensko",Karpaty
 http://213.81.153.221:8080/karpaty
-#EXTINF:0 tvg-logo="http://www.nztv.eu/img/logo-nztv-white.png" group-title="Slovensko",Nové Zámky
+#EXTINF:-1 tvg-logo="http://www.nztv.eu/img/logo-nztv-white.png" group-title="Slovensko",Nové Zámky
 http://s1.media-planet.sk:80/live/novezamky/lihattv.m3u8
-#EXTINF:0 tvg-logo="https://tvoravia.sk/wp-content/uploads/thegem-logos/logo_798fb82d7e99c59716e3c6233e898800_1x.png" group-title="Slovensko",Oravia
+#EXTINF:-1 tvg-logo="https://tvoravia.sk/wp-content/uploads/thegem-logos/logo_798fb82d7e99c59716e3c6233e898800_1x.png" group-title="Slovensko",Oravia
 http://ottst05.flexitv.sk/822-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/785_logo_tv_kezmarok1.png" group-title="Slovensko",Kezmarok
 http://213.81.153.221:8080/kezmarok
