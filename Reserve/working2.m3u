@@ -27,10 +27,6 @@ http://202.80.222.170/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=00
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"group-title="Indonesia",SCTV
 http://live02.mncnow.id/sctv/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="Indonesia",Trans TV
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
-#EXTINF:0 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans 7
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
@@ -140,8 +136,23 @@ http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/903551417721339904/_fg9BObb.jpg" group-title="Japan(日本)",NHK BS 1
 http://125.227.210.37:8939/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News",Euronews 
+http://84.22.33.254/unicast.euronews/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai3-hd.png" group-title="Italia",Rai 3
+http://84.22.33.254/unicast.rai3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai12-hd.png" group-title="Italia",Rai 2
+http://84.22.33.254/unicast.rai2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="Italia",Rai 1
+http://84.22.33.254/unicast.rai1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiNews.it.png" group-title="Italia",Rai News 24
+http://84.22.33.254/unicast.rainews/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
+http://84.22.33.254/unicast.bbcworld/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/e/e0/Channel_28_Logo.png/225px-Channel_28_Logo.png" group-title="Thailand (ประเทศไทย)",Ch 3
-http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/2/2a/Channel_13_Logo.png/270px-Channel_13_Logo.png" group-title="Thailand (ประเทศไทย)",Ch 3 Family
-http://ch3-13.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+
+http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+
+http://62.210.205.41:8080/PINK/index.m3u8
+
+http://61.178.129.74:5021/live_hls/1/playlist.m3u8
