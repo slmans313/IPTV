@@ -309,6 +309,8 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205
 
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="Movies",FilmBox Plus
+http://84.22.33.254/unicast.filmboxplus/index.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="Movies",FilmBox Extra
 http://84.22.33.254/unicast.filmboxextrahd/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Movies",J'Go FMP
@@ -380,7 +382,7 @@ https://live.dufree4k.net/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/si/DiscoveryScience.si.png" group-title="Learning",Discovery Science
 https://live.dufree4k.net/02_MTV_Asia_720p/chunklist.m3u8/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.docuboxlive.com/img/docu_logo.png" group-title="Learning",Docubox
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+http://84.22.33.254/unicast.docubox/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Learning",History
 https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
