@@ -40,6 +40,8 @@ http://5.135.92.133:52841/out/u/400_2.m3u8
 http://95.107.132.131:3344/udp/235.0.0.6:9009
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/kohavision-logo.png group-title="Shqipëria/Kosovës",Kohavision
 http://5.135.92.133:52841/out/u/38_2.m3u8
+#EXTINF:-1 tvg-logo="http://www.oranews.tv/themes/oranewstheme/assets/img/logoora.png" group-title="Shqipëria/Kosovës",Ora HD
+https://oranews.tv/oranews/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvpuls.com/images/assets/header_logo_rtv_puls.png" group-title="Shqipëria/Kosovës",RTV Puls
 http://84.22.33.254/unicast.pulstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/08/Logo_TV21_1_PNG.png" group-title="Shqipëria/Kosovës",TV 21
@@ -60,16 +62,10 @@ https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yt1q1x.m3u8
 http://stream.shqiptv.com:7080/altvusa/index.m3u8
 #EXTINF:-1 tvg-logo="http://shkabaj.net/tv/img/tvnew_arta.png" group-title="Shqipëria/Kosovës",Dukagjini
 https://tiny.gjirafa.com/live/mWgsaktJ93W4pUDKwZdD0Vn91u2WqsOs/yyqtyk.m3u8
-#EXTINF:-1 tvg-logo="http://www.scan-tv.com/wp-content/uploads/2016/12/logo-default.png" group-title="Shqipëria/Kosovës",Scan Tv
-http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/Jolly.al.png" group-title="Shqipëria/Kosovës",Jolly
+http://84.22.33.254/unicast.jollyhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://balkanweb.com/news24/live/images/logolive.png" group-title="Shqipëria/Kosovës",News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://channels.roku.com/images/f2d6beb9b61145a68e0493eeed4766cb-hd.jpg" group-title="Shqipëria/Kosovës",Ora TV
-http://dcunilive36-lh.akamaihd.net:80/i/dclive_1@662093/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.oranews.tv/themes/oranewstheme/assets/img/logoora.png" group-title="Shqipëria/Kosovës",Ora HD
-https://oranews.tv/oranews/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.oranews.tv/themes/oranewstheme/assets/img/logoora.png" group-title="Shqipëria/Kosovës",Ora News
-https://tv.oranews.tv/channelone/channelone/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://opoja.tv/wp-content/uploads/2018/10/Final-300x113.png" group-title="Shqipëria/Kosovës",Opoja
 https://54627d4fc5996.streamlock.net/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://report-tv.al/wp-content/uploads/2017/05/report_logo_qender.png" group-title="Shqipëria/Kosovës",Report-TV
@@ -78,6 +74,8 @@ http://95.107.132.131:3344/udp/238.20.15.5:9009
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RtvZik_logo_58ffc167a169e.png" group-title="Shqipëria/Kosovës",RTV Zik
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.scan-tv.com/wp-content/uploads/2016/12/logo-default.png" group-title="Shqipëria/Kosovës",Scan Tv
+http://edge01eu.ekranet.com/scantv/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tematv.al/sites/default/files/logo3.png" group-title="Shqipëria/Kosovës", Tema TV
 http://edge01eu.ekranet.com/tematv_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/al/TVJUG.png" group-title="Shqipëria/Kosovës",TV JUG
