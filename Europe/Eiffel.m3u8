@@ -22,10 +22,8 @@ http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptv-shqip.net/wp-content/uploads/2018/11/RTSH-Korca-1-196x300.png" group-title="Shqipëria/Kosovës",RTSH Korca
 http://95.107.132.131:3344/udp/238.20.15.4:9009
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Sekuence%2Btjeter%2B.bmp%2Bok.bmp.jpg/revision/latest?cb=20160129170848" group-title="Shqipëria/Kosovës",RTSH Gjirokastra
 http://95.107.132.131:3344/udp/238.20.15.3:9009
-
 #EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria/Kosovës",RTK 1
 http://84.22.33.254/unicast.rtk1hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Shqipëria/Kosovës",RTK 2
@@ -34,9 +32,22 @@ http://84.22.33.254/unicast.rtk2/index.m3u8
 http://84.22.33.254/unicast.rtk3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk4.png" group-title="Shqipëria/Kosovës",RTK 4
 http://84.22.33.254/unicast.rtk4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/KlanTV.al.png" group-title="Shqipëria/Kosovës",Klan
+http://95.107.132.131:3344/udp/235.0.0.1:9009
+#EXTINF:-1 tvg-logo="https://klankosova.tv/wp-content/themes/klankosova-tv/images/logo.png" group-title="Shqipëria/Kosovës",Klan Kosov
+http://5.135.92.133:52841/out/u/400_2.m3u8
+#EXTINF:-1 tvg-logo="http://klanplus.al/wp-content/uploads/2018/01/logo-kplus-copy-1.png" group-title="Shqipëria/Kosovës",Klan Plus
+http://95.107.132.131:3344/udp/235.0.0.6:9009
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/kohavision-logo.png group-title="Shqipëria/Kosovës",Kohavision
+http://5.135.92.133:52841/out/u/38_2.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvpuls.com/images/assets/header_logo_rtv_puls.png" group-title="Shqipëria/Kosovës",RTV Puls
 http://84.22.33.254/unicast.pulstv/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/08/Logo_TV21_1_PNG.png" group-title="Shqipëria/Kosovës",TV 21
+http://84.22.33.254/unicast.rtv21/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TopChannel.al.png" group-title="Shqipëria/Kosovës",Top Channel
+http://95.107.132.131:3344/udp/232.10.15.1:9356
+#EXTINF:-1 tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria/Kosovës",Vision TV Plus
+http://95.107.132.131:3344/udp/238.11.12.2:9009
 
 
 #EXTINF:-1 tvg-logo="https://a2news.com/wp-content/themes/a2cnn/assets/images/a2-cnn-logo.png" group-title="Shqipëria/Kosovës",A2
@@ -51,16 +62,6 @@ http://stream.shqiptv.com:7080/altvusa/index.m3u8
 https://tiny.gjirafa.com/live/mWgsaktJ93W4pUDKwZdD0Vn91u2WqsOs/yyqtyk.m3u8
 #EXTINF:-1 tvg-logo="http://www.scan-tv.com/wp-content/uploads/2016/12/logo-default.png" group-title="Shqipëria/Kosovës",Scan Tv
 http://edge01eu.ekranet.com/scantv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TopChannel.al.png" group-title="Shqipëria/Kosovës",Top Channel
-http://95.107.132.131:3344/udp/232.10.15.1:9356
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/KlanTV.al.png" group-title="Shqipëria/Kosovës",Klan
-http://95.107.132.131:3344/udp/235.0.0.1:9009
-#EXTINF:-1 tvg-logo="https://klankosova.tv/wp-content/themes/klankosova-tv/images/logo.png" group-title="Shqipëria/Kosovës",Klan Kosov
-http://5.135.92.133:52841/out/u/400_2.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/kohavision-logo.png group-title="Shqipëria/Kosovës",Kohavision
-http://5.135.92.133:52841/out/u/38_2.m3u8
-#EXTINF:-1 tvg-logo="http://klanplus.al/wp-content/uploads/2018/01/logo-kplus-copy-1.png" group-title="Shqipëria/Kosovës",Klan Plus
-http://95.107.132.131:3344/udp/235.0.0.6:9009
 #EXTINF:-1 tvg-logo="http://balkanweb.com/news24/live/images/logolive.png" group-title="Shqipëria/Kosovës",News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/f2d6beb9b61145a68e0493eeed4766cb-hd.jpg" group-title="Shqipëria/Kosovës",Ora TV
@@ -85,8 +86,7 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 https://54627d4fc5996.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://shkabaj.net/tv/img/tvnew_rtvzik.png" group-title="Shqipëria/Kosovës",RTV Zik
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria/Kosovës",Vision TV Plus
-http://95.107.132.131:3344/udp/238.11.12.2:9009
+
 
 
 
