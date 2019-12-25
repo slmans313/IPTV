@@ -329,9 +329,16 @@ https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kringvarp_foroya.jpg/300px-Kringvarp_foroya.jpg" group-title="Danmark",Kringvarp Føroya
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FranceO.fr.png" group-title="Français",France O
+https://stream.ecable.tv/franceo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France2.fr.png" group-title="Français",France 2
 http://84.22.33.254/unicast.france2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="Français",France 3
+https://stream.ecable.tv/france3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France4.fr.png" group-title="Français",France 4
+https://stream.ecable.tv/france4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France5.fr.png" group-title="Français",France 5
+https://stream.ecable.tv/france5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="Français",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BFMTV.fr.png" group-title="Français",BFM 
