@@ -86,7 +86,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png" group-title="Indonesia",ANTV
 https://delivery.macan.live/stream/id_antv/index.m3u8?token=gratisan
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Indonesia",GTV
-https://cdn-livetv5.metube.id/hls/globaltv.m3u8
+https://dl.dropbox.com/s/phpfg274xbjqxbl/GTV.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Indonesia",Indosiar
 https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=gratisan
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="Indonesia",I News
@@ -94,9 +94,9 @@ https://cdn-livetv1.metube.id/hls/inewstv.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",Kompas TV
 https://delivery.macan.live/stream/id_kompastv/index.m3u8?token=gratisan
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/300px-RCTI_2015.svg.png" group-title="Indonesia",RCTI
-https://delivery.macan.live/stream/id_rcti/index.m3u8?token=gratisan
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Indonesia",MNC
-https://cdn-livetv5.metube.id/hls/mnctv.m3u8
+https://dl.dropbox.com/s/iruxo9yn5l00abd/MNCTV.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1432776307_logo_news.png" group-title="Indonesia",MNC News
 https://cdn-livetv1.metube.id/hls/mncnews.m3u8
 #EXTINF:0 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1442313368_logo_SOCCER-CHANNEL.png" group-title="Indonesia",MNC Soccer
@@ -108,13 +108,13 @@ https://delivery.macan.live/stream/id_nettv/index.m3u8?token=gratisan
 #EXTINF:0 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
 https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=gratisan
 #EXTINF:0 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
-https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan
+https://dl.dropbox.com/s/ooyykkqywfrscyh/Sctv.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://tvonenews.tv/assets/img/element/logo-tvone-transp.png" group-title="Indonesia",TV One
-https://delivery.macan.live/stream/id_tvone/index.m3u8?token=gratisan
+https://dl.dropbox.com/s/og25nmf6u54dfx9/Tvone.m3u8?dl=0
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy.jpg" group-title="Indonesia",TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
@@ -243,6 +243,10 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(03)/inde
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1145966478295891968/8Y0sF2lL_400x400.png" group-title="Indonesia",TVRI Sumatera Utara
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(03)/index.m3u8
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png" group-title="Indonesia",Usee Prime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" group-title="Indonesia",Usee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:0 tvg-logo="https://zeelwebsite.s3.amazonaws.com/Zee%20Bioskop%20new%20logo%20About%20us%20-%20Copy.png" group-title="Indonesia",Zee Bioskop
 http://210.210.155.35/session/9b11be32-6a30-11e9-9e00-ade6bb5dc228/qwr9ew/s/s32/02.m3u8
 
