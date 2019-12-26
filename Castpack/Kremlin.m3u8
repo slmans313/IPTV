@@ -797,6 +797,9 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/10/UATV.png" group-title="Україна",UA
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Україна",Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://11tv.dp.ua/wp-content/uploads/2019/05/cropped-11logo100X100.png" group-title="Україна",11 канал
 http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
@@ -890,8 +893,6 @@ http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-EHXxEtprxoc/VhvVgYCXIxI/AAAAAAAAKUI/XUq2h0UGZdo/s1600/ont%2Blogo%2Bon%2Bwhite.jpg" group-title="Україна",Общественное Независимое ТВ
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Україна",Рада
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rai.ua/template/images/trkrai_logo.png" group-title="Україна",РАІ
 http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
 #EXTINF:-1 tvg-logo="http://reporter.od.ua/wp-content/uploads/2017/09/logo_retina-300x991.png" group-title="Україна",Репортер
