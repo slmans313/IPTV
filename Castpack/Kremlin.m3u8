@@ -200,8 +200,6 @@ http://cdn.illi.tv/illitv_2000/index.m3u8
 https://hls.m-ten.ru/hls/21/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.sgutv.ru/img/hat_left.png" group-title="Россия",Первый образовательный
 http://217.25.226.215:4022/udp/235.1.10.20:10000
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/K1_62014.jpg" group-title="Россия",K1
-http://109.68.40.67/life/k1.m3u8
 #EXTINF:-1 tvg-logo="http://www.kaleidoskoptv.tv/img/logo1.png" group-title="Россия",Kalejdoskop
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" group-title="Россия",Каббала
@@ -770,24 +768,26 @@ https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 tvg-logo="https://culture.suspilne.media/inc/img/logo_culture.png" group-title="Україна",UA:Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
-#EXTINF:-1 tvg-logo="https://112.international/img/icons/logo.png" group-title="Україна",112 Україна
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.itk.ua/files/upload/logos/Logo_Ukraina.jpg" group-title="Україна",Телеканал Україна
-http://78.26.128.52:6666
-#EXTINF:-1 tvg-logo="http://www.itk.ua/files/upload/logos/logo5kanal.jpg" group-title="Україна",5 Канал Ukraina
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
-#EXTINF:-1 tvg-logo="http://7kanal.com.ua/wp-content/themes/7k/img/logo-big.png" group-title="Україна",7 Канал Ukraina
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Україна",Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ictv.ua/wp-content/themes/ictv/includes/images/new_design/new_logo.png" group-title="Україна",ICTV
+http://50.7.244.58:8080/ictv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://inter.ua/images/logo.png" group-title="Україна",Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.itk.ua/files/upload/logos/Logo_Ukraina.jpg" group-title="Україна",Телеканал Україна
+http://78.26.128.52:6666
+#EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Україна",K1
+http://109.68.40.67:80/life/k1_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/530034276792676352/lsgmmu4e.jpeg" group-title="Україна",Первый городской
 https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr-lq/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ntn.ua/images/new_logo.png" group-title="Україна",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Україна",K1
-http://109.68.40.67:80/life/k1_3/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://7kanal.com.ua/wp-content/themes/7k/img/logo-big.png" group-title="Україна",7 Канал Ukraina
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2019/02/UA_Odessa.png" group-title="Україна",UA:Одесса
 http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
@@ -797,8 +797,9 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/10/UATV.png" group-title="Україна",UA
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Україна",Рада
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://112.international/img/icons/logo.png" group-title="Україна",112 Україна
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://11tv.dp.ua/wp-content/uploads/2019/05/cropped-11logo100X100.png" group-title="Україна",11 канал
