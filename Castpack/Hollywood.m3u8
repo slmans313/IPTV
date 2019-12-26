@@ -148,18 +148,23 @@ rtmp://dv2.tp33.net:1935/sat/tv741
 http://84.22.33.254/unicast.extremesports/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ElevenSports.us.png" group-title="Sports",Eleven Sports 臺灣
 rtmp://59.124.75.137/sat/md021
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarSports1.in.png" group-title="Sports",Star Sports 1
-http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/uk-skysports-arena_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/uk-skysports-action_720/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Sports",Sony Ten 1
 http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="Sports",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Sports",Sony Six
 http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarSports1.in.png" group-title="Sports",Star Sports 1
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="Sports",True Sport HD1
 https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -221,8 +226,6 @@ https://livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/uk-skysports-football_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Football",Sky Sports Main Event
 https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/uk-skysports-mainevent_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football",Sky Sports Premier League
-http://sds3.selez.xyz/hls/skyepllsh/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Football",True Sport 2
 https://live.dufree4k.net/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2018/06/true-sport2.png" group-title="Football",True Sport HD2
@@ -248,10 +251,13 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
 http://203.154.243.89:1208
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="Golf",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf",ゴルフネットワーク
-http://203.162.235.41:16924
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Football",Sky Sports Golf
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/uk-skysports-golf_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_056.png&w=355&h=200" group-title="Golf",True Sport 5
 https://live.dufree4k.net/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf",ゴルフネットワーク
+http://203.162.235.41:16924
+
 
 #EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
