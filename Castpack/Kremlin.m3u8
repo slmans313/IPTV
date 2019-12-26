@@ -163,6 +163,8 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 http://85.234.33.60/stream/c11.m3u8
 #EXTINF:-1 tvg-logo="http://nashe-tv.com/wp-content/themes/nashetv/images/logo.png" group-title="Россия",Наше
 http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio111.ru/wp-content/uploads/2017/02/logo-13-400x225.jpg" group-title="Россия",Новое радио
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-logo="https://www.currenttime.tv/Content/responsive/RFE/ru-RU-TV/img/logo-compact.png" group-title="Россия",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2019/02/nashe-lubimoe-kino_1-768x440.jpg" group-title="Россия",наше любимое
@@ -868,12 +870,16 @@ http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
 http://arhat.tv/public/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://bambarbia.tv/wp-content/uploads/2018/01/bbb-logo-1.png" group-title="Україна",Bambarbia
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://balta.tv/wp-content/uploads/2016/02/Logo-BIK3.png" group-title="Україна",Балта ТВ HD
+http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.vtvplus.com.ua/templates/ua/images/logo.png" group-title="Україна",ВТВ-Плюс
 http://iptv.rubintele.com:8552/play/a007
 #EXTINF:-1 tvg-logo="http://stat.vo.org.ua/images/logo.png" group-title="Україна",Возрождение
 http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sk1.tv/images/logo.png" group-title="Україна",СК1
 http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freelance.ru/img/portfolio/pics/00/2A/32/2765554.jpg" group-title="Україна",Смiла ТВ
+http://195.95.171.15/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.sonce.tv/sites/all/themes/sun/logo.png" group-title="Україна",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/d/db/0714266001516787356.png/revision/latest?cb=20181028143947&path-prefix=ru" group-title="Україна",Донеччина
