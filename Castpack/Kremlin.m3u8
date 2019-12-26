@@ -149,6 +149,8 @@ http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
 http://109.248.236.41:4433/udp/238.1.1.107:1234
 #EXTINF:-1 tvg-logo="http://www.evrazia.tv/files/flash.jpg" group-title="Россия",Евразия ТВ
 http://paideuma.tv:1941/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mega-mir.net/uploads/posts/2015-06/1434573985_mega-mir.net-en-tv.jpg" group-title="Россия",En TV
+http://oriontv.net/hls/480.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Россия",Euronews Русский
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510953667_eho-tv-24.png" group-title="Россия",Эхо 24 
@@ -294,7 +296,7 @@ https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-logo="https://redcom.ru/include/logo_best.png" group-title="Россия",Redcom
 https://tvstreamer.redcom.ru/Redcams/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.shanson.tv/image/logo_160120.png" group-title="Россия",Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/chunklist_b1996000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.shansontv
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rzdtv.ru/wp-content/themes/default/img/logo.png" group-title="Россия",ржд тв 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sochilive.tv/sites/all/themes/sochilive/logo.png" group-title="Россия",Sochi Live
