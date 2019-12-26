@@ -62,7 +62,7 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 #EXTINF:-1 tvg-logo="https://tvr24.tv/assets/logo-6b7419a9876e12ea94f047dd4b848c3383d6db2d65ec4559592988c275c12c3e.png" group-title="Россия",24 TBP
 http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Россия",360°
-http://video1.in-news.ru/360/index.m3u8
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/19/86/pp2.png" group-title="Россия",360° Новости
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
 #EXTINF:-1 tvg-logo="https://img12.lostpic.net/2018/05/11/6c7bcb9a0b3fd35690920e17f3fd02b8.png" group-title="Россия",43 канал
@@ -141,6 +141,8 @@ http://109.68.40.67/life/magnolia.m3u8
 http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/surgut-24.png" group-title="Россия",Сургут 24
 http://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/sitv.png" group-title="Россия",Новости Сургута
+http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rgvktv.ru/templates/gk_gamenews/images/logo.png" group-title="Россия",Дагестан
 http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/17/02/za7.png" group-title="Россия",Домашние Животные
@@ -363,6 +365,12 @@ https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
 https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatNature.ru.png" group-title="Россия",Viasat Nature
 https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/vip_logo_rgb_-_premiere_colour_0.png" group-title="Россия",VIP Premiere
+http://188.35.9.11:2013
+#EXTINF:-1 tvg-logo="https://vipplay.ru/img/film/3.png" group-title="Россия",VIP Megahit
+http://188.35.9.11:2016
+
+
 #EXTINF:-1 tvg-logo="http://vrt.tv/assets/vrt/img/logo/logo_30.png" group-title="Россия",VRT.TV
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.xn--80af5aj3e.xn--p1ai/assets/images/logo.png" group-title="Россия",Юрган ТВ
@@ -381,24 +389,33 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 http://188.243.62.238:81/udp/239.239.4.32:5239
 #EXTINF:-1 tvg-logo="https://prod-profile.pscp.tv/1lZKpYwRPRnjn/cc1b0983c5d435dc4d89887b54860f25-128.jpg" group-title="Россия",VIVA Russia
 http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1 tvg-logo="http://tv-nano.ru/wp-content/uploads/2019/03/cropped-3D_logo_NANO_SD_rgb-2.jpg" group-title="Россия",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 tvg-logo="https://luxury.tv/wp-content/uploads/2019/12/TV_logo_L041219.jpg" group-title="Россия",Luxury TV
+http://nano.teleservice.su:8080/hls/luxury.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="Россия",Boomerang Россия
+http://178.124.183.14:80/hls/JSQ2S6VQTE/variant.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Россия",Cartoon Network Россия
+http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Россия",Disney Channel Россия
 http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyJunior.ee.png" group-title="Россия",Disney Junior Россия
 http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/Nickelodeon.ee.png" group-title="Россия",Nickelodeon Россия
-http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/NickJr.ee.png" group-title="Россия",Nick JR Россия
-http://88.119.220.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nicktoons.uk.png" group-title="Россия",Nicktoons Россия
-http://88.119.220.2/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Fox.ru.png" group-title="Россия",Fox Россия
 http://test.stream.strah.live/hls/CH_FOX/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/FoxLife.ru.png" group-title="Россия",Fox Life Россия
 http://test.stream.strah.live/hls/CH_FOXL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Россия",History Россия
+http://178.124.183.5/hls/CH_HISTORY/variant.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/Nickelodeon.ee.png" group-title="Россия",Nickelodeon Россия
+http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Россия",National Geographic Россия
 http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/NickJr.ee.png" group-title="Россия",Nick JR Россия
+http://88.119.220.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nicktoons.uk.png" group-title="Россия",Nicktoons Россия
+http://88.119.220.2/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
 
 #EXTINF:-1 tvg-logo="http://onelike.tv/images/krym-1.png" group-title="Крым",1 Крым
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
@@ -410,10 +427,8 @@ http://176.99.110.252/stream8/playlist.m3u8
 http://hls.atvmedia.ru/atv800.m3u8
 #EXTINF:-1 tvg-logo="https://nts-tv.com/bitrix/templates/v1.0/img/logo_2.png" group-title="Крым",НТС
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ikstv.ru/wp-content/uploads/2018/01/logo-iks-dark-2.jpg" group-title="Крым",ИКС ТВ
-http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510609997_itv.png" group-title="Крым",ИТВ Крым
-http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://krymology.info/images/thumb/c/ca/Pr2-1.jpg/290px-Pr2-1.jpg" group-title="Крым",ТРК Черноморская
+http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
 #EXTINF:-1 tvg-logo="https://crimea.suspilne.media/inc/img/logo.png" group-title="Крым",UA:Крым
 http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
 
@@ -935,10 +950,6 @@ http://tv7plus.com/hls/tv7_site.m3u8
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://khersontv.com/wp-content/themes/hueman/img/logo.png" group-title="Україна",Херсон Плюс
 https://stream.smarthost.com.ua/hls/khersontv.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://ztv.zp.ua/wp-content/themes/tv-z/img/logo.png" group-title="Україна",Z
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-logo="http://zd.od.ua/wp-content/uploads/2018/01/zdor-2.png" group-title="Україна",Здоровье
