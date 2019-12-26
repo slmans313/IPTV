@@ -714,9 +714,9 @@ http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/TV8_logo_for_Sweden_and_Lithuania.png" group-title="Lietuva",TV8 Lietuva
 http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="Moldova",Moldova 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Moldova_1_%282016%29.svg/1200px-Logo_Moldova_1_%282016%29.svg.png" group-title="Moldova",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.trm.md/img/pages/2018/10/18/moldova-2/moldova-2.png" group-title="Moldova",Moldova 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_Moldova_2_%282016%29.svg/1200px-Logo_Moldova_2_%282016%29.svg.png" group-title="Moldova",Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a-tv.md/templates/test/img/logo-site.png" group-title="Moldova",Accent
 http://video.a-tv.md/hls/accent.m3u8
@@ -768,6 +768,14 @@ https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 tvg-logo="https://culture.suspilne.media/inc/img/logo_culture.png" group-title="Україна",UA:Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2019/02/UA_Odessa.png" group-title="Україна",UA:Одесса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dn.suspilne.media/inc/img/logo-5.png" group-title="Україна",UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:-1 tvg-logo="https://zakarpattya.net.ua/postimages/news/2018/12/46856833_372987726772655_3183301791244615680_n.png" group-title="Україна",UA:Закарпаття
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/10/UATV.png" group-title="Україна",UA
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 tvg-logo="http://onlines.tv/wp-content/uploads/2017/04/1514921891_telekanal-rada.png" group-title="Україна",Рада
 http://217.20.164.181/live/rada480p.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ictv.ua/wp-content/themes/ictv/includes/images/new_design/new_logo.png" group-title="Україна",ICTV
@@ -778,6 +786,18 @@ http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 http://78.26.128.52:6666
 #EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Україна",K1
 http://109.68.40.67:80/life/k1_3/index.m3u8
+#EXTINF:-1 tvg-logo="http://pixelua.tv/wp-content/themes/pixel/images/k2.png" group-title="Україна",K2
+http://50.7.244.58:8080/k2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.stb.ua/wp-content/uploads/2013/12/2013_Logo_slogan_red_v03_as.png" group-title="Україна",СТБ
+http://50.7.244.58:8080/stb/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Espreso_tv_ua.png" group-title="Україна",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/24_Group_Ukraine_04.png" group-title="Україна",24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 tvg-logo="https://112.international/img/icons/logo.png" group-title="Україна",112 Україна
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://glas.org.ua/sites/default/files/logo_0.png" group-title="Україна",Глас
+https://g7.wi.com.ua/hls/glassua.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/530034276792676352/lsgmmu4e.jpeg" group-title="Україна",Первый городской
 https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr-lq/playlist.m3u8
@@ -789,17 +809,8 @@ http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://7kanal.com.ua/wp-content/themes/7k/img/logo-big.png" group-title="Україна",7 Канал Ukraina
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://mediasat.info/wp-content/uploads/2019/02/UA_Odessa.png" group-title="Україна",UA:Одесса
-http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dn.suspilne.media/inc/img/logo-5.png" group-title="Україна",UA:Донбас
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-#EXTINF:-1 tvg-logo="https://zakarpattya.net.ua/postimages/news/2018/12/46856833_372987726772655_3183301791244615680_n.png" group-title="Україна",UA: Закарпаття
-http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/10/UATV.png" group-title="Україна",UA
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://112.international/img/icons/logo.png" group-title="Україна",112 Україна
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://11tv.dp.ua/wp-content/uploads/2019/05/cropped-11logo100X100.png" group-title="Україна",11 канал
@@ -808,8 +819,6 @@ http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1zahid.com/img/logo.png" group-title="Україна",Перший Заходний
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/24_Group_Ukraine_04.png" group-title="Україна",24 канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-logo="https://gorod.dp.ua/pic/placeimages/07/975/logo.gif" group-title="Україна",34 телеканал
 http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
 
@@ -838,8 +847,6 @@ http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/d/db/0714266001516787356.png/revision/latest?cb=20181028143947&path-prefix=ru" group-title="Україна",Донеччина
 http://stream.dn.ua/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Espreso_tv_ua.png" group-title="Україна",Еспресо
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:-1 tvg-logo="https://dumskaya.net/i3/logotv.png" group-title="Україна",EДумская
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://eco-tv.com.ua/assets/template/img/logo.png" group-title="Україна",Еко
