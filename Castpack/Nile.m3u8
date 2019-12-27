@@ -76,8 +76,11 @@ http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Addis-webtvonlive-com.jpg" group-title="Ethiopia(ኢትዮጵያ)",Addis TV
 http://162.212.178.70:4842/bysid/13
 
-#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",Televisión de Guinea Ecuatorial
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w2108596902_b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",TVGE Interantional
+http://162.212.178.78:4342/bysid/4
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Ghana_TV.png" group-title="Ghana",Ghana TV
 https://stream.ecable.tv/ghanatv/tracks-v1a1/mono.m3u8
@@ -131,7 +134,7 @@ http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
 http://82.212.74.2:8000/live/7308.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ortm_logo_2008.png" group-title="Mali",ORTM
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
+http://162.212.178.78:4342/bysid/8
 
 #EXTINF:-1 tvg-logo="https://tv2africaprodimgcdn.tv2u.com/channels/logo/original/0x80/1576238915185.png" group-title="Nambia",Nambia TV 2
 https://za-tv2a-wowza-origin01.akamaized.net/tv2n/smil:tv2nlive/playlist.m3u8
