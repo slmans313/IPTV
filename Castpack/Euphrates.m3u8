@@ -4,7 +4,7 @@ https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv2.ir/Resource/images/header-logo.png" group-title="العراق",IRIB 2
 https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/3.ir.png" group-title="العراق",IRIB 3 
-https://stream.persianleague.com/live/tv3/playlist.m3u8
+https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
 #EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/4-min.png" group-title="العراق",IRIB 4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/5.png" group-title="العراق",IRIB 5
@@ -22,6 +22,10 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/caltex.jpg" group-title="العراق",Caltex Music
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 tvg-logo="http://soltaan.com/wp-content/uploads/2019/09/cinefilm.png" group-title="العراق",Cine Film
+http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://soltaan.com/wp-content/uploads/2019/09/cineseries.png" group-title="العراق",Cine Series
+http://162.212.176.222/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/ghm.png" group-title="العراق",GHM TV
 https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/7cc920348532e7cc63e15024fe5c1a57.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/glory.png" group-title="العراق",Glory TV
@@ -42,6 +46,8 @@ https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/192292e35fbe73f6d2b8d96bd
 https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_Manoto-Rebrand_2018.png/375px-LOGO_Manoto-Rebrand_2018.png" group-title="العراق",Manoto
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-logo="http://natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeo-farsi.png" group-title="العراق",Nat Geo Farsi
+http://162.212.176.222/36bay2/gin/giniko_tvbox-natgeofarsi_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.mohabat.tv/wp-content/uploads/2018/03/logo-1.png" group-title="العراق",Mohabat TV
 http://51.158.175.55/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://maahtvplus.com/wp-content/uploads/2019/02/mahtvplus-logo.png" group-title="العراق",maahTV+
