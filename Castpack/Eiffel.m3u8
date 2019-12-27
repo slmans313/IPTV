@@ -144,7 +144,7 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 http://alb.123alb.com:25461/live/l/l/1965.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dorftv.at/sites/default/themes/dorftv_omega/logo.png" group-title="Österreich",dorf
-https://stream.openplayout.org/hls/dorf.m3u8
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Österreich",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-logo="https://okto.tv/bundles/app/images/okto_logo.png" group-title="Österreich",Okto
@@ -519,7 +519,7 @@ http://185.254.160.4:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/at/3sat.at.png" group-title="Deutschland",3 Sat
 http://185.254.160.4:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
-https://mcdn.daserste.de/daserste/de/profile1/master_3744.m3u8
+http://185.254.160.4:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle +
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle
