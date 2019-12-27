@@ -145,6 +145,8 @@ http://alb.123alb.com:25461/live/l/l/1965.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Österreich",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-logo="https://www.m4tv.at/pix/logo0.png" group-title="Österreich",M4 Mostviertelfernsehen
+rtmp://streaming.austria24.tv/live/mp4:stream_720p
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/1964f48edf41fbf4d88c83de4bd0543b.jpeg" group-title="Österreich",RTS
 https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/500px-Logo-gotv-2004.svg_.png" group-title="Österreich",Go TV
