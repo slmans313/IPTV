@@ -6,6 +6,16 @@ https://tv.nknews.org/tvhls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국",MBC
 http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국",MBC Test
+http://23.237.112.138:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="한국",KBS 1
+http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="한국",KBS 2
+http://23.237.112.138:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="한국",SBS Test
+http://23.237.112.138:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="한국",SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
