@@ -2,16 +2,11 @@
 
 #EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Russia (Россия)",360°
 http://360tv-cdn.facecast.io/360/channel2/1.m3u8
-#EXTINF:-1 tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria/Kosovës",Vision TV Plus
-http://84.22.33.254/unicast.vizionplus/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034442917753118720/stLuQkd6_400x400.jpg" group-title="Kazakhstan (Казахстан)",Tamasha
 https://tamasha.rtrk.kz/tamasha_480/tamasha_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.bjnews.com.cn/image/2019/05/03/4788479376108891447.jpg" group-title="中文频道",北京冬奥纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="Entertainment",TBS
-http://170.250.96.20:8117/streams/TBS.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 http://220.158.149.14:9999/live/TV00000000000000000018@HHZT;LIVE
@@ -66,16 +61,14 @@ http://185.112.140.3:8892/play/a00b/index.m3u8
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" group-title="Kazakhstan (Казахстан)",KTK
 http://195.49.213.56/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ntn.ua/images/new_logo.png" group-title="Ukraine(Україна)",НТН
-https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://inter.ua/images/logo.png" group-title="Ukraine(Україна)",Iнтер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Україна",K1
+http://edge3.iptv.macc.com.ua/life/k1.m3u8
 #EXTINF:-1 tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="Ukraine(Україна)",KRATU
 http://46.175.163.130/vod/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="Ukraine(Україна)",KRATU
 http://212.113.32.169:8080/Apple/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://o-tv.tv/img/logo.png" group-title="Ukraine(Україна)",OTV
-http://212.26.146.148/hls/otv.m3u8
 #EXTINF:-1 tvg-logo="http://yatb.tv/wp-content/uploads/2018/03/73d917e7-logo.jpg" group-title="Ukraine(Україна)",ЯТБ
 http://46.175.163.130/vod/8/index.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Kuawait (الكويت)",Kuwait TV 1
@@ -109,10 +102,6 @@ http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="Germany(Deutschland)",HR Fernsehen
 http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-#EXTINF:-1 ,City TV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8
-#EXTINF:-1 ,Ланет PLAY
-http://play.lanet.tv/live/2003.m3u8
 #EXTINF:-1 tvg-logo="https://ictv.ua/wp-content/themes/ictv/includes/images/new_design/new_logo.png" group-title="Ukraine(Україна)",ICTV
 http://194.44.203.253/hls/6/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-st1.rtr-vesti.ru/lrt_cdn/i/logo/ch-logo-1.png" group-title="Russia (Россия)",Россия 1(Самара)
@@ -126,23 +115,22 @@ http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/903551417721339904/_fg9BObb.jpg" group-title="Japan(日本)",NHK BS 1
 http://125.227.210.37:8939/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News",Euronews 
-http://84.22.33.254/unicast.euronews/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai3-hd.png" group-title="Italia",Rai 3
-http://84.22.33.254/unicast.rai3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai12-hd.png" group-title="Italia",Rai 2
-http://84.22.33.254/unicast.rai2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="Italia",Rai 1
-http://84.22.33.254/unicast.rai1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiNews.it.png" group-title="Italia",Rai News 24
-http://84.22.33.254/unicast.rainews/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
-http://84.22.33.254/unicast.bbcworld/index.m3u8
 
+#EXTINF:-1,INTV
+http://5.58.64.7:7777/udp/237.0.1.1:1234
+#EXTINF:-1,Kilia Kontakt
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+#EXTINF:-1,ІРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+
+#EXTINF:-1,Films TV
+https://hls.goodgame.ru/hls/165462.m3u8
+#EXTINF:-1,КиноЗаказ 1
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1,КиноЗаказ 2
+http://hls.goodgame.ru/hls/5346.m3u8
 
 
 http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-
-http://62.210.205.41:8080/PINK/index.m3u8
 
 http://61.178.129.74:5021/live_hls/1/playlist.m3u8
