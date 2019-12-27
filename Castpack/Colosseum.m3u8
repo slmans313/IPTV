@@ -238,14 +238,12 @@ http://190.2.154.72:8081/tvstanici/s1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Telma.mk.png" group-title="Македонија",Telma
 http://190.2.154.72:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/08/Logo_TV21_1_PNG.png" group-title="Македонија",TV 21 Македонија
-http://84.22.33.254/unicast.rtv21macedonia/index.m3u8
-
-
+http://5.135.92.133:52841/out/u/160_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://rtk.mk/images/stories/joomlart/rtk_logo_small.png" group-title="Македонија",RTK
 http://95.86.27.228/rtklive/rtklive_1500/index.m3u8
 #EXTINF:-1 tvg-logo="http://shenja.tv/wp-content/uploads/2016/11/logo1.png group-title="Македонија",Shenja
-http://84.22.33.254/unicast.shenjatv/index.m3u8
+http://5.135.92.133:52841/out/u/145_1.m3u8
 #EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258111_files/skyfolkmk.png" group-title="Македонија",Sky Folk
 http://skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-logo="https://starfolkmusic.mk/wp-content/uploads/2019/10/logo-300x169.png" group-title="Македонија",Star Folk
@@ -253,8 +251,8 @@ http://live.muzickatv.mk/hls/Starmusic.m3u8
 #EXTINF:-1 tvg-logo="https://opoja.tv/wp-content/uploads/2018/10/Final-300x113.png" group-title="Македонија",TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png" group-title="Netherlands",NPO 1
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream03/2000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Netherlands",BVN
+http://162.212.178.78:4342/bysid/17
 #EXTINF:-1 tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png" group-title="Netherlands",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://l1.nl/static/img/social.png" group-title="Netherlands",L1mburg ﻿﻿
