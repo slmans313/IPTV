@@ -6,6 +6,8 @@ https://tv.nknews.org/tvhls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국",MBC
 http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="한국",MBC Sports
+http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="한국",KBS 1
 http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
