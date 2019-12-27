@@ -925,8 +925,12 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Україна",НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-logo="https://www.in-tv.net/wp-content/uploads/2018/10/big-intv-logo-home2.gif" group-title="Україна",INTV
+http://5.58.64.7:7777/udp/237.0.1.1:1234
 #EXTINF:-1 tvg-logo="http://idfashion.tv/img/logo.png" group-title="Україна",ID Fashion
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.irt.ua/wp-content/uploads/2014/08/logo2.png" group-title="Україна",ІРТ
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fbc.net.ua/wp-content/uploads/2017/01/cropped-cropped-cropped-logo111.png" group-title="Україна",Первый Деловой
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://old.viasat.ua//images/channels/kyiv-tv.png" group-title="Україна",Київ
@@ -957,6 +961,8 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
 http://langate.tv/acc/tracks-v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.i.ua/radio/logo/1/161.jpg" group-title="Україна",Радио Люкс
 http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apelsun.ua/media/zoo/images/logo_8e3f27edb0aba24fc450f24b51303c23.png" group-title="Україна",Kilia Kontakt
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rudana.com.ua/sites/all/themes/rudana/logo.png" group-title="Україна",Рудана ТВ
 https://live.rudana.com.ua/hls/stream_FHD.m3u8
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510605239_renome-tv.png" group-title="Україна",Renome
