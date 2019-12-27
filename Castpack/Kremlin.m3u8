@@ -825,7 +825,6 @@ http://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvkrt.com.ua/img/logo_krt.png" group-title="Україна",КРТ
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/24_Group_Ukraine_04.png" group-title="Україна",24 канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://112.international/img/icons/logo.png" group-title="Україна",112 Україна
@@ -853,11 +852,15 @@ http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://m2.tv/assets/logo-231ef42a791ac4e9287a94c6dd492ebd740ad3bea40f789cd489683b758ff65d.png" group-title="Україна",М2
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="http://o-tv.tv/img/logo.png" group-title="Україна",OTV
-http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+http://212.26.146.148/hls/otv.m3u8
 #EXTINF:-1 tvg-logo="http://www.musicboxua.tv/wp-content/themes/main/img/logo.png" group-title="Україна",MusicBox Ukraine
 http://212.26.132.86/hls/mb_ua_2500.m3u8
 #EXTINF:-1 tvg-logo="https://film.ua/uploads/assets/images/BOLT1.png" group-title="Україна",Bolt
 http://178.124.183.5/hls/CH_BOLT/variant.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Star_Cinema.png/revision/latest?cb=20190809165111" group-title="Україна",Star Cinema
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/starfamily.png?1535447084" group-title="Україна",Star family
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Україна",K1
 http://109.68.40.67:80/life/k1_3/index.m3u8
 #EXTINF:-1 tvg-logo="http://pixelua.tv/wp-content/themes/pixel/images/k2.png" group-title="Україна",K2
