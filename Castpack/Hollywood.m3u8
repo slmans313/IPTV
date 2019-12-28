@@ -364,11 +364,19 @@ http://84.22.33.254/unicast.amc/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/182_Cinemaworld_HD-01.png" group-title="Movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX
-https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="Movies",FXM
 https://livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="Movies",Fox Family Movies
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMoviesPremium.id.png" group-title="Movies",Fox Movies Premium
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="Movies",Fox Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
 https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="Movies",HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
 https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
@@ -391,6 +399,7 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205
+
 
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/11/01/11010bfdfdb06d306b68dc1c27e4f5dde9d67315918a601c7c3fc4aa059e056a.png" group-title="Movies",FilmBox ArtHouse
 http://84.22.33.254/unicast.arthouse/index.m3u8
@@ -470,6 +479,10 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Kids/Animation",Cartoon Network
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids/Animation",Disney Jr
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DisneyXD.de.png" group-title="Kids/Animation",Disney XD
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DuckTV.sk.png" group-title="Kids/Animation",Duck TV
@@ -479,7 +492,9 @@ http://84.22.33.254/unicast.jimjam/index.m3u8
 #EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids/Animation",妙米
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Kids/Animation",Nickelodeon
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSKids.us.png" group-title="Kids/Animation",PBS Kids
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Pop.uk.png" group-title="Kids/Animation",POP Kids
@@ -510,7 +525,7 @@ http://84.22.33.254/unicast.ci/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation Asia
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery
-http://84.22.33.254/unicast.discovery/index.m3u8
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/si/DiscoveryScience.si.png" group-title="Learning",Discovery Science
 https://live.dufree4k.net/02_MTV_Asia_720p/chunklist.m3u8/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Learning",Investigation Discovery
@@ -553,4 +568,3 @@ http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/1.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="Learning",ICS 上海外语
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
-
