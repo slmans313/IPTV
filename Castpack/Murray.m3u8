@@ -39,6 +39,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC2.uk.png" group-title="UK",BBC 2
 https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BoxHits.uk.png" group-title="UK",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BoxUpfront.uk.png" group-title=UK",Box Upfront
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="UK",Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
@@ -53,6 +57,12 @@ http://84.22.33.254/unicast.cbsreality/index.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/KissTV.uk.png" group-title="UK",Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fkiss%2f
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Kerrang.uk.png" group-title="UK",Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Magic.uk.png" group-title="UK",Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/PickTV.uk.png" group-title="UK",Pick
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK",Premier Sports
@@ -63,6 +73,8 @@ https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/track
 http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TheBox.uk.png" group-title="UK",The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="New Zealand",TVNZ 1
 http://43.224.120.99:8080/tv1/tv1_1500k.m3u8
