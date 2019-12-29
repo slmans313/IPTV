@@ -517,8 +517,6 @@ http://85.132.81.184:8080/atv-2/index.m3u8
 http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.arbtv.az/assets/uploads/sites/logo.png" group-title="Azərbaycan",Arb 
 http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://24.arbtv.az/assets/uploads/sites/logo_arb24.png" group-title="Azərbaycan",Arb 24
-http://85.132.81.184:8080/arb24/liveStream1/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Cbc_azerbaijan.png/revision/latest/scale-to-width-down/340?cb=20190116081414" group-title="Azərbaycan",CBC Azərbaycan
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="Azərbaycan",CBC Sports
@@ -526,21 +524,15 @@ http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dalga.az/assets/uploads/sites/logo.png" group-title="Azərbaycan",Dalğa
 http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gunaz.tv/images/l1.png" group-title="Azərbaycan",Gunaz
-https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist_w1059123534_b128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Lider_TV_logo.jpg" group-title="Azərbaycan",Lider
-http://streams2.livetv.az/azerbaijan/lider_stream/playlist.m3u8
+https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kepez.arbtv.az/assets/uploads/sites/logo.png" group-title="Azərbaycan",Kəpəz
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://muztv.az/images/logo17.png" group-title="Azərbaycan",Muztv
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/7443d2c8-fceb-4455-b667-0be38e655ade_real-az-tv.png" group-title="Azərbaycan",Real TV
-http://streams2.livetv.az/azerbaijan/real/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/space-tv-az-izle.png" group-title="Azərbaycan",Space TV
 http://streams2.livetv.az/azerbaijan/space_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.kanalturan.com/turantv.PNG" group-title="Azərbaycan",Turan TV
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/6ccba13a-6602-4827-a63e-5dfe53cf03bb_xezer-tv.jpg" group-title="Azərbaycan",Xazar
-http://streams2.livetv.az/azerbaijan/xazar_sd_stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_tSYQldIdyI/XBQYPRsRd-I/AAAAAAAAB5U/qEhPdv-tu9AWvEztT12Kmnz5lBR5-0nygCLcBGAs/s1600/NNT.png" group-title="Azərbaycan",Ümüd
 http://win26.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist.m3u8
 
