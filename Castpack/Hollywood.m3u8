@@ -150,12 +150,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-elevensports/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ElevenSports.us.png" group-title="Sports",Eleven Sports 臺灣
 rtmp://59.124.75.137/sat/md021
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
-https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/uk-skysports-arena_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
-https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/uk-skysports-action_720/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Sports",Sony Ten 1
 http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="Sports",Sony Ten 3
@@ -509,9 +503,7 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 http://84.22.33.254/unicast.animalplanet/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 http://39.135.36.140:18890/000000001000/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8428799834696888424&owchid=ystenlive&owsid=1106497909461789280&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7RqKDfJDas7YyDZNJl7HttN1saAiHHRx97PWslNR2vzkU1dWcTZfUtlvjMMZgBZvORGIuGa%2b7fRg7bV0%2fSlWh1
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation 
-http://84.22.33.254/unicast.ci/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation Asia
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
