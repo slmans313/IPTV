@@ -25,14 +25,13 @@ http://95.107.132.131:3344/udp/238.20.15.4:9009
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Sekuence%2Btjeter%2B.bmp%2Bok.bmp.jpg/revision/latest?cb=20160129170848" group-title="Shqipëria/Kosovës",RTSH Gjirokastra
 http://95.107.132.131:3344/udp/238.20.15.3:9009
 #EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria/Kosovës",RTK 1
-http://5.135.92.133:52841/out/u/327_1.m3u8
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Shqipëria/Kosovës",RTK 2
-http://84.22.33.254/unicast.rtk2/index.m3u8
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria/Kosovës",RTK 3
-http://84.22.33.254/unicast.rtk3/index.m3u8
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk4.png" group-title="Shqipëria/Kosovës",RTK 4
-http://84.22.33.254/unicast.rtk4/index.m3u8
-
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://artmotion.net/wp-content/uploadimet/2018/11/ext.jpg" group-title="Shqipëria/Kosovës",Art Motion
 http://84.22.33.254/unicast.infochannel/index.m3u8
