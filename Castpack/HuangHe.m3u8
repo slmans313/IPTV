@@ -205,6 +205,8 @@ http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="臺灣",人間衛視
 http://54.64.23.79:1935/live/vod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.happytv.com.tw/images/logo_white.png" group-title="臺灣",快樂電視
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/HappyTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%B5%84%E8%AE%AF.png" group-title="臺灣",靖天資訊
 http://61.58.60.230:9319/live/202.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90.png" group-title="臺灣",靖天歡樂
@@ -231,14 +233,14 @@ http://ms006.happytv.com.tw/live/HZcQdOKkGaFP5cZi/index.m3u8
 http://ms006.happytv.com.tw/live/Xz0d0rEJDURoaNBe/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%8A%A8%E7%94%BB.png" group-title="臺灣",龙华卡通
 http://ms003.happytv.com.tw/live/JHRORQEWD3atMBxA/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="臺灣",博斯运动一台
-http://ms003.happytv.com.tw/live/dRBDebLd1Tthv7FZ/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="臺灣",博斯运动二台
-http://ms006.happytv.com.tw/live/xPYYlLkOkRbwggyw/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" group-title="臺灣",博斯无限台
-http://ms006.happytv.com.tw/live/j7ljK3tMbaD8vX09/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited2.png" group-title="臺灣",博斯无限二台
-http://ms003.happytv.com.tw/live/jxItloNTZJx9hgVi/index.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav4-1.png" group-title="臺灣",博斯運動一台
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_S1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="臺灣",博斯運動二台
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_S2.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav7-1.png" group-title="臺灣",博斯無限台
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_U1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited2.png" group-title="臺灣",博斯無限二台
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_U2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Medici.tv_logo.svg/1280px-Medici.tv_logo.svg.png" group-title="臺灣",Medici
 http://ms003.happytv.com.tw/live/xH2FpbKicxxfbIo2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.momotv.tw/assets/images/logo.png" group-title="臺灣",Momo 综合台
