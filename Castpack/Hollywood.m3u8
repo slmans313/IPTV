@@ -246,10 +246,10 @@ http://203.154.243.89:1208
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf",ゴルフネットワーク
 http://203.162.235.41:16924
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="Golf",博斯高球1台
-http://ms006.happytv.com.tw/live/VxLytG9xO6nFqubK/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="Golf",博斯高球2台
-http://ms006.happytv.com.tw/live/cv16UT2AvRyOOfbS/index.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav1-1.png" group-title="Golf",博斯高球1台
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_G1.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav2-1.png" group-title="Golf",博斯高球2台
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_G2.m3u8
 
 #EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -278,8 +278,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Tennis",Tennis Channel+ 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="Tennis",博斯网球台
-http://ms003.happytv.com.tw/live/DmYDHkXSnL8TqzL9/index.m3u8
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav3-1.png" group-title="Tennis",博斯網球
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_T1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="Tennis",博斯魅力網
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 
