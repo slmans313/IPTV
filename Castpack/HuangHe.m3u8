@@ -223,16 +223,16 @@ http://61.58.60.230:9319/live/243.m3u8
 http://61.58.60.230:9319/live/206.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="臺灣",靖天卡通
 http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="臺灣",龙华电影
-http://ms006.happytv.com.tw/live/NZhzRKHnENprgbwO/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="臺灣",龙华戏剧
-http://ms003.happytv.com.tw/live/i3YgZZoF9XdtDecO/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png" group-title="臺灣",龙华日韩
-http://ms006.happytv.com.tw/live/HZcQdOKkGaFP5cZi/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="臺灣",龙华偶像
-http://ms006.happytv.com.tw/live/Xz0d0rEJDURoaNBe/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%8A%A8%E7%94%BB.png" group-title="臺灣",龙华卡通
-http://ms003.happytv.com.tw/live/JHRORQEWD3atMBxA/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="臺灣",龍華電影
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/LHTV_Idol.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="臺灣",龍華戲劇
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/LHTV_Drama.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png" group-title="臺灣",龍華日韩
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/LHTV_JK.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="臺灣",龍華偶像
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/LHTV_Idol.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%8A%A8%E7%94%BB.png" group-title="臺灣",龍華卡通
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/LHTV_Cartoon.m3u8
 #EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav4-1.png" group-title="臺灣",博斯運動一台
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_S1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="臺灣",博斯運動二台
@@ -242,7 +242,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_U1.m
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited2.png" group-title="臺灣",博斯無限二台
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_U2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Medici.tv_logo.svg/1280px-Medici.tv_logo.svg.png" group-title="臺灣",Medici
-http://ms003.happytv.com.tw/live/xH2FpbKicxxfbIo2/index.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/Medici.m3u8
 #EXTINF:-1 tvg-logo="https://www.momotv.tw/assets/images/logo.png" group-title="臺灣",Momo 综合台
 rtmp://59.124.75.137/sat/tv761
 #EXTINF:-1 tvg-logo="https://www.news.taichung.gov.tw/media/276006/%E5%A4%A7%E5%AE%B6%E8%AA%AA%E8%8B%B1%E8%AA%9E-logo-180x80.jpg" group-title="臺灣",空中英語教室
