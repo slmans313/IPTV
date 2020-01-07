@@ -124,6 +124,10 @@ rtmp://192.187.101.234/live//live07
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/TVBNews.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港/粵語",無綫財經·資訊台
 rtmp://192.187.101.234/live//live02
+#EXTINF:-1 tvg-logo=http://www.zyz98.com/uploads/dianshi/gzxwpd.jpg" group-title="香港/粵語",廣州新聞
+http://aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 tvg-logo="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=890363d76a380cd7e61ea5eb997fca09/72f082025aafa40f728652baa464034f78f01910.jpg" group-title="香港/粵語",廣州经济科教
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ef/TVS2-Logo.png/440px-TVS2-Logo.png" group-title="香港/粵語",南方衛視
 http://39.135.36.155:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="香港/粵語",珠江衛視
@@ -152,6 +156,10 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="香港/粵語",澳亞衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
 rtmp://59.124.75.137:1935/sat/tv051
