@@ -49,7 +49,7 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_KARUSEL/variant.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.u-tv.ru/upload/iblock/e19/Uautumn19_LOGO.png" group-title="Россия",Ю
 http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_U/variant.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/200px-Zvezda_logo.svg.png" group-title="Россия",Звезда
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Zvezda.ru.png" group-title="Россия",Звезда
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-logo="http://russianmusicbox.tv/wp-content/themes/main/img/logo.png" group-title="Россия",Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
@@ -810,7 +810,8 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv-server.trinity-tv.net/icons/channels/10.png" group-title="Україна",Рада
 http://217.20.164.181/live/rada480p.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/1Plus1.ua.png" group-title="Россия",1+1
+http://188.35.9.11:2001
 #EXTINF:-1 tvg-logo="https://inter.ua/images/logo.png" group-title="Україна",Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.itk.ua/files/upload/logos/Logo_Ukraina.jpg" group-title="Україна",Телеканал Україна
