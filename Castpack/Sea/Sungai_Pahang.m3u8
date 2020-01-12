@@ -54,9 +54,7 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI
-https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/TVRI_3.png/revision/latest?cb=20190323100849" group-title="Indonesia",TVRI 3
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/TVRI_DKI_Jakarta_2.png/revision/latest?cb=20190323100909" group-title="Indonesia",TVRI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANTV.id.png" group-title="Indonesia",ANTV
@@ -195,62 +193,8 @@ http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/484604765662236672/Rk67sGru.png" group-title="Indonesia",TV Ku
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TVRIBaliLogo2019.svg/1200px-TVRIBaliLogo2019.svg.png" group-title="Indonesia",TVRI Bali
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI Nusa Tenggara Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1157082270995365888/7Dd46Ff2_400x400.jpg" group-title="Indonesia",TVRI Nusa Tenggara Timur
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TVRIJabarLogo2019.svg/250px-TVRIJabarLogo2019.svg.png" group-title="Indonesia",TVRI Jawa Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVRIJatimLogo2019.svg/1200px-TVRIJatimLogo2019.svg.png" group-title="Indonesia",TVRI Jawa Tengah
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVRIJatimLogo2019.svg/1200px-TVRIJatimLogo2019.svg.png" group-title="Indonesia",TVRI Jawa Timur
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TVRIJogjaLogo2019.svg/567px-TVRIJogjaLogo2019.svg.png" group-title="Indonesia",TVRI Yogyakarta
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVRIKalbarLogo2019.svg/1200px-TVRIKalbarLogo2019.svg.png" group-title="Indonesia",TVRI Kalimantan Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/TVRIKaltengLogo2019.svg/1200px-TVRIKaltengLogo2019.svg.png" group-title="Indonesia",TVRI Kalimantan Tengah
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TVRIKaltimLogo2019.svg/1200px-TVRIKaltimLogo2019.svg.png" group-title="Indonesia",TVRI Kalimantan Timur
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI Kalimantan Selatan
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TVRIMalukuLogo2019.svg/1200px-TVRIMalukuLogo2019.svg.png" group-title="Indonesia",TVRI Maluku
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TVRIPapuaLogo2019.svg/1200px-TVRIPapuaLogo2019.svg.png" group-title="Indonesia",TVRI Papau
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVRIGorontaloLogo2019.svg/1200px-TVRIGorontaloLogo2019.svg.png" group-title="Indonesia",TVRI Gorontalo
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tvrisulbar.com/wp-content/uploads/2019/04/TVRI-SULBAR-PUTIH.png" group-title="Indonesia",TVRI Sulawesi Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/TVRISulselLogo2019.svg/1200px-TVRISulselLogo2019.svg.png" group-title="Indonesia",TVRI Sulawesi Selatan
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI Sulawesi Tengggara
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1112565675501903878/yJGeNx8B_400x400.png" group-title="Indonesia",TVRI Sulawesi Tengah
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TVRISulutLogo2019.svg/1200px-TVRISulutLogo2019.svg.png" group-title="Indonesia",TVRI Sulawesi Utara
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111639487111667712/0fajS94W_400x400.jpg" group-title="Indonesia",TVRI Aceh
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI Bangka Belitung
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TVRIBengkuluLogo2019.svg/1200px-TVRIBengkuluLogo2019.svg.png" group-title="Indonesia",TVRI Bengkulu
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/TVRIJambiLogo2019.svg/1200px-TVRIJambiLogo2019.svg.png" group-title="Indonesia",TVRI Jambi
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TVRILampungLogo2019.svg/1200px-TVRILampungLogo2019.svg.png" group-title="Indonesia",TVRI Lampung
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI Riau
 https://edge.siar.us/tvririau/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TVRISumbarLogo2019.svg/1200px-TVRISumbarLogo2019.svg.png" group-title="Indonesia",TVRI Sumatera Barat
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TVRISumselLogo2019.svg/1200px-TVRISumselLogo2019.svg.png" group-title="Indonesia",TVRI Sumatera Seletan
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1145966478295891968/8Y0sF2lL_400x400.png" group-title="Indonesia",TVRI Sumatera Utara
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png" group-title="Indonesia",Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" group-title="Indonesia",Usee Photo
@@ -279,5 +223,5 @@ http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b1627136.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rodja.tv/uploads/custom-logo.png" group-title="Agama",Rodja
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.wesalonline.tv/wp-content/uploads/2016/04/logo-wesal-png.png" group-title="Agama",Wesal TV
-http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XaHylRU-6cw/XFxIoBM5PiI/AAAAAAAAATs/QLtA4LflSksb_Z9nc-EMw7F8xXHYfeQ7ACLcBGAs/s1600/Wesal%2Btv.png" group-title="Agama",Wesal TV
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
