@@ -195,7 +195,7 @@ http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="臺灣",TVBS新聞
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png"  group-title="TAIWAN", TVBS欢乐台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png"  group-title="臺灣", TVBS欢乐台
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="臺灣",三立新聞
@@ -210,9 +210,6 @@ http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="臺灣", 東森幼幼台
 http://220.158.149.14:9999/live/TV00000000000000000076@HHZT;LIVE
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="臺灣",八大綜合
-http://192.154.103.74:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="臺灣",寰宇新聞台
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/Huanyu.m3u8
@@ -272,7 +269,7 @@ http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
 http://pull.leshantangjt.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://aatv-file.oss-cn-beijing.aliyuncs.com/img/602da458-0525-40dc-54c7-94f6d627e62d.png" group-title="臺灣",亞美衛視
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg group-title="臺灣",優視頻道
+#EXTINF:-1 tvg-logo="http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg" group-title="臺灣",優視頻道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 
 
