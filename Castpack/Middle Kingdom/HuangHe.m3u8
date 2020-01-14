@@ -194,17 +194,18 @@ http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="臺灣",TVBS新聞
-rtmp://59.124.75.137:1935/sat/tv551
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png"  group-title="TAIWAN", TVBS欢乐台
+http://220.158.149.14:9999/live/TV00000000000000000079@HHZT
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="臺灣",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="臺灣",壹新聞
 http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="臺灣",東森新聞
 http://192.154.103.74:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="臺灣",東森财经新聞
-rtmp://59.124.75.137/sat/tv571
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="臺灣",東森洋片
-lwb://live2.ocnttv.com:4002/live1/ydsxwhd/list.m3u8
+http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="臺灣",東森電影
 http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="臺灣", 東森幼幼台
@@ -241,22 +242,6 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://54.64.23.79:1935/live/vod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.happytv.com.tw/images/logo_white.png" group-title="臺灣",快樂電視
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/HappyTV.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%B5%84%E8%AE%AF.png" group-title="臺灣",靖天資訊
-http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90.png" group-title="臺灣",靖天歡樂
-http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90.png" group-title="臺灣",靖天育樂
-http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7.png" group-title="臺灣",靖天戲劇
-http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85.png" group-title="臺灣",靖天國際
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC.png" group-title="臺灣",靖天日本
-http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A.png" group-title="臺灣",靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="臺灣",靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="臺灣",龍華電影
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/LHTV_Idol.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="臺灣",龍華戲劇
@@ -277,8 +262,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_S2.m
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_U1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited2.png" group-title="臺灣",博斯無限二台
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/SportCastTW_U2.m3u8
-#EXTINF:-1 tvg-logo="https://goodpitch.org/uploads/cache/org_image/max_400_400_cnex-chinese-doc-forum.jpg" group-title="臺灣",Cnex
-http://61.58.60.230:9319/live/257.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Medici.tv_logo.svg/1280px-Medici.tv_logo.svg.png" group-title="臺灣",Medici
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/Medici.m3u8
 #EXTINF:-1 tvg-logo="https://www.momotv.tw/assets/images/logo.png" group-title="臺灣",Momo 综合台
