@@ -396,10 +396,14 @@ http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Logo-fransat-2015.png/280px-Logo-fransat-2015.png" group-title="Français",Fransat
 http://154.54.220.228:8810/play/a008
+#EXTINF:-1 tvg-logo="https://cdn-gulli.jnsmedia.fr/bundles/jeunesseintegrationgulli/images/header/logo-gulli.png" group-title="Français",Gulli
+http://154.54.220.228:8810/play/a00s
 #EXTINF:-1 tvg-logo="https://static.lci.fr/assets/images/logo_lci.png" group-title="Français",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/LEquipe21.fr.png" group-title="Français",L'Equipe 21
 http://154.54.220.228:8810/play/a00k
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
+https://stream-03.sg1.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbFzZe11HLHYMbYXfptlrd9o)/dm/3/xji3qy/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TMC.fr.png" group-title="Français",TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1.fr.png" group-title="Français",TF1
@@ -420,22 +424,14 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifi
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="Français",M6
 https://stream.ecable.tv/m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/NRJ12.fr.png" group-title="Français",NRJ12
+http://154.54.220.228:8810/play/a00c
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCdecouverte.fr.png" group-title="Français",RMC Découverte
+http://154.54.220.228:8810/play/a00m
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCStory.fr.png" group-title="Français",RMC Story
+http://154.54.220.228:8810/play/a00l
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/W9.fr.png" group-title="Français",W9
 http://154.54.220.228:8810/play/a00e
-
-#EXTINF:-1,RMC STORY
-http://154.54.220.228:8810/play/a00l
-#EXTINF:-1,NRJ12
-http://154.54.220.228:8810/play/a00c
-#EXTINF:-1,LCP
-http://154.54.220.228:8810/play/a00i
-#EXTINF:-1,RMC DECOUVERTE
-http://154.54.220.228:8810/play/a00m
-#EXTINF:-1,NOUVELLE AQUITAINE
-http://154.54.220.228:8810/play/a00u
-#EXTINF:-1,GULLI https://iptv.live
-http://154.54.220.228:8810/play/a00s
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CanalJ.fr.png" group-title="Français",Canal J
 http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
