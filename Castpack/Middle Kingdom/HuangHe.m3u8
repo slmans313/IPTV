@@ -124,6 +124,8 @@ rtmp://192.187.101.234/live//live07
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/PHP/TVBNews.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港/粵語",無綫財經·資訊台
 rtmp://192.187.101.234/live//live02
+#EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港/粵語",亞洲電視
+https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzzhpd.jpg" group-title="香港/粵語",廣州综合
 https://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/gzxwpd.jpg" group-title="香港/粵語",廣州新聞
@@ -142,8 +144,8 @@ http://nclive.grtn.cn/tvs4/sd/live.m3u8
 http://39.135.36.151:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000004000011655&owchid=ystenlive&owsid=1106497909461268935&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4vNKx96%2bA3ppi2THlI0VlIDxwgnRBxQnnbWKTW8MTwvyEFUHTa6diXnUM1ACyB1BC6aNBSsOM3YI3qaHRRxYZp
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港/粵語",香港开電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" group-title="香港/粵語",ViuTV
-http://59.148.103.41:8000/bysid/99
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港/粵語",香港衛視
+https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/400px-ViuTVsix-logo.svg.png" group-title="香港/粵語",Viu 6
 rtmp://192.187.101.234/live//live04
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港/粵語",有線新聞台
