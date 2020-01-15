@@ -74,10 +74,14 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_1417/playlis
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1995304497.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/SBT.br.png" group-title="Brasil",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://tvratimbum.cmais.com.br/portal/images/capaPrograma/tvratimbumnovo/banner-layer-slider/out-2014/b01/banner-logo-tvrtb.png" group-title="Brasil",TV Rá-Tim-Bum
+https://mj1b2xsspj.singularcdn.net.br/encompass/TVRaTimBum/master_Layer4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Viva.br.png" group-title="Brasil",Viva
 https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Boomerang.br.png" group-title="Brasil",Boomerang Brasil
+
+
+EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Boomerang.br.png" group-title="Brasil",Boomerang Brasil
 http://198.255.82.82:9088/hls/ms_boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/CartoonNetwork.br.png" group-title="Brasil",Cartoon Network Brasil
 http://198.255.82.82:9088/hls/ms_cartoon_network.m3u8
@@ -85,12 +89,20 @@ http://198.255.82.82:9088/hls/ms_cartoon_network.m3u8
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Cinemax.br.png" group-title="Brasil",Cinemax Brasil
 http://198.255.82.82:9088/hls/ms_cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel Brasi
+http://mj1b2xsspj.singularcdn.net.br:80/encompass/DisneyChannelBRA/master_Layer3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DisneyJunior.br.png" group-title="Brasil",Disney Junior Brasil
-http://198.255.82.82:9088/hls/ms_disney_jr.m3u8
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/DisneyXD.sa.png" group-title="Brasil",Disney XD Brasil
-http://198.255.82.82:9088/hls/ms_disney_xd.m3u8
+http://mj1b2xsspj.singularcdn.net.br:80/encompass/DisneyXDBRA/master_Layer4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="Brasil",ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="Brasil",ESPN 1 Brasil
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="Brasil",ESPN 2 Brasil
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="Brasil",ESPN Extra
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer3.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Brasil",Fox Sports 1 Brasil
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxsportshd_98fbc42f_880d97a04978b82e755748ba0062f2a4844d62b9.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Brasil",Fox Sports 2 Brasil
@@ -129,6 +141,8 @@ http://198.255.82.82:9088/hls/ms_tnt.m3u8
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-eXchZx_nEGo/VtSeURcIo1I/AAAAAAAAFOI/jSPWDVZrwv8/s1600/LOGO%2BTV-0.png" group-title="Brasil",TV Aracati
 http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2014/04/logo.png" group-title="Brasil",TV Gazeta
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
 #EXTINF:-1 tvg-logo="https://webmusic.tv/uploads/custom-logo.png" group-title="Brasil",Web Music TV
 http://stmv1.ifantasy.com.br/webmusictv/webmusictv/playlist.m3u8
 
@@ -166,6 +180,12 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 https://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 tvg-logo="http://ctvbarranquilla.com/wp-content/uploads/2019/07/Logo-ctv-1-e1564350514181.png" group-title="Colombia",CTV Barranquilla
 http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/RcnNuestra.co.png" group-title="Colombia",RCN Nuestra Tele Internacional
+http://mj1b2xsspj.singularcdn.net.br/encompass/NuestraTeleSD/master_Layer4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/RCNNovelas.co.png" group-title="Colombia",RCN Novelas
+https://mj1b2xsspj.singularcdn.net.br/encompass/RCNNovelas/master_Layer4.m3u8
+#EXTINF:-1 tvg-logo="https://html.canalrcn.com/Ntn24/react/images/ntn24-logo.png" group-title="Colombia",NTN24
+https://mj1b2xsspj.singularcdn.net.br/encompass/NTN24_Inter/master_Layer4.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.canal15.ucr.ac.cr/wp-content/uploads/2018/06/CANALUCR_logo.png" group-title="Costa Rica",Canal UCR
@@ -278,8 +298,18 @@ http://181.189.225.36:8990/UneTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="Jamaica",Trace Tropical
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/LasEstrellas.mx.png" group-title="México",Las Estrellas
+http://mj1b2xsspj.singularcdn.net.br/encompass/Estrellas/master_Layer3.m3u8
 #EXTINF:-1 tvg-logo="https://amastv.com/img/logo_amas.png" group-title="México",A+ TV 7.2
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.mundo-latam.argentina-buenos-aires.arrecifesciudad.com/onewin/origen/baypro/imagenes/logos-tv/az-mundo.png" group-title="México",Az Mundo
+https://mj1b2xsspj.singularcdn.net.br/encompass/AzMundo/master_Layer4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/AzCorazon.mx.png group-title="México",Az Corazon
+https://mj1b2xsspj.singularcdn.net.br/encompass/AzCorazon/master_Layer4.m3u8
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/AZCLC.png" group-title="México",Az Clic
+https://mj1b2xsspj.singularcdn.net.br/encompass/AzClic/master_Layer4.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png/revision/latest/scale-to-width-down/340?cb=20171106201618" group-title="México",Az Cinema
+https://mj1b2xsspj.singularcdn.net.br/encompass/AzCinema/master_Layer4.m3u8
 #EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="México",ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-1 tvg-logo="http://c7jalisco.com/images/logo.jpg" group-title="México",C7 Jalisco
@@ -359,6 +389,16 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivanicaragua.com.ni/contenido/archivos/2019/03/logo-blanco.png" group-title="Nicaragua",Viva Nicaragua
 http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pa/TVNCanal2.pa.png" group-title="Panama",TVN Canal 2
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pa/TVMax.pa.png" group-title="Panama",TVMax
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pa/Telemetro.pa.png"  group-title="Panama",Telemetro
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pa/RPCCanal4.pa.png"  group-title="Panama",RPC Canal 4
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+#EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="Panama",SerTV
+https://accionastream.com/live/sertv/chunklist_w1146316978.m3u8
 #EXTINF:-1 tvg-logo="http://userscontent2.emaze.com/images/44097fec-bf00-470d-8a3d-305eb132803d/ec0a862a-dd2f-450c-9473-f135041c5312.png" group-title="Panama",Nex 21
 http://198.1.117.5:1935/live/livestream/chunklist.m3u8
 
