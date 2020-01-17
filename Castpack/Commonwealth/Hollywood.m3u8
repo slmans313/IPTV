@@ -184,7 +184,10 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_970_300_320x240_
 https://cstream5.com/hls/skysportsaction.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportda.com/wp-content/uploads/2018/09/SKY-SPORT-MAIN-EVENT-HD-636x358.png" group-title="Sports",Sky Sports Main Events
 https://cstream5.com/hls/skysports1.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchTV.ru.png" group-title="Sports",Матч! 
+http://46.165.2.202:80/matchtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchArena.ru.png" group-title="Sports",Матч! Арена
+http://46.165.2.202:80/matcharena/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="Cricket",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
@@ -394,7 +397,7 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies",黑莓电影
 http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",天映频道
-http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
 #EXTINF:-1 tvg-logo="https://www.cinefilwowow.com/parts/common/img/cinefil_logo.png" group-title="Movies",シネフィル WOWOW
 #http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png" group-title="Movies",WOWOW シネマ
