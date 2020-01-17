@@ -20,10 +20,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中国",凤凰中文
 http://liveali.ifeng.com/live/FHZW.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中国",TLC
-http://212.12.194.10/tlc/live.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2 财经
 http://112.50.243.8/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3 综艺
@@ -134,18 +130,19 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港/粵語",香港衛視
 https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港/粵語",有線新聞
-http://wowgua.com/live/channel_109.m3u8
-
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="香港/粵語",有線財經資訊
 http://wowgua.com/live/channel_108.m3u8
-#EXTINF:-1 tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png group-title="香港/粵語",有線綜合娛樂
+#EXTINF:-1 tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="香港/粵語",有線綜合娛樂
 http://wowgua.com/live/channel_301.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港/粵語",Now直播台
 http://wowgua.com/live/channel_331.m3u8
+#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港/粵語",Now新聞
+http://wowgua.com/live/channel_332.m3u8
 #EXTINF:-1 tvg-logo="https://nowtv.now.com/upload_data/images/1124981" group-title="香港/粵語",Now Sports Prime
 http://wowgua.com/live/channel_630.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png" group-title="香港/粵語"耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ef/TVS2-Logo.png/440px-TVS2-Logo.png" group-title="香港/粵語",南方衛視
 http://nclive.grtn.cn/tvs2/sd/live.m3u8
@@ -247,7 +244,7 @@ https://tv2.wanfudaluye.com/live/live.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/DaAi-World-webtvonlive-com.jpg" group-title="臺灣",大愛海外台
 https://tv3.wanfudaluye.com/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png group-title="臺灣",好莱坞电影
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="臺灣",好莱坞电影
 http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="臺灣",动物星球
