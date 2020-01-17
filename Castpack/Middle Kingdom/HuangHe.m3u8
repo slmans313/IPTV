@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225965/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4 中文国际
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国",CCTV-8 电视剧
 http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="中国",湖南卫视
@@ -127,8 +127,6 @@ rtmp://192.187.101.234/live//live02
 https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港/粵語",香港开電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港/粵語",香港衛視
-https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港/粵語",有線新聞
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="香港/粵語",有線財經資訊
@@ -150,7 +148,7 @@ http://nclive.grtn.cn/tvs2/sd/live.m3u8
 http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="香港/粵語",珠江衛視
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzzhpd.jpg" group-title="香港/粵語",廣州综合
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/gzzhpd.jpg" group-title="香港/粵語",廣州綜合
 https://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/gzxwpd.jpg" group-title="香港/粵語",廣州新聞
 http://aplay.gztv.com/sec/xinwen.m3u8
@@ -162,6 +160,10 @@ http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 http://nclive.grtn.cn/gjpd/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="香港/粵語",陽光衛視
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港/粵語",香港衛視
+https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
+#EXTINF:-1 tvg-logo="http://www.ctstvnet.com/resources/res_1/pc/images/logo.png" group-title="香港/粵語",亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="香港/粵語",澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
