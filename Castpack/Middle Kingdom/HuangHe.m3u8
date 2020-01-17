@@ -152,7 +152,8 @@ https://aplay.gztv.com/sec/yingshi.m3u8
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/GRT_World_2019.png" group-title="香港/粵語",廣東國際
 http://nclive.grtn.cn/gjpd/sd/live.m3u8
-
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="香港/粵語",陽光衛視
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="香港/粵語",澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
@@ -168,6 +169,12 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lotustv.cc/Public/images/top_logo.png" group-title="香港/粵語",蓮花衛視
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 tvg-logo="http://www.macaucabletv.com/wp-content/uploads/CH1.png" group-title="香港/粵語",澳門有線 CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.macaucabletv.com/wp-content/uploads/CH2.png" group-title="香港/粵語",澳門有線互動新聞
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.macaucabletv.com/wp-content/uploads/CH3.png" group-title="香港/粵語",澳門有線 CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
 rtmp://59.124.75.137:1935/sat/tv051
