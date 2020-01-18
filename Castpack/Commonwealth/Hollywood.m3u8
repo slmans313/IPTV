@@ -189,11 +189,11 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playl
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv2.br.png" group-title="Sports",SporTV 2
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_346/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportTV1.pt.png" group-title="Sports",Sport TV 1
-http://tv.denied.network/sporttv1hd/stream
+http://198.255.23.18:2095/streams/70_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportTV2.pt.png" group-title="Sports",Sport TV 2
-http://tv.denied.network/sporttv2hd/stream
+http://198.255.23.18:2095/streams/72_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportTV3.pt.png" group-title="Sports",Sport TV 3
-http://tv.denied.network/sporttv3hd/stream
+http://198.255.23.18:2095/streams/74_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportTV4.pt.png" group-title="Sports",Sport TV 4
 http://tv.denied.network/sporttv4hd/stream
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SportTV5.pt.png" group-title="Sports",Sport TV 5
@@ -285,8 +285,8 @@ http://wowgua.com/live/channel_utv_racing.m3u8
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/FightBox.ru.png" group-title="MMA",Fight Box
-http://84.22.33.254/unicast.fightbox/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Combate.br.png" group-title="MMA",Combate
+http://198.255.23.18:2095/streams/49_.m3u8
 #EXTINF:-1 tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="MMA",Fight Sports
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
