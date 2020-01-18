@@ -444,20 +444,27 @@ http://198.255.82.82:9088/hls/ms_fox_hd.m3u8
 http://rtmp.cdn.upx.net.br/7cdd_2/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Português/Brasil",National Geo
 http://198.255.82.82:9088/hls/ms_nat_geo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Premiere2.br.png" group-title="Português/Brasil",Premiere Clubes
+http://198.255.23.18:2095/streams/62_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Premiere2.br.png" group-title="Português/Brasil",Premiere 2
-http://198.255.82.82:9088/hls/ms_premier_2hd.m3u8
+http://198.255.23.18:2095/streams/61_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Premiere2.br.png" group-title="Português/Brasil",Premiere 3
-http://198.255.82.82:9088/hls/ms_premier_3hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Premiere2.br.png" group-title="Português/Brasil",Premiere 4
-http://198.255.82.82:9088/hls/ms_premier_4hd.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Premiere2.br.png" group-title="Português/Brasil",Premiere 5
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere5_0486ffb0_a069cd8fdf631b37dc88d851c1a94349283f254d.m3u8
+http://198.255.23.18:2095/streams/63_.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineAction.br.png" group-title="Português/Brasil",Telecine Action
-http://198.255.82.82:9088/hls/ms_tc_action.m3u8
+http://198.255.23.18:2095/streams/213_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePremium.br.png" group-title="Português/Brasil",Telecine Premium
-http://198.255.82.82:9088/hls/ms_tc_premium.m3u8
+http://198.255.23.18:2095/streams/209_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineTouch.br.png" group-title="Português/Brasil",Telecine Touch
-http://198.255.82.82:9088/hls/ms_tc_touch.m3u8
+http://198.255.23.18:2095/streams/211_.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePipoca.br.png" group-title="Português/Brasil",TeleCine Pipoca
+http://198.255.23.18:2095/streams/207_.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Português/Brasil",TLC
 http://198.255.82.82:9088/hls/ms_tlc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/TNT.pl.png" group-title="Português/Brasil",TNT Português
