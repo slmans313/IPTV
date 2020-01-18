@@ -24,8 +24,8 @@ https://stream.ecable.tv/b-one/tracks-v1a1/mono.m3u8
 https://stream.ecable.tv/boom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/7ebe5340-f30a-11e8-9f8a-e9ca4b6252dc.png" group-title="Cameroun",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/7ebe5340-f30a-11e8-9f8a-e9ca4b6252dc.png" group-title="Cameroun",Vision 4 HD
-https://stream.ecable.tv/vision4/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/rtnc_cd_tv.png" group-title="Kikongo",RTNC
 https://stream.ecable.tv/rtnc/tracks-v1a1/mono.m3u8
@@ -151,15 +151,29 @@ https://za-tv2a-wowza-origin02.akamaized.net/oneafrica/smil:oneafrica/playlist.m
 #EXTINF:-1 tvg-logo="http://ortn.ne/wp-content/uploads/2019/04/ORTN-Niger-300x221.jpg" group-title="Niger",Télé Sahel
 http://213.254.12.4:8000/play/a065
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/2MMonde.ma.png" group-title="Morooco(المغرب‎)",2M Monde
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/2MMonde.ma.png" group-title="المغرب",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-logo="https://www.m24tv.ma/ar/system/files/LOGO-M24-VF-sans-texte_1.png" group-title="Morooco(المغرب‎)",M24
+#EXTINF:-1 tvg-logo="http://www.alaoula.ma/images/laayoune_logo.png" group-title="المغرب",Laayoune TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/2MMonde.ma.png" group-title="المغرب",Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/Arryadia.ma.png" group-title="المغرب",Arryadia 
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.alaoula.ma/images/attakafiya.png" group-title="المغرب",Athaqafia TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/AlMaghribia.ma.png" group-title="المغرب",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/Assadissa.ma.png" group-title="المغرب",Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/AlThamenahTamazight.ma.png" group-title="المغرب",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.m24tv.ma/ar/system/files/LOGO-M24-VF-sans-texte_1.png" group-title="المغرب",M24
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://chadatv.com/wp-content/themes/chadatv/images/logo.png" group-title="Morooco(المغرب‎)",Chada TV
+#EXTINF:-1 tvg-logo="https://chadatv.com/wp-content/themes/chadatv/images/logo.png" group-title="المغرب",Chada TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Medi1_TV_logo.jpg/300px-Medi1_TV_logo.jpg" group-title="Morooco(المغرب‎)",Medi 1 Maghred
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Medi1_TV_logo.jpg/300px-Medi1_TV_logo.jpg" group-title="المغرب",Medi 1 Maghred
 https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Medi1_TV_logo.jpg/300px-Medi1_TV_logo.jpg" group-title="Morooco(المغرب‎)",Medi 1 Afrique
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Medi1_TV_logo.jpg/300px-Medi1_TV_logo.jpg" group-title="المغرب",Medi 1 Afrique
 https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2q0xv3544jvkb.cloudfront.net/images/tvm-logotipo.jpg" group-title="Mozambique",Televisão de Moçambique
