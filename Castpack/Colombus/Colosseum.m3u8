@@ -360,9 +360,12 @@ https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/BandNews.br.png" group-title="Português/Brasil",Band News
 http://198.255.23.18:2095/streams/85_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Cmtv.pt.png group-title="Português/Brasil",CMTV
-http://tv.denied.network/cmtv/stream#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo SP
+http://tv.denied.network/cmtv/stream
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboNews.br.png" group-title="Português/Brasil",Globo News
+http://198.255.23.18:2095/streams/84_.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo SP
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo SP RJ
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo RJ
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Gnt.br.png" group-title="Português/Brasil",GNT
 https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
@@ -370,10 +373,6 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_886/playlist
 https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Multishow.br.png",Multishow
 https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Redetv.br.png"group-title="Português/Brasil",RedeTV!
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1995304497.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/SBT.br.png" group-title="Português/Brasil",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Sic.pt.png" group-title="Português/Brasil",SIC
 http://198.255.23.18:2095/streams/81_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" group-title="Português/Brasil",SIC Notícias 
@@ -388,8 +387,7 @@ http://video-auth7.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Tvi24.pt.png" group-title="Português/Brasil",TVI 24
 http://tv.denied.network/tvi24/stream
-#EXTINF:-1 tvg-logo="http://tvratimbum.cmais.com.br/portal/images/capaPrograma/tvratimbumnovo/banner-layer-slider/out-2014/b01/banner-logo-tvrtb.png" group-title="Português/Brasil",TV Rá-Tim-Bum
-https://mj1b2xsspj.singularcdn.net.br/encompass/TVRaTimBum/master_Layer4.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Português/Brasil",ARTV
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
@@ -412,9 +410,10 @@ http://198.255.23.18:2095/streams/127_.m3u8
 http://198.255.23.18:2095/streams/128_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/CancaoNova.br.png" group-title="Português/Brasil",Canção Nova 
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Off.br.png" group-title="Português/Brasil",Canal Off
+http://198.255.23.18:2095/streams/60_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Cinemax.br.png" group-title="Português/Brasil",Cinemax Português
 http://198.255.23.18:2095/streams/184_.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNPortuguês/Brasil.br.png" group-title="Português/Brasil",ESPN Brasil
 https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Português/Brasil/master_Layer3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNPortuguês/Brasil.br.png" group-title="Português/Brasil",ESPN 1 Brasil
