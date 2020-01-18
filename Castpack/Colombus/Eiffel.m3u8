@@ -556,34 +556,40 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="Ελλάδα",Sigma TV (Κύπρος)
 http://81.21.47.74/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/300px-ZDF_logo.svg.png" group-title="Deutschland",ZDF
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/at/3sat.at.png" group-title="Deutschland",3 Sat
-http://185.254.160.4:8000/play/a00h/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
 https://mcdn.daserste.de/daserste/int/master_3744.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle +
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="Deutschland",Kika
-http://185.254.160.4:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ProSiebenMaxx.de.png" group-title="Deutschland",ProSiben Max
-http://84.22.33.254/unicast.prosiebenmaxx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/RTL.de.png" group-title="Deutschland",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/RTL2.de.png" group-title="Deutschland",RTL Zwei
 http://5.135.92.133:52841/out/u/119_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
 http://5.135.92.133:52841/out/u/127_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
+http://5.135.92.133:52841/out/u/124_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/300px-ZDF_logo.svg.png" group-title="Deutschland",ZDF
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/at/3sat.at.png" group-title="Deutschland",3 Sat
+http://185.254.160.4:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="Deutschland",Kika
+http://185.254.160.4:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ProSiebenMaxx.de.png" group-title="Deutschland",ProSiben Max
+http://84.22.33.254/unicast.prosiebenmaxx/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1.de.png" group-title="Deutschland",Sat 1
 http://84.22.33.254/unicast.sat1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="Deutschland",Sat1 Gold
 http://84.22.33.254/unicast.sat1gold/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
-http://5.135.92.133:52841/out/u/124_1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Deutschland",Disney Deutsch
 http://84.22.33.254/unicast.disneychannel/index.m3u8
