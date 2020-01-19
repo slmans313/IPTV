@@ -65,10 +65,6 @@ echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\CTINews.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\CTINews.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\CTINews.m3u8
 youtube-dl.exe -g https://www.youtube.com/watch?v=wUPPkSANpyo >>D:\Dropbox\IPTV\M3U8\Token\CTINews.m3u8
-echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\YTN.m3u8
-echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\YTN.m3u8
-echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\YTN.m3u8
-youtube-dl.exe -g https://www.dailymotion.com/video/x5vg34h >>D:\Dropbox\IPTV\M3U8\Token\YTN.m3u8
 echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\YOPNews.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\YOPNews.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\YOPNews.m3u8
