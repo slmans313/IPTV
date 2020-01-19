@@ -80,18 +80,7 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TheBox.uk.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="New Zealand",TVNZ 1
-http://43.224.120.99:8080/tv1/tv1_1500k.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="New Zealand",TVNZ 2
-http://43.224.120.99:8080/tv2/tv2_1500k.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png" group-title="New Zealand",Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_FVsite_Bravo_1280x1280_v2.png" group-title="New Zealand",Bravo NZ
-http://43.224.120.99:8080/four/four_1000k.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/ChannelLogoforwebsite.png" group-title="New Zealand",Choice TV
-http://43.224.120.99:8080/choicetv/choicetv_1000k.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Prime-2016-website.png" group-title="New Zealand",Prime NZ
-http://43.224.120.99:8080/prime/prime_1000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/parlament-tv.png" group-title="New Zealand",Parliament TV
 http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="New Zealand",Wairarapa TV
@@ -100,11 +89,4 @@ http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="New Zealand",Te Reo (Maori)
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
-#EXTINF:-1 tvg-logo="http://www.wtv.co.nz/wp-content/themes/wtv/images/icon/wtv28.png" group-title="New Zealand",中华电视网 TV 28
-http://43.224.120.99:8080/chinesetv/chinesetv_1000k.m3u8
-#EXTINF:-1 tvg-logo="http://www.wtv.co.nz/wp-content/themes/wtv/images/icon/wtv29.png" group-title="New Zealand",中华电视网 TV 29
-http://43.224.120.99:8080/tv29/tv29_1000k.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/apna.png" group-title="New Zealand",APNA TV
-http://43.224.120.99:8080/apnatv/apnatv_1000k.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/PandaTV_web_1280x1280.png" group-title="New Zealand",Panda TV 37
-http://43.224.120.99:8080/pandatv/pandatv_1000k.m3u8
+
