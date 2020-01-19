@@ -14,7 +14,8 @@ https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/cm/rimage/11251996-1x1-large.png" group-title="Australia",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="Australia",ABC Australia
+https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 
 
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/120" tvg-id="85a44cf4ee94a650b2a4af559c6be974",9 Bendigo
@@ -32,8 +33,7 @@ http://test:test@167.179.136.33:9981/stream/channelid/1403971859?ticket=939B9466
 
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/93" tvg-id="7579579e76430fcdfbe954022d11d5dd",SBS Food
 http://test:test@167.179.136.33:9981/stream/channelid/509049205?ticket=4A56366472487EEB21927FEDE2AE66D406DA90F8&profile=pass
-#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/119" tvg-id="f61510f4f97a3bd9d1ccc2815c8c8429",NITV
-http://test:test@167.179.136.33:9981/stream/channelid/1947211254?ticket=963602390F9FBE376F48D747D49BDD4195F8284F&profile=pass
+
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/86" tvg-id="3564f211cf1ddf7c9c299a65a9d6d360",SBS Chill
 http://test:test@167.179.136.33:9981/stream/channelid/301098037?ticket=EDF326D49818BA55F88BE6E6DAFF96B1A1A617D7&profile=pass
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/83" tvg-id="2b393f0a1d32c1a88e6a8e3595310ce0",9HD Bendigo
@@ -58,8 +58,6 @@ http://test:test@167.179.136.33:9981/stream/channelid/370540229?ticket=B3E5069AE
 http://test:test@167.179.136.33:9981/stream/channelid/1755054220?ticket=DE168FD38E9C540895B7E33CC44F71A7354B281F&profile=pass
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/109" tvg-id="0004b9df32a9134246fe9a23609eb8dc",7mate Bendigo
 http://test:test@167.179.136.33:9981/stream/channelid/1605960704?ticket=650075C933D6CBBA32970DB02351F9F036826F1C&profile=pass
-#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/91" tvg-id="5a2ab619a568f9fa4b8aa79236463d0f",ishoptv
-http://test:test@167.179.136.33:9981/stream/channelid/431368794?ticket=6654DB20C114C8E7760E53433AF56D666C66F9F6&profile=pass
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/95" tvg-id="932d2035a30722246868883b689fc3ab",7flix
 http://test:test@167.179.136.33:9981/stream/channelid/891301267?ticket=21106DE702FB962D6CC7AB5F33CA9FDE809E7531&profile=pass
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/115" tvg-id="f48d9170042f8633323305088b0960ef",WIN HD Bendigo
@@ -68,10 +66,6 @@ http://test:test@167.179.136.33:9981/stream/channelid/1888587252?ticket=5B6A7788
 http://test:test@167.179.136.33:9981/stream/channelid/2073353965?ticket=06E9C1664ADEFDBB933D800D84AAFDB8CDF1AD34&profile=pass
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/98" tvg-id="376f36bdf378c47d42e4d73a7fe13175",PEACH Bendigo
 http://test:test@167.179.136.33:9981/stream/channelid/1026977591?ticket=59276453542AC5DD7365E4AD833EB1DB44107947&profile=pass
-#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/111" tvg-id="0fdd5be283af7563cecb2d983acac232",Sky News on WIN
-http://test:test@167.179.136.33:9981/stream/channelid/1650187535?ticket=F98CA75518CA38643C4D30B06407152081954E1D&profile=pass
-#EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/79" tvg-id="8a37e1026d6b074e8b9a90de77dd62ff",TVSN
-http://test:test@167.179.136.33:9981/stream/channelid/48314250?ticket=AD4C99CB6EC20AE8EC0C5496BBD1EF6CD2CA77EE&profile=pass
 #EXTINF:-1 logo="http://test:test@167.179.136.33:9981/imagecache/80" tvg-id="f4aa44051b9f9fcb9751703382aa29d0",GOLD
 http://test:test@167.179.136.33:9981/stream/channelid/88386292?ticket=FAF9A46C284E22DB75B839A119AD855F7D1D05DA&profile=pass
 
@@ -79,18 +73,15 @@ http://test:test@167.179.136.33:9981/stream/channelid/88386292?ticket=FAF9A46C28
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="Australia",ABC Australia
-https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="Australia",Bloomberg Australia
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Australia",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/SBS.au.png group-title="Australia",SBS ONE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/SBS.au.png" group-title="Australia",SBS ONE
 http://test:test@167.179.136.33:9981/stream/channelid/1083033764?ticket=AC376C5D82EC04F9142AF224236D3170AF168D4C&profile=pass
 #EXTINF:-1 logo="https://static.iptv-epg.com/au/SBSViceland.au.png" group-title="Australia",SBS Viceland
 http://test:test@167.179.136.33:9981/stream/channelid/1346007313?ticket=3F30645C4DBE3ABD529C77A703E09C3FAD51323B&profile=pass
-#EXTINF:-1 tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png,Mic_.2KNN9OHw1p.png.pagespeed.ce.2KNN9OHw1p.png" group-title="Australia",澳大利亚天和电视台
-http://rtvcdn.com.au:8082/TV_GG.m3u8
 #EXTINF:-1 tvg-logo="https://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png" group-title="Australia",C31
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/44.png" group-title="Australia",C44
@@ -99,6 +90,8 @@ https://bdz47wk-lh.akamaihd.net/i/bdz47wkxwmnlsh_1@54040/master.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000004@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/au/images/tv.snowy-mountains.png" group-title="Australia",Snowy Mountains TV
 http://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/NITV.au.png" group-title="Australia",NITV
+http://test:test@167.179.136.33:9981/stream/channelid/1947211254?ticket=963602390F9FBE376F48D747D49BDD4195F8284F&profile=pass
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia",Sky News Extra 2
