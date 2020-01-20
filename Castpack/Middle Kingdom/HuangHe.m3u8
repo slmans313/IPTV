@@ -14,6 +14,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中国",凤凰中文
 http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="中国",凤凰电影
+https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K 超高清
 http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
@@ -122,7 +124,7 @@ rtmp://192.187.101.234/live//live08
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBJ2.hk.png" group-title="粵語",翡翠J2
 rtmp://192.187.101.234/live//live05
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="粵語",翡翠明珠
-http://m.567it.com/Pearl.m3u8
+https://116.77.72.195/streams/d/mzt/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="粵語",翡翠明珠 HD
 rtmp://192.187.101.234/live//live07
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="粵語",無綫新聞
