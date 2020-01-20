@@ -16,19 +16,6 @@ echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\TV9.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\TV9.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\TV9.m3u8
 youtube-dl.exe -g https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0 >>D:\Dropbox\IPTV\M3U8\Token\TV9.m3u8
-echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
-echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
-echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
-youtube-dl.exe -g https://www.youtube.com/watch?v=KkfZI-MzF6c >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
-echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\Alhijrah.m3u8
-echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\Alhijrah.m3u8
-echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\Alhijrah.m3u8
-youtube-dl.exe -g https://www.youtube.com/watch?v=K4uvaQDEDow >>D:\Dropbox\IPTV\M3U8\Token\Alhijrah.m3u8
-echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\TTV.m3u8
-echo #EXTM3U 
-echo #EXT-X-VERSION:3 
-echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
-echo https://cloud-pmozai.4gtv.tv/XA1x5kjMOboYrKvYWWGfQDkAED27xoWJ1TutwbO9gDo%3d/master.m3u8?token=b7M6ki0pnyhk0ffZrJhwhw&expires=1579369628&token1=kX0iqMWnkPkZAdE_lAwMPQ&expires1=1579398428&refer=M2Y4ODZmMGItNjE5NC00NmU5LWJmZTgtZGEwZjU0ZWIyNTZj&y=0
 echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\DramaSangat.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\DramaSangat.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\DramaSangat.m3u8
@@ -37,6 +24,10 @@ echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\AfricaNews.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\AfricaNews.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\AfricaNews.m3u8
 youtube-dl.exe -g https://www.dailymotion.com/video/x6i7vf8 >>D:\Dropbox\IPTV\M3U8\Token\AfricaNews.m3u8
+echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\EuroNews.m3u8
+echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\EuroNews.m3u8
+echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\EuroNews.m3u8
+youtube-dl.exe -g https://www.dailymotion.com/video/x2j4h4m >>D:\Dropbox\IPTV\M3U8\Token\EuroNews.m3u8
 echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\LCP.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\LCP.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\LCP.m3u8
@@ -45,6 +36,14 @@ echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\PSenat.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\PSenat.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\PSenat.m3u8
 youtube-dl.exe -g https://www.dailymotion.com/video/xkxbzc >>D:\Dropbox\IPTV\M3U8\Token\PSenat.m3u8
+echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
+echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
+echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
+youtube-dl.exe -g https://www.youtube.com/watch?v=KkfZI-MzF6c >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
+echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\Alhijrah.m3u8
+echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\Alhijrah.m3u8
+echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\Alhijrah.m3u8
+youtube-dl.exe -g https://www.youtube.com/watch?v=K4uvaQDEDow >>D:\Dropbox\IPTV\M3U8\Token\Alhijrah.m3u8
 echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\CTVNews.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\CTVNews.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\CTVNews.m3u8
