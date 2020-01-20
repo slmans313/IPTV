@@ -28,10 +28,8 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://1686983180.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="News",Deutsche Welle (English)
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News",Euronews 
-https://www.livedoomovie.com/02_Euronews_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.etimg.com/thumb/msid-60315774,width-300,imgsize-18677,resizemode-4/switch-on-et-now-to-rise-with-india.jpg" group-title="News",ET Now
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="News",Euronews
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="News",FOX News
 https://1686983180.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="News",France 24
@@ -58,7 +56,9 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="News",Sky News UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Telesur.es.png" group-title="News",Telesur (English)
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Telesur.es.png" group-title="News",Telesur
+http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Telesur.es.png" group-title="News",Telesur English
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/TRTWorld.tr.png" group-title="News",TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080pp_av-p.m3u8
@@ -83,15 +83,16 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:-1 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="Financial News",CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MSNBC.us.png" group-title="Financial News",MSNBC
-https://1686983180.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="Financial News",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cnbcarabia.com/img/logo.png" group-title="Financial News",CNBC Arabia
 https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Financial News",CNBC आवाज़
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ETNOW.in.png group-title="Financial News",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MSNBC.us.png" group-title="Financial News",MSNBC
+https://1686983180.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Financial News",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Financial News",NDTV Profit
