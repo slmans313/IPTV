@@ -28,6 +28,10 @@ echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\EuroNews.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\EuroNews.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\EuroNews.m3u8
 youtube-dl.exe -g https://www.dailymotion.com/video/x2j4h4m >>D:\Dropbox\IPTV\M3U8\Token\EuroNews.m3u8
+echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\New18.m3u8
+echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\New18.m3u8
+echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\New18.m3u8
+youtube-dl.exe -g https://www.dailymotion.com/video/x7kx5i7 >>D:\Dropbox\IPTV\M3U8\Token\New18.m3u8
 echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\LCP.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\LCP.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\LCP.m3u8
@@ -36,6 +40,10 @@ echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\PSenat.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\PSenat.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\PSenat.m3u8
 youtube-dl.exe -g https://www.dailymotion.com/video/xkxbzc >>D:\Dropbox\IPTV\M3U8\Token\PSenat.m3u8
+echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\WorkPoint.m3u8
+echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\WorkPoint.m3u8
+echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\WorkPoint.m3u8
+youtube-dl.exe -g https://www.dailymotion.com/video/x6g9qjj >>D:\Dropbox\IPTV\M3U8\Token\WorkPoint.m3u8
 echo #EXTM3U >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
 echo #EXT-X-VERSION:3 >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
 echo #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 >>D:\Dropbox\IPTV\M3U8\Token\BNC.m3u8
