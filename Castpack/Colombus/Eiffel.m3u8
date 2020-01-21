@@ -376,6 +376,27 @@ http://panel.procaja.me/live/sup.php?z=111&u=803819108153395&s=511114015888888&i
 http://154.54.220.228:8810/play/a005
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="Français",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="https://new.static.tv.nu/15" group-title="Français",TV5 Monde Europe
+http://84.22.33.254/unicast.tv5monde/mpegts
+#EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/TV5Monde.gif" group-title="Français",TV5 Maghreb-Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1 tvg-logo="https://static.lci.fr/assets/images/logo_lci.png" group-title="Français",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="Français",M6
+https://stream.ecable.tv/m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TMC.fr.png" group-title="Français",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1.fr.png" group-title="Français",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TFX.fr.png" group-title="Français",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/6ter.fr.png" group-title="Français",6ter
 http://154.54.220.228:8810/play/a00f
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/ARTE.fr.png" group-title="Français",Arte Français
@@ -400,32 +421,14 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 http://154.54.220.228:8810/play/a008
 #EXTINF:-1 tvg-logo="https://cdn-gulli.jnsmedia.fr/bundles/jeunesseintegrationgulli/images/header/logo-gulli.png" group-title="Français",Gulli
 http://154.54.220.228:8810/play/a00s
-#EXTINF:-1 tvg-logo="https://static.lci.fr/assets/images/logo_lci.png" group-title="Français",LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/LEquipe21.fr.png" group-title="Français",L'Equipe 21
 http://154.54.220.228:8810/play/a00k
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TMC.fr.png" group-title="Français",TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1.fr.png" group-title="Français",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TFX.fr.png" group-title="Français",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://new.static.tv.nu/15" group-title="Français",TV5 Monde Europe
-http://84.22.33.254/unicast.tv5monde/mpegts
-#EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/TV5Monde.gif" group-title="Français",TV5 Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="Français",M6
-https://stream.ecable.tv/m6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/NRJ12.fr.png" group-title="Français",NRJ12
 http://154.54.220.228:8810/play/a00c
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_GzQnzaF4k-o/RY6TYuuc7FI/AAAAAAAAAcs/CGhPH4h1CoU/s400/kto.jpg" group-title="Français",KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-logo="Public Sénathttps://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCdecouverte.fr.png" group-title="Français",RMC Découverte
@@ -481,6 +484,8 @@ https://origin1.dvmr.fr/hls/tvr/tvr.m3u8
 https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png" group-title="Français",TMA Caraïbes
 http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png group-title="Français",Vià Occitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/YleTV1.fi.png" group-title="Suomi",Yle TV 1
 http://193.64.188.131:8011/bysid/17
