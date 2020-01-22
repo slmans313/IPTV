@@ -207,16 +207,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="Sports",True Sport HD1
-https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2018/06/true-sport3.png" group-title="Sports",True Sport HD3
-https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_062.png&w=355&h=200" group-title="Sports",True Sport HD4
-https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_075.png&w=355&h=200" group-title="Sports",True Sport 6
-https://livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2017/10/18/bb139dd1-7336-4083-ba77-3e9c36e7aba1.png&w=320&h=240" group-title="Sports",True Sport 7
-https://livedoomovie.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sports",NBA TV
 http://live.fadev.club/live/NBATV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
@@ -302,6 +292,8 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://203.162.235.41:16924
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf",Sky Golf
 https://cstream5.com/hls/skysportsgolf.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg"group-title="ประเทศไทย",True Sport 5
+https://livedoomovie.com/02_sport5_480p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
@@ -325,7 +317,8 @@ http://wowgua.com/live/channel_630.m3u8
 http://198.255.23.18:2095/streams/49_.m3u8
 #EXTINF:-1 tvg-logo="https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/10/wwe_network_seeklogo_com.png" group-title="MMA",WWE Networks
 http://live.fadev.club/live/WWE/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_075.png&w=355&h=200"group-title="MMA",True Sport 6
+https://livedoomovie.com/02_sport6_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="Tennis",ATP Tennis TV
 http://203.154.243.89:11739
