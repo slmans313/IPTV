@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="অসমীয়া ",DY365
+http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.garshom.tv/img/logo.png" group-title="অসমীয়া ",Garshom
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.jonack.in/main/css/image_png/logo111.png" group-title="অসমীয়া ",Jonack TV
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/11/ne_live_logo_black_tag.png" group-title="অসমীয়া ",Northeast Live
+https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://nepalitv.co.uk/images/logo.png" group-title="ेपाली",NTV
+http://103.130.207.54/livetest/NTVHD360p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://nepalitv.co.uk/images/logo.png" group-title="ेपाली",Nepali Kohalpur
+https://mnmott.nettvnepal.com.np/mnmott/mnmNtvKohalpur.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://nepalitv.co.uk/images/logo.png" group-title="ेपाली",Nepali TV
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://imagekhabar.com/frontend/img/iklogo.png" group-title="ेपाली",Image Khabar 
+http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://jcss-cdn.ekantipur.com//kantipur-tv/images/ktv-hd.png" group-title="ेपाली",Kantipur TV
+https://ktvhdnp24.ekantipur.com/ktv_abr/hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://live-24-tv.com/wp-content/uploads/2017/04/BTV-2BWorld-2BLogo.png" group-title="বাংলা",BTV World
 http://live.robitvplus.com/hls/9T0YCvdR1aZUFLvs-XLbqw/1576769798/btv_world_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.asiantv.com.bd/wp-content/uploads/2019/02/Asian-tv-online-logo6.png" group-title="বাংলা",Asian TV
@@ -58,7 +78,9 @@ http://live.robitvplus.com/hls/4xRGWehYeQDPb64D8S5RAA/1576769810/my_tv_hi/index.
 http://175.41.46.16:8081/hls/12.m3u8
 #EXTINF:-1 tvg-logo="https://fyshnet.files.wordpress.com/2010/08/ntv-logo1.jpg" group-title="বাংলা",NTV
 http://103.68.116.50/live/feed1007/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="বাংলা"SATV
+#EXTINF:-1 tvg-logo="https://rplus.in/wp-content/uploads/2019/01/RPLUS-LOGO_SASP_small.png" group-title="বাংলা",RPlus News
+https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.satv.tv/wp-content/uploads/2017/07/logo1.png" group-title="বাংলা",SATV
 http://live.robitvplus.com/hls/SUTUEOI_N78jyJJGkUnKGg/1576769867/sa_tv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png",Sangeet Bangla
 https://streamer-1.toffeelive.com/live/sangeet_bangla_720/index.m3u8
