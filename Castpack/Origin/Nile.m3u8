@@ -73,8 +73,11 @@ http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.watanegypt.tv/design/home/img/logo.png" group-title="Egypt (مَصر)",Watan
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Addis-webtvonlive-com.jpg" group-title="Ethiopia(ኢትዮጵያ)",Addis TV
-http://162.212.178.70:4842/bysid/13
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Addis-webtvonlive-com.jpg" group-title="ኢትዮጵያ/ተጋሩ",Addis TV
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://eri.tv/EriTV6.png" group-title="ኢትዮጵያ/ተጋሩ",Eri-TV 1
+http://99.30.56.89:1935/live/myStream/chunklist_w291089480.m3u8
+http://217.182.137.206/eri.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
@@ -203,21 +206,23 @@ http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
 #EXTINF:-1 tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
 https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Somalia(الصومال‎)",Somali National TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="الصومال‎",Somali National TV
 https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
-#EXTINF:-1 tvg-logo="https://batalaalenews.net/uploads/article/photo/IMG_CB9499-460371-7315F8-84FB45-969063-049959.jpg" group-title="Somalia(الصومال‎)",Bulsho TV
+#EXTINF:-1 tvg-logo="http://www.hctv.tv/wp-content/uploads/2018/12/HCTV_90x90.png" group-title="الصومال‎",,Horn Cable TV
+http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://batalaalenews.net/uploads/article/photo/IMG_CB9499-460371-7315F8-84FB45-969063-049959.jpg" group-title="الصومال‎",Bulsho TV
 https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8
-#EXTINF:-1 tvg-logo="https://www.dalkatv.net/wp-content/uploads/2019/02/logo-header.png" group-title="Somalia(الصومال‎)",Dalka TV
+#EXTINF:-1 tvg-logo="https://www.dalkatv.net/wp-content/uploads/2019/02/logo-header.png" group-title="الصومال‎",Dalka TV
 https://ap01.iqplay.tv:8082/iq/d11k1web/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://nw-24.com/wp-content/uploads/Dacwa-TV.nw-24.com_.jpg" group-title="Somalia(الصومال‎)",Dacwa TV
+#EXTINF:-1 tvg-logo="http://nw-24.com/wp-content/uploads/Dacwa-TV.nw-24.com_.jpg" group-title="الصومال‎",Dacwa TV
 https://ap01.iqplay.tv:81/iqb8002/d13w1.m3u8
-#EXTINF:-1 tvg-logo="https://www.puntlandtvradio.net/wp-content/uploads/2016/04/cropped-puntlandtv1-1.png" group-title="Somalia(الصومال‎)",Puntland TV
+#EXTINF:-1 tvg-logo="https://www.puntlandtvradio.net/wp-content/uploads/2016/04/cropped-puntlandtv1-1.png" group-title="الصومال‎",Puntland TV
 https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8
-#EXTINF:-1 tvg-logo="http://shaashada.com/images/somalicable.png" group-title="Somalia(الصومال‎)",Somali cable
+#EXTINF:-1 tvg-logo="http://shaashada.com/images/somalicable.png" group-title="الصومال‎",Somali cable
 https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
-#EXTINF:-1 tvg-logo="http://somdromo.com/wp-content/uploads/2018/07/somnews-tv.png" group-title="Somalia(الصومال‎)",SomNews TV 
+#EXTINF:-1 tvg-logo="http://somdromo.com/wp-content/uploads/2018/07/somnews-tv.png" group-title="الصومال‎",SomNews TV 
 https://ap01.iqplay.tv:81/iqb8002/s0mnew12.m3u8
-#EXTINF:-1 tvg-logo="https://www.universaltvsomali.net/themes/tvuniversal/images/logo_badge.png" group-title="Somalia(الصومال‎)",Universal TV
+#EXTINF:-1 tvg-logo="https://www.universaltvsomali.net/themes/tvuniversal/images/logo_badge.png" group-title="الصومال‎",Universal TV
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
 
 
