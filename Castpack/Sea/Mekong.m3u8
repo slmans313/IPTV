@@ -269,6 +269,8 @@ http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/play
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Channel7.th.png" group-title="မြန်မာဘာသာ",Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channel9.jpg" group-title="မြန်မာဘာသာ",Channel 9
+http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
+
 http://220.158.149.28:8180/TV00000000000000000169@HHZT
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg" group-title="မြန်မာဘာသာ",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
@@ -303,11 +305,13 @@ https://livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Channel3.th.png" group-title="ประเทศไทย",Ch 3
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="ประเทศไทย",Ch 5
-https://1909041562.rsc.cdn77.org/LS-50041-SIN-20/tracks-v1a1/mono.m3u8
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w969424773_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="ประเทศไทย",Ch 7
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/styles/card/s3/image/NONEVENT/Channel8-RSThailand.png?Vdp3h8Hp1V9P8qtmHdVR7K65LrmzZAe0&itok=BzIdXe1Q" group-title="ประเทศไทย",Ch 8
 https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png" group-title="ประเทศไทย",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/DoChannal59.png" group-title="ประเทศไทย",Do Channel
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.8875fm.com/image/topmenu/menu_logo.png" group-title="ประเทศไทย",DDTV
