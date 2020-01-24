@@ -170,9 +170,9 @@ http://iptv.hayat-isp.net:1997/bein-sport12HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://cstream5.com/hls/btsport1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://cstream5.com/hls/btsport2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5 体育频道
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+ 体育赛事
@@ -227,7 +227,8 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playl
 https://globolive.akamaized.net:443/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
 https://cstream5.com/hls/skysportsaction.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
+https://cstream5.com/hls/skysportsarena.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="American Sports",ACC Network
 https://gma2.blab.email/acc.m3u8
@@ -285,9 +286,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="Football",Sony Ten 2
 https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football",Sky Sports Football
-https://cstream5.com/hls/skysportsfootball.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf",NBC Golf Asia
 http://203.154.243.89:1208
@@ -297,8 +295,6 @@ http://live.fadev.club/live/Golf/playlist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf",ゴルフネットワーク
 http://203.162.235.41:16924
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Golf",Sky Golf
-https://cstream5.com/hls/skysportsgolf.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg"group-title="Golf",True Sport 5
 https://livedoomovie.com/02_sport5_480p/chunklist.m3u8
 
