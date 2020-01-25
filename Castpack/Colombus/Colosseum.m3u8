@@ -554,7 +554,8 @@ http://89.38.8.130:39459
 #EXTINF:-1 tvg-logo="http://canal33.ro/wp-content/uploads/2017/12/logo.jpg" group-title="România",Canal 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://columna.mipadoweb.ro/wp-content/uploads/2019/01/lg2-320x92-300x86.png" group-title="România",Columna
-rtmp://columna1.arya.ro/live/columnatv1
+#EXTINF:-1 tvg-logo="https://www.espadamedia.ro/wp-content/uploads/2015/02/etv.jpg" group-title="România",Erdély TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://www.somaxtv.com/wp-content/uploads/2015/04/logo_somax_t3.png" group-title="România",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tezaurtv.ro/wp-content/uploads/2018/09/Tezaur-TV-online.jpg" group-title="România",Tezaur TV
@@ -618,8 +619,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 group-title="ROMANIA",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:-1 group-title="ROMANIA",Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+
 #EXTINF:-1 group-title="ROMANIA",Telestar 1
 http://193.34.109.10:8090
 
