@@ -203,10 +203,6 @@ http://5.135.92.133:52841/out/u/511_1.m3u8
 https://cstream5.com/hls/eurosport2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Sports",Sony Ten 1
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="Sports",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sports",NBA TV
 http://live.fadev.club/live/NBATV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
@@ -253,6 +249,12 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dsport.in/wp-content/uploads/2018/10/NewDSport_White.png" group-title="Cricket",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="Cricket",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Cricket",Sony Ten 1
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="Cricket",Sony Ten 2
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="Cricket",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Sony Six
@@ -288,8 +290,6 @@ https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV Español
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="Football",Sony Ten 2
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf",NBC Golf Asia
 http://203.154.243.89:1208
