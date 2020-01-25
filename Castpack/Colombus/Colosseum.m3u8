@@ -549,6 +549,8 @@ http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 http://163.172.172.80:8080/hls/InfoHd.m3u8
 #EXTINF:-1 tvg-logo="https://www.utv.ro/static/theme-repo/bin/images/logo-utv.png" group-title="România",U TV
 http://81.196.0.126/utvedge/utvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ro/MusicChannel.ro.png" group-title="România",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-1200-630.png" group-title="San Mario",RTV San Mario
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
