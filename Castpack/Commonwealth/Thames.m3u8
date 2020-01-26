@@ -114,8 +114,21 @@ https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="USA/Canada",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBS.us.png" group-title="USA/Canada",CBS
+
+
+
+#EXTINF:-1 tvg-logo="https://cbsnewyork.files.wordpress.com/2018/06/3_newyork_cbs2_wlny1055.png" group-title="USA/Canada",CBS 2 New York (WCBS)
 http://live.fadev.club/live/CBS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mediaweb.kirotv.com/photo/2018/09/24/kiro7_header_logo_152x60_13118164_ver1.0.png" group-title="USA/Canada",CBS 7 Seattle (KIRO)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/WHIO-TV_Logo.png/285px-WHIO-TV_Logo.png" group-title="USA/Canada",CBS 7 Ohio (WHIO)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo.png" group-title="USA/Canada",CBS 9 Los Angeles (KCAL)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1920px-WJAX-TV_logo.png" group-title="USA/Canada",CBS 47 Jacksonville (WJAX)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="USA/Canada",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CW.us.png" group-title="USA/Canada",The CW
@@ -143,6 +156,8 @@ https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USA/Canada",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA/Canada",NBC 4 DC (WRCB)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://media.nbcchicago.com/2019/09/Chicago_On_Dark@3x-1.png" group-title="USA/Canada",NBC 5 Chicago (WMAQ-TV)
 http://live.fadev.club/live/NBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaweb.wpxi.com/theme/images/logo-main-wpxi.png" group-title="USA/Canada",NBC 11 Pittsburgh (WPXI)
