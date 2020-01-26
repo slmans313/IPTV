@@ -148,7 +148,7 @@ http://live.fadev.club/live/Space/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/WNYW5.png group-title="USA/Canada",Fox 5 New York (WNYW)
 http://live.fadev.club/live/FOX/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOXKOKI.us.png" group-title="USA/Canada",FOX 23 Tulsa (KOKI)
+#EXTINF:-1 tvg-logo="https://www.fox23.com/pb/resources/images/cmg_icons/koki-logo.png" group-title="USA/Canada",FOX 23 Tulsa (KOKI)
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="USA/Canada",FOX 25 Boston (WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
@@ -173,22 +173,20 @@ http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/index_1900_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WVIT_Logo.png/330px-WVIT_Logo.png" group-title="USA/Canada",NBC 30 Connecticut (WVIT) 
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/index_1286_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12ct/images/news12ct-logo.png" group-title="USA/Canada",News 12 Connecticut Weather
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bx/images/news12bx-logo.png" group-title="USA/Canada",News 12 Bronx
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?callsign=N12BX
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bk/images/news12bk-logo.png" group-title="USA/Canada",News 12 Brooklyn
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?callsign=N12KN
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bx/images/news12bx-logo.png" group-title="USA/Canada",News 12 Bronx Weather
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?callsign=N12TW_NYC
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12li/images/news12li-logo.png" group-title="USA/Canada",News 12 Long Island
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?callsign=N12LI_WEST
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12li/images/news12li-logo.png" group-title="USA/Canada",News 12 LI Weather
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?callsign=N12TW_LI
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12nj/images/news12nj-logo.png" group-title="USA/Canada",News 12 New Jersey Weather
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?callsign=N12TW_NJ
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12wc/images/news12wc-logo.png" group-title="USA/Canada",News 12 Westchester Weather
-http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?callsign=N12TW_WC
 
 
 #EXTINF:-1 tvg-logo="http://yournewsnet.com/wp-content/uploads/2018/03/NNLogo.jpg" group-title="USA/Canada",Newsnet
