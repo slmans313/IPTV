@@ -34,6 +34,8 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Singapore/Malaysia",BNC  
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/BNC.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Singapore/Malaysia",TVIKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Singapore/Malaysia",Blue Ant Extreme
 https://tr.mbahnunungonline.net/session/7234f53e-400d-11ea-9493-b78da1b0043b/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="Singapore/Malaysia",HITS
@@ -206,12 +208,7 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="Indonesia",Zee Bioskop
 https://t4.mbahnunungonline.net/session/5f306ac0-400f-11ea-81aa-9d5f9fab9635/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Agama",TVIKIM
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Agama",Al Quran Al Kareem
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:-1 tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Agama",Al Sunna
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Agama",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="Agama",Ahsan TV
@@ -230,8 +227,7 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rodja.tv/uploads/custom-logo.png" group-title="Agama",Rodja
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XaHylRU-6cw/XFxIoBM5PiI/AAAAAAAAATs/QLtA4LflSksb_Z9nc-EMw7F8xXHYfeQ7ACLcBGAs/s1600/Wesal%2Btv.png" group-title="Agama",Wesal TV
-http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="Pilipinas",GMA Pinoy
