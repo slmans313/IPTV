@@ -195,6 +195,10 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1 tvg-logo="http://www.salam-tv.ps/media/images/logo.png" group-title="فلسطين",Salam TV
 http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.alrayyan.tv/wp-content/uploads/2016/12/live1.png" group-title="دولة قطر",Alrayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://www.alrayyan.tv/wp-content/uploads/2017/10/rayyanqadeem.png" group-title="دولة قطر",Alrayyan 2
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://baraem.tv/images/logo.png" group-title="دولة قطر",Baraeim tv
 http://livecdnh2.tvanywhere.ae:80/hls/baraeim/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="دولة قطر",Jeem TV
@@ -233,8 +237,11 @@ http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/uploads/2016/10/Musica.png" group-title="السعودية",Rotana Music
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/lana-95x95.gif" group-title="سوريا",Lana TV
+#EXTINF:-1 tvg-logo="https://www.embratoria.net/uploads/tv_image/lana-tv.png group-title="سوريا",Lana TV
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.embratoria.net/uploads/tv_image/lana-plus.png" group-title="سوريا",Lana Plus
+https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="سوريا",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريا",Alikhbaria TV
@@ -244,7 +251,7 @@ http://82.137.248.16:1935/SEdu/stream20112018/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.online/rtv_icons/syrian_logo.png" group-title="سوريا",Syrian Satellite
 http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sy/SyriaDrama.sy.png" group-title="سوريا",Syrian Drama TV
-http://livecdnh2.tvanywhere.ae/hls/syria_drama/05.m3u8
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="سوريا",Sama TV
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.online/rtv_icons/nour_logo.png" group-title="سوريا",Nour Elsham TV
@@ -253,6 +260,8 @@ http://82.137.248.16:1935/Nour/stream20112018/playlist.m3u8
 http://82.137.248.16:1935/Souryana/stream20112018/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/ugarit_logo.png" group-title="سوريا",Ugarit TV 
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
+#EXTINF:-1 tvg-logo="https://orient-news.net/tamplate/new/shared/images/Orient-NET1.png" group-title="سوريا",Orient TV
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" group-title="ماراتيين",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
@@ -292,7 +301,7 @@ http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/SamaDubai.ae.png" group-title="ماراتيين",Sama Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 #EXTINF:-1 tvg-logo="http://sharjahart.org/images/uploads/site-images/_thumbnail-image-retina/SBA-Logo-Secure-Spaces--Colors-%28002%29.png" group-title="ماراتيين",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b2000000.m3u8
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="ماراتيين",Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w814636843_b1296000_slAR.m3u8
 #EXTINF:-1 tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg" group-title="ماراتيين",Wanasah
