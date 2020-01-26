@@ -92,10 +92,16 @@ http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TheBox.uk.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
+#EXTINF:-1 tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="USA/Canada",24-7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://img.miptv.ws/A&E_HD.png" group-title="USA/Canada",A&E
 http://live.fadev.club/live/AE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blive.imgix.net/web/generic/mee.logo-golden-trans.png" group-title="USA/Canada",AKC TV 
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="USA/Canada",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="USA/Canada",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AmericanHeroesChannel.us.png" group-title="USA/Canada",American Hero Channel
 http://live.fadev.club/live/AHC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BBCAmerica.us.png" group-title="USA/Canada",BBC America
@@ -110,6 +116,8 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBS.us.png" group-title="USA/Canada",CBS
 http://live.fadev.club/live/CBS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="USA/Canada",CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CW.us.png" group-title="USA/Canada",The CW
 http://live.fadev.club/live/CW/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WKMGDT2.us.png" group-title="USA/Canada",DABL
@@ -128,9 +136,6 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/6d56dcba66d14b5845169
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51KxCs%2BTT8L._SY355_.png" group-title="USA/Canada",Law & Crime Trial
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/6/prog_index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC.us.png" group-title="USA/Canada",NBC
 http://live.fadev.club/live/NBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="USA/Canada",OWN
