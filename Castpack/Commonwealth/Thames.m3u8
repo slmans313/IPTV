@@ -120,8 +120,12 @@ http://live.fadev.club/live/CBS/playlist.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CW.us.png" group-title="USA/Canada",The CW
 http://live.fadev.club/live/CW/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA/Canada",CW Boston (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/WKMGDT2.us.png" group-title="USA/Canada",DABL
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PH1Gg4p.png" group-title="USA/Canada",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUS.ru.png" group-title="USA/Canada",RT USA
 http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/CityTVSaskatchewan.ca.png" group-title="USA/Canada",CTV
@@ -136,10 +140,24 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/6d56dcba66d14b5845169
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51KxCs%2BTT8L._SY355_.png" group-title="USA/Canada",Law & Crime Trial
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC.us.png" group-title="USA/Canada",NBC
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USA/Canada",Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.nbcchicago.com/2019/09/Chicago_On_Dark@3x-1.png" group-title="USA/Canada",NBC 5 Chicago (WMAQ-TV)
 http://live.fadev.club/live/NBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mediaweb.wpxi.com/theme/images/logo-main-wpxi.png" group-title="USA/Canada",NBC 11 Pittsburgh (WPXI)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/WHO-TV_logo.png/225px-WHO-TV_logo.png" group-title="USA/Canada",NBC 13 Des Moines (WHO-DT)
+http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/index_1900_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WVIT_Logo.png/330px-WVIT_Logo.png" group-title="USA/Canada",NBC 30 Connecticut (WVIT) 
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/index_1286_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://yournewsnet.com/wp-content/uploads/2018/03/NNLogo.jpg" group-title="USA/Canada",Newsnet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resources.ntv.ca/wp-content/uploads/2019/11/01095849/NTV_newWS.png" group-title="USA/Canada",NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nstv.org/wp-content/uploads/2019/09/cropped-NSTV_logo_OL_2C_RGB.png" group-title="USA/Canada",North Shore TV
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="USA/Canada",OWN
 http://live.fadev.club/live/OWN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Oxygen.us.png" group-title="USA/Canada",Oxygen
@@ -150,6 +168,8 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Showtime.us.png" group-title="USA/Canada",Showtime
 http://live.fadev.club/live/SHOWTIME/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vhx.imgix.net/tastemade/assets/1067fc2b-f559-4d74-8d5e-1e4665dcd686.png" group-title="USA/Canada",Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="USA/Canada",TBS
 http://live.fadev.club/live/TBS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/TeleQuebec.ca.png" group-title="USA/Canada",Tele-Quebec
@@ -160,6 +180,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 http://live.fadev.club/live/TruTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TNT.us.png" group-title="USA/Canada",TNT
 http://live.fadev.club/live/TNT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA/Canada",WSVI-TV (Virgin Islands)
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/USANetwork.us.png" group-title="USA/Canada",USA Network
 http://live.fadev.club/live/USANETWORK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zliving.com/wp-content/uploads/2018/03/Retina.png" group-title="USA/Canada",Z Living
