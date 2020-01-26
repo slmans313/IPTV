@@ -154,6 +154,8 @@ http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.kopliku.tv/wp-content/uploads/2019/11/logo.png" group-title="Shqipëria/Kosovës",TV Kopliku
 http://alb.123alb.com:25461/live/l/l/2146.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/at/ORF1.at.png" group-title="Österreich",ORF 1
+https://wer11.wertvlive.com/w10/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://www.dorftv.at/sites/default/themes/dorftv_omega/logo.png" group-title="Österreich",dorf
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Österreich",FS1 Salzburg
@@ -378,6 +380,8 @@ http://panel.procaja.me/live/sup.php?z=111&u=803819108153395&s=511114015888888&i
 http://154.54.220.228:8810/play/a005
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="Français",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/TV5Monde.gif" group-title="Français",TV5 Monde Asie
+https://t4.mbahnunungonline.net/session/fdda6326-400d-11ea-b0b2-80d7b291959d/qwr9ew/s/s24/01.m3u8
 #EXTINF:-1 tvg-logo="https://new.static.tv.nu/15" group-title="Français",TV5 Monde Europe
 http://84.22.33.254/unicast.tv5monde/mpegts
 #EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info
@@ -579,10 +583,21 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/RTL2.de.png" group-title="Deutschland",RTL Zwei
 http://5.135.92.133:52841/out/u/119_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/sixx.de.pngng" group-title="Deutschland",Sixx
+https://wer11.wertvlive.com/w7/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
 http://5.135.92.133:52841/out/u/127_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
 http://5.135.92.133:52841/out/u/124_1.m3u8
+
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/sport1-logo.png",Sport 1
+https://wer11.wertvlive.com/w13/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/75.png",Disney
+https://wer11.wertvlive.com/w14/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/72.png",Tele 5
+https://wer11.wertvlive.com/u3/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/73.png",Viva & Comedy
+https://wer11.wertvlive.com/w12/video.m3u8?token=Rh45MoyoC3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/300px-ZDF_logo.svg.png" group-title="Deutschland",ZDF
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
@@ -594,13 +609,14 @@ http://185.254.160.4:8000/play/a00j/index.m3u8
 http://84.22.33.254/unicast.prosiebenmaxx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1.de.png" group-title="Deutschland",Sat 1
-http://84.22.33.254/unicast.sat1/index.m3u8
+https://wer1.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="Deutschland",Sat1 Gold
 http://84.22.33.254/unicast.sat1gold/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ComedyCentral.de.png" group-title="Deutschland",Comedy Central Deutsch
+https://wer11.wertvlive.com/w12/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Deutschland",Disney Deutsch
-http://84.22.33.254/unicast.disneychannel/index.m3u8
+https://wer11.wertvlive.com/w14/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="Deutschland",TLC Deutsch
 http://84.22.33.254/unicast.tlc/index.m3u8
 
