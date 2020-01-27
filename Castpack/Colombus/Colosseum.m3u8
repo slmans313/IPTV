@@ -388,6 +388,8 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/pla
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo RJ
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo Minas
+https://origin.canaismax.com/live/globomg/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Gnt.br.png" group-title="Português/Brasil",GNT
 https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Gloob.br.png" group-title="Português/Brasil",Gloob
@@ -445,14 +447,14 @@ http://198.255.23.18:2095/streams/128_.m3u8
 http://198.255.23.18:2095/streams/60_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Cinemax.br.png" group-title="Português/Brasil",Cinemax Português
 http://198.255.23.18:2095/streams/184_.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNPortuguês/Brasil.br.png" group-title="Português/Brasil",ESPN Brasil
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Português/Brasil/master_Layer3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNPortuguês/Brasil.br.png" group-title="Português/Brasil",ESPN 1 Brasil
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNPortuguês/Brasil.br.png" group-title="Português/Brasil",ESPN 2 Brasil
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNPortuguês/Brasil.br.png" group-title="Português/Brasil",ESPN Extra
-https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
+https://origin.canaismax.com/mylive/espnbrasilhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPN.br.png" group-title="Português/Brasil",ESPN 1 Brasil
+https://origin.canaismax.com/mylive/espnhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPN2.br.png" group-title="Português/Brasil",ESPN 2 Brasil
+https://origin.canaismax.com/live/espnmaissd/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNExtra.br.png" group-title="Português/Brasil",ESPN Extra
+https://origin.canaismax.com/live/espnextrahd/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Português/Brasil",FX Brasil
