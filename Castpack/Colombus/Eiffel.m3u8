@@ -580,10 +580,21 @@ http://81.21.47.74/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
 https://mcdn.daserste.de/daserste/int/master_3744.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle +
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ZDF.de.png" group-title="Deutschland",ZDF
+http://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ZDFneo.de.png" group-title="Deutschland",ZDF Neo
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ZDFinfo.de.png" group-title="Deutschland",ZDF Info
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/ARTE.fr.png" group-title="Deutsch",Arte Deutsch
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/at/3sat.at.png" group-title="Deutschland",3 Sat
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Kika.de.png" group-title="Deutschland",Kika
+http://kika-lh.akamaihd.net/i/livetvkika_ww@72295/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle +
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DMax.de.png" group-title="Deutschland",DMAX Deutsche
 https://wer1.wertvlive.com/w4/video.m3u8
@@ -591,6 +602,8 @@ https://wer1.wertvlive.com/w4/video.m3u8
 https://wer1.wertvlive.com/w5/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ntv.de.png" group-title="Deutschland",N-TV
 https://wer222.wertvlive.com/hls/q6.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Phoenix.de.png" group-title="Deutschland",Phoenix
+http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Pro7.de.png" group-title="Deutschland",ProSieben
 https://wer1.wertvlive.com/w1/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ProSiebenMaxx.de.png" group-title="Deutschland",ProSiben Max
@@ -601,26 +614,18 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/RTL2.de.png" group-title="Deutschland",RTL Zwei
 http://5.135.92.133:52841/out/u/119_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1.de.png" group-title="Deutschland",Sat 1
+https://wer1.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="Deutschland",Sat1 Gold
+http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/sixx.de.png" group-title="Deutschland",Sixx
 https://wer11.wertvlive.com/w7/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
 http://5.135.92.133:52841/out/u/127_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
 http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/300px-ZDF_logo.svg.png" group-title="Deutschland",ZDF
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/at/3sat.at.png" group-title="Deutschland",3 Sat
-http://185.254.160.4:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="Deutschland",Kika
-http://185.254.160.4:8000/play/a00j/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1.de.png" group-title="Deutschland",Sat 1
-https://wer1.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="Deutschland",Sat1 Gold
-http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/WDR.de.png" group-title="Deutschland",WDR Fernsehen
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ComedyCentral.de.png" group-title="Deutschland",Comedy Central Deutsch
 https://wer11.wertvlive.com/w12/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Deutschland",Disney Deutsch
@@ -744,8 +749,6 @@ http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/play
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="Deutschland",Unserding
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="Deutschland",WDR Fernsehen
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.weltderwunder.de/assets/logo-d3352413add281f623f72749b900081a38dea748e4c2bfd46816501282378788.png" group-title="Deutschland",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png" group-title="Deutschland",Westerwald TV
@@ -755,10 +758,6 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/p
 http://162.212.178.70:4842/bysid/26
 #EXTINF:-1 tvg-logo="https://1music.hu/assets/images/logo.png" group-title="MagyarorszĂˇg",1 Music
 http://1music.hu/1music.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTL2.hu.png" group-title="MagyarorszĂˇg",RTL 2
-http://37.152.135.169:9002/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hu/RTLGold.hu.png" group-title="MagyarorszĂˇg",RTL Gold
-http://37.152.135.169:9002/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://balatontelevizio.hu/app/themes/balatontv/dist/images/BTV-logo_2e64ac5c.png" group-title="MagyarorszĂˇg",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-logo="https://cms.sulinet.hu/get/d/0fb6e8f0-c5c0-4d75-a10b-a9376c180212/1/5/b/Large/mar31_bptvlogo_a.jpg" group-title="MagyarorszĂˇg",Budapest Európa TV
