@@ -134,7 +134,7 @@ http://5.135.92.133:52841/out/u/456_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.rielroma.eu/index_htm_files/3256.png" group-title="Shqipëria/Kosovës",Tring International
 http://5.135.92.133:52841/out/u/237_1.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Tring%20Kids.png" group-title="Shqipëria/Kosovës",Tring Kids
-http://84.22.33.254/unicast.kids/index.m3u8
+http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringLife.al.png" group-title="Shqipëria/Kosovës",Tring Life
 http://5.135.92.133:52841/out/u/25_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/Living.al.png" group-title="Shqipëria/Kosovës",Tring Living
@@ -146,9 +146,52 @@ http://5.135.92.133:52841/out/u/458_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringSuper.al.png" group-title="Shqipëria/Kosovës",Tring Super
 http://5.135.92.133:52841/out/u/470_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringTring.al.png" group-title="Shqipëria/Kosovës",Tring Tring
-http://84.22.33.254/unicast.tringtring/index.m3u8
+http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TringWorld.al.png" group-title="Shqipëria/Kosovës",Tring World
 http://5.135.92.133:52841/out/u/459_1.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hwIdkJo.png" group-title="FEMIJET", Pikaboo
+http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qmeyy8g.jpg" group-title="FEMIJET", Prince Kids
+http://ott.artmott.com/princekids/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ek2KXN1.jpg" group-title="FEMIJET", Cartoonnet
+http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="https://i.imgur.com/XkVMJMd.png" group-title="DOKUMENTAR",ArtDoku1
+http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="https://i.imgur.com/1TdXtbf.png" group-title="DOKUMENTAR",ArtDoku2
+http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UeOTqGH.png" group-title="FILMA",sky-SHQIP
+http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xzNvgKf.png" group-title="FILMA",sky STAR
+http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0JSyKHs.jpg" group-title="FILMA",7en
+http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D4jCsoR.png" group-title="FILMA",sky-Aksion
+http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dRUxyDh.jpg" group-title="FILMA",sky-Max
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JPjiFSG.jpg" group-title="FILMA",sky-Comedy
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0ZXzuyc.png" group-title="FILMA",VaVooM-HAHHAHA
+http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fnzafMg.png" group-title="FILMA",ArtKino1
+http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aIgyWij.png" group-title="FILMA",ArtKino2
+http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/r4qQGcs.png" group-title="FILMA",ArtKino3
+http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VMJqz5Q.png" group-title="SPORT",ArtSport1
+http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1hDj8Vm.png" group-title="SPORT",ArtSport2
+http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UlS2gAF.png" group-title="SPORT",ArtSport3
+http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FC0DVUI.jpg" group-title="SPORT",ExtremeSport
+http://ott.artmott.com/extremesport/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/al/TipTv.al.png" group-title="Shqipëria/Kosovës",Tip TV
 http://84.22.33.254/unicast.tiptv/index.m3u8
 #EXTINF:-1 tvg-logo="http://aritv.ch/wp-content/uploads/2019/11/ari_logo.png" group-title="Shqipëria/Kosovës",TV Ari
@@ -581,27 +624,20 @@ https://wer1.wertvlive.com/w5/video.m3u8
 https://wer222.wertvlive.com/hls/q6.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Pro7.de.png" group-title="Deutschland",ProSieben
 https://wer1.wertvlive.com/w1/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ProSiebenMaxx.de.png" group-title="Deutschland",ProSiben Max
+http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/RTL.de.png" group-title="Deutschland",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/RTL2.de.png" group-title="Deutschland",RTL Zwei
 http://5.135.92.133:52841/out/u/119_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/sixx.de.pngng" group-title="Deutschland",Sixx
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/sixx.de.png" group-title="Deutschland",Sixx
 https://wer11.wertvlive.com/w7/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
 http://5.135.92.133:52841/out/u/127_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
 http://5.135.92.133:52841/out/u/124_1.m3u8
-
-#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/sport1-logo.png",Sport 1
-https://wer11.wertvlive.com/w13/video.m3u8?token=Rh45MoyoC3
-#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/75.png",Disney
-https://wer11.wertvlive.com/w14/video.m3u8?token=Rh45MoyoC3
-#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/72.png",Tele 5
-https://wer11.wertvlive.com/u3/video.m3u8?token=Rh45MoyoC3
-#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/73.png",Viva & Comedy
-https://wer11.wertvlive.com/w12/video.m3u8?token=Rh45MoyoC3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/300px-ZDF_logo.svg.png" group-title="Deutschland",ZDF
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
@@ -609,13 +645,12 @@ https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 http://185.254.160.4:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="Deutschland",Kika
 http://185.254.160.4:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ProSiebenMaxx.de.png" group-title="Deutschland",ProSiben Max
-http://84.22.33.254/unicast.prosiebenmaxx/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1.de.png" group-title="Deutschland",Sat 1
 https://wer1.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="Deutschland",Sat1 Gold
-http://84.22.33.254/unicast.sat1gold/index.m3u8
+http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ComedyCentral.de.png" group-title="Deutschland",Comedy Central Deutsch
 https://wer11.wertvlive.com/w12/video.m3u8?token=Rh45MoyoC3
@@ -714,6 +749,8 @@ http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png" group-title="Deutschland",Rhein Neckar Fernsehen
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF: tvg-logo="https://www.film-tv-video.de/wp-content/gallery/sport1-hd-jetzt-auch-per-iptv/B_0910_SPORT1-HD_Logo.jpg",Sport 1
+https://wer11.wertvlive.com/w13/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="Deutschland",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/1200px-SWR3_Logo.svg.png" group-title="Deutschland",SWR 3
