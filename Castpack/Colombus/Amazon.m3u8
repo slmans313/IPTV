@@ -130,7 +130,18 @@ http://api.streann.com:8080/loadbalancer-dev/services/public/channels/56992db2e4
 #EXTINF:-1 tvg-logo="https://tvdirect13.com/img/tvdirect13-w.png" group-title="Curaçao",TV Direct 13
 https://edge1.tvdirect13.com/live/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.tele1.sv/wp-content/uploads/2019/06/TELE1_WHITE.png" group-title="El Salvador",Tele 1
+https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/chunklist_w1745478778_b478000_DVR_sleng.m3u8 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sv/Canal2Nacional.sv.png" group-title="El Salvador",Canal 2
+http://d15i8x1adtn1w6.cloudfront.net/canal2/index.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-4-El-Salvador.png" group-title="El Salvador",Canal 4
+http://d15i8x1adtn1w6.cloudfront.net/canal4/index.m3u8
+#EXTINF:-1 tvg-logo="http://wowelsalvador.com/imagenes/logooff.fw.png" group-title="El Salvador",Canal 6
+http://d15i8x1adtn1w6.cloudfront.net/canal6/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="El Salvador",TCS+
+http://d15i8x1adtn1w6.cloudfront.net/tcsplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TCS_El_Salvador_2002.svg/375px-TCS_El_Salvador_2002.svg.png" group-title="El Salvador",TCS
+http://d15i8x1adtn1w6.cloudfront.net/tcshd/index.m3u8
 #EXTINF:-1 tvg-logo="http://wowelsalvador.com/imagenes/logooff.fw.png" group-title="El Salvador",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
