@@ -93,6 +93,14 @@ http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w882348839_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/KurdsatTV.png" group-title="العراق",Kurdsat TV
 http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/iq-kurdmax-2048.jpg" group-title="العراق",KurdMax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/iq-kurdmax-pepule.jpg" group-title="العراق",Kurdmax Pepûle
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kurdtvs.net/uploads/files/22-04-2019-bb4aecde-kurdmaxmusic.png" group-title="العراق",KurdMax Music
+http://31.14.40.139:1935/music/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BslyzJbXKa8/WRhOsBsz6CI/AAAAAAAAAE8/ceO_R4ndBIgFJ6osF_Uv3igs3VvTjIkCACLcB/s1600/Kurdmaxshow.png" group-title="العراق",KurdMax Show
+http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://broadcastprome.com/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo-for-web.jpg" group-title="العراق",MBC Iraq
 http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GArpqi6cy00/WRg5OrFQZ6I/AAAAAAAAABc/I6aW8nEXqF09itdEpj2ekqWOv_cb7JSVgCLcB/s1600/medmuziktv.png" group-title="العراق",Med Muzîk
