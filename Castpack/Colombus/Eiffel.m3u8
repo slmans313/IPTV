@@ -530,6 +530,8 @@ https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZKxIBA.jpg" group-title="Ελλάδα",ERT Sports HD
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/4%CE%95.gr.png" group-title="Ελλάδα",4E
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="Ελλάδα",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/225px-Alpha_TV_logo.svg.png" group-title="Ελλάδα",Alpha
@@ -542,8 +544,6 @@ https://w1.viastreaming.net/onweb/live/chunklist_w1080573781.m3u8
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.voloslive.gr/wp-content/uploads/2017/08/axeloostvTV.png" group-title="Ελλάδα",Axeloos TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="Ελλάδα",4E
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://corfutvnews.gr/wp-content/uploads/corfu-tv-news-logo-main.png" group-title="Ελλάδα",Corfu TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/2dbb7a7bc84208a88701a8bfc8dd97b4.jpeg" group-title="Ελλάδα",Delta TV
@@ -554,22 +554,22 @@ https://server.tvdj.info:8222/1c/stream/playlist.m3u8
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2380522/logo_high%20tv.png" group-title="Ελλάδα",High TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ioniantv.gr/wp-content/themes/ioniantv/img/logo-dark.png" group-title="Ελλάδα",Ionian TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/IonianChannel.gr.png" group-title="Ελλάδα",Ionian TV
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/newlogokontra.png" group-title="Ελλάδα",Kontra
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/KontraChannel.gr.png" group-title="Ελλάδα",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logo.png" group-title="Ελλάδα",ΚΡΗΤΗ TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/1564276_logo_messinia_tv1.png" group-title="Ελλάδα",Messinia TV
+#EXTINF:-1 tvg-logo="https://messiniaradio.gr/wp-content/uploads/2016/02/WEB.png" group-title="Ελλάδα",Messinia TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/699706953027579904/nmY_iMMC.png" group-title="Ελλάδα",NETV
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" group-title="Ελλάδα",NEA TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://thrakinet.tv/wp-content/uploads/2015/11/THRAKINET-300x77.png" group-title="Ελλάδα",Θράκη Νετ TV
+#EXTINF:-1 tvg-logo="https://thrakinet.tv/wp-content/uploads/2019/11/THRAKINET-300x77.png" group-title="Ελλάδα",Θράκη Νετ TV
 http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Starnewlogo.jpg/225px-Starnewlogo.jpg" group-title="Ελλάδα",Star TV
-https://starlivegr-a.akamaized.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/t3YaLZhXAS25NBYJNUtjpQ/index-s36.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/Star.gr.png" group-title="Ελλάδα",Star TV
+https://cdnapisec.kaltura.com/p/713821/sp/0/playManifest/entryId/1_fp7fyi3j/format/applehttp/protocol/https/flavorParamId/0/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://media.skaitv.gr/images/0/0/media_tv-editors/201803-fotos/skai.jpg" group-title="Ελλάδα",ΣΚΑΪ
 http://137.74.203.67:4780/skai/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/0/0c/Syros_tv1_logo_large.png" group-title="Ελλάδα",Syros Tv1
