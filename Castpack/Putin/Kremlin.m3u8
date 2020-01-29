@@ -17,12 +17,14 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="Россия",СТС
 https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Россия",Disney Channel Россия
+http://stream3.kuvalda.tv/hls/disney.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Domashniy.ru.png" group-title="Россия",Домашний
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/NTV.ru.png" group-title="Россия",НТВ
 http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_NTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://nntv.tv/_data/objects/0005/4417/icon.png" group-title="Россия",ННТВ
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_NTV/variant.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Россия",Euronews Русский
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Pjatnica.ru.png" group-title="Россия",Пятница!
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTD.ru.png" group-title="Россия",RT Д Русский
@@ -35,6 +37,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Россия",Мир International
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/OTR.ru.png" group-title="Россия",ОТР
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="Россия",ТНТ
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Che.ru.png" group-title="Россия",Че!
@@ -43,14 +47,19 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_PERETZ/variant.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Karusel.ru.png" group-title="Россия",Карусель
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/220px-TV_Tsentr_Full_Logo.svg.png" group-title="Россия",ТВЦ
+#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Россия",ТВ3
+http://stream3.kuvalda.tv/hls/tv3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TVCentr.ru.png" group-title="Россия",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.u-tv.ru/upload/iblock/e19/Uautumn19_LOGO.png" group-title="Россия",Ю
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Yu.ru.png" group-title="Россия",Ю
 http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_U/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Zvezda.ru.png" group-title="Россия",Звезда
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-logo="http://russianmusicbox.tv/wp-content/themes/main/img/logo.png" group-title="Россия",Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Space.ru.png" group-title="Россия",Спас
+http://spastv.ru/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Якутия 24
 http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
@@ -60,8 +69,8 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m
 http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/nn.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dprtv.phoenix-dnr.ru/first-republic/logo.png" group-title="Россия",1-й Республиканский
 http://dprtv.phoenix-dnr.ru/first-republic-tv
-#EXTINF:-1 tvg-logo="http://gtrk-omsk.ru/bitrix/templates/v2015/images/logo_2019.jpg" group-title="Россия",12 Канал
-http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://spbtvonline.ru/tafiimage_china/list_new/logo/12-kanal.png" group-title="Россия",12 Канал
+https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvr24.tv/assets/logo-6b7419a9876e12ea94f047dd4b848c3383d6db2d65ec4559592988c275c12c3e.png" group-title="Россия",24 TBP
 http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" group-title="Россия",360°
@@ -152,8 +161,6 @@ http://109.248.236.41:4433/udp/238.1.1.107:1234
 http://paideuma.tv:1941/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mega-mir.net/uploads/posts/2015-06/1434573985_mega-mir.net-en-tv.jpg" group-title="Россия",En TV
 http://oriontv.net/hls/480.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="Россия",Euronews Русский
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510953667_eho-tv-24.png" group-title="Россия",Эхо 24 
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.online/uploads/posts/2017-10/1507364591_echotv.png" group-title="Россия",Эхо 
@@ -260,7 +267,7 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1 tvg-logo="http://muz.tv-soyuz.ru/images/logo.png" group-title="Россия",Muz Sojuz
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/9/9f/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%BE%D1%8F_%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png" group-title="Россия",Моя Планета
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MoyaPlaneta.ru.png" group-title="Россия",Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://freerutube.com/wp-content/uploads/2016/10/current-time-tv.jpg" group-title="Россия",Nastoyashcheye Vremya
 https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
@@ -276,8 +283,6 @@ http://now03.eaglecdn.com/stream_transcoded_720/irystontv_irystontvstream1_hi/in
 http://185.18.4.16/live/3m/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.tv/ogimage/2018-06/1530003264_oplot-1.png" group-title="Россия",Оплот ТВ
 http://dprtv.phoenix-dnr.ru/oplot-tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/OTR_2013_logo.svg/330px-OTR_2013_logo.svg.png" group-title="Россия",ОТР
-http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fenixplus.tv/bitrix/templates/main/images/logo_for_web.png" group-title="Россия",Феникс+ Кино
 http://109.248.236.41:4433/udp/238.1.1.134:1234
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/ratnik.png" group-title="Россия",Ратник
@@ -412,8 +417,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 http://178.124.183.14:80/hls/JSQ2S6VQTE/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Россия",Cartoon Network Россия
 http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Россия",Disney Channel Россия
-http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyJunior.ee.png" group-title="Россия",Disney Junior Россия
 http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Fox.ru.png" group-title="Россия",Fox Россия
