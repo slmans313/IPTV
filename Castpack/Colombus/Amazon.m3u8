@@ -86,7 +86,8 @@ https://iltv.cachefly.net/live/live_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/themes/medianed-child/img/logo-blanco-slogan.png" group-title="Chile",La Red
+http://cl-lared-lared-app-oiuh8d-origin-0.ned.media/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Chile",CDO Deportes
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
@@ -404,8 +405,8 @@ http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/225px-Sol_tv_pe.png" group-title="Perú",Willax
 http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Telemundo_Puerto_Rico.png" group-title="Puerto Rico",Telemundo Puerto Rico
-https://kerenua.xyz/zine/mini/miniProxy.php/http://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.wipr.pr/wp-content/uploads/2018/11/logo2-1-300x99.png" group-title="Puerto Rico",WIPR-TV
+https://api.new.livestream.com/accounts/16550960/events/8600941/broadcasts/198723611.m3u8
 
 #EXTINF:-1 tvg-logo="https://zizonline.com/wp-content/uploads/2016/11/ziz_logo.png" group-title="Saint Kitts and Nevis",ZIZ
 http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
