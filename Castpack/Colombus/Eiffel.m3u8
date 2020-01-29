@@ -587,7 +587,7 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
 https://mcdn.daserste.de/daserste/int/master_3744.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ZDF.de.png" group-title="Deutschland",ZDF
-http://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8
+http://137.74.203.67:4780/zdf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ZDFneo.de.png" group-title="Deutschland",ZDF Neo
 http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ZDFinfo.de.png" group-title="Deutschland",ZDF Info
@@ -620,6 +620,8 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/RTL2.de.png" group-title="Deutschland",RTL Zwei
 http://5.135.92.133:52841/out/u/119_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/RTLNitro.de.png" group-title="Deutschland",RTL Nitro
+http://137.74.203.67:4780/nitro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1.de.png" group-title="Deutschland",Sat 1
 https://wer1.wertvlive.com/w6/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="Deutschland",Sat1 Gold
