@@ -99,10 +99,6 @@ https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ETNOW.in.png" group-title="Financial News",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" group-title="Financial News",Fox Business
-http://live.fadev.club/live/FOXB/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MSNBC.us.png" group-title="Financial News",MSNBC
-http://live.fadev.club/live/MSNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Financial News",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Financial News",NDTV Profit
@@ -158,8 +154,6 @@ https://anevia115.mncnow.id:443/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_24999
 https://origin.canaismax.com/mylive/foxsportshd/video.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Brasil
 https://origin.canaismax.com/live/foxsports2hd/video.m3u8
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cision-wp-files/us/wp-content/uploads/2016/10/20090610/FOX-Sports-1.jpg" group-title="Sports",Fox Sports 1 US
-http://live.fadev.club/live/FS1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN.nz.png" group-title="Sports",ESPN
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="Sports",ESPN 2
@@ -172,8 +166,6 @@ http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sports",NBA TV
-http://live.fadev.club/live/NBATV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel 2
@@ -196,6 +188,8 @@ https://cstream8.com/hls/skysportsaction.m3u8
 https://cstream8.com/hls/skysportsarena.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9nZek_Xczn4/VtYapdfBcKI/AAAAAAAADl0/7TA-J7fgQu0/s320/supersport_3_africa.png" group-title="Sports",Super Sport 3
 http://sg.ocache.xyz/sports/supersp3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchTV.ru.png" group-title="Sports",Матч!
+http://188.35.9.14:2019
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="American Sports",ACC Network
 https://gma2.blab.email/acc.m3u8
@@ -209,16 +203,6 @@ https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3
 https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="American Sports",Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBCSportsNetwork.us.png" group-title="American Sports",NBC Sports
-http://live.fadev.club/live/NBCSN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="American Sports",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NFLNetwork.us.png" group-title="American Sports",NFL Network
-http://live.fadev.club/live/NFL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="American Sports",NHL Network
-http://live.fadev.club/live/NHL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MadisonSquareGarden.us.png" group-title="American Sports",MSG
-http://live.fadev.club/live/MSG/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/SECNetwork.us.png" group-title="American Sports",SEC Network
 https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22697/sportskool-tv/logo_20191213_002949.png" group-title="American Sports",Sportskool TV
@@ -284,6 +268,7 @@ http://188.35.9.14:2010
 http://188.35.9.14:2011
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchFutbol3.ru.png" group-title="Football",Матч! Футбол 3
 http://188.35.9.14:2012
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf",NBC Golf
 http://203.154.243.89:1208
@@ -377,9 +362,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC US
-http://live.fadev.club/live/TLC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="Entertainment",TLC US Asia
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="Entertainment",TLC India
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Entertainment",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
