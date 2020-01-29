@@ -26,6 +26,10 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/44.png" group-title="Australia/New Zealand",C44
 https://bdz47wk-lh.akamaihd.net/i/bdz47wkxwmnlsh_1@54040/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png" group-title="Australia/New Zealand",Maori TV
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/parlament-tv.png" group-title="Australia/New Zealand",Parliament TV
+http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/au/images/tv.snowy-mountains.png" group-title="Australia/New Zealand",Snowy Mountains TV
 http://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia/New Zealand",Sky News Extra 1
@@ -34,12 +38,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="Australia/New Zealand",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/parlament-tv.png" group-title="Australia/New Zealand",Parliament TV
-http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png" group-title="Australia/New Zealand",Maori TV
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="Australia/New Zealand",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/572bee04a3360cc02e0c55fe/1468034201109-F105YFFEH18VZB340K15/Wairarapa+TV+Logo.png" group-title="Australia/New Zealand",Wairarapa TV
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/4Music.uk.png" group-title="UK",4Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
