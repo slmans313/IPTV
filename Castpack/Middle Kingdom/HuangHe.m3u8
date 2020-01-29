@@ -16,16 +16,6 @@ http://liveali.ifeng.com/live/FHZX.m3u8
 http://liveali.ifeng.com/live/FHZW.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="中国",凤凰电影
 https://116.77.72.195/streams/d/fhdy/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch571.jpg" group-title="中国",衛視電影
-https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="中国",衛視卡式 
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_1000000=6-SCMlegend-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="中国",衛視卡式高清
-https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="中国",天映频道
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-CelestialMovie-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="中国",天映经典
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-avc1_1000000=7-CelestialClassic-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="中国",黑莓电影
 http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K 超高清
@@ -163,7 +153,6 @@ http://wowgua.com/live/channel_331.m3u8
 http://wowgua.com/live/channel_332.m3u8
 #EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/10/05/dce8c29c3b15bd50.jpg" group-title="粵語",C+ 频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/TVS1GuangdongEconomicScienceEducation.cn.png" group-title="粵語",廣東经济科教
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/TVS2GuangdongSouthernTerrestrial.cn.png" group-title="粵語",南方衛視
@@ -252,7 +241,20 @@ http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="臺灣",東森幼幼台
 http://220.158.149.14:9999/live/TV00000000000000000076@HHZT;LIVE
-
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png group-title="臺灣", 龍祥時代電影
+http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXActionMovies.id.png" group-title="臺灣",福斯動作電影
+http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch571.jpg" group-title="臺灣",衛視電影
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="臺灣",衛視卡式 
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_1000000=6-SCMlegend-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="臺灣",衛視卡式高清
+https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="臺灣",天映频道
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-CelestialMovie-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="臺灣",天映经典
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-avc1_1000000=7-CelestialClassic-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="臺灣",年代新聞
 http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="臺灣",大愛一台
@@ -269,8 +271,6 @@ http://192.154.103.75:8080//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="臺灣",国家地理
 http://192.154.103.75:8080//ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXActionMovies.id.png" group-title="臺灣",Fox Action Movies 臺灣
-http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://www.tacttv.com/wp-content/uploads/2018/11/%E5%8F%B0%E7%81%A3%E8%97%9D%E8%A1%93%E5%8F%B0logo.png" group-title="臺灣",台灣藝術
 http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="臺灣",原住民族電視
