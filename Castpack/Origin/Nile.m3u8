@@ -25,7 +25,10 @@ https://stream.ecable.tv/boom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/7ebe5340-f30a-11e8-9f8a-e9ca4b6252dc.png" group-title="Cameroun",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.tcv.cv/images/LogoNatal2.png" group-title="Cabo Verde",TCV
+http://videos.nosi.cv/live/smil:tcvlive.smil/chunklist_w1661838962_b2688000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.thematv.com/images/channels/tcv.png" group-title="Cabo Verde",TCV Internacional
+http://videos.nosi.cv/tcvi/smil:tcvilive.smil/chunklist_w829902641_b564000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/rtnc_cd_tv.png" group-title="Kikongo",RTNC
 https://stream.ecable.tv/rtnc/tracks-v1a1/mono.m3u8
