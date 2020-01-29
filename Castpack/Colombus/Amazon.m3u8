@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/TeleAruba_logo.gif" group-title="Aruba",Telearuba 13
-http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="Argentina",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
@@ -81,8 +81,11 @@ http://136.243.3.70:1935/Unitel/Unitel/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ewnews.com/wp-content/uploads/2018/01/eyewitness-news-logo1-e1515529979188.png" group-title="Bahamas",Eyewitness News
+#EXTINF:-1 tvg-logo="http://iltvstudios.com/wp-content/themes/iltv/images/logo.png" group-title="Bahamas",ILTV Studios
 https://iltv.cachefly.net/live/live_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://znsbahamas.com/wp-content/uploads/2017/12/ZNS-PL-1.png" group-title="Bahamas",ZNS Network
+https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
@@ -173,7 +176,7 @@ http://d15i8x1adtn1w6.cloudfront.net/tcsplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TCS_El_Salvador_2002.svg/375px-TCS_El_Salvador_2002.svg.png" group-title="El Salvador",TCS
 http://d15i8x1adtn1w6.cloudfront.net/tcshd/index.m3u8
 
-
+https://img.onesignal.com/permanent/a3430be6-4ee5-4c7c-a1ff-d40b271f1c32.png
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/330px-Canal_Uno_%28Ecuador%29_logo.png" group-title="Ecuador",Canal Uno
 https://live2.tvenvivoecuador.com/hls/ec5as8ec12ec.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="Ecuador",Ecuavisa
@@ -194,6 +197,8 @@ https://ec-rts-guayaquil-live-0-cdn-0.ned.media/rts/smil:guayaquil.smil/chunklis
 https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="Ecuador",Hechos Ecuador
+http://192.99.56.185/hechosecuador/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/web/wp-content/uploads/2019/03/96-transp.png" group-title="República Dominicana",Telemicro 5
 http://stream.grupotelemicro.com/hd.m3u8
