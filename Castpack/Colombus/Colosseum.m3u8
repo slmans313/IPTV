@@ -378,8 +378,8 @@ https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Bis.br.png" group-title="Português/Brasil",Bis
 https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/BandNews.br.png" group-title="Português/Brasil",Band News
-http://198.255.23.18:2095/streams/85_.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Band.br.png group-title="Português/Brasil",Band
+https://origin.canaismax.com/mylive/bandcampinashd/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Cmtv.pt.png" group-title="Português/Brasil",CMTV
 http://tv.denied.network/cmtv/stream
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboNews.br.png" group-title="Português/Brasil",Globo News
@@ -398,6 +398,8 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-gloob24ha/hls-gloob24ha_2126/pla
 https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
+#EXTINF:-1 tvg-logo="https://redetvc.com.br/wp-content/uploads/2019/12/logotvctv.png group-title="Português/Brasil", Rede TVC Brasil
+https://7ejqucofpe.singularcdn.net.br/iptv/hls/tvc/tvc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Sic.pt.png" group-title="Português/Brasil",SIC
 http://198.255.23.18:2095/streams/81_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" group-title="Português/Brasil",SIC Notícias 
@@ -406,6 +408,8 @@ http://tv.denied.network/sicnoticias/stream
 http://tv.denied.network/sicmulher/stream
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SicRadical.pt.png" group-title="Português/Brasil",SIC Radical
 http://tv.denied.network/sicradical/stream
+#EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2014/04/logo.png" group-title="Português/Brasil",TV Gazeta
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Tvi.pt.png" group-title="Português/Brasil",TVI
 http://video-auth7.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/TviReality.pt.png" group-title="Português/Brasil",TVI Reality
@@ -426,17 +430,20 @@ https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/
 https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Português/Brasil",Futura
 https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
-
 #EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo@2x.png" group-title="Português/Brasil",Kuriakos TV 
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Porto.pt.png" group-title="Português/Brasil",Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s2.cdn.tv.br/logo/1555400830.851303.png" group-title="Português/Brasil",Pix TV
+https://lyqibtcyiz.singularcdn.net.br/pix/pixtv_hi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png/200px-Logotipo_da_TV_A_Cr%C3%ADtica.png" group-title="Português/Brasil",TV A Crítica
 https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Português/Brasil",TV Difusora
 http://srv3.zoeweb.tv:1935/z437-live/stream/chunklist_w934345796.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Viva.br.png" group-title="Português/Brasil",Viva
 https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Boomerang.br.png" group-title="Português/Brasil",Boomerang Português
 http://198.255.23.18:2095/streams/127_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/CartoonNetwork.br.png" group-title="Português/Brasil",Cartoon Network Português
@@ -445,15 +452,22 @@ http://198.255.23.18:2095/streams/128_.m3u8
 http://198.255.23.18:2095/streams/60_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Cinemax.br.png" group-title="Português/Brasil",Cinemax Português
 http://198.255.23.18:2095/streams/184_.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Português/Brasil",Disney Channel Brasil
+https://origin.canaismax.com/live/disneychannelhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyJunior.ee.png" group-title=Português/Brasil",Disney Junior Brasil
+https://origin.canaismax.com/live/disneyjuniorhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DisneyXD.us.png" group-title=Português/Brasil",Disney XD Brasil
+https://origin.canaismax.com/live/disneyxdhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
 https://origin.canaismax.com/mylive/espnbrasilhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPN.br.png" group-title="Português/Brasil",ESPN 1 Brasil
 https://origin.canaismax.com/mylive/espnhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPN2.br.png" group-title="Português/Brasil",ESPN 2 Brasil
 https://origin.canaismax.com/live/espnmaissd/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryKids.br.png" group-title=Português/Brasil",Discovery Kids
+https://origin.canaismax.com/live/discoverykidshd/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/ESPNExtra.br.png" group-title="Português/Brasil",ESPN Extra
 https://origin.canaismax.com/live/espnextrahd/video.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Português/Brasil",FX Brasil
 http://198.255.23.18:2095/streams/113_.m3u8
@@ -472,7 +486,10 @@ http://rtmp.cdn.upx.net.br/7cdd_2/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Português/Brasil",National Geo
 http://198.255.23.18:2095/streams/117_.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Português/Brasil",Nickelodeon Brasil
+https://origin.canaismax.com/live/nickelodeonhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/NickJr.ee.png" group-title="Português/Brasil",Nick JR Brasil
+https://origin.canaismax.com/live/nickjrhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineAction.br.png" group-title="Português/Brasil",Telecine Action
 http://198.255.23.18:2095/streams/213_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePremium.br.png" group-title="Português/Brasil",Telecine Premium
@@ -481,6 +498,8 @@ http://198.255.23.18:2095/streams/209_.m3u8
 http://198.255.23.18:2095/streams/211_.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePipoca.br.png" group-title="Português/Brasil",TeleCine Pipoca
 http://198.255.23.18:2095/streams/207_.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Português/Brasil",TLC Português
