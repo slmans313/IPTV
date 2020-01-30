@@ -212,15 +212,14 @@ http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-logo="https://onlines.tv/wp-content/uploads/2017/05/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F_2016.png" group-title="Россия",Киносерия
 http://178.124.183.13/hls/CH_KINOSERIA/bw1200000/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdmedia.ru/common/resources/images/logo_new_moviemenuhd.png" group-title="Россия",КиноМеню
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/02/30/81/94d.png" group-title="Россия",Кинокомедия
-http://109.248.236.41:4433/udp/238.1.1.133:1234
 #EXTINF:-1 tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png" group-title="Россия",Красная линия
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/02/31/10/1bj.png" group-title="Россия",Мужское кино
 http://86.57.225.245:7015/play/a00r
+#EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/02/31/12/-channel!ck7.png" group-title="Россия",РОДНОЕ КИНО
+http://89.106.234.4:80/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.red-media.ru/800x466-2017-04-indijskoe-kino-1.jpg" group-title="Россия",ИНДИЙСКОЕ КИНО
+http://89.106.234.4:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://ricekb.ru/img/logo.png" group-title="Россия",Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ctc-kuzbass.ru/wp-content/uploads/2017/03/logo-color-wide_1080i_1.png" group-title="Россия",Кузбасс 24
@@ -307,8 +306,8 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m
 https://air.tvk6.ru/tvk24/index.m3u8
 #EXTINF:-1 tvg-logo="http://skazka-tv.ru/tem/img/logo-cj.png" group-title="Россия",Телеканал «В гостях у сказки»
 http://109.248.236.41:4433/udp/238.1.1.98:1234
-#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/07/22/79/o0y.png" group-title="Россия",Телеканал Поехали!
-http://109.248.236.41:4433/udp/238.1.1.94:1234
+#EXTINF:-1 tvg-logo="https://www.poehali.tv/images/logo-2018-spring.gif group-title="Россия",Поехали!
+http://89.106.234.4:80/poehali_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/7b/36/d67b36669fa55bef58d99b7593c0c2b7.png" group-title="Россия",Туган Тел
 http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tck.tv/media/images/logo.png" group-title="Россия",ТК Центр Красноярск
@@ -574,6 +573,8 @@ http://188.169.194.17:8000/play/silkuniversal/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_formula.png" group-title="საქართველო",TV ფორმულა
 https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Казахстан",Первый канал Евразия
+http://89.106.234.4:80/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://tv7.kz/wp-content/themes/tv7/images/logo.png" group-title="Казахстан",7 канал
 https://sc.id-tv.kz/7_kanal_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i1.cdnnurtv.net/6ee9b60cd5c80ddace1a0ec10b7a32546d0a6e9a.jpg" group-title="Казахстан",31 Канал
@@ -590,16 +591,24 @@ https://waok9ia0vpf.a.trbcdn.net/livemaster/dybu83yagb_Asylarna_test/playlist.m3
 http://89.106.234.4:80/A2_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/AmediaHit.ru.png" group-title="Казахстан",Amedia Hit
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="Казахстан",СТС International
+http://89.106.234.4:80/STS_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1176751402514862080/-H7xoqbS_400x400.jpg" group-title="Казахстан",Dombyra TV
 https://sc.id-tv.kz/Dombyra_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/upload/anounces/big_7bf88eac91a1cad134014240280c5899.jpg" group-title="Казахстан",Ел Арна
 https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Pjatnica.ru.png" group-title="Россия",Пятница! International
+http://89.106.234.4:80/friday_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://cache-khabar.cdnvideo.ru/templates/gk_university/images/logo.png" group-title="Казахстан",Хабар
 https://sc.id-tv.kz/Habar_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://halyq-arna.kz/wp-content/uploads/2017/11/hlogo.png" group-title="Казахстан",Халык Арна
+http://89.106.234.4:80/HalykArna_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Gakku_TV.png" group-title="Казахстан"Gakku
 http://89.106.234.4:80/Gakku_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://www.almatv.kz/upload/resize_cache/iblock/e09/85_85_0/logo-01.png" group-title="Казахстан",Магия Кухни ТВ
 https://sc.id-tv.kz/MagiyaKuhni.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="Казахстан",Рен International
+http://89.106.234.4:80/RenTV_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034442917753118720/stLuQkd6_400x400.jpg" group-title="Казахстан",Tamasha
 https://sc.id-tv.kz/Tamasha_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo.png" group-title="Казахстан",MTRK
@@ -608,8 +617,9 @@ http://tv2.esilnet.com/hls/mtrk.m3u8
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://aktobetv.kz/assets/regions/logo/aqtobe.png" group-title="Казахстан",Aктобе 
 http://onrez.kaztrk.kz/regional/aktobetv/index.m3u8 
-#EXTINF:-1 tvg-logo="https://almaty.tv/images/almatylogomart.png" group-title="Казахстан",Аlmaty
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://pavlodartv.kz/assets/regions/logo/ertis.png" group-title="Казахстан",Ertis
 http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8 
 #EXTINF:-1 tvg-logo="http://taraztv.kz/assets/regions/logo/jambyl.png" group-title="Казахстан",Jambyl 
@@ -645,34 +655,20 @@ http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",friday
-http://89.106.234.4:80/friday_34_35.m3u8
+
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",hdl HD
 http://89.106.234.4:80/hdl_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Новое ТВ (KZ)
 http://89.106.234.4:80/New_Television_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Первый канал Евразия
-http://89.106.234.4:80/1KanalEvraziya_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Рен ТВ International
-http://89.106.234.4:80/RenTV_34_35.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",СТВ (Казахстан)
 http://89.106.234.4:80/STV_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",СТС
-http://89.106.234.4:80/STS_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Халык Арна
-http://89.106.234.4:80/HalykArna_34_35.m3u8
+
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",О!
 http://89.106.234.4:80/o_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",poehali
-http://89.106.234.4:80/poehali_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Rodnoe kino
-http://89.106.234.4:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Indiiskoe kino
-http://89.106.234.4:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",tnt4
 http://89.106.234.4:80/tnt4_34_35.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/nav/ktrk.png" group-title="Кыргызстан",КТРК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
