@@ -734,19 +734,17 @@ http://video.a-tv.md/hls/accent.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://canalregional.md/wp-content/uploads/2018/04/Logo.png" group-title="Moldova",Regional
 http://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/79690_logo_domashniy_familia.png" group-title="Moldova",Domashniy Familia
-http://109.185.159.215:4011/udp/239.100.0.13:5656
 #EXTINF:-1 tvg-logo="https://elitatv.files.wordpress.com/2017/11/cropped-cropped-logo_elitatv_max_512.jpg" group-title="Moldova",Elita
 http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1 tvg-logo="http://goldtv.md/GoldTVLogo1.gif" group-title="Moldova",Gold
-http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_/82012/9.svg/1200px-Logo_Jurnal_TV_/82012/9.svg.png" group-title="Moldova",Jurnal
-http://109.185.159.215:4011/udp/239.100.0.4:5656
+http://goldtv.md:1935/live/goldtv_hd.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/1200px-Logo_Jurnal_TV_%282012%29.svg.png" group-title="Moldova",Jurnal
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=1c1cbcfa0004b60d822152fc63d62c4e5f74abd0
 #EXTINF:-1 tvg-logo="https://h1.md/wp-content/uploads/2019/08/NTV_Moldova.jpg" group-title="Moldova",NTV Molova
 http://93.115.137.166/hls/ntvm.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/md/Noroc.md.png" group-title="Moldova",Noroc TV
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/md/ProTV.md.png group-title="Moldova",ProTV Chișinău
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/md/ProTV.md.png" group-title="Moldova",ProTV Chișinău
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/md/PublikaTV.md.png" group-title="Moldova",Publika
 http://livebeta.publika.md/LIVE/P/1500.m3u8
