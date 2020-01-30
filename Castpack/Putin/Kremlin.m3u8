@@ -11,12 +11,16 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="http://tivix.co/uploads/posts/2014-08/1409316476_rossiya-rtr.png" group-title="Россия",Россия РТР
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/2x2.ru.png" group-title="Россия",2×2
+http://178.124.183.6:80/hls/EU9VTLDQCN_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://3abn.org/img/logos/3abn-russia-logo.jpg" group-title="Россия",3ABN
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/5Kanal.ru.png" group-title="Россия",5 канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="Россия",СТС
 https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Space.ru.png" group-title="Россия",Спас
+http://spastv.ru/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Россия",Disney Channel Россия
 http://stream3.kuvalda.tv/hls/disney.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Domashniy.ru.png" group-title="Россия",Домашний
@@ -57,9 +61,6 @@ http://stream3.kuvalda.tv/hls/u.m3u8
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-logo="http://russianmusicbox.tv/wp-content/themes/main/img/logo.png" group-title="Россия",Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Space.ru.png" group-title="Россия",Спас
-http://spastv.ru/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Якутия 24
 http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
