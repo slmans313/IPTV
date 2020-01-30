@@ -517,8 +517,6 @@ http://rtmp.one.by:1300/
 http://rtmp.one.by:1200
 #EXTINF:-1 tvg-logo="https://www.prfm.ru/logo/novoe-belarus-logo.png" group-title="Беларусь",Новое Радио
 http://stream.hoster.by/novoeradio/novoeradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.prfm.ru/logo/novoe-belarus-logo.png" group-title="Беларусь",Новое Радио
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pinsk.gov.by/1window/TRK_Pinsk/Logotip_TRK.jpg" group-title="Беларусь",Пинск
 http://87.252.229.252:8083/pinsk
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2016-03/1458548411_9a02d429778be68c4f235620d263a1ad.jpg" group-title="Беларусь",ОНТ.BY
@@ -599,13 +597,15 @@ http://89.106.234.4:80/STS_34_35.m3u8
 https://sc.id-tv.kz/Dombyra_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/upload/anounces/big_7bf88eac91a1cad134014240280c5899.jpg" group-title="Казахстан",Ел Арна
 https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 tvg-logo="http://novoetv.kz/wp-content/uploads/2019/07/logo-hd.png" group-title="Казахстан",Новое ТВ
+ttp://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Pjatnica.ru.png" group-title="Россия",Пятница! International
 http://89.106.234.4:80/friday_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://cache-khabar.cdnvideo.ru/templates/gk_university/images/logo.png" group-title="Казахстан",Хабар
+#EXTINF:-1 tvg-logo="https://cache-khabar.cdnvideo.ru/templates/gk_news/images/logo.png" group-title="Казахстан",Хабар
 https://sc.id-tv.kz/Habar_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://halyq-arna.kz/wp-content/uploads/2017/11/hlogo.png" group-title="Казахстан",Халык Арна
 http://89.106.234.4:80/HalykArna_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Gakku_TV.png" group-title="Казахстан"Gakku
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Gakku_TV.png" group-title="Казахстан", Gakku
 http://89.106.234.4:80/Gakku_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://www.almatv.kz/upload/resize_cache/iblock/e09/85_85_0/logo-01.png" group-title="Казахстан",Магия Кухни ТВ
 https://sc.id-tv.kz/MagiyaKuhni.m3u8
@@ -660,8 +660,6 @@ http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",hdl HD
 http://89.106.234.4:80/hdl_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Новое ТВ (KZ)
-http://89.106.234.4:80/New_Television_34_35.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",СТВ (Казахстан)
