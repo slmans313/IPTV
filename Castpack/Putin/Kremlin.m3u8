@@ -17,6 +17,8 @@ http://178.124.183.6:80/hls/EU9VTLDQCN_HLS/variant.m3u8
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/5Kanal.ru.png" group-title="Россия",5 канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1 tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="Россия",A2
+http://89.106.234.4:80/amedia_2_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="Россия",СТС
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Space.ru.png" group-title="Россия",Спас
@@ -398,6 +400,8 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 http://178.124.183.14:80/hls/JSQ2S6VQTE/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Россия",Cartoon Network Россия
 http://178.124.183.13/hls/CNVX7JRQJI/bw2000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/DaVinciKids.ru.png" group-title="Россия",DaVinci Россия
+http://89.106.234.4:80/DaVinci_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyJunior.ee.png" group-title="Россия",Disney Junior Россия
 http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Fox.ru.png" group-title="Россия",Fox Россия
@@ -434,66 +438,25 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498788795851.png" group-title="Հայաստան",1TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image3021371737.jpg" group-title="Հայաստան",H2
-http://45.143.205.112:1000/play/h2-am/index.m3u8
 #EXTINF:-1 tvg-logo="https://focusmediagroup.org/uploads/posts/2019-06/1560366974_5rd.jpg" group-title="Հայաստան",5 TV
 https://live-5tvam.cdnvideo.ru/5tvam/5tvam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Հայաստան",Կենտրոն
 http://163.172.7.56/hls-live/livepkgr/_definst_/klive/klivestream.m3u8
 #EXTINF:-1 tvg-logo="http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png" group-title="Հայաստան",ARTN
-http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+http://livestream.usatv.com/hls/master-ARTN-NET.m3u8
 #EXTINF:-1 tvg-logo="http://arabictvs.com/video-elements/files/2009/10/amga-tv.jpg" group-title="Հայաստան",Amga
 https://streamer1.connectto.com/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://armeniatv.am/pics/logo_1.png" group-title="Հայաստան",Армения
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/605/index.m3u8
-#EXTINF:-1 tvg-logo="https://armeniatv.am/pics/premium-h.png" group-title="Հայաստան",Армения Premium
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/273/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXZ9P6K.png" group-title="Հայաստան",սինեման
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/283/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498787087232.png" group-title="Հայաստան",ATV
-http://91.103.248.82:81/play/a002
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15499852139186.png" group-title="Հայաստան",ՖՒԼՄԶՈՆ
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/275/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/1549878494318.png" group-title="Հայաստան",ԽԱՂԱԼԻՔ
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/276/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498783938051.png" group-title="Հայաստան",ՀԱՅ TV
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/280/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498785179129.png" group-title="Հայաստան",ԹԱՎԱ TV
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/281/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498784719147.png" group-title="Հայաստան",ԿԻՆՈՄԱՆ
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/282/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/1549872287604.png" group-title="Հայաստան",Բազմոց tv
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/289/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498722704736.png" group-title="Հայաստան",մուզզոն
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/288/index.m3u8
-#EXTINF:-1 tvg-logo="http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/288/index.m3u8" group-title="Հայաստան",ֆիտնես
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/287/index.m3u8
-#EXTINF:-1 tvg-logo="https://iravunk.com/uploads/97797.png" group-title="Հայաստան",նոր ՀԱՅԱՍՏԱՆ
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/612/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.armnewstv.am/wp-content/uploads/2015/06/logo.png" group-title="Հայաստան",Արմնյուզ
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/611/index.m3u8
 #EXTINF:-1 tvg-logo="http://fortunatv.am/wp-content/uploads/2018/10/nor-Logosmal.gif" group-title="Հայաստան",Fortuna TV
 http://109.75.43.155:8100/fortuna1904.m3u8
 #EXTINF:-1 tvg-logo="http://tbn.am/wp-content/uploads/2016/04/logo-tbn-new-e1455708114554.png" group-title="Հայաստան",TBN Armenia
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://static.pn.am/images/panarmenian_net_logotype.gif" group-title="Հայաստան",PanArmenia
-http://37.221.175.40:8082/Panarm/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://374.am/images/company/f787c7e0ad73556077c1f4666484a447.png" group-title="Հայաստան",Shant
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/604/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/43e297724491fe3bf9b81cd0ec302204.png" group-title="Հայաստան",Shant Music
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/2167/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/c5973061ba880ab21f9352ce8d998aec.png" group-title="Հայաստան",Shant Serial
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/2168/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/672fc31106ba939da1bad61ae733bfe0.png" group-title="Հայաստան",Shant News
-http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/2169/index.m3u8
 #EXTINF:-1 tvg-logo="https://songtv.am/images/logos/logo.png" group-title="Հայաստան",Song TV
 https://songtvam.ru/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://haytube.am/wp-content/uploads/2016/04/usarmenia-300x150.jpg" group-title="Հայաստան",US Armenia
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-#EXTINF:-1 tvg-logo="http://yerkirmedia.am/wp-content/uploads/2017/04/logo_for-site.png" group-title="Հայաստան",Yerkir Media
-http://45.143.205.112:1000/play/yerkir-media/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%C4%B0ctimai_TV_%282019-h.h.%29.png/200px-%C4%B0ctimai_TV_%282019-h.h.%29.png" group-title="Azərbaycan",İctimai
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/az/IctimaiTV.az.png" group-title="Azərbaycan",İctimai
 http://streams2.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://atv.az/assets/images/logo_white.png" group-title="Azərbaycan",ATV Canli
 http://85.132.81.184:8080/atv/index.m3u8
@@ -624,7 +587,7 @@ https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 http://89.106.234.4:80/Atameken_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://asylarna.kz/images/logo2.png" group-title="Казахстан",Асыл Арна
 https://waok9ia0vpf.a.trbcdn.net/livemaster/dybu83yagb_Asylarna_test/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png group-title="Казахстан",A2
+#EXTINF:-1 tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="Казахстан",A2
 http://89.106.234.4:80/A2_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/AmediaHit.ru.png" group-title="Казахстан",Amedia Hit
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
@@ -647,12 +610,9 @@ http://onrez.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://almaty.tv/images/almatylogomart.png" group-title="Казахстан",Аlmaty
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pavlodartv.kz/assets/regions/logo/ertis.png" group-title="Казахстан",Ertis
-http://149.255.152.199/cbcsport.m3u8?bandwidth=2096&playlistlength=25&shift=0
 http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8 
 #EXTINF:-1 tvg-logo="http://taraztv.kz/assets/regions/logo/jambyl.png" group-title="Казахстан",Jambyl 
 http://onrez.kaztrk.kz/regional/taraztv/index.m3u8 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/b/b1/Jastar_1_%28%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%29.png/revision/latest?cb=20180516152556&path-prefix=ru" group-title="Казахстан",Jastar TV
-https://sc.id-tv.kz/JASTAR_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://oraltv.kz/assets/regions/logo/aqjaiyq.png?v=1" group-title="Казахстан",Oral
 http://onrez.kaztrk.kz/regional/oraltv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV (English)
@@ -686,14 +646,8 @@ http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",friday
 http://89.106.234.4:80/friday_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",H2
-http://89.106.234.4:80/H2_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",hdl HD
 http://89.106.234.4:80/hdl_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Khabar24
-http://89.106.234.4:80/Khabar_24_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",MoyaPlaneta
-http://89.106.234.4:80/MoyaPlaneta_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Новое ТВ (KZ)
 http://89.106.234.4:80/New_Television_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Первый канал Евразия
@@ -704,14 +658,10 @@ http://89.106.234.4:80/RenTV_34_35.m3u8
 http://89.106.234.4:80/STV_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",СТС
 http://89.106.234.4:80/STS_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",ТДК 42
-http://89.106.234.4:80/TDK-42_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Халык Арна
 http://89.106.234.4:80/HalykArna_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",О!
 http://89.106.234.4:80/o_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Amedia 2
-http://89.106.234.4:80/amedia_2_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",poehali
 http://89.106.234.4:80/poehali_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Rodnoe kino
@@ -722,8 +672,6 @@ http://89.106.234.4:80/Indiiskoe_kino_34_35.m3u8
 http://89.106.234.4:80/tnt4_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Gakku
 http://89.106.234.4:80/Gakku_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",DaVinci
-http://89.106.234.4:80/DaVinci_34_35.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/nav/ktrk.png" group-title="Кыргызстан",КТРК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
