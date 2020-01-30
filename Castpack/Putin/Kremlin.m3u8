@@ -47,6 +47,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="Россия",ТНТ
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNT4.ru.png" group-title="Россия",ТНТ 4
+http://89.106.234.4:80/tnt4_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Che.ru.png" group-title="Россия",Че!
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="Россия",РЕН
@@ -667,8 +669,7 @@ http://89.106.234.4:80/STV_34_35.m3u8
 
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",О!
 http://89.106.234.4:80/o_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",tnt4
-http://89.106.234.4:80/tnt4_34_35.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/nav/ktrk.png" group-title="Кыргызстан",КТРК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
