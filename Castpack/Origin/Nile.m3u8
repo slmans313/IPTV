@@ -15,9 +15,11 @@ https://stream.ecable.tv/ortb/tracks-v1a1/mono.m3u8
 https://stream.ecable.tv/rtb/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Cameroun",CRTV
-https://stream.ecable.tv/crtv/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_01.png" group-title="Cameroun",CRTV News
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTVN.m3u8
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/09/afrique_media_cm.png" group-title="Cameroun",Afrique Media
-https://stream.ecable.tv/afc/BANDAKANY.mp4/index.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Afrm.m3u8
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2018/02/b_one_tv_cd.png" group-title="Cameroun",B-One
 https://stream.ecable.tv/b-one/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.stakrn.com/wp-content/uploads/boom-tv-logo.png" group-title="Cameroun",Boom TV
