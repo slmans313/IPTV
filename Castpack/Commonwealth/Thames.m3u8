@@ -51,14 +51,24 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC2.uk.png" group-title="UK",BBC 2
 https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCOneScotland.uk.png" group-title="UK",BBC 1 Scotland
 http://51.52.156.22:8888/http/001
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK",ITV 3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK",ITV 4
+http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-logo="https://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK",British Muslim TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BoxHits.uk.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BoxUpfront.uk.png" group-title="UK",Box Upfront
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBeebies.uk.png group-title="UK",Cbeebies
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CreateCraft.uk.png" group-title="UK,Create & Craft
 https://live-craftuk.simplestreamcdn.com/craftuk/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK",Challenge
@@ -69,8 +79,6 @@ http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.gemporia.com/images/og/fb.jpg" group-title="UK",Gemporia
 https://57d4d8b1e4f4f.streamlock.net/abrgemporia/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/IdealWorld.uk.png" group-title="UK",Ideal World
 http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/QVC.uk.png" group-title="UK",QVC
@@ -85,6 +93,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 https://d1h8rkqumz239n.cloudfront.net/oireachtas/ngrp:oireachtas.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/onlymotors/wp-content/uploads/sites/19/2017/08/onlymotorsLOGO2.png" group-title="UK",Only Motor
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Pop.uk.png" group-title="UK",Pop
+http://51.52.156.22:8888/http/015
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/PickTV.uk.png" group-title="UK",Pick
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTENewsNow.ie.png" group-title="UK",RTE News Now
