@@ -51,6 +51,8 @@ https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EU
 https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC2.uk.png" group-title="UK",BBC 2
 https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK",BBC 4/CBeebies
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCOneScotland.uk.png" group-title="UK",BBC 1 Scotland
 http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV
@@ -67,8 +69,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/i
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BoxUpfront.uk.png" group-title="UK",Box Upfront
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBeebies.uk.png" group-title="UK",Cbeebies
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CreateCraft.uk.png" group-title="UK,Create & Craft
 https://live-craftuk.simplestreamcdn.com/craftuk/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Challenge_logo_2016.png/330px-Challenge_logo_2016.png" group-title="UK",Challenge
