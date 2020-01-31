@@ -160,9 +160,6 @@ https://za-tv2a-wowza-origin01.akamaized.net/tv2n/smil:tv2nlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://genderlinks.org.za/wp-content/uploads/imported/articles/images/original/05918_one_africa_tv_logo_700x0_80.jpg" group-title="Nambia",One Africa TV
 https://za-tv2a-wowza-origin02.akamaized.net/oneafrica/smil:oneafrica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://ortn.ne/wp-content/uploads/2019/04/ORTN-Niger-300x221.jpg" group-title="Niger",Télé Sahel
-http://213.254.12.4:8000/play/a065
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/2MMonde.ma.png" group-title="المغرب",2M Monde
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.alaoula.ma/images/laayoune_logo.png" group-title="المغرب",Laayoune TV
@@ -234,16 +231,11 @@ https://ap01.iqplay.tv:81/iqb8002/s0mnew12.m3u8
 #EXTINF:-1 tvg-logo="https://www.universaltvsomali.net/themes/tvuniversal/images/logo_badge.png" group-title="الصومال‎",Universal TV
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="South Africa",Trace Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rts.sn/assets/images/rts/rts1sd.png" group-title="Senegal",RTS 1
 https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://live.rts.sn/assets/images/rts/rts2sd.png" group-title="Senegal",RTS 2
-http://213.254.12.4:8000/play/a06b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ab/2sTV_logo.png" group-title="Senegal",2 STV
-https://stream.ecable.tv/2stv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/taybatv.jpg" group-title="السودان",Tayba
 http://tayba.live.net.sa:1935/tayba/taybatv/Playlist.m3u8
@@ -259,8 +251,8 @@ http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DYLftywVQAIHKS4.jpg" group-title="Tanzania",Wasafi tv
 http://ms-azure-video.gslb.startimestv.com/live/Wasafi_968_500_320x240_196856/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvt.tg/wp-content/uploads/2016/12/LOGOTVT_neutre-1.png" group-title="Togo",TVT 
-http://213.254.12.4:8000/play/a069
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV
+https://1151586843.rsc.cdn77.org/1151586843/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="تونس",Neesma
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
