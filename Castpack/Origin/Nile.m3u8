@@ -81,34 +81,23 @@ http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Addis-webtvonlive-com.jpg" group-title="ኢትዮጵያ/ተጋሩ",Addis TV
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://eri.tv/EriTV6.png" group-title="ኢትዮጵያ/ተጋሩ",Eri-TV 1
-http://99.30.56.89:1935/live/myStream/chunklist_w291089480.m3u8
 http://217.182.137.206/eri.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",TVGE Interantional
-http://162.212.178.78:4342/bysid/4
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Ghana_TV.png" group-title="Ghana",Ghana TV
-https://stream.ecable.tv/ghanatv/tracks-v1a1/mono.m3u8
+https://bk7l2g37dx53-hls-live.5centscdn.com/GTV/live1.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.africawebtv.com/wp-content/uploads/2015/02/adomtv_logo.png" group-title="Ghana",ADOM TV
-https://stream.ecable.tv/adom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/520009272147443713/ft5jtymW.png" group-title="Ghana",Angels TV
-https://stream.ecable.tv/citi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cititvonline.com/wp-content/uploads/2019/05/citi-tvs-logo-01.png" group-title="Ghana",Citi TV
-https://stream.ecable.tv/citi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/joy_news_gh.png" group-title="Ghana",Joy News
-https://stream.ecable.tv/joynews/tracks-v1a1/mono.m3u8
+https://bk7l2g37dx53-hls-live.5centscdn.com/adom/5b97b7d64a64c7cd54c18b07e93570a1.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png" group-title="Ghana",Joy Prime
 https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.africaradios.com/wp-content/uploads/2017/10/Kessben-TV.jpg" group-title="Ghana",Kessben
-https://stream.ecable.tv/kessben/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3783591_logo_resurrection_tv.png" group-title="Ghana",Resurrection TV
+#EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/3299.jpg" group-title="Ghana",Resurrection TV
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sampsonamoateng.net/wp-content/uploads/2018/08/SAM-LOGO-JPEG-e1535293984113.jpeg" group-title="Ghana",SAM TV
 https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/7b3b7c20-0dbd-4d02-b89f-2aab0c1d8d6a.png" group-title="Ghana",ST Adepa
+http://ms-azure-video.gslb.startimestv.com/live/ST_ADEPA_UHD_1038_1000_640x480_301858/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtgkoloma.info/wp-content/uploads/2017/12/logofinal.jpg" group-title="Guinée",RTG
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
@@ -130,6 +119,8 @@ https://1655721754.rsc.cdn77.org/1655721754/tracks-v1a1/mono.m3u8
 https://1933667380.rsc.cdn77.org/1933667380/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" group-title="Kenya",K24
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/K24.m3u8
+#EXTINF:-1 tvg-logo="http://bordertv.co.ke/wp-content/uploads/2018/02/BORDER-TV-SITE-6.png" group-title="Kenya",Border TV
+http://ms-azure-video.gslb.startimestv.com/live/BORDER_TV_872_500_480x360_193968/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.innocirc.com/wp-content/uploads/2017/07/Citizen-TV-top.png" group-title="Kenya",Citizen TV
 https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/CGTN_Africa.png/220px-CGTN_Africa.png" group-title="Kenya",CGTN Africa
@@ -143,13 +134,45 @@ http://197.232.56.13:1935/live/_definst_/kasstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.romanzaplus.tv/wp-content/uploads/2018/04/logo6.png" group-title="Kenya",Romanza Africa
 https://1880631908.rsc.cdn77.org/1880631908/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://startimestv.com/Uploads/Picture/2018/07/11/s5b456d710f254.jpg" group-title="Kenya",ST Kids
-http://ms-azure-video.gslb.startimestv.com/live/ST_KIDS_768_250_320x240_167444/playlist.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/ST_KIDS_768_500_480x360_167446/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="Kenya",ST Sports Arena
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-434010899.png" group-title="Kenya",ST Bollywood
+http://ms-azure-video.gslb.startimestv.com/live/ST_BOLLYWOOD_992_500_480x360_210838/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1141016517.png" group-title="Kenya",ST Kungfu
+http://ms-azure-video.gslb.startimestv.com/live_record/ST_KUNGFU_627_500_480x360_7771/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-434010899.png" group-title="Kenya",ST Movies Plus
+http://ms-azure-video.gslb.startimestv.com/live/ST_Movies_Plus_1170_500_480x360_710926/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1693221358.png" group-title="Kenya",ST Njata
+http://ms-azure-video.gslb.startimestv.com/live/ST_NAIJA_896_500_480x360_194022/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/dd49036c-5aae-41ad-87ec-e8ed63dbc55b.png" group-title="Kenya",ST Nollywood Plus
+http://ms-azure-video.gslb.startimestv.com/live/ST_NOLLYWOOD_PLUS_733_500_480x360_73715/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_41075536.png" group-title="Kenya",ST Novela E 
+http://ms-azure-video.gslb.startimestv.com/live/ST_NOVELA_E_1026_500_480x360_265682/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1898472178.png" group-title="Kenya",ST Novela E +
+http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_500_480x360_7781/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/7324f1d5-ed32-4e96-afc1-a4ecba60111e.png" group-title="STARTIMESGO",ST Rise
+http://ms-azure-video.gslb.startimestv.com/live/ST_Rise_852_500_480x360_191656/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1461537083.pngg" group-title="Kenya",ST SA Music
+http://ms-azure-video.gslb.startimestv.com/live/ST_SA_Music_900_500_480x360_194030/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-867556708.png" group-title="Kenya",ST Sino Drama
+http://ms-azure-video.gslb.startimestv.com/live/ST_SINO_DRAMA_986_500_480x360_210816/playlist.m3u8
+#EXTINF:-1 tvg-logo="hhttp://cdn.startimestv.com/banner/legacy/c_420146374.png" group-title="Kenya",ST Soul
+http://ms-azure-video.gslb.startimestv.com/live/ST_Soul_946_500_480x360_195166/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="Kenya",ST Sports Premium
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_300_320x240_197232/playlist.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-955113695.png" group-title="Kenya",ST Sports Focus
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_970_300_320x240_197186/playlist.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1780519567.png" group-title="Kenya",ST Swahili
+http://ms-azure-video.gslb.startimestv.com/live/ST_SWAHILI_854_500_480x360_191664/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="Kenya",ST World Football
+http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="Kenya",ST Sport Life
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2017/02/ST-Yoruba.png" group-title="Kenya",ST Yourba
+http://ms-azure-video.gslb.startimestv.com/live/ST_YORUBA_902_500_480x360_194034/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://en.218tv.net/wp-content/uploads/2018/10/218news-logo-.png" group-title="ليبيا‎",Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
@@ -157,12 +180,10 @@ http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1 tvg-logo="https://www.ngmisr.com/wp-content/uploads/2019/02/%D9%82%D9%86%D8%A7%D8%A9-wtv-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA%D8%8C-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81%D8%A9-%D8%A8%D8%A7%D8%B3%D9%85-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%B3%D8%B7.png" group-title="ليبيا‎", Al Wasat
 https://svs.itworkscdn.net/wtvlive/wtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://libyaelwatan.com/wp-content/uploads/2018/09/logo-200.png" group-title="ليبيا‎",El Watan 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/frequencieschannels.info/wp-content/uploads/2018/06/21232139_1398782466837868_3085804235403369490_n.jpg" group-title="ليبيا‎",El Watan 
 http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Libya-Future-TV-webtvonlive-com.jpg" group-title="ليبيا‎",Libya Future
 http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.libyaone.tv/images/libyaone-logo-hd.png" group-title="ليبيا‎",One TV
-http://82.212.74.2:8000/live/7308.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ortm_logo_2008.png" group-title="Mali",ORTM
 http://162.212.178.78:4342/bysid/8
@@ -174,13 +195,13 @@ https://za-tv2a-wowza-origin02.akamaized.net/oneafrica/smil:oneafrica/playlist.m
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/2MMonde.ma.png" group-title="المغرب",2M Monde
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/05.m3u8
-#EXTINF:-1 tvg-logo="http://www.alaoula.ma/images/laayoune_logo.png" group-title="المغرب",Laayoune TV
+#EXTINF:-1 tvg-logo="hhttp://www.snrtlive.ma/sites/all/themes/snrtlive/images/laayoune-bg.png" group-title="المغرب",Laayoune TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/2MMonde.ma.png" group-title="المغرب",Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/Arryadia.ma.png" group-title="المغرب",Arryadia 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.alaoula.ma/images/attakafiya.png" group-title="المغرب",Athaqafia TV
+#EXTINF:-1 tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/attakafiya.png" group-title="المغرب",Athaqafia TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ma/AlMaghribia.ma.png" group-title="المغرب",Al Maghribia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
@@ -234,7 +255,7 @@ http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
 https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8
 #EXTINF:-1 tvg-logo="https://www.dalkatv.net/wp-content/uploads/2019/02/logo-header.png" group-title="الصومال‎",Dalka TV
 https://ap01.iqplay.tv:8082/iq/d11k1web/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://nw-24.com/wp-content/uploads/Dacwa-TV.nw-24.com_.jpg" group-title="الصومال‎",Dacwa TV
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/so-dacwa-tv-9649.jpg" group-title="الصومال‎",Dacwa TV
 https://ap01.iqplay.tv:81/iqb8002/d13w1.m3u8
 #EXTINF:-1 tvg-logo="https://www.puntlandtvradio.net/wp-content/uploads/2016/04/cropped-puntlandtv1-1.png" group-title="الصومال‎",Puntland TV
 https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8
@@ -247,23 +268,14 @@ https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="South Africa",Trace Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2018/08/StarLife001-1.jpg" group-title="South Africa",Star Life
+http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rts.sn/assets/images/rts/rts1sd.png" group-title="Senegal",RTS 1
 https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/taybatv.jpg" group-title="السودان",Tayba
-http://tayba.live.net.sa:1935/tayba/taybatv/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/africatv_sudan.jpg" group-title="السودان",Africa TV
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781376_logo_africa_tv_2.png" group-title="السودان",Africa TV 2
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/35706_logo_africa_tv_3_3_2.png" group-title="السودان",Africa TV 3
-http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
 #EXTINF:-1 tvg-logo="http://mahgoubsons.com/wp/wp-content/uploads/2017/10/BNTV_logo.png" group-title="السودان",Blue Nile
 http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DYLftywVQAIHKS4.jpg" group-title="Tanzania",Wasafi tv
-http://ms-azure-video.gslb.startimestv.com/live/Wasafi_968_500_320x240_196856/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2157900.png" group-title="Tanzania",TBC 1
 http://ms-azure-video.gslb.startimestv.com/live/TBC_1_908_500_480x360_194046/playlist.m3u8
@@ -281,6 +293,8 @@ https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
 http://ms-azure-video.gslb.startimestv.com/live/STAR_TV_904_500_480x360_194038/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1445504028.jpg"group-title="Tanzania",ZBC 2 Tanazia
 https://1367936109.rsc.cdn77.org/1367936109/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DYLftywVQAIHKS4.jpg" group-title="Tanzania",Wasafi tv
+http://ms-azure-video.gslb.startimestv.com/live/Wasafi_968_500_320x240_196856/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="تونس",Neesma
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
@@ -289,10 +303,9 @@ http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nbs.ug/wp-content/uploads/2019/08/NBS-TV-Logo-1.png" group-title="Uganda",NBS
 https://1641497600.rsc.cdn77.org/1641497600/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.ntv.co.ug/image/view/-/4552762/data/1967367/-/bom96qz/-/logoMain.png" group-title="Uganda",NTV Uganada
+#EXTINF:-1 tvg-logo="https://www.ntv.co.ug/image/view/-/4552762/data/1967367/-/bom96qz/-/logoMain.png" group-title="Uganda",NTV Uganda
 https://1534761621.rsc.cdn77.org/1534761621/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/bigeye.ug/wp-content/uploads/2015/11/abs-tv.png' group-title="Uganda",ABS TV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/bigeye.ug/wp-content/uploads/2015/11/abs-tv.png" group-title="Uganda",ABS TV
 https://1572241182.rsc.cdn77.org/1572241182/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1068883900326440960/EOSPO0Uv_400x400.jpg" group-title="Uganda",Baba TV
 https://1394530432.rsc.cdn77.org/1394530432/tracks-v1a1/mono.m3u8
