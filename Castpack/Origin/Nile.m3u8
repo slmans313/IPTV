@@ -2,17 +2,11 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Algeria3.png" group-title="الدزاير",القناة الجزائرية الثالثة‎
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/ThalithaA3.m3u8
-#EXTINF:-1 tvg-logo="http://www.centraltv.fr/wp-content/uploads/LOGO-AMEL-TV.jpg" group-title="الدزاير",Amel TV
-http://stream.mslive.in:1935/jazz/gcb577/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="الدزاير",Chaine Nord Africaine
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.ortb.bj/images/2017/logos/logo_ortb.png" group-title="Bénin",ORTB
-https://stream.ecable.tv/ortb/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.rtb.bf/wp-content/uploads/2019/08/LOgo-RTB-272-90.png" group-title="Burkina Faso",RTB
-https://stream.ecable.tv/rtb/tracks-v1a1/mono.m3u8
+https://edge2.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/7/25/imgbin-logo-television-channel-impact-tv-high-definition-television-others-BuT5pv2J8EZmD93DULrQjFpRk.jpg" group-title="Burkina Faso",Impac TV
 https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist.m3u8
 
@@ -32,14 +26,9 @@ http://videos.nosi.cv/live/smil:tcvlive.smil/chunklist_w1661838962_b2688000_slen
 #EXTINF:-1 tvg-logo="https://www.thematv.com/images/channels/tcv.png" group-title="Cabo Verde",TCV Internacional
 http://videos.nosi.cv/tcvi/smil:tcvilive.smil/chunklist_w829902641_b564000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/11/rtnc_cd_tv.png" group-title="Kikongo",RTNC
-https://stream.ecable.tv/rtnc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-k8il3-hNsqk/VXRC63V36yI/AAAAAAAAbJU/wz1liqel6R4/s1600/559708_603843762992687_2016829278_n.jpg" group-title="Kikongo",Kin24
-https://stream.ecable.tv/kin24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Kikongo",Tracekitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tele50.net/img/logo.png" group-title="Kikongo",Tele 50
-https://stream.ecable.tv/tele50/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/AlKaheraWalNas.png" group-title="مَصر",Al Kahera Wal Nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
