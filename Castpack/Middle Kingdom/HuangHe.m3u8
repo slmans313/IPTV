@@ -47,14 +47,12 @@ http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png group-title="电影", 龍祥時代電影
 http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXActionMovies.id.png" group-title="电影",福斯動作電影
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="电影",福斯動作電影
 http://192.154.103.75:8080//ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch571.jpg" group-title="电影",衛視電影
 https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="电影",衛視卡式 
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_1000000=6-SCMlegend-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch573.jpg" group-title="电影",衛視卡式高清
-https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="电影",天映频道
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-CelestialMovie-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="电影",天映经典
@@ -209,10 +207,10 @@ https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/TVS2GuangdongSouthernTerrestrial.cn.png" group-title="粵語",南方衛視
 http://nclive.grtn.cn/tvs2/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/TVS4GuangdongMovies.cn.png" group-title="粵語",南方影视
-http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="粵語",廣東綜藝4K
 http://nclive.grtn.cn/4K/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212174012glmD.png" group-title="粵語",廣東影視
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="粵語",珠江衛視
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/GRT_World_2019.png" group-title="粵語",廣東國際
