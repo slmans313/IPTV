@@ -15,5 +15,7 @@ For sports channel lover, please support your cable tv provider. Their streams a
 
 Shout out to EDMW, 电视盒子tv box分享站 and TV Boxs app!!!
 
+And thumbs down for Rizaldi of https://rizaldi.web.id/!
+
 Love you all,
 Shell Shock
