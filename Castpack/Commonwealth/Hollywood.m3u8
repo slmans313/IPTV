@@ -122,9 +122,6 @@ https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=8zOOHzs7&v=202
 https://delivery.macan.live/stream/macan_sport_16/index.m3u8?token=8zOOHzs7&v=20200202
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSportsEnEspanol.us.png" group-title="Sports",beIN Sports Espanol
 http://claro2-pi-dns.herokuapp.com/master.php?id=56&f=.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Sports",beIN Sports 1 Turkey
-https://cstream9.com/hls/beinsports1_tr_fhd.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="Sports",Arena Sports 1
 http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
@@ -186,16 +183,6 @@ http://claro2-pi-dns.herokuapp.com/master.php?id=188&f=.m3u8
 http://claro2-pi-dns.herokuapp.com/master.php?id=190&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sports Mix
 http://claro2-pi-dns.herokuapp.com/master.php?id=191&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports",Sport TV 1
-https://sportzonline.co/channels/pt/sporttv1.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports",Sport TV 2
-https://sportzonline.co/channels/pt/sporttv2.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports",Sport TV 3
-https://sportzonline.co/channels/pt/sporttv3.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports",Sport TV 4
-https://sportzonline.co/channels/pt/sporttv4.php
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sports",Sport TV 5
-https://sportzonline.co/channels/pt/sporttv5.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="American Sports",ACC Network
 https://gma2.blab.email/acc.m3u8
