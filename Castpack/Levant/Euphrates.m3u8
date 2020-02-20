@@ -60,6 +60,8 @@ http://198.98.181.244/live/smil:rjtv.smil/playlist.m3u8
 http://iptv.rangarang.us/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/simayeazadi.jpg" group-title="العراق",Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sat7pars.com/static/img/logo.jpg" group-title="العراق",Sat 7 Pars
+http://unirtmp.tulix.tv:1935/sat7pars/satparslive-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ipetitions.com/user-images/petitions/objection-to-voa-persian/loz0oZbiRuWlx5csWgCR_VOA_FARSI_LIVESTATION-1.png" group-title="العراق",صدای آمریکا
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana 1
@@ -81,8 +83,6 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="العراق",Dijlah
 https://ghaasiflu.online/Dijlah/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://aletejahtv.com/wp-content/uploads/2017/12/logo1s.png" group-title="العراق",Al Etajah TV
 http://212.18.231.213:1935/aletejahtv/_definst_/aletejahtv_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" group-title="العراق",Al-Rafidain TV
@@ -273,6 +273,8 @@ http://iptv.santraltr.com:8080/hls/mgctv.m3u8
 http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/55/54/40555489faf07aabc2001322f637be0e.jpg" group-title="Türkiye",Royal TV
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sat7uk.org/wp-content/uploads/2016/04/SAT-7-TURKlogo-e1462364248492.jpg" group-title="Türkiye",Sat 7 Türk
+https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g_400x400.jpg" group-title="Türkiye",Tivi Turk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/tv4-webtvonlive-com.jpg" group-title="Türkiye",TV4
