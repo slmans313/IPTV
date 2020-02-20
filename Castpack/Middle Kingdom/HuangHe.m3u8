@@ -241,14 +241,11 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
 农林卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 青海卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225760/1/index.m3u8?fmt=ts2hls
 安多卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225694/1/index.m3u8?fmt=ts2hls
-三沙卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
 山东教育卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225764/1/index.m3u8?fmt=ts2hls
 山西卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225730/1/index.m3u8?fmt=ts2hls
 康巴卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225695/1/index.m3u8?fmt=ts2hls
 新疆卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225759/1/index.m3u8?fmt=ts2hls
 西藏卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225668/1/index.m3u8?fmt=ts2hls
-西藏藏语,http://39.135.15.70:6610/PLTV/88888888/224/3221225697/1/index.m3u8?fmt=ts2hls
-延边卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
 云南卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225687/1/index.m3u8?fmt=ts2hls
 陕西卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225688/1/index.m3u8?fmt=ts2hls
 
@@ -473,6 +470,8 @@ http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="56民族",迪庆藏语
 http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="56民族",西藏藏语
+http://39.135.15.70:6610/PLTV/88888888/224/3221225697/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="56民族",延边卫视
 http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.mnb.mn/images/mini/tv.png" group-title=56民族",МҮОНТ-1
