@@ -16,6 +16,8 @@ http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="新闻台",有線財經資訊
 https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png" group-title="新闻台",有線直播新聞
+http://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b94f4e8-1582318358-1582318658-199db76ed56928ca0e6a93fc5db20d19-8d7b75375fc6224_734-03/Stream1_h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="新闻台",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="新闻台",華視新聞
@@ -107,7 +109,7 @@ http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育台",緯來體育
 rtmp://59.124.75.156/sat/tv721
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN 体育 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" group-title="体育台",有線體育台
 rtmp://59.124.75.156/sat/hk011
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育台",Fox 体育 1
 rtmp://59.124.75.156/sat/tv731
@@ -122,9 +124,9 @@ http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/832-dragon-tv.png" group-title="中国",东方卫视
 http://111.40.205.76/PLTV/88888888/224/3221225700/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="中国",浙江卫视
-http://39.135.15.70:6610/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国",北京卫视
-http://39.135.15.70:6610/PLTV/88888888/224/3221226049/1/index.m3u8?fmt=ts2hls
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="中国",星空卫视
 https://anevia115.mncnow.id:443/live/eds/XingKongTV/sa_hls/XingKongTV-avc1_1000000=11-mp4a_98800_eng=5.m3u8
 
@@ -133,11 +135,11 @@ http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://liveali.ifeng.com/live/FHZB.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2 财经
-http://39.135.15.70:6610/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3 综艺
 http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225606/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4 中文国际
-http://39.135.15.70:6610/PLTV/88888888/224/3221225744/1/index.m3u8?fmt=ts2hls
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6 电影
 http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7 军事
