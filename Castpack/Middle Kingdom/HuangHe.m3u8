@@ -307,6 +307,8 @@ http://61.58.60.230:9319/live/234.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中国",广东卫视
 http://111.40.205.73/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/2019121217373748M5.png" group-title="中国",广东国际
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳卫视
 http://111.40.205.76/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳国际
@@ -448,10 +450,8 @@ http://nclive.grtn.cn/ggpd/playlist.m3u8
 http://nclive.grtn.cn/fcpd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="粵語",珠江衛視
 http://nclive.grtn.cn/zjpd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="粵語",珠江衛視國際
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="粵語",珠江國際
 rtmp://59.124.75.156/sat/hk031
-#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/2019121217373748M5.png" group-title="粵語",廣東國際
-http://nclive.grtn.cn/gjpd/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GZTVJingsai.cn.png" group-title="粵語",廣州綜合
 https://aplay.gztv.com/sec/zhonghe.m3u8
