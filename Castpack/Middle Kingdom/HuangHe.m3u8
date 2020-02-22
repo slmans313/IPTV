@@ -207,6 +207,11 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 http://39.135.15.70:6610/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="中国",CCTV 央视文化精品
 http://39.135.15.70:6610/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxiqu.png" group-title="中国",CCTV 戏曲
+http://61.58.60.230:9319/live/223.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVyule.png" group-title="中国",CCTV 娱乐
+http://61.58.60.230:9319/live/224.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="教育/纪录",CGTN 记录
 http://39.135.15.70:6610/PLTV/88888888/224/3221225670/1/index.m3u8?fmt=ts2hls
@@ -293,6 +298,8 @@ http://111.40.205.76/PLTV/88888888/224/3221225737/index.m3u8
 http://61.58.60.230:9319/live/239.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="中国",山西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png group-title="中国",中国黄河台
+http://61.58.60.230:9319/live/232.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="中国",陕西卫视
 http://39.135.15.70:6610/PLTV/88888888/224/3221225688/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中国",天津卫视
