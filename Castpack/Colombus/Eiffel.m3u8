@@ -187,7 +187,6 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-logo="https://okto.tv/bundles/app/images/okto_logo.png" group-title="Österreich",Okto
 https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.m4tv.at/pix/logo0.png" group-title="Österreich",M4 Mostviertelfernsehen
 rtmp://streaming.austria24.tv/live/mp4:stream_720p
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/1964f48edf41fbf4d88c83de4bd0543b.jpeg" group-title="Österreich",RTS
@@ -299,9 +298,10 @@ http://62.210.205.41:8080/DOMATV/index.m3u8
 http://62.210.205.41:8080/NOVATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/Rtl.hr.png" group-title="Hrvatska",RTL
 http://62.210.205.41:8080/RTL/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvaurora.tv/wp-content/themes/sw/img/logo.png" group-title="Hrvatska",Aurora TV
 http://85.94.81.190:8844/sdi/aurora.m3u8
+#EXTINF:-1 tvg-logo="https://sptv.hr/app/images/logo_white.png" group-title="Hrvatska",Sportska TV
+http://185.180.12.34:8080/SPORTSKATV/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.stv.hr/images/stories/stv-logo.png" group-title="Hrvatska",Televizija Slavonije
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
