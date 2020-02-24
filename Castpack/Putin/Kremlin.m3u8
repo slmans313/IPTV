@@ -695,7 +695,7 @@ http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neskaties.lv/misc/lnt/logo.png" group-title="Latvija",LNT
 https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/LTV1_logo_2017.png/revision/latest?cb=20180715080428" group-title="Latvija",LTV1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lv/LTV1.lv.png" group-title="Latvija",LTV1
 https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
 #EXTINF:-1 tvg-logo="https://ltv.lsm.lv/assets/channel/logo2.png" group-title="Latvija",LTV7
 https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
@@ -709,20 +709,20 @@ https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/index.m3u8
 https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
 #EXTINF:-1 tvg-logo="http://en.1bma.lv/uploaded/spaw/images/1m.jpg" group-title="Latvija",1 Baltic Music
 https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latvija",Chau
+#EXTINF:-1 tvg-logo="https://chaula.tv/static/chaulatv/css/images/big_logo.png" group-title="Latvija",Chau
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tv3_logo_rgb_transparent.png/1200px-Tv3_logo_rgb_transparent.png" group-title="Lietuva",TV3 Lietuva
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lt/TV3.lt.png" group-title="Lietuva",TV3 Lietuva
 http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TV62018.jpg/230px-TV62018.jpg" group-title="Lietuva",TV6 Lietuva
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lt/TV6.lt.png" group-title="Lietuva",TV6 Lietuva
 http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/TV8_logo_for_Sweden_and_Lithuania.png" group-title="Lietuva",TV8 Lietuva
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lt/TV8.lt.png" group-title="Lietuva",TV8 Lietuva
 http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/md/Moldova1.md.png" group-title="Moldova",Moldova 1
-http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_Moldova_2_%282016%29.svg/1200px-Logo_Moldova_2_%282016%29.svg.png" group-title="Moldova",Moldova 2
-http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png group-title="Moldova",Moldova 1
+http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png" group-title="Moldova",Moldova 2
+http://www.trm.md/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a-tv.md/templates/test/img/logo-site.png" group-title="Moldova",Accent
 http://video.a-tv.md/hls/accent.m3u8
 #EXTINF:-1 tvg-logo="https://canalregional.md/wp-content/uploads/2018/04/Logo.png" group-title="Moldova",Regional
