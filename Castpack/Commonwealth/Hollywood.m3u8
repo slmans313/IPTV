@@ -438,7 +438,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_50000
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" group-title="Movies",Filmrise Sci-Fi
 https://dai1.xumo.com/7a884267de5c44a9/9999437/648x432_5000000/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968-FX-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="Movies",FXM
@@ -449,6 +448,10 @@ http://123.30.146.182:8080/foxmovie/video.m3u8
 https://anevia115.mncnow.id:443/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium-avc1_2499968=7-FOXMoviesPremium-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="Movies",Fox Crime
 https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="Movies",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.maverickentertainment.cc/images/logo-2019.png" group-title="Movies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
 http://123.30.146.182:8080/hbo/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
@@ -457,10 +460,14 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBO
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5d4360edae8ff80001247e11/1564758103725-BJSDTUS8WBBFW41UWAFW/hiyah_website+logo.png" group-title="Movies",Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="Movies",Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="Movies",Filmbox Arthouse
 https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.pngg" group-title="Movies",Flim Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="Movies",Iflim English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="Movies",Mafa Short Flim
@@ -543,6 +550,8 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Anima
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="Kids/Animation",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png group-title="Kids/Animation",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/Cbeebies.au.png" group-title="Kids/Animation",Cbeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies-avc1_1000000=7-Cbeebies-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Kids/Animation",Cartoon Network
@@ -559,10 +568,10 @@ https://dl.dropbox.com/s/9b9z5db065tqods/DreamWork.m3u8?dl=1
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 #EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids/Animation",FAN TV
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids/Animation",Jim Jam
-http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="Kids/Animation",Fix & Foxi
 https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5b45347bf8370a03e64f284d/1531263808845-27U5TCTZ7RKPXMDG8CKM/KAB_LOGO_02.png" group-title="Kids/Animation",Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Kids/Animation",Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
