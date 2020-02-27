@@ -811,91 +811,39 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="日本",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tv-osaka.co.jp/portal/201610/images/ogp.png" group-title="日本",テレビ大阪
-http://123.30.146.182:8080/512/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.ktv.jp/img/ico_sns.jpg" group-title="日本",関西テレビ
-http://123.30.146.182:8080/518/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.ytv.co.jp/common/img/logo_ytv.png" group-title="日本",よみうりテレビ YTV
-http://123.30.146.182:8080/523/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日本",Tokyo MX 1
-http://123.30.146.182:8080/521/video.m3u8
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日本",Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gtv.co.jp/common/images/logo-h_pc.png" group-title="日本",群馬テレビ
 https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/180px-BS11_logo.svg.png" group-title="日本",BS11
-http://123.30.146.182:8080/1503/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.home-tv.co.jp/wp-content/themes/home-master/img/h_logo.png" group-title="日本",Home 広島気象情報
 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg" group-title="日本",MX Live
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="日本",Animax 日本
-http://123.30.146.182:8080/508/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="日本",BBC News 日本
 https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/BSTBS.jp.png" group-title="日本",BS TBS
 http://203.162.235.41:16913
 #EXTINF:-1 tvg-logo="https://www.bs-asahi.co.jp/wordpress/wp-content/themes/bs-master/img/no_image.png" group-title="日本",BS 朝日
 http://203.162.235.41:16914
-#EXTINF:-1 tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png" group-title="日本",BS フジ
-http://123.30.146.182:8080/551/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.bsfuji.tv/top/common/img/topparts/logo_bsf181201.png" group-title="日本",BSフジ
 http://203.162.235.41:16911
 #EXTINF:-1 tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg" group-title="日本",BS 東京
 http://203.162.235.41:16915
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日本",BS 日テレ
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="日本",Cartoon Network 日本
-http://123.30.146.182:8080/1342/video.m3u8
 #EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="日本",CGN 日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="日本",Disney 日本
-http://123.30.146.182:8080/1344/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="日本",Disney Jr 日本
-http://123.30.146.182:8080/1338/video.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxjapan.com/core/img/logo_fse.png" group-title="日本",Fox Sports Entertainment
-http://123.30.146.182:8080/1343/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.kids-station.com/sites/all/themes/responsive/responsive_kidsstation/logo.png" group-title="日本",キッズステーション
-http://123.30.146.182:8080/502/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JapaneseMoviesChannel.jp.png" group-title="日本",日本映画専門チャンネル
-http://123.30.146.182:8080/520/video.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_400x400.jpg" group-title="日本",Music Japan
-http://123.30.146.182:8080/525/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="日本",MTV 日本
-http://123.30.146.182:8080/501/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/StarChannel1.jp.png" group-title="日本",Star 1
-http://123.30.146.182:8080/1504/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/StarChannel2.jp.png" group-title="日本",Star 2
-http://123.30.146.182:8080/1505/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/StarChannel3.jp.png" group-title="日本",Star 3
-http://123.30.146.182:8080/1506/video.m3u8
+#EXTINF:-1 tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" group-title="日本",ジャパネットチャンネルDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WakuWakuJapan.id.png" group-title="日本",Waku Waku Japan
 https://anevia115.mncnow.id:443/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_prime_logo.png" group-title="日本",WOWOW プライム
-http://123.30.146.182:8080/1501/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.cinefilwowow.com/parts/common/img/cinefil_logo.png" group-title="日本",シネフィル WOWOW
 http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png" group-title="日本",WOWOW シネマ
 http://203.162.235.41:16916
-#EXTINF:-1 tvg-logo="https://www.necoweb.com/neco/assets/images/header_neco.png" group-title="日本",映画・チャンネルNECO
-http://123.30.146.182:8080/504/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.thecinema.jp/assets/img/logo_cinema.png" group-title="日本",洋画専門チャンネル ザ・シネマ
-http://123.30.146.182:8080/1347/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.movieplus.jp/images/logo_mp_01.png group-title="日本",ムービープラス
-http://123.30.146.182:8080/505/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JSports1.jp.png" group-title="日本",J Sports 1
-http://123.30.146.182:8080/1418/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JSports1.jp.png" group-title="日本",J Sports 2
-http://123.30.146.182:8080/1419/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JSports1.jp.png" group-title="日本",J Sports 3
-http://123.30.146.182:8080/1420/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/JSports1.jp.png" group-title="日本",J Sports 4
-http://123.30.146.182:8080/1421/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.gaora.co.jp/common/img/gaora_logo.gif" group-title="日本",Gaora Sports
-http://123.30.146.182:8080/1340/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.sky-a.co.jp/img/common/logo.png group-title="日本",スカイA
-http://123.30.146.182:8080/1341/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.njpw.co.jp/wp-content/themes/njpw-pc-sc/images/logo-njpwworld.png" group-title="日本",新日本プロレスワールド
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
