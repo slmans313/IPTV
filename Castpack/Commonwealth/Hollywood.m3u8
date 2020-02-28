@@ -420,6 +420,8 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/co/AMC.co.png" group-title="Movies",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/AXN.id.png group-title="Movies",AXN
+http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 #EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="Movies",Bollywood TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/br/Cinemax.br.png" group-title="Movies",Cinemax
@@ -453,7 +455,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.maverickentertainment.cc/images/logo-2019.png" group-title="Movies",Maverick Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
-http://123.30.146.182:8080/hbo/video.m3u8
+http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
