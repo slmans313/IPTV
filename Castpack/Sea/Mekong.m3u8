@@ -138,13 +138,13 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582294893~acl=/hls-p/ingest_204_*
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Indonesia",Indosiar
 https://etslive-2-vidio-com.akamaized.net/exp=1582294874~acl=/hls-p/ingest_205_*/*~hmac=293ebcd8efcf154344191cfb0fea766897f3c5f73e8f67f01d877b5860bdc1b9/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/RCTI.id.png" group-title="Indonesia",RCTI
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+https://linier.akamaized.net/live/eds/RCTI/sa_hls/RCTI-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://gtv.id/images2020/logo.png" group-title="Indonesia",GTV
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42 
+https://linier.akamaized.net/live/eds/GTV/sa_hls/GTV-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCTV.id.png" group-title="Indonesia",MNC
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+https://linier.akamaized.net/live/eds/MNC/sa_hls/MNC-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://img.inews.id/media/200/files/inews/inews_01.png" group-title="Indonesia",I News
-https://anevia115.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+https://linier.akamaized.net/live/eds/iNews/sa_hls/iNews-avc1_2000000=1.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",TV One
 https://anevia115.mncnow.id/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia",Metro
@@ -689,7 +689,11 @@ http://203.162.123.178:8080/kns/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s5.postimg.cc/fl6mzjevr/sctv1-hd.png" group-title="Việt Nam",SCTV 1
-http://103.68.251.140/live/sctv1/index.m3u8
+http://cdn3.xemtivivn.com/live/0MjGbSf9sbhqFFLCUjamWg/1582776637/sctv1.m3u8
+#EXTINF:-1 tvg-logo="https://s5.postimg.cc/fl6mzjevr/sctv1-hd.png" group-title="Việt Nam",SCTV 1
+http://cdn2.xemtivivn.com/live/0UYAGd9Llf2nELSkaVVz8Q/1582776683/sctv2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://anvienhd.net/uploads/images/hinhanh/3199055c7b77b6c9125.88428291.png" group-title="Việt Nam",SCTV 9
 http://103.68.251.140/live/sctv91/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_sctv171.png" group-title="Việt Nam",SCTV 17
