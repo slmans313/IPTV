@@ -484,12 +484,24 @@ http://160.119.77.50/iptv/sd-tsport6.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_320.png" group-title="ประเทศไทย",True Asian Series
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/4c6e4330-9408-4280-8b5d-7d3b37305ce0.png" group-title="ประเทศไทย",True Explore Wild
+http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/d6c9368f-1a96-4988-8517-1e97313027bd_320.png" group-title="ประเทศไทย",True Film Asia
+http://160.119.77.50/iptv/sd-filmasiaalt.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png" group-title="ประเทศไทย",True Movie Hits
 http://160.119.77.50/iptv/sd-moviehitseng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/04/05/68b87ad2-ba45-4934-a7b1-9e42341df7aa.jpg" group-title="ประเทศไทย",True Music
 http://160.119.77.50/iptv/sd-tmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.trueplookpanya.com/assets/tppy_v1/images/share/header/logo-true.png" group-title="ประเทศไทย",True Pookpanya
+http://160.119.77.50/iptv/sd-tppy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_320.png" group-title="ประเทศไทย",True Series
+http://160.119.77.50/iptv/sd-series.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png" group-title="ประเทศไทย",True Spark Jump
+http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg" group-title="ประเทศไทย",True Thai Film
 http://160.119.77.50/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png" group-title="ประเทศไทย",True X-Zyte
+http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png" group-title="ประเทศไทย",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
@@ -760,7 +772,7 @@ http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/65/Logo_THTG.png" group-title="Việt Nam",THTG
 http://thtg.vn:8001/thtg.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/24.png group-title="Việt Nam",THVL 1
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/24.png" group-title="Việt Nam",THVL 1
 http://123.30.146.182:8080/thvl1/video.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/361.png" group-title="Việt Nam",TTV
 http://123.30.146.182:8080/thanhhoa/video.m3u8
