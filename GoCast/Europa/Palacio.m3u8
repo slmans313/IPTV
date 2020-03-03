@@ -256,8 +256,6 @@ https://origin.canaismax.com/mylive/recordhd/video.m3u8
 https://7ejqucofpe.singularcdn.net.br/iptv/hls/tvc/tvc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv.br.png" group-title="Português/Brasil",SporTV
 http://proxyts.ec.cx:8082/hls1/sportv1.m3u8
-#EXTINF:-1 tvg-logo="http://www.redebahia.com.br/images/empresas/TV/tv_bahia1.jpg" group-title="Português/Brasil",TV Bahia
-https://origin.canaismax.com/live/globosphd/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2014/04/logo.png" group-title="Português/Brasil",TV Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Tvi.pt.png" group-title="Português/Brasil",TVI
@@ -275,10 +273,6 @@ https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/CancaoNova.br.png" group-title="Português/Brasil",Canção Nova Brasil
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Brasil.svg/1024px-Canal_Brasil.svg.png" group-title="Português/Brasil",Canal Brasil
-https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Português/Brasil",Futura
-https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
 #EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo@2x.png" group-title="Português/Brasil",Kuriakos TV 
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Porto.pt.png" group-title="Português/Brasil",Porto Canal
@@ -294,6 +288,12 @@ http://midia.faap.br/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Viva.br.png" group-title="Português/Brasil",Viva
 http://proxyts.ec.cx:8082/hls1/viva.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/AXN.id.png" group-title="Português/Brasil",AXN Brasil
+http://proxyts.ec.cx:8082/hls1/axn.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/co/AMC.co.png" group-title="Português/Brasil",AMC Brasil
+http://proxyts.ec.cx:8082/hls1/amc.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="Português/Brasil",Animal Planet Brasil
+http://proxyts.ec.cx:8082/hls1/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Português/Brasil",Discovery Brasil
 http://proxyts.ec.cx:8082/hls1/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Português/Brasil",Investigation Discovery Brasil
@@ -342,6 +342,8 @@ http://proxyts.ec.cx:8082/hls1/telecinefun.m3u8
 http://proxyts.ec.cx:8082/hls1/telecinepremium.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePipoca.br.png" group-title="Português/Brasil",TeleCine Pipoca
 http://proxyts.ec.cx:8082/hls1/telecinepipoca.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/TLC.de.png" group-title="Português/Brasil",TLC Brasil
+http://proxyts.ec.cx:8082/hls1/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/TNT.pl.png" group-title="Português/Brasil",TNT Brasil
 http://proxyts.ec.cx:8082/hls1/tnt.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/TVN-Brasil-webtvonlive.com_.jpg" group-title="Português/Brasil",TVN Brasil
@@ -351,18 +353,11 @@ https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://webmusic.tv/uploads/custom-logo.png" group-title="Português/Brasil",Web Music TV
 http://stmv1.ifantasy.com.br/webmusictv/webmusictv/playlist.m3u8
 
-#EXTINF:-1,AXN
-http://proxyts.ec.cx:8082/hls1/axn.m3u8
-#EXTINF:-1,TLC
-http://proxyts.ec.cx:8082/hls1/tlc.m3u8
+
 #EXTINF:-1,Warner TV
 http://proxyts.ec.cx:8082/hls1/warner.m3u8
-#EXTINF:-1,Animal Planet
-http://proxyts.ec.cx:8082/hls1/animalplanet.m3u8
 #EXTINF:-1,History
 http://proxyts.ec.cx:8082/hls1/history.m3u8
-#EXTINF:-1,AMC
-http://proxyts.ec.cx:8082/hls1/amc.m3u8
 #EXTINF:-1,Boomerang
 http://proxyts.ec.cx:8082/hls1/boomerang.m3u8
 #EXTINF:-1,Cartoon
