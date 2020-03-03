@@ -236,10 +236,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Cultura.br.png" group-title="Português/Brasil",Cultura
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Band.br.png" group-title="Português/Brasil",Band
-https://origin.canaismax.com/mylive/bandcampinashd/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Cmtv.pt.png" group-title="Português/Brasil",CMTV
-http://tv.denied.network/cmtv/stream
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/BandSports.br.png" group-title="Português/Brasil",Band Sports
+http://proxyts.ec.cx:8082/hls1/bandsports.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo SP
 http://proxyts.ec.cx:8082/hls1/bobosp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Globosat_wordmark.svg/1280px-Globosat_wordmark.svg.png group-title="Português/Brasil",Globosat
@@ -256,14 +254,8 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479
 https://origin.canaismax.com/mylive/recordhd/video.m3u8
 #EXTINF:-1 tvg-logo="https://redetvc.com.br/wp-content/uploads/2019/12/logotvctv.png" group-title="Português/Brasil",Rede TVC Brasil
 https://7ejqucofpe.singularcdn.net.br/iptv/hls/tvc/tvc.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Sic.pt.png" group-title="Português/Brasil",SIC
-http://198.255.23.18:2095/streams/81_.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SicNoticias.pt.png" group-title="Português/Brasil",SIC Notícias 
-http://tv.denied.network/sicnoticias/stream
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SicMulher.pt.png" group-title="Português/Brasil",SIC Mulher
-http://tv.denied.network/sicmulher/stream
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/SicRadical.pt.png" group-title="Português/Brasil",SIC Radical
-http://tv.denied.network/sicradical/stream
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv.br.png" group-title="Português/Brasil",SporTV
+http://proxyts.ec.cx:8082/hls1/sportv1.m3u8
 #EXTINF:-1 tvg-logo="http://www.redebahia.com.br/images/empresas/TV/tv_bahia1.jpg" group-title="Português/Brasil",TV Bahia
 https://origin.canaismax.com/live/globosphd/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2014/04/logo.png" group-title="Português/Brasil",TV Gazeta
@@ -273,7 +265,7 @@ http://video-auth7.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/TviReality.pt.png" group-title="Português/Brasil",TVI Reality
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Tvi24.pt.png" group-title="Português/Brasil",TVI 24
-http://tv.denied.network/tvi24/stream
+http://video-auth7.iol.pt:80/live_tvi24/live_tvi24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Português/Brasil",ARTV
 http://193.126.16.69:1935/livenlin4/2liveartvpub/playlist.m3u8
@@ -308,13 +300,11 @@ http://proxyts.ec.cx:8082/hls1/discovery.m3u8
 https://dd3qfqjqc2630.cloudfront.net/hls1/investigacaodiscovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="Português/Brasil",Discovery Turbo Brasil
 http://proxyts.ec.cx:8082/hls1/discoveryturbo.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryKids.br.png" group-title="Português/Brasil",Discovery Kids
-https://origin.canaismax.com/live/discoverykidshd/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/DiscoveryWorld.nl.png" group-title="Português/Brasil",Discovery World Brasil
 http://proxyts.ec.cx:8082/hls1/discoveryworld.m3u8
-#EXTINF:-1,Discovery Civilization
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryCivilization.br.png" group-title="Português/Brasil",Discovery Civilization
 http://proxyts.ec.cx:8082/hls1/discoverycivilization.m3u8
-#EXTINF:-1,Discovery Theater
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryTheater.br.png" group-title="Português/Brasil",Discovery Theater
 http://proxyts.ec.cx:8082/hls1/discoverytheater.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DisneyXD.us.png" group-title="Português/Brasil",Disney XD Brasil
 http://proxyts.ec.cx:8082/hls1/disneyxd.m3u8
@@ -363,10 +353,7 @@ http://stmv1.ifantasy.com.br/webmusictv/webmusictv/playlist.m3u8
 
 
 
-#EXTINF:-1,BAND SPORTS
-http://proxyts.ec.cx:8082/hls1/bandsports.m3u8
-#EXTINF:-1,SPORT TV 1
-http://proxyts.ec.cx:8082/hls1/sportv1.m3u8
+
 #EXTINF:-1,PREMIERE CLUBES
 http://proxyts.ec.cx:8082/hls1/premiereclubes.m3u8
 #EXTINF:-1,FOX SPORTS 2
