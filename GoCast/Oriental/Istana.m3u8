@@ -657,9 +657,11 @@ http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png" group-title="Việt Nam",Dong Thap TV2
 http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="Việt Nam",Hanoi TV1
-http://203.162.123.178:8080/hanoi1/index.m3u8
+http://hntv.cdn.mediatech.vn/hanoi1.m3u8?v1
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="Việt Nam",Hanoi TV2
-http://203.162.123.178:8080/hanoi2/index.m3u8
+http://hntv.cdn.mediatech.vn/hanoi2.m3u8
+#EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Việt Nam",Ha Nam TV
+http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/159.png" group-title="Việt Nam",Hai Phong TV
 http://203.162.123.178:8080/haiphong/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/361.png" group-title="Việt Nam",Ha Tinh TV
@@ -702,14 +704,14 @@ http://115.78.3.164:8134/liveevent.m3u8
 http://115.78.3.164:8134/liveeventstv2.m3u8
 #EXTINF:-1 tvg-logo="http://tayninhtv.vn/public/Home/images/logo_ttv11.png" group-title="Việt Nam",Tay Ninh TV 
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png" group-title="Việt Nam",THDT
-http://202.43.109.142:1935/THDT/thdttv/chunklist_w1073711647.m3u8
-#EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Việt Nam",THHN
-http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/841.png" group-title="Việt Nam",Tra Vinh TV
+http://travinhlive.07b99c25.cdnviet.com/travinhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/201.png" group-title="Việt Nam",Thái Nguyên TV 1
 http://thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/65/Logo_THTG.png" group-title="Việt Nam",Tien Giang TV
 http://thtg.vn:8001/thtg.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/221.png" group-title="Việt Nam",Tuyen Quang TV
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" group-title="Việt Nam",TTXVN
 http://live.vnanet.vn/720P/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i0.wp.com/vbstelevision.com/wp-content/uploads/2016/04/cropped-logo512x512.png" group-title="Việt Nam",VBS
@@ -718,3 +720,5 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://brt.vn/common/v2/images/Banner150219.png" group-title="Việt Nam",Vung Tau TV
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/211.png" group-title="Việt Nam",Yen Bai TV
+https://yenbaitv.org.vn/hls/livestream.m3u8
