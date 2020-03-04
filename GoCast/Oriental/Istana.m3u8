@@ -321,8 +321,8 @@ https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b
 https://player-api.new.livestream.com/accounts/15604755/events/4419934/broadcasts/202380238.secure.m3u8
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="မြန်မာဘာသာ",MRTV 4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLndIbHV0dGF3TGl2ZVN0cmVhbWluZ19pY29uXzBfYTM4YjYzZTQ/icon.png?w=170&fakeurl=1" group-title="မြန်မာဘာသာ",MRTV Hluttaw
-http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://www.videoinya.com/wp-content/uploads/2016/02/Hluttaw-channel.png" group-title="မြန်မာဘာသာ",MRTV Hluttaw
+http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="မြန်မာဘာသာ",MRTV NRC
 http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-10-12-54_1.jpeg" group-title="မြန်မာဘာသာ",MRTV Entertainment
@@ -330,7 +330,7 @@ http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist.m
 #EXTINF:-1 tvg-logo="https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png" group-title="မြန်မာဘာသာ",Myammar International TV
 http://edge-stream-07.otv.co.th./livestream/MITV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-01-09_1.jpeg" group-title="မြန်မာဘာသာ",MRTV Farmer
-http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
+http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwd1.jpg" group-title="မြန်မာဘာသာ",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwd-variety.jpg" group-title="မြန်မာဘာသာ",MWD Variety
@@ -631,15 +631,22 @@ http://xemtivi.online/live/vtv3/index.m3u8?1582945083
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="Việt Nam",VTV 4
 http://xemtivi.online/live/vtv4/index.m3u8?1582945095
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv5-hd.png" group-title="Việt Nam",VTV 5
-http://xemtivi.online/live/vtv5/index.m3u8?1582945111
+http://220.158.149.28:8180/live/TV00000000000000000111@HHZT
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="Việt Nam",VTV 6
-http://xemtivi.online/live/vtv6/index.m3u8?1582945122
+http://220.158.149.28:8180/live/TV00000000000000000162@HHZT
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv7-hd.png" group-title="Việt Nam",VTV 7
 http://xemtivi.online/live/vtv7/index.m3u8?1582945136
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv8-hd-1.png" group-title="Việt Nam",VTV 8
 http://xemtivi.online/live/vtv8/index.m3u8?1582945144
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv9-hd-1.png" group-title="Việt Nam",VTV 9
-http://203.162.123.178:8080/vtv9/index.m3u8
+http://220.158.149.28:8180/live/TV00000000000000000116@HHZT
+#EXTINF:-1 tvg-logo="https://images.careerbuilder.vn/employer_photo/172315/1_1470362643.jpg" group-title="Việt Nam",VTV Cab 13
+http://220.158.149.28:8180/live/TV00000000000000000106@HHZT
+
+
+
+http://220.158.149.28:8180/live/TV00000000000000000161@HHZT
+
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/97.png" group-title="Việt Nam",Giải Trí TV
 http://203.162.123.178:8080/vtvcab1/index.m3u8
