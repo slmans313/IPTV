@@ -646,16 +646,28 @@ http://118.69.197.145/hls/bptv1.m3u8
 http://118.69.197.145/hls/bptv2.m3u8
 #EXTINF:-1 tvg-logo="http://brt.vn/common/v2/images/Banner150219.png" group-title="Việt Nam",BRT
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/06/707779-Binh-Thuan.png" group-title="Việt Nam",BTV
-http://202.43.109.142:1935/thbttv/bttv/chunklist_w338975695.m3u8
+#EXTINF:-1 tvg-logo="http://thbl.vn/btv.png" group-title="Việt Nam",Bac Lieu TV
+http://118.69.205.213/thbl/thbl.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/861.png" group-title="Việt Nam",Binh Thuan TV
+http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp1.png" group-title="Việt Nam",Binh Phuoc TV 1
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:-1 tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp2.png" group-title="Việt Nam",Binh Phuoc TV 2
+http://118.69.197.145/hls/bptv2.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/691.png" group-title="Việt Nam",Cà Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png?" group-title="Việt Nam",Can Tho TV
+https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png" group-title="Việt Nam",Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png" group-title="Việt Nam",Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/471.png" group-title="Việt Nam",DRT
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/471.png" group-title="Việt Nam",Dak Lak TV
 http://118.69.161.9:8134/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png" group-title="Việt Nam",	DongThapTV
+http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png" group-title="Việt Nam",	DongThapTV
+http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="Việt Nam",Hanoi TV1
 http://203.162.123.178:8080/hanoi1/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="Việt Nam",Hanoi TV2
@@ -692,8 +704,6 @@ https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png" group-title="Việt Nam",THDT
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w1073711647.m3u8
-#EXTINF:-1 tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png?" group-title="Việt Nam",THTPCT
-https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Việt Nam",THHN
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/241.png" group-title="Việt Nam",THLC
