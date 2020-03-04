@@ -238,14 +238,16 @@ https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/BandSports.br.png" group-title="Português/Brasil",Band Sports
 http://proxyts.ec.cx:8082/hls1/bandsports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="Português/Brasil",Canal Off
+http://proxyts.ec.cx:8082/hls1/off.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo SP
 http://proxyts.ec.cx:8082/hls1/bobosp.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Globosat_wordmark.svg/1280px-Globosat_wordmark.svg.png group-title="Português/Brasil",Globosat
-http://proxyts.ec.cx:8082/hls1/maisbobosat.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Gnt.br.png" group-title="Português/Brasil",GNT
 http://proxyts.ec.cx:8082/hls1/gnt.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Gloob.br.png" group-title="Português/Brasil",Gloob
 http://proxyts.ec.cx:8082/hls1/gloob.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1200px-Mais_Globosat_logo_2016.svg.png" group-title="Português/Brasil",Mais Globosat
+http://proxyts.ec.cx:8082/hls1/maisbobosat.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Multishow.br.png",Multishow
 http://proxyts.ec.cx:8082/hls1/multishow.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png",Rede Brasil
@@ -294,6 +296,12 @@ http://proxyts.ec.cx:8082/hls1/axn.m3u8
 http://proxyts.ec.cx:8082/hls1/amc.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="Português/Brasil",Animal Planet Brasil
 http://proxyts.ec.cx:8082/hls1/animalplanet.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Boomerang.de.png" group-title="Português/Brasil",Boomerang Brasil
+http://proxyts.ec.cx:8082/hls1/boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Português/Brasil",Cartoon Network Brasil
+http://proxyts.ec.cx:8082/hls1/cartoon.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png" group-title="Português/Brasil",Comedy Central Brasil
+http://proxyts.ec.cx:8082/hls1/comedycentral.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Português/Brasil",Discovery Brasil
 http://proxyts.ec.cx:8082/hls1/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Português/Brasil",Investigation Discovery Brasil
@@ -308,10 +316,14 @@ http://proxyts.ec.cx:8082/hls1/discoverycivilization.m3u8
 http://proxyts.ec.cx:8082/hls1/discoverytheater.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DisneyXD.us.png" group-title="Português/Brasil",Disney XD Brasil
 http://proxyts.ec.cx:8082/hls1/disneyxd.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="Português/Brasil",Food Network Brasil
+http://proxyts.ec.cx:8082/hls1/foodnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Português/Brasil",Fox Brasil
 http://proxyts.ec.cx:8082/hls1/fox.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/FOXPremium1.br.png" group-title="Português/Brasil",Fox Premium 1 Brasil
 http://proxyts.ec.cx:8082/hls1/foxpremium1.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="Português/Brasil",FX
+http://proxyts.ec.cx:8082/hls1/fx.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBO.br.png" group-title="Português/Brasil",HBO Brasil
 http://proxyts.ec.cx:8082/hls1/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBO2.br.png" group-title="Português/Brasil",HBO 2 Brasil
@@ -322,16 +334,32 @@ http://proxyts.ec.cx:8082/hls1/hboplus.m3u8
 http://proxyts.ec.cx:8082/hls1/hbofamily.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Português/Brasil",HBO Signature Brasil
 http://proxyts.ec.cx:8082/hls1/hbosignature.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Logo-hboPOP2020.png/revision/latest/scale-to-width-down/340?cb=20191230061111" group-title="Português/Brasil",HBO Pop Brasil
+http://proxyts.ec.cx:8082/hls1/maxup.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="Português/Brasil",History
+http://proxyts.ec.cx:8082/hls1/history.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Lifetime.br.png" group-title="Português/Brasil",Lifetime
 http://proxyts.ec.cx:8082/hls1/lifetime.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Português/Brasil",MTV Brasil
 http://proxyts.ec.cx:8082/hls1/mtv.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Português/Brasil",National Geo Brasil
+http://proxyts.ec.cx:8082/hls1/natgeo.m3u8
+ #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Português/Brasil",National Geo Wild Brasil
+http://proxyts.ec.cx:8082/hls1/natgeowild.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Português/Brasil",Nickelodeon Brasil
 http://proxyts.ec.cx:8082/hls1/nick.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/NickJr.ee.png" group-title="Português/Brasil",Nick JR Brasil
 http://proxyts.ec.cx:8082/hls1/nickjr.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Space.br.png" group-title="Português/Brasil",Space
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Português/Brasil",Paramount Brasil
+http://proxyts.ec.cx:8082/hls1/paramount.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sony.br.png" group-title="Português/Brasil",Sony Brasil
+http://proxyts.ec.cx:8082/hls1/sony.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Space.br.png" group-title="Português/Brasil",Space Brasil
 http://proxyts.ec.cx:8082/hls1/space.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Studiouniversal.br.png" group-title="Português/Brasil",Studio Universal
+http://proxyts.ec.cx:8082/hls1/studiouniversal.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Syfy.uk.png" group-title="Português/Brasil",Syfy Brasil
+http://proxyts.ec.cx:8082/hls1/syfy.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineAction.br.png" group-title="Português/Brasil",Telecine Action
 http://proxyts.ec.cx:8082/hls1/telecineaction.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineCult.br.png" group-title="Português/Brasil",Telecine Cult
@@ -342,54 +370,24 @@ http://proxyts.ec.cx:8082/hls1/telecinefun.m3u8
 http://proxyts.ec.cx:8082/hls1/telecinepremium.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePipoca.br.png" group-title="Português/Brasil",TeleCine Pipoca
 http://proxyts.ec.cx:8082/hls1/telecinepipoca.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Tooncast.br.png" group-title="Português/Brasil",Tooncast
+http://proxyts.ec.cx:8082/hls1/tooncast.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/TLC.de.png" group-title="Português/Brasil",TLC Brasil
 http://proxyts.ec.cx:8082/hls1/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/TNT.pl.png" group-title="Português/Brasil",TNT Brasil
 http://proxyts.ec.cx:8082/hls1/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TNTSeries.br.png" group-title="Português/Brasil",TNT Series
+http://proxyts.ec.cx:8082/hls1/tntseries.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/TVN-Brasil-webtvonlive.com_.jpg" group-title="Português/Brasil",TVN Brasil
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2014/04/logo.png" group-title="Português/Brasil",TV Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Português/Brasil",Warner TV Brasil
+http://proxyts.ec.cx:8082/hls1/warner.m3u8
 #EXTINF:-1 tvg-logo="https://webmusic.tv/uploads/custom-logo.png" group-title="Português/Brasil",Web Music TV
 http://stmv1.ifantasy.com.br/webmusictv/webmusictv/playlist.m3u8
-
-
-#EXTINF:-1,Warner TV
-http://proxyts.ec.cx:8082/hls1/warner.m3u8
-#EXTINF:-1,History
-http://proxyts.ec.cx:8082/hls1/history.m3u8
-#EXTINF:-1,Boomerang
-http://proxyts.ec.cx:8082/hls1/boomerang.m3u8
-#EXTINF:-1,Cartoon
-http://proxyts.ec.cx:8082/hls1/cartoon.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://proxyts.ec.cx:8082/hls1/natgeowild.m3u8
-#EXTINF:-1,Tooncast
-http://proxyts.ec.cx:8082/hls1/tooncast.m3u8
-#EXTINF:-1,Comedy Central
-http://proxyts.ec.cx:8082/hls1/comedycentral.m3u8
-#EXTINF:-1,FX
-http://proxyts.ec.cx:8082/hls1/fx.m3u8
-#EXTINF:-1,Sony
-http://proxyts.ec.cx:8082/hls1/sony.m3u8
-#EXTINF:-1,OFF
-http://proxyts.ec.cx:8082/hls1/off.m3u8
-#EXTINF:-1,Nat Geo
-http://proxyts.ec.cx:8082/hls1/natgeo.m3u8
-#EXTINF:-1,Syfy
-http://proxyts.ec.cx:8082/hls1/syfy.m3u8
-#EXTINF:-1,Paramount
-http://proxyts.ec.cx:8082/hls1/paramount.m3u8
-#EXTINF:-1,TNT Series
-http://proxyts.ec.cx:8082/hls1/tntseries.m3u8
-#EXTINF:-1,HBO POP
-http://proxyts.ec.cx:8082/hls1/maxup.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/UniversalChannel.mx.png" group-title="Português/Brasil",Universal Brasil
 http://proxyts.ec.cx:8082/hls1/universal.m3u8
-#EXTINF:-1,Studio Universal
-http://proxyts.ec.cx:8082/hls1/studiouniversal.m3u8
-#EXTINF:-1,Food
-http://proxyts.ec.cx:8082/hls1/foodnetwork.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/LA1.es.png" group-title="Español",LA 1
@@ -436,7 +434,7 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 https://livestartover.atresmedia.com/nova/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Neox.es.png" group-title="Español",Neox
 https://livestartover.atresmedia.com/neox/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Español",Paramount Channel Spain
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Español",Paramount Español
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Telecinco.es.png" group-title="Español",Telecinco 
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
@@ -588,8 +586,11 @@ https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/59e4c1ec_1_850000/c
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png" group-title="Argentina",Conexion Abierta
 http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_canal_encuentro_2016.png" group-title="Argentina",Encuentro
+https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_1280x720_2200k.m3u8
 #EXTINF:-1 tvg-logo="https://nacionfm.com/wp-content/uploads/logo2-e1535626270753.png" group-title="Argentina",TVN Canal 27
 https://5b3050bb1b2d8.streamlock.net/tvmlive/tvmlive/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina",Canal Provinical
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Argentina",Ciudad
@@ -598,14 +599,18 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="Argentina",CN3 
 http://wowza.telpin.com.ar:1935/Canal3/Canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Deportv-en-vivo-Online.png" group-title="Argentina",Depor TV
+https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master_960x540_1400k.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="Argentina",El Garage
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png" group-title="Argentina",EL TV10 Salta
+https://59c5c86e10038.streamlock.net/8098/8098/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina",Litus 
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="Argentina",Multvision
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png" group-title="Argentina",EL TV10 Salta
-https://59c5c86e10038.streamlock.net/8098/8098/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png" group-title="Argentina",Pakapaka
+https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
 #EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="Argentina",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://b.canalnet.tv/wp-content/uploads/2019/10/cumplea%C3%B1os-net-logo.png" group-title="Argentina",NET TV 
