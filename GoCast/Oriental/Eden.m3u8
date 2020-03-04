@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="رياضات",Abu Dhabi Sports 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports2.ae.png" group-title="رياضات",Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports3.ae.png" group-title="رياضات",Abu Dhabi Sports 3
-http://adtv.ercdn.net/adsport3/adsport3_1080p.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports4.ae.png" group-title="رياضات",Abu Dhabi Sports 4
-http://adtv.ercdn.net/adsport4/adsport4_1080p.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="رياضات",Al Kass Sports 1 
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1abyrsb/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="رياضات",Al Kass Sports 2
@@ -236,7 +236,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/addrama_logo.png" group-title="ماراتيين",Abu Dhabi Drama
 http://adtv.ercdn.net/addrama/addrama_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="ماراتيين",Alaan TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
+http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="ماراتيين",,Abu Dhabi Emarat
 http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Cb53JquW4AA_-o9.jpg" group-title="ماراتيين",Al Wousta TV
@@ -282,7 +282,7 @@ http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/SamaDubai.ae.png" group-title="ماراتيين",Sama Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 #EXTINF:-1 tvg-logo="http://sharjahart.org/images/uploads/site-images/_thumbnail-image-retina/SBA-Logo-Secure-Spaces--Colors-%28002%29.png" group-title="ماراتيين",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="ماراتيين",Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w814636843_b1296000_slAR.m3u8
 #EXTINF:-1 tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg" group-title="ماراتيين",Wanasah
@@ -353,6 +353,8 @@ https://live.playstop.me/LS-63503-4/index.m3u8
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Navahang_Records.png" group-title="العراق",Navahang
 http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/mifa-icon.png" group-title="العراق",Mifa
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mohabat.tv/wp-content/uploads/2018/03/logo-1.png" group-title="العراق",Mohabat TV
 http://51.158.175.55/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://maahtvplus.com/wp-content/uploads/2019/02/mahtvplus-logo.png" group-title="العراق",Movie Plus
@@ -365,6 +367,10 @@ http://iptv.rangarang.us/live/playlist.m3u8
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sat7pars.com/static/img/logo.jpg" group-title="العراق",Sat 7 Pars
 http://unirtmp.tulix.tv:1935/sat7pars/satparslive-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/river-icon.png" group-title="العراق",River
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/rubix-icon.png" group-title="العراق",Rubix
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ipetitions.com/user-images/petitions/objection-to-voa-persian/loz0oZbiRuWlx5csWgCR_VOA_FARSI_LIVESTATION-1.png" group-title="العراق",صدای آمریکا
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana 1
@@ -820,6 +826,12 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://live.rts.sn/assets/images/rts/rts1sd.png" group-title="Senegal",RTS 1
 https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b5/8d/8b/b58d8bd93eeca728426b5fafcdf4d50a.png" group-title="السودان",Sudan TV
+http://217.182.137.206/sudantv.m3u8
+#EXTINF:-1 tvg-logo="https://www.sudania24.tv/images/logo.png" group-title="السودان",Sudania 24
+http://217.182.137.206/sudania24.m3u8
+#EXTINF:-1 tvg-logo="https://www.embratoria.net/uploads/tv_image/sudan-drama.png" group-title="السودان",Sudan Drama
+http://217.182.137.206/sudan_drama.m3u8
 #EXTINF:-1 tvg-logo="http://mahgoubsons.com/wp/wp-content/uploads/2017/10/BNTV_logo.png" group-title="السودان",Blue Nile
 http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 
