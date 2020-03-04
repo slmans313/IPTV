@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/3/2019/01/And-Tv-logo.png" group-title="मनोरंजन",& TV
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="मनोरंजन",Animal Planet हिन्दी
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="मनोरंजन",Colors
@@ -38,7 +40,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="मनोरंजन",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://753619.smushcdn.com/1323606/wp-content/uploads/2019/04/logo_site-768x345.png?lossy=1&strip=1&webp=1" group-title="मनोरंजन",The Q
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/170x120/qindia_1170x658.png" group-title="मनोरंजन",The Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="मनोरंजन",Zee TV
 https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
@@ -78,6 +80,8 @@ https://streamidvo.multitvsolution.in/IndiaNewsUP-g/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.newsx.com/wp-content/uploads/2019/09/up-uk-6-104289-RhlOsVLc.png" group-title="न्यूज़",Surya Samachar
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/pictureshd386x3_1451631172.png" group-title="फ़िल्म",& Pictures
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood HD
 https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/B4UMovies.in.png" group-title="फ़िल्म",B4U Movies
@@ -108,6 +112,8 @@ https://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="फ़िल्म",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_list/h2logo386x386_1179056338.png" group-title="फ़िल्म",Zee Bollywood
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="संगीत",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
