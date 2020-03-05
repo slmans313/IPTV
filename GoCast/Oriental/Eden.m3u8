@@ -211,11 +211,12 @@ http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.embratoria.net/uploads/tv_image/lana-plus.png" group-title="سوريا",Lana Plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="سوريا",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريا",Alikhbaria TV
 http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://alkhabar-sy.com/wp-content/uploads/2017/04/logo1.png" group-title="سوريا",Al Khabar
+http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريا",Syrian Education
 http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.gov.online/rtv_icons/syrian_logo.png" group-title="سوريا",Syrian Satellite
@@ -223,15 +224,21 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_sat
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sy/SyriaDrama.sy.png" group-title="سوريا",Syrian Drama TV
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="سوريا",Sama TV
-http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1 tvg-logo="http://www.ortas.gov.online/rtv_icons/nour_logo.png" group-title="سوريا",Nour Elsham TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.online/rtv_icons/nour_logo.png" group-title="سوريا",Noor Al-Sham
 http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريا",Radio Souryana
 http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ortas.online/rtv_icons/ugarit_logo.png" group-title="سوريا",Ugarit TV 
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
-#EXTINF:-1 tvg-logo="https://orient-news.net/tamplate/new/shared/images/Orient-NET1.png" group-title="سوريا",Orient TV
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sy/OrientTV.sy.png" group-title="سوريا",Orient TV
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist_1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="",Spacetoon
 
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" group-title="ماراتيين",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
@@ -285,11 +292,10 @@ http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 #EXTINF:-1 tvg-logo="http://sharjahart.org/images/uploads/site-images/_thumbnail-image-retina/SBA-Logo-Secure-Spaces--Colors-%28002%29.png" group-title="ماراتيين",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="ماراتيين",Spacetoon
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/SpaceToon.sa.png" group-title="ماراتيين",Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w814636843_b1296000_slAR.m3u8
 #EXTINF:-1 tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg" group-title="ماراتيين",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/5.png" group-title="اليمن",Yemen TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
@@ -299,15 +305,12 @@ https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
 http://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/1.png" group-title="العراق",IRIB 1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv2.ir/Resource/images/header-logo.png" group-title="العراق",IRIB 2
 https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/3.ir.png" group-title="العراق",IRIB 3 
 https://api.telewebion.com/v2/tv3/live.m3u8
-
-https://sl32.telewebion.com/devices/_definst_/tv4-500k.stream/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/4-min.png" group-title="العراق",IRIB 4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/5.png" group-title="العراق",IRIB 5
@@ -335,12 +338,6 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 https://bozztv.com/36bay2/in/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ebc1.tv/wp-content/uploads/2016/11/logoo.jpg" group-title="العراق",EBC 1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/ghm.png" group-title="العراق",GHM TV
-https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/7cc920348532e7cc63e15024fe5c1a57.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/glory.png" group-title="العراق",Glory TV
-https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/db2545515c456c8ff5d2ba3c474838e3.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://hopecity.com.co/wp-content/uploads/2019/07/hopecity.png" group-title="العراق",HopeCity TV
-https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/f452c68e7b76ad89f969273ee3c4b859.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod HD
 http://51.158.184.234/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod
