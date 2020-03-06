@@ -519,23 +519,6 @@ http://87.252.229.252:8083/pinsk
 http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eesti_Televisioon_Logo.svg/300px-Eesti_Televisioon_Logo.svg.png" group-title="Eesti",ETV
-https://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/300px-ETV2_logo.svg.png" group-title="Eesti",ETV 2
-https://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv3/logo.png" group-title="Latvija",TV3 Eesti
-http://185.176.117.243/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TV62018.jpg/230px-TV62018.jpg" group-title="Eesti",TV6 Eesti
-http://185.176.117.243/live/eds/TV6_EE_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://kanal11.postimees.ee/img/header-logo.png" group-title="Eesti",Kanal 11
-https://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://kanal12.postimees.ee/img/header-logo.png" group-title="Eesti",Kanal 12
-https://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="Eesti",Tallinna
-https://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sports_full_color_35.png/300px-Sports_full_color_35.png" group-title="Eesti",TV Play Sports
-http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="საქართველო",პირველი არხი
 http://188.93.95.34/gpb-1tv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ajaratv.ge/img/logo.png" group-title="საქართველო",აჭარის ტელევიზია
@@ -677,31 +660,19 @@ http://stream.onlinetv.kg/Streaming/HLSAndroid/19/129/af2812cb630f4906adfd06a5c6
 #EXTINF:-1 tvg-logo="http://namba.kg/tv/ima/htvkg.png" group-title="Кыргызстан",Хамелеон ТВ: Телеканал
 http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/lnt/logo.png" group-title="Latvija",LNT
-https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lv/LTV1.lv.png" group-title="Latvija",LTV1
-https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://ltv.lsm.lv/assets/channel/logo2.png" group-title="Latvija",LTV7
-https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/kanals2/logo.png" group-title="Latvija",Kanals 2
-https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv3/logo.png" group-title="Latvija",TV3 Latvija
-https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/3plus/logo.png" group-title="Latvija",3+ Latvija
-https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://neskaties.lv/misc/tv6/logo.png" group-title="Latvija",TV6 Latvija
-https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="http://en.1bma.lv/uploaded/spaw/images/1m.jpg" group-title="Latvija",1 Baltic Music
-https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://chaula.tv/static/chaulatv/css/images/big_logo.png" group-title="Latvija",Chau
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/ETV.ee.png" group-title="Baltic States",ETV (Eesti)
+https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/ETV2.ee.png" group-title="Baltic States",ETV 2(Eesti)
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval0/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/ETVPlus.ee.png group-title="Baltic States",ETV+ (Eesti)
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lt/LRTLituanica.lt.png" group-title="Baltic States",LRT Lituanica(Lietuva)
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/LRT_radijas.jpg" group-title="Baltic States",LRT Radijas(Lietuva)
+https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam2_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://chaula.tv/static/chaulatv/css/images/big_logo.png" group-title="Baltic States",Chau (Latvija)
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lt/TV3.lt.png" group-title="Lietuva",TV3 Lietuva
-http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lt/TV6.lt.png" group-title="Lietuva",TV6 Lietuva
-http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lt/TV8.lt.png" group-title="Lietuva",TV8 Lietuva
-http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png" group-title="Moldova",Moldova 1
 http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
@@ -728,7 +699,7 @@ http://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1 tvg-logo="http://telem.ro/wp-content/uploads/2018/07/cropped-telem-sigla-site.png" group-title="Moldova",Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv8.md/wp-content/uploads/2018/12/logo-tv8-new.png" group-title="Moldova",TV8
-http://live.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=1
+http://live.cdn.tv8.md/TV7/video2.m3u8?token=1
 #EXTINF:-1 tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" group-title="Moldova",TVR Moldova 
 http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8 
 
