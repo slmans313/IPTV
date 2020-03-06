@@ -554,6 +554,21 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Казахстан",Первый канал Евразия
 http://89.106.234.4:80/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV
+https://kazakhtvkz.ultraiptv.com/live_kz/playlist3/index.m3u8
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV(English)
+http://kazakhtvru.ultraiptv.com/live_en/playlist3/index.m3u8
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV(русском)
+http://kazakhtvru.ultraiptv.com/live_ru/playlist3/index.m3u8
+#EXTINF:-1 tvg-logo="https://cache-khabar.cdnvideo.ru/templates/gk_news/images/logo.png" group-title="Казахстан",Khabar
+http://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://elarna.kz/images/Logo_ElArna.png" group-title="Казахстан",Ел Арна
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tamashakz.tv/images/logo-light.png" group-title="Казахстан",Tamasha
+https://tamasha.rtrk.kz/tamasha_720/tamasha_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv7.kz/wp-content/themes/tv7/images/logo.png" group-title="Казахстан",7 канал
 https://sc.id-tv.kz/7_kanal_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i1.cdnnurtv.net/6ee9b60cd5c80ddace1a0ec10b7a32546d0a6e9a.jpg" group-title="Казахстан",31 Канал
@@ -576,8 +591,6 @@ http://89.106.234.4:80/STS_34_35.m3u8
 http://89.106.234.4:80/STV_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1176751402514862080/-H7xoqbS_400x400.jpg" group-title="Казахстан",Dombyra TV
 https://sc.id-tv.kz/Dombyra_38_39.m3u8
-#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/upload/anounces/big_7bf88eac91a1cad134014240280c5899.jpg" group-title="Казахстан",Ел Арна
-https://sc.id-tv.kz/ElArna_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://novoetv.kz/wp-content/uploads/2019/07/logo-hd.png" group-title="Казахстан",Новое ТВ
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Pjatnica.ru.png" group-title="Россия",Пятница! International
@@ -588,8 +601,7 @@ http://89.106.234.4:80/HalykArna_34_35.m3u8
 http://89.106.234.4:80/Gakku_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="Казахстан",Рен International
 http://89.106.234.4:80/RenTV_34_35.m3u8
-#EXTINF:-1 tvg-logo="http://tamashakz.tv/images/logo-light.png" group-title="Казахстан",Tamasha
-https://tamasha.rtrk.kz/tamasha_720/tamasha_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo2019.png" group-title="Казахстан",MTRK
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ktk.kz/images/logo/2018-light.png" group-title="Казахстан",KTK
@@ -602,12 +614,7 @@ http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8
 http://onrez.kaztrk.kz/regional/taraztv/index.m3u8 
 #EXTINF:-1 tvg-logo="http://oraltv.kz/assets/regions/logo/aqjaiyq.png?v=1" group-title="Казахстан",Oral
 http://onrez.kaztrk.kz/regional/oraltv/index.m3u8 
-#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV(English)
-http://kazakhtvru.ultraiptv.com/live_en/playlist3/index.m3u8
-#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV(Казахстан)
-http://kazakhtvru.ultraiptv.com/live_en/playlist3/index.m3u8
-#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV(русском)
-http://kazakhtvru.ultraiptv.com/live_ru/playlist3/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://kokshetautv.kz/assets/regions/logo/kokshe.png" group-title="Казахстан",Ko’kokshe
 http://onrez.kaztrk.kz/regional/kokshetautv/index.m3u8 
 #EXTINF:-1 tvg-logo="http://shymkenttv.kz/assets/regions/logo/ontustik.png" group-title="Казахстан",Ontustik
@@ -622,8 +629,9 @@ http://onrez.kaztrk.kz/regional/karagandytv/index.m3u8
 http://onrez.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 tvg-logo="http://tdk42.kz/wp-content/themes/tdk42/images/logo_20.png" group-title="Казахстан",ТДК 42
 https://sc.id-tv.kz/TDK-42_38_39.m3u8
-#EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Хабар 24
-http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",hdl HD
 http://89.106.234.4:80/hdl_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",О!
