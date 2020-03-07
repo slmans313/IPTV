@@ -45,6 +45,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/ReteQuattro.it.png" group-title="Italia",Rete 4
 http://5.135.92.133:52841/out/u/435_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Spike.uk.png" group-title="Italia",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Real_Time_E.svg/1200px-Discovery_Real_Time_E.svg.png" group-title="Italia",Real Time 
 http://5.135.92.133:52841/out/u/113_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Tgcom24.it.png" group-title="Italia",TGCom 24
@@ -348,7 +350,7 @@ http://proxyts.ec.cx:8082/hls1/lifetime.m3u8
 http://proxyts.ec.cx:8082/hls1/mtv.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Português/Brasil",National Geo Brasil
 http://proxyts.ec.cx:8082/hls1/natgeo.m3u8
- #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Português/Brasil",National Geo Wild Brasil
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Português/Brasil",National Geo Wild Brasil
 http://proxyts.ec.cx:8082/hls1/natgeowild.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Português/Brasil",Nickelodeon Brasil
 http://proxyts.ec.cx:8082/hls1/nick.m3u8
@@ -382,6 +384,8 @@ http://proxyts.ec.cx:8082/hls1/tlc.m3u8
 http://proxyts.ec.cx:8082/hls1/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TNTSeries.br.png" group-title="Português/Brasil",TNT Series
 http://proxyts.ec.cx:8082/hls1/tntseries.m3u8
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="Português/Brasil",Trace Brazuka
+https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/TVN-Brasil-webtvonlive.com_.jpg" group-title="Português/Brasil",TVN Brasil
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2014/04/logo.png" group-title="Português/Brasil",TV Gazeta
@@ -442,8 +446,6 @@ https://livestartover.atresmedia.com/neox/bitrate_4.m3u8
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Telecinco.es.png" group-title="Español",Telecinco 
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Spike.uk.png" group-title="Español",Spike
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/TNT.pl.png" group-title="Español",TNT Español
 http://5.101.145.18:4000/tnt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" group-title="Español",TPA 7
@@ -787,7 +789,8 @@ http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
 http://mangotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="República Dominicana",Teleuniverso
 http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/TraceUrban.za.png" group-title="República Dominicana",Trace Urban Dom
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/nago.tv/wp-content/uploads/2019/04/NAGO-TV-LOGO-BON.png" group-title="Ayiti",Nago TV
 https://lakay.haitilive.net/hb/nagotv/web/index.m3u8
@@ -803,6 +806,8 @@ https://watch.haitilive.net/FreeTV/!/eclairHD/index.m3u8
 http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_lumi/as/live/hln_lumi_4.m3u8
 #EXTINF:-1 tvg-logo="http://haitien.tulix.tv/channels/logo/t-l-soleil.jpg" group-title="Ayiti",Tele Soleil
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" group-title="Ayiti",TTrace Ayti
+http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://radiotele6univers.net/wp-content/uploads/2019/11/head-logo-radio-tele-6-univers.png" group-title="Ayiti",Radio Télé 6 Univers
 https://lakay.haitilive.net/app/tvlakay/tele6univers/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13525g.png" group-title="Ayiti",Radio Télé Ginen
