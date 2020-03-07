@@ -537,11 +537,11 @@ http://192.200.120.82:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="粵語",翡翠台 HD
 https://app.kds.tw/live/tvb1.php?id=jade&u=123456
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="粵語",翡翠J2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBJ2.hk.png" group-title="粵語",翡翠J2
 https://app.kds.tw/live/tvb1.php?id=j2&u=123456
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="粵語",翡翠明珠
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="粵語",翡翠明珠
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="粵語",翡翠明珠 HD
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="粵語",翡翠明珠 HD
 https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="粵語",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
@@ -862,6 +862,8 @@ http://203.162.235.41:16901
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK BSプレミアム
 http://203.162.235.41:16910
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title="日本",NHK World Premium
+http://160.119.77.50/iptv/sd-nhkpremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hC8bRk.png" group-title="日本",NHK 华语视界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003461/nhkwlive-zh/index_bitrate1180K.m3u8
 #EXTINF:-1 tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBSテレビ
