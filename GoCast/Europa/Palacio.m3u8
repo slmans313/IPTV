@@ -791,6 +791,8 @@ http://mangotv01.streamprolive.com/hls/live.m3u8
 http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/TraceUrban.za.png" group-title="República Dominicana",Trace Urban Dom
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title=""República Dominicana",Trace Tropical
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/nago.tv/wp-content/uploads/2019/04/NAGO-TV-LOGO-BON.png" group-title="Ayiti",Nago TV
 https://lakay.haitilive.net/hb/nagotv/web/index.m3u8
@@ -806,7 +808,7 @@ https://watch.haitilive.net/FreeTV/!/eclairHD/index.m3u8
 http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_lumi/as/live/hln_lumi_4.m3u8
 #EXTINF:-1 tvg-logo="http://haitien.tulix.tv/channels/logo/t-l-soleil.jpg" group-title="Ayiti",Tele Soleil
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
-#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" group-title="Ayiti",TTrace Ayti
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" group-title="Ayiti",Trace Ayti
 http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://radiotele6univers.net/wp-content/uploads/2019/11/head-logo-radio-tele-6-univers.png" group-title="Ayiti",Radio Télé 6 Univers
 https://lakay.haitilive.net/app/tvlakay/tele6univers/index.m3u8
@@ -833,9 +835,6 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848
 http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/533703173165580288/pS9Njeyj_400x400.jpeg" group-title="Honduras",Une TV
 http://181.189.225.36:8990/UneTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="Jamaica",Trace Tropical
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://amastv.com/img/logo_amas.png" group-title="México",A+ TV 7.2
 https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
@@ -885,8 +884,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicoyatv.com/images/multimedia/Logo-INI.png" group-title="México",Nicoya TV
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_685.png" group-title="México",Presumiendo
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
