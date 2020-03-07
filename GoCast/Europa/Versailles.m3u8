@@ -247,8 +247,6 @@ http://ott.artmott.com/Zeri/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sundance-TV
 http://ott.artmott.com/Sundance-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Euro Channel
-http://84.22.33.214/EuroChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery CH
 http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
 #EXTINF:-1,gurmania
@@ -261,8 +259,6 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
 #EXTINF:-1,euro sport 1
 http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FashionTV
-http://ott.artmott.com/FashionTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Suite
 http://ott.artmott.com/Suite/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Dielli
@@ -273,10 +269,6 @@ http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
 http://vod.artmott.com/tvvali/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV llapi
 http://vod.artmott.com/TV-llapi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rrokum
-http://ott.artmott.com/Rrokum/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Trave lingo
-http://ott.artmott.com/Travelingo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Kanali 6
 http://vod.artmott.com/Kanali6/tracks-v1a1/mono.m3u8
 #EXTINF:-1,luxe tv
@@ -297,8 +289,6 @@ http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
 http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
 #EXTINF:-1,CLICK
 http://84.22.33.254/unicast.click/video.m3u8
-#EXTINF:-1,vavoom
-http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" group-title="Österreich",ORF 1
@@ -384,6 +374,8 @@ http://37.59.21.217:8809/live/tv5web.m3u8
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvtopsound.com/design/images/logo-novi-7.png" group-title="Bosna",Sofia
 http://84.22.33.254/unicast.sofia/index.m3u8
+#EXTINF:-1 tvg-logo="https://totaltv.tv/oec/images/tv_channels/3b19ab550a26152955ebb827d2ddd5f8.png" group-title="Bosna",Vavoom
+http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/24Kitchen.tr.png" group-title="България",24 Kitchen България
 https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
