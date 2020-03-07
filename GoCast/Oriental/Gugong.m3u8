@@ -12,6 +12,8 @@ https://w1live.livecdn.yicai.com/live/cbn.m3u8
 http://uhlive.videocc.net/recordfe/c08946f08620190726103829356/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻台",無綫新聞
 http://221.229.166.49:8080/tvb_news
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="新闻台",無綫新聞
+https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 #EXTINF:-1 tvg-logo="https://www.fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg" group-title="新闻台",無綫財經資訊
 http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="新闻台",有線新聞
@@ -536,11 +538,13 @@ http://192.200.120.82:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="粵語",翡翠台                  
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="粵語",翡翠台 HD
-http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m0800270e38b31200553&ct=17898&tsum=b39db993e81b9ff6ebac20dcbf4a1cdd
+https://app.kds.tw/live/tvb1.php?id=jade&u=123456
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="粵語",翡翠J2
-http://103.56.112.40/kds/aigt.php?id=12
+https://app.kds.tw/live/tvb1.php?id=j2&u=123456
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="粵語",翡翠明珠
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="粵語",翡翠明珠 HD
+https://app.kds.tw/live/tvb1.php?id=pearl&u=123456
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="粵語",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="粵語",TVB 星河频道
