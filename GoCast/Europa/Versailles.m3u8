@@ -821,6 +821,14 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Netherlands",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/NPO1.nl.png" group-title="Netherlands",NPO 1(Dutch VPN)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/npo1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/NPO3.nl.png" group-title="Netherlands",NPO 3(Dutch VPN)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/npo3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/NPONieuws.nl.png" group-title="Netherlands",NPO Nieuws
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/NPOPolitiek.nl.png" group-title="Netherlands",NPO Politiek
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
 #EXTINF:-1 tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png" group-title="Netherlands",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://l1.nl/static/img/social.png" group-title="Netherlands",L1mburg ﻿﻿
