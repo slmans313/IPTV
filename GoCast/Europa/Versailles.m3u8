@@ -106,6 +106,8 @@ http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtvbesa.com/wp-content/uploads/2016/11/download.png" group-title="Shqipëria/Kosovës",Besa TV
 http://84.22.33.254/unicast.tvbesa/index.m3u8
+#EXTINF:-1 tvg-logo="http://artmotion.net/wp-content/uploadimet/2018/11/ext.jpg" group-title="Shqipëria/Kosovës",Beat TV
+http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/BBF.png" group-title="Shqipëria/Kosovës",BBF
 http://84.22.33.254/unicast.bbf/index.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Club%20TV.png" group-title="Shqipëria/Kosovës",Club TV
@@ -169,11 +171,13 @@ http://84.22.33.254/unicast.mtvkosova/index.m3u8
 #EXTINF:-1 tvg-logo="http://balkanweb.com/news24/live/images/logolive.png" group-title="Shqipëria/Kosovës",News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://opoja.tv/wp-content/uploads/2018/10/Final-300x113.png" group-title="Shqipëria/Kosovës",Opoja
-https://54627d4fc5996.streamlock.net/tvopoja/tvopoja/playlist.m3u8
+http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Pikaboo.png" group-title="Shqipëria/Kosovës",Pikaboo
 http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yMZj9fG.jpg" group-title="Shqipëria/Kosovës",Premium
 http://premium-channel.tv/stream.m3u8
+#EXTINF:-1 tvg-logo="http://positivegoldfm.net/index_files/logo.png" group-title="Shqipëria/Kosovës",Positive gold
+http://84.22.33.254/unicast.positivegold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Prince%20Kids.png" group-title="Shqipëria/Kosovës",Prince kids
 http://ott.artmott.com/princekids/video.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/PRIME.png" group-title="Shqipëria/Kosovës",Prime
@@ -182,6 +186,8 @@ http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
 http://95.107.132.131:3344/udp/238.20.15.5:9009
 #EXTINF:-1 tvg-logo="http://shkabaj.net/tv/img/tvnew_rtvilirida.png" group-title="Shqipëria/Kosovës",RTV Ilirida
 https://54627d4fc5996.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiokim.net/public/images/logo.png" group-title="Shqipëria/Kosovës",RTV Kim
+http://84.22.33.254/unicast.kim/video.m3u8
 #EXTINF:-1 tvg-logo="https://radiofontana.org/wp-content/uploads/2019/01/rtv-300x300.jpg" group-title="Shqipëria/Kosovës",RTV Fontana
 http://84.22.33.254/unicast.kutiatvhd/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.scan-tv.com/wp-content/uploads/2016/12/logo-default.png" group-title="Shqipëria/Kosovës",Scan Tv
@@ -196,6 +202,8 @@ http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/al/Smile.al.png" group-title="Shqipëria/Kosovës",Smile
 http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://artmotion.net/wp-content/uploadimet/2018/11/ext.jpg" group-title="Shqipëria/Kosovës",Suite TV
+http://ott.artmott.com/Suite/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Syri%20Vision.png" group-title="Shqipëria/Kosovës",Syri Vizion
 http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.televizioni7.com/wp-content/uploads/2018/04/T7-LOGO-White-e1523542525724.png" group-title="Shqipëria/Kosovës",T7
@@ -253,42 +261,12 @@ http://ott.artmott.com/Zeri/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Zico%20TV.png" group-title="Shqipëria/Kosovës",Zico
 http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Sundance-TV
-http://ott.artmott.com/Sundance-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Discovery CH
-http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Beat
-http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,euro sport 1
-http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Suite
-http://ott.artmott.com/Suite/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tv vali
-http://vod.artmott.com/tvvali/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV llapi
-http://vod.artmott.com/TV-llapi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kanali 6
-http://vod.artmott.com/Kanali6/tracks-v1a1/mono.m3u8
-#EXTINF:-1,luxe tv
-http://84.22.33.254/unicast.luxetv/video.m3u8
-#EXTINF:-1,tune box
-http://84.22.33.254/unicast.tunebox/video.m3u8
-#EXTINF:-1,kim
-http://84.22.33.254/unicast.kim/video.m3u8
-#EXTINF:-1,positive gold
-http://84.22.33.254/unicast.positivegold/tracks-v1a1/mono.m3u8
-#EXTINF:-1,kiss
-http://84.22.33.254/kiss/tracks-v1a1/mono.m3u8
-#EXTINF:-1,next
-http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" group-title="Österreich",ORF 1
 https://wer11.wertvlive.com/w10/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORF2.at.png" group-title="Österreich",ORF 2
 https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORF3.at.png" group-title="Österreich",ORF 3
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORF3.at.png" group-title="Österreich",ORF 3 (Österreich VPN)
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORFSport.at.png" group-title="Österreich",ORF Sport+
 https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
@@ -935,6 +913,8 @@ http://tv.vodafoneplay.is/n4/index.m3u8
 http://live01.rtl.lu/channel1/smil:channel1/chunklist_b4168000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Logo_2ten_RTL.jpg" group-title="Lëtzebuerg",Den 2. RTL
 http://live01.rtl.lu/channel2/smil:channel2/chunklist_b4168000_slltz.m3u8
+#EXTINF:-1 tvg-logo="https://www.thematv.com/images/channels/luxe-tv.png" group-title="Lëtzebuerg",Luxe TV
+http://84.22.33.254/unicast.luxetv/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.evoiptv.com/evotv%20icons/New%20IPTV%20Icons/discovermalta.png" group-title="Malta",Discover Malta
 http://www.evoiptv.com/hlsdiscover/hlsdiscover.m3u8
@@ -1119,7 +1099,7 @@ http://encoder.inedittv.ro:9090/seconds3hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/movingrecords.ro/wp-content/uploads/2016/11/KapitalTV-Spot-Noiembrie-2016.jpg" group-title="România",Kaptial TV
 http://163.172.172.80:8080/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://www.residentadvisor.net/images/promoter/ro-kissfmkisstv.jpg" group-title="România",Kiss TV
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
+http://84.22.33.254/kiss/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mooz.tv/site/img/mooz-dance1.png" group-title="România",KOOZ Dance
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://mooz.tv/site/img/mooz-hd.jpg" group-title="România",MOOZ HD
