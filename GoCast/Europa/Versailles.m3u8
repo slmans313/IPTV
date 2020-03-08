@@ -84,7 +84,10 @@ http://95.107.132.131:3344/udp/235.0.0.2:9009
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/d31311_0466676e81fe4ee2b92e07188fde7df3~mv2.jpg" group-title="Shqipëria/Kosovës",Albanian Television of America
 http://ad.mysisli.com/live/albtvusa/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/albanianculturetv.com/wp-content/uploads/2017/08/cropped-actv-logo-3d-white.png" group-title="Shqipëria/Kosovës",Albanian Culture
+http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-albuk-tv.jpg" group-title="Shqipëria/Kosovës",Albania UK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Art%20Doku%201.png" group-title="Shqipëria/Kosovës",Art Doku 1
 http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Art%20Doku%202.png" group-title="Shqipëria/Kosovës",Art Doku 2
@@ -101,7 +104,6 @@ http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Art%20Sport%203.png" group-title="Shqipëria/Kosovës",Art Sports 3
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.rtvbesa.com/wp-content/uploads/2016/11/download.png" group-title="Shqipëria/Kosovës",Besa TV
 http://84.22.33.254/unicast.tvbesa/index.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/BBF.png" group-title="Shqipëria/Kosovës",BBF
@@ -253,10 +255,6 @@ http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/gurmania/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Beat
 http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ALB UK
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1,alb_culture
-http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
 #EXTINF:-1,euro sport 1
 http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Suite
