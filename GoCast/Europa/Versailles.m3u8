@@ -110,6 +110,8 @@ http://84.22.33.254/unicast.tvbesa/index.m3u8
 http://84.22.33.254/unicast.bbf/index.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Club%20TV.png" group-title="Shqipëria/Kosovës",Club TV
 http://84.22.33.254/unicast.clubtv/video.m3u8
+#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Click%20TV.png" group-title="Shqipëria/Kosovës",Click
+http://84.22.33.254/unicast.click/video.m3u8
 #EXTINF:-1 tvg-logo="http://clicktv.al/images/click-logo.png" group-title="Shqipëria/Kosovës",Click Music
 http://84.22.33.254/unicast.clickal/index.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Cufo%20TV.png" group-title="Shqipëria/Kosovës",Cufo
@@ -255,8 +257,6 @@ http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Sundance-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery CH
 http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1,Beat
 http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
 #EXTINF:-1,euro sport 1
@@ -281,8 +281,7 @@ http://84.22.33.254/unicast.positivegold/tracks-v1a1/mono.m3u8
 http://84.22.33.254/kiss/tracks-v1a1/mono.m3u8
 #EXTINF:-1,next
 http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
-#EXTINF:-1,CLICK
-http://84.22.33.254/unicast.click/video.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" group-title="Österreich",ORF 1
