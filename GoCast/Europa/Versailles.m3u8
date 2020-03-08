@@ -248,13 +248,15 @@ http://51.15.180.159:8081/play/hls/dielli/index.m3u8
 http://alb.123alb.com:25461/live/l/l/2146.m3u8
 #EXTINF:-1 tvg-logo="http://mir-s3-cdn-cf.behance.net/project_modules/max_1200/720ff225623853.5634841f9c0a7.gif" group-title="Shqipëria/Kosovës",Zëri TV
 http://ott.artmott.com/Zeri/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Zico%20TV.png" group-title="Shqipëria/Kosovës",Zico
+http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sundance-TV
 http://ott.artmott.com/Sundance-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery CH
 http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
-#EXTINF:-1,gurmania
-http://ott.artmott.com/gurmania/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,Beat
 http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
 #EXTINF:-1,euro sport 1
@@ -277,8 +279,6 @@ http://84.22.33.254/unicast.kim/video.m3u8
 http://84.22.33.254/unicast.positivegold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,kiss
 http://84.22.33.254/kiss/tracks-v1a1/mono.m3u8
-#EXTINF:-1,zico
-http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
 #EXTINF:-1,next
 http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
 #EXTINF:-1,CLICK
@@ -1223,6 +1223,8 @@ http://62.210.205.41:8080/PINK/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Србија/Црна Гора",Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/322049/screenshots/2160331/gurmania.png" group-title="Србија/Црна Гора",Gurmania
+http://ott.artmott.com/gurmania/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://kliktv.rs/channels/kcn_1.png" group-title="Србија/Црна Гора",KCN Kopernikus 1
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
 #EXTINF:-1 tvg-logo="http://kliktv.rs/channels/kcn_2.png" group-title="Србија/Црна Гора",KCN Music 2
