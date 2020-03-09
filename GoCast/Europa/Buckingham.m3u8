@@ -464,14 +464,6 @@ http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/eurochannel/logo.png" group-title="Entertainment",Euro Channel
 http://84.22.33.214/EuroChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV Midnite
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="Entertainment",Fashion Box
-http://ott.artmott.com/FASHIONBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="Entertainment",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/pt/FoxLife.pt.png" group-title="Entertainment",FOX Life
@@ -498,7 +490,19 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://voxafrica.com/wp-content/uploads/2016/10/logo-screen.png" group-title="Entertainment",Vox Africa
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Entertainment",World Fashion TV 
+
+
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="Fashion",Fashion TV International
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="Fashion",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="Fashion",Fashion TV L'Original
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="Fashion",Fashion TV Midnight Secert
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="Fashion",Fashion Box
+http://ott.artmott.com/FASHIONBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Fashion",World Fashion TV 
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lethalproducts.com/wp-content/uploads/2016/03/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="Outdoor/Travel",Hunt Channel
