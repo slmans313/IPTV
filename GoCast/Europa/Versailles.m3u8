@@ -751,8 +751,14 @@ http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
 https://wer11.wertvlive.com/w7/video.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
 http://5.135.92.133:52841/out/u/127_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TNTSerie.de.png" group-title="Deutschland",TNT Serie
+http://78.35.117.2:10000/hdmi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sky_Sport_News_HD_Logo_2016.png/1200px-Sky_Sport_News_HD_Logo_2016.png" group-title="Deutschland",Sky Sports News Deutsch(Deutsch VPN)
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SkyAction.de.png" group-title="Deutschland",Sky Movies Action Deutsch
+http://78.35.117.2:10001/hdmi
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SkySport1.de.png" group-title="Deutschland",Sky Sport 1 Deutsch
+http://78.35.117.2:10004/hdmi
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
 http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/WDR.de.png" group-title="Deutschland",WDR Fernsehen
