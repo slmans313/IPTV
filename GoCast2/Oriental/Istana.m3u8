@@ -24,10 +24,6 @@ https://rtm1hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b206400
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 ch-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="东南亚",RTM Sports HD
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="东南亚",RTM Parlimen
-https://rtm2mobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="东南亚",RTB Sukmaindera
-https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 ch-id="NTV7" tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="东南亚",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 ch-id="8TV" tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="东南亚",8TV
@@ -38,15 +34,60 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 #EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="东南亚",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="东南亚",RTB Sukmaindera
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="东南亚",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/TVRI_3.png/revision/latest/scale-to-width-down/340?cb=20190323100849" group-title="东南亚",TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1111842868908318721/lMvLaebw_400x400.jpg" group-title="东南亚",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANTV.id.png" group-title="东南亚",ANTV
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=Lse1lRx5&v=20200202
+#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="东南亚",BeritaSatu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="东南亚",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="东南亚",SCTV
+https://delivery.macan.live/stream/id_sctv/index.m3u8?token=Lse1lRx5&v=20200202
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="东南亚",Indosiar
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/RCTI.id.png" group-title="东南亚",RCTI
+https://app-linier.akamaized.net/live/eds/RCTI/sa_hls/RCTI-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://gtv.id/images2020/logo.png" group-title="东南亚",GTV
+https://app-linier.akamaized.net/live/eds/GTV/sa_hls/GTV-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCTV.id.png" group-title="东南亚",MNC
+https://app-linier.akamaized.net/live/eds/MNC/sa_hls/MNC-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://img.inews.id/media/200/files/inews/inews_01.png" group-title="东南亚",I News
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
+#EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="东南亚",TV One
+https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
+#EXTINF:-1 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="东南亚",Metro
+https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574691189~exp=9007200829432180~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=59f27a77754b4c5320351dc4794eb66c2071caec48aef949c97b88a16e40dfe0&hdnts=st=1574691193~exp=1574691313~acl=/*~id=ea4e20a3-e056-4ca4-9902-dbae0dd98e93~data=36.82.100.15~hmac=2ef61d70928b0ade37fda927ff34cdb8f2d09b8558bd47f66e56301fc35419a9
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="东南亚",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="东南亚",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png" group-title="东南亚",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="东南亚",Kompas TV
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+#EXTINF:-1 tvg-logo="https://mytv.co.id/wp-content/uploads/2019/05/logo.png" group-title="东南亚",MYTV
+https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=1
+#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="东南亚",RTV
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
+#EXTINF:-1 tvg-logo="http://www.jawapos.tv/images/logo_jawapos.png" group-title="东南亚",Jawa Pos
+https://livetvhooq.akamaized.net/22c46cbe1f2747d1b4766a75d8b06f19/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582796203~exp=9007200837537194~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*/profile_2/chunklist.m3u8*~hmac=ba5ad8fe58195184e20bc0097c41944ac8c60bf812cbb2c5eaebbe9177f0956c&hdnts=st=1582796204~exp=1582796324~acl=/*~id=444764fc-ab71-402c-9c2f-94cf78fb764b~data=36.77.80.127~hmac=736ffc29671da79d6fb7c2e1b91ddb554417a4d19e825fa60859c96d46825004
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="东南亚",Da Ai Indonesia
+https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
+#EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="东南亚",Zee Bioskop
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
 #EXTINF:-1 ch-id="ช่อง 5/CH 5-TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="东南亚",ช่อง 5/CH 5-TH
 https://tv4.chang55.com/live2/tv4ch52.stream/chunks.m3u8
 #EXTINF:-1 ch-id="NBT-TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="东南亚",NBT-TH
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 #EXTINF:-1 ch-id="TPBS-TH" tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="东南亚",TPBS-TH
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="东南亚",TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 ch-id="TNN24-TH" tvg-logo="https://static.iptv-epg.com/th/TNN24.th.png" group-title="东南亚",TNN24-TH
 http://160.119.77.50/iptv/sd-tnn24.stream/playlist.m3u8
 #EXTINF:-1 ch-id="นิวทีวี/New TV-TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="东南亚",นิวทีวี/New TV-TH
@@ -79,6 +120,97 @@ http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 ch-id="PPTV-TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="东南亚",PPTV-TH
 http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="东南亚",GMA Pinoy
+http://164.40.161.43:10011
+#EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="东南亚",5
+http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://plus.tv5.com.ph/assets/images/5%20PLUS%20logo%202019%20final-01.png" group-title="东南亚",5 Plus
+http://stream3.news5.ph/n5e/5plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/CNNPhilippines.ph.png" group-title="东南亚",CNN Phillippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/TelenovelaChannel.ph.png"  group-title="东南亚",Telenovela Channel
+http://164.40.161.46:8003/play/s6
+#EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/157/157639/45392-294x165-FFFFFF.jpg" group-title="东南亚",Life TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753895989904367616/GvgKNn1u.jpg" group-title="东南亚",Inquirer 990 TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png"group-title="东南亚",Island Living on BEAM
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.poplife.com.ph/sites/default/files/styles/featured_schedule_image/public/thumbnail_poplifelogo_131.jpg" group-title="东南亚",POP Life
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="东南亚",UNTV Public
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="东南亚",MRTV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/MRTV.m3u8
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="东南亚",MRTV 4
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.videoinya.com/wp-content/uploads/2016/02/Hluttaw-channel.png" group-title="东南亚",MRTV Hluttaw
+http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
+#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-01-09_1.jpeg" group-title="东南亚",MRTV Farmer
+http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwd1.jpg" group-title="东南亚",MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwd-variety.jpg" group-title="东南亚",MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwdfamily2.jpg" group-title="东南亚",MWD Family
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Channel7.th.png" group-title="东南亚",Channel 7
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channel9.jpg" group-title="东南亚",Channel 9
+http://220.158.149.14:9999/live/TV00000000000000000091@HHZT;LIVE
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg" group-title="东南亚",Channel K
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+#EXTINF:-1 tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="东南亚",Mahar TV
+http://maharlive.b-cdn.net/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg" group-title="东南亚",Mahar Bawdi
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="东南亚",MVTV Myanmar
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="东南亚",Mizzima TV
+http://220.158.149.28:8180/TV00000000000000000170@HHZT
+#EXTINF:-1 tvg-logo="http://tbcccambodia.org/images/upload/members/12-Sep-2016/KCS.png" group-title="东南亚",TV3
+https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tv-online.im/wp-content/uploads/2013/05/tv5-Cambodia.jpg" group-title="东南亚",TV5
+https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-Apsara-TV-Live-TV-from-Cambodia.jpg" group-title="东南亚",Apsara Tv
+https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/index.m3u8
+#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/a/0/csm_15-400_import_ba7a7013a7.png" group-title="东南亚",Bayon TV
+https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/index.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-KGf_J9KiLxc/WdpKu8W2_zI/AAAAAAAAAMY/iA2zyoLL5dsc0p_RqGTYGZWjETPgW2EmwCLcBGAs/s1600/btv-news.jpg" group-title="东南亚",BTV News
+https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cnc.com.kh/img/logo.jpg" group-title="东南亚",CNC News
+https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/uploads/tx_lfrogmom/media/11-400_import.png" group-title="东南亚",CTN
+https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-qyDWAfgJiMw/VTTuhjVdf4I/AAAAAAAABC4/RnFxZknlJA4/s1600/CTV8HD.jpg" group-title="东南亚",CTV8
+https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg" group-title="东南亚",D Music
+https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.konsva.com/my_file/2017/04/etv.png" group-title="东南亚",ETV
+https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://khmer.fyi/images/portfolio/full/freshnews.png" group-title="东南亚",Fresh News
+http://167.99.65.12:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-WFY0qyWfUxQ/XDLeeUw8vJI/AAAAAAAAAM0/9bhL_Dw4TvUtiIC0BCdSMT3NqqbTt4PygCPcBGAYYCw/w115-h115-c/rhm.jpg" group-title="东南亚",Hang Meas HDTV
+https://1145067750.rsc.cdn77.org/LS-50041-SIN-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://mytv.com.kh/wp-content/uploads/2017/08/s5_logo-1-1.png" group-title="东南亚",myTV
+https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://happywatch99.com/assets/global/live_thumb/32.jpg" group-title="东南亚",Nice TV
+https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/index.m3u8
+#EXTINF:-1 tvg-logo="http://pnn.com.kh/assets/img/logo.png" group-title="东南亚",PNN
+https://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="东南亚",Rasmey Hang Meas
+https://1363455353.rsc.cdn77.org/LS-50041-SIN-4/index.m3u8
+#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/6/csm_18-400_import_9245798e06.png" group-title="东南亚",SEA TV
+http://220.158.149.14:9999/live/TV00000000000000000124@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://meai-imec.com/img/buyers/townTv.png" group-title="东南亚",Town TV
+https://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://cache.khmerlive.tv/tvk.png" group-title="东南亚",TVK 
+https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.konsva.com/my_file/2017/04/tv9.jpg" group-title="东南亚",TV9
+https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g3KXvbvwbuSuwZhm_RG--7rfCAvlnOsSzaLBFKd1XmRlHNxyvKzaf23GTmvsXm-OYg=s180-rw" group-title="东南亚",Wiki TV
+http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
+
 
 #EXTINF:-1 ch-id="FOX SPORTS HD/FOX SPORTS HD-TH" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",FOX SPORTS HD/FOX SPORTS HD-TH
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
@@ -100,15 +232,47 @@ http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
 http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1 ch-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5/True Premier Football HD5-TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="体育",ทรู พรีเมียร์ ฟุตบอล เอชดี 5/True Premier Football HD5-TH
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="体育",Skynet Sport HD
+http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tdedgolden.com/post-img/06122019142633-10102019170013-cxxc56.jpg" group-title="体育",Skynet Sport +
+http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="体育",Skynet Sport 1
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="体育",Skynet Sport 2
+http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="体育",Skynet Sport 3
+http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="体育",Skynet Sport 4
+http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="体育",Skynet Sport 5
+http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="体育",Skynet Sport 6
+http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
 #EXTINF:-1 ch-id="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV5
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 ch-id="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
-#EXTINF:-1 ch-id="CNN" tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="新闻",CNN
-http://84.22.33.254/unicast.cnn/video.m3u8
+#EXTINF:-1 ch-id="Arirang" logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="新闻",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ch-id="aljazeera" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",aljazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 ch-id="BBCWorldNews" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="新闻",BBCWorldNews
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
+#EXTINF:-1 ch-id="Euronews" tvg-logo="http://static.iptv-epg.com/ru/Euronews.ru.png" group-title="新闻",Euronews
+http://61.58.60.230:9319/live/129.m3u8
+#EXTINF:-1 ch-id="CNN" tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="新闻",CNN
+http://84.22.33.254/unicast.cnn/video.m3u8
+#EXTINF:-1 ch-id="FoxNews" tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="新闻",FoxNews
+http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
+#EXTINF:-1 ch-id="france24" tvg-logo="http://static.iptv-epg.com/fr/France24English.fr.png" group-title="新闻",france24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 ch-id="NHKWorld" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="新闻",NHKWorld
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 ch-id="SkyNews" tvg-logo="http://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="新闻",SkyNews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 ch-id="CGTN" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" group-title="新闻",CGTN
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 ch-id="凤凰资讯" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",凤凰资讯
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 ch-id="凤凰中文" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="新闻",凤凰中文
@@ -132,7 +296,7 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 ch-id="三立财经新闻台" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv089_mobile_1014.png" group-title="新闻",三立财经新闻台
 http://seb.sason.top/tv/slinews_fhd.m3u8
 #EXTINF:-1 ch-id="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="新闻",东森新闻台
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+http://seb.sason.top/tv/dsxw_fhd.m3u8
 #EXTINF:-1 ch-id="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻",东森财经新闻台
 rtmp://59.124.75.156/sat/tv571
 #EXTINF:-1 ch-id="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="新闻",壹电视新闻台
@@ -145,6 +309,4 @@ http://61.58.60.230:9319/live/202.m3u8
 #EXTINF:-1 ch-id="有线新闻台" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="港澳台",有线新闻台
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 ch-id="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
-https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
-
-
+https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
