@@ -385,9 +385,9 @@ http://160.119.77.50/iptv/uk-skysports-golf.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-ID="13.ts" tvg-logo="http://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Horse Racing",Dubai Racing 
+#EXTINF:-1 ch-id="13.ts" tvg-logo="http://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Horse Racing",Dubai Racing 
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-ID="13.ts" tvg-logo="http://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="Horse Racing",Dubai Racing 2
+#EXTINF:-1 ch-id="13.ts" tvg-logo="http://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="Horse Racing",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/RacingCom.au.png" group-title="Horse Racing",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
@@ -814,7 +814,7 @@ https://livestreams.e-cast.co.nz/hgtv/hgtv_1000k.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/TVSN.nz.png" group-title="Australia/New Zealand",TVSN
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 
-#EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="https://i.mjh.nz/au/images/tv.7openshop.png",openshop
+#EXTINF:-1 ch-id="tv.7openshop" tvg-logo="https://i.mjh.nz/au/images/tv.7openshop.png",openshop
 https://i.mjh.nz/au/Brisbane/tv.7openshop.m3u8
 
 
@@ -1067,7 +1067,7 @@ http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:-1 tvg-logo="http://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="USA/Canada",FOX 25 Boston (WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="USA/Canada",FOX 28 Savannah (WTGS)
+#EXTINF:-1 ch-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="USA/Canada",FOX 28 Savannah (WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele
