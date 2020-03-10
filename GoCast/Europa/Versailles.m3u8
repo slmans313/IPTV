@@ -531,8 +531,28 @@ https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoq
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kringvarp_foroya.jpg/300px-Kringvarp_foroya.jpg" group-title="Danmark",Kringvarp Føroya
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/FranceO.fr.png" group-title="Français",France Ô
+http://51.15.3.161:8080/france0/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" group-title="Français",France 2
 http://ott.artmott.com/France2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" group-title="Français",France 3
+http://51.15.3.161:8080/france3/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" group-title="Français",France 4
+http://51.15.3.161:8080/france4/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" group-title="Français",France 5
+http://51.15.3.161:8080/france5/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Boing.es.png" group-title="Français",BOING Français
+http://51.15.3.161:8080/boing/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Français",DBM
+https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png" group-title="Français",Gulli
+http://51.15.3.161:8080/Gulli/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="Français",M6
+http://51.15.3.161:8080/M6/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="Français",Piwi
+http://51.15.3.161:8080/Piwi/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="Français",Téva
+http://51.15.3.161:8080/Teva/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="Français",TV5 Monde Europe
 http://ott.artmott.com/Tv5Monde/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info
@@ -553,16 +573,16 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/TFX.fr.png" group-title="Français",TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/TraceUrban.za.png" group-title="Ghana",Trace Urban Français
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/TraceUrban.za.png" group-title="Français",Trace Urban Français
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Français",DBM
-https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/LaChaineParlementaire.fr.png" group-title="Français",LCP
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_GzQnzaF4k-o/RY6TYuuc7FI/AAAAAAAAAcs/CGhPH4h1CoU/s400/kto.jpg" group-title="Français",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-logo="Public Sénathttps://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
+#EXTINF:-1 tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/W9.fr.png" group-title="Français",W9
+http://51.15.3.161:8080/W9/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://www.d5tv.fr/fond-d5-v3.png" group-title="Français",D5 TV
 https://tv.xksgroup.com/d5tv/hd.m3u8
