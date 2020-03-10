@@ -254,6 +254,8 @@ http://proxyts.ec.cx:8082/hls1/gloob.m3u8
 http://proxyts.ec.cx:8082/hls1/maisbobosat.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Multishow.br.png",Multishow
 http://proxyts.ec.cx:8082/hls1/multishow.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Odisseia.pt.png",Odisseia
+http://51.15.3.161:8080/odessa/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/RecordNews.br.png" group-title="Português/Brasil",Record News
@@ -289,6 +291,8 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://lyqibtcyiz.singularcdn.net.br/pix/pixtv_hi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png/200px-Logotipo_da_TV_A_Cr%C3%ADtica.png" group-title="Português/Brasil",TV A Crítica
 https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e76047efbc8cdc4d72604f72822fb642.jpg" group-title="Português/Brasil",TV Baiana
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Português/Brasil",TV Difusora
 http://srv3.zoeweb.tv:1935/z437-live/stream/chunklist_w934345796.m3u8
 #EXTINF:-1 tvg-logo="http://faap.br/tvfaap/images/logo_tv.png" group-title="Português/Brasil",TV Faap
@@ -412,7 +416,7 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chun
 https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/be-mad.jpg" group-title="Español",Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Boing.es.png" group-title="Español",BOING
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Boing.es.png" group-title="Español",BOING Español
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/CANAL-PARLAMENTO.png" group-title="Español",Canal Parlamento
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
@@ -426,7 +430,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 http://kissfm-cires21-video.secure.footprint.net/dkiss/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Energy.es.png" group-title="Español",Energy 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/225px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Español",FDF
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/FactoriaFiccion.es.png" group-title="Español",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/GH_D%C3%BAo_logo.png" group-title="Español",GH Dúo 
 https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_3.m3u8
@@ -506,9 +510,9 @@ http://154.60.248.32/hls/canal1.m3u8
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/08e7076d5fc3c9e6eed8c746408de958.jpeg" group-title="Español",ETB SAT
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/1200px-ETB1_Spain.svg.png" group-title="Español",ETB 1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ETB1.es.png" group-title="Español",ETB 1
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/1200px-ETB2_Spain.svg.png" group-title="Español",ETB 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ETB2.es.png" group-title="Español",ETB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/tvgalicia.es.png" group-title="Español",Galicia TV 1
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -537,13 +541,13 @@ http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png" group-title="Español",Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg" group-title="Español",Levante TV
-http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8
+https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_La_7.svg/150px-Logo_La_7.svg.png" group-title="Español",La 7 Castilla
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/330px-7TVRM.svg.png" group-title="Español",La 7 TV Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.laocho.tv/es/wp-content/themes/laochotv_V2.0/images/logo_TVMed_cabecera.png" group-title="Español",La 8 Mediterráneoo
-https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/LaOtra.svg/1200px-LaOtra.svg.png" group-title="Español",LaOtra
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/7367_logo_tv_melilla4.png" group-title="Español",Melilla TV
