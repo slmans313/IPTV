@@ -515,6 +515,150 @@ http://61.58.60.230:9319/live/125.m3u8
 #EXTINF:-1 ch-id="台湾艺术台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Tact--logo2.jpg" group-title="港澳台",台湾艺术台
 http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 
+
+#EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/11/kctv-korean-central-television.jpg" group-title="韩国/日本",Korean Central Television 
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="韩国/日本",KBS 1
+http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="韩国/日本",KBS 2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+#EXTINF:-1 tvg-logo="http://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" group-title="韩国/日本",KBS News 24
+rtmp://live.kbskme.gscdn.com/news24/_definst_/news24_800.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxY2I5OWY2MjliNjc0NjgxN2U0NWQzMmFkMTIyYjg0ZWRjNjE5NGFhMWQzODczMjA4ZjVkYmZmZjNhZTAxNjMxN2NmNGJiMmQzMWQ3YmUzYjIxY2VjM2M3ODI1YjFmYmIyNmIyZTQ4Y2UyMWI0NTY5MDM4ZmQxZGFmMzc5YzJlYzkwYzYxZDg1NjcwMGRiNmZiNDk1NTNmMDNiZjAzZDUwMTk0ZTU4ZDY4NmJkZTViOWQ4NWE5MjZjMmU0ODBiM2I0MjdiNmMzMGRhNzQ5M2Y2OTk3YTQ4YjQ1YzIyZmI2NjIyMDIzMDdiMDRlZGZiZDEzODU5ODU4MGM4OTJhM2I5MQ==&csu=false
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/KBSWorld.us.png" group-title="韩国/日本",KBS World
+http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="韩国/日本",NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="韩国/日本",NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_nhkbs1.jpg" group-title="韩国/日本",NHK BS 1
+http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="韩国/日本",NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title="韩国/日本",NHK World Premium
+http://160.119.77.50/iptv/sd-nhkpremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hC8bRk.png" group-title="韩国/日本",NHK 华语视界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003461/nhkwlive-zh/index_bitrate1180K.m3u8
+#EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="韩国/日本",MBC
+http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="韩国/日本",MBC
+http://23.237.112.138:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.mpmbc.co.kr/img/logo.png" group-title="韩国/日本",목포 MBC(MBC Mokpo)
+rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxYzQ4NjhjNTFiNGYwNGM5MDYwNjI0ZDI1MWU0MzQ2NjY1NjRlNmI1MmViNGJkOWIzNWQ4N2JlODY4YTU3ZDk5NDEyMWIzZjUzMjkzZjI4YjZjYjhiZDdlMTRmYWIwODBjODY4ZDUxMzg4NTc3NzZiMTQyOTk0NDJlZWNjMDUyM2I3MmU3NzQxMGNkZjVjNmQ4NDBjNTFhNzBjMmE3ODg0ZTA3ZTIwZGYwYjRhODBlNDMxYTlmNzFmODhhYmVkY2U2MDBkYmIxZDIxOTYxZTA0ODZjMzQ4YjhkMGViMmIyNzg4MmVhMWM0MmY4MWI1OTVmY2VlM2QzOGRkMjcyYzg5ZDA2Y2RmNWNiN2QyMzYwNTg=&csu=false
+#EXTINF:-1 tvg-logo="http://www.mpmbc.co.kr/img/logo.png" group-title="韩国/日本",목포 MBC(MBC Mokpo)
+rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="韩国/日本",MBC Sports
+http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="韩国/日本",MBC Sports
+http://23.237.112.138:9083/live/lmgr218-live1/wk/r5/wkr5etV8ujBb_3-hODugiQ==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg" group-title="韩国/日本",MBC On
+http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="韩国/日本",SBS
+http://23.237.112.138:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="韩国/日本",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSPlus.kr.png" group-title="韩国/日本",SBS Plus International
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="韩国/日本",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="韩国/日本",SBS Sports
+http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.g1tv.co.kr/images/newlogo.png" group-title="韩国/日本",G1 TV(SBS 江原)
+rtmp://smart.igtb.co.kr:1935/live/stream.sdp
+#EXTINF:-1 tvg-logo="http://web.ubc.co.kr/wp/wp-content/uploads/2015/01/logo.png" group-title="韩国/日本",UBC 울산방송(SBS 蔚山)
+http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg" group-title="韩国/日本",TJB 대전방송(SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/JTBC.kr.png" group-title="韩国/日本",JTBC
+http://122.129.115.21:1935/liveedge2/_definst_/jtbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://image.jtbc3foxsports.joins.com/common/logo.png" group-title="韩国/日本",JTBC 3
+http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png" group-title="韩国/日本",EBS 1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs2.png" group-title="韩国/日本",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus1.kr.png" group-title="韩国/日本",EBS+ 1
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus2.kr.png" group-title="韩国/日本",EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_03.png" group-title="韩国/日本",EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="韩国/日本",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/ChannelA.kr.png" group-title="韩国/日本",채널 A
+http://23.237.112.138:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/ARTE.de.png" group-title="韩国/日本",Arte 韩国/日本
+http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvbaduk.com/images/common/bdtv_logo.png" group-title="韩国/日本",바둑TV
+http://23.237.112.138:9083/live/lmgr218-live1/uZ/vV/uZvV_oFf70rS_5dF5o637Q==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Catchon1.kr.png" group-title="韩国/日本",Catch On 1
+http://23.237.112.138:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.m3u8
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/TV_CHOSUN@2x.png" group-title="韩国/日本",조선 TV
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cinedigm.com/wp-content/uploads/2018/12/hallypop-logo-300x117.png" group-title="韩国/日本",HallyPOP
+https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
+#EXTINF:-1 tvg-logo="http://www.ktv.go.kr/resources/images/common/logo.png" group-title="韩国/日本",KTV 국민방송
+rtmp://218.38.152.31:1935/klive/klive.stream
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBN.kr.png" group-title="韩国/日本",MBN
+http://23.237.112.138:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Mnet.kr.png" group-title="韩国/日本",MNet
+http://23.237.112.138:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
+#EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif" group-title="韩国/日本",MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="韩国/日本",팍스경제 TV
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OBS.kr.png" group-title="韩国/日本",OBS
+rtmp://live.obs.co.kr/live/obs_back/myStream.sdp
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OCN.kr.png" group-title="韩国/日本",OCN
+http://23.237.112.138:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/tvN.kr.png" group-title="韩国/日本",tVN
+http://23.237.112.138:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/YTN.kr.png" group-title="韩国/日本",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.ytn.co.kr/img/live/live_dmb.jpg" group-title="韩国/日本",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/YTNScience.kr.png" group-title="韩国/日本",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="韩国/日本",YTN Korean
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="韩国/日本",TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/TBSNews.jp.png" group-title="韩国/日本",TBS News
+https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/Asahi1.jp.png" group-title="韩国/日本",テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png" group-title="韩国/日本",フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/TVTokyo.jp.png" group-title="韩国/日本",テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/NipponTV.jp.png" group-title="韩国/日本",日テレ
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="韩国/日本",日テレ NEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="韩国/日本",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/BSTBS.jp.png" group-title="韩国/日本",BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-logo="https://www.bs-asahi.co.jp/wordpress/wp-content/themes/bs-master/img/no_image.png" group-title="韩国/日本",BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-logo="http://www.bsfuji.tv/top/common/img/topparts/logo_bsf181201.png" group-title="韩国/日本",BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg" group-title="韩国/日本",BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="韩国/日本",BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" group-title="韩国/日本",ジャパネットチャンネルDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 tvg-logo="https://www.cinefilwowow.com/parts/common/img/cinefil_logo.png" group-title="韩国/日本",シネフィル WOWOW
+http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png" group-title="韩国/日本",WOWOW シネマ
+http://203.162.235.41:16916
+
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/Action.au.png" group-title="英文频道",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 ch-id="tv.acctv" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="英文频道",ACCTV
