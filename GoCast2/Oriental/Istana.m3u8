@@ -594,7 +594,21 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
 #EXTINF:-1 ch-id="MBC MASR 2" tvg-logo="https://static.iptv-epg.com/eg/MbcMasr2.eg.png" group-title="中东频道",MBC MASR 2
 http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+#EXTINF:-1 ch-id="Abu Dhabi Drama" tvg-logo="https://www.admedia.ae/images/Brands/202022311591540MQ.png" group-title="ماراتيين",Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 ch-id="CBC sofra" tvg-logo="https://static.iptv-epg.com/eg/CBCSofra.eg.png" group-title="中东频道",CBC sofra
+http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
 #EXTINF:-1 ch-id="Dubai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="中东频道",Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 ch-id="Dubai One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png" group-title="中东频道",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 ch-id="Future TV" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="中东频道",Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1 ch-id="LBC Europe" tvg-logo="https://static.iptv-epg.com/lb/LBC.lb.png" group-title="中东频道",LBC Europe
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:-1 ch-id="LBCI" tvg-logo="https://static.iptv-epg.com/lb/LBCInternational.lb.png" group-title="中东频道",LBCI
+http://51.15.3.161:8080/LDC/index.m3u8?token=test
+#EXTINF:-1 ch-id="Rotana Drama" tvg-logo="https://static.iptv-epg.com/eg/RotanaDrama.eg.png" group-title="中东频道",Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1 ch-id="Rotana Khalijiah" tvg-logo="https://static.iptv-epg.com/eg/RotanaKhalijiah.eg.png" group-title="中东频道",Rotana Khalijiah
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
