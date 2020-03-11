@@ -574,6 +574,27 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/index_150_av-p.m3u8?sd=6&r
 #EXTINF:-1 ch-id="tv.60" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="英文频道",Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
-
-
-
+#EXTINF:-1 ch-id="MBC 1" tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="中东频道",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 ch-id="MBC 2" tvg-logo="https://static.iptv-epg.com/ae/MBC2.ae.png" group-title="中东频道",MBC 2
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
+#EXTINF:-1 ch-id="MBC 3" tvg-logo="https://static.iptv-epg.com/ae/MBC3.ae.png" group-title="中东频道",MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:-1 ch-id="MBC 4" tvg-logo="https://static.iptv-epg.com/sa/MBC4.sa.png" group-title="中东频道",MBC 4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
+#EXTINF:-1 ch-id="MBC Action" tvg-logo="https://static.iptv-epg.com/sa/MBCActionEn.sa.png" group-title="中东频道",MBC Action
+http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
+#EXTINF:-1 ch-id="MBC Bollywood" tvg-logo="https://static.iptv-epg.com/sa/MBCBollywoodEn.sa.png" group-title="中东频道",MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 ch-id="MBC Drama" tvg-logo="https://static.iptv-epg.com/ae/MBCDrama.ae.png" group-title="中东频道",MBC Drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:-1 ch-id="MBC Egypt" tvg-logo="https://static.iptv-epg.com/eg/MbcMasr.eg.png" group-title="中东频道",MBC Egypt
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 ch-id="MBC MAX" tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="中东频道",MBC MAX
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+#EXTINF:-1 ch-id="MBC MASR 2" tvg-logo="https://static.iptv-epg.com/eg/MbcMasr2.eg.png" group-title="中东频道",MBC MASR 2
+http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+#EXTINF:-1 ch-id="Dubai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="中东频道",Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 ch-id="Dubai One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png" group-title="中东频道",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
