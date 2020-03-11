@@ -580,6 +580,24 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/index_150_av-p.m3u8?sd=6&r
 #EXTINF:-1 ch-id="tv.60" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="英文频道",Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Rtp1.pt.png" group-title="欧洲频道",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Rtp2.pt.png" group-title="欧洲频道",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Rtp3.pt.png" group-title="欧洲频道",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 ch-id="RTP ACORES" tvg-logo="https://static.iptv-epg.com/pt/RtpAcores.pt.png" group-title="欧洲频道",RTP ACORES
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 ch-id="RTP MADEIRA" tvg-logo="https://static.iptv-epg.com/pt/RtpMadeira.pt.png" group-title="欧洲频道",RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RtpMemoria.pt.png" group-title="欧洲频道",RTP Memoria
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RTPInternacional.pt.png" group-title="欧洲频道",RTP Internacional 
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RtpAfrica.pt.png" group-title="欧洲频道",RTP Africa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+
 #EXTINF:-1 ch-id="MBC 1" tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="中东频道",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:-1 ch-id="MBC 2" tvg-logo="https://static.iptv-epg.com/ae/MBC2.ae.png" group-title="中东频道",MBC 2
