@@ -328,6 +328,8 @@ http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 ch-id="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png" group-title="电影",靖天映画
 http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 ch-id="iFILM TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1204_1.png" group-title="电影",iFILM TV
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 
 #EXTINF:-1 ch-id="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
 http://111.40.205.76/PLTV/88888888/224/3221225610/index.m3u8
@@ -594,21 +596,47 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
 #EXTINF:-1 ch-id="MBC MASR 2" tvg-logo="https://static.iptv-epg.com/eg/MbcMasr2.eg.png" group-title="中东频道",MBC MASR 2
 http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
-#EXTINF:-1 ch-id="Abu Dhabi Drama" tvg-logo="https://www.admedia.ae/images/Brands/202022311591540MQ.png" group-title="ماراتيين",Abu Dhabi Drama
+#EXTINF:-1 ch-id="Alhayat TV" tvg-logo="http://www.alhayat.com/themes/hayat/images/alhayat-logo.jpg" group-title="中东频道",Alhayat TV
+http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
+#EXTINF:-1 ch-id="Al Jadeed TV" tvg-logo="https://static.iptv-epg.com/lb/AlJadeed.lb.png" group-title="中东频道",Al Jadeed TV
+http://livecdnh3.tvanywhere.ae/hls/jadeed/04m3u8
+#EXTINF:-1 ch-id="Al sharqya" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="中东频道",Al sharqya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 ch-id="Al Aoula Morocco" tvg-logo="https://static.iptv-epg.com/ma/2MMonde.ma.png" group-title="المغرب",Al Aoula Morocco
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 ch-id="Al Nahar TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlNaharTV.png" group-title="中东频道",Al Nahar TV
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
+#EXTINF:-1 ch-id="Abu Dhabi Drama" tvg-logo="https://www.admedia.ae/images/Brands/202022311591540MQ.png" group-title="中东频道",Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 ch-id="CBC Drama" tvg-logo="https://static.iptv-epg.com/eg/CBCDrama.eg.png"group-title="中东频道",CBC Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
 #EXTINF:-1 ch-id="CBC sofra" tvg-logo="https://static.iptv-epg.com/eg/CBCSofra.eg.png" group-title="中东频道",CBC sofra
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
 #EXTINF:-1 ch-id="Dubai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="中东频道",Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 ch-id="Dubai One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Onetv_Logo_UAE.png" group-title="中东频道",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 ch-id="DMC DRAMA" tvg-logo="https://static.iptv-epg.com/eg/DMCDrama.eg.png" group-title="中东频道",DMC DRAMA
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
 #EXTINF:-1 ch-id="Future TV" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="中东频道",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1 ch-id="Lana" tvg-logo="https://www.embratoria.net/uploads/tv_image/lana-tv.png" group-title="中东频道",Lana
+https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
 #EXTINF:-1 ch-id="LBC Europe" tvg-logo="https://static.iptv-epg.com/lb/LBC.lb.png" group-title="中东频道",LBC Europe
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
 #EXTINF:-1 ch-id="LBCI" tvg-logo="https://static.iptv-epg.com/lb/LBCInternational.lb.png" group-title="中东频道",LBCI
 http://51.15.3.161:8080/LDC/index.m3u8?token=test
+#EXTINF:-1 ch-id="Oman" tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="عمان",Oman
+http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
+#EXTINF:-1 ch-id="Nile Drama" tvg-logo="https://static.iptv-epg.com/eg/NileDrama.eg.png" group-title="中东频道",Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
 #EXTINF:-1 ch-id="Rotana Drama" tvg-logo="https://static.iptv-epg.com/eg/RotanaDrama.eg.png" group-title="中东频道",Rotana Drama
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 #EXTINF:-1 ch-id="Rotana Khalijiah" tvg-logo="https://static.iptv-epg.com/eg/RotanaKhalijiah.eg.png" group-title="中东频道",Rotana Khalijiah
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:-1 ch-id="Roya" tvg-logo="https://www.roya.tv/img/royatv/royaTvLogo.png" group-title="中东频道",Roya
+https://roya-live.ercdn.net/roya/roya.m3u8
+#EXTINF:-1 ch-id="Sharjah TV" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/32ef5753d51bf08a78a06935576556347a6e65746a66464c44675a6e4445.png" group-title="中东频道",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
+#EXTINF:-1 ch-id="Sada El Balad" tvg-logo="https://www.elbalad.news/themes/balad/images/sada.png" group-title="中东频道",Sada El Balad
+http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
