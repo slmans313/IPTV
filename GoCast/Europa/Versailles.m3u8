@@ -971,14 +971,15 @@ http://190.2.154.72:8081/tvstanici/2mob/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Sitel.mk.png" group-title="Македонија",Sitel
 http://190.2.154.72:8081/tvstanici/s1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mk/Telma.mk.png" group-title="Македонија",Telma
-http://190.2.154.72:8081/tvstanici/4/playlist.m3u8
+http://190.2.154.72:8081/tvstanici/4mob/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv21.tv/mk/wp-content/uploads/2019/08/Logo_TV21_1_PNG.png" group-title="Македонија",TV 21 Македонија
 http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://rtk.mk/images/stories/joomlart/rtk_logo_small.png" group-title="Македонија",RTK
 http://95.86.27.228/rtklive/rtklive_1500/index.m3u8
 #EXTINF:-1 tvg-logo="http://shenja.tv/wp-content/uploads/2016/11/logo1.png" group-title="Македонија",Shenja
 http://5.135.92.133:52841/out/u/145_1.m3u8
+#EXTINF:-1 tvg-logo="https://sitel.com.mk/sites/all/themes/sitel/logo.png" group-title="Македонија",Sitel
+http://51.89.67.64:8081/tvstanici/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvmannen.es/iptv_channels/2258111_files/skyfolkmk.png" group-title="Македонија",Sky Folk
 http://skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-logo="https://starfolkmusic.mk/wp-content/uploads/2019/10/logo-300x169.png" group-title="Македонија",Star Folk
@@ -987,6 +988,9 @@ http://live.muzickatv.mk/hls/Starmusic.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvplus.mk/wp-content/uploads/2015/03/logotvplus.png" group-title="Македонија",TV Plus
 http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1 tvg-logo="https://24.mk/images/vesti24_logo.png" group-title="Македонија",Телевизија 24
+http://190.2.154.72:8081/tvstanici/24/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Netherlands",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
