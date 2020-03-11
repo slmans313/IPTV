@@ -201,6 +201,16 @@ https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g3KXvbvwbuSuwZhm_RG--7rfCAvlnOsSzaLBFKd1XmRlHNxyvKzaf23GTmvsXm-OYg=s180-rw" group-title="东南亚",Wiki TV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
+#EXTINF:-1 ch-id="Arena Sport 1" tvg-logo="http://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="体育",Arena Sport 1
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="Arena Sport 2" tvg-logo="http://static.iptv-epg.com/rs/Arenasport2.rs.png" group-title="体育",Arena Sport 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1 ch-id="Arena Sport 3" tvg-logo="http://static.iptv-epg.com/rs/Arenasport3.rs.png" group-title="体育",Arena Sport 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1 ch-id="Arena Sport 4" tvg-logo="http://static.iptv-epg.com/rs/Arenasport4.rs.png" group-title="体育",Arena Sport 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1 ch-id="Arena Sport 5" tvg-logo="http://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="体育",Arena Sport 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV5
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 ch-id="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV5+
@@ -325,6 +335,13 @@ http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 ch-id="iFILM TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1204_1.png" group-title="电影",iFILM TV
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+
+#EXTINF:-1 ch-id="Animal Planet" tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="纪录片",Animal Planet
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="求索记录" tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="纪录片",求索记录
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+#EXTINF:-1 ch-id="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="纪录片",求索动物
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 
 #EXTINF:-1 ch-id="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
 http://111.40.205.76/PLTV/88888888/224/3221225610/index.m3u8
