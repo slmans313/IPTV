@@ -246,7 +246,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
 #EXTINF:-1 ch-id="Arirang" logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="新闻",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ch-id="aljazeera" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻",aljazeera
+#EXTINF:-1 ch-id="tv.46" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻",Al Jazeera
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 ch-id="BBCWorldNews" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="新闻",BBCWorldNews
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
@@ -448,6 +448,35 @@ http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="港澳",澳视资讯
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/Action.au.png" group-title="英文频道",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 ch-id="tv.acctv" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="英文频道",ACCTV
+http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
+#EXTINF:-1 ch-id="tv.101002210221" tvg-logo="https://static.iptv-epg.com/au/ABC.au.png" group-title="英文频道",ABC
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
+#EXTINF:-1 ch-id="tv.abc2" tvg-logo="https://static.iptv-epg.com/au/ABCComedy.au.png" group-title="英文频道",ABC Comedy
+https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
+#EXTINF:-1 ch-id="tv.101002210220" tvg-logo="https://static.iptv-epg.com/au/ABCME.au.png" group-title="英文频道",ABC ME
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 ch-id="tv.101002210224" tvg-logo="http://static.iptv-epg.com/au/ABCNews24.au.png" group-title="英文频道",ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ch-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC COMEDY/ABC KIDS NSW
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 ch-id="tv.tv.fox.sports.news" tvg-logo="https://static.iptv-epg.com/au/FoxSportsNews.au.png" group-title="英文频道",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ch-id="tv.39" tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="英文频道",Firstlight
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 ch-id="tv.11" tvg-logo="https://static.iptv-epg.com/nz/Three.nz.png" group-title="英文频道",Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
+#EXTINF:-1 ch-id="tv.20" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="英文频道",Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+#EXTINF:-1 ch-id="tv.54" tvg-logo="https://static.iptv-epg.com/nz/MaoriTelevision.nz.png" group-title="英文频道",Maori TV On Demand
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+#EXTINF:-1 ch-id="tv.snowy-mountains" tvg-logo="http://i.mjh.nz/au/images/tv.snowy-mountains.png" group-title="英文频道",Snowy Mountains Television
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 ch-id="tv.60" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="英文频道",Wairarapa TV
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
 
 
