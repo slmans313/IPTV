@@ -760,12 +760,27 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0540_av-b.m3u8
 https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국",MBC
 http://23.237.112.138:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.mpmbc.co.kr/img/logo.png" group-title="한국",목포 MBC(MBC Mokpo)
+#EXTINF:-1 tvg-logo="hhttp://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국",MBC
 rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxYzQ4NjhjNTFiNGYwNGM5MDYwNjI0ZDI1MWU0MzQ2NjY1NjRlNmI1MmViNGJkOWIzNWQ4N2JlODY4YTU3ZDk5NDEyMWIzZjUzMjkzZjI4YjZjYjhiZDdlMTRmYWIwODBjODY4ZDUxMzg4NTc3NzZiMTQyOTk0NDJlZWNjMDUyM2I3MmU3NzQxMGNkZjVjNmQ4NDBjNTFhNzBjMmE3ODg0ZTA3ZTIwZGYwYjRhODBlNDMxYTlmNzFmODhhYmVkY2U2MDBkYmIxZDIxOTYxZTA0ODZjMzQ4YjhkMGViMmIyNzg4MmVhMWM0MmY4MWI1OTVmY2VlM2QzOGRkMjcyYzg5ZDA2Y2RmNWNiN2QyMzYwNTg=&csu=false
-#EXTINF:-1 tvg-logo="http://www.mpmbc.co.kr/img/logo.png" group-title="한국",목포 MBC(MBC Mokpo)
+#EXTINF:-1 tvg-logo="https://busan.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/03/b491f65688b33a01c91e335f19130164cacf5cb7cc99cf3a1e3dca37f26c79d2e5d2231c8e0f867adef39fd2cfad8bcdee0661309e11e4f57d92216a035aafef.png" group-title="한국",부산MBC(MBC Busan)
+https://5ca29b882aaf6.streamlock.net:443/livetv/BusanMBC_TV_livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://busan.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2018/12/6e1a8d912bd32dca479bbf74667f7caf0716dd4e358e61136cecb8ca29b5b99a46b47b1d42b4a487d582c6ad6132929ff20a4cb41b344da26694ca115f5ee90a.png" group-title="한국",대전MBC(MBC Daejeon)
+https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://us.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/12/12bc7c3247c59100ebd37bef2d2ff31a6f3d109b1cfb494c71e72fc2386b0589f0af8eeaf5d9cd71b05b9312224e1e55041d53654c8a041528e3d83fbb96a647.png" group-title="한국",울산MBC(MBC Ulsan)
+https://5ddfd163bd00d.streamlock.net:443/nHDTV/nHDTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://data1.chmbc.co.kr/2018/12/d0fba52ecd26cdc49a893b9af6d468561f88e70c58accae0c6e1718bd112efc69511ffd56f9c167d6e1b215c065f844f250b1fa6df470afb30abf5cdd0153016.png" group-title="한국",춘천MBC(MBC Chuncheon)
+https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ys.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/01/bbbcec12d40f91ed9d4609144a648583937ee510098fb91776a99b0c1f00e818ab090f049ebdf24b0d1b21efb7f103dea45fb0f88d2571bf1756759dfdc93fd9.png" group-title="한국",여수MBC(MBC Yeosu)
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dg.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/12/0df66e127a9d1c68d0d56dd7567a5b52943a71122c8fc5aecf792ff11fba3d93bb1cd98f1d1c9e2fd83a294d26e2d5f270b705711cc20b5bdaf39ed2188c5075.png group-title="한국",대구 MBC(MBC Daegu)
+https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.mpmbc.co.kr/img/logo.png" group-title="한국",목포MBC(MBC Mokpo)
 rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
-#EXTINF:-1 tvg-logo="https://mbcgn.kr/files/attach/images/3710/632d9b84f020d92b602e69fccbf113ce.png" group-title="韩国/日本",MBC경남 (MBC Gyeongnam)
+#EXTINF:-1 tvg-logo="https://mbcgn.kr/files/attach/images/3710/632d9b84f020d92b602e69fccbf113ce.png" group-title="韩国/日本",경남MBC(MBC Gyeongnam)
 http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-logo="https://jeju.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/06/2a42c0e8f353c0d091bd145d7384670af46a6cdf647b0d0be45f76a8faccf7ad0b144cbb6fe11b0ff81bd830478e8e5e8dc43ec1ce76bfead41eac377fcfbdc0.png" group-title="韩国/日本",제주 MBC(MBC Jeju)
+https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="한국",MBC Sports
 http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="한국",MBC Sports
