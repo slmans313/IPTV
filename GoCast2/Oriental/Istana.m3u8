@@ -461,10 +461,32 @@ https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ch-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC COMEDY/ABC KIDS NSW
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
-#EXTINF:-1 ch-id="tv.tv.fox.sports.news" tvg-logo="https://static.iptv-epg.com/au/FoxSportsNews.au.png" group-title="英文频道",Fox Sports News
+#EXTINF:-1 ch-id="101 BBC One Lon-UK" tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="英文频道",503 BBC NEWS-UK
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 ch-id="102 BBC Two Eng-UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" group-title="英文频道",BBC One-UK
+http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
+#EXTINF:-1 ch-id="102 BBC Two Eng-UK" tvg-logo="http://static.iptv-epg.com/uk/BBC2.uk.png" group-title="英文频道",BBC Two-UK
+http://160.119.77.50/iptv/uk-bbc2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="英文频道",CBBC
+http://160.119.77.50/iptv/uk-bbc2hd.stream/playlist.m3u8
+#EXTINF:-1 ch-id="116 BBC Four-UK" tvg-logo="http://static.iptv-epg.com/gb/BBC4.uk.png" group-title="英文频道",BBC Four-UK
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 ch-id="tv.fox.sports.news" tvg-logo="https://static.iptv-epg.com/au/FoxSportsNews.au.png" group-title="英文频道",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 ch-id="tv.39" tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="英文频道",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 ch-id="103 ITV-UK" tvg-logo="http://static.iptv-epg.com/gb/ITV1.uk.png" group-title="英文频道",ITV-UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 ch-id="118 ITV2-UK" tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="英文频道",ITV2-UK
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 ch-id="119 ITV3-UK" tvg-logo="http://static.iptv-epg.com/gb/ITV3.uk.png" group-title="英文频道",ITV3-UK
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 ch-id="120 ITV4-UK" tvg-logo="http://static.iptv-epg.com/gb/ITV4.uk.png" group-title="英文频道",ITV4-UK
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 ch-id="149 ITVBe-UK" tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="英文频道",ITV Be-UK
+http://160.119.77.50/iptv/uk-itvbe.stream/playlist.m3u8
+#EXTINF:-1 ch-id="621 CITV-UK" tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="英文频道",CITV-UK
+http://160.119.77.50/iptv/uk-citv.stream/playlist.m3u8
 #EXTINF:-1 ch-id="tv.11" tvg-logo="https://static.iptv-epg.com/nz/Three.nz.png" group-title="英文频道",Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
 #EXTINF:-1 ch-id="tv.20" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="英文频道",Te Reo
