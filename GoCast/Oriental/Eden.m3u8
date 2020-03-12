@@ -836,7 +836,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTVN.m3u8
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/07/NEW-LOGO0047_00000_00000-300x169.png" group-title="Cameroun",Afrique+
 http://connectiktv.ddns.net:8080/afrik+/index.m3u8
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2017/09/afrique_media_cm.png" group-title="Cameroun",Afrique Media
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Afrm.m3u8
+ttps://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/AFROBIT-png-300x168.png" group-title="Cameroun",Afrobits
 http://connectiktv.ddns.net:8080/afrobit/index.m3u8
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/06/c4c115d6-e7c7-4d82-af85-b6b95040b93f-300x169.jpg" group-title="Cameroun",Beauty Africa
@@ -971,6 +971,9 @@ http://217.182.137.206/eri.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Equatorial Guinea",TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://qtv.gm/images/logo.png" group-title="Gambia",QTV Gambia
+https://player.qtv.gm/hls/live.stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Ghana_TV.png" group-title="Ghana",Ghana TV
 https://bk7l2g37dx53-hls-live.5centscdn.com/GTV/live1.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png" group-title="Ghana",Joy Prime
@@ -1097,7 +1100,9 @@ http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
-https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
+http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rba.co.rw/IMG/logokc2.jpg" group-title="Rwanda",KC2
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="الصومال‎",Somali National TV
 https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
@@ -1118,12 +1123,21 @@ https://ap01.iqplay.tv:81/iqb8002/s0mnew12.m3u8
 #EXTINF:-1 tvg-logo="https://www.universaltvsomali.net/themes/tvuniversal/images/logo_badge.png" group-title="الصومال‎",Universal TV
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://ayvnews.com/wp-content/uploads/2018/09/spacer-bg-ayv-logo6.png" group-title="Sierra Leone‎",AYV
+https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://ayvnews.com/wp-content/uploads/2018/09/spacer-bg-ayv-logo6.png" group-title="Sierra Leone‎",AYV Entertainment
+https://1423954428.rsc.cdn77.org/live/ngrp:stream-1_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://live.rts.sn/assets/images/rts/rts1sd.png" group-title="Senegal",RTS 1
 https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://africa7.tv/wp-content/uploads/2019/05/cropped-logo-bon.png" group-title="Senegal",Africa 7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AFR7.m3u8
 #EXTINF:-1 tvg-logo="http://www.d5tv.fr/fond-d5-v3.png" group-title="Senegal",D5 TV
 https://tv.xksgroup.com/d5tv/hd.m3u8
+#EXTINF:-1 tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="Senegal",Leeeko TV
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sn-mouride-tv.jpg group-title="Senegal",Mouride TV
+http://162.212.178.131:1935/Livemouridetv/mouridetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2019/07/AFRIKORA-RVB.png" group-title="Senegal",Trace Afrikora
 https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 
