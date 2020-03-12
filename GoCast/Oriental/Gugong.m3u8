@@ -220,6 +220,8 @@ rtmp://59.124.75.156/sat/tv731
 rtmp://59.124.75.156/sat/tv741
 #EXTINF:-1 tvg-logo="https://www.abv.com.tw/wp-content/uploads/2018/12/ELEVEN-SPORT-PLUS-1.jpg" group-title="体育",11 Sports Plus
 rtmp://59.124.75.156/sat/md011
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",广东体育
+https://116.77.72.195/streams/d/gdty/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",劲爆体育
 https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 
@@ -421,7 +423,7 @@ http://cinb1.peoplevideo.cn/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettvs.live/uploads/20/1-20020Q51150P2.jpg" group-title="中国",Nihao TV
 http://cinb1.peoplevideo.cn/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="中国",新视觉
-http://60.255.149.209/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8&
+https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.qiang100.com/data/upload/ueditor/20170727/597950b3ec0ac.png" group-title="中国",快乐垂钓
 http://60.255.149.209/tslive/c214_scc_20190618_fq3c2esl_original_r10/c214_scc_20190618_fq3c2esl_original_r10.m3u8&
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="中国",欢笑剧场
@@ -552,6 +554,8 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fs
 https://app.kds.tw/live/tvb1.php?id=j2&u=123456
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="粵語",翡翠明珠
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="粵語",翡翠明珠 HD
+https://116.77.72.195/streams/d/mzt/playlist.m3u8
 #EXTINF:-1 ch-id="TVB星河频道" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="粵語",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="粵語",亞洲電視台
