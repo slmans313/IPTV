@@ -832,6 +832,8 @@ http://connectiktv.ddns.net:8080/afrobit/index.m3u8
 http://connectiktv.ddns.me:8080/beautyafrica/index.m3u8
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/09/canahausa.jpg" group-title="Cameroun",Canal Hausa
 http://connectiktv.ddns.net:8080/canalhausa/index.m3u8
+#EXTINF:-1 tvg-logo="https://coeuralouvrage.com/wp-content/uploads/2018/08/CALO-LOGO-DEGRADE-SERVICES_ACTIFS-500x208.png" group-title="Cameroun",Coeur TV
+https://coeurtv.vedge.infomaniak.com/livecast/coeurtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg" group-title="Cameroun",Dream TV
 http://connectiktv.ddns.net:8080/dreamchannel/index.m3u8
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/04/EMERGENCE-TV-300x169.jpg" group-title="Cameroun",Emergence TV
@@ -866,6 +868,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m
 http://connectiktv.ddns.me/winterchannel/index.m3u8
 #EXTINF:-1 tvg-logo="http://connectik.tv/wp-content/uploads/2019/07/vibe.jpg" group-title="Cameroun",Vibe Music
 http://connectiktv.ddns.net:8080/vibe/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Kikongo",Trace Kitoko
@@ -957,10 +960,16 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 https://bk7l2g37dx53-hls-live.5centscdn.com/GTV/live1.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/joy-prime-gh.png" group-title="Ghana",Joy Prime
 https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1213240723115515909/OexfQzX-_400x400.jpg" group-title="Ghana",Kalac TV
+https://edge4.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.nydjlive.com/wp-content/uploads/2020/02/Trace-Jama-750x430.png" group-title="Ghana",Trace Jama
 https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/3299.jpg" group-title="Ghana",Resurrection TV
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://dorotheemefo.d.o.pic.centerblog.net/ca9aaca2.jpg" group-title="Equatorial Guinea",West Africa TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WFA.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://rtgkoloma.info/wp-content/uploads/2017/12/logofinal.jpg" group-title="Guinée",RTG
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
@@ -1085,6 +1094,10 @@ https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.rts.sn/assets/images/rts/rts1sd.png" group-title="Senegal",RTS 1
 https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://africa7.tv/wp-content/uploads/2019/05/cropped-logo-bon.png" group-title="Senegal",Africa 7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AFR7.m3u8
+#EXTINF:-1 tvg-logo="http://www.d5tv.fr/fond-d5-v3.png" group-title="Senegal",D5 TV
+https://tv.xksgroup.com/d5tv/hd.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2019/07/AFRIKORA-RVB.png" group-title="Senegal",Trace Afrikora
 https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
 
