@@ -76,10 +76,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 #EXTINF:-1 tvg-logo="https://mytv.co.id/wp-content/uploads/2019/05/logo.png" group-title="东南亚",MYTV
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=1
-#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Indonesia",Net
+#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="东南亚",Net
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="东南亚",RTV
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 #EXTINF:-1 tvg-logo="http://www.jawapos.tv/images/logo_jawapos.png" group-title="东南亚",Jawa Pos
@@ -347,8 +345,6 @@ http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 ch-id="iFILM TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1204_1.png" group-title="电影",iFILM TV
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="电影",凤凰电影
-https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 
 #EXTINF:-1 ch-id="Animal Planet" tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="纪录片",Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
@@ -494,8 +490,6 @@ http://192.200.120.82:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 ch-id="翡翠台" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="港澳台",明珠台
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 ch-id="翡翠台" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="港澳台",明珠台 HD
-https://116.77.72.195/streams/d/mzt/playlist.m3u8
 #EXTINF:-1 ch-id="TVB星河频道" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="港澳台",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 ch-id="有线新闻台" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="港澳台",有线新闻台
