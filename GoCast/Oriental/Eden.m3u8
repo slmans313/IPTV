@@ -980,10 +980,14 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WFA.m3u8
 #EXTINF:-1 tvg-logo="https://rtgkoloma.info/wp-content/uploads/2017/12/logofinal.jpg" group-title="Guinée",RTG
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/16278/logo_rti%205.png" group-title="Côte d’Ivoire",RTI 1
-https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist_w2123045922_b250000.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png" group-title="Côte d’Ivoire",RTI 2
-https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/chunklist_w1505588093_b250000.m3u8
+#EXTINF:-1 tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Côte d’Ivoire",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Côte d’Ivoire",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rti.ci/images/logo_la_3.png" group-title="Côte d’Ivoire",RTI La 3
+https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rti.ci/webtv/images/logo.png" group-title="Côte d’Ivoire",RTI Web TV
+https://www.enovativecdn.com:4433/rticdn/smil:rtiwebtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://a12television.com/WEB/wp-content/uploads/2020/02/Logo-CG2.png" group-title="Côte d’Ivoire",A12
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://a12television.com/WEB/wp-content/uploads/2020/02/Logo-CG2.png" group-title="Côte d’Ivoire",Christ Live
