@@ -584,7 +584,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/W9.fr.png" group-title="Français",W9
 http://51.15.3.161:8080/W9/index.m3u8?token=test
 
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Français",EMCI TV Paris
 https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
 #EXTINF:-1 tvg-logo="http://languedutravail.org/sites/default/files/tv-francophonie_3.jpg" group-title="Français",Francophonie
@@ -597,6 +596,10 @@ http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://media.info/i/lf/300/1504905935/6907.png" group-title="Français",La Chaine Normande
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2017/05/logo-large.png" group-title="Français",MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1206940189203062784/ldPsnLQU_400x400.jpg" group-title="Français",Stad'afric
+https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_T%C3%A9b%C3%A9o.svg/1200px-Logo_T%C3%A9b%C3%A9o.svg.png" group-title="Français",Tébéo
@@ -1368,7 +1371,7 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/qs24.tv/wp-content/uploads/2019/06/Logo_QS24_weiss_Pfade.png" group-title="Switzerland",QS24
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://reezom.s3.amazonaws.com/wp-content/uploads/tv-show-imaging-habillage-%C3%A9mission-logo-rougetv.jpg" group-title="Switzerland",RogueTV
+#EXTINF:-1 tvg-logo="https://reezom.s3.amazonaws.com/wp-content/uploads/tv-show-imaging-habillage-%C3%A9mission-logo-rougetv.jpg" group-title="Switzerland",Rogue TV
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ch/TeleBaern.ch.png" group-title="Switzerland",Tele Bärn
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
