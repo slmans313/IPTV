@@ -354,7 +354,7 @@ http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" group-title="ماراتيين",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/SpaceToon.sa.png" group-title="ماراتيين",Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-toheed-tv.jpg" group-title="ماراتيين",Toheed TV
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://img.jetbitts.com/android/thumbs/ico/6/s/wanasah-android.jpg" group-title="ماراتيين",Wanasah
@@ -1125,6 +1125,12 @@ http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 http://82.212.74.100:8000/live/hls/8950.m3u8
 #EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15592492499912.jpg" group-title="السودان",Al Alamiya 2
 http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:-1 tvg-logo="http://www.africagroup.tv/img/logo-h.png" group-title="السودان",Africa TV 1
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.africagroup.tv/img/logo-h.png" group-title="السودان",Africa TV 2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.africagroup.tv/img/logo-h.png" group-title="السودان",Africa TV 3
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
 https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
