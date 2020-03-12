@@ -30,10 +30,12 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 ch-id="TV 9" tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="东南亚",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="东南亚",Drama Sangat
+#EXTINF:-1 ch-id="Drama Sangat" tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="东南亚",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="东南亚",Astro Awani
+#EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="东南亚",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1 ch-id="Naura" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="东南亚",Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="东南亚",RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="东南亚",TVRI
@@ -126,7 +128,7 @@ https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 ch-id="GMA Pinoy TV" tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="东南亚",GMA Pinoy TV
 http://164.40.161.43:10011
-#EXTINF:-1  ch-id="WOA Kapatid TV5-PH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="东南亚",WOA Kapatid TV5-PH
+#EXTINF:-1 ch-id="WOA Kapatid TV5-PH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="东南亚",WOA Kapatid TV5-PH
 http://stream3.news5.ph/n5e/tv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://plus.tv5.com.ph/assets/images/5%20PLUS%20logo%202019%20final-01.png" group-title="东南亚",5 Plus
 http://stream3.news5.ph/n5e/5plus/playlist.m3u8
@@ -134,6 +136,10 @@ http://stream3.news5.ph/n5e/5plus/playlist.m3u8
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/157/157639/45392-294x165-FFFFFF.jpg" group-title="东南亚",Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/TBN.za.png" group-title="东南亚",TBN Phillippines
+http://210.210.155.35/qwr9ew/s/s39/01.m3u8
+#EXTINF:-1 ch-id="Telenovela Channel-PH" tvg-logo="https://static.iptv-epg.com/ph/TelenovelaChannel.ph.png" group-title="Pilipinas",Telenovela Channel-PH
+http://210.210.155.69/s/s70/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753895989904367616/GvgKNn1u.jpg" group-title="东南亚",Inquirer 990 TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="东南亚",Island Living on BEAM
@@ -337,8 +343,12 @@ http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 http://111.13.111.192/125.227.198.89:8027
 #EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="电影",Fox Action Movies
 http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 ch-id="Thrill" tvg-logo="https://static.iptv-epg.com/id/Thrill.id.png" group-title="电影",Thrill
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 ch-id="Warner TV" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="电影",Warner TV
 http://192.200.120.82:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 ch-id="天映频道" tvg-logo="http://www.celestialmovies.com/assets/img/cm.png" group-title="电影",天映频道
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 ch-id="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="电影",卫视电影台
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 ch-id="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="电影",好莱坞电影台
@@ -711,6 +721,8 @@ https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ch-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC COMEDY/ABC KIDS NSW
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 ch-id="AXN" tvg-logo="http://static.iptv-epg.com/id/AXN.id.png" group-title="Entertainment",AXN
+http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 ch-id="503 BBC NEWS-UK" tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="英文频道",503 BBC NEWS-UK
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 ch-id="102 BBC Two Eng-UK" tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" group-title="英文频道",BBC One-UK
@@ -729,6 +741,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 ch-id="Fashion TV HD" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="英文频道",Fashion TV HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="Singapore/Malaysia",HITS
+http://210.210.155.66/h/h37/01.m3u8
 #EXTINF:-1 ch-id="103 ITV-UK" tvg-logo="http://static.iptv-epg.com/gb/ITV1.uk.png" group-title="英文频道",ITV-UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 ch-id="118 ITV2-UK" tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="英文频道",ITV2-UK
@@ -775,7 +789,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RtpMemoria.pt.png" group-title="欧洲频道",RTP Memoria
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RTPInternacional.pt.png" group-title="欧洲频道",RTP Internacional 
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s38/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/RtpAfrica.pt.png" group-title="欧洲频道",RTP Africa
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
