@@ -159,7 +159,10 @@ https://svs.itworkscdn.net/nour5satlive/livestream/chunklist.m3u8
 https://svs.itworkscdn.net/nour9satlive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://noursat.tv/mediafiles/channels/spirit-logo.png" group-title="لبنان",Nour Sat Spirit
 https://svs.itworkscdn.net/nour6satlive/livestream/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.alkarmatv.com/en/templates/alktv/images/alkarmatv-logo.png" group-title="لبنان",Al Karma
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.almagd.tv/images/logo.png" group-title="لبنان",Al Magd
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lb/MTVLebanon.lb.png" group-title="لبنان",MTV Lebanon
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
 #EXTINF:-1 tvg-logo="https://nbntv.me/wp-content/uploads/2018/08/nbn-logo.jpg" group-title="لبنان",NBN
@@ -202,6 +205,8 @@ http://htvpalsat.mada.ps:8888/najah/index.m3u8
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://www.amad.ps/resize?photo=upload/ar/images/13_1495915121_7119.png" group-title="فلسطين",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.wattan.net/media/assets/images/logo.png" group-title="فلسطين",Wattan
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.alrayyan.tv/wp-content/uploads/2016/12/live1.png" group-title="دولة قطر",Alrayyan
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
@@ -251,6 +256,9 @@ http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/eg/RotanaMusic.eg.png" group-title="السعودية",Rotana Music
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 
+http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png
+#EXTINF:-1 tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="السعودية",Al Khalij
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15323468166894.png" group-title="السعودية",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1 tvg-logo="http://almajdtv.com/index.files/image002.png" group-title="السعودية",Almajd TV
@@ -886,6 +894,8 @@ http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/df1e9623271935.54ce57bbe0737.png" group-title="مَصر",Alhayah TV
 http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
+#EXTINF:-1 tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" group-title="مَصر",Al Horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlNaharTV.png" group-title="مَصر",Al-Nahar TV
 http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="مَصر",Al-Nahar Drama
