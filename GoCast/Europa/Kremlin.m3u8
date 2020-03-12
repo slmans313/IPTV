@@ -7,9 +7,6 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Россия",РОССИЯ-K
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/2x2.ru.png" group-title="Россия",2×2
-http://178.124.183.6:80/hls/EU9VTLDQCN_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://3abn.org/img/logos/3abn-russia-logo.jpg" group-title="Россия",3ABN
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/5Kanal.ru.png" group-title="Россия",5 канал
@@ -41,7 +38,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m24.ru/img/logos/logo11.png" group-title="Россия",Москва 24
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/OTR.ru.png" group-title="Россия",ОТР
-http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
+http://russia.livetv.az/russia/otr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="Россия",ТНТ
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNT4.ru.png" group-title="Россия",ТНТ 4
@@ -60,8 +57,10 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 http://stream3.kuvalda.tv/hls/u.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Zvezda.ru.png" group-title="Россия",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://russianmusicbox.tv/wp-content/themes/main/img/logo.png" group-title="Россия",Russian MusicBox
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.mboxtv.ru/images/logo-4.png" group-title="Россия",Music Box Gold
+https://strm.yandex.ru/kal/musicboxgold/manifest.mpd?from=http%3A%2F%2Fmboxtv.ru&partner_id=412270&target_ref=https%3A%2F%2Fyastatic.net&uuid=442824c840a7250bb8d6909a79c5f21c&video_category_id=1017&clid=495&yandexuid=6094165511568386376&slots=null&dvr=300&partner-id=412270&video-category-id=1017&gzip=1&vsid=580e682d1b58b28a0ba904427223b239f68049504aa1xWEBx2428x1570161106&adsid=fd45054112c34da04210e9bd62997305baeefc041f2exWEBx2428x1570161106
+#EXTINF:-1 tvg-logo="http://russianmusicbox.tv/wp-content/themes/main/img/logo.png" group-title="Россия",Music Box Russia
+https://strm.yandex.ru/kal/rmbox/manifest.mpd?from=partner&partner_id=274296&target_ref=https%3A%2F%2Fyastatic.net&uuid=4d76800bfc3a4a5b97b0ab8efc6603ce&video_category_id=1017&clid=495&yandexuid=6094165511568386376&slots=null&dvr=300&partner-id=274296&video-category-id=1017&gzip=1&vsid=b5f80ac4fd425cdac78fb7608809383bc41063595a23xWEBx2430x1570161027&adsid=3609810898bedc3192fb7a8253654bab174c58d78102xWEBx2430x1570161027
 
 #EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Якутия 24
 http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
@@ -233,10 +232,6 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tmk-media.ru/upload/images/1415125363_meteotvlogo2.png" group-title="Россия",Meteo
 http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mboxtv.ru/images/logo-4.png" group-title="Россия",Music Box Gold
-https://strm.yandex.ru/kal/musicboxgold/manifest.mpd?from=http%3A%2F%2Fmboxtv.ru&partner_id=412270&target_ref=https%3A%2F%2Fyastatic.net&uuid=442824c840a7250bb8d6909a79c5f21c&video_category_id=1017&clid=495&yandexuid=6094165511568386376&slots=null&dvr=300&partner-id=412270&video-category-id=1017&gzip=1&vsid=580e682d1b58b28a0ba904427223b239f68049504aa1xWEBx2428x1570161106&adsid=fd45054112c34da04210e9bd62997305baeefc041f2exWEBx2428x1570161106
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ru-music-box.jpg" group-title="Россия",Music Box Russia
-https://strm.yandex.ru/kal/rmbox/manifest.mpd?from=partner&partner_id=274296&target_ref=https%3A%2F%2Fyastatic.net&uuid=4d76800bfc3a4a5b97b0ab8efc6603ce&video_category_id=1017&clid=495&yandexuid=6094165511568386376&slots=null&dvr=300&partner-id=274296&video-category-id=1017&gzip=1&vsid=b5f80ac4fd425cdac78fb7608809383bc41063595a23xWEBx2430x1570161027&adsid=3609810898bedc3192fb7a8253654bab174c58d78102xWEBx2430x1570161027
 #EXTINF:-1 tvg-logo="https://mirbelogorya.ru/images/doc/logo/Logo_Mir_Belogorya(base).png" group-title="Россия",Мир Белагорья
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.myudm.ru/sites/all/themes/myudmnew/images/logo.png" group-title="Россия",Моя Удмуртия
