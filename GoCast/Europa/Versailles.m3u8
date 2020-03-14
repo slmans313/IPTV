@@ -79,7 +79,7 @@ http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://a2news.com/wp-content/themes/a2cnn/assets/images/a2-cnn-logo.png" group-title="Shqipëria/Kosovës",A2
 http://95.107.132.131:3344/udp/238.20.15.2:9009
 #EXTINF:-1 tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Shqipëria/Kosovës",Abc News 24/7
-http://95.107.132.131:3344/udp/235.0.0.2:9009
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://albswiss.com/wp-content/uploads/2019/07/logo-albswiss.png" group-title="Shqipëria/Kosovës",Alb'swiss TV
 http://62.210.188.65:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/d31311_0466676e81fe4ee2b92e07188fde7df3~mv2.jpg" group-title="Shqipëria/Kosovës",Albanian Television of America
@@ -208,6 +208,10 @@ http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Suite/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Syri%20Vision.png" group-title="Shqipëria/Kosovës",Syri Vizion
 http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://albania.mom-rsf.org/uploads/tx_lfrogmom/media/8084-1206_import.png" group-title="Shqipëria/Kosovës",Syri TV
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://syri.tv/wp-content/uploads/2017/12/logo.png group-title="Shqipëria/Kosovës",Syri Blue
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:-1 tvg-logo="http://www.televizioni7.com/wp-content/uploads/2018/04/T7-LOGO-White-e1523542525724.png" group-title="Shqipëria/Kosovës",T7
 http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.tematv.al/sites/default/files/logo3.png" group-title="Shqipëria/Kosovës",Tema TV
