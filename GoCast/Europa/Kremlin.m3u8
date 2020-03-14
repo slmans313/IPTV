@@ -516,21 +516,21 @@ http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="საქართველო",პირველი არხი
-http://188.93.95.34/gpb-1tv/mono.m3u8
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ajaratv.ge/img/logo.png" group-title="საქართველო",აჭარის ტელევიზია
 http://188.169.194.17:8000/play/ajaratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://mtavari.tv/assets/logo.png" group-title="საქართველო",Mtavari Arkhi
-https://mysisli.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
+https://hls.t.stream-dns.net/hls/mtavari_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="საქართველო",რუსთავი 2
 http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_gdstv.png" group-title="საქართველო",GDS
 http://188.169.194.17:8000/play/gds/gds/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.imedi.ge/m/i/logo.png" group-title="საქართველო",იმედი
-https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 #EXTINF:-1 tvg-logo="http://www.kavkasiatv.ge//images/temp/2018/10/30/5be3cdf02c3415e079c9c27c62ed08b4.png" group-title="საქართველო",მთავარი
 http://188.169.194.17:8000/play/kavkasia/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.maestro.ge//images/temp/2018/10/26/0a7ae2fe914d7dc62f3a64e947419171.png" group-title="საქართველო",მაესტრო
-http://188.169.194.17:8000/play/maesto/index.m3u8
+https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://mesame.ge/wp-content/uploads/2018/12/%E1%83%9A%E1%83%9D%E1%83%92%E1%83%9D2.png" group-title="საქართველო",მაესტრო
 http://188.169.194.17:8000/play/mesame/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_marao.png" group-title="საქართველო",Marao
@@ -547,6 +547,9 @@ http://stream.it-solutions.ge:1935/livetv/stream3/playlist.m3u8
 http://188.169.194.17:8000/play/silkuniversal/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_formula.png" group-title="საქართველო",TV ფორმულა
 https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/2f2a1be0-a822-11e7-a08e-f1a99e1471eb_100x100.png" group-title="საქართველო",TV Pirveli
+https://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Казахстан",Первый канал Евразия
 http://89.106.234.4:80/1KanalEvraziya_34_35.m3u8
