@@ -600,10 +600,10 @@ http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://zagrosnews.net/sites/default/files/zagros-logo-01_1.png" group-title="العراق",Zagro
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/Kan11.il.png" group-title="ישראל",Kan 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/KanHinuchit.il.png" group-title="ישראל",Ha-Hinuhit
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/Kan11.il.png" group-title="ישראל", כאן11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/KanHinuchit.il.png" group-title="ישראל",כאן חינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/Makan33.il.png" group-title="ישראל",Makan
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.mako.co.il/2019/11/19/24logowhite_I_reduced.jpg" group-title="ישראל",Music 24
@@ -614,6 +614,10 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hala-tv.com/images/hala_logo.png" group-title="ישראל",Hala TV
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multix.co.il/wp-content/uploads/2018/08/hidabroottv.png" group-title="ישראל",Hidabroo TV
+http://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kab.tv/static/images/kab_tv_heb.gif" group-title="ישראל",קבלה TV
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/13Reshet.il.png" group-title="ישראל",Reshet 13
 https://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13_2400.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/Channel20.il.png" group-title="ישראל",Channel 20
