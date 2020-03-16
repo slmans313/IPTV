@@ -344,9 +344,13 @@ http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 http://61.58.60.230:9319/live/202.m3u8
 
 #EXTINF:-1 ch-id="HBO" tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="电影",HBO
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="电影",Red by HBO
+https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="电影",Fox Movies
+https://tv4.chang55.com/live2/tv4ch82.stream/chunks.m3u8
 #EXTINF:-1 ch-id="FX" tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="电影",FX
-http://111.13.111.192/125.227.198.89:8027
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="电影",Fox Action Movies
 http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 ch-id="Warner TV" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="电影",Warner TV
