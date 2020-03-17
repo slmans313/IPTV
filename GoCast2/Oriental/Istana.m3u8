@@ -39,7 +39,7 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="新马频道",RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="American Sports",NBA TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="体育频道",NBA TV
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
 #EXTINF:-1 ch-id="Fox Sports" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育频道",FOX Sports
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
@@ -147,7 +147,7 @@ http://live.pjmcdn.info/live/Thairath-HD.stream/playlist.m3u8
 #EXTINF:-1 ch-id="PPTV-TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="东南亚频道",PPTV
 http://103.75.201.3:1935/live/pptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/CNNPhilippines.ph.png" group-title="Pilipinas",CNN Phillippines
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/CNNPhilippines.ph.png" group-title="东南亚频道",CNN Phillippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 ch-id="GMA Pinoy TV" tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="东南亚频道",GMA Pinoy TV
 http://164.40.161.43:10011
@@ -174,11 +174,11 @@ https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" group-title="东南亚频道",TTXVN
 http://live.vnanet.vn/720P/playlist.m3u8
 
-#EXTINF:-1 ch-id="Arirang TV" logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="新闻频道频道",Arirang TV
+#EXTINF:-1 ch-id="Arirang TV" logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="新闻频道",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ch-id="Al Jazeera" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻频道频道",Al Jazeera
+#EXTINF:-1 ch-id="Al Jazeera" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻频道",Al Jazeera
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
-#EXTINF:-1 ch-id="Bloomberg" tvg-logo="http://static.iptv-epg.com/us/BloombergTV.us.png" group-title="新闻频道频道",Bloomberg
+#EXTINF:-1 ch-id="Bloomberg" tvg-logo="http://static.iptv-epg.com/us/BloombergTV.us.png" group-title="新闻频道",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="新闻频道",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
@@ -344,7 +344,7 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u
 #EXTINF:-1 ch-id="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国频道",CCTV17
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="Ocenia",ACC
+#EXTINF:-1 tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="英文频道",ACC
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 #EXTINF:-1 ch-id="tv.101002210221" tvg-logo="https://static.iptv-epg.com/au/ABC.au.png" group-title="英文频道",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
@@ -356,7 +356,7 @@ https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ch-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC Comedy/ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/Action.au.png" group-title="Ocenia",Australia Channel
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/Action.au.png" group-title="英文频道",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 ch-id="AXN" tvg-logo="http://static.iptv-epg.com/id/AXN.id.png" group-title="英文频道",AXN
 http://210.210.155.66/h/h141/01.m3u8
@@ -375,7 +375,7 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 #EXTINF:-1 tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="英文频道",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title=印度频道",Colors
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="印度频道",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/211_300.png" group-title="印度频道",Sun TV
 http://160.119.77.50/iptv/in-suntv.stream/playlist.m3u8
@@ -387,7 +387,7 @@ http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="印度频道",Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="印度频道,Star Plus
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="印度频道",Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="印度频道",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
