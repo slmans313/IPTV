@@ -344,17 +344,20 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u
 #EXTINF:-1 ch-id="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国频道",CCTV17
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="Ocenia",ACC
+http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 #EXTINF:-1 ch-id="tv.101002210221" tvg-logo="https://static.iptv-epg.com/au/ABC.au.png" group-title="英文频道",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 ch-id="tv.abc2" tvg-logo="https://static.iptv-epg.com/au/ABCComedy.au.png" group-title="英文频道",ABC Comedy/ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
 #EXTINF:-1 ch-id="tv.101002210220" tvg-logo="https://static.iptv-epg.com/au/ABCME.au.png" group-title="英文频道",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-#EXTINF:-1 ch-id="tv.101002210224" tvg-logo="http://static.iptv-epg.com/au/ABCNews24.au.png" group-title="英文频道",ABC News
+#EXTINF:-1 ch-id="tv.101002210224" tvg-logo="http://static.iptv-epg.com/au/ABCNews24.au.png" group-title="英文频道",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ch-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC Comedy/ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/Action.au.png" group-title="Ocenia",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 ch-id="AXN" tvg-logo="http://static.iptv-epg.com/id/AXN.id.png" group-title="英文频道",AXN
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="英文频道",HITS
