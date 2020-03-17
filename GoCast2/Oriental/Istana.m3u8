@@ -192,15 +192,23 @@ http://61.58.60.230:9319/live/129.m3u8
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:-1 ch-id="France24" tvg-logo="http://static.iptv-epg.com/fr/France24English.fr.png" group-title="新闻频道",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="新闻频道",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 ch-id="NHK World Japan" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="新闻频道",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 ch-id="RT" tvg-logo="http://static.iptv-epg.com/ru/RTInternational.ru.png" group-title="新闻频道",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/SkyNews.za.png" group-title="新闻频道",Sky News
 http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="新闻频道",Wion
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻频道",凤凰资讯
 http://liveali.ifeng.com/live/FHZX.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="电影台",&Flix
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="电影台",&Prive
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/br/Cinemax.br.png" group-title="电影台",Cinemax
 http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 #EXTINF:-1 ch-id="HBO" tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="电影台",HBO
@@ -391,12 +399,16 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 #EXTINF:-1 tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="英文频道",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="印度频道",9XO
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="印度频道",Amrita
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="印度频道",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="印度频道",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ColorsBangla.in.png" group-title="বাংলা",Colors বাংলা
+http://live.robitvplus.com/hls/aWgJd_YFzVGahdZks6iV7w/1576789156/colors_bangla.m3u8
 #EXTINF:-1 tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="印度频道",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-logo="https://webcast.gov.in/images/kisan.jpg" group-title="印度频道",DD Kisan
@@ -413,10 +425,12 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 https://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" group-title="印度频道",Jaya Max
 http://45.120.188.178/hdmi
-#EXTINF:-1 tvg-logo="http://www.jonack.in/main/css/image_png/logo111.png" group-title="印度频道",Jonack
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925856227s.png" group-title="印度频道",Jeevan
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="印度频道",Jaihind
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.jonack.in/main/css/image_png/logo111.png" group-title="印度频道",Jonack
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="印度频道",Kaumudy
 https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kappatv.co.in/polopoly_fs/7.107.1554977712!/image/image.png_gen/derivatives/default/image.png" group-title="印度频道",Kappa
@@ -433,8 +447,12 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="印度频道",Raj TV
 http://45.120.188.184/hdmi
+#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/raj-digital-pllus.png" group-title="印度频道",Raj Digital Plus
+http://45.120.188.179/hdmi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="印度频道",Reporter TV
 http://livecdnh1.tvanywhere.ae:80/hls/reporter/04.m3u8
+#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="印度频道",Sangeet Bangla
+https://streamer-1.toffeelive.com/live/sangeet_bangla_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="印度频道",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="印度频道",Star Gold
@@ -451,8 +469,12 @@ http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/211_300.png" group-title="印度频道",Sun TV
 http://160.119.77.50/iptv/in-suntv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="印度频道",Suvarna News
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.velichamtv.org/velicham/wp-content/uploads/2018/04/Velicham-WEb.png" group-title="印度频道",Velicham
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/WOWCinema.in.png" group-title="印度频道",Wow Cinema
+https://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="印度频道",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="印度频道",Zee Bioskop
@@ -461,6 +483,8 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/4/2019/04/cropped-ZeeTelgu-512x512-1.png" group-title="印度频道",Zee Telugu
 http://31.14.40.58:8080/ZEETELUGU_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zing.in.png" group-title="印度频道",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zoom.in.png" group-title="印度频道",Zoom
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 
