@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>7</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+	<channel update="i" site="yourtv.com.au" site_id="18294#73##Sydney" xmltv_id="ABC">ABC</channel>
+    <channel update="i" site="yourtv.com.au" site_id="411316#73##Sydney" xmltv_id="ABC ME">ABC ME</channel>
+    <channel update="i" site="yourtv.com.au" site_id="391135#73##Sydney" xmltv_id="ABC News 24">ABC News 24</channel>
+	<channel update="i" site="yourtv.com.au" site_id="431208#73##Sydney" xmltv_id="RACING.COM">Racing.com</channel>
+	<channel update="i" site="yourtv.com.au" site_id="284791#73##Sydney" xmltv_id="ABC2 / KIDS">ABC Kids</channel>
+	<channel update="i" site="yourtv.com.au" site_id="251268#168##Sydney" xmltv_id="Sky News Australia">Australia Channel</channel>
+	<channel update="i" site="yourtv.com.au" site_id="280637#168##Sydney" xmltv_id="ACC">ACC</channel>
+			
+	<channel update="i" site="freeviewnz.tv" site_id="11" xmltv_id="TV3">Three</channel>
+	<channel update="i" site="freeviewnz.tv" site_id="13" xmltv_id="Māori Television">Māori TV</channel>
+	<channel update="i" site="freeviewnz.tv" site_id="20" xmltv_id="Te Reo">Te Reo</channel>
+	<channel update="i" site="freeviewnz.tv" site_id="39" xmltv_id="Firstlight">Firstlight</channel>
+	
+	<channel update="i" site="astro.com.my" site_id="39" xmltv_id="BBC World">BBC World News</channel>	
+	<channel update="i" site="tvsmagazine.com.th.E" site_id="en_Entertainment_11" xmltv_id="EN - BBC LIFE">BBC Lifestyle</channel>
+	<channel update="i" site="tvsmagazine.com.th.E" site_id="en_News_5" xmltv_id="EN - CNBC">CNBC</channel>
+	<channel update="i" site="nowtv.now.com" site_id="326" xmltv_id="euronews">Euronews</channel>
+	<channel update="i" site="nowtv.now.com" site_id="640" xmltv_id="MUTV">MUTV</channel>
+	<channel update="i" site="nowtv.now.com" site_id="711" xmltv_id="NHK World Premium">NHK World Premium</channel>
+	<channel update="i" site="nowtv.now.com" site_id="711" xmltv_id="TV5MONDE Style">TV5 Monde Style</channel>
+	<channel update="i" site="nowtv.now.com" site_id="715" xmltv_id="France 24 (French)">France 24 (French)</channel>
+	<channel update="i" site="nowtv.now.com" site_id="765" xmltv_id="DW Deutsch">DW Deutsch</channel>
+	<channel update="i" site="nowtv.now.com" site_id="318" xmltv_id="Fox News">Fox News</channel>
+	<channel update="i" site="astro.com.my" site_id="189" xmltv_id="Golf Channel HD">Golf Channel</channel>
+	<channel update="i" site="astro.com.my" site_id="391" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="yourtv.com.au" site_id="251271#168##Sydney" xmltv_id="RAI">Rai Italia</channel>
+</settings>
