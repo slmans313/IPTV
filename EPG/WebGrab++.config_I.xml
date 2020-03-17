@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>7</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+	<channel update="i" site="astro.com.my" site_id="159" xmltv_id="Star Vijay">விஜய்</channel>
+	<channel update="i" site="astro.com.my" site_id="33" xmltv_id="Raj TV">Raj TV</channel>
+	<channel update="i" site="astro.com.my" site_id="47" xmltv_id="Makkal TV">மக்கள்</channel>
+	<channel update="i" site="nowtv.now.com" site_id="780" xmltv_id="COLORS">Colors</channel>
+	<channel update="i" site="nowtv.now.com" site_id="781" xmltv_id="Zee Cinema International">Zee Cinema</channel>
+	<channel update="i" site="nowtv.now.com" site_id="782" xmltv_id="Zee TV">Zee TV</channel>
+	<channel update="i" site="nowtv.now.com" site_id="793" xmltv_id="Star Gold">Star Gold</channel>
+    <channel update="i" site="nowtv.now.com" site_id="794" xmltv_id="STAR PLUS">Star Plus</channel>
+    <channel update="i" site="nowtv.now.com" site_id="797" xmltv_id="Star Bharat">Star Bharat</channel>
+    <channel update="i" site="d2h.com.E" site_id="12_SUN TV" xmltv_id="SUN TV">Sun TV</channel>
+	<channel update="i" site="d2h.com.E" site_id="19_STAR JALSHA" xmltv_id="STAR JALSHA">Star Jalsha</channel>
+    <channel update="i" site="transvision.co.id" site_id="ZBIO" xmltv_id="Z Bioskop">Zee Bioskop</channel>
+    <channel update="i" site="d2h.com.E" site_id="11_ZOOM" xmltv_id="ZOOM">Zoom</channel>
+	<channel update="i" site="d2h.com.E" site_id="11_B4U MUSIC" xmltv_id="B4U MUSIC">B4U Music</channel>
+	<channel update="i" site="d2h.com.E" site_id="5_DD NEWS" xmltv_id="DD NEWS">DD News</channel>
+	<channel update="i" site="d2h.com.E" site_id="1_Sony TV" xmltv_id="Sony TV">Sony ETV</channel>
+    <channel update="i" site="d2h.com.E" site_id="11_SONY MIX" xmltv_id="SONY MIX">Sony Mix</channel>
+	<channel update="i" site="d2h.com.E" site_id="26_HISTORY TV 18 HD" xmltv_id="HISTORY TV 18 HD">History हिन्दी</channel>
+	<channel update="i" site="d2h.com.E" site_id="12_JAYA MAX" xmltv_id="JAYA MAX">Jaya Max</channel>
+    <channel update="i" site="d2h.com.E" site_id="17_DD PUNJABI" xmltv_id="DD PUNJABI">DD Punjabi</channel>
+	<channel update="i" site="d2h.com.E" site_id="28_DD KISAN" xmltv_id="DD KISAN">DD Kisan</channel>
+	<channel update="i" site="d2h.com.E" site_id="21_JONACK" xmltv_id="JONACK">Jonack</channel>
+	<channel update="i" site="d2h.com.E" site_id="13_FLOWERS" xmltv_id="FLOWERS">Flowers</channel>
+	<channel update="i" site="d2h.com.E" site_id="13_KAIRALI" xmltv_id="KAIRALI">Kairali</channel>
+    <channel update="i" site="d2h.com.E" site_id="13_AMRITA" xmltv_id="AMRITA">Amrita</channel>
+    <channel update="i" site="d2h.com.E" site_id="13_WE" xmltv_id="WE">Kairali We</channel>
+    <channel update="i" site="d2h.com.E" site_id="13_KAUMUDY" xmltv_id="KAUMUDY">Kaumudy</channel>
+	<channel update="i" site="d2h.com.E" site_id="13_Harvest TV" xmltv_id="Harvest TV">Harvest</channel>
+    <channel update="i" site="d2h.com.E" site_id="13_Jeevan TV" xmltv_id="Jeevan TV">Jeevan</channel>
+	<channel update="i" site="d2h.com.E" site_id="13_MAZHAVIL MANORAMA" xmltv_id="MAZHAVIL MANORAMA">Mazhavil Manorama</channel>
+	<channel update="i" site="d2h.com.E" site_id="17_PITAARA" xmltv_id="PITAARA">Pitaara</channel>
+	<channel update="i" site="d2h.com.E" site_id="13_REPORTER TV" xmltv_id="REPORTER TV">Reporter TV</channel>
+    <channel update="i" site="d2h.com.E" site_id="13_KAPPA" xmltv_id="KAPPA">Kappa</channel>
+	<channel update="i" site="d2h.com.E" site_id="12_VELICHAM TV" xmltv_id="VELICHAM TV">Velicham</channel>
+	<channel update="i" site="d2h.com.E" site_id="26_GEMINI HD" xmltv_id="GEMINI HD">Gemini Movies</channel>
+	<channel update="i" site="d2h.com.E" site_id="15_ZEE TELUGU" xmltv_id="ZEE TELUGU">Zee Telugu</channel>
+</settings>
