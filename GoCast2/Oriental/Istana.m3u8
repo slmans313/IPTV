@@ -205,7 +205,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻频道",凤凰资讯
 http://liveali.ifeng.com/live/FHZX.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="电影台",&Flix
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="电影台",Flix
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="电影台",&Prive
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
@@ -407,6 +407,8 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="印度频道",CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png" group-title="印度频道",Channel Win
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="印度频道",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="印度频道",DD News
@@ -415,8 +417,12 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 https://streamer-1.toffeelive.com/live/dd_bangla_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://webcast.gov.in/images/kisan.jpg" group-title="印度频道",DD Kisan
 https://playhls.media.nic.in/live/ddkisan-360p/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ddkbbsr.gov.in/sites/all/themes/ddk/images/ddnews.png" group-title="印度频道",DD Odia
+http://streamidvo.multitvsolution.in/DDOdia-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="印度频道",DD Punjabi
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="印度频道",DY365
+http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/Flowers.png" group-title="印度频道",Flowers
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/26gemini-movies.jpg" group-title="印度频道",Gemini Movies
@@ -437,6 +443,8 @@ http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kappatv.co.in/polopoly_fs/7.107.1554977712!/image/image.png_gen/derivatives/default/image.png" group-title="印度频道",Kappa
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-logo="http://kanaknews.com/wp-content/uploads/2015/11/kanak_logo11.png" group-title="印度频道",Kanak News
+http://139.59.13.228:8081/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/news-photo/92907-MazhavilManorama.jpg" group-title="印度频道",Mazhavil Manorama
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Mediaone_Logo.png" group-title="印度频道",Media One
@@ -451,6 +459,10 @@ http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="印度频道",மக்கள்
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
+#EXTINF:-1 tvg-logo="https://live.odishatv.in/wp-content/uploads/2018/05/logo-new-black.png" group-title="印度频道",Odisha TV
+https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.prameyanews7.com/wp-content/uploads/2018/12/NEWS7_LOGO-300x83.jpg" group-title="印度频道",Prameya News 7
+http://news7.mycast.in/encode/news7/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pitaara.tv/wp-content/uploads/2018/12/logo.png" group-title="印度频道",Pitaara
 http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="印度频道",Raj TV
