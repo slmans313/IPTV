@@ -78,8 +78,6 @@ http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
 https://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="বাংলা",Maasranga tv
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.bengali.news18.com/static-bengali/2017/09/mainlogo_bangla.png" group-title="বাংলা",News Time Bangla
-http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fyshnet.files.wordpress.com/2010/08/ntv-logo1.jpg" group-title="বাংলা",NTV
 http://103.68.116.50/live/feed1007/index.m3u8
 #EXTINF:-1 tvg-logo="https://fyshnet.files.wordpress.com/2010/08/ntv-logo1.jpg" group-title="বাংলা",NTV USA
@@ -113,17 +111,21 @@ http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBanglaCinema.in.png" group-title="বাংলা",Zee Bangala Cinema
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="भोजपुरी",Anjan TV
-https://anjancdn.vstream.online/bstb/ngrp:anjan_hdall/chunklist_b1580000.m3u8
+#EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="भोजपुरी",Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
 
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22677/matv-live/logo_20191213_010243.png" group-title="ગુજરાતી",MATV
 https://a.jsrdn.com/broadcast/22677_J8PT4x6prY/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://static.abplive.com/wp-content/themes/abp-gujrati/images/logo/asmita_logo.png" group-title="ગુજરાતી",ABP Asmita
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.gstv.in/wp-content/uploads/2019/03/cropped-cropped-logo-1.png" group-title="ગુજરાતી",GS TV
+https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1092973978321387522/hOXDdNxE.jpg" group-title="ગુજરાતી",CNBC Bajar 
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="https://js.newsx.com/wp-content/themes/newsxlite/images/gujrat_logo.png" group-title="ગુજરાતી",India News Gujarat
 https://streamidvo.multitvsolution.in/IndiaNewsGujarat-c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="ગુજરાતી",VTV ગુજરાતી
+https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.odishatv.in/wp-content/uploads/2018/05/logo-new-black.png" group-title="ଓଡ଼ିଆ",Odisha TV
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
@@ -173,6 +175,8 @@ https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
 http://stream1.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://geotez.tv/assets/front/images/tez_logo.png" group-title="خبریں",Geo Tez
 http://stream1.jeem.tv/geo/geotezz_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg" group-title="خبریں",Gulistan News
+https://rtmp.smartstream.video/gulistannews/gulistannews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pk/HumNews.pk.png" group-title="خبریں",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://khybernews.tv/wp-content/uploads/2018/08/logo-khybernews.png" group-title="خبریں",Khyber News
