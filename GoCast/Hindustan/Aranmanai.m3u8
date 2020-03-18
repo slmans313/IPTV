@@ -36,6 +36,8 @@ http://livematrix.in:1935/live/jay/index.m3u8
 https://ibcevent-live.ibctamil.com/transcode/ibcevent_mid.m3u8
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="தமிழ்",IBC Kids
 https://ibckids-origin.ibctamil.com/transcode/ibckids_mid.m3u8
+#EXTINF:-1 tvg-logo="https://www.imayamtv.com/images/logo.png" group-title="தமிழ்",Imayam
+https://5c75277727cd1.streamlock.net/imayamtv/imayamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YXBwNGsudGFtaWx0dl9zY3JlZW5fMV8xNTU2MDc4MDIxXzA0MQ/screen-1.jpg?h=355&fakeurl=1&type=.jpg" group-title="பொழுதுபோக்கு",Jaffna TV
 http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="இசை",Marutam TV
@@ -104,8 +106,6 @@ http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
 http://45.120.188.178/hdmi
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCISAI.png" group-title="இசை",IBC Music
 https://ibcmusic-origin.ibctamil.com/transcode/ibcmusic_mid.m3u8
-#EXTINF:-1 tvg-logo="https://www.mktelevision.com/images/mklg3.png" group-title="இசை",MK Tunes
-http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="இசை",MN TV Music
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim@2x.gif" group-title="இசை",Santhora TV
@@ -119,16 +119,20 @@ https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi_mid.m3u8
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-siluvaii.png" group-title="மதம்",IBC Siluvai
 https://ibcsiluvai-origin.ibctamil.com/transcode/ibcsiluvai_mid.m3u8
+#EXTINF:-1 tvg-logo="http://www.madhatv.in/images/logo.png" group-title="மதம்",Madha
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.nakkubetta.tv/wp-content/themes/nakkubetta/assets/img/nakkubetta-logo.png" group-title="மதம்",Nakkubetta tv
 http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
+#EXTINF:-1 tvg-logo="https://nambikkaitv.com/images/logo.png" group-title="மதம்",Nambikkai
+http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fMs4cj.png" group-title="மதம்",Sri Krishna TV
 http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
 #EXTINF:-1 tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/29074612SKTAT%20TV.png" group-title="மதம்",Sktat
 http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="மதம்",Sivan TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="மதம்",TTD Tamil
-http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="மதம்",SVBC 2
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.hamsatv.in/assets/images/logo.png" group-title="ಕನ್ನಡ",Hamsa
@@ -144,6 +148,8 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Public_Kannda.
 #EXTINF:-1 tvg-logo="https://www.srisankaratv.com/img/logos/sankara-tv-logo-main.png" group-title="ಕನ್ನಡ",Sri Sankara
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="తెలుగు",SVBC
+http://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/26gemini-movies.jpg" group-title="తెలుగు",Gemini Movies
 http://31.14.40.58:9083/GEMINIMOVIES_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/4/2019/04/cropped-ZeeTelgu-512x512-1.png" group-title="తెలుగు",Zee Telugu
