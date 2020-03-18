@@ -771,11 +771,10 @@ http://d15i8x1adtn1w6.cloudfront.net/tcsplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TCS_El_Salvador_2002.svg/375px-TCS_El_Salvador_2002.svg.png" group-title="El Salvador",TCS
 http://d15i8x1adtn1w6.cloudfront.net/tcshd/index.m3u8
 
-https://img.onesignal.com/permanent/a3430be6-4ee5-4c7c-a1ff-d40b271f1c32.png
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/330px-Canal_Uno_%28Ecuador%29_logo.png" group-title="Ecuador",Canal Uno
-https://live2.tvenvivoecuador.com/hls/ec5as8ec12ec.m3u8
+#EXTINF:-1 tvg-logo="https://www.ecuadortv.ec/images/ecuadortv11.png" group-title="Ecuador",Ecuador TV
+http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="Ecuador",Ecuavisa
-https://live2.tvenvivoecuador.com/hls/ecuavisa2019.m3u8
+http://173.212.247.99/hls/tvec2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gamavisión
 http://173.212.247.99/hls/tvec1.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.rts.com.ec/2018/v3/images/logo.png" group-title="Ecuador",RTS Ecuador
@@ -784,16 +783,13 @@ http://173.212.247.99/hls/tvec3.m3u8
 https://5c21f7ec1999d.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="Ecuador",Teleamazonas
 http://173.212.247.99/hls/tvec4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="Ecuador",Canela TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="Ecuador",Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/225px-Rts_logo.png" group-title="Ecuador",RTS
-https://ec-rts-guayaquil-live-0-cdn-0.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tF0KAuUf62Q/W0s1DWBBkiI/AAAAAAAAGX0/KcaWyGInBtUep1QHQt7aVtpElUYSH9j0gCLcBGAs/s200/TVN%2Ben%2Bvivo%2Becuador.jpg" group-title="Ecuador",TVN Canal 9
-https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV
-http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/logotc-101.png" group-title="Ecuador",TC Televisión
+https://5c21f7ec1999d.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/final.gif" group-title="Ecuador",Hechos Ecuador
 http://192.99.56.185/hechosecuador/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/web/wp-content/uploads/2019/03/96-transp.png" group-title="República Dominicana",Telemicro 5
 http://stream.grupotelemicro.com/hd.m3u8
