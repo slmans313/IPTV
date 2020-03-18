@@ -213,9 +213,6 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻频道",凤凰资讯
 http://liveali.ifeng.com/live/FHZX.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影台",東森新闻
-https://www.youtube.com/watch?v=ewDTy_CSQVo
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="电影台",&Flix
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="电影台",&Prive
@@ -327,7 +324,7 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225668/1/index.m3u8?fmt=ts2hls
 http://111.40.205.76/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 ch-id="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="中国频道",兵团卫视
 http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
-#EXTINF:-1 ch-id="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="中国频道",香港卫视
+#EXTINF:-1 ch-id="香港卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="中国频道",HKS
 https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
 #EXTINF:-1 ch-id="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国频道",CCTV4K
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
@@ -373,9 +370,13 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="粤语频道",有线新闻台
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="粤语频道",翡翠台
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+http://pull.scphsd.com/live/5ff2d28e7f4066afc32511ae35244642/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="粤语频道",明珠台
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+http://pull.scphsd.com/live/0283db9ad5c8faf6c3a638635b934623/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/TVBJ2.hk.png" group-title="粤语频道",J2
+http://pull.scphsd.com/live/de40860438e011bfaf85f4b32af7e924/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hk/ViuTV96.hk.png" group-title="粤语频道",ViuTV
+http://pull.scphsd.com/live/c6e4d29fe10d0e588f9e2e136f4067b7/playlist.m3u8
 #EXTINF:-1 ch-id="TVB星河频道" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="粤语频道",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png" group-title="粤语频道",南方卫视
