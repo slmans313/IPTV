@@ -239,29 +239,42 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/BandSports.br.png" group-title="Português/Brasil",Band Sports
-http://proxyts.ec.cx:8082/hls1/bandsports.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/bandsports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="Português/Brasil",Canal Off
-http://proxyts.ec.cx:8082/hls1/off.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/off.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo SP
-http://proxyts.ec.cx:8082/hls1/bobosp.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/bobosp.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/GloboRJ.br.png" group-title="Português/Brasil",Globo RJ
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/boborj.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Gnt.br.png" group-title="Português/Brasil",GNT
-http://proxyts.ec.cx:8082/hls1/gnt.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/gnt.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Gloob.br.png" group-title="Português/Brasil",Gloob
-http://proxyts.ec.cx:8082/hls1/gloob.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1200px-Mais_Globosat_logo_2016.svg.png" group-title="Português/Brasil",Mais Globosat
-http://proxyts.ec.cx:8082/hls1/maisbobosat.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/gloob.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Premiere2.br.png" group-title="Português/Brasil",Premiere
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/premiereclubes.m3u8
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="Português/Brasil",Mais Globosat
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/maisbobosat.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Multishow.br.png",Multishow
-http://proxyts.ec.cx:8082/hls1/multishow.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/multishow.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Odisseia.pt.png",Odisseia
 http://51.15.3.161:8080/odessa/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/RecordNews.br.png" group-title="Português/Brasil",Record News
-https://origin.canaismax.com/mylive/recordhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/RecordTV.br.png" group-title="Português/Brasil",Record TV
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/recordsp.m3u8
 #EXTINF:-1 tvg-logo="https://redetvc.com.br/wp-content/uploads/2019/12/logotvctv.png" group-title="Português/Brasil",Rede TVC Brasil
 https://7ejqucofpe.singularcdn.net.br/iptv/hls/tvc/tvc.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv.br.png" group-title="Português/Brasil",SporTV
-http://proxyts.ec.cx:8082/hls1/sportv1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/SBT.br.png" group-title="Português/Brasil",SBT
+http://proxyts.canais.info:8084/hls1/sbt.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/SBT.br.png" group-title="Português/Brasil",SBT 2
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/sbt.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv.br.png" group-title="Português/Brasil",SporTv
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/sportv1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv.br.png" group-title="Português/Brasil",SporTv 2
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/sportv2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv.br.png" group-title="Português/Brasil",SporTv 3
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/sportv3.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/10092019145920.png" group-title="Português/Brasil",TV Brasil 2
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2014/04/logo.png" group-title="Português/Brasil",TV Gazeta
@@ -273,6 +286,8 @@ http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Tvi24.pt.png" group-title="Português/Brasil",TVI 24
 http://video-auth7.iol.pt:80/live_tvi24/live_tvi24/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Arte1.br.png" group-title="Português/Brasil",Arte 1
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/arte1.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" group-title="Português/Brasil",ARTV
 http://193.126.16.69:1935/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.cazavision.com/images/logo-whitePT.png" group-title="Português/Brasil",Caçavision
@@ -281,6 +296,8 @@ https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/CancaoNova.br.png" group-title="Português/Brasil",Canção Nova Brasil
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Curta.br.png" group-title="Português/Brasil",Curta!
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/curta.m3u8
 #EXTINF:-1 tvg-logo="http://www.kuriakos-tv.com/img/logo@2x.png" group-title="Português/Brasil",Kuriakos TV 
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Porto.pt.png" group-title="Português/Brasil",Porto Canal
@@ -298,96 +315,126 @@ http://midia.faap.br/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Português/Brasil",TV Pampa
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Viva.br.png" group-title="Português/Brasil",Viva
-http://proxyts.ec.cx:8082/hls1/viva.m3u8
-
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/viva.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/AandE.au.png" group-title="Português/Brasil",A&E Brasil
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/aie.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/AXN.id.png" group-title="Português/Brasil",AXN Brasil
-http://proxyts.ec.cx:8082/hls1/axn.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/axn.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/co/AMC.co.png" group-title="Português/Brasil",AMC Brasil
-http://proxyts.ec.cx:8082/hls1/amc.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/amc.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="Português/Brasil",Animal Planet Brasil
-http://proxyts.ec.cx:8082/hls1/animalplanet.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Boomerang.de.png" group-title="Português/Brasil",Boomerang Brasil
-http://proxyts.ec.cx:8082/hls1/boomerang.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/boomerang.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/br/Cinemax.br.png" group-title="Português/Brasil",Cinemax Brasil
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Português/Brasil",Cartoon Network Brasil
-http://proxyts.ec.cx:8082/hls1/cartoon.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/cartoon.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png" group-title="Português/Brasil",Comedy Central Brasil
-http://proxyts.ec.cx:8082/hls1/comedycentral.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/comedycentral.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Português/Brasil",Discovery Brasil
-http://proxyts.ec.cx:8082/hls1/discovery.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Português/Brasil",Investigation Discovery Brasil
-https://dd3qfqjqc2630.cloudfront.net/hls1/investigacaodiscovery.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/investigacaodiscovery.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="Português/Brasil",Discovery Turbo Brasil
-http://proxyts.ec.cx:8082/hls1/discoveryturbo.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/discoveryturbo.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/DiscoveryWorld.nl.png" group-title="Português/Brasil",Discovery World Brasil
-http://proxyts.ec.cx:8082/hls1/discoveryworld.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/discoveryworld.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryCivilization.br.png" group-title="Português/Brasil",Discovery Civilization
-http://proxyts.ec.cx:8082/hls1/discoverycivilization.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/discoverycivilization.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryTheater.br.png" group-title="Português/Brasil",Discovery Theater
-http://proxyts.ec.cx:8082/hls1/discoverytheater.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/discoverytheater.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryHomeHealth.br.png" group-title="Português/Brasil",iscovery Home and Health
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/discoveryhomeihealth.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryKids.br.png" group-title="Português/Brasil",Discovery Kids
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/discoverykids.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DisneyChannel.us.png" group-title="Português/Brasil",Disney Brasil
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/disney.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DisneyJunior.us.png" group-title="Português/Brasil",Disney Jr Brasil
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/disneyjunior.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DisneyXD.us.png" group-title="Português/Brasil",Disney XD Brasil
-http://proxyts.ec.cx:8082/hls1/disneyxd.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/disneyxd.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="Português/Brasil",Food Network Brasil
-http://proxyts.ec.cx:8082/hls1/foodnetwork.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/foodnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Português/Brasil",Fox Brasil
-http://proxyts.ec.cx:8082/hls1/fox.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/fox.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/FOXPremium1.br.png" group-title="Português/Brasil",Fox Premium 1 Brasil
-http://proxyts.ec.cx:8082/hls1/foxpremium1.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/foxpremium1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Português/Brasil",Fox Live Brasil
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/foxlife.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/FOXPremium2.br.png" group-title="Português/Brasil",Fox Premium 2 Brasil
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/foxpremium2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/FoxSports.br.png" group-title="Português/Brasil",Fox Sports Brasil
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/foxsports1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/FoxSports2.br.png" group-title="Português/Brasil",Fox Sports Brasil 2
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/foxsports2.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="Português/Brasil",FX
-http://proxyts.ec.cx:8082/hls1/fx.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/fx.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBO.br.png" group-title="Português/Brasil",HBO Brasil
-http://proxyts.ec.cx:8082/hls1/hbo.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBO2.br.png" group-title="Português/Brasil",HBO 2 Brasil
-http://proxyts.ec.cx:8082/hls1/hbo2.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/hbo2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/HBOPlus.mx.png" group-title="Português/Brasil",HBO+ Brasil
-http://proxyts.ec.cx:8082/hls1/hboplus.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/hboplus.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="Português/Brasil",HBO Family
-http://proxyts.ec.cx:8082/hls1/hbofamily.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/hbofamily.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Português/Brasil",HBO Signature Brasil
-http://proxyts.ec.cx:8082/hls1/hbosignature.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Logo-hboPOP2020.png/revision/latest/scale-to-width-down/340?cb=20191230061111" group-title="Português/Brasil",HBO Pop Brasil
-http://proxyts.ec.cx:8082/hls1/maxup.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/hbosignature.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/maxUP.br.png" group-title="Português/Brasil",MAX Up
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/maxup.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/MaxBrasil.br.png" group-title="Português/Brasil",MAX
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/max.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/MaxPrimeBrasil.br.png" group-title="Português/Brasil",MAX Prime
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/maxprime.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="Português/Brasil",History
-http://proxyts.ec.cx:8082/hls1/history.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/history.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History2.de.png" group-title="Português/Brasil",History
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/history2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Lifetime.br.png" group-title="Português/Brasil",Lifetime
-http://proxyts.ec.cx:8082/hls1/lifetime.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/lifetime.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Megapix.br.png" group-title="Português/Brasil",Megapix
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/megapix.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MTV.us.png" group-title="Português/Brasil",MTV Brasil
-http://proxyts.ec.cx:8082/hls1/mtv.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/mtv.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Português/Brasil",National Geo Brasil
-http://proxyts.ec.cx:8082/hls1/natgeo.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/natgeo.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Português/Brasil",National Geo Wild Brasil
-http://proxyts.ec.cx:8082/hls1/natgeowild.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/natgeowild.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Português/Brasil",Nickelodeon Brasil
-http://proxyts.ec.cx:8082/hls1/nick.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/nick.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/NickJr.ee.png" group-title="Português/Brasil",Nick JR Brasil
-http://proxyts.ec.cx:8082/hls1/nickjr.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="Português/Brasil",Paramount Brasil
-http://proxyts.ec.cx:8082/hls1/paramount.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/paramount.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sony.br.png" group-title="Português/Brasil",Sony Brasil
-http://proxyts.ec.cx:8082/hls1/sony.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/sony.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Space.br.png" group-title="Português/Brasil",Space Brasil
-http://proxyts.ec.cx:8082/hls1/space.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/space.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Studiouniversal.br.png" group-title="Português/Brasil",Studio Universal
-http://proxyts.ec.cx:8082/hls1/studiouniversal.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/studiouniversal.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Syfy.uk.png" group-title="Português/Brasil",Syfy Brasil
-http://proxyts.ec.cx:8082/hls1/syfy.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/TCM.nz.png" group-title="Português/Brasil",TCM
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/tcm.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineAction.br.png" group-title="Português/Brasil",Telecine Action
-http://proxyts.ec.cx:8082/hls1/telecineaction.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/telecineaction.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineCult.br.png" group-title="Português/Brasil",Telecine Cult
-http://proxyts.ec.cx:8082/hls1/telecinecult.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/telecinecult.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecineFun.br.png" group-title="Português/Brasil",Telecine Fun
-http://proxyts.ec.cx:8082/hls1/telecinefun.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/telecinefun.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePremium.br.png" group-title="Português/Brasil",Telecine Premium
-http://proxyts.ec.cx:8082/hls1/telecinepremium.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/telecinepremium.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TelecinePipoca.br.png" group-title="Português/Brasil",TeleCine Pipoca
-http://proxyts.ec.cx:8082/hls1/telecinepipoca.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/telecinepipoca.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Tooncast.br.png" group-title="Português/Brasil",Tooncast
-http://proxyts.ec.cx:8082/hls1/tooncast.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/tooncast.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/TLC.de.png" group-title="Português/Brasil",TLC Brasil
-http://proxyts.ec.cx:8082/hls1/tlc.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/TNT.pl.png" group-title="Português/Brasil",TNT Brasil
-http://proxyts.ec.cx:8082/hls1/tnt.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/TNTSeries.br.png" group-title="Português/Brasil",TNT Series
-http://proxyts.ec.cx:8082/hls1/tntseries.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/syfy.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="Português/Brasil",Trace Brazuka
 https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/TVN-Brasil-webtvonlive.com_.jpg" group-title="Português/Brasil",TVN Brasil
@@ -395,11 +442,11 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2014/04/logo.png" group-title="Português/Brasil",TV Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Português/Brasil",Warner TV Brasil
-http://proxyts.ec.cx:8082/hls1/warner.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/warner.m3u8
 #EXTINF:-1 tvg-logo="https://webmusic.tv/uploads/custom-logo.png" group-title="Português/Brasil",Web Music TV
 http://stmv1.ifantasy.com.br/webmusictv/webmusictv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/UniversalChannel.mx.png" group-title="Português/Brasil",Universal Brasil
-http://proxyts.ec.cx:8082/hls1/universal.m3u8
+https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/universal.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/LA1.es.png" group-title="Español",LA 1
