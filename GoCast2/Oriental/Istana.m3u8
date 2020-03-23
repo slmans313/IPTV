@@ -137,6 +137,8 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiNews.it.png" group-title="新闻频道",Rai News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="新闻频道",Россия 24
+https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/es/Telesur.es.png" group-title="新闻频道",Telesur
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻频道",凤凰资讯
@@ -847,12 +849,18 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiItalia.it.png" group-title="欧洲频道",Rai Italia
 http://210.210.155.69/s/s63/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/PervyyKanal.ru.png" group-title="欧洲频道",Первый канал
+https://plbl.m9.lfstrm.tv/perviy_hd/normal/3/index.m3u8?origin=m9-live4
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲频道",Россия 24
-https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/5Kanal.ru.png" group-title="欧洲频道",5 канал
+https://plbl.m9.lfstrm.tv/5_channel/normal/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="欧洲频道",РЕН
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="欧洲频道",ТНТ
+https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Domashniy.ru.png" group-title="欧洲频道",Dомашний
+https://plbl.m9.lfstrm.tv/domashniy_hd/normal/3/index.m3u8?origin=m9-live4
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="欧洲频道",СТС
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="欧洲频道",ТВ3
