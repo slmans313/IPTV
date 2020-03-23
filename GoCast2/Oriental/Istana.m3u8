@@ -850,7 +850,7 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 http://210.210.155.69/s/s63/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/PervyyKanal.ru.png" group-title="欧洲频道",Первый канал
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_1TV/variant.m3u8
+http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_1TVHD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/NTV.ru.png" group-title="欧洲频道",НТВ
@@ -858,9 +858,12 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_NTV/variant.m3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/5Kanal.ru.png" group-title="欧洲频道",5 канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Karusel.ru.png" group-title="欧洲频道",Карусель
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_KARUSEL/variant.m3u8
+http://sc.id-tv.kz:80/Karusel_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Che.ru.png" group-title="欧洲频道",Че!
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_PERETZ/variant.m3u8
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Che.ru.png" group-title="欧洲频道",Че!
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Che.ru.png" group-title="欧洲频道",Че!
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8$OPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="欧洲频道",РЕН
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="欧洲频道",ТНТ
