@@ -409,26 +409,29 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="英文频道",HITS
 http://210.210.155.66/h/h37/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="英文频道",Firstlight
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 ch-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="英文频道",Kix
 http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/MaoriTelevision.nz.png" group-title="英文频道",Māori TV
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+#EXTINF:-1 tvg-logo="http://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="英文频道",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="英文频道",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="英文频道",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ch-id="tv.11" tvg-logo="https://static.iptv-epg.com/nz/Three.nz.png" group-title="英文频道",Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/MaoriTelevision.nz.png" group-title="英文频道",Māori TV
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="英文频道",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
-#EXTINF:-1 tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="英文频道",Firstlight
-https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="英文频道",Star World India
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
-
 
 #EXTINF:-1 ch-id="Arirang TV" logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="日韩频道",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 ch-id="NHK World Japan" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="日韩频道",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/hk.gemtv/files/logos/gem_live_logo_green_rgb.png" group-title="日韩频道",GEM
+http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韩频道",WakuWaku Japan
 http://103.22.183.136:8081/live/wakuwakujapan/playlist.m3u8
 
