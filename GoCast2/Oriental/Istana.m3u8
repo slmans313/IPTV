@@ -463,6 +463,19 @@ http://210.210.155.66/h/h143/01.m3u8
 http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韩频道",WakuWaku Japan
 http://103.22.183.136:8081/live/wakuwakujapan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",KBS 1
+http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="日韩频道",KBS 2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+#EXTINF:-1 tvg-logo="http://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" group-title="日韩频道",KBS News 24
+rtmp://live.kbskme.gscdn.com/news24/_definst_/news24_800.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxY2I5OWY2MjliNjc0NjgxN2U0NWQzMmFkMTIyYjg0ZWRjNjE5NGFhMWQzODczMjA4ZjVkYmZmZjNhZTAxNjMxN2NmNGJiMmQzMWQ3YmUzYjIxY2VjM2M3ODI1YjFmYmIyNmIyZTQ4Y2UyMWI0NTY5MDM4ZmQxZGFmMzc5YzJlYzkwYzYxZDg1NjcwMGRiNmZiNDk1NTNmMDNiZjAzZDUwMTk0ZTU4ZDY4NmJkZTViOWQ4NWE5MjZjMmU0ODBiM2I0MjdiNmMzMGRhNzQ5M2Y2OTk3YTQ4YjQ1YzIyZmI2NjIyMDIzMDdiMDRlZGZiZDEzODU5ODU4MGM4OTJhM2I5MQ==&csu=false
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/KBSWorld.us.png" group-title="日韩频道",KBS World
+http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/Asahi1.jp.png" group-title="日韩频道",テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/TVTokyo.jp.png" group-title="日韩频道",テレビ東京
+http://203.162.235.41:16908
+
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/pictureshd386x3_1451631172.png" group-title="印度频道",&Pictures
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
