@@ -97,6 +97,8 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 ch-id="BBC World News" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="新闻频道",BBC World News
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bbcworldnews/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/BFMTV.fr.png" group-title="Nouvelles",BFM 
+https://bcovlive-a.akamaihd.net/ad0bc848023a4ff28030dc2b02a718ad/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:-1 ch-id="CGTN" tvg-logo="http://static.iptv-epg.com/au/CGTN.au.png" group-title="新闻频道",CGTN
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNBC.uk.png" group-title="新闻频道",CNBC
@@ -127,6 +129,12 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="新闻频道",Wion
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8 
+
+
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/BFMTV.fr.png" group-title="新闻频道",BFM 
+https://bcovlive-a.akamaihd.net/ad0bc848023a4ff28030dc2b02a718ad/eu-central-1/876450610001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiNews.it.png" group-title="新闻频道",Rai News 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻频道",凤凰资讯
 http://live.centerch.com/fhzx.m3u8
 #EXTINF:-1 tvg-logo="https://www.yicai.com/img/logo.66870cb6.png" group-title="新闻频道",第一财经
@@ -789,10 +797,27 @@ http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Vox.de.png" group-title="Deutschland",VOX
 http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲频道",Rai 1
+http://ott.artmott.com/Rai1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲频道",Rai 2
+http://5.135.92.133:52841/out/u/452_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai3-hd.png" group-title="欧洲频道",Rai 3
+http://ott.artmott.com/rai3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Rai4.it.png" group-title="欧洲频道",Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Rai5.it.png" group-title="欧洲频道",Rai 5
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiGulp.it.png" group-title="欧洲频道",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiMovie.it.png" group-title="欧洲频道",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiPremium.it.png" group-title="欧洲频道",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiYoyo.it.png" group-title="欧洲频道",Rai YoYo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiItalia.it.png" group-title="欧洲频道",Rai Italia
 http://210.210.155.69/s/s63/S4/mnf.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/PervyyKanal.ru.png" group-title="欧洲频道",Первый канал
 http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
