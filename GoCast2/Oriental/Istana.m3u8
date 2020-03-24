@@ -853,6 +853,10 @@ http://210.210.155.69/s/s63/S4/mnf.m3u8
 https://plbl.m9.lfstrm.tv/perviy_hd/normal/3/index.m3u8?origin=m9-live4
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Россия",РОССИЯ K
+https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Россия",Россия РТР
+https://a3569455160-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/5Kanal.ru.png" group-title="欧洲频道",5 канал
 https://plbl.m9.lfstrm.tv/5_channel/normal/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="欧洲频道",РЕН
@@ -865,3 +869,5 @@ https://plbl.m9.lfstrm.tv/domashniy_hd/normal/3/index.m3u8?origin=m9-live4
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="欧洲频道",ТВ3
 https://plbl.m9.lfstrm.tv/tv3_hd_ott/normal/3/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4&env=s&expires=1582279200&mpltlh=auto&origin=m9-tproxy&profile=a02e2f8f035f63ee&provider_id=56f1230a4e2e675d26000075®ion=ru.north-west.saint_petersburg&token=ruYY2_NMrhSp1QWqz8yHXg&user=f6c78e8b2e17d367&wlid=smotreshka
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTD.ru.png" group-title="欧洲频道",RT Д
+http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
