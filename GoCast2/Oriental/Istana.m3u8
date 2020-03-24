@@ -167,7 +167,11 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MNX2.in.png" group-title="电影台",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="电影台",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/SkyMoviesPremiere.nz.png" group-title="电影台",Sky Movies Premiere
+http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SonyMoviesChristmas.uk.png" group-title="电影台",Sony Movies
+http://51.52.156.22:8888/http/009
 #EXTINF:-1 ch-id="Warner TV" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="电影台",Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 ch-id="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="电影台",卫视电影台
@@ -456,12 +460,8 @@ http://160.119.77.50/iptv/uk-5star.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-usa.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Alibi.uk.png" group-title="英文频道",Alibi
 http://160.119.77.50/iptv/uk-alibi.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="英文频道",British Muslim TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BoxHits.uk.png" group-title="英文频道",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BoxUpfront.uk.png" group-title="英文频道",Box Upfront
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="英文频道",Challenge
 http://160.119.77.50/iptv/uk-challenge.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CBSAction.uk.png" group-title="英文频道",CBS Action
@@ -474,7 +474,7 @@ http://160.119.77.50/iptv/uk-cbsdrama.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-drama.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Dave.uk.png" group-title="英文频道",Dave
 http://160.119.77.50/iptv/uk-dave.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="英文频道",Food Network UK
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="英文频道",Food Network
 http://160.119.77.50/iptv/uk-foodnetwork.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/GOLD.uk.png" group-title="英文频道",Gold
 http://160.119.77.50/iptv/uk-gold.stream/playlist.m3u8
@@ -492,10 +492,6 @@ http://51.52.156.22:8888/http/015
 http://160.119.77.50/iptv/uk-sky1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyAtlantic.uk.png" group-title="英文频道",Sky Atlantic
 http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/SkyMoviesPremiere.nz.png" group-title="英文频道",Sky Movies Premiere
-http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SonyMoviesChristmas.uk.png" group-title="英文频道",Sony Movies
-http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/TheBox.uk.png" group-title="英文频道",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
