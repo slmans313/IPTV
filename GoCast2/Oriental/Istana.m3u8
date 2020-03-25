@@ -123,13 +123,6 @@ http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="新闻频道",Wion
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8 
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiNews.it.png" group-title="新闻频道",Rai News 24
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="新闻频道",Россия 24
-https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻频道",凤凰资讯
 http://live.centerch.com/fhzx.m3u8
 #EXTINF:-1 tvg-logo="https://www.yicai.com/img/logo.66870cb6.png" group-title="新闻频道",第一财经
@@ -943,6 +936,8 @@ http://ott.artmott.com/rai3/tracks-v1a1/mono.m3u8
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/Rai5.it.png" group-title="欧洲频道",Rai 5
 http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiNews.it.png" group-title="欧洲频道",Rai News 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiGulp.it.png" group-title="欧洲频道",Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiMovie.it.png" group-title="欧洲频道",Rai Movie
@@ -958,6 +953,8 @@ http://210.210.155.69/s/s63/S4/mnf.m3u8
 https://plbl.m9.lfstrm.tv/perviy_hd/normal/3/index.m3u8?origin=m9-live4
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲频道",Россия 24
+https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="欧洲频道",РОССИЯ K
 https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="欧洲频道",Россия РТР
