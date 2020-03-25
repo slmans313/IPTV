@@ -559,16 +559,52 @@ http://51.15.3.161:8080/M6/index.m3u8?token=test
 http://51.15.3.161:8080/Piwi/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="Français",Téva
 http://51.15.3.161:8080/Teva/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="Français",TV5 Monde Asie
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
+#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="Français",TV5 Monde Asie (English)
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="Français",TV5 Monde Asie (Vietnam)
+https://tv5asievi-i.akamaihd.net/hls/live/631619/tv5asievi/index.m3u8
+#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="Français",TV5 Monde Asie (Russia)
+https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="Français",TV5 Monde Europe
 http://ott.artmott.com/Tv5Monde/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info (English)
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info (Chinese)
+https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info (Taiwan)
+https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/TV5Monde.gif" group-title="Français",TV5 Maghreb-Orient
 http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
 #EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique (Korea)
+https://tv5pacifiqueko-i.akamaihd.net/hls/live/630177/tv5pacifiqueko/index.m3u8
+#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique 
+https://tv5pacifiquehls-i.akamaihd.net/hls/live/630173/tv5pacifiquehls/index.m3u8
+#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique (Japan)
+https://tv5pacifiquejp-i.akamaihd.net/hls/live/630199/tv5pacifiquejp/index.m3u8
+#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique 
+https://tv5pacifiquefr-i.akamaihd.net/hls/live/630174/tv5pacifiquefr/index.m3u8
+#EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique 
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
+https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style Taiwan
+https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style Chinese
+https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.lci.fr/assets/images/logo_lci.png" group-title="Français",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/TMC.fr.png" group-title="Français",TMC
