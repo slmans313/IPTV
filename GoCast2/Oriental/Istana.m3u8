@@ -906,15 +906,18 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/ParamountChannel.es.png" group-title="欧洲频道",Paramount Español
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mt/TVM.mt.png" group-title="欧洲频道",TVM
+http://s3.smashmalta.com:82/live/smash/smash/39.ts
 #EXTINF:-1 tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲频道",Das Erste
 https://mcdn.daserste.de/daserste/int/master_3744.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/ZDF.de.png" group-title="欧洲频道",ZDF
 http://137.74.203.67:4780/zdf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="欧洲频道",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="欧洲频道",DW Deutsch
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="欧洲频道",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle+
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/RTL.de.png" group-title="欧洲频道",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/RTL2.de.png" group-title="欧洲频道",RTL Zwei
