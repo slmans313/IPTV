@@ -550,13 +550,14 @@ http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/liv
 http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
 #EXTINF:-1 tvg-logo="http://news.kbs.co.kr/resources/images/v1/common/logo-txt-24news.png" group-title="日韩频道",KBS News 24
 rtmp://live.kbskme.gscdn.com/news24/_definst_/news24_800.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxY2I5OWY2MjliNjc0NjgxN2U0NWQzMmFkMTIyYjg0ZWRjNjE5NGFhMWQzODczMjA4ZjVkYmZmZjNhZTAxNjMxN2NmNGJiMmQzMWQ3YmUzYjIxY2VjM2M3ODI1YjFmYmIyNmIyZTQ4Y2UyMWI0NTY5MDM4ZmQxZGFmMzc5YzJlYzkwYzYxZDg1NjcwMGRiNmZiNDk1NTNmMDNiZjAzZDUwMTk0ZTU4ZDY4NmJkZTViOWQ4NWE5MjZjMmU0ODBiM2I0MjdiNmMzMGRhNzQ5M2Y2OTk3YTQ4YjQ1YzIyZmI2NjIyMDIzMDdiMDRlZGZiZDEzODU5ODU4MGM4OTJhM2I5MQ==&csu=false
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/tvN.kr.png" group-title="日韩频道",tVN Asia
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg group-title="日韩频道",tVN Movies
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/KBSWorld.us.png" group-title="日韩频道",KBS World
 https://neaoiomcci.vieon.vn/hls/3b55e4ebc76ddcdd356483cda854a14c/1585210650836/live/kbs_world_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/Asahi1.jp.png" group-title="日韩频道",テレビ朝日
-http://203.162.235.41:16906
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/jp/TVTokyo.jp.png" group-title="日韩频道",テレビ東京
-http://203.162.235.41:16908
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韩频道",WakuWaku Japan
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/pictureshd386x3_1451631172.png" group-title="印度频道",&Pictures
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
@@ -752,7 +753,7 @@ https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="东南亚频道",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANTV.id.png" group-title="东南亚频道",ANTV
-https://delivery.macan.live/stream/id_antv/index.m3u8?token=Lse1lRx5&v=20200202
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1883572553_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="东南亚频道",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png" group-title="东南亚频道",CNN Indonesia
@@ -762,7 +763,7 @@ https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1
 #EXTINF:-1 tvg-logo="http://gtv.id/images2020/logo.png" group-title="东南亚频道",GTV
 https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="东南亚频道",Indosiar
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/RCTI.id.png" group-title="东南亚频道",RCTI
 https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="东南亚频道",Kompas TV
@@ -776,7 +777,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="东南亚频道",RTV
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="东南亚频道",SCTV
-https://delivery.macan.live/stream/id_sctv/index.m3u8?token=Lse1lRx5&v=20200202
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="东南亚频道",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="东南亚频道",Trans 7
