@@ -304,9 +304,9 @@ http://163.172.15.177/live/sUPPERchannel2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ln24.be/themes/custom/mmw/images/logo-ln24.png" group-title="Belgium",Les News 24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/64/%C3%89%C3%A9n_logo_2015.svg/revision/latest/scale-to-width-down/340?cb=20150816223635 group-title="Belgium",VRT één
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/be/een.be.png" group-title="Belgium",VRT één
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Canvas-2015.svg/200px-Canvas-2015.svg.png" group-title="Belgium",VRT Canvas
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/be/Canvas.be.png" group-title="Belgium",VRT Canvas
 https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/VRT_Ketnet_logo.svg/150px-VRT_Ketnet_logo.svg.png" group-title="Belgium",VRT Ketnet
 https://live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
@@ -590,8 +590,6 @@ https://tv5pacifiquefr-i.akamaihd.net/hls/live/630174/tv5pacifiquefr/index.m3u8
 #EXTINF:-1 tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique 
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
-https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
 #EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
 https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
 #EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Français",TV5 Monde Style
@@ -979,9 +977,9 @@ http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
 http://tv.vodafoneplay.is/n4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Logo_RTL_Luxembourg.png/375px-Logo_RTL_Luxembourg.png" group-title="Lëtzebuerg",RTL Télé Lëtzebuerg
-http://live01.rtl.lu/channel1/smil:channel1/chunklist_b4168000_slltz.m3u8
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Logo_2ten_RTL.jpg" group-title="Lëtzebuerg",Den 2. RTL
-http://live01.rtl.lu/channel2/smil:channel2/chunklist_b4168000_slltz.m3u8
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thematv.com/images/channels/luxe-tv.png" group-title="Lëtzebuerg",Luxe TV
 http://84.22.33.254/unicast.luxetv/video.m3u8
 
