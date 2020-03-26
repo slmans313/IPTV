@@ -26,6 +26,8 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="新马频道",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.egg.network/client/9f3c4191c8089642bc730aa9a4c49304.png" group-title="新马频道",eGG Network
+http://210.210.155.66/h/h22/01.m3u8
 #EXTINF:-1 ch-id="NTV7" tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="新马频道",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 ch-id="8TV" tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="新马频道",8TV
@@ -34,14 +36,11 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 ch-id="Drama Sangat" tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="新马频道",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1 ch-id="Naura" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="新马频道",Naura
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="新马频道",RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="体育频道",NBA TV
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/DDSports.in.png" group-title="体育频道",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarSports1.in.png" group-title="体育频道",Star Sports 1
@@ -105,7 +104,7 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u
 http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 ch-id="CNN" tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="新闻频道",CNN
 http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
-#EXTINF:-1 ch-id="DW" tvg-logo="http://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="新闻频道",DW
+#EXTINF:-1 ch-id="DW" tvg-logo="http://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="新闻频道",Deutsche Welle
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 ch-id="Euronews" tvg-logo="http://static.iptv-epg.com/ru/Euronews.ru.png" group-title="新闻频道",Euronews
 http://61.58.60.230:9319/live/129.m3u8
@@ -149,7 +148,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="电影台",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png group-title="电影台",Red By HBO
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png group-title="电影台",Red by HBO
 http://iptvfree.gq/live/redbyhbo.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/SkyMoviesPremiere.nz.png" group-title="电影台",Sky Movies Premiere
 http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
@@ -409,6 +408,8 @@ https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 ch-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC Comedy/ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Singapore/Malaysia",Asian Food Network
+https://vcdnjt.useetv.com/joss/15/afc/.m3u8
 #EXTINF:-1 ch-id="AXN" tvg-logo="http://static.iptv-epg.com/id/AXN.id.png" group-title="英文频道",AXN
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="英文频道",BBC News
@@ -427,7 +428,7 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV4.uk.png" group-title="英文频道",ITV 4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="英文频道",ITV BE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="英文频道",ITV Be
 http://160.119.77.50/iptv/uk-itvbe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="英文频道",CITV
 http://160.119.77.50/iptv/uk-citv.stream/playlist.m3u8
@@ -846,18 +847,37 @@ http://220.158.149.28:8180/live/TV00000000000000000162@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000116@HHZT
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/105718-VTC1HD.png" group-title="东南亚频道",VTC1
 https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
-#EXTINF:-1 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/viegiaitri200219.png" group-title="东南亚频道",Giải Trí
-http://iptvfree.gq/live/vtvcab1.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png" group-title="东南亚频道",HTV 1
+https://neaoiomcci.vieon.vn/hls/04097687583e24efd41e9ef22ea304ff/1584407946505/live/htv1_480p/index.m3u8	
+#EXTINF:-1 tvg-logo="http://assets.htv.com.vn/Images/1/Banner/106.png" group-title="东南亚频道",HTV 2 Vie Channel
+https://neaoiomcci.vieon.vn/hls/22c88d52da99217d3e0acde0b7a41b30/1584109937066/live/viechannel_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png" group-title="东南亚频道",HTV 3 Dreams TV
+https://neaoiomcci.vieon.vn/hls/a5fe6b3b08a725e48c47b112328d81bb/1584447139158/live/htv3_480p/index.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2020/03/19/230860-htv-key.png" group-title="东南亚频道",HTV Keys
+https://neaoiomcci.vieon.vn/hls/5bf0720c50bdbddfdb7e41a82a8439b0/1584447116643/live/htv_key_480p/index.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/8986847-logo-htv7a.png" group-title="东南亚频道",HTV 7
+https://neaoiomcci.vieon.vn/hls/30a3cdc6598fd3cd2449e3bb392019f9/1584447161443/live/htv7_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/2931478-logo-htv9a.png" group-title="东南亚频道",HTV 9
+https://neaoiomcci.vieon.vn/hls/8b5f5f17d3d5922ee68d167fdef1d303/1584447151242/live/htv9_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/editor/images/CPlusLogo_Final.jpg" group-title="东南亚频道",HTVC+
+https://neaoiomcci.vieon.vn/hls/5a094a7b1d57098c03a42b1fbbe3c42f/1584408316424/live/htvc_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/107.png" group-title="东南亚频道",Ca Nhạc
+https://neaoiomcci.vieon.vn/hls/54492f23ad050fa0230afe36632b0845/1584447316417/live/htvc_ca_nhac_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/739104-fbnc.png" group-title="东南亚频道",FBNC
+https://neaoiomcci.vieon.vn/hls/274ed5967890ce6fe3afadfb094715cb/1584420575489/live/htvc_fbnc_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/64.png" group-title="东南亚频道",Gia Đình
+https://neaoiomcci.vieon.vn/hls/bcd924b2725a02dfebf7a6283ca2c001/1584447306932/live/htvc_gia_dinh_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/77.png" group-title="东南亚频道",Phim Việt
+https://neaoiomcci.vieon.vn/hls/c966909ce431059e682302a68281976d/1584408381845/live/htvc_phim_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/9.png" group-title="东南亚频道",Phụ Nữ
+https://neaoiomcci.vieon.vn/hls/7038e2450207806c6f694c023f0d2189/1584420432153/live/htvc_phu_nu_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/logo3.png" group-title="东南亚频道",Thể Thao
 http://iptvfree.gq/live/vtvcab3.m3u8
-#EXTINF:-1 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/echanneldoitac080816.png"" group-title="东南亚频道",E Channel
-http://iptvfree.gq/live/vtvcab5.m3u8
-#EXTINF:-1 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/logo1.png" group-title="东南亚频道",BiBi
-http://iptvfree.gq/live/vtvcab8.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/124.png" group-title="东南亚频道",Thuần Việt
+https://neaoiomcci.vieon.vn/hls/90e6939401907ffab23338ecd194c4d9/1584447264349/live/htvc_thuan_viet_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" group-title="东南亚频道",TTXVN
 http://live.vnanet.vn/720P/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="东南亚频道",TV5 Monde Asie(Việt Nam)
-https://tv5asievi-i.akamaihd.net/hls/live/631619/tv5asievi/tv5asie_vie_1200.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" group-title="欧洲频道",France 2
 http://51.15.3.161:8080/france2/index.m3u8?token=test
