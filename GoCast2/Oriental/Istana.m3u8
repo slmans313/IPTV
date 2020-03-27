@@ -407,13 +407,13 @@ https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 #EXTINF:-1 ch-id="tv.101002210221" tvg-logo="https://static.iptv-epg.com/au/ABC.au.png" group-title="英文频道",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
-#EXTINF:-1 ch-id="tv.abc2" tvg-logo="https://static.iptv-epg.com/au/ABCComedy.au.png" group-title="英文频道",ABC Comedy/ABC Kids
+#EXTINF:-1 ch-id="tv.abc2" tvg-logo="https://static.iptv-epg.com/au/ABCComedy.au.png" group-title="英文频道",ABC Comedy
 https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
 #EXTINF:-1 ch-id="tv.101002210220" tvg-logo="https://static.iptv-epg.com/au/ABCME.au.png" group-title="英文频道",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 #EXTINF:-1 ch-id="tv.101002210224" tvg-logo="http://static.iptv-epg.com/au/ABCNews24.au.png" group-title="英文频道",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 ch-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC Comedy/ABC Kids
+#EXTINF:-1 ch-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="英文频道",Asian Food Network
 https://vcdnjt.useetv.com/joss/15/afc/.m3u8
@@ -492,8 +492,6 @@ http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/TheBox.uk.png" group-title="英文频道",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/VirginMediaOne.ie.png" group-title="英文频道",Virgin 1
-http://160.119.77.50/iptv/ie-tv3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/VirginMediaTwo.ie.png" group-title="英文频道",Virgin 2
 http://160.119.77.50/iptv/ie-3e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTEOne.ie.png" group-title="英文频道",RTÉ 1
