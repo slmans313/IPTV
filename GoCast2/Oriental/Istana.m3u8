@@ -170,6 +170,9 @@ http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 #EXTINF:-1 ch-id="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png" group-title="电影台",靖天映画
 http://61.58.60.230:9319/live/244.m3u8
+
+#EXTINF:-1 tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="电影台",A2
+http://89.106.234.4:80/amedia_2_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/it/RaiMovie.it.png" group-title="电影台",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="电影台",TF1 Séries Films
@@ -1002,6 +1005,8 @@ http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="俄罗斯频道",СТС
 https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="俄罗斯频道",ТНТ
+https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?origin=m9-dvr4
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="俄罗斯频道",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
