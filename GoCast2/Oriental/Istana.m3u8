@@ -118,6 +118,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
 #EXTINF:-1 ch-id="RT" tvg-logo="http://static.iptv-epg.com/ru/RTInternational.ru.png" group-title="新闻频道",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTD.ru.png" group-title="新闻频道",RT Д
+http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/za/SkyNews.za.png" group-title="新闻频道",Sky News
 http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/es/Telesur.es.png" group-title="新闻频道",Telesur
@@ -918,6 +920,9 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Telecinco.es.png" group-title="欧洲频道",Telecinco 
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Rtp1.pt.png" group-title="欧洲频道",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Rtp2.pt.png" group-title="欧洲频道",RTP 2
@@ -990,7 +995,7 @@ http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/PervyyKanal.ru.png" group-title="俄罗斯频道",Первый
-https://plbl.m9.lfstrm.tv/perviy_hd/normal/3/index.m3u8?origin=m9-live4
+http://cdn.ch01.spr24.net:81/128/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Russia1.ru.png" group-title="俄罗斯频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="俄罗斯频道",Россия 24
@@ -999,16 +1004,16 @@ https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
 https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="俄罗斯频道",Россия РТР
 https://a3569455160-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTD.ru.png" group-title="俄罗斯频道",RT Д
-http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="俄罗斯频道",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="俄罗斯频道",РЕН
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="俄罗斯频道",СТС
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="俄罗斯频道",ТНТ
-https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?origin=m9-dvr4
-#EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="俄罗斯频道",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+http://cdn.ch01.spr24.net:81/301/mpegts?token=BQF9PmuRpcxUqR
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Karusel.ru.png" group-title="俄罗斯频道",Карусель
+http://cdn.ch01.spr24.net:81/339/mpegts?token=BQF9PmuRpcxUqR
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/am/Armenia1.am.png" group-title="俄罗斯频道",Հ1
 http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/1.m3u8
