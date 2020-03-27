@@ -656,16 +656,32 @@ http://hls.tmacaraibes.com/live/index.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fi/YleTV1.fi.png" group-title="Suomi",Yle TV 1
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fi/YleTV1.fi.png" group-title="Suomi",Yle 1
 http://193.64.188.131:8011/bysid/17
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fi/YleTV2.fi.png" group-title="Suomi",Yle TV 2
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fi/YleTV2.fi.png" group-title="Suomi",Yle 2
 http://193.64.188.131:8011/bysid/33
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/YleFem.fi.png" group-title="Suomi",Yle Teema Fem
+http://193.64.188.131:8011/bysid/81
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fi/Ava.fi.png" group-title="Suomi",AVA
 http://193.64.188.131:8011/bysid/155
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fi/MTV3.fi.png" group-title="Suomi",MTV3
 http://193.64.188.131:8011/bysid/49
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fi/Nelonen.fi.png" group-title="Suomi",Nelonen
 http://193.64.188.131:8011/bysid/65
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/TV5.fi.png" group-title="Suomi",TV5 Suomi
+http://193.64.188.131:8021/bysid/417
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2018/11/19/channel-122-11491704355733772.png" group-title="Suomi",TV6 Suomi
+http://193.64.188.131:8021/bysid/401
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/TLC.de.png" group-title="Suomi",TLC Suomi
+http://193.64.188.131:8021/bysid/145
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2018/11/19/channel-110-11491663699355194.png" group-title="Suomi",FRII
+http://193.64.188.131:8021/bysid/451
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/Sub.fi.png" group-title="Suomi",Sub.
+http://193.64.188.131:8031/bysid/273
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/Liv.fi.png" group-title="Suomi",Liv
+http://193.64.188.131:8031/bysid/818
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fi/Jim.fi.png" group-title="Suomi",Jim
+http://193.64.188.131:8031/bysid/129
 
 #EXTINF:-1 tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png" group-title="Ελλάδα",ERT 1
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
