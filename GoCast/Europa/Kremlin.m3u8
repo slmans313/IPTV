@@ -436,6 +436,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498788795851.png" group-title="Հայաստան",1TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://focusmediagroup.org/uploads/posts/2019-06/1560366974_5rd.jpg" group-title="Հայաստան",5 TV
 https://live-5tvam.cdnvideo.ru/5tvam/5tvam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Հայաստան",Կենտրոն
@@ -452,7 +453,12 @@ http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
 https://songtvam.ru/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://haytube.am/wp-content/uploads/2016/04/usarmenia-300x150.jpg" group-title="Հայաստան",US Armenia
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-
+#EXTINF:-1 tvg-logo="http://tvradio.am/wp-content/uploads/2019/06/Logo-Nor-Hayastan-TV-200x200.jpg" group-title="Հայաստան",Ուղիղ եթեր
+http://livestream.usatv.com/hls/master-iNEWARM.m3u8
+#EXTINF:-1 tvg-logo="http://haytube.am/wp-content/uploads/2016/04/usarmenia-300x150.jpg" group-title="Հայաստան",NUR HD
+http://timeshift.arpinet.am/228/index.m3u8
+#EXTINF:-1 tvg-logo="http://haytube.am/wp-content/uploads/2016/04/usarmenia-300x150.jpg" group-title="Հայաստան",Arm Music
+http://timeshift.arpinet.am/233/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/az/IctimaiTV.az.png" group-title="Azərbaycan",İctimai
 https://node19.connect.az:8086/ch1/ch1.hi.m3u8
