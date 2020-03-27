@@ -926,11 +926,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲频道",Das Erste
-https://mcdn.daserste.de/daserste/int/master_3744.m3u8
+http://cdn.ch01.spr24.net:81/815/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/ZDF.de.png" group-title="欧洲频道",ZDF
 http://137.74.203.67:4780/zdf/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="欧洲频道",tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Kika.de.png" group-title="欧洲频道",Kika
+http://cdn.ch01.spr24.net:81/820/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/RTL.de.png" group-title="欧洲频道",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/RTL2.de.png" group-title="欧洲频道",RTL Zwei
@@ -943,8 +943,8 @@ http://ott.artmott.com/Prosiben/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Vox.de.png" group-title="欧洲频道",VOX
 http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/ORF2.at.png" group-title="欧洲频道",ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" group-title="欧洲频道",3 Sat
+http://cdn.ch01.spr24.net:81/816/mpegts?token=BQF9PmuRpcxUqR
 
 #EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲频道",Rai 1
 http://ott.artmott.com/Rai1/tracks-v1a1/mono.m3u8
