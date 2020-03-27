@@ -1012,8 +1012,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/am/Armenia1.am.png" group-title="俄罗斯频道",Հ1
 http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/1.m3u8
-#EXTINF:-1 tvg-logo="http://onelike.tv/images/krym-1.png" group-title="俄罗斯频道",1 Крым
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://atv.az/assets/images/logo_white.png" group-title="俄罗斯频道",Azad Azarbaycan
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvr.by/local/templates/template-custom-eng/images/channels/topbelarus-24.png" group-title="俄罗斯频道",Беларусь 24
@@ -1036,6 +1034,8 @@ http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://mtrk.uz/modules/state/client/assets/image/0c354d80-4e4f-4194-85dd-1803c06e1b9b_thumb.png" group-title="俄罗斯频道",Ozbekiston
 https://stream3.itv.uz/1001-1500k/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fi/YleTV1.fi.png" group-title="俄罗斯频道",Yle 1
+http://193.64.188.131:8011/bysid/17
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="中东频道",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
