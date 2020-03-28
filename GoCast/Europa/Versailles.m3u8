@@ -758,7 +758,11 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 http://81.21.47.74/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
-https://mcdn.daserste.de/daserste/int/master_3744.m3u8
+http://84.41.117.102:8080/WeCast1_live_task_node_config_75/1/profile1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/One.de.png" group-title="Deutschland",One
+http://84.41.117.102:8080/WeCast1_live_task_node_config_78/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/300px-ARD_alpha.svg.png" group-title="Deutschland",ADR Alpha
+http://84.41.117.102:8080/WeCast1_live_task_node_config_76/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/ZDF.de.png" group-title="Deutschland",ZDF
 http://137.74.203.67:4780/zdf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/ZDFneo.de.png" group-title="Deutschland",ZDF Neo
@@ -766,7 +770,7 @@ http://cdn.ch01.spr24.net:81/887/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/ZDFinfo.de.png" group-title="Deutschland",ZDF Info
 http://cdn.ch01.spr24.net:81/825/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/ARTE.fr.png" group-title="Deutschland",Arte Deutsch
-http://ott.artmott.com/Arte/tracks-v1a1/mono.m3u8
+http://84.41.117.102:8080/WeCast1_live_task_node_config_7/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" group-title="Deutschland",3 Sat
 http://cdn.ch01.spr24.net:81/816/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Kika.de.png" group-title="Deutschland",Kika
@@ -916,12 +920,12 @@ http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png" group-title="Deutschland",Rhein Neckar Fernsehen
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF: tvg-logo="http://www.film-tv-video.de/wp-content/gallery/sport1-hd-jetzt-auch-per-iptv/B_0910_SPORT1-HD_Logo.jpg",Sport 1
-https://wer11.wertvlive.com/w13/video.m3u8?token=Rh45MoyoC3
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SRFernsehen.de.png" group-title="Deutschland",SR Fernsehen
+http://84.41.117.102:8080/WeCast1_live_task_node_config_79/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="Deutschland",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SWR3_Logo.svg/1200px-SWR3_Logo.svg.png" group-title="Deutschland",SWR 3
-http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/SWRSR.de.png" group-title="Deutschland",SWR Fernsehen
+http://84.41.117.102:8080/WeCast1_live_task_node_config_74/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.viaway.com/112567_640.png" group-title="Deutschland",SWR Dasding
 http://swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/index_1800_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.sylt1.tv/wp-content/themes/sylt1/img/sylt1-logo.png" group-title="Deutschland",SYLT1
