@@ -103,7 +103,9 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNBC.uk.png" group-title="新闻频道",CNBC
 http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 ch-id="CNN" tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="新闻频道",CNN
-http://160.119.77.50/iptv/uk-cnn.stream/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
+#EXTINF:-1 ch-id="CNN" tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="新闻频道",CNN
+http://84.22.33.254/unicast.cnn/video.m3u8
 #EXTINF:-1 ch-id="DW" tvg-logo="http://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="新闻频道",Deutsche Welle
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 ch-id="Euronews" tvg-logo="http://static.iptv-epg.com/ru/Euronews.ru.png" group-title="新闻频道",Euronews
@@ -1141,10 +1143,10 @@ http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
 #EXTINF:-1 tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="中东频道",DMC
 http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Tv_funoon_tv.png" group-title="中东频道",Fuoon TV
-http://livecdnh3.tvanywhere.ae:80/hls/funoon/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/eg/DMCDrama.eg.png" group-title="中东频道",DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Tv_funoon_tv.png" group-title="中东频道",Fuoon TV
+http://livecdnh3.tvanywhere.ae:80/hls/funoon/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/eg/NileDrama.eg.png" group-title="中东频道",Nile Drama
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20171112164938285H7.png" group-title="中东频道",National Geo Abu Dhabi
