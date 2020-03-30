@@ -10,7 +10,7 @@ https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 https://a3569455160-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/2x2.ru.png" group-title="Россия",2x2
-https://plbl.m9.lfstrm.tv/2x2/normal/1/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+http://noname.do.am/z/high/2x2.m3u8
 #EXTINF:-1 tvg-logo="https://3abn.org/img/logos/3abn-russia-logo.jpg" group-title="Россия",3ABN
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/5Kanal.ru.png" group-title="Россия",5 канал
@@ -213,11 +213,11 @@ http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1 tvg-logo="https://katun24.ru/files/k24_logo.png" group-title="Россия",Катунь 24
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-logo="https://onlines.tv/wp-content/uploads/2017/05/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F_2016.png" group-title="Россия",Киносерия
-http://178.124.183.13/hls/CH_KINOSERIA/bw1200000/playlist.m3u8
+http://noname.do.am/z/high/kinoseria.m3u8
 #EXTINF:-1 tvg-logo="https://s55424.cdn.ngenix.net/static/i/logo.png" group-title="Россия",Красная линия
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/02/31/10/1bj.png" group-title="Россия",Мужское кино
-http://86.57.225.245:7015/play/a00r
+http://noname.do.am/z/high/menkino.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/02/31/12/-channel!ck7.png" group-title="Россия",РОДНОЕ КИНО
 http://89.106.234.4:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.red-media.ru/800x466-2017-04-indijskoe-kino-1.jpg" group-title="Россия",ИНДИЙСКОЕ КИНО
@@ -340,14 +340,13 @@ http://live.trk-luch.ru/hls/live_hi.m3u8
 http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="Россия",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 tvg-logo="https://www.arax.md/assets/channels/68.png" group-title="Россия",TV1000
-https://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.viasatworld.com/media/1074/actionlogo.png" group-title="Россия",TV1000 Action
-https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tv.lt/uploads/ic/400x400_out/uploads/media/2015/05/tv1000-premium-5551c642a07b8.png" group-title="Россия",TV1000 Premium
-https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumSD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png" group-title="Россия",TV1000 Русское кино
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/TV1000Kino.ee.png" group-title="Россия",TV1000
+http://noname.do.am/z/high/tv1000.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TV1000ActionEast.ru.png" group-title="Россия",TV1000 Action
+http://noname.do.am/z/high/tv1000action.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TV1000RusskoeKino.ru.png" group-title="Россия",TV1000 Русское кино
+https://static.iptv-epg.com/ru/TV1000RusskoeKino.ru.png
+http://noname.do.am/z/high/tv1000ru.m3u8
 #EXTINF:-1 tvg-logo="http://tk-union.tv/assets/components/union/u_logo.png" group-title="Россия",ЮНИОН
 http://dprtv.phoenix-dnr.ru/union
 #EXTINF:-1 tvg-logo="https://i.otzovik.com/objects/b/300000/292412.png" group-title="Россия",Кварц ТВ
@@ -361,11 +360,11 @@ http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://smi-vidnoe.ru/wp-content/themes/smi-vidnoe.ru/assets/img/logo.png group-title="Россия",Видное
 https://gearlabs.ru/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatExplore.ru.png" group-title="Россия",Viasat Explore
-https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
+http://noname.do.am/z/high/viasatexplore.m3u
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="Россия",Viasat History
-https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
+http://noname.do.am/z/low/viasathistory.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatNature.ru.png" group-title="Россия",Viasat Nature
-https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+http://noname.do.am/z/low/viasatnature.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/vip_logo_rgb_-_premiere_colour_0.png" group-title="Россия",VIP Premiere
 http://188.35.9.14:2013
 #EXTINF:-1 tvg-logo="https://vipplay.ru/img/film/3.png" group-title="Россия",VIP Megahit
@@ -397,27 +396,23 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="Россия",Boomerang Россия
-http://178.124.183.14:80/hls/JSQ2S6VQTE/variant.m3u8
+http://noname.do.am/z/high/boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Россия",Cartoon Network Россия
-http://178.124.183.13/hls/CNVX7JRQJI/bw2000000/playlist.m3u8
+http://noname.do.am/z/low/cartoon.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/DaVinciKids.ru.png" group-title="Россия",DaVinci Россия
 http://89.106.234.4:80/DaVinci_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyJunior.ee.png" group-title="Россия",Disney Junior Россия
 http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Fox.ru.png" group-title="Россия",Fox Россия
-http://test.stream.strah.live/hls/CH_FOX/variant.m3u8?version=2
+http://noname.do.am/z/high/fox.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/FoxLife.ru.png" group-title="Россия",Fox Life Россия
-http://test.stream.strah.live/hls/CH_FOXL/variant.m3u8?version=2
+http://noname.do.am/z/high/foxlife.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Россия",History Россия
-http://178.124.183.5/hls/CH_HISTORY/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/Nickelodeon.ee.png" group-title="Россия",Nickelodeon Россия
-http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+http://noname.do.am/z/high/history.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Россия",National Geographic Россия
-http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/NickJr.ee.png" group-title="Россия",Nick JR Россия
-http://88.119.220.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nicktoons.uk.png" group-title="Россия",Nicktoons Россия
-http://88.119.220.2/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+http://noname.do.am/z/high/natgeo.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Россия",National Geo Wild Россия
+http://noname.do.am/z/high/natgeowild.m3u8
 
 #EXTINF:-1 tvg-logo="http://onelike.tv/images/krym-1.png" group-title="Крым",1 Крым
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
@@ -879,11 +874,11 @@ http://212.26.146.148/hls/otv.m3u8
 #EXTINF:-1 tvg-logo="http://www.musicboxua.tv/wp-content/themes/main/img/logo.png" group-title="Україна",MusicBox Ukraine
 http://212.26.132.86/hls/mb_ua_2500.m3u8
 #EXTINF:-1 tvg-logo="https://film.ua/uploads/assets/images/BOLT1.png" group-title="Україна",Bolt
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8
+http://noname.do.am/z/high/bolt.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Star_Cinema.png/revision/latest?cb=20190809165111" group-title="Україна",Star Cinema
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8
+http://noname.do.am/z/high/starsinema.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/starfamily.png?1535447084" group-title="Україна",Star family
-http://178.124.183.5/hls/CH_FAMILY/variant.m3u8
+http://noname.do.am/z/high/starfamily.m3u8
 #EXTINF:-1 tvg-logo="https://www.k1.ua/images/logo.png" group-title="Україна",K1
 http://109.68.40.67:80/life/k1_3/index.m3u8
 #EXTINF:-1 tvg-logo="http://pixelua.tv/wp-content/themes/pixel/images/k2.png" group-title="Україна",K2
