@@ -358,6 +358,8 @@ http://tsargrad-livehls.cdnvideo.ru/smils/tsargrad-livehls.m3u8
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510774051_neizvestnaya-planeta.png" group-title="Россия",Неизвестная планета
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://smi-vidnoe.ru/wp-content/themes/smi-vidnoe.ru/assets/img/logo.png group-title="Россия",Видное
+https://gearlabs.ru/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatExplore.ru.png" group-title="Россия",Viasat Explore
 https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="Россия",Viasat History
@@ -537,6 +539,14 @@ http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="საქართველო",პირველი არხი
 http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://ajaratv.ge/img/logo.png" group-title="საქართველო",აჭარა
+http://tv.cdn.xsg.ge/adjara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ctv1.ge/image/data/HD-3.jpg" group-title="საქართველო",Adjara Sports
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://ctv1.ge/image/data/HD-3.jpg" group-title="საქართველო",Adjara Sports 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
+#EXTINF:-1 tvg-logo="http://gagra.biz/images/2017/03/agtrk-300x255.png" group-title="საქართველო",Abkhaz
+http://tv.cdn.xsg.ge/abkhaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/Artarea-TV-tvtolive.com_.jpg" group-title="საქართველო",Artarea
 http://tv.cdn.xsg.ge/artarea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/97db3370-a837-11e7-9007-3586c105979b_100x100.png" group-title="საქართველო",Batumi TV
@@ -549,32 +559,50 @@ http://tv.cdn.xsg.ge/cisartkela/playlist.m3u8
 http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ge/Diatv.ge.png" group-title="საქართველო",Dia
 http://tv.cdn.xsg.ge/diatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ramalin.com/wp-content/uploads/2015/12/georgia-flag.gif" group-title="საქართველო",Dro TV
+http://tv.cdn.xsg.ge/drotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://livetelevizia.com/images/enkibenki_tv.jpg" group-title="საქართველო",ენკი-ბენკი
 http://tv.cdn.xsg.ge/enkibenki/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://guria.tv/images/demo/guriatv.png" group-title="საქართველო",Guria
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ge/Ertsulovneba.ge.png" group-title="საქართველო",ერთსულოვნება
+http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/d201c4e0-a82e-11e7-bd1c-f9f20b12029b_100x100.png" group-title="საქართველო",Food TV
+http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://guria.tv/images/demo/guriatv.png" group-title="საქართველო",გურია
 http://tv.cdn.xsg.ge/guriatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_gdstv.png" group-title="საქართველო",GDS
 http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/469be110-a832-11e7-8ce1-27a810f741b9_100x100.png" group-title="საქართველო",Gurjaani
+#EXTINF:-1 tvg-logo="http://www.gg-school.ge/images/stories/gg_logo.png" group-title="საქართველო",GG TV
+http://tv.cdn.xsg.ge/ggtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ge/Gurjaani.ge.png" group-title="საქართველო",გურჯაანი
 http://tv.cdn.xsg.ge/gurjaani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.imedi.ge/m/i/logo.png" group-title="საქართველო",იმედი
 http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
-#EXTINF:-1 tvg-logo="http://mediameter.ge/sites/default/files/imervizia_1.jpg group-title="საქართველო",Imervizia
+#EXTINF:-1 tvg-logo="http://mediameter.ge/sites/default/files/imervizia_1.jpg group-title="საქართველო",იმერვიზია
 http://tv.cdn.xsg.ge/imervizia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sololaki.ru/wp-content/uploads/2016/03/tv_kartuliarkhi-420x280_c.png" group-title="საქართველო",Kartuliarkhi
+http://tv.cdn.xsg.ge/kartuliarkhi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.maestro.ge//images/temp/2018/10/26/0a7ae2fe914d7dc62f3a64e947419171.png" group-title="საქართველო",მაესტრო
 https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_marao.png" group-title="საქართველო",Marao
 http://tv.cdn.xsg.ge/marao/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.malltv.ge/images/icons/logo-ge.png" group-title="საქართველო",Mall TV
 http://tv.cdn.xsg.ge/malltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mtavari.tv/assets/logo.png" group-title="საქართველო",Mtavari Arkhi
+#EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/ed1b4708-ec9c-40c3-8402-c11c4324ae03.png" group-title="საქართველო",Mega
+http://tv.cdn.xsg.ge/megatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mtavari.tv/assets/logo.png" group-title="საქართველო",მთავარი არხი
 https://hls.t.stream-dns.net/hls/mtavari_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ge/MusicBox.ge.png" group-title="საქართველო",Musicbox Georgia
 http://tv.cdn.xsg.ge/musicbox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ge/Marneulitv.ge.png" group-title="საქართველო",Marneuli
+http://tv.cdn.xsg.ge/marneulitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mythdetector.ge/sites/default/files/styles/profile_full/public/2019-09/download-1521544839_0.jpeg" group-title="საქართველო",ობიექტივი
+http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.palitravideo.ge/images/stories/palitratvlogo.png" group-title="საქართველო",Palitra News
 http://tv.cdn.xsg.ge/palitra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15495/e3d72f00-2a0a-11e9-948d-358c2a2c02cb_100x100.png" group-title="საქართველო",პოზიტიუი
 http://tv.cdn.xsg.ge/positivetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/0f4c1070-a837-11e7-95f2-a3fbcdfc89af_100x100.png" group-title="საქართველო",Pk
+http://tv.cdn.xsg.ge/pktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" group-title="საქართველო",რუსთავი 2
 http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ge/Rioni.ge.png" group-title="საქართველო",Rioni
@@ -583,55 +611,31 @@ http://tv.cdn.xsg.ge/rioni/playlist.m3u8
 http://tv.cdn.xsg.ge/rioni2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://newsday.ge/new/media/k2/items/cache/cc050d217492bdc214abdd6700c15330_XL.jpg" group-title="საქართველო",სტარვიზია 
 http://stream.it-solutions.ge:1935/livetv/stream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.pulsitv.ge/images/logo.png" group-title="საქართველო",Pulsi
+http://tv.cdn.xsg.ge/puls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.gweb.ge/buffer/1001542/pictures/logo/5c91e273fa9ba482f7a0f1e22ab2dba2.png" group-title="საქართველო",სდასუ
+http://tv.cdn.xsg.ge/sdasutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/c8fd2060-a836-11e7-a6cd-a586c0243cc4_100x100.png" group-title="საქართველო",Shoni
+http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/2f2a1be0-a822-11e7-a08e-f1a99e1471eb_100x100.png" group-title="საქართველო",Tiflis
+http://tv.cdn.xsg.ge/tiflistv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://trialeti.ge/wp-content/uploads/cropped-cropped-logo2-1.png" group-title="საქართველო",თრიალეთი
+http://tv.cdn.xsg.ge/trialeti/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv24.ge/wp-content/uploads/2019/08/Webp.net-resizeimage-e1565696560857.png" group-title="საქართველო",TV24
+http://tv.cdn.xsg.ge/tv24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_formula.png" group-title="საქართველო",TV ფორმულა
 https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/c8fd2060-a836-11e7-a6cd-a586c0243cc4_100x100.png" group-title="საქართველო",Shoni TV
-http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img1.freepng.es/20181125/lcv/kisspng-tvmax-television-channel-logo-vector-graphics-5bfafc67c6e257.8294564715431752718146.jpg" group-title="საქართველო",TV Max
+http://tv.cdn.xsg.ge/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/2f2a1be0-a822-11e7-a08e-f1a99e1471eb_100x100.png" group-title="საქართველო",TV Pirveli
 https://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ge/TV25.ge.png" group-title="საქართველო",TV25
+#EXTINF:-1 tvg-logo="http://tv4.ge/wp-content/uploads/2018/06/TV4.png" group-title="საქართველო",TV 4
+http://tv.cdn.xsg.ge/qvemoqartli/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ge/TV25.ge.png" group-title="საქართველო",TV 25
 http://tv.cdn.xsg.ge/tv25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15850/d4c3b820-6cd4-11ea-834b-016f834b7e34_100x100.png" group-title="საქართველო",Universe HD
 http://tv.cdn.xsg.ge/universehd/playlist.m3u8
 
-#EXTINF:-1,food tv
-http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
-#EXTINF:-1,tv24
-http://tv.cdn.xsg.ge/tv24/playlist.m3u8
-#EXTINF:-1,pk tv
-http://tv.cdn.xsg.ge/pktv/playlist.m3u8
-#EXTINF:-1,abkhaz
-http://tv.cdn.xsg.ge/abkhaz/playlist.m3u8
-#EXTINF:-1,kartuliarkhi
-http://tv.cdn.xsg.ge/kartuliarkhi/playlist.m3u8
-#EXTINF:-1,mega tv
-http://tv.cdn.xsg.ge/megatv/playlist.m3u8
-#EXTINF:-1,puls
-http://tv.cdn.xsg.ge/puls/playlist.m3u8
-#EXTINF:-1,qvemoqartli
-http://tv.cdn.xsg.ge/qvemoqartli/playlist.m3u8
-#EXTINF:-1,trialeti
-http://tv.cdn.xsg.ge/trialeti/playlist.m3u8
-#EXTINF:-1,marneuli
-http://tv.cdn.xsg.ge/marneulitv/playlist.m3u8
-#EXTINF:-1,adjara
-http://tv.cdn.xsg.ge/adjara/playlist.m3u8
-#EXTINF:-1,ggtv
-http://tv.cdn.xsg.ge/ggtv/playlist.m3u8
-#EXTINF:-1,tiflistv
-http://tv.cdn.xsg.ge/tiflistv/playlist.m3u8
-#EXTINF:-1,obiektivi
-http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
-#EXTINF:-1,sdasu
-http://tv.cdn.xsg.ge/sdasutv/playlist.m3u8
-#EXTINF:-1,pik
-http://tv.cdn.xsg.ge/piktv/playlist.m3u8
-#EXTINF:-1,ertsulovneba
-http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
-#EXTINF:-1,tvmax
-http://tv.cdn.xsg.ge/tvmax/playlist.m3u8
-#EXTINF:-1,drotv
-http://tv.cdn.xsg.ge/drotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Qazaqstan_logo.svg/1024px-Qazaqstan_logo.svg.png" group-title="Казахстан",Qazaqstan
 http://cdn.ch01.spr24.net:81/20447/mpegts?token=BQF9PmuRpcxUqR
