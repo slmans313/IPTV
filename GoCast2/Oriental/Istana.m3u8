@@ -592,6 +592,8 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 http://210.210.155.66/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/11/kctv-korean-central-television.jpg" group-title="日韩频道",North Korea TV 
 https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/tvN.kr.png" group-title="日韩频道",tvN
+http://23.237.112.130:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.livesegments.M3U8?sc_tk=LWYx3JWD1m7uR5FCaerFqwkMuMoxqWUZsxLMH4lpGT6gfa0UNKIxOZJpsEIG8fHYq%2FUHh5vVhmU%2F1XkjxYGegQ%3D%3D&filekey=nwlxz706xQHKQe6i8Jz9RFz2YXaIgvPY4lkCiYCL5gs%3D
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/tvN.kr.png" group-title="日韩频道",tVN Asia
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韩频道",WakuWaku Japan
@@ -600,21 +602,78 @@ https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_sleng.m3u8
 http://61.58.60.230:9319/live/243.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",KBS1
-rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
+http://23.237.112.146:9083/live/lmgr218-live1/uZ/vV/uZvV_oFf70rS_5dF5o637Q==/live.livesegments.M3U8?sc_tk=TPfozFZQeQedtHVIt0MLFzQaTTv4OK82M%2FC6TMINH8OF%2F%2BieuOlBi6bWfT80Orr4lJthy36H6EOeUs9PIpbHcQ%3D%3D&filekey=dCy5P2cHQhl3UjJZXMAxR6R-nN5vuc-yX4duciKLyFs%3D
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="日韩频道",KBS2
-rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
+http://23.237.112.130:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.livesegments.M3U8?sc_tk=STaFxUuLIFAdn1V1wNsB3bUEyLNw0W8qIAp9jNWfPAzNVVlgfayKRMa%2FxF7t4RYKh6n1YAkDbbut9b8GDzT6Mg%3D%3D&filekey=Te8l357sa9cPnR0-MGqlr7Xjrg1lErDTYPMuSC1SvAQ%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",KBSN스포츠
+http://23.237.112.130:9083/live/lmgr218-live1/83/8Y/838YSQ4jnoxIH-66DQzbyQ==/live.livesegments.M3U8?sc_tk=iuxtSZ3doKWyw4D5HAUhdkPGEAf25%2FZ41WxLgwpGt6okaY6jzdmKhN9Z9Q4IynaziHDVwNLT2ewDSCjr6fjFzw%3D%3D&filekey=8UnxqEZXjzkmjwMcrXE40JGCHZ1qlaLHat0sKdCL1aw%3D
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",채널A
+http://23.237.112.130:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.livesegments.M3U8?sc_tk=cuMhMby07VPuP0irM1bDQDZeDGtiJCn0%2FZgJEBnJ4Scjdj%2FeXarCPqOICeE2lrjKlewBeFCllD8AeRVIkV7a5g%3D%3D&filekey=vJxA5T1x7dYP56H8n-UuLIMg_qH8ThSUOi_GkYRa5nk%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",OCN
+http://23.237.112.130:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.livesegments.M3U8?sc_tk=qVOBapwpzywqi%2Fzyy7l9hOSz3gVSwk5BkMsNSktzfbhIu7LE73q8ETrd%2FL0dQD2N33sP9K9xpTTBsNqm%2Bs1HGg%3D%3D&filekey=a0TcjY7QfKWxPmEi6VgIbE1_l109aGaMetb5tro33CA%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",Catch on1
+http://213.152.172.73:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.livesegments.M3U8?sc_tk=3gi1ovI2ZTPdmKIFgJYO9yY3KCLmC8MYczWTUZ5czHn0kv8tt4gVhomTgFFbV3uN8FzXXSPmJ5Bfh13aydQrkA%3D%3D&filekey=MrlILc5E3Y1Kq8e7sYdBMtbnAvmlwRsez5tRJ6tG0RM%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",XTM
+http://23.237.112.146:9083/live/lmgr218-live1/HD/q5/HDq5azDoIaYdXACYwglAmQ==/live.livesegments.M3U8?sc_tk=16S4zBUyjcyOrLNbhcY4elDraOLVl7zNOpBuWYTv8b4UIXMBJWlfiOuUMf4HQKOxDERRPl0l4upwT8vcV%2BlkQw%3D%3D&filekey=HxkMKnYNlScDrnj9qcz_wTPplFAUELXGmg2TjMpU2pQ%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",Mnet
+http://23.237.112.146:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.livesegments.M3U8?sc_tk=c%2BHUlOZOzD90BanqU%2FWSSC5PfEdrjJaPCymABsx7bKs06bY9g7QCLmJXTOTZ2Tbe1jPXUIc%2F3wKDxRXbhuzJOQ%3D%3D&filekey=qIQsl3tTfece7AnoIfb0l25eTnANMeM1nCUvB6pajFU%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",inet-TV
+http://213.152.172.73:9083/live/lmgr218-live1/iE/sB/iEsBUibpGCn1MvvofdT7Nw==/live.livesegments.M3U8?sc_tk=dB6eEZS3OLGQDIsl5lungxxM%2FVWuF7AyH41wBmHBsrg4ucQ%2BcBlV8oYIUF4ZtSr5hjbn86d%2FJjQTz7EgRhJ7MQ%3D%3D&filekey=nPNCU5BfDM84xb6Y14gyjTUNmmM_ahUturANlsWcP3g%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",어린이1
+http://23.237.112.130:9083/live/lmgr218-live1/iz/El/izElYP02-6dsroN6VHX4hw==/live.livesegments.M3U8?sc_tk=FeRvR7k331yikloqAxP%2FL%2FDgPQxzne%2BqnSA2ERlsyUUkdhhcIs1K7oHXrr12OjevcbgruTHlgIPncWqb%2B49UyQ%3D%3D&filekey=nGrHSs0fVw0ANu6WdJ5UI_x5nxPmm22euYJ1uxcf3Fs%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",어린이2
+http://23.237.112.146:9083/live/lmgr218-live1/Ha/1o/Ha1o5euijTdNK4klXmosJw==/live.livesegments.M3U8?sc_tk=4E2mJFKu8pOZPDgWRKcTD3VDpds0cKCNcS8eZnXZE03V8eaDF%2FedrpqfMh8eUkgaryYDVrw7NuAB9FPBUrJ55w%3D%3D&filekey=SzTqtJU8Nb-iZ2tUxR_RI8uxu8_iBWX_Sw5lboUC4Zs%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",Sky스포츠
+http://23.237.112.146:9083/live/lmgr218-live1/pw/1F/pw1FPLw2DUDy38nHOf3Dhg==/live.livesegments.M3U8?sc_tk=BXj2znXKg8zOXl5m42WqxcAMZuaP42Ndcx8zG7pxiGzIxc3ov7SclrkWhT2W3pdASDWN9ZqAZ12AAmDDfllWDw%3D%3D&filekey=SYMiDVJwFd2H6QJtGzHzCoFA6405QUfkfl0W7EVPOCs%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",SPOTV
+http://213.152.172.73:9083/live/lmgr218-live1/bu/_u/bu_uTELt_sn03szwRat2vw==/live.livesegments.M3U8?sc_tk=jhGw2QkoA2kePM9m5VAof67jvxUoCmQ08rgfIU8FnpuYBZLZyvvc8j4Blv4E2xr6V%2Bnwjyomvq%2F0HqDlMZq%2FmA%3D%3D&filekey=tr7pTkvbNUWd40hsW5s4siefhWiiCGuI1_19yg5n67w%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",Sky Travel
+http://23.237.112.130:9083/live/lmgr218-live1/_-/8u/_-8uu1Tn5g4Op5N8ABcgyQ==/live.livesegments.M3U8?sc_tk=T%2FGtpGBceoxuCZqIfueKvenMkv1t%2FiU%2FC5N%2FT2b1JtzpWRbOTRDy8CSW6Pd0emsdAURXj2k%2BA75XjF5KkiI14Q%3D%3D&filekey=aStsD2_dvYCBr_1hoday4DZXRpTm-KIbfwxfOSVU970%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",Olive
+http://213.152.172.73:9083/live/lmgr218-live1/Cd/gO/CdgOWdzI-aQE0l49MoL4KQ==/live.livesegments.M3U8?sc_tk=jXdcEImC%2BY1YcUaU3SWmNjQ25N4qt33UvSPva81IzLryxK6caJk3Ui53sDvH8vqaiJsW4oyjYZq3qoh3olxeDQ%3D%3D&filekey=rRKDS618WwFWWiqkG2hJe3x0eAiS5Ez2Y8PWCZjBH_I%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",GTV
+http://213.152.172.73:9083/live/lmgr218-live1/29/uo/29uo3Lmq0V32VsPqdfqyiw==/live.livesegments.M3U8?sc_tk=EU%2BLjpWDACnVUbd6WnD6qqikIqeq%2FDLKaC9EsooUa%2B%2BiMDPsCrIY%2FMUA9tPRXk3dfPw4C3pRZ6EJpFbym6TwfA%3D%3D&filekey=md5XJjLGAeJU8wwKGYdsioiXzdQ1qPqVVqRTY7YY1Bw%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",ONSTYLE
+http://23.237.112.130:9083/live/lmgr218-live1/cB/4r/cB4r3_8LAovIbzuAg5NMSg==/live.livesegments.M3U8?sc_tk=aoReh6ZwTBBDRpMs4%2B%2Bz%2FlD3OtGIHmuoD7QjnmY1EkrMModq7Xfc5w%2Bf6PWh6kZSc8ToX8cjgZaEU4TCxEGEJw%3D%3D&filekey=jR-mQsLh8d4gMZAKXoxp-uNGnNudY7JOXrRL4hCcx8o%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",FTV낙시
+http://213.152.172.73:9083/live/lmgr218-live1/_s/Bw/_sBwNiIHsuLfupSIlTLgFg==/live.livesegments.M3U8?sc_tk=DFZlalTO6JrKqm6kR%2BQfIMcnOakxG%2B6MgHbtegsQK0w7yC23CMd9W7MDPYaPDHV9hA6iPoqBm9OOw0EM20HEGQ%3D%3D&filekey=-OAUY4i6oauQNbcDCFvZ-MVYZB34dCgkMXHksp_-1SU%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",바둑TV
+http://213.152.172.73:9083/live/lmgr218-live1/mv/Gv/mvGv7JULcGHu0GZ7BQ_CUQ==/live.livesegments.M3U8?sc_tk=zmBYmyokWwZjsSBErcqQ8BNGQ27skEZIDHDaZB8LxaB%2FDL37y5duSWT%2FYGMInP0gy4gEfiwSDzSB39P%2FcN5ivw%3D%3D&filekey=8zxjmK8zwF7FcfNwP3ji3vNnKUGubeO0sBu_ywN_BwU%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",채널차이나
+http://23.237.112.146:9083/live/lmgr218-live1/ut/hX/uthXNC6cyUNTT6dtUu9D6A==/live.livesegments.M3U8?sc_tk=KkTIr8CRT5XWClqwIfImVvbTmBr6Vrbk7Bt48L2tJLzh6xdONg%2FuhHINv2%2B5ZGgkpl0YasNYk4ZvFv365e7MPw%3D%3D&filekey=2ELKYUPs9H3yeKFGU2cobsHgQyDPTUba36BC_IXz3fw%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",HDWorld
+http://213.152.172.73:9083/live/lmgr218-live1/Wi/4i/Wi4i7iQI0kwBDqvCEoY-Yw==/live.livesegments.M3U8?sc_tk=rdmY%2FP9UxR%2FtBqSfJNVNMlVM66UhRL1z7dXFMCXtJ8rFo%2FdceTV%2BJ6p3TWHsJOdxLg2XH%2FgBm7zHBBEmqTFS3Q%3D%3D&filekey=UDlD6zgeYDsVYTj1iP4Q-jzDU5LbRj8-4Lrfr0SVM3o%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",NATIONALgeographic
+http://23.237.112.130:9083/live/lmgr218-live1/4r/9H/4r9HMyxxD9P4sIw1LDc89Q==/live.livesegments.M3U8?sc_tk=2ho9CsVTL5SzeWjnoUadxh7CPUh2M2GN4yQBxWZvEN7GZqgIhtNdNCY%2BzC3a3siZSeXGKCDaKXGZkT2i6uJkQg%3D%3D&filekey=PMKPTStg81X1fpi3MSUeYQpFME3-4DlTbFLMu_HfBKo%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",BTN
+http://213.152.172.73:9083/live/lmgr218-live1/V6/ym/V6ymZnHq5AdroXYl0ELDtw==/live.livesegments.M3U8?sc_tk=D8sX9mD%2FkAVcXxBsKs8yyMdKVdmGfqGCsUZU7qynRynneIMzSSmgcXq2n5HvXeFkVf8qAALp9LyofKIE15wJTA%3D%3D&filekey=AKKgJYtEJSX5mPtF4rTJCCgTkuux9bWoXgTCGS9q2FE%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",평화방송
+http://23.237.112.146:9083/live/lmgr218-live1/sJ/ke/sJkequ6jpcjajs2NtdZvbg==/live.livesegments.M3U8?sc_tk=pQvI08BCOBCY4BJCtOwUQnRJcIYU66n3zmqBDh9FqThXFUgpjeiJk4Uk5i5coU4BSs%2F07UYAiHEjIOOXIHeCdg%3D%3D&filekey=P422xcz5E2kZa-0q0GHq-6_-D3PE4ePfaw1_znS_O7I%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",CGNTV
+http://213.152.172.73:9083/live/lmgr218-live1/Jv/Gl/JvGlwcypS-tAeyXE9Tx_5g==/live.livesegments.M3U8?sc_tk=f4EBPcRlgQJ%2FA2y5sEkV6YYVPqhorVK57shtOnpGTB0UhcHSt0XUKXtbVGDQUthDh%2Bv%2FZLGMWp88eghb40CIng%3D%3D&filekey=09HH4X-lGY7-vjPmuM-viwO93iHM6sWe2vI9Q1lIj2A%3D
+
 
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="日韩频道",MBC
 http://211.54.140.36/hdmi
 #EXTINF:-1 tvg-logo="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg" group-title="日韩频道",MBC On
 http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",MBC스포츠
+http://23.237.112.146:9083/live/lmgr218-live1/wk/r5/wkr5etV8ujBb_3-hODugiQ==/live.livesegments.M3U8?sc_tk=AqFy6eGHDklA8CbcO6Gjn2oK9Jn2Y%2Fkh5f7RaebRRI2LSlwTbCebmKRnmCo0vZ0%2FXjyoEqvQv93wshUr3TZE%2Fw%3D%3D&filekey=OtUYXZGTfhBy2qCoQA0nWcDaB_BB6QTOt5KLREzB4RM%3D
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="日韩频道",SBS
+http://23.237.112.130:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.livesegments.M3U8?sc_tk=9CGnTTOwEa3rpf8Y6OqVkUkoYoAQt8aMUF4e7FJI046pXrxbjTfplMr848qogYDJXA5rvKuBDIgY%2F7ehdybbjg%3D%3D&filekey=clu4t3R1CPWCIh3lZAu45ro90osWeiiIk68sfDL7Cq4%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="日韩频道",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSPlus.kr.png" group-title="日韩频道",SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="日韩频道",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",SBS Golf
+http://23.237.112.146:9083/live/lmgr218-live1/dp/Ua/dpUaDQ0LwGNqpgVGdLwsrg==/live.livesegments.M3U8?sc_tk=EnIXQXpk9nz%2FntTLOEvWxeO%2BdtJXzYJU8A4Ec%2FtCjiJ6Uq%2F2RjIMN%2Fybzf5FpIOOkQQjFpj6z%2FgMLExlWKob4w%3D%3D&filekey=iImy8MGQVgXp0M3lCFHQ9vb8OanNo3CUt_CwkduWPNw%3D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="日韩频道",SBS Sports
+http://213.152.172.73:9083/live/lmgr218-live1/Lm/Ej/LmEjIrVpnD_VD7nFdi5nxw==/live.livesegments.M3U8?sc_tk=X%2BroHyzGuWROJXhtpVnuMAWw9S%2Bretdd5BCza5vOmF%2B8BVg029ilZyzTAUo8vmG0WnC7CNVCPiUCm4g%2FXz66SQ%3D%3D&filekey=Fuyo0Mdpge4xT-_-8x-G1qxqVANXlBZnNvBi9qrhB3o%3D
 
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png" group-title="日韩频道",EBS
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
@@ -629,6 +688,8 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="日韩频道",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/JTBC.kr.png" group-title="日韩频道",JTBC
+http://213.152.172.73:9083/live/lmgr218-live1/1k/C9/1kC9miPHbLuH_Xohzycp8g==/live.segments/10964171.fplsegment.ts?sc_tk=OJMM4nINR0H6%2FtGekiiSq4urmBSK7RMlFPvkuNXLI1cclnKHwuAxoIsyAql3QKaYwGDkUp8Xj2%2BedPh9m3n59w%3D%3D&filekey=M0iXfV5vxclbHorj61sQO0NvSypO5HroPjGYwMtbD0E%3D
 #EXTINF:-1 tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png" group-title="日韩频道",JTBC GOLF&SPORTS
 http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://image.jtbcgolf.joins.com/main/191218_h_top_logo.png" group-title="日韩频道",JTBC Golf
