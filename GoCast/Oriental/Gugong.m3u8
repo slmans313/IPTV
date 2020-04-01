@@ -867,25 +867,21 @@ http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ktv.go.kr/resources/images/common/logo.png" group-title="한국",KTV 국민방송
 rtmp://218.38.152.31:1935/klive/klive.stream
-#EXTINF:-1 tvg-logo="http://www.ktv.go.kr/resources/images/common/logo.png" group-title="한국",KTV 국민방송
-http://119.77.96.184:1935/chn21/chn21
 #EXTINF:-1 tvg-logo="http://dema.mil.kr/2019/images/logo.png" group-title="한국",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://image.edaily.co.kr/_common/edaily_family.png" group-title="한국",이데일리TV
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBN.kr.png" group-title="한국",MBN
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBN.kr.png" group-title="한국",매일경제TV
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 #EXTINF:-1 tvg-logo="http://www.tbs.seoul.kr/common/images/gnb/logo.png" group-title="한국",TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
-#EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif" group-title="한국",MTN
-http://moneytoday1.ktcdn.co.kr:1935/mtnlive/7
 #EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif" group-title="한국",MTN
 rtmp://mmoney.flive.skcdn.com/mmoneymobile/money3.stream
 #EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif" group-title="한국",MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="한국",팍스경제 TV
 rtmp://124.139.232.61:1935/live/livestream
-#EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="한국",팍스경제 TV
+#EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="한국",TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OBS.kr.png" group-title="한국",OBS
 rtmp://live.obs.co.kr/live/obs/myStream.sdp
@@ -897,9 +893,6 @@ http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg group-title="한국",tVN Movies
 https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.worktv.or.kr/images/story/intro/it_logo01.png" group-title="한국",한국직업방송
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/YTN.kr.png" group-title="한국",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.ytn.co.kr/img/live/live_dmb.jpg" group-title="한국",YTN DMB
@@ -908,6 +901,16 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="한국",YTN Korean
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="한국",NBS한국농업방송
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cts.tv/html/img/common/cts_25th.png" group-title="한국",BBS 불교방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 tvg-logo="http://www.bbsi.co.kr/HOME/img/common/imgLogo.png" group-title="한국",CTS기독교TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.stb.co.kr/layouts/stb14608/image/stbmain/stblogo.png" group-title="한국",STB상생방송
+http://118.130.121.108:1935/live-stb/_definst_/0d93902639680f27e8fc524d3b292479ca6759f4f0e0a84f35f70fd6f5339332/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="日本",NHK総合
 http://203.162.235.41:16903
