@@ -782,9 +782,24 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/Multimedios.mx.png" group-title="Costa Rica",Multimedios Costa Rica
 http://mdstrm.com:80/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY5OTA0NjI5NDQyMjk5/image-placeholder-title.jpg" group-title="Costa Rica",¡Sorpresa!
+http://d31c1svk0i6vkc.cloudfront.net/sorpresa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="Cuba,Radio y Televisión Martí
+#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="Cuba",Radio y Televisión Martí
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png" group-title="Cuba",Cubaplay
+http://d31c1svk0i6vkc.cloudfront.net/cubaplay/index.m3u8
+
+
+#EXTINF:-1,Ultra Familia
+https://d31c1svk0i6vkc.cloudfront.net/ultrafamilia/index.m3u8
+#EXTINF:-1,Enlace
+https://d31c1svk0i6vkc.cloudfront.net/enlace/index.m3u8
+#EXTINF:-1,TV Chile
+https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
+#EXTINF:-1,Tele N
+https://d31c1svk0i6vkc.cloudfront.net/telen/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nos_Pais_Logo.svg/1200px-Nos_Pais_Logo.svg.png" group-title="Curaçao",Nos Païs
 http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w1798703532_b2000000.m3u8
@@ -1068,3 +1083,5 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Venezuela",Promar
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.grancine.net/images/GC-festivales.gif" group-title="Venezuela",Gran Cine
+https://d31c1svk0i6vkc.cloudfront.net/grancine/index.m3u8
