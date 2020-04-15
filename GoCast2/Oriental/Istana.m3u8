@@ -916,20 +916,10 @@ https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/3.ir.png" group-title="中东频道",IRIB 3 
 https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
-#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/4-min.png" group-title="中东频道",IRIB 4
-https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/5.png" group-title="中东频道",IRIB 5
-https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://ofoghtv.ir/ofogh-theme/images/custom/title-logo.png" group-title="中东频道",IRIB Ofogh
-https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/amozesh-min.png" group-title="中东频道",IRIB Amoozesh
-https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/nasim-min.png" group-title="中东频道",IRIB Nasim
 https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.arianatelevision.com/wp-content/uploads/2017/08/logo-atn-new.png" group-title="中东频道",Ariana
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png" group-title="中东频道",Al Rasheed
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/varzesh-min.png" group-title="中东频道",IRIB Varzesh
+https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/il/Kan11.il.png" group-title="中东频道",כאן11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
@@ -941,13 +931,6 @@ https://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13_1200.m3u8
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.mako.co.il/2019/11/19/24logowhite_I_reduced.jpg" group-title="中东频道",ערוץ 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.pbc.ps/sites/all/themes/pbctheme/img/rrr.png" group-title="中东频道",Palestinian Satellite Channel
-http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png" group-title="中东频道",Falastini TV
-http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jrtv.gov.jo/templates/jrtv_home/images/logomain.png" group-title="中东频道",Jordan TV
-http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="中东频道",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
