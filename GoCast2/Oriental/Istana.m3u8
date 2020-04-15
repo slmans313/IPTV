@@ -658,18 +658,22 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="俄罗斯频道",Россия 24
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="俄罗斯频道",Россия K
-https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="俄罗斯频道",Россия РТР
-https://a3569455160-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="俄罗斯频道",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="俄罗斯频道",РЕН
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="俄罗斯频道",СТС
 https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNT4.ru.png" group-title="俄罗斯频道",ТНТ 4
+http://89.106.234.4:80/tnt4_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="俄罗斯频道",РЕН
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/OTR.ru.png" group-title="俄罗斯频道",ОТР
+http://russia.livetv.az/russia/otr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TVCentr.ru.png" group-title="俄罗斯频道",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Yu.ru.png" group-title="俄罗斯频道",Ю
+http://stream3.kuvalda.tv/hls/u.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Zvezda.ru.png" group-title="俄罗斯频道",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/ETV.ee.png" group-title="俄罗斯频道",Eesti TV
 https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
