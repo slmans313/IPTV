@@ -296,8 +296,6 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png" group-title="粤语频道",南方卫视
 http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
-#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212172903csL9.png" group-title="粤语频道",珠江频道
-http://nclive.grtn.cn/zjpd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="粤语频道",澳視澳門台
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a3.att.hudong.com/58/81/50200009239445156008813088832_s.jpg" group-title="粤语频道",澳門衛視
@@ -345,8 +343,6 @@ http://211.21.214.7:8808/live/dali/index.m3u8
 #EXTINF:-1 tvg-logo="http://gstv.com.tw/images/hometv_logo.png" group-title="台湾频道",幸福空間
 http://61.58.60.230:9319/live/125.m3u8
 
-
-
 #EXTINF:-1 tvg-id="tv.101002210221" tvg-logo="https://static.iptv-epg.com/au/ABC.au.png" group-title="英文频道",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-id="tv.abc2" tvg-logo="https://static.iptv-epg.com/au/ABCComedy.au.png" group-title="英文频道",ABC Comedy
@@ -357,12 +353,9 @@ https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://static.iptv-epg.com/au/ABCcomedyABCkids.au.png" group-title="英文频道",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="英文频道",BBC News
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/uk/BBC1.uk.png" group-title="英文频道",BBC 1
-http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="英文频道",CBBC
-http://160.119.77.50/iptv/uk-bbc3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBC4.uk.png" group-title="英文频道",BBC 4
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV1.uk.png" group-title="英文频道",ITV
@@ -373,46 +366,11 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV4.uk.png" group-title="英文频道",ITV 4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="英文频道",ITV Be
-http://160.119.77.50/iptv/uk-itvbe.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="英文频道",CITV
-http://160.119.77.50/iptv/uk-citv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="英文频道",Channel 4
-http://160.119.77.50/iptv/uk-channel4hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/4Music.uk.png" group-title="英文频道",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Film4.uk.png" group-title="英文频道",Film 4
-http://160.119.77.50/iptv/uk-film4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/More4.uk.png" group-title="英文频道",More 4
-http://160.119.77.50/iptv/uk-more4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/4Seven.uk.png" group-title="英文频道",4 Seven
-http://160.119.77.50/iptv/uk-4sevenhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="英文频道",E4
-http://160.119.77.50/iptv/uk-e4.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="英文频道",5 Star
-http://160.119.77.50/iptv/uk-5star.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="英文频道",5 USA
-http://160.119.77.50/iptv/uk-usa.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Alibi.uk.png" group-title="英文频道",Alibi
-http://160.119.77.50/iptv/uk-alibi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BoxHits.uk.png" group-title="英文频道",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="英文频道",Challenge
-http://160.119.77.50/iptv/uk-challenge.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CBSAction.uk.png" group-title="英文频道",CBS Action
-http://160.119.77.50/iptv/uk-cbsaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CBSReality.uk.png" group-title="英文频道",CBS Reality
-http://160.119.77.50/iptv/uk-cbsreality.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CBSDrama.uk.png" group-title="英文频道",CBS Drama
-http://160.119.77.50/iptv/uk-cbsdrama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Drama.uk.png" group-title="英文频道",Drama
-http://160.119.77.50/iptv/uk-drama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Dave.uk.png" group-title="英文频道",Dave
-http://160.119.77.50/iptv/uk-dave.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="英文频道",Food Network
-http://160.119.77.50/iptv/uk-foodnetwork.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/PBSAmerica.uk.png" group-title="英文频道",PBS America
 http://51.52.156.22:8888/http/012
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/KissTV.uk.png" group-title="英文频道",Kiss
@@ -423,21 +381,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=htt
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Pop.uk.png" group-title="英文频道",Pop
 http://51.52.156.22:8888/http/015
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Sky1.uk.png" group-title="英文频道",Sky 1
-http://160.119.77.50/iptv/uk-sky1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyAtlantic.uk.png" group-title="英文频道",Sky Atlantic
-http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/TheBox.uk.png" group-title="英文频道",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/VirginMediaTwo.ie.png" group-title="英文频道",Virgin 2
-http://160.119.77.50/iptv/ie-3e.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTEOne.ie.png" group-title="英文频道",RTÉ 1
-http://160.119.77.50/iptv/ie-rte1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTETwo.ie.png" group-title="英文频道",RTÉ 2
-http://160.119.77.50/iptv/ie-rte2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTEJr.ie.png" group-title="英文频道",RTÉ Jr
-https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ie/RTENewsNow.ie.png" group-title="英文频道",RTÉ News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ie/TG4.ie.png" group-title="英文频道",TG4
@@ -447,11 +393,11 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 https://vcdnjt.useetv.com/joss/15/afc/.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="英文频道",BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="英文频道",Discovery
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/CartoonNetwork.nz.png" group-title="英文频道",Cartoon Network
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="英文频道",Discovery Asia
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="英文频道",Discovery
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_110_80.png" group-title="英文频道",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="英文频道",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
@@ -459,8 +405,6 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/se/History2.se.png" group-title="英文频道",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 tvg-logo="http://www.firstlight.org.nz/styles/standard/site/images/site/branding.png" group-title="英文频道",Firstlight
-https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="英文频道",Kix
 https://vcdnjt.useetv.com/joss/15/kix/chunklist_w428965795_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/MaoriTelevision.nz.png" group-title="英文频道",Māori TV
@@ -477,15 +421,6 @@ https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="英文频道",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
-
-#EXTINF:-1 tvg-id="tv.11" tvg-logo="https://static.iptv-epg.com/nz/Three.nz.png" group-title="英文频道",Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
-#EXTINF:-1 tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="英文频道",Te Reo
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/TraceUrban.fr.png" group-title="英文频道",Trace Urban
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="英文频道",Trace Latina
-http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="英文频道",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8 
 
