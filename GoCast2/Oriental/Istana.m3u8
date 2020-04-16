@@ -39,19 +39,46 @@ https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 tvg-id="Astro Awani" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="新马频道",Astro SuperSport 4
 https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="体育频道",beIN Sports 1
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1016639541_b1344100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="体育频道",beIN Sports 2
-https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w2057282260_b1344100_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育频道",FOX Sports
-https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w1258343085_b1344100_sleng.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育频道",FOX Sports 2
-https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1841416974_b1344100_sleng.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育频道",FOX Sports 3
-https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w2031462582_b1344100_sleng.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="东南亚频道",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="东南亚频道",Indosiar
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCTV.id.png" group-title="东南亚频道",MNC
+https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/RCTI.id.png" group-title="东南亚频道",RCTI
+https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="东南亚频道",SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="3 HD-TH" tvg-logo="https://static.iptv-epg.com/th/Channel3.th.png" group-title="东南亚频道",ดูทีวีสีช่อง 3
+https://cdn-laos.workpoint.news/hd-ch3_720/index.m3u8
+#EXTINF:-1 tvg-id="ช่อง 5/CH 5-TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="东南亚频道",ช่อง 5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 tvg-id="7 HD-TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="东南亚频道",ช่อง 7
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/ch8.png" group-title="东南亚频道",ช่อง 8
+http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="东南亚频道",ONE 31
+http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/CNNPhilippines.ph.png" group-title="东南亚频道",CNN Philippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GMA Pinoy TV" tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="东南亚频道",GMA Pinoy
+http://164.40.161.43:10011
+#EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="东南亚频道",TV5 Philippines
+http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://plus.tv5.com.ph/assets/images/5%20PLUS%20logo%202019%20final-01.png" group-title="东南亚频道",5 Plus
+http://stream3.news5.ph/n5e/5plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="东南亚频道",UNTV Public
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="东南亚频道",VTV1
+https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv1hd1_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv3-hd.png" group-title="东南亚频道",VTV3
+https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv3hd1_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="东南亚频道",VTV4
+https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="东南亚频道",VTV6
+http://220.158.149.28:8180/live/TV00000000000000000162@HHZT
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/524177-anninh.png" group-title="东南亚频道",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/Action.au.png" group-title="新闻频道",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻频道",Al Jazeera
@@ -72,8 +99,6 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/es/Telesur.es.png" group-title="新闻频道",Telesur
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="中国频道",凤凰资讯台
 http://live.centerch.com/fhzx.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中国频道",凤凰中文台
@@ -136,3 +161,13 @@ http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国频道",CCTV-17 农业农村
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="体育频道",beIN Sports 1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1016639541_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="体育频道",beIN Sports 2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w2057282260_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育频道",FOX Sports
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w1258343085_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育频道",FOX Sports 2
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1841416974_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育频道",FOX Sports 3
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w2031462582_b1344100_sleng.m3u8
