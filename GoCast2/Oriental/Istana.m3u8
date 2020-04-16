@@ -39,9 +39,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="新马频道",RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="卫視电影台" tvg-logo="https://static.iptv-epg.com/hk/StarChineseMovies.hk.png" group-title="电影台",衛視電影
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="电影台",好莱坞电影
@@ -52,7 +49,6 @@ http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影台",CHC高清电影
 http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
-
 #EXTINF:-1 tvg-id="Astro Awani" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="体育频道",Astro SuperSport
 https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 tvg-id="Astro Awani" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="体育频道",Astro SuperSport 2
@@ -404,8 +400,6 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="英文频道",Kix
 https://vcdnjt.useetv.com/joss/15/kix/chunklist_w428965795_b1344100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/MaoriTelevision.nz.png" group-title="英文频道",Māori TV
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="英文频道",National Geo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="英文频道",National Geo Wild
@@ -658,8 +652,8 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/STS.ru.png" group-title="俄罗斯频道",СТС
 https://sc.id-tv.kz/STS_38_39.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNT4.ru.png" group-title="俄罗斯频道",ТНТ 4
-http://89.106.234.4:80/tnt4_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/TNTInternational.ru.png" group-title="俄罗斯频道",ТНТ
+http://188.113.190.12/19/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RENTV.ru.png" group-title="俄罗斯频道",РЕН
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/OTR.ru.png" group-title="俄罗斯频道",ОТР
