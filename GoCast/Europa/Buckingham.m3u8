@@ -206,9 +206,9 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCSport1.fr.png" group-title="Sports",RMC 1
 http://connectiktv.ddns.net:8080/rmc1/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaEn.ie.png" group-title="Sports",Setanta Sports
-http://92.46.127.146:8080//SetantaSport/index.m3u8
+http://188.93.95.34:80/setanta_georgia/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports",Setanta Sports +
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sports News
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
@@ -534,14 +534,6 @@ http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.maverickentertainment.cc/images/logo-2019.png" group-title="Movies",Maverick Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
-http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
-http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
-https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="电影",Red by HBO
-https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/5d4360edae8ff80001247e11/1564758103725-BJSDTUS8WBBFW41UWAFW/hiyah_website+logo.png" group-title="Movies",Hi-Yah!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="Movies",Filmbox
