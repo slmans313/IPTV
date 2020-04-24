@@ -332,9 +332,70 @@ https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="体育频道",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲频道",France 2
+http://51.15.3.161:8080/france2/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲频道",France 3
+http://51.15.3.161:8080/france3/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France5.fr.png" group-title="欧洲频道",France 5
+http://51.15.3.161:8080/france5/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="欧洲频道",M6
+http://51.15.3.161:8080/M6/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲频道",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="欧洲频道",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲频道",Das Erste
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="欧洲频道",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDF.de.png" group-title="欧洲频道",ZDF
+http://137.74.203.67:4780/zdf/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="欧洲频道",RTL
+http://5.135.92.133:52841/out/u/115_1.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="欧洲频道",Sat 1
+http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="欧洲频道",VOX
+http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="欧洲频道",LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/es/LaSexta.es.png" group-title="欧洲频道",LA Sexta
+https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="欧洲频道",Antena 3
+https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="欧洲频道",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="欧洲频道",Energy 
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="欧洲频道",Telecinco 
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲频道",Rai 1
+http://ott.artmott.com/Rai1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲频道",Rai 2
+http://5.135.92.133:52841/out/u/452_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="欧洲频道",Rai YoYo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="欧洲频道",Canale 5
+http://5.135.92.133:52841/out/u/425_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="欧洲频道",Italia 1
+http://5.135.92.133:52841/out/u/53_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="Italia",LA 7
+http://5.135.92.133:52841/out/u/101_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲频道",Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲频道",СТС
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="欧洲频道",РЕН
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/TVCentr.ru.png" group-title="欧洲频道",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Yu.ru.png" group-title="欧洲频道",Ю
+http://stream3.kuvalda.tv/hls/u.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东频道",MBC 1
