@@ -152,7 +152,7 @@ https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
 https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://img.inews.id/media/200/files/inews/inews_01.png" group-title="Indonesia",I News
-https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
+https://app-linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",TV One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia",Metro
@@ -301,6 +301,8 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(4d104b0f-063e-6d0b-
 http://164.40.161.43:10011
 #EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5
 http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ph/TheFilipinoChannelus.ph.png" group-title="Pilipinas",TFC
+http://00100.co:2086/79775817/3655144/93265
 #EXTINF:-1 tvg-logo="http://cltv36.tv/assets/img/logo127.png" group-title="Pilipinas",Central Luzon Television
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/CNNPhilippines.ph.png" group-title="Pilipinas",CNN Phillippines
