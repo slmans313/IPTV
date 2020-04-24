@@ -19,11 +19,11 @@ http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/LivingFoodz.in.png" group-title="मनोरंजन", Living Foodz
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8 
 #EXTINF:-1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif" group-title="मनोरंजन",Sony ETV
-http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
+http://216.144.250.174:8080/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="मनोरंजन",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="मनोरंजन",Sony Max 2
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+http://216.144.250.174:8080/Sony_MaX_HD_02/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/TLC.de.png" group-title="मनोरंजन",TLC हिन्दी
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="मनोरंजन",Sony SAB
@@ -159,7 +159,7 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" group-title="मनोरंजन",DD Punjabi
-http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
+https://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="मनोरंजन",Zee Punjabi
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png" group-title="मनोरंजन",5aab TV
@@ -174,6 +174,8 @@ http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://southasiandaily.com/wp-content/uploads/2015/10/Capture12.png" group-title="मनोरंजन",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://akaalchannel.tv/assets/images/logo.png" group-title="मनोरंजन",Channel Akkal
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/66/5d/c8/665dc866-df03-0f5f-8f37-fba059f74155/source/512x512bb.jpg" group-title="मनोरंजन",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ektatv.com/wp-content/uploads/2018/07/01-1.png" group-title="मनोरंजन",Fastway TV
