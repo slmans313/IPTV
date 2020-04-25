@@ -1214,8 +1214,22 @@ http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
 http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://timisoara.tvr.ro/images/logo_main_tvrtimisoara.png" group-title="România",TVR Timisoara 
 http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://iasi.tvr.ro/images/logo_main_tvriasi.png" group-title="România",TVR Isasi
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
+#EXTINF:-1 tvg-logo="http://iasi.tvr.ro/images/logo_main_tvriasi.png" group-title="România",TVR Iasi
+http://89.136.209.26:1935/liveedge/TVRIASI.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mures.tvr.ro/images/logo_main_tvrmures.png" group-title="România",TVR Targu-Mures
+http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ro/ProTV.ro.png" group-title="România",Pro TV
+https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
+#EXTINF:-1 tvg-logo="https://static.epg.best/ro/Pro2.ro.png" group-title="România",Pro 2
+https://vid.hls.protv.ro/pro2n/pro2.m3u8?1
+#EXTINF:-1 tvg-logo="https://cloudia.cms.protvplus.ro/rx/ee5ceedd-0454-4ea0-a280-2234a91bca61.png?default=b507a3ad-e712-494d-9667-5274d0c05bca.png" group-title="România",Pro X
+https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
+#EXTINF:-1 tvg-logo="https://cloudia.cms.protvplus.ro/rx/86dc5207-07bc-4ea7-84e3-0d170523a5ea.png?default=b507a3ad-e712-494d-9667-5274d0c05bca.png" group-title="România",Pro Gold
+https://vid.hls.protv.ro/progoldn/progold.m3u8?1
+#EXTINF:-1 tvg-logo="https://static.epg.best/ro/ProCinema.ro.png" group-title="România",Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema.m3u8?1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f6/Pro_TV_News.jpg/revision/latest/scale-to-width-down/340?cb=20180704232349" group-title="România",Pro TV News
+https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:-1 tvg-logo="https://static.epg.best/ro/MusicChannel.ro.png" group-title="România",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvromanialive.com/wp-content/uploads/2019/06/alfa-omega-tv.png" group-title="România",Alfa Omega TV
