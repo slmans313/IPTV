@@ -233,7 +233,6 @@ http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国频道",CCTV-17 农业农村
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="印度频道",Raj TV
 http://45.120.188.184/hdmi
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="印度频道",Star விஜய்
@@ -381,7 +380,7 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 http://5.135.92.133:52841/out/u/425_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="欧洲频道",Italia 1
 http://5.135.92.133:52841/out/u/53_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="Italia",LA 7
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="欧洲频道",LA 7
 http://5.135.92.133:52841/out/u/101_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
@@ -396,7 +395,6 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Yu.ru.png" group-title="欧洲频道",Ю
 http://stream3.kuvalda.tv/hls/u.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东频道",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
@@ -415,14 +413,14 @@ https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
 #EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/varzesh-min.png" group-title="中东频道",IRIB Varzesh
 https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
-#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemtv-icon.png" group-title="中东频道",GEM TV
+#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif" group-title="中东频道",GEM TV
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemdrama-icon.png" group-title="中东频道",GEM Drama
+#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg" group-title="中东频道",GEM Drama
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="中东频道",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="中东频道",A TV
+#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="中东频道",aTV
 http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="中东频道",Star
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
@@ -433,7 +431,7 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东频道",כאן11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/il/12Keshet.il.png" group-title="中东频道",חינוכית
+#EXTINF:-1 tvg-logo="https://static.epg.best/il/12Keshet.il.png" group-title="中东频道",קשת
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8
 #EXTINF:-1 tvg-logo="https://img.mako.co.il/2019/11/19/24logowhite_I_reduced.jpg" group-title="中东频道",ערוץ 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
