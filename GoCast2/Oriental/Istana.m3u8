@@ -111,6 +111,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="新闻频道",BBC World News
 http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
+#EXTINF:-1 tvg-logo="http://static.epg.best/ru/Euronews.ru.png" group-title="新闻频道",Euronews
+http://61.58.60.230:9319/live/129.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="新闻频道",Fox News
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="新闻频道",CGTN
@@ -119,10 +121,9 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-id="RT" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="新闻频道",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="新闻频道",NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="新闻频道",Telesur
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="粤语频道",翡翠台
 http://m.567it.com/jade.m3u8
@@ -232,6 +233,28 @@ http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国频道",CCTV-17 农业农村
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mbcgn.kr/files/attach/images/3710/632d9b84f020d92b602e69fccbf113ce.png" group-title="日韩频道",MBC
+http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="日韩频道",SBS
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="日韩频道",KBS World
+https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
+#EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/11/kctv-korean-central-television.jpg" group-title="日韩频道",North Korea TV
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="日韩频道",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="日韩频道",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title="日韩频道",NHK World Premium
+https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_w123540726_b1344100_sleng_enc=FjUiToUzI4n4ys9_IOUjIw.m3u8
+#EXTINF:-1 tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_nhkbs1.jpg" group-title="日韩频道",NHK BS 1
+http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
+#EXTINF:-1 tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日本",日テレ NEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo="https://www.bs-asahi.co.jp/wordpress/wp-content/themes/bs-master/img/no_image.png" group-title="日韩频道",BS 朝日
+http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 
 #EXTINF:-1 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="印度频道",Raj TV
 http://45.120.188.184/hdmi
