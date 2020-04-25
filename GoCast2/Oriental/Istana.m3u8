@@ -406,6 +406,19 @@ http://5.135.92.133:52841/out/u/53_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="欧洲频道",LA 7
 http://5.135.92.133:52841/out/u/101_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲频道",BVN
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/be/een.be.png" group-title="欧洲频道",Eén
+https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+#EXTINF:-1 tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲频道",Canvas
+https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/VRT_Ketnet_logo.svg/150px-VRT_Ketnet_logo.svg.png" group-title="欧洲频道",Ketnet
+https://live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+#EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲频道",NPO Nieuws
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPOPolitiek.nl.png" group-title="欧洲频道",NPO Politiek
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲频道",Россия 24
@@ -427,8 +440,6 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="南美洲频道",Cubavisión Internacional 
 https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="南美洲频道",Record TV
-http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 #EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/assets/images/logo-home-mobile.png" group-title="南美洲频道",RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="南美洲频道",TV Perú
