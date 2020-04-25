@@ -410,12 +410,14 @@ http://5.135.92.133:52841/out/u/101_1.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲频道",Россия 24
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲频道",СТС
-http://89.106.234.4:80/STS_38_39.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="欧洲频道",РЕН
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/TVCentr.ru.png" group-title="欧洲频道",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲频道",UA:ПЕРШИЙ
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1 tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="欧洲频道",TVR 1	
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ottresource.aviion.tv/18988b7176f2420d9584da7f2b1e2da4.png" group-title="欧洲频道",HRT 1 
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
+#EXTINF:-1 tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="欧洲频道",Polsat
+http://207.110.52.62:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="南美洲频道",Multimedios
 https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
