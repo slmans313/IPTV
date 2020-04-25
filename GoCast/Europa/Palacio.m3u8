@@ -254,17 +254,22 @@ https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/gloob.m3u8
 https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/premiereclubes.m3u8
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="Português/Brasil",Mais Globosat
 https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/maisbobosat.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/Multishow.br.png",Multishow
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Multishow.br.png" group-title="Português/Brasil",Multishow
 https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/multishow.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Odisseia.pt.png",Odisseia
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Odisseia.pt.png" group-title="Português/Brasil",Odisseia
 http://51.15.3.161:8080/odessa/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Português/Brasil",Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/assets/images/logo-home-mobile.png" group-title="Português/Brasil",RedeTV!
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/assets/images/logo-home-mobile.png" group-title="Português/Brasil",RedeTV!
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/RecordTV.br.png" group-title="Português/Brasil",Record TV
 https://d2uy4ep1ygc4za.cloudfront.net/a/hls1/recordsp.m3u8
 #EXTINF:-1 tvg-logo="https://redetvc.com.br/wp-content/uploads/2019/12/logotvctv.png" group-title="Português/Brasil",Rede TVC Brasil
 https://7ejqucofpe.singularcdn.net.br/iptv/hls/tvc/tvc.m3u8
+#EXTINF:-1 tvg-logo="http://redeminas.tv/wp-content/uploads/2014/09/RedeMinas.png" group-title="Português/Brasil",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Português/Brasil",SBT
 http://proxyts.canais.info:8084/hls1/sbt.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Português/Brasil",SBT 2
