@@ -408,16 +408,17 @@ http://5.135.92.133:52841/out/u/101_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲频道",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲频道",NPO Nieuws
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/be/een.be.png" group-title="欧洲频道",één
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 #EXTINF:-1 tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲频道",Canvas
 https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/VRT_Ketnet_logo.svg/150px-VRT_Ketnet_logo.svg.png" group-title="欧洲频道",Ketnet
-https://live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
-#EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲频道",NPO Nieuws
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPOPolitiek.nl.png" group-title="欧洲频道",NPO Politiek
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="欧洲频道",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp2.pt.png" group-title="欧洲频道",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
@@ -446,6 +447,8 @@ https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="南美洲频道",TV Perú
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="http://estaticos.tvchile.cl/skins/imagenes/logo.png" group-title="南美洲频道",TVN Chile
+https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/180px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="南美洲频道",Venezolana
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist_w792631932.m3u8
 
@@ -453,12 +456,12 @@ https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist_w792631932.m3u8
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="中东频道",MBC 2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="中东频道",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="中东频道",MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东频道",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="中东频道",Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="ماراتيين",Al Aan
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/1.png" group-title="中东频道",IRIB 1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
@@ -484,7 +487,7 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东频道",כאן11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/il/KanHinuchit.il.png" group-title="中东频道",כאן חינוכית
+#EXTINF:-1 tvg-logo="https://static.epg.best/il/KanHinuchit.il.png" group-title="中东频道",חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.mako.co.il/2019/11/19/24logowhite_I_reduced.jpg" group-title="中东频道",ערוץ 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
