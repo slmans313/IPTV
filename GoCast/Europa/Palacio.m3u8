@@ -700,8 +700,6 @@ http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
 http://95.211.214.198/bolivia/cristaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="Bolivia",Católica TV
 http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iksbolivia.net/wp-content/uploads/2017/04/b68d6a_b2a36c36d1a840e58097abf13ab15723mv2_d_4417_1800_s_2.png" group-title="Bolivia",Mega TV
-http://hdp2.imd.la:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolivia",PAT La Paz
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/pattv-218x150.png" group-title="Bolivia",PAT Santa Cruz
@@ -808,12 +806,6 @@ https://edge1.tvdirect13.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tele1.sv/wp-content/uploads/2019/06/TELE1_WHITE.png" group-title="El Salvador",Tele 1
 https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/chunklist_w1745478778_b478000_DVR_sleng.m3u8 
-#EXTINF:-1 tvg-logo="https://static.epg.best/sv/Canal2Nacional.sv.png" group-title="El Salvador",Canal 2
-http://d1fq81ey3uivxy.cloudfront.net/canal2/index.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-4-El-Salvador.png" group-title="El Salvador",Canal 4
-http://d1fq81ey3uivxy.cloudfront.net/canal4/index.m3u8
-#EXTINF:-1 tvg-logo="http://wowelsalvador.com/imagenes/logooff.fw.png" group-title="El Salvador",Canal 6
-http://d1fq81ey3uivxy.cloudfront.net/canal6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="El Salvador",Tutv
 https://5d07d2ec59d7c.streamlock.net/Canal11/Canal11/chunklist_w22123517.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="El Salvador",Canal TVX
@@ -826,11 +818,7 @@ https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_151_av-p.m3u8
 http://infosal.ddns.net/tvca/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvocanal23.com/templates/televisinorientalcanal23/img/logo.png" group-title="El Salvador",TVO Canal 23
 http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="El Salvador",TCS+
-http://d1fq81ey3uivxy.cloudfront.net/tcsplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TCS_El_Salvador_2002.svg/375px-TCS_El_Salvador_2002.svg.png" group-title="El Salvador",TCS
-http://d1fq81ey3uivxy.cloudfront.net/tcshd/index.m3u8
-
+`
 #EXTINF:-1 tvg-logo="https://www.ecuadortv.ec/images/ecuadortv11.png" group-title="Ecuador",Ecuador TV
 http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="Ecuador",Ecuavisa
@@ -1068,6 +1056,8 @@ http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wipr.pr/wp-content/uploads/2018/11/logo2-1-300x99.png" group-title="Puerto Rico",WIPR-TV
 https://api.new.livestream.com/accounts/16550960/events/8600941/broadcasts/198723611.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/MegaTV.png" group-title="Puerto Rico",Mega TV
+http://livestream.lamusica.com/megatvlive/megatvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zizonline.com/wp-content/uploads/2016/11/ziz_logo.png" group-title="Saint Kitts and Nevis",ZIZ
 http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
