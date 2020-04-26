@@ -433,24 +433,31 @@ http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="欧洲频道",Polsat
 http://207.110.52.62:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="南美洲频道",Multimedios
-https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
-#EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="南美洲频道",adn40
-http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-#EXTINF:-1 tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="南美洲频道",13 Max
-http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="南美洲频道",Cubavisión Internacional 
+#EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/06/Canal-5-Honduras-200x180.png" group-title="南美频道",5 El Líder
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:-1 tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="南美频道",Cubavisión Internacional 
 https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="南美洲频道",SBT
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/assets/images/logo-home-mobile.png" group-title="南美洲频道",RedeTV!
+#EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="南美频道",Ecuavisa
+http://173.212.247.99/hls/tvec2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/themes/medianed-child/img/logo-blanco-slogan.png" group-title="南美频道",La Red
+http://cl-lared-lared-app-oiuh8d-origin-0.ned.media/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/MegaTV.png" group-title="南美频道",Mega TV
+http://livestream.lamusica.com/megatvlive/megatvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="南美频道",Multimedios
+https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
+#EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/assets/images/logo-home-mobile.png" group-title="南美频道",RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="南美洲频道",TV Perú
+#EXTINF:-1 tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="南美频道",RPC Canal 4
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="南美频道",SBT
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="南美频道",TV Perú
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="http://estaticos.tvchile.cl/skins/imagenes/logo.png" group-title="南美洲频道",TVN Chile
+#EXTINF:-1 tvg-logo="http://estaticos.tvchile.cl/skins/imagenes/logo.png" group-title="南美频道",TVN Chile
 https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/180px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="南美洲频道",Venezolana
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/180px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="南美频道",Venezolana
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist_w792631932.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东频道",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
