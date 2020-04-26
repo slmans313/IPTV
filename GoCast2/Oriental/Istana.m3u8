@@ -357,8 +357,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://51.15.3.161:8080/france2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲频道",France 3
 http://51.15.3.161:8080/france3/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France5.fr.png" group-title="欧洲频道",France 5
-http://51.15.3.161:8080/france5/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://europe.tv5monde.com/sites/tv5_locaux/files/2019-07/europe.png" group-title="欧洲频道",TV5 Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="欧洲频道",M6
 http://51.15.3.161:8080/M6/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲频道",TF1
@@ -376,8 +376,8 @@ http://137.74.203.67:4780/zdf/playlist.m3u8
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="欧洲频道",Sat 1
 http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="欧洲频道",VOX
-http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="欧洲频道",Deutsche Welle
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="欧洲频道",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
