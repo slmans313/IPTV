@@ -1402,11 +1402,9 @@ http://nn1.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 tvg-logo="https://img.joj.sk/rx/d8243ddf9e64c682833f0d16a820d7e8.png" group-title="Slovensko",Joj Family
 http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static1.joj.sk/html/assets/logo-plus-white.png" group-title="Slovensko",Joj Plus
-https://nova-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://www.skylink.sk/doc/um_kanal_img/joj-plus-1a-403.png" group-title="Slovensko",Joj +1
-http://173.249.28.105:8000/play/jojp1/index.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/slo/live_lq.m3u8
 #EXTINF:-1 tvg-logo="http://static.cdn.markiza.sk/media/3.0/mar/grf/header-markiza-logo.png" group-title="Slovensko",Markiza
-http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/markiza/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://www.skylink.sk/doc/um_kanal_img/markiza_plus1_basic_full_rgb_hd-499.PNG" group-title="Slovensko",Markíza Plus
 http://173.249.28.105:8000/play/markizaplus1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dusanhoo.webnode.sk/_files/200000514-b0e0eb1db2/LOGO%20CETV.jpg" group-title="Slovensko",CETV
@@ -1458,7 +1456,7 @@ http://70.32.0.9:5000/live/43/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mtt.sk/up/img/mtt-logo4.png" group-title="Slovensko",Trnava
 http://213.81.153.221:8080/trnava
 #EXTINF:-1 tvg-logo="https://img.joj.sk/rx/logowau.png" group-title="Slovensko",Wau TV
-https://nn.geo.joj.sk/hls/wau-540.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/wau/playlist/slo/live_lq.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SVT1_Logotyp.png" group-title="Sverige",SVT1
 http://83.56.24.104:9981/stream/channelid/1275802491?ticket=6B63C2F774DFB0B98EE3A39E75F79B9BD944E845&profile=pass
