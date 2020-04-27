@@ -29,9 +29,9 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="新马频道",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="新马频道",NTV7
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="新马频道",NTV 7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="新马频道",TV9
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="新马频道",TV 9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="东南亚频道",TVRI
@@ -405,7 +405,6 @@ http://5.135.92.133:52841/out/u/53_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="欧洲频道",LA 7
 http://5.135.92.133:52841/out/u/101_1.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲频道",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲频道",NPO Nieuws
@@ -415,10 +414,9 @@ https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de
 #EXTINF:-1 tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲频道",Canvas
 https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="欧洲频道",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b1290000_slpor.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp2.pt.png" group-title="欧洲频道",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
@@ -466,13 +464,12 @@ https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Kj7zM1bM0yM/URCwNnOOBGI/AAAAAAAAA3k/ebpq6Ay4HHQ/s191-Ic42/vtv.jpg" group-title="南美频道",Venezolana
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist_w792631932.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东频道",MBC 1
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="中东频道",MBC 2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="中东频道",MBC 4
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="中东频道",MBC Masr
+https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东频道",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="中东频道",Al Aan
