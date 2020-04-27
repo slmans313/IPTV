@@ -405,6 +405,10 @@ http://5.135.92.133:52841/out/u/53_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="欧洲频道",LA 7
 http://5.135.92.133:52841/out/u/101_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="欧洲频道",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp2.pt.png" group-title="欧洲频道",RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲频道",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲频道",NPO Nieuws
@@ -413,10 +417,6 @@ http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 #EXTINF:-1 tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲频道",Canvas
 https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="欧洲频道",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp2.pt.png" group-title="欧洲频道",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
