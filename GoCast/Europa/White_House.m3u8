@@ -66,12 +66,13 @@ https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1 tvg-logo="http://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2019/11/60h-BAY-white-stacked.png" group-title="USA/Canada",CBSN Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
-
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/CBCOttawa.ca.png" group-title="USA/Canada",CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="USA/Canada",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/CoziTV.us.png" group-title="USA/Canada",Cozi TV West Virginia(WZTS)
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/CoziTV.us.png" group-title="USA/Canada",Cozi West Virginia(WZTS)
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/CoziTV.us.png" group-title="USA/Canada",Cozi TV Philadelphia(WCAU)
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/CoziTV.us.png" group-title="USA/Canada",Cozi Philadelphia(WCAU)
 https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA/Canada",CW Boston (WHDH)
@@ -82,9 +83,10 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="http://pmcvariety.files.wordpress.com/2018/08/dustx-logo.jpg" group-title="USA/Canada",DUSTx
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="USA/Canada",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/6ea6f2a0-451c-4d87-8060-051f8c07db23/images/fa_desktop_logo_white_horizontal.png" group-title="USA/Canada",Fail Army
+http://channels.ooguy.com:80/auth?channel=FailArmy&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="USA/Canada",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
