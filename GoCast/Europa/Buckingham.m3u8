@@ -389,6 +389,8 @@ http://teslagram.com/live/channel_630.m3u8
 http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="Horse Racing",Captital OTB Betting
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/HorseAndCountry.uk.png" group-title="Horse Racing",Horse & Country TV
+https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
 
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="MMA",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
@@ -870,33 +872,10 @@ https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="Oceania",Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/uk/BBC1.uk.png" group-title="UK",BBC 1
-http://160.119.77.50/iptv/uk-bbc1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/uk/BBC2.uk.png" group-title="UK",BBC 2
-http://160.119.77.50/iptv/uk-bbc2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="UK",CBBC
-http://160.119.77.50/iptv/uk-bbc3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4/CBeebies
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC 1 Scotland
-http://160.119.77.50/iptv/uk-citv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
-http://160.119.77.50/iptv/uk-channel4hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="UK",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="UK",Film 4
-http://160.119.77.50/iptv/uk-film4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="UK",More 4
-http://160.119.77.50/iptv/uk-more4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/4Seven.uk.png" group-title="UK",4Seven
-http://160.119.77.50/iptv/uk-4sevenhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="UK",e4
-http://160.119.77.50/iptv/uk-e4.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/5star.uk.png" group-title="UK",5 Star
-http://160.119.77.50/iptv/uk-5star.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/FiveUSA.uk.png" group-title="UK",5 USA
-http://160.119.77.50/iptv/uk-usa.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
@@ -906,13 +885,7 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV 4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/ITVBe.uk.png" group-title="UK",ITV BE
-http://160.119.77.50/iptv/uk-itvbe.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CITV.uk.png" group-title="UK",CITV
-http://160.119.77.50/iptv/uk-citv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Alibi.uk.png" group-title="UK",Alibi
-http://160.119.77.50/iptv/uk-alibi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK",British Muslim TV
@@ -921,26 +894,12 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/i
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxUpfront.uk.png" group-title="UK",Box Upfront
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Challenge.uk.png" group-title="UK",Challenge
-http://160.119.77.50/iptv/uk-challenge.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CreateCraft.uk.png" group-title="UK",Create & Craft
 https://live-craftuk.simplestreamcdn.com/craftuk/live.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CBSAction.uk.png" group-title="UK",CBS Action
-http://160.119.77.50/iptv/uk-cbsaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CBSReality.uk.png" group-title="UK",CBS Reality
-http://160.119.77.50/iptv/uk-cbsreality.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/CBSDrama.uk.png" group-title="UK",CBS Drama
-http://160.119.77.50/iptv/uk-cbsdrama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Drama.uk.png" group-title="UK",Drama
-http://160.119.77.50/iptv/uk-drama.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Dave.uk.png" group-title="UK",Dave
-http://160.119.77.50/iptv/uk-dave.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman/img/logo.png" group-title="UK",Eman
 https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.gemporia.com/images/og/fb.jpg" group-title="UK",Gemporia
 https://5e40ea2c72424.streamlock.net/abrgemporia/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="UK",Gold
-http://160.119.77.50/iptv/uk-gold.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/IdealWorld.uk.png" group-title="UK",Ideal World
 http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/PBSAmerica.uk.png" group-title="UK",PBS America
@@ -957,25 +916,14 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 http://51.52.156.22:8888/http/015
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="UK",RT UK
 http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Sky1.uk.png" group-title="UK",Sky 1
-http://160.119.77.50/iptv/uk-sky1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkyAtlantic.uk.png" group-title="UK",Sky Atlantic
-http://160.119.77.50/iptv/uk-skyatlantic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesPremiere.nz.png" group-title="UK",Sky Movies Premiere
-http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SonyMoviesChristmas.uk.png" group-title="UK",Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="UK",Venus TV
+http://45.77.90.56:8080/hls/mystream.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/ie/VirginMediaOne.ie.png" group-title="Éire",Virgin 1
-http://160.119.77.50/iptv/ie-tv3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ie/VirginMediaTwo.ie.png" group-title="Éire",Virgin 2
-http://160.119.77.50/iptv/ie-3e.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ie/RTEOne.ie.png" group-title="Éire",RTE 1
-http://160.119.77.50/iptv/ie-rte1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ie/RTETwo.ie.png" group-title="Éire",RTE 2
-http://160.119.77.50/iptv/ie-rte2.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/ie/RTEJr.ie.png" group-title="Éire",RTE Jr
 https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="Éire",RTE News Now
