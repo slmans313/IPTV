@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="मनोरंजन",& TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="मनोरंजन",& TV USA
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhdusa/index.m3u8 
+http://channels.ooguy.com:80/auth?channel=AndTvHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png" group-title="मनोरंजन",Animal Planet हिन्दी
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="मनोरंजन",Colors
@@ -19,17 +17,17 @@ http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/LivingFoodz.in.png" group-title="मनोरंजन", Living Foodz
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8 
 #EXTINF:-1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif" group-title="मनोरंजन",Sony ETV
-http://185.246.209.251:9090/sony/index.m3u8?token=test
+http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="मनोरंजन",Sony Max
-https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+http://channels.ooguy.com:80/auth?channel=SonyMaxHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="मनोरंजन",Sony Max 2
 http://216.144.250.174:8080/Sony_MaX_HD_02/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/TLC.de.png" group-title="मनोरंजन",TLC हिन्दी
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="मनोरंजन",Sony SAB
-https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+http://channels.ooguy.com:80/auth?channel=SonySabHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="मनोरंजन",Sony YAY
-https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+http://channels.ooguy.com:80/auth?channel=SonyYaySdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="मनोरंजन",Star Bharat
@@ -79,13 +77,11 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 #EXTINF:-1 tvg-logo="https://hindi.cdn.zeenews.com/images/zee-hindustan-orange-english.png" group-title="न्यूज़",Zee Hindustan
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeBusiness.in.png" group-title="न्यूज़",Zee Business
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeNews.in.png" group-title="न्यूज़",Zee News
+http://channels.ooguy.com:80/auth?channel=ZeeNewsSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/pictureshd386x3_1451631172.png" group-title="फ़िल्म",&amp;Pictures
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="मनोरंजन",&amp;TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
+http://channels.ooguy.com:80/auth?channel=AndPicsHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood HD
 https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="फ़िल्म",B4U Movies
@@ -109,11 +105,11 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/WOWCinema.in.png" group-title="फ़िल्म",Wow Cinema
 https://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="फ़िल्म",Zee Action 
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8 
+http://channels.ooguy.com:80/auth?channel=ZeeActionSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_list/h2logo386x386_1179056338.png" group-title="फ़िल्म",Zee Bollywood
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
+http://channels.ooguy.com:80/auth?channel=ZeeBollywoodSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="संगीत",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
