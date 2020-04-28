@@ -158,6 +158,10 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/rajyasabhatv.png" group-title="सीखना",Rajya Sabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/PTCPunjabi.in.png" group-title="मनोरंजन",PTC Punjabi
+http://channels.ooguy.com:80/auth?channel=PtcPunjabi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/PTCPunjabi.in.png" group-title="मनोरंजन",PTC Punjabi Gold
+http://channels.ooguy.com:80/auth?channel=PtcPunjabiGold&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDPunjabi.in.png" group-title="मनोरंजन",DD Punjabi
 https://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png" group-title="मनोरंजन",5aab TV
@@ -191,6 +195,8 @@ http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvpunjab.com/wp-content/uploads/2017/03/final-logo1-web-tv-punjab-1.png" group-title="मनोरंजन",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/PTCNews.in.png" group-title="ਫਿਲਮਾਂ",PTC News
+http://channels.ooguy.com:80/auth?channel=PtcNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://politicalbaaba.files.wordpress.com/2018/08/unnamed.jpg" group-title="ਫਿਲਮਾਂ",ABP Sanjha
 https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://globalpunjabtv.in/wp-content/uploads/2019/08/logo-2.png" group-title="ਫਿਲਮਾਂ",Global Punjab
@@ -204,6 +210,12 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/62/dd/32/62dd329e-af60-9ca1-6776-ec54352dbbcd/AppIcon-1x_U007emarketing-85-220-0-9.png/1200x630wa.png" group-title=ਫਿਲਮਾਂ",Prime Canada
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/PTCChakde.in.png" group-title="ਸੰਗੀਤ",PTC Chakde
+http://channels.ooguy.com:80/auth?channel=PtcChakde&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 tvg-logo="https://www.ptcnews.tv/wp-content/uploads/2018/06/dhol-1-696x408.jpg" group-title="ਸੰਗੀਤ",PTC Dhol
+http://channels.ooguy.com:80/auth?channel=PtcDhol&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/PTCMU.PNG" group-title="ਸੰਗੀਤ",PTC Music
+http://channels.ooguy.com:80/auth?channel=PtcMusic&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_music.png" group-title="ਸੰਗੀਤ",5aab Music
 http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/aaho-music.png" group-title="ਸੰਗੀਤ",Aaho Music
@@ -224,7 +236,6 @@ https://streamidvo.multitvsolution.in/live/PTunes-d/p4.m3u8
 https://streamidvo.multitvsolution.in/live/PtunesPlus-d/p3.m3u8
 #EXTINF:-1 tvg-logo="http://steelbirdmusic.tv/assets/images/logo1.png" group-title="ਸੰਗੀਤ",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://pitaara.tv/wp-content/uploads/2018/12/logo.png" group-title="ਫਿਲਮਾਂ",Pitaara
 http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="फ़िल्म",Shemaroo Punjab
@@ -239,6 +250,8 @@ http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/3927.png" group-title="ਧਰਮ",GDNS Ludhiana
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/PTCSR.PNG" group-title="ਧਰਮ",PTC Simran
+http://channels.ooguy.com:80/auth?channel=PtcSimran&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://content.hungama.com/audio%20album/display%20image/300x300%20jpeg/5992517923.jpg" group-title="ਧਰਮ",Amritvaani
 https://linear09hun-lh.akamaihd.net/i/amritvaani_1@685718/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanshitv.co.uk/themes/custom/kanshitv/bootstrap/assets/images/kanshitv-logo.png" group-title="ਧਰਮ",Kanshi TV
