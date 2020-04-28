@@ -6,10 +6,12 @@ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b192800
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="USA/Canada",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/0/0e/AFHV_new_logo_%28main%29.png" group-title="USA/Canada",America's Funniest Home Videos
+#EXTINF:-1 tvg-logo="https://www.datocms-assets.com/14027/1574124139-afvsundaysabc-5400x3616.png" group-title="USA/Canada",AFV!
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="USA/Canada",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="USA/Canada",Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/800px-Antenna_TV_logo.svg.png"  group-title="USA/Canada",Antenna TV
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=0&end_time=2033&env=prd&uid=29375
 #EXTINF:-1 tvg-logo="http://image.roku.com/developer_channels/prod/b8d753f4a78f057b6fcf7f92cefc25ed76423cf46caf5056ae0e8e8b4194068b.png" group-title="USA/Canada",American Classics
@@ -88,6 +90,9 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-81915.png" group-title="USA/Canada",getTV
 https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/HGTV.nz.png" group-title="USA/Canada",HGTV Canada
+http://channels.ooguy.com:80/auth?channel=HgtvCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTUS.ru.png" group-title="USA/Canada",RT USA
 http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
@@ -168,12 +173,19 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Stirr_logo%2C_black_on_yellow.jpg" group-title="USA/Canada",Stirr
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/Slice.ca.png" group-title="USA/Canada",Slice
+http://channels.ooguy.com:80/auth?channel=SliceCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/Showcase.ca.png" group-title="USA/Canada",Showcase
+http://channels.ooguy.com:80/auth?channel=ShowCaseCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/q5aMNGZchcP92L00_G13E1zk-dpb2EP4TZj560h2oBEN0A4rNMM88cG-zF6eD2j6hClHyrMxro-8" group-title="USA/Canada",Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ca/TeleQuebec.ca.png" group-title="USA/Canada",Tele-Quebec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Vtele.svg/800px-Vtele.svg.png" group-title="USA/Canada",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/w-network-logo-DD64049F48-seeklogo.com.gif" group-title="USA/Canada",W Network
+http://channels.ooguy.com:80/auth?channel=WNetworkCanada&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA/Canada",WHDH-TV
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png" group-title="USA/Canada",WGN-TV
