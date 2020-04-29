@@ -428,12 +428,12 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲频道",СТС
 http://89.106.234.4:80/STS_38_39.m3u8
-#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="欧洲频道",ТВ3
-http://188.93.95.34:80/tv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="Россия",НТВ
+http://188.93.95.34:80/ntvmir/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲频道",UA:ПЕРШИЙ
+#EXTINF:-1 tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲频道",UA:Перший
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="欧洲频道",SVT1
+#EXTINF:-1 tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="欧洲频道",SVT1
 http://185.19.191.12:8090/SVT1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="欧洲频道",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
@@ -443,7 +443,6 @@ http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="欧洲频道",Polsat
 http://207.110.52.62:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/06/Canal-5-Honduras-200x180.png" group-title="南美频道",5 El Líder
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
