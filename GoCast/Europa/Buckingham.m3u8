@@ -28,6 +28,8 @@ http://61.58.60.230:9319/live/129.m3u8
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/1200px-I24NEWS_logo.svg.png" group-title="News",Isarel 24
+https://edge-07.playmedia-cdn.net/origin02/amlst:i24-eng/chunklist_w938555700.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ir/PressTV.ir.png" group-title="News",Press TV
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
 #EXTINF:-1 tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="News",India Today
@@ -89,7 +91,7 @@ http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cn/CGTNFrench.cn.png" group-title="Nouvelles",CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="Nouvelles",BFM 
-https://bcovlive-a.akamaihd.net/ad0bc848023a4ff28030dc2b02a718ad/eu-central-1/876450610001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="Nouvelles",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png" group-title="Nouvelles",BFM Lyon
@@ -721,8 +723,7 @@ https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Oceania",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="Oceania",ABC Australia
-https://vcdnjt.useetv.com/joss/15/abcaustralia/chunklist_w494999586_b894100_sleng_enc=PloBdideOkGbmRJ44ltf9w.m3u8
+
 #EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/21f5a377-4758-4eec-8eba-48ea83178bf4.png" group-title="Oceania",SBS One(Aus VPN)
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/SBSViceland.au.png" group-title="Oceania",SBS Viceland(Aus VPN)
@@ -793,8 +794,6 @@ https://walesiparliament.secureswiftcontent.com/walesi/ParliamentChannel-0x1000-
 https://walesihope.secureswiftcontent.com/walesi/HopeChannel-0x1000-0xca.m3u8
 #EXTINF:-1 tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fijitv_small_logo_new.png" group-title="Oceania",Fiji TV
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/apna.png" group-title="Oceania",Apna TV(न्यूज़ीलैंड VPN)
 https://livestreams.e-cast.co.nz/apnatv/apnatv_1000k.m3u8
