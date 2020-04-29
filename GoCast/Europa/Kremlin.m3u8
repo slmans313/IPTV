@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Россия",Первый
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_1TV/variant.m3u8
+http://188.93.95.34:80/ort/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Россия",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Новости",Россия 24
@@ -547,6 +547,8 @@ http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="საქართველო",პირველი არხი
 http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_meore.png" group-title="საქართველო",მეორე არხი
+http://188.93.95.34/gpb-2tv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ajaratv.ge/img/logo.png" group-title="საქართველო",აჭარა
 http://tv.cdn.xsg.ge/adjara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ctv1.ge/image/data/HD-3.jpg" group-title="საქართველო",Adjara Sports
@@ -595,6 +597,8 @@ https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
 http://tv.cdn.xsg.ge/marao/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.malltv.ge/images/icons/logo-ge.png" group-title="საქართველო",Mall TV
 http://tv.cdn.xsg.ge/malltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mesame.ge/wp-content/uploads/2018/12/%E1%83%9A%E1%83%9D%E1%83%92%E1%83%9D2.png" group-title="საქართველო",მესამე
+http://188.93.95.34/axali2hq/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/ed1b4708-ec9c-40c3-8402-c11c4324ae03.png" group-title="საქართველო",Mega
 http://tv.cdn.xsg.ge/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mtavari.tv/assets/logo.png" group-title="საქართველო",მთავარი არხი
