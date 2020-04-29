@@ -418,8 +418,19 @@ https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de
 #EXTINF:-1 tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲频道",Canvas
 https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="欧洲频道",Первый
+http://188.93.95.34:80/ort/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲频道",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲频道",Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="欧洲频道",РЕН
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲频道",СТС
+http://89.106.234.4:80/STS_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="欧洲频道",ТВ3
+http://188.93.95.34:80/tv3/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲频道",UA:ПЕРШИЙ
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="欧洲频道",ANT1
