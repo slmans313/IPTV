@@ -518,6 +518,8 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/KKR-TV-webtvonlive-com.jpg" group-title="Danmark",KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://osterbroantenneforening.dk/images/tvlogo/Kanal_Hovedstaden.png" group-title="Danmark",Kanal Hovedstaden
+https://59b954022ec35.streamlock.net/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://businesscenterbornholm.dk/wp-content/uploads/2018/06/tv2-bornholm.png" group-title="Danmark",TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/1ace70ae36f5f9b12d2fe57ef1b3c6b5.jpeg" group-title="Danmark",TV 2 Fyn
@@ -1464,6 +1466,10 @@ http://213.81.153.221:8080/trnava
 #EXTINF:-1 tvg-logo="https://img.joj.sk/rx/logowau.png" group-title="Slovensko",Wau TV
 https://ocko-live.ssl.cdn.cra.cz/channels/wau/playlist/slo/live_lq.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="Sverige",SVT1
+http://185.19.191.12:8090/SVT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="Sverige",SVT2
+http://185.19.191.12:8090/SVT2/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/846763000275107840/0enf3YUj_400x400.jpg" group-title="Sverige",DI TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alkompis.se/iptv/wp-content/uploads/2019/04/iptv-w-1.png" group-title="Sverige",Al Kompis
