@@ -23,14 +23,12 @@ http://89.106.234.4:80/amedia_2_34_35.m3u8
 http://89.106.234.4:80/STS_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Space.ru.png" group-title="Россия",Спас
 http://spastv.ru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ee/DisneyChannel.ee.png" group-title="Россия",Disney Channel Россия
-http://stream3.kuvalda.tv/hls/disney.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Domashniy.ru.png" group-title="Россия",Домашний
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_DOMASHNY/variant.m3u8
+http://188.93.95.34:80/domashni/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="Россия",НТВ
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_NTV/variant.m3u8
+http://188.93.95.34:80/ntvmir/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Pjatnica.ru.png" group-title="Россия",Пятница!
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_FRIDAY/variant.m3u8
+http://188.93.95.34/friday/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/RTD.ru.png" group-title="Россия",RT Д Русский
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png" group-title="Россия",Мир
@@ -359,14 +357,16 @@ http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://smi-vidnoe.ru/wp-content/themes/smi-vidnoe.ru/assets/img/logo.png" group-title="Россия",Видное
 https://gearlabs.ru/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatExplore.ru.png" group-title="Россия",Viasat Explore
-http://noname.do.am/z/high/viasatexplore.m3u
+http://188.93.95.34:80/viasatexp/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatHistory.ru.png" group-title="Россия",Viasat History
-http://noname.do.am/z/low/viasathistory.m3u8
+http://188.93.95.34:80/viasathist/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatNature.ru.png" group-title="Россия",Viasat Nature
-http://noname.do.am/z/low/viasatnature.m3u8
+http://188.93.95.34:80/viasatnat/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatSport.ru.png" group-title="Россия",Viasat Sport
+http://188.93.95.34:80/viasatsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/vip_logo_rgb_-_premiere_colour_0.png" group-title="Россия",VIP Premiere
 http://188.35.9.14:2013
-#EXTINF:-1 tvg-logo="https://vipplay.ru/img/film/3.png" group-title="Россия",VIP Megahit
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViPMegahit.ru.png" group-title="Россия",VIP Megahit
 http://188.35.9.14:2016
 #EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Россия",World Fashion TV Россия
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
@@ -464,7 +464,7 @@ http://timeshift.arpinet.am/228/index.m3u8
 http://timeshift.arpinet.am/233/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.aztv.az/storage/settings/September2019/23bMtFJXZsjnUuC0AwiQ.png" group-title="Azərbaycan",Aztv
-https://ocanli1.etvserver.com/live_sd/aztv/chunks.m3u8
+http://188.93.95.34/aztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://interaztv.com/images/logo.png" group-title="Azərbaycan",Inter Az
 https://ocanli1.etvserver.com/live_sd/interaztv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/az/IctimaiTV.az.png" group-title="Azərbaycan",İctimai
@@ -544,7 +544,6 @@ http://stream.hoster.by/novoeradio/novoeradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2016-03/1458548411_9a02d429778be68c4f235620d263a1ad.jpg" group-title="Беларусь",ОНТ.BY
 http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="საქართველო",პირველი არხი
 http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.televizia.org/img/tv_meore.png" group-title="საქართველო",მეორე არხი
@@ -571,6 +570,8 @@ http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
 http://tv.cdn.xsg.ge/diatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ramalin.com/wp-content/uploads/2015/12/georgia-flag.gif" group-title="საქართველო",Dro TV
 http://tv.cdn.xsg.ge/drotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static01.myvideo.ge/avatars/avat_1585782.jpg" group-title="საქართველო",ექსკლუზივი TV
+http://188.93.95.34:80/exclusivetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://livetelevizia.com/images/enkibenki_tv.jpg" group-title="საქართველო",ენკი-ბენკი
 http://tv.cdn.xsg.ge/enkibenki/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ge/Ertsulovneba.ge.png" group-title="საქართველო",ერთსულოვნება
@@ -629,6 +630,8 @@ http://tv.cdn.xsg.ge/puls/playlist.m3u8
 http://tv.cdn.xsg.ge/sdasutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/c8fd2060-a836-11e7-a6cd-a586c0243cc4_100x100.png" group-title="საქართველო",Shoni
 http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.silktv.ge/chimages/813.jpg" group-title="საქართველო",Silk უნივერსალი
+http://188.93.95.34:80/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/2f2a1be0-a822-11e7-a08e-f1a99e1471eb_100x100.png" group-title="საქართველო",Tiflis
 http://tv.cdn.xsg.ge/tiflistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://trialeti.ge/wp-content/uploads/cropped-cropped-logo2-1.png" group-title="საქართველო",თრიალეთი
