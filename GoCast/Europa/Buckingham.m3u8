@@ -53,7 +53,7 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="News",Weather Channel
-https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="News",WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="News",Wion
@@ -232,7 +232,7 @@ https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Sports",Setanta Sports
 http://188.93.95.34:80/setanta_georgia/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports",Setanta Sports +
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports",Setanta Sports+
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sports News
@@ -266,18 +266,6 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="American Sports",NFL Network
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NHLNetwork.us.png" group-title="American Sports",NHL Network
-http://channels.ooguy.com:80/auth?channel=Nhl&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/TSN1.ca.png group-title="American Sports",TSN 1
-http://channels.ooguy.com:80/auth?channel=Tsn1&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/TSN2.ca.png" group-title="American Sports",TSN 2
-http://channels.ooguy.com:80/auth?channel=Tsn2&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/TSN3.ca.png" group-title="American Sports",SN 3
-http://channels.ooguy.com:80/auth?channel=Tsn3&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="American Sports",TSN 4
-http://channels.ooguy.com:80/auth?channel=Tsn4&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="American Sports",TSN 5
-http://channels.ooguy.com:80/auth?channel=Tsn5&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="Cricket",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
