@@ -297,8 +297,6 @@ http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
 http://61.58.60.230:9319/live/129.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/1200px-I24NEWS_logo.svg.png" group-title="新闻频道",Isarel 24
 https://edge-07.playmedia-cdn.net/origin02/amlst:i24-eng/chunklist_w938555700.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="新闻频道",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="新闻频道",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="新闻频道",CNN
@@ -438,6 +436,51 @@ https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="澳大利亚",Maori TV
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国频道",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英国频道",BBC 4
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="英国频道",4Music
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国频道",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="英国频道",ITV 2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="英国频道",ITV 3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="英国频道",ITV 4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="英国频道",British Muslim TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="英国频道",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxUpfront.uk.png" group-title="英国频道",Box Upfront
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
+#EXTINF:-1 tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman/img/logo.png" group-title="英国频道",Eman
+https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/PBSAmerica.uk.png" group-title="英国频道",PBS America
+http://51.52.156.22:8888/http/012
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="英国频道",Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="英国频道",Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="英国频道",Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="英国频道",Pop
+http://51.52.156.22:8888/http/015
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/SonyMoviesChristmas.uk.png" group-title="英国频道",Sony Movies
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="英国频道",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="英国频道",The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="英国频道",Venus TV
+http://45.77.90.56:8080/hls/mystream.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国频道",RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/TG4.ie.png" group-title="英国频道",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲频道",France 2
 http://51.15.3.161:8080/france2/index.m3u8?token=test
