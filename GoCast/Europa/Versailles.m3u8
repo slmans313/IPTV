@@ -1449,6 +1449,11 @@ http://213.81.153.221:8080/puchov
 https://live01.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/avc,576p.m3u8
 #EXTINF:-1 tvg-logo="https://jazykovymentoring.sk/wp-content/uploads/2017/11/logo_w-1-300x147.png" group-title="Slovensko",Raj TV
 http://ottst05.flexitv.sk/2827-tv-pc.m3u8
+https://romana.tv/wp-content/uploads/2019/03/romana_2.png
+#EXTINF:-1 tvg-logo="https://romana.tv/wp-content/uploads/2019/03/romana_2.png" group-title="Slovensko",TV Romana
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.krajskakniznicazilina.sk/menu/okniz/part/sever_logo.png" group-title="Slovensko",TV Severka
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.joj.sk/rx/895390a549fcf7c27afca7bba11c100f.png" group-title="Slovensko",Rik
 http://nn2.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvr.sk/sites/all/themes/tvr/logo.png" group-title="Slovensko",Ruzinov
@@ -1465,6 +1470,8 @@ http://70.32.0.9:5000/live/43/playlist.m3u8
 http://213.81.153.221:8080/trnava
 #EXTINF:-1 tvg-logo="https://img.joj.sk/rx/logowau.png" group-title="Slovensko",Wau TV
 https://ocko-live.ssl.cdn.cra.cz/channels/wau/playlist/slo/live_lq.m3u8
+#EXTINF:-1 tvg-logo="http://www.vegatv.sk/images/logo.png" group-title="Slovensko",Vega TV
+http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="Sverige",SVT1
 http://185.19.191.12:8090/SVT1/index.m3u8
