@@ -360,6 +360,10 @@ https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="体育频道",BT Sports 3
 https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="体育频道",BT Sports ESPN
+http://145.239.255.4:8080/espnhd/mono.m3u8?token=test
+#EXTINF:-1,CBSReality
+http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育频道",beIN Sports 1
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育频道",beIN Sports 2
@@ -557,12 +561,18 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="英国频道",Channel 4
 http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="英国频道",More4
+http://145.239.255.4:8080/more4/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="英国频道",E4
+http://145.239.255.4:8080/E4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="英国频道",British Muslim
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="英国频道",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman/img/logo.png" group-title="英国频道",Eman
 https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="英国频道",Gold
+http://145.239.255.4:8080/gold/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/PBSAmerica.uk.png" group-title="英国频道",PBS America
 http://51.52.156.22:8888/http/012
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="英国频道",Kiss
