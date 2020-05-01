@@ -313,9 +313,8 @@ https://live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ed/VRT_Ketnet_Junior_logo_%282018-%29.png" group-title="Belgium",VRT Ketnet jr
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://media.21bis.be/sites/all/themes/bismedia/img/logo.png" group-title="Belgium",21bis
-http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8
+#EXTINF:-1 tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png" group-title="Belgium",Antenne center
+http://tvl-live.fl.freecaster.net/live/actv/actv.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalc.be/wp-content/uploads/CanalC_Blanc_Transparent_pour-fond-sombre-2.png" group-title="Belgium",Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/2/29/Canal_Zoom_logo.png" group-title="Belgium",Canal Zoom
@@ -324,21 +323,23 @@ http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_or/EBS.m3u8
 #EXTINF:-1 tvg-logo="http://audiovisual.ec.europa.eu/presentation/img/content/03-EBS/01-EBS/ebs-LOGO.png" group-title="Belgium",EbSplus
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8
-#EXTINF:-1 tvg-logo="http://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium",Focus
-https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-logo="http://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium",Focus WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-logo="http://www.focus-wtv.be/sites/all/themes/focus/logo.png" group-title="Belgium",Focus TV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b850000.m3u8
 #EXTINF:-1 tvg-logo="http://webfiles.notele.be/layout/logo.png" group-title="Belgium",notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="Belgium",Radio Contact
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RTL-TVI_logo.svg/1280px-RTL-TVI_logo.svg.png" group-title="Belgium",RTL TVI
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.telemb.be/sites/telemb.easydev.be/files/telemb_logo.png" group-title="Belgium",Télé MB
+http://tvl-live.fl.freecaster.net/live/telemb/telemb.m3u8
+#EXTINF:-1 tvg-logo="https://www.telesambre.be/sites/telesambre.easydev.be/files/logotls.png" group-title="Belgium",Telesambre
+https://tvl-live.fl.freecaster.net/live/telesambre/telesambre.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/ba/Hayat.ba.png" group-title="Bosna",Hayat
-http://84.22.33.254/unicast.hayatbosnia/index.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/1200px-RTRS_Logo.svg.png" group-title="Bosna",RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.b1tv.ba/wp-content/uploads/2018/11/Logo-finish-veliki-300x300.png" group-title="Bosna",B1
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-vratsa.bg/user_pic/images/bn_music.jpg" group-title="Bosna",BN Music
