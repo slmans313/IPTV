@@ -555,6 +555,8 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="英国频道",ITV4
 http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="英国频道",Channel 4
+http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="英国频道",British Muslim
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="英国频道",Box Hits
