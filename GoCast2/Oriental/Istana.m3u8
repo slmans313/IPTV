@@ -537,12 +537,16 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="澳大利亚频道",Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国频道",BBC 1
+http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国频道",BBC 2
+http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英国频道",BBC 4
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国频道",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国频道",BBC Lifestyle
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英国频道",BBC 4
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国频道",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="英国频道",ITV2
