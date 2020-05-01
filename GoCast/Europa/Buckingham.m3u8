@@ -607,14 +607,10 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-logo="http://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Learning",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/History.de.png" group-title="Learning",History USA
-http://channels.ooguy.com:80/auth?channel=HistoryHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/History.de.png" group-title="Learning",History Europe
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/History.de.png" group-title="Learning",History
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/se/History2.se.png" group-title="Learning",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/se/History2.se.png" group-title="Learning",H2 USA
-http://channels.ooguy.com:80/auth?channel=History2Hd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Learning",National Geo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/NatGeoWild.us.png" group-title="Learning",National Geo Wild
@@ -778,10 +774,14 @@ http://51.52.156.22:8888/http/007
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
 http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="UK",Channel 5
+http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="UK",E4
 http://145.239.255.4:8080/E4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="英国频道",More4
 http://145.239.255.4:8080/more4/mono.m3u8?token=test
+#EXTINF:-1,5 Select
+http://145.239.255.4:8080/en-My5/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
@@ -810,16 +810,21 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="UK",Magic
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="UK",Pop
-http://51.52.156.22:8888/http/015
+http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
+#EXTINF:-1,Tiny POP
+http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="UK",RT UK
 http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/Sony-movies-action-255x140.png" group-title="UK",Sony Movies Action
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="UK",Sony Movies Action
 http://51.52.156.22:8888/http/009
+#EXTINF:-1,Sony Movies
+http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="UK",Sony Movies Classic
+http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="UK",Venus TV
 http://45.77.90.56:8080/hls/mystream.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ie/RTEJr.ie.png" group-title="Éire",RTE Jr
 https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
@@ -829,3 +834,7 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/Official_Houses_of_the_Oireachtas_Logo.jpg" group-title="Éire",Oireachtas
 https://d1h8rkqumz239n.cloudfront.net/oireachtas/ngrp:oireachtas.stream_all/playlist.m3u8
+#EXTINF:-1,Eir Sport 1 HD
+http://145.239.255.4:8080/eir1hd/mono.m3u8?token=test
+#EXTINF:-1,Eir Sport 2 HD
+http://145.239.255.4:8080/eir2hd/mono.m3u8?token=test
