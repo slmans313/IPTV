@@ -37,8 +37,8 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="新马频道",Indosiar
 https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
-#EXTINF:-1 tvg-logo="https://img.inews.id/media/200/files/inews/inews_01.png" group-title="新马频道",I News
-https://app-linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="http://www.jtv.co.id/image/logojtv1.png" group-title="新马频道",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 #EXTINF:-1 tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="新马频道",Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="新马频道",MNC
@@ -55,8 +55,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="新马频道",TV One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="3 HD-TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="东南亚精选",ดูทีวีสีช่อง 3
 http://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
@@ -300,7 +298,6 @@ http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 #EXTINF:-1 tvg-logo="http://www.bsfuji.tv/top/common/img/topparts/logo_bsf181201.png" group-title="日韩频道",BSフジ
 http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
 
-
 #EXTINF:-1 tvg-logo="http://static.epg.best/co/AMC.co.png" group-title="电影频道",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="电影频道",Movies Now
@@ -310,7 +307,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影频道",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="电影频道",Sky Movies Action
-http://145.239.255.4:8080/SkyAction/mono.m3u8?token=test
+http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Movies-Comedy-UK.png" group-title="电影频道",Sky Movies Comedy
 http://145.239.255.4:8080/SkyComedy/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesDisney.nz.png" group-title="电影频道",Sky Movies Disney
@@ -404,8 +401,6 @@ https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="体育频道",BT Sports ESPN
 http://145.239.255.4:8080/espnhd/mono.m3u8?token=test
-#EXTINF:-1,CBSReality
-http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育频道",beIN Sports 1
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育频道",beIN Sports 2
@@ -543,7 +538,6 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="美国频道",Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="美国频道",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/TraceUrban.fr.png" group-title="美国频道",Trace Urban
@@ -569,6 +563,8 @@ http://51.52.156.22:8888/http/003
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国频道",BBC Lifestyle
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国频道",CBS Reality
+http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国频道",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="英国频道",ITV2
@@ -585,16 +581,10 @@ http://145.239.255.4:8080/more4/mono.m3u8?token=test
 http://145.239.255.4:8080/E4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="英国频道",Film4
 http://145.239.255.4:8080/en-Film4/mono.m3u8?token=test
-
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="英国频道",Channel 5
 http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="英国频道",5 Select
 http://145.239.255.4:8080/en-My5/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="英国频道",More4
-http://145.239.255.4:8080/more4/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="英国频道",E4
-http://145.239.255.4:8080/E4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="英国频道",British Muslim
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="英国频道",Box Hits
@@ -623,11 +613,6 @@ http://45.77.90.56:8080/hls/mystream.m3u8
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/TG4.ie.png" group-title="英国频道",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-
-#EXTINF:-1,Eir Sport 1 HD
-http://145.239.255.4:8080/eir1hd/mono.m3u8?token=test
-#EXTINF:-1,Eir Sport 2 HD
-http://145.239.255.4:8080/eir2hd/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳大利亚频道",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
