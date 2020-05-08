@@ -11,7 +11,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
-http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo"https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="News",Cheddar Big News
@@ -216,6 +216,10 @@ https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sports F1
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/cz/NovaSport.cz.png" group-title="Sports",Nova Sport 1
+https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/cz/NovaSport%202.cz.png" group-title="Sports",Nova Sport 2
+https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="American Sports",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
