@@ -366,10 +366,10 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="印度精选",Hum
 http://95.211.211.168/live/humtv0066/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumMasala.pk.png" group-title="印度精选",Hum Masla
+https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png" group-title="印度精选",Geo TV
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="印度精选",Geo Kahani
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://www.mta.tv/sites/all/themes/rusty/images/mta1.png" group-title="印度精选",MTA 1
 https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/index_3000_av-p.m3u8
 
@@ -378,7 +378,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="新闻频道",Africa News
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="新闻频道",BBC World News
-http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/Euronews.ru.png" group-title="新闻频道",Euronews
 http://103.205.133.50/hls/euronews.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="新闻频道",CGTN
@@ -420,6 +420,10 @@ https://cdnkbl1.useetv.com/joss/15/foxsport3/chunklist_w1036403467_b684100_sleng
 http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://image.jtbcgolf.joins.com/main/191218_h_top_logo.png" group-title="体育频道",JTBC Golf
 http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/cz/NovaSport.cz.png" group-title="体育频道",Nova Sport 1
+https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/cz/NovaSport%202.cz.png" group-title="体育频道",Nova Sport 2
+https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="体育频道",Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="体育频道",Premier Football 1
@@ -462,6 +466,7 @@ https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="体育频道",True Sport 2
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/cz/AnimalPlanet.cz.png" group-title="美国频道",Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
