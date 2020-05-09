@@ -140,15 +140,6 @@ http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1 tvg-logo="http://www.prameyanews7.com/wp-content/uploads/2018/12/NEWS7_LOGO-300x83.jpg" group-title="ଓଡ଼ିଆ",Prameya News 7
 http://news7.mycast.in/encode/news7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="",ARY MUSIK
-http://103.205.133.42:1935/local/ary_music_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="",ARY ZINDAGI
-http://103.205.133.42:1935/local/ary_zindegi_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eK2WIao.jpg" group-title="",ARY FAMILY
-http://103.205.133.42:1935/local/ary_family_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/ARY_Digital_Logo_2.png/150px-ARY_Digital_Logo_2.png" group-title="",ARY DIGITAL ASIA
-http://103.205.133.42:1935/local/ary_digital_asia_720/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Ptv_bolan.jpg" group-title="تفریح",PTV Bolan
 https://stream.simpaisa.com/pitvlive2/ptvbolan3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="تفریح",PTV Global
@@ -162,7 +153,9 @@ https://stream.simpaisa.com/pitvlive2/ptvworld3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="تفریح",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/ARYFamily.pk.png" group-title="تفریح",ARY Family
-http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+http://103.205.133.42:1935/local/ary_family_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://arydigital.tv/wp-content/uploads/2019/06/digital-logo.gif" group-title="تفریح",ARY Digital
+http://103.205.133.42:1935/local/ary_digital_asia_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="تفریح",ARY Musik
 https://stream.arylive.com/MusikLive/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="تفریح",ARY Zindagi
