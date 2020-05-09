@@ -490,6 +490,8 @@ https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="体育频道",True Sport 2
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育频道",Матч!
+https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/cz/AnimalPlanet.cz.png" group-title="美国频道",Animal Planet
@@ -654,6 +656,8 @@ https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="澳大利亚频道",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="澳大利亚频道",ABC Australia
+http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="澳大利亚频道",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="澳大利亚频道",Maori Television
@@ -783,6 +787,10 @@ https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Kj7zM1bM0yM/URCwNnOOBGI/AAAAAAAAA3k/ebpq6Ay4HHQ/s191-Ic42/vtv.jpg" group-title="南美精选",Venezolana
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist_w792631932.m3u8
 
+#EXTINF:-1 tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="中东精选",القرآن الكريم
+http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="中东精选",السنة النبوية
+http://103.205.133.42:1935/local/sunnah_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="中东精选",MBC 2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="中东精选",MBC 4
