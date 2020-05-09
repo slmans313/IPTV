@@ -30,8 +30,6 @@ http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="मनोरंजन",Sony SAB
 http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="मनोरंजन",Sony YAY
-http://channels.ooguy.com:80/auth?channel=SonyYaySdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
 http://137.59.155.253:8088/hls/Star_Plus.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="मनोरंजन",Star Bharat
@@ -114,9 +112,17 @@ https://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
 http://103.205.133.42:1935/local/zee_action_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-etc.png"group-title="फ़िल्म",ZEE ETC Bollywood
+http://103.205.133.42:1935/local/z_etc_bollywood_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_list/h2logo386x386_1179056338.png" group-title="फ़िल्म",Zee Bollywood
 http://channels.ooguy.com:80/auth?channel=ZeeBollywoodSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="संगीत",9XM
+http://103.205.133.42:1935/local/9xm_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="संगीत",9XM Jalwa
+http://103.205.133.42:1935/local/9xm_jalwa_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.9xo.in/wp-content/themes/9xo/images/logo.9xo.responsive.png"  group-title="संगीत",9XO
+http://103.205.133.42:1935/local/9xo_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://b4umusic.in/images/logo.png" group-title="संगीत",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ced60aa5db0a1c93f771b3d5bdea10d6.jpg" group-title="संगीत",Dil Se
@@ -125,6 +131,8 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="संगीत",Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mediaworldwide.in/wp-content/uploads/2017/05/music-india-logo.png" group-title="संगीत",Music India
+http://103.205.133.42:1935/local/music_india_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="संगीत",Pop Pataka
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMIX.in.png" group-title="मनोरंजन",Sony Mix
