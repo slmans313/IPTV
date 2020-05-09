@@ -29,13 +29,13 @@ http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png" group-title="বাংলা",Bangladesh Television
-http://103.68.116.50/live/feed1001/index.m3u8
+http://103.205.133.42:1935/local/btv_national_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="বাংলা",ATN Bangla
 https://bracnet.iptv.jadoodigital.com/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://banglatimetv.com/assets/new/images/banglatime-logo.png" group-title="বাংলা",Bangla Time
-http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://banglavision.tv/wp-content/uploads/2017/05/logo.png" group-title="বাংলা",Banglavision
-http://103.68.116.50/live/feed1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://aakashaath.com/img/aakashaath_official_logo_white.png" group-title="বাংলা",Akash Aath
+http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/Bangla-tv-logo-1_2-1.gif" group-title="বাংলা",Bangla TV
+http://103.205.133.42:1935/local/bangla_tv_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsBangla.in.png" group-title="বাংলা",Colors বাংলা
 https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="বাংলা",Deshi TV
@@ -98,6 +98,8 @@ https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rtvonline.com/templates/rtv-v1/images/logo.png" group-title="বাংলা",RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyAATH.in.png" group-title="বাংলা",Sony Aath
+http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg" group-title="বাংলা",Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="বাংলা",Sangeet Bangla
@@ -110,6 +112,8 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 http://209.58.164.245/uttarbanglahls/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="বাংলা",Zee Bangla
 http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="বাংলা",Zee Bangla Cinema
+http://103.205.133.42:1935/local/zee_bangla_cinema_720/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="भोजपुरी",Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
@@ -139,8 +143,6 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Ptv_bolan.jpg" group-title="تفریح",PTV Bolan
 https://stream.simpaisa.com/pitvlive2/ptvbolan3/playlist.m3u8
-
-3646
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="تفریح",PTV Global
 https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="تفریح",PTV Home
