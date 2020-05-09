@@ -59,7 +59,7 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=
 #EXTINF:-1 tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="News",WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="News",Wion
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/wion/index.m3u8 
+http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv03_mobile.png" group-title="News",Voice of America
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 
@@ -643,6 +643,8 @@ https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="Oceania",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="Oceania",ABC Australia
+http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Oceania",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 
