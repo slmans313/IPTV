@@ -661,8 +661,8 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲精选",France 2
 http://51.15.3.161:8080/france2/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",France 3
-http://51.15.3.161:8080/france3/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France5.fr.png" group-title="欧洲精选",France 5
+http://51.15.3.161:8080/france5/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="欧洲精选",BFM 
@@ -750,8 +750,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="欧洲精选",Polsat
 http://207.110.52.62:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/06/Canal-5-Honduras-200x180.png" group-title="南美精选",5 El Líder
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 tvg-logo="https://aztecaamerica.com/wp-content/uploads/2019/11/AzA_logoH_20191-300x59.png" group-title="南美精选",Azteca América
 https://v-pi.mybtv.net/event/8.1/1280x720?start_time=0&end_time=2026&env=prd&uid=29375
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="南美精选",Canal Once 
@@ -824,4 +822,4 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="中东精选",רשת 13
 https://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13_1200.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/il/Channel20.il.png" group-title="中东精选",ערוץ 20
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
