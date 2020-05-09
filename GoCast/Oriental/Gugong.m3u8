@@ -822,7 +822,8 @@ https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-logo="https://www.kctv.co.kr/img/index/top_logo.png" group-title="한국",KCTV 광주 CH21
 http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-
+#EXTINF:-1 tvg-logo="http://gayotv.co.kr/image/logo.jpg" group-title="한국",가요TV
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ktv.go.kr/resources/images/common/logo.png" group-title="한국",KTV 국민방송
 rtmp://218.38.152.31:1935/klive/klive.stream
 #EXTINF:-1 tvg-logo="http://dema.mil.kr/2019/images/logo.png" group-title="한국",국방TV
