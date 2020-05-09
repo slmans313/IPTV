@@ -1072,12 +1072,22 @@ http://174.138.118.252/live/canal13stream_src.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_06/large.Logo-Gen.png.55593c1e6b09fbd0b142948f0dbcb900.png" group-title="Paraguái",Gen
 https://gruponacion.castr.io/edge/live_9ff9073080be11e9b616571fef7afaa2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="Perú",TV Perú
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="Perú",TV Perú
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1152349767164465152/cLHcQ11S_400x400.png" group-title="Perú",América Deportes
-https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/bhtv-100x70.png" group-title="Perú",BHTV en vivo
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="Perú",TVPE Noticias
+https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pe/PanamericanaTV.pe.png" group-title="Perú",Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Perú",IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://antarestvradio.com/images/logo.png" group-title="Perú",Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/bhtv-100x70.png" group-title="Perú",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cultura24.tv/wp-content/uploads/2013/04/cultura1.jpg" group-title="Perú",Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/50/49/pe-flag-min.jpg" group-title="Perú",Canal 1019
 http://movil.mediastream.pe/vv_manosdios/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Tv_cosmos.jpg" group-title="Perú",Cosmos TV
@@ -1086,8 +1096,8 @@ http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 http://stream.congreso.gob.pe/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.visiontv.com.pe/vns.pe/images/icons/logo%20de%20vision%20tv%20.png" group-title="Perú",CVision TV Musica
 http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Perú",IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-language="Spanish" tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="Perú",Pax TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Rbc.jpg" group-title="Perú",RBC
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosanborja.com/radio/images/LOGO_RSB_2018_261X44.png" group-title="Perú",Radio Sanborja
@@ -1096,8 +1106,9 @@ https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.turbomix.com.pe/styles/common-images/logo.jpg" group-title="Perú",Turbo Mix
 http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/225px-Sol_tv_pe.png" group-title="Perú",Willax
-http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="Perú",Top Latino TV
+http://173.236.60.186:1935/livetv/latinoSD.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.wipr.pr/wp-content/uploads/2018/11/logo2-1-300x99.png" group-title="Puerto Rico",WIPR-TV
 https://api.new.livestream.com/accounts/16550960/events/8600941/broadcasts/198723611.m3u8
