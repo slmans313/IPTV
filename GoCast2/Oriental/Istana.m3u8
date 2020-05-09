@@ -346,7 +346,7 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 https://bcovlive-a.akamaihd.net/465cbde1371545ec97137701942dfdd3/ap-southeast-1/5742227023001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png" group-title="印度精选",Kairali
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.kappatv.co.in/polopoly_fs/7.107.1554977712!/image/image.png_gen/derivatives/default/image.png" group-title="印度精选",Kappa TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Kappa_TV.jpg/220px-Kappa_TV.jpg" group-title="印度精选",Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="印度精选",Kaumudy
 https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
@@ -676,14 +676,14 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="欧洲精选",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDF.de.png" group-title="欧洲精选",ZDF
-http://137.74.203.67:4780/zdf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="欧洲精选",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="欧洲精选",Sat 1
 http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="欧洲精选",Vox
+http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="欧洲精选",Deutsche Welle
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="欧洲精选",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
@@ -731,7 +731,7 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲精选",Россия 24
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="欧洲精选",РЕН
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://188.93.95.34/rentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲精选",СТС
 http://89.106.234.4:80/STS_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="欧洲精选",НТВ
