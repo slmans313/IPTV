@@ -2,7 +2,7 @@
 <settings>
    
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-  <license wg-username="????" registered-email="????" password="????"></license>
+  <license wg-username="?" registered-email="?" password="?"></license>
   <filename>guide_71.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
@@ -13,13 +13,13 @@
   <retry time-out="5">4</retry>
   <timespan>7</timespan>
   <update>f</update>
-  <decryptkey site="firstmedia.com.EK">????</decryptkey>
-  <decryptkey site="foxtel.com.au.EK">????</decryptkey>
-  <decryptkey site="sky.com.EK">????</decryptkey>
-  <decryptkey site="tatasky.com.EK">????</decryptkey>
-  <decryptkey site="clarotv.com.br.EK">????</decryptkey>
-  <decryptkey site="skylife.co.kr.EK">????</decryptkey>
-  <decryptkey site="freeview.com.au.EK">????</decryptkey>
+  <decryptkey site="firstmedia.com.EK">?</decryptkey>
+  <decryptkey site="foxtel.com.au.EK">?</decryptkey>
+  <decryptkey site="sky.com.EK">?</decryptkey>
+  <decryptkey site="tatasky.com.EK">?</decryptkey>
+  <decryptkey site="clarotv.com.br.EK">?</decryptkey>
+  <decryptkey site="skylife.co.kr.EK">?</decryptkey>
+  <decryptkey site="freeview.com.au.EK">?</decryptkey>
   <!--
             Replace the next dummy channel entry with the channels you want.
 			You can look into the installed siteini.pack folder on your computer
@@ -121,8 +121,9 @@
     <channel update="i" site="sky.com.EK" site_id="4101##4110" xmltv_id="GEO TV">Geo TV</channel>
     <channel update="i" site="sky.com.EK" site_id="4101##3646" xmltv_id="PTV Global">PTV Global</channel>
 
-	<channel update="i" site="nowtv.now.com" site_id="zh_tw#366" xmltv_id="中國 - 鳳凰衛視資訊台">凤凰资讯台</channel>
-    <channel update="i" site="nowtv.now.com" site_id="zh_tw#367" xmltv_id="中國 - 鳳凰衛視香港台">凤凰中文台</channel>
+	<channel update="i" site="nowtv.now.com" site_id="zh_tw#366" xmltv_id="中國 - 鳳凰衛視資訊台">凤凰资讯</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#367" xmltv_id="中國 - 鳳凰衛視香港台">凤凰香港</channel>
+	<channel update="i" site="nowtv.now.com" site_id="zh_tw#548" xmltv_id="中國 - 鳳凰衛視中文台">凤凰中文</channel>
     <channel update="i" site="tvb.com" site_id="B" xmltv_id="翡翠台">翡翠台</channel>
     <channel update="i" site="tvb.com" site_id="A" xmltv_id="Pearl">TVB Pearl(明珠台)</channel>
     <channel update="i" site="tvb.com" site_id="E" xmltv_id="無綫財經 ▪ 資訊台">無綫財經資訊台</channel>
@@ -157,9 +158,11 @@
     <channel update="i" site="tv.cntv.cn" site_id="cctvchild" xmltv_id="cctvchild">CCTV-14 少儿</channel> 
     <channel update="i" site="tv.cntv.cn" site_id="cctv15" xmltv_id="cctv15">CCTV-15 音乐</channel>
 	<channel update="i" site="tv.cntv.cn" site_id="cctv17" xmltv_id="cctv17">CCTV-17 农业农村</channel>
-	
-	
+		
     <channel site="tbc.net.tw" site_id="053" update="i" xmltv_id="民視新聞台">民視新聞</channel>
+	<channel site="tbc.net.tw" site_id="155" update="i" xmltv_id="台視">台視新聞</channel>
+	<channel site="tbc.net.tw" site_id="009" update="i" xmltv_id="中視">中視</channel>
+	<channel site="tbc.net.tw" site_id="154" update="i" xmltv_id="中視新聞">中視新聞</channel>
 	<channel site="tbc.net.tw" site_id="036" update="i" xmltv_id="中天綜合台">中天綜合</channel>
     <channel site="tbc.net.tw" site_id="039" update="i" xmltv_id="中天娛樂台">中天娛樂</channel>
     <channel site="tbc.net.tw" site_id="052" update="i" xmltv_id="中天新聞台">中天新聞</channel>
@@ -167,9 +170,12 @@
 	<channel site="tbc.net.tw" site_id="010" update="i" xmltv_id="大愛電視 1">大愛1</channel>
 	<channel site="tbc.net.tw" site_id="132" update="i" xmltv_id="大愛電視 2">大愛2</channel>
     <channel site="tbc.net.tw" site_id="051" update="i" xmltv_id="東森新聞台">東森新聞</channel>
+	<channel site="tbc.net.tw" site_id="057" update="i" xmltv_id="東森財經新聞台">東森財經新聞</channel>
     <channel site="tbc.net.tw" site_id="062" update="i" xmltv_id="東森電影台">東森電影</channel>
     <channel site="tbc.net.tw" site_id="066" update="i" xmltv_id="東森洋片台">東森洋片</channel>	
 	<channel site="tbc.net.tw" site_id="054" update="i" xmltv_id="三立新聞台">三立新聞</channel>
+	<channel site="tbc.net.tw" site_id="054" update="i" xmltv_id="三立新聞台">三立新聞</channel>
+    <channel site="tbc.net.tw" site_id="090" update="i" xmltv_id="三立財經新聞台">三立財經新聞</channel>
 	<channel site="tbc.net.tw" site_id="055" update="i" xmltv_id="TVBS 新聞台">TVBS新聞</channel>
 	<channel site="tbc.net.tw" site_id="042" update="i" xmltv_id="TVBS歡樂台">TVBS歡樂</channel>
 	<channel site="tbc.net.tw" site_id="119" update="i" xmltv_id="大立電視">大立電視</channel>
@@ -181,11 +187,21 @@
 	<channel site="tbc.net.tw" site_id="016" update="i" xmltv_id="原視">原視</channel>
 	<channel site="tbc.net.tw" site_id="064" update="i" xmltv_id="龍祥時代電影">龍祥時代電影</channel>
 	<channel site="tbc.net.tw" site_id="031" update="i" xmltv_id="衛視中文台">衛視中文台</channel>
+	<channel site="tbc.net.tw" site_id="081" update="i" xmltv_id="靖天綜合">靖天資訊</channel>
+    <channel site="tbc.net.tw" site_id="134" update="i" xmltv_id="靖洋戲劇">靖洋戲劇</channel>
+    <channel site="tbc.net.tw" site_id="212" update="i" xmltv_id="靖天日本">靖天日本</channel>
+    <channel site="tbc.net.tw" site_id="215" update="i" xmltv_id="靖天歡樂">靖天歡樂</channel>
+    <channel site="tbc.net.tw" site_id="218" update="i" xmltv_id="靖天育樂">靖天育樂</channel>
+    <channel site="tbc.net.tw" site_id="257" update="i" xmltv_id="靖洋卡通">靖洋卡通</channel>
+    <channel site="tbc.net.tw" site_id="258" update="i" xmltv_id="靖天卡通">靖天卡通</channel>
 	
 	<channel update="i" site="tvguide.myjcom.jp" site_id="120_038_65406" xmltv_id="NHKワールド JAPAN">NHK World</channel>
 	<channel update="i" site="starhubgo.com" site_id="8929959" xmltv_id="NHK World Premium">NHK World Premium</channel>
 	<channel update="i" site="tvguide.myjcom.jp" site_id="3_101_4" xmltv_id="ＮＨＫＢＳ１">NHK BS1</channel>
 	<channel update="i" site="tvguide.myjcom.jp" site_id="3_151_4" xmltv_id="ＢＳ朝日１">BS 朝日</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="3_181_4" xmltv_id="ＢＳフジ・181">BSフジ</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="3_161_4" xmltv_id="ＢＳ－ＴＢＳ">BS-TBS</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="120_565_65406" xmltv_id="ＴＢＳ ＮＥＷＳ">TBS News</channel>
     <channel update="i" site="tvguide.myjcom.jp" site_id="120_564_65406" xmltv_id="日テレNEWS24 HD">日テレNEWS24</channel>
 	<channel update="i" site="starhubgo.com" site_id="168472280" xmltv_id="GEM">GEM</channel>
 	<channel update="i" site="transvision.co.id" site_id="WAKU" xmltv_id="WakuWaku Japan">WakuWaku Japan</channel>
