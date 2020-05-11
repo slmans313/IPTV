@@ -586,6 +586,14 @@ https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94
 http://teslagram.com/live/channel_331.m3u8
 #EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="粵語",Now新聞
 http://teslagram.com/live/channel_332.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="粵語",beIN Sports 1 香港
+rtmp://xiaoyu.speedws.com/sat/hk021
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="粵語",beIN Sports 2 香港
+rtmp://xiaoyu.speedws.com/sat/hk021
+#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212172903csL9.png" group-title="粵語",广东珠江
+rtmp://xiaoyu.speedws.com/sat/hk031
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="粵語",有線18台
+rtmp://xiaoyu.speedws.com/sat/hk041
 #EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/10/05/dce8c29c3b15bd50.jpg" group-title="粵語",C+ 频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png" group-title="粵語",南方衛視
@@ -629,9 +637,9 @@ http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="臺灣",民視臺灣台
 http://111.13.111.192/125.227.198.89:8023
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
-http://lss.line-scdn.net/cc_tw/p/live/hltBKKhH9MlotXyxKF0ovbUQ7ZTtaV30JEFN-OVIybT8CUXMIR1UpOV1haGICUSBdQVR0aFk3ZWlRR3VeE1F0aVI7c2tTHXQOSkt8P1ItbmpTCXQMQl18/720/chunklist.m3u8
+rtmp://xiaoyu.speedws.com/sat/tv051
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="臺灣",台視
-https://livestream-lln.ivideosmart.com/ttvmainliveorigin/smil:ttvmainstream-mbr.smil/playlist.m3u8
+rtmp://xiaoyu.speedws.com/sat/tv071
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="臺灣",中視
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="臺灣",華視
@@ -654,6 +662,12 @@ https://tv2.wanfudaluye.com/live/live/playlist.m3u8
 https://tv3.wanfudaluye.com/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png" group-title="臺灣",緯來精采
 https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="臺灣",緯來日本
+rtmp://xiaoyu.speedws.com/sat/tv771
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="臺灣",緯來體育
+rtmp://xiaoyu.speedws.com/sat/tv721
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="臺灣",緯來育樂
+rtmp://xiaoyu.speedws.com/sat/tv701
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90.png" group-title="臺灣",靖天歡樂
 http://61.58.60.230:9319/live/201.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90.png" group-title="臺灣",靖洋戲劇
@@ -697,6 +711,14 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="臺灣",大立電視
 http://211.21.214.7:8808/live/dali/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hObPElR.jpg" group-title="臺灣",Momo 綜合台
+rtmp://xiaoyu.speedws.com/sat/tv761
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="臺灣",Fox Sports 1臺灣
+rtmp://xiaoyu.speedws.com/sat/tv731
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="臺灣",Fox Sports 2 臺灣
+rtmp://xiaoyu.speedws.com/sat/tv741
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="臺灣",ELTA體育1台
+rtmp://xiaoyu.speedws.com/sat/md041
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="少数民族",安多卫视
 http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
