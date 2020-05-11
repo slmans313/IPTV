@@ -20,7 +20,7 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马频道",TV3
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马频道",TV3 Test 2
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWoftm1Pon5o17lSCvMA3xM)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWoftm1Pon5o17lSCvMA3xM)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="新马频道",八度空间
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="新马频道",NTV 7
@@ -121,10 +121,6 @@ http://220.158.149.28:8180/live/TV00000000000000000119@HHZT
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="广东话频道",翡翠台
 http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="广东话频道",無綫新聞台
-http://www.liveviptv.xyz/tv/tvb.php?vid=wx
-#EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="广东话频道",無綫財經資訊台
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 #EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_xing_he_channel.png" group-title="广东话频道",TVB 星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="广东话频道",亞洲電視台
@@ -133,6 +129,8 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-logo="https://pic.pngsucai.com/00/10/05/dce8c29c3b15bd50.jpg" group-title="广东话频道",C+ 频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="粵語",有線18台
+rtmp://xiaoyu.speedws.com/sat/hk041
 #EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="广东话频道",港台電視31台
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="广东话频道",港台電視32台
@@ -145,6 +143,8 @@ http://61.238.6.49:8000/bysid/99
 http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png" group-title="广东话频道",南方卫视
 http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
+#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212172903csL9.png" group-title="广东话频道",广东珠江
+rtmp://xiaoyu.speedws.com/sat/hk031
 #EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="广东话频道",澳視澳門台
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/TDM_HD.png" group-title="广东话频道",澳門綜藝
@@ -160,14 +160,22 @@ http://61.58.60.230:9319/live/256.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/hk/StarChineseChannel.hk.png" group-title="台湾频道",衛視中文台
 https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="台湾频道",台視
+rtmp://xiaoyu.speedws.com/sat/tv071
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾频道",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾频道",民視
+rtmp://xiaoyu.speedws.com/sat/tv051
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="台湾频道",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾频道",中視
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾频道",中視新聞
 http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾频道",華視
+http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="台湾频道",華視新聞
+http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾频道",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾频道",中天綜合
@@ -212,6 +220,14 @@ http://61.58.60.230:9319/live/202.m3u8
 http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A.png" group-title="台湾频道",靖洋卡通
 http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾频道",緯來日本
+rtmp://xiaoyu.speedws.com/sat/tv771
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾频道",緯來體育
+rtmp://xiaoyu.speedws.com/sat/tv721
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾频道",緯來育樂
+rtmp://xiaoyu.speedws.com/sat/tv701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hObPElR.jpg" group-title="台湾频道",Momo綜合台
+rtmp://xiaoyu.speedws.com/sat/tv761
 #EXTINF:-1 tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="台湾频道",大立電視
 http://211.21.214.7:8808/live/dali/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="台湾频道",信吉電視
