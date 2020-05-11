@@ -680,7 +680,6 @@ http://61.58.60.230:9319/live/205.m3u8
 http://61.58.60.230:9319/live/243.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/hk/StarChineseChannel.hk.png" group-title="臺灣",衛視中文
 https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/20170214091131d9K2rgq.jpg" group-title="臺灣",國會頻道1
 http://61.58.60.230:9319/live/123.m3u8
 #EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/20170214091539pbPDjYJ.jpg" group-title="臺灣",國會頻道2
@@ -719,6 +718,10 @@ rtmp://xiaoyu.speedws.com/sat/tv731
 rtmp://xiaoyu.speedws.com/sat/tv741
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="臺灣",ELTA體育1台
 rtmp://xiaoyu.speedws.com/sat/md041
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="臺灣",TV5 Monde Info (臺灣)
+https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
+#EXTINF:-1 tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="臺灣",TV5 Monde Style (臺灣)
+https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="少数民族",安多卫视
 http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
