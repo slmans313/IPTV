@@ -297,18 +297,21 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(4d104b0f-063e-6d0b-
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="Pilipinas",ANC
 https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ph/CNNPhilippines.ph.png" group-title="Pilipinas",CNN Phillippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/330px-DZMM_TeleRadyo_2014.svg.png" group-title="Pilipinas",DZMM TeleRadyo
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/GMAPinoy.ph.png" group-title="Pilipinas",GMA Pinoy
 http://164.40.161.43:10011
-#EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5
+#EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5 Network
 http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1920px-PTVLogo2017.svg.png" group-title="Pilipinas",PTV 
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/TheFilipinoChannelus.ph.png" group-title="Pilipinas",TFC
 http://00100.co:2086/79775817/3655144/93265
+
 #EXTINF:-1 tvg-logo="http://cltv36.tv/assets/img/logo127.png" group-title="Pilipinas",Central Luzon Television
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ph/CNNPhilippines.ph.png" group-title="Pilipinas",CNN Phillippines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HopeChannel.us.png" group-title="Pilipinas",Hope Phillippines
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://mytvmychannel.com/wp-content/uploads/2017/11/fb1bcb_debc6bb5e6334e6aba959e0a8e1fd6b6_mv2_d_2700_1944_s_2.png" group-title="Pilipinas",MyTV Cebu
