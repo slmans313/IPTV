@@ -121,6 +121,10 @@ http://220.158.149.28:8180/live/TV00000000000000000119@HHZT
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",翡翠台
 http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",翡翠J2台
+http://bbdd.228888888.xyz:8081/hls/ch104.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",TVB Pearl(明珠台)
+http://bbdd.228888888.xyz:8081/hls/ch104.m3u8
 #EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞台
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊台
@@ -162,8 +166,14 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png" group-title="香港",澳亞衛視
 http://61.58.60.230:9319/live/256.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/hk/StarChineseChannel.hk.png" group-title="台湾",衛視中文台
+#EXTINF:-1 tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="台湾",衛視中文
 https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="台湾",衛視電影
+http://bbdd.228888888.xyz:8081/hls/ch304.m3u8
+#EXTINF:-1 tvg-logo="https://www.fng.tw/smithd/images/StarMoviesHD_logo.png" group-title="电影",衛視洋片
+http://bbdd.228888888.xyz:8081/hls/ch307.m3u8
+#EXTINF:-1 tvg-logo="https://www.fng.tw/scmhd/images/StarChinese%20MoviesHD_logo.png" group-title="电影",星衛電影
+http://bbdd.228888888.xyz:8081/hls/ch305.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="台湾",台視
 rtmp://xiaoyu.speedws.com/sat/tv071
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",台視新聞
@@ -204,6 +214,10 @@ http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="台湾",八大綜合
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/20181101112248ZrJAQ86.png" group-title="台湾",八大第一
+http://bbdd.228888888.xyz:8081/hls/ch207.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png" group-title="台湾",八大戲劇
+http://bbdd.228888888.xyz:8081/hls/ch208.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾",三立財經新聞
@@ -234,6 +248,8 @@ rtmp://xiaoyu.speedws.com/sat/tv771
 rtmp://xiaoyu.speedws.com/sat/tv721
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",緯來育樂
 rtmp://xiaoyu.speedws.com/sat/tv701
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾",緯來電影
+http://bbdd.228888888.xyz:8081/hls/ch302.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hObPElR.jpg" group-title="台湾",Momo綜合台
 rtmp://xiaoyu.speedws.com/sat/tv761
 #EXTINF:-1 tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="台湾",大立電視
@@ -367,31 +383,37 @@ https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w224064980_b894100_sleng_enc=_T
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韩频道",WakuWaku Japan
 https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/co/AMC.co.png" group-title="电影频道",AMC
+#EXTINF:-1 tvg-logo="http://static.epg.best/co/AMC.co.png" group-title="电影",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影频道",Paramount Network
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
+http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="电影",HBO HITS
+http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="电影",HBO Signature
+http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="电影频道",Movies Now
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="电影",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/MNX2.in.png" group-title="电影频道",MNX Movies
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/MNX2.in.png" group-title="电影",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影频道",Romedy Now
+#EXTINF:-1 tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="电影频道",Sky Movies Action
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="电影",Sky Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Movies-Comedy-UK.png" group-title="电影频道",Sky Movies Comedy
+#EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Movies-Comedy-UK.png" group-title="电影",Sky Movies Comedy
 http://145.239.255.4:8080/SkyComedy/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesDisney.nz.png" group-title="电影频道",Sky Movies Disney
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesDisney.nz.png" group-title="电影",Sky Movies Disney
 http://145.239.255.4:8080/SkyDisney/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesPremiere.nz.png" group-title="电影频道",Sky Movies Premiere
+#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesPremiere.nz.png" group-title="电影",Sky Movies Premiere
 http://145.239.255.4:8080/SkyPremiere/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="电影频道",Sony Movies Action
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="电影",Sony Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="电影频道",Sony Movies
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="电影",Sony Movies
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="电影频道",Sony Movies Classic
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="电影",Sony Movies Classic
 http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="电影频道",TCM
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="电影",TCM
 http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="印度精选",Raj TV
