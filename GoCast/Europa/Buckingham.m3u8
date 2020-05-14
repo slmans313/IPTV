@@ -470,7 +470,11 @@ http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="Movies",Flim Hub
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
-http://channels.ooguy.com:80/auth?channel=Hbo&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
+http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO HITS
+http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
+http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="Movies",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="http://mafashortfilm.uk/public/images/mafal.png" group-title="Movies",Mafa Short Flim
