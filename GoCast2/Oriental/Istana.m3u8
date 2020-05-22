@@ -41,8 +41,6 @@ https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_10
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="新马频道",MNC
 https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
-#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="新马频道",NET
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="新马频道",RCTI
 https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="新马频道",SCTV
@@ -71,6 +69,8 @@ http://183.182.100.184/live/pptvthai/playlist.m3u8
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png" group-title="东南亚精选",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1920px-PTVLogo2017.svg.png" group-title="东南亚精选",PTV 
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/GMAPinoy.ph.png" group-title="东南亚精选",GMA Pinoy
 http://164.40.161.43:10011
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/TheFilipinoChannelus.ph.png" group-title="东南亚精选",TFC
