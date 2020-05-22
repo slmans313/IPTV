@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="मनोरंजन",& TV
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/170x120/09tvhd_0tvhd.png" group-title="मनोरंजन",& TV
 http://103.205.133.42:1935/local/ntv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png" group-title="मनोरंजन",Animal Planet हिन्दी
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
@@ -36,7 +36,9 @@ http://137.59.155.253:8088/hls/Star_Plus.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/170x120/qindia_1170x658.png" group-title="मनोरंजन",The Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="मनोरंजन",Zee TV
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png" group-title="मनोरंजन",Zee TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="मनोरंजन",Zee Cafe
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://firstindianews.com/images/logo.png" group-title="न्यूज़",1st इंडिया
@@ -77,13 +79,9 @@ https://streamidvo.multitvsolution.in/IndiaNewsUP-g/playlist.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 #EXTINF:-1 tvg-logo="https://images.newsx.com/wp-content/uploads/2019/09/up-uk-6-104289-RhlOsVLc.png" group-title="न्यूज़",Surya Samachar
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
-#EXTINF:-1 tvg-logo="https://hindi.cdn.zeenews.com/images/zee-hindustan-orange-english.png" group-title="न्यूज़",Zee Hindustan
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeehindustan/list/170x120/09zeehindustanzeehindustan.png" group-title="न्यूज़",Zee Hindustan
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeNews.in.png" group-title="न्यूज़",Zee News
-http://channels.ooguy.com:80/auth?channel=ZeeNewsSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/pictureshd386x3_1451631172.png" group-title="फ़िल्म",&amp;Pictures
-http://channels.ooguy.com:80/auth?channel=AndPicsHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood HD
 https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="फ़िल्म",B4U Movies
@@ -112,10 +110,8 @@ https://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
 http://103.205.133.42:1935/local/zee_action_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-etc.png"group-title="फ़िल्म",ZEE ETC Bollywood
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-etc/list/170x120/09etczeeetcbollywood.png" group-title="फ़िल्म",ZEE ETC Bollywood
 http://103.205.133.42:1935/local/z_etc_bollywood_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_list/h2logo386x386_1179056338.png" group-title="फ़िल्म",Zee Bollywood
-http://channels.ooguy.com:80/auth?channel=ZeeBollywoodSd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="संगीत",9XM
 http://103.205.133.42:1935/local/9xm_720/index.m3u8
@@ -168,12 +164,8 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/rajyasabhatv.png" group-title="सीखना",Rajya Sabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/PTCPunjabi.in.png" group-title="मनोरंजन",PTC Punjabi
-http://channels.ooguy.com:80/auth?channel=PtcPunjabi&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/PTCPunjabi.in.png" group-title="मनोरंजन",PTC Punjabi Gold
 http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/atn_alpha.png" group-title="मनोरंजन",Alpha ETC
-http://channels.ooguy.com:80/auth?channel=EtcPunjabiHdUsa&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDPunjabi.in.png" group-title="मनोरंजन",DD Punjabi
 https://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png" group-title="मनोरंजन",5aab TV
@@ -202,25 +194,15 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 tvg-logo="http://mylivechannels.com/uploads/thumbs/1539832370_f3de7c09000880c4b818d0284612101b_v.png" group-title="मनोरंजन",Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1 tvg-logo="https://www.mobilfreetv.com/static/front/images/channel_logo/66e4ebc3421046bb8484824812362520_r.jpg" group-title="मनोरंजन",Hamdard Laughter
-http://channels.ooguy.com:80/auth?channel=HamdardLaughterHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="http://www.hulchulradio.com/frontend/images/hulchal-radio-logo.png" group-title="मनोरंजन",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967898752521416704/y07-fVnU_400x400.jpg" group-title="मनोरंजन",Khalistan TV
 http://channels.ooguy.com:80/auth?channel=KhalistanTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://www.nagaratv.com/wp-content/uploads/elementor/thumbs/LOGO-copy-oadotfwmb2lzz0wrzvsh4r232odpmw5c4lgcva0qem.png" group-title="मनोरंजन",Nagara TV
 https://cdn.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.pardesi.tv/images/logo.png" group-title="मनोरंजन",Paedesi TV
-http://channels.ooguy.com:80/auth?channel=PardesiTv&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="http://tv.punjabizindabad.com/images/newlogo.png" group-title="मनोरंजन",Punjabi Zindabad
-http://channels.ooguy.com:80/auth?channel=PunjabiZindabad&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://www.tvpunjab.com/wp-content/uploads/2017/03/final-logo1-web-tv-punjab-1.png" group-title="मनोरंजन",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/103607-zee.jpg" group-title="मनोरंजन",Zee Punjab
-http://channels.ooguy.com:80/auth?channel=ZeePunjabiHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/PTCNews.in.png" group-title="ਫਿਲਮਾਂ",PTC News
-http://channels.ooguy.com:80/auth?channel=PtcNews&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://politicalbaaba.files.wordpress.com/2018/08/unnamed.jpg" group-title="ਫਿਲਮਾਂ",ABP Sanjha
 https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://spiderimg.itstrendingnow.com/assets/img/au-logo.png" group-title="ਫਿਲਮਾਂ",Amarujala
