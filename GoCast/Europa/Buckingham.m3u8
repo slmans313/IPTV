@@ -166,15 +166,6 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/f80708fcd99a0b1d92f42c5001d9b945.jpeg" group-title="أنباء",TRT عربى
 https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/hr/ArenaSport1.hr.png" group-title="Sports",Arena Sports 1
-http://channels.ooguy.com:80/auth?channel=ArenaSport1&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://static.epg.best/hr/ArenaSport2.hr.png" group-title="Sports",Arena Sports 2
-http://channels.ooguy.com:80/auth?channel=ArenaSport2&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://static.epg.best/hr/ArenaSport3.hr.png" group-title="Sports",Arena Sports 3
-http://channels.ooguy.com:80/auth?channel=ArenaSport3&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://static.epg.best/hr/ArenaSport4.hr.png" group-title="Sports",Arena Sports 4
-http://channels.ooguy.com:80/auth?channel=ArenaSport4&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports Asia 1
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports Asia 2
@@ -250,14 +241,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="Cricket",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSports1.in.png" group-title="Cricket",Star Sports 1
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports1hindi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Cricket",Star Sports Select 1
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Cricket",Star Sports 2
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Cricket",Star Sports Select 2 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="Cricket",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/SonyESPN.in.png" group-title="Cricket",Sony ESPN
@@ -284,8 +267,6 @@ https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football 5
 https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-2-logo-700x467.png" group-title="Football",Sky 2 Bundesliga Livestream
-http://78.35.117.2:10003/hdmi
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="Football",Sky Sports EPL
 https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Football",Sky Sports Football
@@ -429,6 +410,10 @@ https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="Outdoor/Travel",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/co/AMC.co.png" group-title="Movies",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="Movies",Bollywood TV
