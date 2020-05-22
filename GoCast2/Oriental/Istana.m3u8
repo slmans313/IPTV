@@ -615,7 +615,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="英国",Pop UK
 http://51.52.156.22:8888/http/015
 #EXTINF:-1 tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="英国",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="英国",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="英国",Venus TV
@@ -802,8 +802,8 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="中东精选",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.tmgrup.com.tr/a2tv/content/i/a2/a2tv-logo.png" group-title="中东精选",A2
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="中东精选",ATV
+http://tv.kuzeytv.com/hls/atv.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="中东精选",Star
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="中东精选",Show
