@@ -306,8 +306,6 @@ https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w224064980_b894100_sleng_enc=_T
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="日韩频道",WakuWaku Japan
 https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/co/AMC.co.png" group-title="电影",AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="电影",Movies Now
@@ -507,8 +505,6 @@ https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/cz/AnimalPlanet.cz.png" group-title="美国",Animal Planet
-http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="美国",A&E
@@ -520,25 +516,15 @@ https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cbn/primary.m3u8
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="美国",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="美国",Cartoon Network
-http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/CrimeInvestigation.us.png" group-title="美国",Crime Investigation Network
-http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
+http://145.239.255.4:8080/CARUK/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="美国",Comedy Central
 http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/ee/DisneyChannel.ee.png" group-title="美国",Disney Channel
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="美国",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="美国",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="美国",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="美国",Discovery Asia
-http://111.13.111.192/125.227.198.89:8028
-#EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/eurochannel/logo.png" group-title="美国",Euro Channel
-http://84.22.33.214/EuroChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="美国",E!
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="美国",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="美国",Food Network
@@ -549,22 +535,16 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="美国",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/History.de.png" group-title="美国",History
-http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/se/History2.se.png" group-title="美国",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="美国",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/InvestigationDiscovery.us.png" group-title="美国",Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="美国",National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/NatGeoWild.us.png" group-title="美国",National Geographic Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/id/NatGeoPeople.id.png" group-title="美国",National Geographic People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/Nick.nz.png" group-title="美国",Nickelodeon
-http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="美国",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="美国",NBA TV
