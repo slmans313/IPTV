@@ -716,7 +716,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲精选",Rai 1
-http://ott.artmott.com/Rai1/tracks-v1a1/mono.m3u8
+http://5.135.92.133:52841/out/u/440_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲精选",Rai 2
 http://5.135.92.133:52841/out/u/452_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="欧洲精选",Rai YoYo
@@ -830,8 +830,8 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="中东精选",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="中东精选",aTV
-http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i.tmgrup.com.tr/a2tv/content/i/a2/a2tv-logo.png" group-title="中东精选",A2
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="中东精选",Star
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="中东精选",Show
