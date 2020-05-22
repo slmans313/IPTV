@@ -512,11 +512,13 @@ http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="美国",Comedy Central Extra
 http://145.239.255.4:8080/CmdyXtr/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="美国",Discovery
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="美国",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="美国",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="美国",E!
+http://145.239.255.4:8080/en-E/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="美国",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="美国",Food Network
@@ -590,6 +592,8 @@ http://145.239.255.4:8080/E4/mono.m3u8?token=test
 http://145.239.255.4:8080/en-Film4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="英国",Channel 5 UK
 http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="英国",5 USA
+http://145.239.255.4:8080/en-5usa/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="英国",5 Select
 http://145.239.255.4:8080/en-My5/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="英国",British Muslim
