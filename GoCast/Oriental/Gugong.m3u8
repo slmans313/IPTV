@@ -921,12 +921,18 @@ http://211.245.55.198:1024/m2u/239.192.67.163:49220
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="한국",M-NET
 http://211.245.55.198:1024/m2u/239.192.48.5:49220
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Mplex.kr.png" group-title="한국",Mplex
+http://211.245.55.198:1024/m2u/239.192.64.10:49220
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/ARTE.de.png" group-title="한국",Arte 한국
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/BilliardsTV.kr.png" group-title="한국",Billiards TV
+http://211.245.55.198:1024/m2u/239.192.69.74:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" group-title="한국",Channel A
 http://211.245.55.198:1024/m2u/239.192.47.4:49220
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612909388462886912/y6ydyH86_400x400.png" group-title="한국",Done
+http://211.245.55.198:1024/m2u/239.192.65.11:49220
 #EXTINF:-1 tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="한국",조선 TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="한국",조선 TV
@@ -970,6 +976,10 @@ http://211.245.55.198:1024/m2u/239.192.65.16:49220
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="한국",OCN
 http://211.245.55.198:1024/m2u/239.192.52.8:49220
+#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147909947143853.png" group-title="한국",OCN Movies
+http://211.245.55.198:1024/m2u/239.192.51.7:49220
+#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147910638714018.png" group-title="한국",OCN Thrill
+http://211.245.55.198:1024/m2u/239.192.53.9:49220
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="한국",tVN
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
