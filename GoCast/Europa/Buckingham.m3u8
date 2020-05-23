@@ -777,19 +777,17 @@ https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
 http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4/CBeebies
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="UK",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="UK",ITV 2
-http://51.52.156.22:8888/http/005
+http://145.239.255.4:8080/ITV2/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="UK",ITV 3
-http://51.52.156.22:8888/http/006
+http://145.239.255.4:8080/ITV3/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV 4
-http://51.52.156.22:8888/http/007
+http://145.239.255.4:8080/ITV4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV Box Office
 http://145.239.255.4:8080/itv-box-office/mono.m3u8?token=test
 
@@ -799,10 +797,14 @@ http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
 http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="UK",E4
 http://145.239.255.4:8080/E4/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="英国",Film 4
+http://145.239.255.4:8080/en-Film4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="英国",More4
 http://145.239.255.4:8080/more4/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="UK",5 Select
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/5Select.uk.pngg" group-title="UK",5 Select
 http://145.239.255.4:8080/en-My5/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="英国",5 USA
+http://145.239.255.4:8080/en-5usa/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK",British Muslim TV
@@ -817,10 +819,10 @@ https://live-craftuk.simplestreamcdn.com/craftuk/live.m3u8
 https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.gemporia.com/images/og/fb.jpg" group-title="UK",Gemporia
 https://5e40ea2c72424.streamlock.net/abrgemporia/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="UK",Gold
+http://145.239.255.4:8080/gold/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/IdealWorld.uk.png" group-title="UK",Ideal World
 http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/PBSAmerica.uk.png" group-title="UK",PBS America
-http://51.52.156.22:8888/http/012
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/QVC.uk.png" group-title="UK",QVC
 https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="UK",Kiss
@@ -837,11 +839,11 @@ http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
 http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="UK",Sony Movies Action
 http://145.239.255.4:8080/M4M/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="UK",Sony Movies
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="UK",Sony Movies
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Atlantic_SECONDARY_RGB.png" group-title="UK",Sky Altantic
 http://145.239.255.4:8080/SkyAtl/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="UK",Sky Cinema Drama
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="UK",Sky Cinema Drama
 http://145.239.255.4:8080/SkyDrama/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="UK",Sony Movies Classic
 http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
@@ -860,7 +862,7 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/Official_Houses_of_the_Oireachtas_Logo.jpg" group-title="Éire",Oireachtas
 https://d1h8rkqumz239n.cloudfront.net/oireachtas/ngrp:oireachtas.stream_all/playlist.m3u8
-#EXTINF:-1,Eir Sport 1 HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/ie/EirSport1.ie.png" group-title="Éire",Eir Sport 1
 http://145.239.255.4:8080/eir1hd/mono.m3u8?token=test
-#EXTINF:-1,Eir Sport 2 HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/ie/EirSport2.ie.png" group-title="Éire",Eir Sport 2
 http://145.239.255.4:8080/eir2hd/mono.m3u8?token=test
