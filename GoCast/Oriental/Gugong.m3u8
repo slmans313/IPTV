@@ -940,6 +940,8 @@ http://211.245.55.198:1024/m2u/239.192.65.14:49220
 http://211.245.55.198:1024/m2u/239.192.65.12:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/BilliardsTV.kr.png" group-title="한국",Billiards TV
 http://211.245.55.198:1024/m2u/239.192.69.74:49220
+#EXTINF:-1 tvg-logo="http://bravokidstv.com/theme/kidstore2/img/logo.png" group-title="한국",Bravo Kids
+http://211.245.55.198:1024/m2u/239.192.69.132:4922
 #EXTINF:-1 tvg-logo="https://res.heraldm.com/phpwas/restmb_idxmake.php?idx=142&simg=%2Fcontent%2Fimage%2F2019%2F03%2F12%2F20190312000776_0.jpg" group-title="한국",Btv
 http://211.245.55.198:1024/m2u/239.192.67.34:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" group-title="한국",Channel A
@@ -952,6 +954,16 @@ http://211.245.55.198:1024/m2u/239.192.54.5:49220
 http://211.245.55.198:1024/m2u/239.192.54.8:49220
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612909388462886912/y6ydyH86_400x400.png" group-title="한국",Done
 http://211.245.55.198:1024/m2u/239.192.65.11:49220
+#EXTINF:-1 tvg-logo="http://edutv21.com/uploads/builder/86/imgEduTV_EduTV.png" group-title="한국",EduTV
+http://external.cdn.zroad.tv/EduTV/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.etv.go.kr/images/newimg/logo.png" group-title="한국",한국선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imtcast.com/fashionn/images/channel/logo_m.jpg" group-title="한국",Fashion N
+http://211.245.55.198:1024/m2u/239.192.69.140:49220
+#EXTINF:-1 tvg-logo="http://www.fishingtv.kr/data/skin/fruit_puro_gls/FSTV/images/logo.png" group-title="한국",Fishing TV
+http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="한국",조선 TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="한국",조선 TV
@@ -986,6 +998,10 @@ http://211.245.55.198:1024/m2u/239.192.54.7:49220
 rtmp://mmoney.flive.skcdn.com/mmoneymobile/money3.stream
 #EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif" group-title="한국",MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif" group-title="한국",MTN
+http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.futurekorea.co.kr/news/photo/202001/127326_129561_5346.jpg" group-title="한국",국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="한국",팍스경제 TV
 rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="한국",팍스경제 TV
@@ -1042,7 +1058,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="한국",YTN Korean
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.buddhistchannel.tv/newsite/img/bc-logo.png" group-title="한국",BTN
+#EXTINF:-1 tvg-logo="http://www.btn.co.kr/images/eng/01_main_04.png" group-title="한국",BTN
 http://211.245.55.198:1024/m2u/239.192.69.79:49220
 #EXTINF:-1 tvg-logo="https://www.nongmin.com/upload/survey/201808/20180821161727768/20180821161727768.jpg" group-title="한국",NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
