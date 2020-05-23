@@ -116,6 +116,8 @@ http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 http://live.centerch.com/fhzx.m3u8
 #EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="香港",凤凰中文
 http://live.centerch.com/fhzw.m3u8
+#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="香港",妙米
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
@@ -317,6 +319,8 @@ http://211.245.55.198:1024/m2u/239.192.52.8:49220
 http://211.245.55.198:1024/m2u/239.192.51.7:49220
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147910638714018.png" group-title="日韩频道",OCN Thrill
 http://211.245.55.198:1024/m2u/239.192.53.9:49220
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Olive.kr.png" group-title="日韩频道",Olive
+http://211.245.55.198:1024/m2u/239.192.58.10:49220
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="日韩频道",JTBC
 http://211.245.55.198:1024/m2u/239.192.58.7:49220
@@ -354,10 +358,14 @@ http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dema.mil.kr/2019/images/logo.png" group-title="日韩频道",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Screen.kr.png" group-title="日韩频道",Screen
+http://211.245.55.198:1024/m2u/239.192.67.229:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/OBS.kr.png" group-title="日韩频道",OBS
 http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="日韩频道",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="한국",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="日韩频道",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist_w1467614923.m3u8
