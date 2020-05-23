@@ -419,6 +419,8 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="新闻频道",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="新闻频道",CNBC
+http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/Euronews.ru.png" group-title="新闻频道",Euronews
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻频道",France 24
@@ -452,6 +454,8 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 http://145.239.255.4:8080/eir1hd/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/ie/EirSport2.ie.png" group-title="体育",Eir Sport 2
 http://145.239.255.4:8080/eir2hd/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",Golf Channel
+http://live.highstream.club/live/Golf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2
@@ -508,6 +512,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",WWE Network
+http://live.highstream.club/live/WWE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
