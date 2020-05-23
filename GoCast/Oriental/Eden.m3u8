@@ -139,16 +139,10 @@ http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="لبنان",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
-#EXTINF:-1 tvg-logo="http://www.hawacom.tv/android-chrome-256x256.png" group-title="لبنان",Hawacom
-http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
 http://51.15.3.161:8080/LDC/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/lb/LDC.lb.png" group-title="لبنان",LDC
-http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1 tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="لبنان",Nabaa TV
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="لبنان",Nour Sat
 https://svs.itworkscdn.net/nour4satlive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://noursat.tv/mediafiles/channels/shabab-logo.png" group-title="لبنان",Nour Sat Al Shabab
@@ -165,12 +159,8 @@ https://svs.itworkscdn.net/nour5satlive/livestream/chunklist.m3u8
 https://svs.itworkscdn.net/nour9satlive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://noursat.tv/mediafiles/channels/spirit-logo.png" group-title="لبنان",Nour Sat Spirit
 https://svs.itworkscdn.net/nour6satlive/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/lb/MTVLebanon.lb.png" group-title="لبنان",MTV Lebanon
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
-#EXTINF:-1 tvg-logo="https://nbntv.me/wp-content/uploads/2018/08/nbn-logo.jpg" group-title="لبنان",NBN
-http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
 #EXTINF:-1 tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="لبنان",OTV
-http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tahatv.com/images/menue%20bar/77_46.png" group-title="لبنان",Taha TV
 http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b850000.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="لبنان",Tele Liban
@@ -295,6 +285,8 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15190297818852.png" group-title="السعودية",Kaif TV
 http://82.212.74.2:8000/live/7311.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/NabaaTV2.png" group-title="السعودية",Nabaa TV
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XaHylRU-6cw/XFxIoBM5PiI/AAAAAAAAATs/QLtA4LflSksb_Z9nc-EMw7F8xXHYfeQ7ACLcBGAs/s1600/Wesal%2Btv.png" group-title="السعودية",Wesal TV
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 
