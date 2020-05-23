@@ -919,7 +919,6 @@ http://211.245.55.198:1024/m2u/239.192.69.42:49220
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png" group-title="한국",SPOTV Golf And Health
 http://211.245.55.198:1024/m2u/239.192.67.163:49220
 
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="한국",M-NET
 http://211.245.55.198:1024/m2u/239.192.48.5:49220
 
@@ -927,7 +926,6 @@ http://211.245.55.198:1024/m2u/239.192.48.5:49220
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" group-title="한국",Channel A
 http://211.245.55.198:1024/m2u/239.192.47.4:49220
-
 
 #EXTINF:-1 tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="한국",조선 TV
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
@@ -970,12 +968,18 @@ http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg" group-title="한국",OBS W
 http://211.245.55.198:1024/m2u/239.192.65.16:49220
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="한국",OCN
+http://211.245.55.198:1024/m2u/239.192.52.8:49220
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="한국",tVN
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="한국",tVN Asia
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1444288074_b684100_sleng_enc=vI-VOMr6pl7P-P3lC5-68w.m3u8
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636422945132629057.png" group-title="한국",O tVN Movies
 http://211.245.55.198:1024/m2u/239.192.53.10:49220
+
+#EXTINF:-1 tvg-logo="http://m.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv.png" group-title="한국",연합 뉴스 TV
+http://211.245.55.198:1024/m2u/239.192.57.3:49220
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
