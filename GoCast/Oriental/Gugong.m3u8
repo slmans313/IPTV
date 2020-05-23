@@ -912,10 +912,14 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="한국",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/IBSports.kr.png" group-title="한국",IB Sports
+http://211.245.55.198:1024/m2u/239.192.57.7:49220
+
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv.png" group-title="한국",SPOTV
 http://211.245.55.198:1024/m2u/239.192.67.133:49220
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotv_2.png" group-title="한국",SPOTV 2
-http://211.245.55.198:1024/m2u/239.192.69.42:49220
+http://211.245.55.198:1024/m2u/239.192.67.162:49220
 #EXTINF:-1 tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png" group-title="한국",SPOTV Golf And Health
 http://211.245.55.198:1024/m2u/239.192.67.163:49220
 
@@ -926,11 +930,16 @@ http://211.245.55.198:1024/m2u/239.192.64.10:49220
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/ARTE.de.png" group-title="한국",Arte 한국
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/AsiaN.kr.png" group-title="한국",Asia N
+http://211.245.55.198:1024/m2u/239.192.65.5:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/BilliardsTV.kr.png" group-title="한국",Billiards TV
 http://211.245.55.198:1024/m2u/239.192.69.74:49220
+#EXTINF:-1 tvg-logo="https://res.heraldm.com/phpwas/restmb_idxmake.php?idx=142&simg=%2Fcontent%2Fimage%2F2019%2F03%2F12%2F20190312000776_0.jpg" group-title="한국",Btv
+http://211.245.55.198:1024/m2u/239.192.67.34:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" group-title="한국",Channel A
 http://211.245.55.198:1024/m2u/239.192.47.4:49220
-
+#EXTINF:-1 tvg-logo="http://www.cntv.co.kr/layouts/ch_china/images/logo.png" group-title="한국",Channel China
+http://211.245.55.198:1024/m2u/239.192.64.9:49220
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612909388462886912/y6ydyH86_400x400.png" group-title="한국",Done
 http://211.245.55.198:1024/m2u/239.192.65.11:49220
 #EXTINF:-1 tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="한국",조선 TV
@@ -947,6 +956,8 @@ http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 http://gayotv.net:1935/live/gayotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ktv.go.kr/resources/images/common/logo.png" group-title="한국",KTV 국민방송
 rtmp://218.38.152.31:1935/klive/klive.stream
+#EXTINF:-1 tvg-logo="https://www.kstar.tv/images/common/kstar_logo_bl.png" group-title="한국",K Star
+http://211.245.55.198:1024/m2u/239.192.55.6:49220
 #EXTINF:-1 tvg-logo="http://dema.mil.kr/2019/images/logo.png" group-title="한국",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://image.edaily.co.kr/_common/edaily_family.png" group-title="한국",이데일리TV
@@ -957,14 +968,20 @@ rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 http://211.245.55.198:1024/m2u/239.192.45.5:49220
 #EXTINF:-1 tvg-logo="http://www.tbs.seoul.kr/common/images/gnb/logo.png" group-title="한국",TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Tooniverse.kr.png" group-title="한국",Tooniverse
+http://211.245.55.198:1024/m2u/239.192.54.7:49220
 #EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif" group-title="한국",MTN
 rtmp://mmoney.flive.skcdn.com/mmoneymobile/money3.stream
 #EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif" group-title="한국",MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="한국",팍스경제 TV
 rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="한국",팍스경제 TV
+http://211.245.55.198:1024/m2u/239.192.68.7:49220
 #EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png" group-title="한국",TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://t1.daumcdn.net/cfile/tistory/2211273A5694FEDF30" group-title="한국",텔레노벨라
+http://211.245.55.198:1024/m2u/239.192.66.3:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/OBS.kr.png" group-title="한국",OBS
 rtmp://live.obs.co.kr/live/obs/myStream.sdp
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/OBS.kr.png" group-title="한국",OBS
@@ -981,12 +998,23 @@ http://211.245.55.198:1024/m2u/239.192.51.7:49220
 #EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147910638714018.png" group-title="한국",OCN Thrill
 http://211.245.55.198:1024/m2u/239.192.53.9:49220
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Olive.kr.png" group-title="한국",S올리브
+http://211.245.55.198:1024/m2u/239.192.58.10:49220
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Screen.kr.png" group-title="한국",Screen
+http://211.245.55.198:1024/m2u/239.192.67.229:49220
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="한국",tVN
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
 #EXTINF:-1 tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="한국",tVN Asia
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1444288074_b684100_sleng_enc=vI-VOMr6pl7P-P3lC5-68w.m3u8
-#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636422945132629057.png" group-title="한국",O tVN Movies
+#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636422945132629057.png" group-title="한국",O tVN
 http://211.245.55.198:1024/m2u/239.192.53.10:49220
+#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png" group-title="한국",X tVN
+http://211.245.55.198:1024/m2u/239.192.57.6:49220
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/UXN.kr.png" group-title="한국",UXN
+http://211.245.55.198:1024/m2u/239.192.81.38:49220
 
 #EXTINF:-1 tvg-logo="http://m.yonhapnewstv.co.kr/asset/img/common/img_logo_yhntv.png" group-title="한국",연합 뉴스 TV
 http://211.245.55.198:1024/m2u/239.192.57.3:49220
