@@ -102,6 +102,8 @@ https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",翡翠台
 http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",翡翠J2台
+http://119.126.91.20:9981/stream/channelid/139524993
 #EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊台
@@ -317,7 +319,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="电影",Sky Movies Action
-http://51.52.156.22:8888/http/009
+http://145.239.255.4:8080/M4M/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Movies-Comedy-UK.png" group-title="电影",Sky Movies Comedy
 http://145.239.255.4:8080/SkyComedy/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesDisney.nz.png" group-title="电影",Sky Movies Disney
@@ -325,7 +327,7 @@ http://145.239.255.4:8080/SkyDisney/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesPremiere.nz.png" group-title="电影",Sky Movies Premiere
 http://145.239.255.4:8080/SkyPremiere/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="电影",Sony Movies Action
-http://51.52.156.22:8888/http/009
+http://145.239.255.4:8080/M4M/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="电影",Sony Movies
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="电影",Sony Movies Classic
@@ -566,10 +568,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国",BBC 2
 http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英国",BBC 4
-http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国",BBC News
-http://51.52.156.22:8888/http/004
+http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国",BBC Lifestyle
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="英国",CBS Reality
@@ -577,11 +577,11 @@ http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="英国",ITV2
-http://51.52.156.22:8888/http/005
+http://145.239.255.4:8080/ITV2/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="英国",ITV3
-http://51.52.156.22:8888/http/006
+http://145.239.255.4:8080/ITV3/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="英国",ITV4
-http://51.52.156.22:8888/http/007
+http://145.239.255.4:8080/ITV4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="英国",Channel 4
 http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="英国",More4
@@ -604,8 +604,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="英国",Gold
 http://145.239.255.4:8080/gold/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/PBSAmerica.uk.png" group-title="英国",PBS America
-http://51.52.156.22:8888/http/012
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="英国",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="英国",Kerrang!
@@ -613,11 +611,15 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="英国",Magic
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="英国",Pop UK
-http://51.52.156.22:8888/http/015
+http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="英国",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Atlantic_SECONDARY_RGB.png" group-title="英国",Sky Altantic
+http://145.239.255.4:8080/SkyAtl/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="英国",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="英国",Tiny POP
+http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="英国",Venus TV
 http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
