@@ -4,7 +4,7 @@ Hi all, this is just a public list I compile in my hobby time. Feel free to fork
 
 I hope you all will be inspired to make more tidy playlists of your own.
 
-But be considerate and civilised.
+But be considerate and civilised....
 
 I change the contents of playlist all the time. So if you are lazy and link the list to your player as it is, don't complain when you find your channel missing or whatever.
 
