@@ -23,7 +23,9 @@ http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.haritv.com/images/logo.png" group-title="பொழுதுபோக்கு",Hari TV
 http://7starcloud.com:1935/harimedia/live2/chunklist_w1916631884.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-white.png" group-title="பொழுதுபோக்கு",IBC Tamil
-https://ibctamil-live.ibctamil.com/transcode/ibctamil_mid.m3u8
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png" group-title="பொழுதுபோக்கு",IBC Tamil Canada
+https://ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8
 #EXTINF:-1 tvg-logo="http://www.cvstv.in/images/cvs.png" group-title="தமிழ்",CVS TV
 http://45.79.203.234:1935/cvstv/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.aasaitvlive.in/img/aasai_tv.png" group-title="பொழுதுபோக்கு",Aasai TV
@@ -35,7 +37,7 @@ http://livematrix.in:1935/live/jay/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-event.png" group-title="பொழுதுபோக்கு",IBC Events
 https://ibcevent-live.ibctamil.com/transcode/ibcevent_mid.m3u8
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="தமிழ்",IBC Kids
-https://ibckids-origin.ibctamil.com/transcode/ibckids_mid.m3u8
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
 #EXTINF:-1 tvg-logo="https://www.imayamtv.com/images/logo.png" group-title="தமிழ்",Imayam
 https://5c75277727cd1.streamlock.net/imayamtv/imayamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YXBwNGsudGFtaWx0dl9zY3JlZW5fMV8xNTU2MDc4MDIxXzA0MQ/screen-1.jpg?h=355&fakeurl=1&type=.jpg" group-title="பொழுதுபோக்கு",Jaffna TV
@@ -43,7 +45,7 @@ http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kalaignartv.co.in/logo.jpg" group-title="பொழுதுபோக்கு",கலைஞர்
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="இசை",Marutam TV
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+http://online.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="இசை",MK Six
 http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PALAARTV1.png" group-title="தமிழ்",Palar TV
@@ -93,7 +95,7 @@ http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w34231666
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaramgalatta.PNG" group-title="நகைச்சுவை",Akaram Gallata
 http://akaram.zecast.net/akaram-live/akaramgalatta1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mediaworldasia.dk/images/articles/ibccomedy.jpg" group-title="நகைச்சுவை",IBC Comedy
-https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_mid.m3u8
+https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
 
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c7782c272d430ee15e556a/1565807035764/f1a4fd44563154567cc7272a459a6e32.png" group-title="இசை",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
@@ -104,9 +106,9 @@ http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" group-title="இசை",Jaya Max
 http://45.120.188.178/hdmi
 #EXTINF:-1 tvg-logo="http://saalaitv.com/logo/IBCISAI.png" group-title="இசை",IBC Music
-https://ibcmusic-origin.ibctamil.com/transcode/ibcmusic_mid.m3u8
+https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
 #EXTINF:-1 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="இசை",MN TV Music
-http://mntv.livebox.co.in/musichls/live.m3u8
+http://online.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim@2x.gif" group-title="இசை",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 #EXTINF:-1 tvg-logo="http://ragam.tv/wp-content/uploads/2018/09/Ragam_APP_Logo.png" group-title="இசை",Ragam TV
