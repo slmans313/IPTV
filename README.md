@@ -17,5 +17,9 @@ Shout out to EDMW, 电视盒子tv box分享站 and TV Boxs app!!!
 
 And thumbs down for Rizaldi of https://rizaldi.web.id/!
 
+I have an epg but considered it to be experimental at this stage.
+
+PLEASE don't rely it as your daily iptv day or use this list for your business.
+
 Love you all,
 Shell Shock
