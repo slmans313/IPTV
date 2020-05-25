@@ -27,8 +27,14 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="新马频道",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-logo="http://www.egg.network/client/9f3c4191c8089642bc730aa9a4c49304.png" group-title="新马频道",eGG Network
+http://210.210.155.66/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="新马频道",Hello
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="新马频道",Hits
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="新马频道",妙米
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="新马频道",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="新马频道",Indosiar
@@ -71,6 +77,8 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="新闻频道",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="电影",CinemaWorld
+http://210.210.155.66/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
@@ -122,6 +130,8 @@ http://145.239.255.4:8080/eir1hd/mono.m3u8?token=test
 http://145.239.255.4:8080/eir2hd/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",Golf Channel
 http://live.highstream.club/live/Golf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="体育",Fight Sports
+http://210.210.155.66/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2
@@ -174,8 +184,6 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",WWE Network
-http://live.highstream.club/live/WWE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",翡翠台
 http://61.238.6.49:8000/bysid/1
@@ -517,8 +525,6 @@ https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="印度精选",Raj TV
 http://45.120.188.184/hdmi
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="印度精选",Star விஜய்
-http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.kalaignartv.co.in/logo.jpg" group-title="印度精选",கலைஞர்
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="印度精选",மக்கள் தொலைக்காட்சி
@@ -542,7 +548,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/aajtak
 #EXTINF:-1 tvg-logo="https://b4umusic.in/images/logo.png" group-title="印度精选",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="印度精选",Star Gold
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png" group-title="印度精选",Zee TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="印度精选",Zee Cinema
@@ -561,8 +567,10 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="美国",A&amp;E Network
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="美国",A&E Network
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="美国",AXN
+http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="美国",Boomerang
 http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/ca/CBCOttawa.ca.png" group-title="美国",CBC News
