@@ -54,6 +54,8 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="新闻频道",CNBC
 http://live.highstream.club/live/CNBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="新闻频道",CNBC World
+http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/Euronews.ru.png" group-title="新闻频道",Euronews
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻频道",France 24
@@ -634,12 +636,18 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国",BBC 2
 http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="英国",BBC 4
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国",BBC News
 http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国",BBC Lifestyle
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="英国",CBS Reality
 http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="英国",CBeebies
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/824.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="英国",CBBC
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/821.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="英国",ITV2
@@ -690,8 +698,6 @@ http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
 http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/ie/TG4.ie.png" group-title="英国",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
