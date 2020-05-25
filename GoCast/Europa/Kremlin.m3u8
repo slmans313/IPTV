@@ -2,16 +2,22 @@
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Россия",Первый
 http://188.93.95.34:80/ort/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Россия",Первый Europa
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Россия",Россия 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Россия",Россия 24
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Россия",Россия 24
+https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Россия",РОССИЯ-K
 https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Россия",Россия РТP
 https://a3569455160-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/RTRPlaneta.ru.png" group-title="Россия",Planeta RTR
 http://188.93.95.34:80/rtr/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/RTRPlaneta.ru.png" group-title="Россия",Planeta RTR
+https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3abn.org/img/logos/3abn-russia-logo.jpg" group-title="Россия",3ABN
 https://hls.tv.3angels.ru/stream/HQ.m3u8
