@@ -21,7 +21,7 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="Italia",Rai YoYo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiItalia.it.png" group-title="Italia",Rai Italia
-http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
+https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="Italia",Canale 5
 http://5.135.92.133:52841/out/u/425_1.m3u8
@@ -183,8 +183,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="Português/Brasil",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="Português/Brasil",TVI
+http://185.59.222.120:88/tvi/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Odisseia.pt.png" group-title="Português/Brasil",Odisseia
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 http://51.15.3.161:8080/odessa/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/assets/images/logo-home-mobile.png" group-title="Português/Brasil",RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
