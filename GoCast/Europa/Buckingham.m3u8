@@ -10,6 +10,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
 http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
@@ -41,7 +43,9 @@ https://edge-07.playmedia-cdn.net/origin02/amlst:i24-eng/chunklist_w938555700.m3
 #EXTINF:-1 tvg-logo="http://static.epg.best/ir/PressTV.ir.png" group-title="News",Press TV
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
 #EXTINF:-1 tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="News",India Today
-https://feeds.intoday.in/hltapps/api/master.m3u8
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="News",India Today
+https://edge-1192-ch-gv.filmon.com/live/3482.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="News",Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="News",News X
@@ -745,6 +749,8 @@ http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/810.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/812.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
 http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/bbc%202%20wales.png" group-title="UK",BBC 2 Wales
@@ -832,6 +838,8 @@ https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/POPMax.uk.png group-title="UK",Pop MAX
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Really.uk.png group-title="UK",Really
+https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="UK",RT UK
 http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="UK",Sony Movies Action
