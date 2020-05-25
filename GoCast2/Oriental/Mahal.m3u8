@@ -287,7 +287,7 @@ https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="USA",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="USA",A&E Network
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+http://live.highstream.club/live/AE/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="USA",AXN
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="USA",Boomerang
@@ -334,6 +334,8 @@ http://live.highstream.club/live/Geographic/playlist.m3u8
 http://live.highstream.club/live/NBATV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="USA",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/za/Nickelodeon.za.png" group-title="USA",Nickelodeon
+http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NHLNetwork.us.png" group-title="USA",NHL Network
 http://live.highstream.club/live/NHL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="USA",NFL Network
@@ -346,6 +348,8 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="USA",Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+#EXTINF:-1,TLC US
+http://live.highstream.club/live/TLC/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="USA",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/TraceUrban.fr.png" group-title="USA",Trace Urban
