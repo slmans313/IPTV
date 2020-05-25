@@ -96,19 +96,24 @@ http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibndianying.jpg" group-title="电影",CIBN 电影
 http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnhaolaiwu.jpg" group-title="电影",CIBN 好莱坞
-http://cibn.peoplevideo.cn:80/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=ZongHe
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P42020033U58.jpg" group-title="电影",CIBN 院线大片
-http://cibn.peoplevideo.cn:80/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=DanJi
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnwdy.jpg" group-title="电影",CIBN 微电影
 http://cinb1.peoplevideo.cn/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P420210325443.jpg" group-title="电影",CIBN 精品影院
-http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=JingPin
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnqinggan.jpg" group-title="电影",CIBN 情感影院
-http://cinb1.peoplevideo.cn/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=QingGan
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnxjyy.jpg" group-title="电影",CIBN 喜剧影院
-http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=TongBu
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1ZP61259350-L.jpg" group-title="电影",CIBN 艺术院线
 http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1ZP61259350-L.jpg" group-title="电影",CIBN 动作影院
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=ShengHuo
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1ZP61259350-L.jpg" group-title="电影",CIBN 映画
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=TiYu
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC 高清电影
 http://192.154.103.75:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC 家庭影院
@@ -121,6 +126,17 @@ http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/newtvjingsong.jpg" group-title="电影",Newtv 惊悚悬疑
 http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1ZP61259350-L.jpg" group-title="电影",CIBN 女团专场
+http://v.iam7.cn/iptv/cibn.php?code=208
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1ZP61259350-L.jpg" group-title="电影",CIBN 音乐综艺
+http://v.iam7.cn/iptv/cibn.php?code=145
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1ZP61259350-L.jpg" group-title="电影",CIBN 经典音乐
+http://v.iam7.cn/iptv/cibn.php?code=128
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1ZP61259350-L.jpg" group-title="电影",CIBN 全球歌曲
+http://v.iam7.cn/iptv/cibn.php?code=338
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1ZP61259350-L.jpg" group-title="电影",CIBN 流行榜单
+http://v.iam7.cn/iptv/cibn.php?code=155
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="动漫",哈哈炫动
@@ -409,9 +425,9 @@ http://cinb1.peoplevideo.cn/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnqiche.jpg" group-title="中国",CIBN 汽车
 http://cinb1.peoplevideo.cn/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/20/1-20020Q44H40-L.jpg" group-title="中国",CIBN 古装剧场
-http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=ZongYi
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnjiaoyang.jpg" group-title="中国",CIBN 骄阳剧场
-http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8
+http://nas.330421.cn:8880/Project/IPTV/www/cibn.php?code=JingDian
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P42019152OS.jpg" group-title="中国",CIBN 综合
 http://cibn.peoplevideo.cn:80/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cibnljsy.jpg" group-title="中国",CIBN 流金岁月
