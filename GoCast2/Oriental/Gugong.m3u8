@@ -182,6 +182,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",WWE Network
+http://live.highstream.club/live/WWE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",翡翠台
 http://61.238.6.49:8000/bysid/1
@@ -566,7 +568,7 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="美国",A&E Network
-http://live.fadev.club/live/AE/playlist.m3u8
+http://live.highstream.club/live/AE/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="美国",AXN
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="美国",Boomerang
@@ -698,14 +700,17 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=htt
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="英国",Pop UK
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png" group-title="英国",Tiny Pop
+http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/POPMax.uk.png group-title="英国",POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="英国",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Atlantic_SECONDARY_RGB.png" group-title="英国",Sky Altantic
 http://145.239.255.4:8080/SkyAtl/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="英国",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="英国",Tiny POP
-http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="英国",Venus TV
 http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
