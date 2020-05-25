@@ -54,10 +54,12 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Singapore/Malaysia",BNC  
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/BNC.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Singapore/Malaysia",Cinemaworld
+http://210.210.155.66/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.egg.network/client/9f3c4191c8089642bc730aa9a4c49304.png" group-title="Singapore/Malaysia",eGG Network
 https://cdnbpp1.useetv.com/joss/14/egg/chunklist_w417731917_b684100_sleng_enc=dfIycGV_CrueRo0Bnm54sw.m3u8
 #EXTINF:-1 tvg-logo="http://www.egg.network/client/9f3c4191c8089642bc730aa9a4c49304.png" group-title="Singapore/Malaysia",eGG Network
-http://210.210.155.66/h/h22/02.m3u8
+http://210.210.155.66/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2013/12/foodfood-new-logo.jpg" group-title="Singapore/Malaysia",Food Food
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/hk.gemtv/files/logos/gem_live_logo_green_rgb.png" group-title="Singapore/Malaysia",GEM TV
@@ -158,8 +160,10 @@ https://app-linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
 https://app-linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
 https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/MNCLifestyle_awal.png/revision/latest?cb=20190615132545" group-title="Indonesia",MNC Lifestyle
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="Indonesia",MNC Lifestyle
 http://210.210.155.66/h/h28/01.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" group-title="Indonesia",MNC life
+https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/IDX.id.png" group-title="Indonesia",IDX
 https://cdnmdc2.useetv.com/joss/14/idx/chunklist_w1347672527_b684100_sleng_4791.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",TV One
