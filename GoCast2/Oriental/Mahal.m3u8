@@ -44,6 +44,8 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="News",CNBC
 http://live.highstream.club/live/CNBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="News",CNBC World
+http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/Euronews.ru.png" group-title="News",Euronews
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="News",France 24
@@ -225,10 +227,10 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="اردو",Hum
 http://95.211.211.168/live/humtv0066/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumMasala.pk.png" group-title="اردو",Hum Masla
-https://stream.simpaisa.com/pitvlive2/masalanew3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="اردو",Venus TV
+http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png" group-title="اردو",Geo TV
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+http://playlive.goonj.pk/geoentsweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="اردو",PTV Global
 https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8
 
@@ -356,12 +358,18 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
 http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UK",BBC News
 http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="UK",BBC Lifestyle
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="UK",CBS Reality
 http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/824.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="UK",CBBC
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/821.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="UK",ITV2
@@ -408,12 +416,8 @@ http://145.239.255.4:8080/SkyAtl/mono.m3u8?token=test
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="UK",Tiny POP
 http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="UK",Venus TV
-http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="UK",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/ie/TG4.ie.png" group-title="UK",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/Action.au.png" group-title="Australia",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
