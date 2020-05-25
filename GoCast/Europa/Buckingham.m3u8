@@ -166,6 +166,7 @@ http://145.239.255.4:8080/Arena-Sport4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",Arena Sport 5
 http://145.239.255.4:8080/Arena-Sport5/mono.m3u8?token=test
 
+    
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="Sports",beIN Sports USA
 http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports Asia 1
@@ -444,7 +445,7 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="Movies",Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO USA
 http://live.highstream.club/live/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
 http://live.highstream.club/live/HBOSignature/playlist.m3u8
@@ -821,10 +822,16 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="UK",Magic
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="UK",Pop
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="UK",Pop UK
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="UK",Tiny POP
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="UK",Pop UK
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png" group-title="UK",Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png" group-title="UK",Tiny Pop
 http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/POPMax.uk.png group-title="UK",Pop MAX
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="UK",RT UK
 http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="UK",Sony Movies Action
