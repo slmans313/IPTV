@@ -138,6 +138,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Sports",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="Sports",WWE Network
+http://live.highstream.club/live/WWE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movies",CinemaWorld
 http://210.210.155.66/h/h04/01.m3u8
@@ -236,6 +238,8 @@ http://45.77.90.56:8080/hls/mystream.m3u8
 http://playlive.goonj.pk/geoentsweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="اردو",PTV Global
 https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pk/HumMasala.pk.png" group-title="اردو",Hum Masala
+https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Middle East",القرآن الكريم
 http://playlive.goonj.pk/makkahweb_480p/index.m3u8
@@ -348,8 +352,6 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="USA",Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
-#EXTINF:-1,TLC US
-http://live.highstream.club/live/TLC/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="USA",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/TraceUrban.fr.png" group-title="USA",Trace Urban
@@ -419,6 +421,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=htt
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="UK",Pop UK
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/POPMax.uk.png group-title="UK",POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="UK",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Atlantic_SECONDARY_RGB.png" group-title="UK",Sky Altantic
