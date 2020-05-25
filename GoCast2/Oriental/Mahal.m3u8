@@ -49,8 +49,6 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="News",CNBC
-http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="News",CNBC World
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/Euronews.ru.png" group-title="News",Euronews
@@ -240,9 +238,9 @@ http://playlive.goonj.pk/geoentsweb_480p/index.m3u8
 https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Middle East",القرآن الكريم
-http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
+http://playlive.goonj.pk/makkahweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Middle East",السنة النبوية
-http://103.205.133.42:1935/local/sunnah_tv_720/index.m3u8
+http://playlive.goonj.pk/madinaweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Middle East",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="Middle East",MBC 4
@@ -300,6 +298,8 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cbn/primary.m3u8
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="USA",CNBC
+http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="USA",Cartoon Network
 http://145.239.255.4:8080/CARUK/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA",Comedy Central
