@@ -72,8 +72,6 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="Berita",CNBC
-http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="Berita",CNBC World
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/Euronews.ru.png" group-title="Berita",Euronews
@@ -200,9 +198,9 @@ http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
 http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Bahasa Arab",القرآن الكريم
-http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
+http://playlive.goonj.pk/makkahweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Bahasa Arab",السنة النبوية
-http://103.205.133.42:1935/local/sunnah_tv_720/index.m3u8
+http://playlive.goonj.pk/madinaweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Bahasa Arab",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="Bahasa Arab",MBC 4
@@ -355,6 +353,8 @@ https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cbn/primary.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="Amerika",Cartoon Network
 http://145.239.255.4:8080/CARUK/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="Amerika",CNBC
+http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="Amerika",Comedy Central
 http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="Amerika",Comedy Central Extra
