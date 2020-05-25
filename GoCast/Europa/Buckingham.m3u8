@@ -32,6 +32,8 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_a-b.m3u8
 http://61.58.60.230:9319/live/129.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",FOX News
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="News",FOX Business
+http://live.highstream.club/live/FOXB/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/I24NEWS_logo.svg/1200px-I24NEWS_logo.svg.png" group-title="News",Isarel 24
@@ -438,26 +440,22 @@ http://live.highstream.club/live/FX/playlist.m3u8
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-logo="http://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="Movies",Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.maverickentertainment.cc/images/logo-2019.png" group-title="Movies",Maverick Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/5d4360edae8ff80001247e11/1564758103725-BJSDTUS8WBBFW41UWAFW/hiyah_website+logo.png" group-title="Movies",Hi-Yah!
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/tr/Filmbox.tr.png" group-title="Movies",Filmbox
-https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="Movies",Flim Hub
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="Movies",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
 http://live.highstream.club/live/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOComedy.us.png" group-title="Movies",HBO Comedy
-http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
 http://live.highstream.club/live/HBOSignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOZone.us.png" group-title="Movies",HBO Zone
 http://live.highstream.club/live/HBOZone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/5d4360edae8ff80001247e11/1564758103725-BJSDTUS8WBBFW41UWAFW/hiyah_website+logo.png" group-title="Movies",Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="Movies",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
+#EXTINF:-1 tvg-logo="http://www.maverickentertainment.cc/images/logo-2019.png" group-title="Movies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mafashortfilm.uk/public/images/mafal.png" group-title="Movies",Mafa Short Flim
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/MGM.us.png" group-title="Movies",MGM Scifi
@@ -474,6 +472,8 @@ https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="Movies",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="Movies",Starz
+http://live.highstream.club/live/StarZ/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Action.png" group-title="Movies",Reel Px Action
 https://1586823379.rsc.cdn77.org/1586823379/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bastionegroup.com/wp-content/uploads/2019/07/Reel-Px-Family-Website-Logo.png" group-title="Movies",Reel Px Family
@@ -562,6 +562,8 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/5b45347bf8370a03e64f284d/1531263808845-27U5TCTZ7RKPXMDG8CKM/KAB_LOGO_02.png" group-title="Kids/Animation",Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/za/Nickelodeon.za.png" group-title="Kids/Animation",Nickelodeon
+http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr Indonesia
@@ -577,8 +579,12 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
 http://live.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Learning",Discovery
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Learning",Discovery India
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Learning",Discovery UK
+http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Learning",Discovery USA
+http://live.highstream.club/live/DISCOVERY/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science USA
