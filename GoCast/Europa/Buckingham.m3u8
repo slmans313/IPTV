@@ -9,7 +9,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
-http://51.52.156.22:8888/http/004
+http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
@@ -24,6 +24,8 @@ https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 http://live.highstream.club/live/CNN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="News",CNBC
 http://live.highstream.club/live/CNBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="News",CNBC World
+http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="News",Deutsche Welle (English)
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_a-b.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ru/Euronews.ru.png" group-title="News",Euronews
@@ -88,22 +90,7 @@ http://live.highstream.club/live/MSNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Financial News",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="Nouvelles",France 24
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/fr/RTFrance.fr.png" group-title="Nouvelles",RT Français
-http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/cn/CGTNFrench.cn.png" group-title="Nouvelles",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="Nouvelles",BFM 
-https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="Nouvelles",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png" group-title="Nouvelles",BFM Lyon
-https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" group-title="Nouvelles",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Nouvelles",CNews
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/es/LaSexta.es.png" group-title="Noticias",LA Sexta
 https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
@@ -137,8 +124,6 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
 http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="أنباء",Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="أنباء",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="أنباء",Al Hurra
 http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1 tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="أنباء",Al Hiwar 
@@ -731,8 +716,29 @@ https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
 http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneNorthernIreland.uk.png" group-title="UK",BBC 1 Northern Ireland
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/810.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/812.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
 http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/bbc%202%20wales.png" group-title="UK",BBC 2 Wales
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/816.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947597829559799815/3EqyVekp_400x400.jpg" group-title="UK",BBC 2 Northern Ireland
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/817.m3u8
+#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_bbc2_scotland.jpg" group-title="UK",BBC 2 Scotland
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/818.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/824.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="UK",CBBC
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/821.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="UK",BBC Alba
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/828.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="UK",S4C
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/829.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="UK",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
 
@@ -773,6 +779,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=
 https://live-craftuk.simplestreamcdn.com/craftuk/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman/img/logo.png" group-title="UK",Eman
 https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="UK",Forces TV
+https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.gemporia.com/images/og/fb.jpg" group-title="UK",Gemporia
 https://5e40ea2c72424.streamlock.net/abrgemporia/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="UK",Gold
