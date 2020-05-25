@@ -566,7 +566,7 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="美国",A&E Network
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+http://live.fadev.club/live/AE/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="美国",AXN
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="美国",Boomerang
@@ -577,7 +577,7 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cbn/primary.m3u8
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="美国",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="新闻频道",CNBC World
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="新闻频道",CNBC
 http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="美国",Cartoon Network
 http://145.239.255.4:8080/CARUK/mono.m3u8?token=test
@@ -613,6 +613,8 @@ http://live.highstream.club/live/Geographic/playlist.m3u8
 http://live.highstream.club/live/NBATV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="美国",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/za/Nickelodeon.za.png" group-title="美国",Nickelodeon
+http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NHLNetwork.us.png" group-title="美国",NHL Network
 http://live.highstream.club/live/NHL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="美国",NFL Network
@@ -633,6 +635,8 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="美国",Trace Latina
 http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/USANetwork.us.png" group-title="美国",USA Network
+http://live.highstream.club/live/USA/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="美国",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://static.epg.best/in/VH1.in.png" group-title="美国",VH1
