@@ -580,6 +580,8 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/p
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" group-title="Ελλάδα",91 NRG
 https://w1.viastreaming.net/onweb/live/chunklist_w1080573781.m3u8
+#EXTINF:-1 tvg-logo="https://action24.gr/wp-content/uploads/2019/12/ACTION-24-LOGO-TRANSPARENT-NEW.png" group-title="Ελλάδα",Action 24
+http://81.171.21.159:4780/action24/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gr/AtticaTV.gr.png" group-title="Ελλάδα",Attica TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-sl_6u97rvYo/Xj6lPlBLFUI/AAAAAAAAVqE/TUu2KPanqOcXoXHLF2zGdZX3Ct5I5WMLQCK4BGAYYCw/s1600/ART-FINAL-LOGOwhite.png" group-title="Ελλάδα",Αρτ
@@ -645,7 +647,7 @@ http://84.41.117.102:8080/WeCast1_live_task_node_config_78/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/300px-ARD_alpha.svg.png" group-title="Deutschland",ADR Alpha
 http://84.41.117.102:8080/WeCast1_live_task_node_config_76/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDF.de.png" group-title="Deutschland",ZDF
-http://137.74.203.67:4780/zdf/playlist.m3u8
+http://81.171.21.159:4780/zdfhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDFneo.de.png" group-title="Deutschland",ZDF Neo
 http://cdn.ch01.spr24.net:81/887/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDFinfo.de.png" group-title="Deutschland",ZDF Info
@@ -665,7 +667,7 @@ https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/ComedyCentral.de.png" group-title="Deutschland",Comedy Central Deutsch
 http://cdn.ch01.spr24.net:81/851/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/DMax.de.png" group-title="Deutschland",DMAX Deutsche
-http://cdn.ch01.spr24.net:81/841/mpegts?token=BQF9PmuRpcxUqR
+http://81.171.21.159:4780/dmax/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Kabel1.de.png" group-title="Deutschland",Kabel Eins
 http://cdn.ch01.spr24.net:81/809/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/KabelEinsDoku.de.png" group-title="Deutschland",Kabel Eins Doku
@@ -695,7 +697,7 @@ http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Sat1Gold.de.png" group-title="Deutschland",Sat1 Gold
 http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/sixx.de.png" group-title="Deutschland",Sixx
-http://cdn.ch01.spr24.net:81/811/mpegts?token=BQF9PmuRpcxUqR
+http://81.171.21.159:4780/sixx/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
 http://5.135.92.133:52841/out/u/127_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/TNTSerie.de.png" group-title="Deutschland",TNT Serie
