@@ -93,7 +93,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
-http://51.15.3.161:8080/LDC/index.m3u8?token=test
+http://178.132.3.162:88/LDC/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg"group-title="لبنان",MTV Lebanon
 http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="لبنان",Nour Sat
@@ -634,6 +634,9 @@ https://tv-trtturk.live.trt.com.tr/master.m3u8
 https://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtspor.com.tr/static/img/trt-spor-2-canli-izle.png" group-title="Türkiye",TRT Spor 2
 https://tv-trtspor2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/f80708fcd99a0b1d92f42c5001d9b945.jpeg" group-title="Türkiye",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="Türkiye",A TV
 http://tv.kuzeytv.com/hls/atv.m3u8
 #EXTINF:-1 tvg-logo="http://i.tmgrup.com.tr/a2tv/content/i/a2/a2tv-logo.png" group-title="Türkiye",A2
