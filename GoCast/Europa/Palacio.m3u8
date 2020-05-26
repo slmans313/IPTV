@@ -187,8 +187,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 http://185.59.222.120:88/tvi/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Odisseia.pt.png" group-title="Português/Brasil",Odisseia
-http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-http://51.15.3.161:8080/odessa/index.m3u8?token=test
+http://178.132.3.162:88/odessa/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/assets/images/logo-home-mobile.png" group-title="Português/Brasil",RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/assets/images/logo-home-mobile.png" group-title="Português/Brasil",RedeTV!
@@ -807,7 +806,6 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/220px-Telepac%C3%ADfico.png" group-title="Colombia",Telepacifico
 https://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://www.canal15.ucr.ac.cr/wp-content/uploads/2018/06/CANALUCR_logo.png" group-title="Costa Rica",Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioextremacr.com/img/logo.png" group-title="Costa Rica",Extrema TV
@@ -877,14 +875,18 @@ http://192.99.56.185/hechosecuador/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://acentotv.do/wp-content/themes/acentotv-2.0/img/logo_atv_beta.png" group-title="República Dominicana",Acento TV
 http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://acsnetwork.tv/wp-content/uploads/2018/05/cropped-Cool-1.jpg" group-title="República Dominicana",ACS Network
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal19.do/wp-content/uploads/2018/06/logo-300-x-300.png" group-title="República Dominicana",Cinevision Canal 19
 http://cinevision01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="República Dominicana",Color Visión
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/COV9.m3u8
 #EXTINF:-1 tvg-logo="http://lunatv.do/images/gestor/logo-canal53.png" group-title="República Dominicana",Luna TV
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
-#EXTINF:-1 tvg-logo="https://mangotvrd.com/web/wp-content/uploads/2019/05/cropped-LOGO-CUADRADO.png" group-title="República Dominicana",Mangto TV RD
+#EXTINF:-1 tvg-logo="https://miavision.tv/wp-content/uploads/2020/04/miavision-300x168.png" group-title="República Dominicana",Mangto TV RD
 http://mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://acentotv.do/wp-content/themes/acentotv-2.0/img/logo_atv_beta.png" group-title="República Dominicana",Acento TV
+https://cdn4.hostlagarto.com:8081/miavisiontv/index.m3u8
 #EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="República Dominicana",Teleuniverso
 http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/za/TraceUrban.za.png" group-title="República Dominicana",Trace Urban Dom
