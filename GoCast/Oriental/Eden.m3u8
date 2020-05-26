@@ -1,32 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/202022311593025IL.png" group-title="رياضات",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/2020223115944993BD.png" group-title="رياضات",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231159595728K.png" group-title="رياضات",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231201493129.png" group-title="رياضات",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="رياضات",Al Kass Sports 1 
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="رياضات",Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="رياضات",Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="رياضات",Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C2rNnvXWQAAOHtz.jpg" group-title="رياضات",Al Kass Sports Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnline1arsbt/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/DubaiSports1.ae.png" group-title="رياضات",Dubai Sports 1
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/DubaiSports2.ae.png" group-title="رياضات",Dubai Sports 2
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/DubaiSports.png" group-title="رياضات",Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SBcybeibd7w/WPUzuGRZBuI/AAAAAAAAFOQ/lhZwobJ9AQAb6oETFkl4zAY75m1oFwfrgCLcB/s1600/al_iraqya_2.png" group-title="رياضات",Iraqiya Sports
-https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/RTA_Afghanistan_Logo.svg/1200px-RTA_Afghanistan_Logo.svg.png" group-title="افغانستان",RTA News
 http://51.15.253.148/hls/stream.m3u8
@@ -121,6 +94,8 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.
 https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
 http://51.15.3.161:8080/LDC/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg"group-title="لبنان",MTV Lebanon
+http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="لبنان",Nour Sat
 https://svs.itworkscdn.net/nour4satlive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://noursat.tv/mediafiles/channels/shabab-logo.png" group-title="لبنان",Nour Sat Al Shabab
@@ -190,6 +165,18 @@ https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist_1080p
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="دولة قطر",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="رياضات",Al Kass Sports 1 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="رياضات",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="رياضات",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="رياضات",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C2rNnvXWQAAOHtz.jpg" group-title="رياضات",Al Kass Sports Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnline1arsbt/master.m3u8
+#EXTINF:-1 tvg-logo="https://baraem.tv/images/logo.png" group-title="رياضات",Baraem
+http://178.132.3.162:88/Baraem/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="السعودية",Al Saudiya
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
@@ -288,6 +275,14 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist_1080p.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/202022311591540MQ.png" group-title="ماراتيين",Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/202022311593025IL.png" group-title="ماراتيين",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/2020223115944993BD.png" group-title="ماراتيين",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231159595728K.png" group-title="ماراتيين",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231201493129.png" group-title="ماراتيين",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="ماراتيين",Alaan TV
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/2020223115838103WJ.png" group-title="ماراتيين",Al Emarat
@@ -300,6 +295,12 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1283_1.png" group-title="ماراتيين",Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/DubaiSports1.ae.png" group-title="ماراتيين",Dubai Sports 1
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/DubaiSports2.ae.png" group-title="ماراتيين",Dubai Sports 2
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/DubaiSports.png" group-title="ماراتيين",Dubai Sports 3
+http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://eamarmusic.com/wp-content/uploads/2019/03/logo.png" group-title="ماراتيين",Eamar Music
 http://82.212.74.3:8000/live/7514.m3u8
 #EXTINF:-1 tvg-logo="https://hawastv.com/wp-content/uploads/2019/06/logo.png" group-title="ماراتيين",Hawas TV
@@ -808,18 +809,19 @@ https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/chunklist.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-logo="http://www.turkmenelitv.com/images/logotextson.png"  group-title="Türkiye",Türkmeneli
 http://116.203.71.169/hls/stream1.m3u8
-
-#EXTINF:-1 tvg-logo="https://enflasyonlamucadele.org.tr/files/2018/10/Natural-Tv-150x150.png" group-title="Türkiye",Natural TV
+#EXTINF:-1 tvg-logo="https://naturaltv.com.tr/sites/default/files/naturaltv-logo.png" group-title="Türkiye",Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.wmtv.com.tr/img/logo.jpeg" group-title="Türkiye",Women TV
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.ucankus.com/images/ucankuslogo.png" group-title="Türkiye",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/v/vuslat_tv_logo.png" group-title="Türkiye",Vulsat TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/eb/9f/c4/eb9fc443126911cf0a1b5e71ce6996d0.jpg" group-title="Türkiye",Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/220px-Logo_Canal_Algerie.svg.png" group-title="الدزاير",Canal Algérie
+http://178.132.3.162:88/canal_algerie/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Algeria3.png" group-title="الدزاير",القناة الجزائرية الثالثة‎
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/ThalithaA3.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="الدزاير",Chaine Nord Africaine
@@ -905,6 +907,30 @@ http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvtolive.com/wp-content/uploads/Al-Fath-TV.tvtolive.com_.jpg" group-title="مَصر",Al Fath
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://ethnicchannels.com/images/channeldetail/alnahar/al-nahar-final.jpg" group-title="مَصر",Al Nahar
+http://178.132.3.162:88/Al_Nahar_Tv/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.1arablive.com/livetv/assets/images/1525633972.png" group-title="مَصر",Al Nahar Drama
+http://178.132.3.162:88/Al_Nahar_Drama/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/82/66/6f/82666f9f6eae1362ef903c515e13d30b.png" group-title="مَصر",Cairo Cinema
+http://178.132.3.162:88/Cairo_Cinema/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.wataan.com/uploads/24112016-094644PM.png" group-title="مَصر",Cairo Drama
+http://178.132.3.162:88/Cairo_Drama/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/cbc-sofra-assets/images/sofra-logo.png" group-title="مَصر",CBC Sofra
+http://178.132.3.162:88/CBC_Sofra/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://fomny.com/Video/Egypt/Cima/logo.gif" group-title="مَصر",Cima
+http://178.132.3.162:88/Cima/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/cinema.png" group-title="مَصر",Nile Cinema
+http://178.132.3.162:88/Nile_cinema/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/culture.png" group-title="مَصر",Nile Culture
+http://178.132.3.162:88/Nile_Culture/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/drama.png" group-title="مَصر",Nile Drama
+http://178.132.3.162:88/Nile_Drama/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/live.png" group-title="مَصر",Nile Life
+http://178.132.3.162:88/Nile_Life/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://www.niletc.tv/images/sport.png" group-title="مَصر",Nile Sport
+http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://nl7za.com/wp-content/uploads/2020/05/Frequency-Channel-Panorama-Drama-800x600.jpg" group-title="مَصر",Panorama Drama
+http://178.132.3.162:88/Panorama_Drama/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="مَصر",Elsharq
 http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="مَصر",MBC Masr
@@ -1145,6 +1171,8 @@ https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/63310_300x300" group-title="Tanazia",Tanazia Safari TV
 https://live-tanzaniasafari2020.cdnvideo.ru/tanzaniasafari2020/tanzaniasafari2020/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.hannibaltv.com.tn/static/fr/image/png/hannibaltv.png" group-title="تونس",Hannibal TV
+http://178.132.3.162:88/hannibal/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="تونس",Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tunisieimmobiliertv.net/wp-content/uploads/2016/11/logo-tunisie-immobilier-tv-1.png" group-title="تونس",Tunisie Immobilier
