@@ -620,7 +620,7 @@ rtmp://xiaoyu.speedws.com/sat/hk041
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png" group-title="粵語",南方衛視
 http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
-#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png group-title="粵語",南方國際
+#EXTINF:-1 tvg-logo="http://www.gdtv.cn/t/icon/201912/20191212173905zpXW.png" group-title="粵語",南方國際
 http://61.58.60.230:9319/live/228.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="粵語",陽光衛視
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
@@ -664,7 +664,7 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="臺灣",民視影剧
 http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_06.png group-title="臺灣",,民視综艺
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="臺灣",,民視综艺
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="臺灣",民視旅游
 http://seb.sason.top/ptv/ftv.php?id=ly
@@ -1101,7 +1101,7 @@ http://211.245.55.198:1024/m2u/239.192.69.112:49220
 #EXTINF:-1 tvg-logo="http://m.cpbc.co.kr/images/main_logo.png" group-title="한국",CPBC
 https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
 http://home.goodtv.co.kr/images/main/logo_goodtv.png
-#EXTINF:-1 tvg-logo="http://home.goodtv.co.kr/images/main/logo_goodtv.png group-title="한국"Good TV
+#EXTINF:-1 tvg-logo="http://home.goodtv.co.kr/images/main/logo_goodtv.png" group-title="한국"Good TV
 http://211.245.55.198:1024/m2u/239.192.69.139:49220
 #EXTINF:-1 tvg-logo="http://www.stb.co.kr/layouts/stb14608/image/stbmain/stblogo.png" group-title="한국",STB상생방송
 http://118.130.121.108:1935/live-stb/_definst_/0d93902639680f27e8fc524d3b292479ca6759f4f0e0a84f35f70fd6f5339332/playlist.m3u8
