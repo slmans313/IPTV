@@ -91,23 +91,23 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="电影",Sky Cinema Drama
+#EXTINF:-1 tvg-id="SCD.UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="电影",Sky Cinema Drama
 http://145.239.255.4:8080/SkyDrama/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="电影",Sky Cinema Action
+#EXTINF:-1 tvg-id="SCA.UK" tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="电影",Sky Cinema Action
 http://145.239.255.4:8080/M4M/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Movies-Comedy-UK.png" group-title="电影",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="SCC.UK" tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Movies-Comedy-UK.png" group-title="电影",Sky Cinema Comedy
 http://145.239.255.4:8080/SkyComedy/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesDisney.nz.png" group-title="电影",Sky Cinema Disney
+#EXTINF:-1 tvg-id="SDI.UK" tvg-logo="https://static.epg.best/nz/SkyMoviesDisney.nz.png" group-title="电影",Sky Cinema Disney
 http://145.239.255.4:8080/SkyDisney/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/nz/SkyMoviesPremiere.nz.png" group-title="电影",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="SCP.UK" tvg-logo="https://static.epg.best/nz/SkyMoviesPremiere.nz.png" group-title="电影",Sky Cinema Premiere
 http://145.239.255.4:8080/SkyPremiere/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="电影",Sony Movies Action
+#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="电影",Sony Movies Action
 http://145.239.255.4:8080/M4M/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="电影",Sony Movies
+#EXTINF:-1 tvg-id="SOM.UK" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="电影",Sony Movies
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="电影",Sony Movies Classic
+#EXTINF:-1 tvg-id="SMC.UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="电影",Sony Movies Classic
 http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="电影",TCM
+#EXTINF:-1 tvg-id="TCM.UK" tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="电影",TCM
 http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-ID="BT1.UK" tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="体育",BT Sports 1
