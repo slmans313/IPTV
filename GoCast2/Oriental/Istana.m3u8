@@ -352,8 +352,7 @@ https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cbn/primary.m3u8
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="Amerika",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="Amerika",Cartoon Network
-http://145.239.255.4:8080/CARUK/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="Amerika",CNBC
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="Amerika",CNBC
 http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="Amerika",Comedy Central
 http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
@@ -417,17 +416,17 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 https://y5w8j4a9.ssl.hwcdn.net/zlivingAmerika_r_prod/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
-http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
-http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UK",BBC News
-http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="UK",BBC Lifestyle
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="UK",CBS Reality
-http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
+http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/824.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="UK",CBBC
@@ -441,15 +440,15 @@ http://145.239.255.4:8080/ITV3/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV4
 http://145.239.255.4:8080/ITV4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
-http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
+http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="UK",More4
 http://145.239.255.4:8080/more4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="UK",E4
-http://145.239.255.4:8080/E4/mono.m3u8?token=test
+http://178.132.3.162:88/E4/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="UK",Film 4
-http://145.239.255.4:8080/en-Film4/mono.m3u8?token=test
+http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="UK",Channel 5 UK
-http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
+http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5Amerika_logo.svg/1200px-5Amerika_logo.svg.png" group-title="UK",5 Amerika
 http://145.239.255.4:8080/en-5Amerika/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="UK",5 Select
@@ -461,7 +460,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman/img/logo.png" group-title="UK",Eman
 https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="UK",Gold
-http://145.239.255.4:8080/gold/mono.m3u8?token=test
+http://178.132.3.162:88/Gold/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="UK",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="UK",Kerrang!
