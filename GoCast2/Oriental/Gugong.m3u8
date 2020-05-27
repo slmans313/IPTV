@@ -110,13 +110,13 @@ http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="电影",TCM
 http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="体育",BT Sports 1
+#EXTINF:-1 tvg-ID="BT1.UK" tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="体育",BT Sports 1
 http://live.highstream.club/live/BTSPORT1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="体育",BT Sports 2
+#EXTINF:-1 tvg-ID="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="体育",BT Sports 2
 http://live.highstream.club/live/BTSPORT2/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="体育",BT Sports 3
+#EXTINF:-1 tvg-ID="BT3.UK" tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="体育",BT Sports 3
 http://145.239.255.4:8080/bteurhd/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="体育",BT Sports ESPN
+#EXTINF:-1 tvg-ID="BTE.UK" tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="体育",BT Sports ESPN
 http://145.239.255.4:8080/espnhd/mono.m3u8?token=test
 #EXTINF:-1 tvg-ID="BS1.Asia" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育",beIN Sports 1
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
@@ -529,7 +529,6 @@ http://live.highstream.club/live/NHL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="美国",NFL Network
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 #EXTINF:-1 tvg-id="Peo.US" tvg-logo="http://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="美国",People TV
-#EXTINF:-1 tvg-id="Peo.US" tvg-logo="http://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="美国",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="美国",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
@@ -554,21 +553,21 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:-1 tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
+#EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
 http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国",BBC 2
+#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国",BBC 2
 http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="英国",BBC 4
+#EXTINF:-1 tvg-id="BB4.UK" tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="英国",BBC 4
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国",BBC News
+#EXTINF:-1 tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国",BBC News
 http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
 #EXTINF:-1 tvg-ID="Bbl.Asia" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国",BBC Lifestyle
 https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="英国",CBS Reality
 http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="英国",CBeebies
+#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="英国",CBeebies
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/824.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="英国",CBBC
+#EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="英国",CBBC
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/821.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
