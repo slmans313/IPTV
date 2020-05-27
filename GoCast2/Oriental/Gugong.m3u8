@@ -611,7 +611,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png" group-title="英国",Tiny Pop
 http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/POPMax.uk.png group-title="英国",POP Max
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="英国",POP Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="英国",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
@@ -619,9 +619,6 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://145.239.255.4:8080/SkyAtl/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="英国",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-
-#EXTINF:-1 tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="英国",Venus
-http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 
