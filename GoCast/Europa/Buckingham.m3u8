@@ -9,8 +9,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
-http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
@@ -555,8 +553,7 @@ http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png" group-title="Kids/Animation",Battery Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="Kids/Animation",Cartoon Network
-http://145.239.255.4:8080/CARUK/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/hu/DaVinciLearning.hu.png" group-title="Kids/Animation",Da Vinci Learning
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test#EXTINF:-1 tvg-logo="https://static.epg.best/hu/DaVinciLearning.hu.png" group-title="Kids/Animation",Da Vinci Learning
 https://cdnkbl2.useetv.com/joss/14/davinci/chunklist_w1416531044_b684100_sleng_enc=0az4ScumUDTAF1w_9xaPlw.m3u8
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Kids/Animation",Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -583,8 +580,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://live.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Learning",Discovery India
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Learning",Discovery UK
-http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Learning",Discovery USA
 http://live.highstream.club/live/DISCOVERY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="Learning",Discovery History
@@ -745,7 +740,7 @@ https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
-http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneNorthernIreland.uk.png" group-title="UK",BBC 1 Northern Ireland
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/810.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
@@ -753,7 +748,7 @@ http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/812.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
-http://145.239.255.4:8080/HDBBC2/mono.m3u8?token=test
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
 #EXTINF:-1 tvg-logo="https://jsat.tv/gallery/var/albums/TV%20Logos/bbc%202%20wales.png" group-title="UK",BBC 2 Wales
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/816.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947597829559799815/3EqyVekp_400x400.jpg" group-title="UK",BBC 2 Northern Ireland
@@ -762,16 +757,18 @@ http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/817.m3u8
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/818.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="UK",BBC Alba
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/828.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="UK",S4C
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/829.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/824.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies Asia
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="UK",CBBC
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/821.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="UK",BBC Alba
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/828.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="UK",S4C
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/829.m3u8
+#EXTINF:-1 tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="UK",CBS Reality
+http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="UK",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
@@ -786,20 +783,21 @@ http://145.239.255.4:8080/ITV3/mono.m3u8?token=test
 http://145.239.255.4:8080/ITV4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UK",ITV Box Office
 http://145.239.255.4:8080/itv-box-office/mono.m3u8?token=test
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
-http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
+http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="UK",Channel 5
-http://145.239.255.4:8080/en-Channel5HD/mono.m3u8?token=test
+http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="UK",E4
-http://145.239.255.4:8080/E4/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="英国",Film 4
-http://145.239.255.4:8080/en-Film4/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="英国",More4
+http://178.132.3.162:88/E4/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="UK",Film 4
+http://178.132.3.162:88/Film_4/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="UK",More4
 http://145.239.255.4:8080/more4/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="UK",5 Select
 http://145.239.255.4:8080/en-My5/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="英国",5 USA
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/5Star.uk.png" group-title="UK",5 Star
+http://178.132.3.162:88/5_star/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="UK",5 USA
 http://145.239.255.4:8080/en-5usa/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
@@ -818,7 +816,7 @@ https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.gemporia.com/images/og/fb.jpg" group-title="UK",Gemporia
 https://5e40ea2c72424.streamlock.net/abrgemporia/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="UK",Gold
-http://145.239.255.4:8080/gold/mono.m3u8?token=test
+http://178.132.3.162:88/Gold/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/IdealWorld.uk.png" group-title="UK",Ideal World
 http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/QVC.uk.png" group-title="UK",QVC
