@@ -60,6 +60,9 @@ Best collection of all china iptv list that has ever been released to the intern
 9. Hououinkami: https://github.com/hououinkami/AppleTV<br />
 Japanese/Japanophile who loves everything east asia. But his japanese links are recently screwed by encryption.<br />
 
+10. LaQuay: https://github.com/LaQuay/TDTChannels <br />
+Spain number one IPTV Resource <br />
+
 10. Webgrabplus: http://www.webgrabplus.com/<br />
 Mother of all non commerical epg making<br />
 
