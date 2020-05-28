@@ -129,7 +129,7 @@ http://145.239.255.4:8080/eir1hd/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/ie/EirSport2.ie.png" group-title="体育",Eir Sport 2
 http://145.239.255.4:8080/eir2hd/mono.m3u8?token=test
 #EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",Golf Channel
-http://live.highstream.club/live/Golf/playlist.m3u8
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 tvg-id="FS2.Asia"  tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2
@@ -561,10 +561,6 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qoseE0Y.png" group-title="澳洲",10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="NRK1" tvg-logo="https://i.imgur.com/CDuDuQ1.png" group-title="澳洲",NRK 1
-https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="澳洲",NBC GOLF
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="ACC.AU" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="澳洲",ACC
@@ -587,6 +583,18 @@ https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="澳洲",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Gem.au.png" group-title="澳洲",9 Gem(Aus VPN)
+https://9now-live.akamaized.net/hls/live/704980/gem-syd/master.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Go.au.png" group-title="澳洲",9 Go!(Aus VPN)
+https://9now-live.akamaized.net/hls/live/708938/go-syd/master.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Life.au.png" group-title="澳洲",9 Life(Aus VPN)
+https://9now-live.akamaized.net/hls/live/708945/life-syd/master.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="10M.AU" tvg-logo="https://static.epg.best/au/Channel10.au.png" group-title="澳洲",Channel 10
+https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="10P.AU" tvg-logo="https://static.epg.best/au/10Peach.au.png" group-title="澳洲",Peach
+https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="10B.AU" tvg-logo="https://static.epg.best/au/10Bold.au.png" group-title="澳洲",10 Bold
+https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="澳洲",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="MAO.NZ" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="澳洲",Maori Television
