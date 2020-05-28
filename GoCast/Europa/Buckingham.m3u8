@@ -649,7 +649,8 @@ http://yospace-cdn.networkten.com.au/video/sdten/master.m3u8|X-Forwarded-For=52.
 http://yospace-cdn.networkten.com.au/video/sd2atv/master.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/10Bold.au.png" group-title="Oceania",10 Bold(Aus VPN)
 http://yospace-cdn.networkten.com.au/video/oneten/master.m3u8|X-Forwarded-For=52.62.247.239
-
+#EXTINF:-1 tvg-ID="AUB.AU" tvg-logo="https://www.ausbiz.com.au/assets/logo.png" group-title="Oceania",ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="Oceania",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png" group-title="Oceania",Fox Sports 506
