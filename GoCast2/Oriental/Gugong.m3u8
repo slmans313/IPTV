@@ -587,36 +587,14 @@ https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
 https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="10B.AU" tvg-logo="https://static.epg.best/au/10Bold.au.png" group-title="澳洲",10 Bold
 https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Channel7AU_440x440.png?raw=true" group-title="澳洲",7 Adelaide (Geo-AU) 
-https://tbs.cdn.7livecloud.io/hls/live/ADE1/master_1500.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Channel7AU_440x440.png?raw=true" group-title="澳洲",7 Sydney (Geo-AU)
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master_1500.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="澳洲",CBS Sports HQ (Geo-USA)
-https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="澳洲",CBC Ottawa (GEO-CA)
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
-#EXTINF:-1 tvg-id="Arte Deutschland" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="澳洲",DE | ARTE
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="ServusTV Deutschland" tvg-logo="https://i.imgur.com/ADCiOHX.png" group-title="澳洲",DE | ServusTV
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="Servus TV" tvg-logo="https://i.imgur.com/B6QWXt3.jpg"group-title="澳洲",AT | Servus TV Österreich
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wbxjxXr.jpg" group-title="澳洲",IT | TV2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8|X-Forwarded-For=77.238.31.240
-#EXTINF:-1 tvg-id="DR1" tvg-logo="https://i.imgur.com/JALM2Ts.png" group-title="澳洲",DK | DR 1
-https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-id="DR2" tvg-logo="https://i.imgur.com/A7PoaeB.png" group-title="澳洲",DK | DR 2
-https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-id="NR2.NO" tvg-logo="https://static.epg.best/no/NRK2.no.png" group-title="澳洲",NRK 2
-https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8|X-Forwarded-For=5.249.230.1
-#EXTINF:-1 tvg-id="NR3.NO" tvg-logo="https://static.epg.best/no/NRK3.no.png" group-title="澳洲",NRK 3
-https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8|X-Forwarded-For=5.249.230.1
-#EXTINF:-1 tvg-id="DR Ramasjang" tvg-logo="https://i.imgur.com/FYmulOw.png" group-title="澳洲",DK | DR Ramasjang
-https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="澳洲",CA | ICI Tele Acadie
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="澳洲",CA | LA2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-logo="http://static.epg.best/at/ORF1.at.png" group-title="澳洲",ORF 1
+https://orf1.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8|X-Forwarded-For=93.82.18.55
+#EXTINF:-1 tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="澳洲",ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8|X-Forwarded-For=93.82.18.55
+#EXTINF:-1 tvg-logo="http://static.epg.best/at/ORF3.at.png" group-title="澳洲",ORF 3
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|X-Forwarded-For=93.82.18.55
+#EXTINF:-1 tvg-logo="http://static.epg.best/at/ORFSport.at.png" group-title="澳洲",ORF Sport+
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8|X-Forwarded-For=93.82.18.55
 
 #EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="澳洲",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
