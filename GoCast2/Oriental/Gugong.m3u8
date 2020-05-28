@@ -336,116 +336,48 @@ http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?channel-id=yst
 #EXTINF:-1 tvg-id="C17.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17 农业农村
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 
-#EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="韩国",Arirang
+#EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="韩国",阿里郎电视台
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="韩国",KBS 1
+#EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="韩国",韩国放送一频道
 http://211.245.55.198:1024/m2u/239.192.67.100:49220
-#EXTINF:-1 tvg-ID="KS2.KR" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="韩国",KBS 2
+#EXTINF:-1 tvg-ID="KS2.KR" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="韩国",韩国放送二频道
 http://211.245.55.198:1024/m2u/239.192.67.99:49220
-#EXTINF:-1 tvg-ID="KBD.KR" tvg-logo="https://static.epg.best/kr/KBSDrama.kr.png" group-title="韩国",KBS Drama
-http://211.245.55.198:1024/m2u/239.192.49.6:49220
-#EXTINF:-1 tvg-ID="KBJ.KR" tvg-logo="https://static.epg.best/kr/KBSJOY.kr.png" group-title="韩国",KBS Joy
-http://211.245.55.198:1024/m2u/239.192.56.6:49220
-#EXTINF:-1 tvg-ID="KBN.KR" tvg-logo="https://static.epg.best/kr/KBSNSports.kr.png" group-title="韩国",KBS N Sports
-http://211.245.55.198:1024/m2u/239.192.67.132:49220
-#EXTINF:-1 tvg-ID="KBK.KR" tvg-logo="https://static.epg.best/kr/KBSKids.kr.png" group-title="韩国",KBS Kids
-http://211.245.55.198:1024/m2u/239.192.58.9:49220
-#EXTINF:-1 tvg-ID="KBW.KR" tvg-logo="https://static.epg.best/kr/KBSW.kr.png" group-title="韩国",KBS W
-http://211.245.55.198:1024/m2u/239.192.57.8:49220
-#EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",KBS World
+#EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",韩国放送世界台
 https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
 
-#EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="韩国",MBC
+#EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="韩国",文化放送频道
 http://211.54.140.36/hdmi
-#EXTINF:-1 tvg-ID="MBO.KR" tvg-logo="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg" group-title="韩国",MBC On
-http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
-#EXTINF:-1 tvg-ID="MBE.KR" tvg-logo="https://static.epg.best/kr/MBCEvery1.kr.png" group-title="韩国",MBC Every1
-http://211.245.55.198:1024/m2u/239.192.50.6:49220
-#EXTINF:-1 tvg-ID="MBD.KR" tvg-logo="https://static.epg.best/kr/MBCDrama.kr.png" group-title="韩国",MBC Drama
-http://211.245.55.198:1024/m2u/239.192.48.6:49220
-#EXTINF:-1 tvg-ID="MS1.KR" tvg-logo="https://static.epg.best/kr/MBCSportsPlus.kr.png" group-title="韩国",MBC Sports+
-http://211.245.55.198:1024/m2u/239.192.59.3:49220
-#EXTINF:-1 tvg-ID="MS2.KR" tvg-logo="https://static.epg.best/kr/MBCSportsPlus2.kr.png" group-title="韩国",MBC Sports+ 2
-http://211.245.55.198:1024/m2u/239.192.48.7:49220
-#EXTINF:-1 tvg-ID="MBM.KR" tvg-logo="https://static.epg.best/kr/MBCMusic.kr.png" group-title="韩国",MBC Music
-http://211.245.55.198:1024/m2u/239.192.53.4:49220
-#EXTINF:-1 tvg-ID="MCN.KR" tvg-logo="https://static.epg.best/kr/MBCNet.kr.png" group-title="韩国",MBC NET
-http://211.245.55.198:1024/m2u/239.192.69.75:49220
-#EXTINF:-1 tvg-ID="MNE.KR" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="韩国",M-NET
-http://211.245.55.198:1024/m2u/239.192.48.5:49220
-
-#EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="韩国",SBS
+#EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="韩国",首尔放送
 http://211.245.55.198:1024/m2u/239.192.41.2:49220
-#EXTINF:-1 tvg-ID="SBP.KR" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="韩国",SBS Plus
-http://211.245.55.198:1024/m2u/239.192.49.7:49220
-#EXTINF:-1 tvg-ID="SBG.KR" tvg-logo="https://static.epg.best/kr/SBSGolf.kr.png" group-title="韩国",SBS Golf
-http://211.245.55.198:1024/m2u/239.192.67.164:49220
-#EXTINF:-1 tvg-ID="SBF.KR" tvg-logo="https://static.epg.best/kr/SBSfunE.kr.png" group-title="韩国",SBS Fun E
-http://211.245.55.198:1024/m2u/239.192.55.3:49220
-#EXTINF:-1 tvg-ID="SBM.KR" tvg-logo="https://static.epg.best/kr/SBSMTV.kr.png" group-title="韩国",SBS MTV
-http://211.245.55.198:1024/m2u/239.192.55.4:49220
-#EXTINF:-1 tvg-ID="SSP.KR" tvg-logo="https://static.epg.best/kr/SBSSports.kr.png" group-title="韩国",SBS Sports
-http://211.245.55.198:1024/m2u/239.192.67.130:49220
-#EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBSCNBC.kr.png" group-title="韩国",SBS CNBC
-http://211.245.55.198:1024/m2u/239.192.53.8:49220
-
-#EXTINF:-1 tvg-ID="OCN.KR" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="韩国",OCN
-http://211.245.55.198:1024/m2u/239.192.52.8:49220
-#EXTINF:-1 tvg-ID="OCM.KR" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147909947143853.png" group-title="韩国",OCN Movies
-http://211.245.55.198:1024/m2u/239.192.51.7:49220
-#EXTINF:-1 tvg-ID="OCT.KR" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147910638714018.png" group-title="韩国",OCN Thrill
-http://211.245.55.198:1024/m2u/239.192.53.9:49220
-#EXTINF:-1 tvg-ID="OLI.KR" tvg-logo="https://static.epg.best/kr/Olive.kr.png" group-title="韩国",Olive
-http://211.245.55.198:1024/m2u/239.192.58.10:49220
-
-#EXTINF:-1 tvg-ID="JB1.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="韩国",JTBC
-http://211.245.55.198:1024/m2u/239.192.58.7:49220
-#EXTINF:-1 tvg-ID="JBS.KR" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png" group-title="韩国",JTBC Golf Sports
-http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
-#EXTINF:-1 tvg-ID="JBG.KR" tvg-logo="http://image.jtbcgolf.joins.com/main/191218_h_top_logo.png" group-title="韩国",JTBC Golf
-http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
-#EXTINF:-1 tvg-ID="JB4.KR" tvg-logo="https://jtbc4.joins.com/images/common/logo.png" group-title="韩国",JTBC 4
-http://211.245.55.198:1024/m2u/239.192.69.171:49220
-
-#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN
-http://211.245.55.198:1024/m2u/239.192.53.7:49220
-#EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN Asia
-https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1444288074_b684100_sleng_enc=vI-VOMr6pl7P-P3lC5-68w.m3u8
-#EXTINF:-1 tvg-id="OTV.KR" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636422945132629057.png" group-title="韩国",O tvN
-http://211.245.55.198:1024/m2u/239.192.53.10:49220
-#EXTINF:-1 tvg-id="XTR.KR" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png" group-title="韩国",X tvN
-http://211.245.55.198:1024/m2u/239.192.57.6:49220
-
-#EXTINF:-1 tvg-id="EB1.KR" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png" group-title="韩国",EBS 1
-http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EB2.KR" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs2.png" group-title="韩国",EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EP1.KR" tvg-logo="https://static.epg.best/kr/EBSPlus1.kr.png" group-title="韩国",EBS+ 1
-http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-id="EP2.KR" tvg-logo="https://static.epg.best/kr/EBSPlus2.kr.png" group-title="韩国",EBS+ 2
-http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
-#EXTINF:-1 tvg-id="EBE.KR" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_03.png" group-title="韩国",EBSe
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBK.KR" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="韩国",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="EDL.KR" tvg-logo="http://image.edaily.co.kr/_common/edaily_family.png" group-title="韩国",이데일리TV
-http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KFN.KR" tvg-logo="http://dema.mil.kr/2019/images/logo.png" group-title="韩国",국방TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SCR.KR" tvg-logo="https://static.epg.best/kr/Screen.kr.png" group-title="韩国",Screen
-http://211.245.55.198:1024/m2u/239.192.67.229:49220
-#EXTINF:-1 tvg-id="OBS.KR" tvg-logo="https://static.epg.best/kr/OBS.kr.png" group-title="韩国",OBS
-http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="韩国",YTN
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="韩国",YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CHO.KR" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="韩国",TV Chosun
+#EXTINF:-1 tvg-id="CHO.KR" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="韩国",朝鲜放送
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist_w1467614923.m3u8
+#EXTINF:-1 tvg-id="OBS.KR" tvg-logo="https://static.epg.best/kr/OBS.kr.png" group-title="韩国",京仁电视台
+http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="MNE.KR" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="韩国",M-NET(韩国)
+http://211.245.55.198:1024/m2u/239.192.48.5:49220
+#EXTINF:-1 tvg-ID="OCN.KR" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="韩国",OCN(韩国)
+http://211.245.55.198:1024/m2u/239.192.52.8:49220
+#EXTINF:-1 tvg-ID="OLI.KR" tvg-logo="https://static.epg.best/kr/Olive.kr.png" group-title="韩国",Olive(韩国)
+http://211.245.55.198:1024/m2u/239.192.58.10:49220
+#EXTINF:-1 tvg-ID="SBM.KR" tvg-logo="https://static.epg.best/kr/SBSMTV.kr.png" group-title="韩国",SBS MTV(韩国)
+http://211.245.55.198:1024/m2u/239.192.55.4:49220
+#EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBSCNBC.kr.png" group-title="韩国",SBS CNBC(韩国)
+http://211.245.55.198:1024/m2u/239.192.53.8:49220
+#EXTINF:-1 tvg-ID="JB1.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="韩国",JTBC(韩国)
+http://211.245.55.198:1024/m2u/239.192.58.7:49220
+#EXTINF:-1 tvg-ID="JBS.KR" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png" group-title="韩国",JTBC Golf Sports(韩国)
+http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+#EXTINF:-1 tvg-ID="JBG.KR" tvg-logo="http://image.jtbcgolf.joins.com/main/191218_h_top_logo.png" group-title="韩国",JTBC Golf(韩国)
+http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN(韩国)
+http://211.245.55.198:1024/m2u/239.192.53.7:49220
+#EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN Asia(韩国)
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1444288074_b684100_sleng_enc=vI-VOMr6pl7P-P3lC5-68w.m3u8
+#EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="韩国",YTN(韩国)
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="韩国",YTN Science(韩国)
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="日本",NHK综合频道
 http://203.162.235.41:16903
@@ -459,31 +391,20 @@ https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_w123540726_b1344100_sleng
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
 #EXTINF:-1 tvg-id="BSP.JP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK卫星收费频道
 http://203.162.235.41:16910
-
 #EXTINF:-1 tvg-id="ASH.JP" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="日本",朝日电视
 http://203.162.235.41:16906
-#EXTINF:-1 tvg-id="BSA.JP" tvg-logo="https://www.bs-asahi.co.jp/wordpress/wp-content/themes/bs-master/img/no_image.png" group-title="日本",朝日卫星频道
-http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 #EXTINF:-1 tvg-id="TOK.JP" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="日本",东京电视台
 http://203.162.235.41:16908
-#EXTINF:-1 tvg-id="BST.JP" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg" group-title="日本",东京卫星频道
-http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBS电视台
 http://203.162.235.41:16907
 #EXTINF:-1 tvg-id="TBN.JP" tvg-logo="https://static.epg.best/jp/TBSNews.jp.png" group-title="日本",TBS 新闻网
 https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
-#EXTINF:-1 tvg-id="BTB.JP" tvg-logo="https://static.epg.best/jp/BSTBS.jp.png" group-title="日本",TBS卫星频道
-http://220.158.149.28:8180/live/TV00000000000000000074@HHZT
 #EXTINF:-1 tvg-id="FUJ.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png" group-title="日本",富士电视台
 http://203.162.235.41:16904
-#EXTINF:-1 tvg-id="BSF.JP" tvg-logo="https://www.bsfuji.tv/top/common/img/head_logo.png" group-title="日本",富士卫星频道
-http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
 #EXTINF:-1 tvg-id="NIP.JP" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日本",日本电视台
 http://203.162.235.41:16905
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日本",日本有线新闻
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-id="BSN.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日本",日本卫星频道
-http://203.162.235.41:16912
 
 #EXTINF:-1 tvg-id="GEM.Asia" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small.png" group-title="日本",GEM
 https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w224064980_b894100_sleng_enc=_TD_RvnI46_ZfLjU644FrQ.m3u8
