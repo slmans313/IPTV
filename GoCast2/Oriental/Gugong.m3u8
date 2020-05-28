@@ -79,6 +79,38 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",凤凰资讯
 http://live.centerch.com/fhzx.m3u8
 
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",DDD
+https://mcdn.daserste.de/daserste/de/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",ZDF HD
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",ZDFneo
+https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",ZDF Info
+https://zdfhls17-i.akamaihd.net/hls/live/744750/de/5/5.m3u8/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",ZDF KiKa
+https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",Phoenix
+https://zdfhls19-i.akamaihd.net/hls/live/744752/de/5/5.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",3SAT
+https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",ONE
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",ADR
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",BR
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=91.197.29.78
+
 #EXTINF:-1 tvg-ID="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-ID="FXM.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
