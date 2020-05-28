@@ -758,15 +758,15 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="印度精选",MH1 Prime
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲精选",France 2
+#EXTINF:-1 tvg-ID="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲精选",France 2
 http://178.132.3.162:88/france2/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",France 3
+#EXTINF:-1 tvg-ID="FR2.FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",France 3
 http://178.132.3.162:88/france3/index.m3u8?token=test
-#EXTINF:-1 tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",TV5 Monde Asie
+#EXTINF:-1 tvg-ID="TF1.FR" tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="欧洲精选",BFM 
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲精选",TF1
+#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲精选",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="欧洲精选",TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
@@ -797,22 +797,22 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="欧洲精选",Telecinco 
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲精选",Rai 1
+#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲精选",Rai 1
 http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲精选",Rai 2
+#EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲精选",Rai 2
 http://5.135.92.133:52841/out/u/452_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="欧洲精选",Rai YoYo
+#EXTINF:-1 tvg-id="RAY.IT"  tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="欧洲精选",Rai YoYo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="欧洲精选",Canale 5
+#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="欧洲精选",Canale 5
 http://5.135.92.133:52841/out/u/425_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="欧洲精选",Italia 1
+#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="欧洲精选",Italia 1
 http://5.135.92.133:52841/out/u/53_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="欧洲精选",LA 7
+#EXTINF:-1 tvg-id="LA7.IT" tvg-logo="https://static.epg.best/it/La7.it.png" group-title="欧洲精选",LA 7
 http://5.135.92.133:52841/out/u/101_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="欧洲精选",RTP 3
+#EXTINF:-1 tvg-id="RT3.IT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="欧洲精选",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="欧洲精选",RTP Internacional
+#EXTINF:-1 tvg-id="RT3.IT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="欧洲精选",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
