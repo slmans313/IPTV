@@ -453,14 +453,14 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_w123540726_b1344100_sleng_enc=FjUiToUzI4n4ys9_IOUjIw.m3u8
 #EXTINF:-1 tvg-id="BS1.JP" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_nhkbs1.jpg" group-title="日本",NHK BS1
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK BSプレミアム
+#EXTINF:-1 tvg-id="BSP.JP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK BSプレミアム
 http://203.162.235.41:16910
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="日本",NHK総合
+#EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="日本",NHK総合
 http://203.162.235.41:16903
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本",NHK Eテレ
+#EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本",NHK Eテレ
 http://203.162.235.41:16901
 
-#EXTINF:-1 tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBSテレビ
+#EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBSテレビ
 http://203.162.235.41:16907
 #EXTINF:-1 tvg-id="BTB.JP" tvg-logo="https://static.epg.best/jp/BSTBS.jp.png" group-title="日本",BS-TBS
 http://220.158.149.28:8180/live/TV00000000000000000074@HHZT
