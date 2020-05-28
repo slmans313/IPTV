@@ -213,16 +213,6 @@ https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Bahasa Arab",Al Aan
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="Bahasa Arab",IRIB 1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="Bahasa Arab",IRIB 3 
-https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="Bahasa Arab",IRIB Varzesh
-https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
-#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif" group-title="Bahasa Arab",GEM TV
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg" group-title="Bahasa Arab",GEM Drama
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="Bahasa Arab",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="Bahasa Arab",ATV
@@ -233,21 +223,7 @@ https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Bahasa Arab",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Bahasa Arab",כאן11
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/il/KanHinuchit.il.png" group-title="Bahasa Arab",חינוכית
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/il/Makan33.il.png" group-title="Bahasa Arab",مكان
-https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.mako.co.il/2019/11/19/24logowhite_I_reduced.jpg" group-title="Bahasa Arab",ערוץ 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="Bahasa Arab",רשת 13
-https://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13_1200.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/il/Channel20.il.png" group-title="Bahasa Arab",ערוץ 20
-https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
 
-#EXTINF:-1 tvg-id="3 HD-TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Asia",ดูทีวีสีช่อง 3
-http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ช่อง 5/CH 5-TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="Asia",ช่อง 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-id="7 HD-TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Asia",ช่อง 7
