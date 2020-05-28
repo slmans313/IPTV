@@ -76,6 +76,8 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="新闻",土耳其广播国际频道
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="新闻",凤凰资讯
+http://live.centerch.com/fhzx.m3u8
 
 #EXTINF:-1 tvg-ID="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
@@ -189,12 +191,10 @@ http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 #EXTINF:-1 tvg-id="XHP.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_xing_he_channel.png" group-title="香港",TVB 星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-#EXTINF:-1 tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="香港",凤凰香港
-http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="香港",凤凰资讯
-http://live.centerch.com/fhzx.m3u8
 #EXTINF:-1 tvg-id="FHW.CN" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="香港",凤凰中文
 http://live.centerch.com/fhzw.m3u8
+#EXTINF:-1 tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="香港",凤凰香港
+http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="CHV.HK" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="香港",Channel [V]
 https://www.fanmingming.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
