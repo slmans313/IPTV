@@ -648,24 +648,26 @@ http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 tvg-logo="https://greektv.upg.gr/img/imageslow/tilemousiki.jpg" group-title="Ελλάδα",Greek Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
-http://84.41.117.102:8080/WeCast1_live_task_node_config_75/1/profile1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",One
-http://84.41.117.102:8080/WeCast1_live_task_node_config_78/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/300px-ARD_alpha.svg.png" group-title="Deutschland",ADR Alpha
-http://84.41.117.102:8080/WeCast1_live_task_node_config_76/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDF.de.png" group-title="Deutschland",ZDF
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",One
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="ADR.DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/300px-ARD_alpha.svg.png" group-title="Deutschland",ADR Alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="ZDF.DE" tvg-logo="http://static.epg.best/de/ZDF.de.png" group-title="Deutschland",ZDF
 http://81.171.21.159:4780/zdfhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDFneo.de.png" group-title="Deutschland",ZDF Neo
+#EXTINF:-1 tvg-id="ZDN.DE" tvg-logo="http://static.epg.best/de/ZDFneo.de.png" group-title="Deutschland",ZDF Neo
 http://cdn.ch01.spr24.net:81/887/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDFinfo.de.png" group-title="Deutschland",ZDF Info
+#EXTINF:-1 tvg-id="ZDI.DE" tvg-logo="http://static.epg.best/de/ZDFinfo.de.png" group-title="Deutschland",ZDF Info
 http://cdn.ch01.spr24.net:81/825/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-id="ART.DE" tvg-logo="https://i.imgur.com/xXRYZd6.png"  group-title="Deutschland",Arte Deutsch
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-logo="http://static.epg.best/at/3sat.at.png" group-title="Deutschland",3 Sat
-http://cdn.ch01.spr24.net:81/816/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="Deutschland",Kika
-http://178.132.3.162:88/KIKA/video.m3u8?token=test
+#EXTINF:-1 tvg-id="3SA.DE"  tvg-logo="http://static.epg.best/at/3sat.at.png" group-title="Deutschland",3 Sat
+https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="BRF.DE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="Deutschland",BR Fernsehen Süd
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="Deutschland",Kika
+https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="http://static.epg.best/ee/DisneyChannel.ee.png" group-title="Deutschland",Disney Deutsch
 http://cdn.ch01.spr24.net:81/818/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle 
@@ -692,11 +694,11 @@ https://wer1.wertvlive.com/d1/video.m3u8
 http://31.19.239.146:9981/stream/channelid/2026829528
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="Deutschland",RTL
+#EXTINF:-1 tvg-id="RTL.DE" tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="Deutschland",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/RTL2.de.png" group-title="Deutschland",RTL Zwei
+#EXTINF:-1 tvg-id="RT2.DE" tvg-logo="http://static.epg.best/de/RTL2.de.png" group-title="Deutschland",RTL Zwei
 http://5.135.92.133:52841/out/u/119_1.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/RTLNitro.de.png" group-title="Deutschland",RTL Nitro
+#EXTINF:-1 tvg-id="RTN.DE" tvg-logo="http://static.epg.best/de/RTLNitro.de.png" group-title="Deutschland",RTL Nitro
 http://137.74.203.67:4780/nitro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sport-1-Logo%2C_2013.svg/300px-Sport-1-Logo%2C_2013.svg.png" group-title="Deutschland",Sport 1
 https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8
@@ -706,7 +708,7 @@ http://178.132.3.162:88/SAT_1/video.m3u8?token=test
 http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/sixx.de.png" group-title="Deutschland",Sixx
 http://81.171.21.159:4780/sixx/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
+#EXTINF:-1 tvg-id="SRT.DE" tvg-logo="http://static.epg.best/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
 http://5.135.92.133:52841/out/u/127_1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TVRus.png" group-title="Deutschland",TV Rus
 https://bemtv.parom.tv/hls/stream274/stream0.m3u8
@@ -716,10 +718,16 @@ http://bemtv.parom.tv/hls/stream329/stream0.m3u8
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/SkySportNews.de.png" group-title="Deutschland",Sky Sports News Deutsch(Deutsch VPN)
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="Deutschland",VOX
+#EXTINF:-1 tvg-id="VOX.DE" tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="Deutschland",VOX
 http://5.135.92.133:52841/out/u/123_1.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/WDR.de.png" group-title="Deutschland",WDR Fernsehen
+#EXTINF:-1 tvg-id="DRF.DE" tvg-logo="http://drf-tv.de/media/tv_group/images_21/img_1/works/Druck_DRF1_246pxfw.png" group-title="Deutschland",DRF 1
+http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="MDF.DE" tvg-logo="http://www.hms-dev.com/images/logos/references/mdf1_rbw.png" group-title="Deutschland",MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR.DE" tvg-logo="http://static.epg.best/de/WDR.de.png" group-title="Deutschland",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="WEL.DE" tvg-logo="https://static.epg.best/de/Welt.de.png" group-title="新闻",WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
 
 #EXTINF:-1 tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Deutschland",Alex Berlin TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
@@ -731,16 +739,12 @@ https://vipottbpkstream.vip.hr/Content/a1-hls-vmx/Live/Channel(A1_Now_HD)/index.
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="Deutschland",BLK TV
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Deutschland",BR Fernsehen Süd
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Deutschland",Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png" group-title="Deutschland",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png" group-title="Deutschland",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://drf-tv.de/media/tv_group/images_21/img_1/works/Druck_DRF1_246pxfw.png" group-title="Deutschland",DRF 1
-http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="Deutschland",Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 #EXTINF:-1 tvg-logo="http://eotv.de/wp-content/uploads/2015/12/Cranberry-Logo.png" group-title="Deutschland",eoTV
@@ -765,8 +769,6 @@ http://bemtv.parom.tv/hls/stream328/stream0.m3u8
 http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png" group-title="Deutschland",L-TV
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hms-dev.com/images/logos/references/mdf1_rbw.png" group-title="Deutschland",MDF.1
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="Deutschland",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.main.tv/wp-content/themes/main-tv/img/maintv_media_logo_Web.png" group-title="Deutschland",Main TV 1
