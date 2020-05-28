@@ -91,8 +91,16 @@ https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1 tvg-logo="http://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2019/11/60h-BAY-white-stacked.png" group-title="USA/Canada",CBSN Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/CBCOttawa.ca.png" group-title="USA/Canada",CBC News
+#EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="USA/Canada",CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="USA/Canada",CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.20
+#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="USA/Canada",CBC Ottawa
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
+#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="USA/Canada",CBC Quebec
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8|X-Forwarded-For=24.37.42.20
+#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="USA/Canada",CBC Ontario
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
 #EXTINF:-1 tvg-logo="http://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="USA/Canada",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/us/CoziTV.us.png" group-title="USA/Canada",Cozi West Virginia(WZTS)
@@ -155,13 +163,38 @@ https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele
+#EXTINF:-1 tvg-id="ICI.CA"  tvg-logo="http://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/6d56dcba66d14b58451695b0871f9ac8/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="USA/Canada",ICI RDI
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Acadie
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Ontario
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Ottawa-Gatineau
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Quebec
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Saguenay
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Saskatchewan
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Mauricie
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Manitoba
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Estrie
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Est-Quebec
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele CB-Yukon
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="USA/Canada",ICI Tele Alberta
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="USA/Canada",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://ofm6z46z825qpxk83fa00q1a-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/200217-MSV-Website-Photo-Refresh-v3-1.png" group-title="USA/Canada",Its Supernatural Network
 http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/index_1728_av-p.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-90359.png" group-title=USA/Canada",Justice Network New Jersey(WMGM)
 https://v-pi.mybtv.net/event/65.3/768x432?start_time=0&end_time=2029&env=prd&uid=29375
