@@ -559,6 +559,12 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:-1 tvg-id="RTN.IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qoseE0Y.png" group-title="澳洲",10
+https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-id="NRK1" tvg-logo="https://i.imgur.com/CDuDuQ1.png" group-title="澳洲",NRK 1
+https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="澳洲",NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="ACC.AU" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="澳洲",ACC
