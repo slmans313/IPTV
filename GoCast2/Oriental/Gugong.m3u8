@@ -745,14 +745,15 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="欧洲精选",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDF.de.png" group-title="欧洲精选",ZDF
+http://81.171.21.159:4780/zdfhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="欧洲精选",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/SuperRTL.de.png" group-title="欧洲精选",Super RTL
 http://5.135.92.133:52841/out/u/127_1.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="欧洲精选",Vox
 http://5.135.92.133:52841/out/u/123_1.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="欧洲精选",DW Deutsche
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+
 
 #EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="欧洲精选",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
