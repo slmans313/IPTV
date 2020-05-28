@@ -140,13 +140,13 @@ http://alb.123alb.com:25461/live/l/l/2146.m3u8
 http://95.107.199.18:8000/play/TVJOHANITER/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/at/ORF1.at.png" group-title="Österreich",ORF 1
-https://orf1.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+https://orf1.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:-1 tvg-logo="http://static.epg.best/at/ORF2.at.png" group-title="Österreich",ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:-1 tvg-logo="http://static.epg.best/at/ORF3.at.png" group-title="Österreich",ORF 3 (Österreich VPN)
-https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:-1 tvg-logo="http://static.epg.best/at/ORFSport.at.png" group-title="Österreich",ORF Sport+
-https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:-1 tvg-logo="http://www.dorftv.at/sites/default/themes/dorftv_omega/logo.png" group-title="Österreich",dorf
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6f/FS1_Logo_with_Claim_%282012%29.jpg" group-title="Österreich",FS1 Salzburg
@@ -156,6 +156,8 @@ https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m4tv.at/pix/logo0.png" group-title="Österreich",M4 Mostviertelfernsehen
 rtmp://streaming.austria24.tv/live/mp4:stream_720p
+#EXTINF:-1 tvg-id="SER.AT" tvg-logo="https://static.epg.best/at/ServusTV.at.png" group-title="Deutschland",Servus TV Österreich
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/1964f48edf41fbf4d88c83de4bd0543b.jpeg" group-title="Österreich",RTS
 https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/500px-Logo-gotv-2004.svg_.png" group-title="Österreich",Go TV
@@ -350,6 +352,12 @@ http://92.62.234.233/slagr2.m3u#.m3u8
 #EXTINF:-1 tvg-logo="http://i.iinfo.cz/images/409/v1-vychodoceska-televize-1.jpg" group-title="Česká",Východočeská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="Danmark",DR 1
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-id="DR2.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="Danmark",DR 2
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-id="DRR.DK" tvg-logo="https://static.epg.best/dk/DRRamasjang.dk.png" group-title="Danmark",DR Ramasjang
+https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/KKR-TV-webtvonlive-com.jpg" group-title="Danmark",KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://osterbroantenneforening.dk/images/tvlogo/Kanal_Hovedstaden.png" group-title="Danmark",Kanal Hovedstaden
@@ -652,8 +660,8 @@ http://81.171.21.159:4780/zdfhd/index.m3u8
 http://cdn.ch01.spr24.net:81/887/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/ZDFinfo.de.png" group-title="Deutschland",ZDF Info
 http://cdn.ch01.spr24.net:81/825/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 tvg-logo="http://static.epg.best/fr/ARTE.fr.png" group-title="Deutschland",Arte Deutsch
-http://84.41.117.102:8080/WeCast1_live_task_node_config_7/1/playlist.m3u8
+#EXTINF:-1 tvg-id="ART.DE" tvg-logo="https://i.imgur.com/xXRYZd6.png"  group-title="Deutschland",Arte Deutsch
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="http://static.epg.best/at/3sat.at.png" group-title="Deutschland",3 Sat
 http://cdn.ch01.spr24.net:81/816/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="Deutschland",Kika
@@ -704,6 +712,8 @@ http://5.135.92.133:52841/out/u/127_1.m3u8
 https://bemtv.parom.tv/hls/stream274/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://n-w.tv/wp-content/themes/nmtv_new/img/logo_28-10-2019.png" group-title="Deutschland",KНовый мир
 http://bemtv.parom.tv/hls/stream329/stream0.m3u8
+#EXTINF:-1 tvg-id="SER.DE" tvg-logo="https://static.epg.best/at/ServusTV.at.png" group-title="Deutschland",Servus TV Deutschland
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/SkySportNews.de.png" group-title="Deutschland",Sky Sports News Deutsch(Deutsch VPN)
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="Deutschland",VOX
