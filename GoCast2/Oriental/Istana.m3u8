@@ -199,30 +199,34 @@ http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="Filem",TCM
 http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Bahasa Arab",القرآن الكريم
+#EXTINF:-1 tvg-id="MAK.SA"  tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Bahasa Arab",Makkah TV
 http://playlive.goonj.pk/makkahweb_480p/index.m3u8
-#EXTINF:-1 tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Bahasa Arab",السنة النبوية
+#EXTINF:-1 tvg-id="MED.SA"  tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Bahasa Arab",Medina TV
 http://playlive.goonj.pk/madinaweb_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Bahasa Arab",MBC 1
+#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Bahasa Arab",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="Bahasa Arab",MBC 4
+#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="Bahasa Arab",MBC 4
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Bahasa Arab",MBC Masr
+#EXTINF:-1 tvg-id="MBC.EG" tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Bahasa Arab",MBC Masr
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="Bahasa Arab",Abu Dhabi Al Oula
+#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="Bahasa Arab",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Bahasa Arab",Al Aan
+#EXTINF:-1 tvg-id="AAA.AE" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Bahasa Arab",Al Aan
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="Bahasa Arab",TRT 1
+#EXTINF:-1 tvg-id="33.IL" tvg-logo="https://static.epg.best/il/Makan33.il.png" group-title="Bahasa Arab",Makan 33
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="Bahasa Turki",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="Bahasa Arab",ATV
+#EXTINF:-1 tvg-id="ATV.TR" tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="Bahasa Turki",ATV
 http://tv.kuzeytv.com/hls/atv.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="Bahasa Arab",Star
+#EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="Bahasa Turki",Star
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="Bahasa Arab",Show
+#EXTINF:-1 tvg-id="SHW.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="Bahasa Turki",Show
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Bahasa Arab",Kanal D
+#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Bahasa Turki",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="Asia",ช่อง 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
