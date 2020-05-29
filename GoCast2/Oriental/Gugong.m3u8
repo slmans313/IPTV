@@ -1,11 +1,11 @@
 #EXTM3U
 
 EXTINF:-1 tvg-logo=" group-title="Europe",w
-https://svt1-b.akamaized.net/se/svt1/master.m3u8|X-Forwarded-For=5.133.207.84
+https://svt1-b.akamaized.net/se/svt1/master.m3u8|X-Forwarded-For=194.15.212.134
 EXTINF:-1 tvg-logo=" group-title="Europe",l
-https://svt2-b.akamaized.net/se/svt2/master.m3u8|X-Forwarded-For=5.133.207.84
+https://svt2-b.akamaized.net/se/svt2/master.m3u8|X-Forwarded-For=194.15.212.134
 EXTINF:-1 tvg-logo=" group-title="Europe",ll
-https://svtb-a.akamaized.net/se/svtb/master.m3u8|X-Forwarded-For=5.133.207.84
+https://svtb-a.akamaized.net/se/svtb/master.m3u8|X-Forwarded-For=194.15.212.134
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -423,7 +423,7 @@ http://live.highstream.club/live/AE/playlist.m3u8
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-ID="AET.US" tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="美国",Boomerang
 http://145.239.255.4:8080/BOO/mono.m3u8?token=test
-#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="美国",CBC Ottawa
+#EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="美国",CBC
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
 #EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="美国",CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
