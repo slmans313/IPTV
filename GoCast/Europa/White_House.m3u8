@@ -14,7 +14,7 @@ https://e7.cdn4.us/ingest666/accn.m3u8|Referer=https://sportsbay.org/embed/50008
 http://live.fadev.club/live/AE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.datocms-assets.com/14027/1574124139-afvsundaysabc-5400x3616.png" group-title="USA/Canada",AFV!
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="USA/Canada",AHC
+#EXTINF:-1 tvg-id="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="USA/Canada",AHC
 http://live.highstream.club/live/AHC/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="USA/Canada",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
@@ -36,7 +36,7 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
 #EXTINF:-1 tvg-id="BTN.US" tvg-logo="https://static.epg.best/us/BigTenNetwork.us.png" group-title="USA/Canada",BTN
 https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://sportsbay.org/embed/45629/1/btn-big-ten-network-live.html
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" group-title="USA/Canada",BBC America
+#EXTINF:-1 tvg-id="BBA.US" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" group-title="USA/Canada",BBC America
 http://live.highstream.club/live/BBCAmerica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="USA/Canada",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
@@ -57,6 +57,8 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="USA/Canada",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/CTVSciFi.ca.png group-title="USA/Canada",CTV Sci-Fi
+http://live.highstream.club/live/Space/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
 http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
@@ -172,7 +174,7 @@ http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="USA/Canada",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/Stadium.us.png" group-title="USA/Canada",Stadium
+#EXTINF:-1 tvg-ID="STA.US" tvg-logo="http://static.epg.best/us/Stadium.us.png" group-title="USA/Canada",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/NHLNetwork.us.png" group-title="USA/Canada",NHL Network
 http://live.highstream.club/live/NHL/playlist.m3u8
@@ -181,9 +183,6 @@ https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="USA/Canada",MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
-
-
-
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="USA/Canada",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-81915.png" group-title="USA/Canada",getTV
@@ -191,7 +190,7 @@ https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000
 #EXTINF:-1 tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png" group-title="USA/Canada",GOD TV
 https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/Hallmark.us.png" group-title="USA/Canada",Hallmark Channel
+#EXTINF:-1 tvg-id="HAL.US" tvg-logo="https://static.epg.best/us/Hallmark.us.png" group-title="USA/Canada",Hallmark Channel
 http://live.highstream.club/live/Hallmark/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22705/horizon-sports/logo_20191213_000421.png" group-title="USA/Canada",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
@@ -254,14 +253,14 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306885/images/logog.png" group-title="USA/Canada",Law & Crime Trial
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png" group-title=USA/Canada",Lifetime
+#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png" group-title="USA/Canada",Lifetime
 http://live.highstream.club/live/Lifetime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/LonghornNetwork.us.png" group-title=USA/Canada",Longhorn Network
+#EXTINF:-1 tvg-id="LHN.US" tvg-logo="https://static.epg.best/us/LonghornNetwork.us.png" group-title="USA/Canada",Longhorn Network
 http://live.highstream.club/live/lghl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USA/Canada",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/MadisonSquareGarden.us.png" group-title="USA/Canada",MSG
+#EXTINF:-1 tvg-id="MSG.US" tvg-logo="https://static.epg.best/us/MadisonSquareGarden.us.png" group-title="USA/Canada",MSG
 http://live.highstream.club/live/MSG/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png" group-title="USA/Canada",MyNetwork Texas (KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
@@ -294,7 +293,7 @@ http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2019/10/OANtoplogo.jpg" group-title="USA/Canada",OAN Encore
 https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="USA/Canada",OWN
+#EXTINF:-1 tvg-id="OWN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="USA/Canada",OWN
 http://live.highstream.club/live/OWN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/784137001633132545/e-Muo-mT.jpg" group-title="USA/Canada",Pac-12 Plus
@@ -309,16 +308,17 @@ http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Stirr_logo%2C_black_on_yellow.jpg" group-title="USA/Canada",Stirr
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="USA/Canada",Syfy
+#EXTINF:-1 tvg-id="SYF.US" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="USA/Canada",Syfy
 http://live.highstream.club/live/Syfy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="USA/Canada",Showtime
+#EXTINF:-1 tvg-id="SHW.US" tvg-logo="https://static.epg.best/us/Showtime.us.png" group-title="USA/Canada",Showtime
 http://live.highstream.club/live/SHOWTIME/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" group-title="USA/Canada",Smithsonian Channel
 http://live.highstream.club/live/Smithsonian/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sny.tv/dist/images/sny_logo.png" group-title="USA/Canada",SNY
+#EXTINF:-1 tvg-ID="SNY.US" tvg-logo="https://www.sny.tv/dist/images/sny_logo.png" group-title="USA/Canada",SNY
 http://live.highstream.club/live/SNY/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pa/SpaceLatinAmerica.png" group-title="USA/Canada",CTV Sci-Fi
-http://live.highstream.club/live/Space/playlist.m3u8
+#EXTINF:-1 tvg-ID="SPY.US" tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="USA/Canada",Spydar TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/q5aMNGZchcP92L00_G13E1zk-dpb2EP4TZj560h2oBEN0A4rNMM88cG-zF6eD2j6hClHyrMxro-8" group-title="USA/Canada",Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
@@ -363,7 +363,7 @@ https://v-pi.mybtv.net/event/44.1/1280x720?start_time=0&end_time=2026&env=prd&ui
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA/Canada",WSVI-TV (Virgin Islands)
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/YESNetwork.us.png" group-title="USA/Canada",YES Network
+#EXTINF:-1 tvg-ID="YES.US" tvg-logo="https://static.epg.best/us/YESNetwork.us.png" group-title="USA/Canada",YES Network
 http://live.highstream.club/live/YES/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ytatv.com/wp-content/uploads/2020/01/YTA-LOGO-2.png" group-title="USA/Canada",Youtoo America
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
