@@ -269,18 +269,16 @@ http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="മലയാളം",Kaumudy
 https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="اردو",92 News
+#EXTINF:-1 tvg-id="92N.PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="اردو",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="اردو",Hum
-http://95.211.211.168/live/humtv0066/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="اردو",Venus
+#EXTINF:-1 tvg-id="ARY.PK" tvg-logo="https://arydigital.tv/wp-content/uploads/2019/06/digital-logo.gif" group-title="اردو",ARY Digital
+https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+#EXTINF:-1 tvg-id="BRM.UK" tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="اردو",British Muslim
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 tvg-id="VEN.PK" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="اردو",Venus
 http://45.77.90.56:8080/hls/mystream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png" group-title="اردو",Geo TV
-http://playlive.goonj.pk/geoentsweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="اردو",PTV Global
+#EXTINF:-1 tvg-id="PTV.PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="اردو",PTV Global
 https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/HumMasala.pk.png" group-title="اردو",Hum Masala
-https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Middle East",القرآن الكريم
 http://playlive.goonj.pk/makkahweb_480p/index.m3u8
@@ -296,16 +294,6 @@ https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Middle East",Al Aan
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="Middle East",IRIB 1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="Middle East",IRIB 3 
-https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="Middle East",IRIB Varzesh
-https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif" group-title="Middle East",GEM TV
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg" group-title="Middle East",GEM Drama
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trt1.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trt1_logo.png" group-title="Middle East",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="Middle East",ATV
@@ -464,8 +452,6 @@ http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 http://145.239.255.4:8080/en-5usa/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="UK",5 Select
 http://145.239.255.4:8080/en-My5/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK",British Muslim
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman/img/logo.png" group-title="UK",Eman
