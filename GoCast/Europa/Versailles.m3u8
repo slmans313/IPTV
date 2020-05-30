@@ -22,14 +22,15 @@ http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
 http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
 http://95.107.132.131:3344/udp/238.20.15.4:9009
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria/Kosovës",RTK 1
-http://5.135.92.133:52841/out/u/327_1.m3u8
+http://176.31.74.161:8081/live/rtk1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Shqipëria/Kosovës",RTK 2
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+http://176.31.74.161:8081/live/rtk2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria/Kosovës",RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+http://176.31.74.161:8081/live/rtk3/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk4.png" group-title="Shqipëria/Kosovës",RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+http://176.31.74.161:8081/live/rtk4/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/al/KlanTV.al.png" group-title="Shqipëria/Kosovës",Klan
 http://95.107.132.131:3344/udp/235.0.0.1:9009
