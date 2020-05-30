@@ -736,13 +736,13 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-ID="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲精选",法国二台
 http://178.132.3.162:88/france2/index.m3u8?token=test
-#EXTINF:-1 tvg-ID="FR2.FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",法国三台
+#EXTINF:-1 tvg-ID="FR3.FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",法国三台
 http://178.132.3.162:88/france3/index.m3u8?token=test
-#EXTINF:-1 tvg-ID="TF1.FR" tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",法国五国际台
+#EXTINF:-1 tvg-ID="TV5.Asia" tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",法国五国际台
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="欧洲精选",蒙地卡罗台
+#EXTINF:-1 tvg-id="TMC.FR" tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="欧洲精选",蒙地卡罗台
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="欧洲精选",BFM 
+#EXTINF:-1 tvg-id="BFM.FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="欧洲精选",BFM 
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲精选",德国电视一台
