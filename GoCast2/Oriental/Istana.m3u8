@@ -549,39 +549,44 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 #EXTINF:-1 tvg-ID="NIT.AU" tvg-logo="https://static.epg.best/au/NITV.au.png" group-title="Australia",NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Eropah",France 2
+#EXTINF:-1 tvg-id="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Eropah",France 2
 http://178.132.3.162:88/france2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Eropah",TV5 Monde Asie
+#EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Eropah",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Eropah",TF1
+#EXTINF:-1 tvg-id="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Eropah",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Eropah",Das Erste
+
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Eropah",Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="Eropah",tagesschau24
+#EXTINF:-1 tvg-id="T24.DE" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="Eropah",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="Eropah",DW Deutsche
+#EXTINF:-1 tvg-id="DWD.DE" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="Eropah",DW Deutsche
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Eropah",LA 1
+
+#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Eropah",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Eropah",Antena 3
+#EXTINF:-1 tvg-id="AN3.ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Eropah",Antena 3
 https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="Eropah",Cuatro
+#EXTINF:-1 tvg-id="CUA.ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="Eropah",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tivAmerikat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="Eropah",Rai 1
+
+#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivAmerikat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="Eropah",Rai 1
 http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="Eropah",Canale 5
+#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="Eropah",Canale 5
 http://5.135.92.133:52841/out/u/425_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="Eropah",Italia 1
+#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="Eropah",Italia 1
 http://5.135.92.133:52841/out/u/53_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="Eropah",RTP Internacional
+
+#EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="Eropah",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Eropah",BVN
+#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Eropah",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Eropah",Первый
+
+#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Eropah",Channel 1(Rusia)
 http://188.93.95.34:80/ort/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Eropah",Россия 1 
+#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Eropah",Russia 1 
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Eropah",Россия 24
+#EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Eropah",Russia 24
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://aztecaamerica.com/wp-content/uploads/2019/11/AzA_logoH_20191-300x59.png" group-title="Amerika Latin",Azteca América
