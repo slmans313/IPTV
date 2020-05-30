@@ -275,10 +275,12 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 #EXTINF:-1 tvg-id="BRM.UK" tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="اردو",British Muslim
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-#EXTINF:-1 tvg-id="VEN.PK" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="اردو",Venus
-http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="PTV.PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="اردو",PTV Global
 https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+#EXTINF:-1 tvg-id="SAM.PK" tvg-logo="https://static.epg.best/pk/SamaaTV.pk.png" group-title="تفریح",Samma TV
+http://playlive.goonj.pk/samaaweb_480p/index.m3u8
+#EXTINF:-1 tvg-id="VEN.PK" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="اردو",Venus
+http://45.77.90.56:8080/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Middle East",القرآن الكريم
 http://playlive.goonj.pk/makkahweb_480p/index.m3u8
