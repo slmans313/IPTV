@@ -37,7 +37,9 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.mys.gov.bh/PublishingImages/LiveStreamTv/BTV-sports-logo.png" group-title="البحرين",Bahrain Sport 2
 http://185.105.4.106:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jrtv.gov.jo/templates/jrtv_home/images/logomain.png" group-title="الْأُرْدُنّ",Jordan TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/JordanTV.jo.png" group-title="الْأُرْدُنّ",Jordan TV
+http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/JordanSports.jo.png" group-title="الْأُرْدُنّ",Jordan Sports
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jascotvstreaming.com/uploads/topics/15602802937098.png" group-title="الْأُرْدُنّ",A ONE
 http://82.212.74.99:8000/live/hls/8111.m3u8
@@ -51,7 +53,9 @@ http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/settings/15201617635163.png" group-title="الْأُرْدُنّ",Jasco
 http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.roya.tv/img/royatv/royaTvLogo.png" group-title="الْأُرْدُنّ",Ro'ya TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kaifatv.com/images/logo1.jpg group-title="الْأُرْدُنّ",Kaifa TV
+http://192.34.153.37:7777/Kaifa_HD/Kaifa_High.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/AlRoyaTV.jo.png" group-title="الْأُرْدُنّ",Ro'ya TV
 https://roya-live.ercdn.net/roya/roya.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="الكويت",Kuwait 1
@@ -329,6 +333,8 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-toheed-tv.jpg" group-title="ماراتيين",Toheed TV
 http://51.158.73.206/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/en/corporate/channels/wanasah/main/0/imageBinary/dae96fdca2c9b6a0fcc3e5787d3a64adbb94ef2f/wanasah1.jpg" group-title="ماراتيين",Wanasah
+https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.yastv.ae/images/logo.png"group-title="ماراتيين",Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 
@@ -1186,12 +1192,20 @@ https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.vimeocdn.com/portrait/63310_300x300" group-title="Tanazia",Tanazia Safari TV
 https://live-tanzaniasafari2020.cdnvideo.ru/tanzaniasafari2020/tanzaniasafari2020/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://ar.aljanoubiyatv.net/wp-content/uploads/2015/09/header.png" group-title="تونس",Al Janoubia TV
+http://92.222.93.75:1935/live2/samir/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hannibaltv.com.tn/static/fr/image/png/hannibaltv.png" group-title="تونس",Hannibal TV
 http://178.132.3.162:88/hannibal/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/apple-icon-57x57.png" group-title="تونس",Nessma TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="تونس",Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.telvza-tv.tn/images/front/logo.png" group-title="تونس",Telvza
+http://149.202.197.2:1935/telvzaweb/myStream/index.m3u8a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tunisieimmobiliertv.net/wp-content/uploads/2016/11/logo-tunisie-immobilier-tv-1.png" group-title="تونس",Tunisie Immobilier
 http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.marinatv.me/images/marina_tv.png" group-title="تونس",Marina TV
+http://www.radiomarina.tn:8080/media/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://imc.ug/images/dreamx.png" group-title="Uganda",Dream TV Uganada
 http://128.199.114.2:8080/hls/stream.m3u8
