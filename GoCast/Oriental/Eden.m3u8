@@ -161,11 +161,11 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wattan.net/media/assets/images/logo.png" group-title="فلسطين",Wattan
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" group-title="دولة قطر",Qatar 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" group-title="دولة قطر",Qatar TV
 http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvEdu1.png" group-title="دولة قطر",Qatar Talimya
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvEdu1.png" group-title="دولة قطر",Qatar Education TV
 http://qtv-i.akamaihd.net/hls/live/1019478-b/QTVEdu1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvEdu2.png group-title="دولة قطر",Qatar Talimya 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvEdu2.png" group-title="دولة قطر",Qatar Education TV 2
 http://qtv-i.akamaihd.net/hls/live/1019479/QTVEdu2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alrayyan.tv/wp-content/uploads/2016/12/live1.png" group-title="دولة قطر",Alrayyan
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
@@ -336,7 +336,7 @@ http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/en/corporate/channels/wanasah/main/0/imageBinary/dae96fdca2c9b6a0fcc3e5787d3a64adbb94ef2f/wanasah1.jpg" group-title="ماراتيين",Wanasah
 https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.yastv.ae/images/logo.png"group-title="ماراتيين",Yas
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/5.png" group-title="اليمن",Yemen TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
@@ -355,7 +355,7 @@ http://82.212.74.98:8000/live/7726.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" group-title="اليمن",Al Mahrah
 http://82.212.74.99:8000/live/8173.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/logo1.png" group-title="اليمن",7 Stars
-rtmp://82.212.74.3/live/7406
+http://82.212.74.3:8000/live/hls/7506.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yemenshabab.net/images/logo.png" group-title="اليمن",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 
@@ -839,10 +839,12 @@ http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/eb/9f/c4/eb9fc443126911cf0a1b5e71ce6996d0.jpg" group-title="Türkiye",Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/220px-Logo_Canal_Algerie.svg.png" group-title="الدزاير",Canal Algérie
+#EXTINF:-1 tvg-id="" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="الدزاير",Canal Algérie
 http://178.132.3.162:88/canal_algerie/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Algeria3.png" group-title="الدزاير",القناة الجزائرية الثالثة‎
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/ThalithaA3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.algsat.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-EL-DJAZAIR-N1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-2020.jpg group-title="الدزاير",El Djazair N1
+http://82.212.74.5:8000/live/hls/7728.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="الدزاير",Chaine Nord Africaine
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alkompis.se/iptv/wp-content/uploads/2019/05/28ufcvwr9v3oukq.png" group-title="الدزاير",Ennahar TV
