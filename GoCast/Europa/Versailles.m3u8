@@ -595,6 +595,14 @@ http://81.171.21.159:4780/epsilon/index.m3u8
 http://81.171.21.159:4780/skai/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.maktv.gr/wp-content/uploads/2018/08/Logo_White-300x217.png" group-title="Ελλάδα",Μακεδονία
 http://81.171.21.159:4770/makedonia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.sat.tv/wp-content/uploads/2016/05/RIK-Sat.png" group-title="Ελλάδα",Rik Sat(Κύπρος)
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="Ελλάδα",Sigma TV(Κύπρος)
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://omegalive.com.cy/assets/img/omega-logo.png" group-title="Ελλάδα",Omega(Κύπρος)
+http://82.114.62.36:8000/bysid/2012
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/6/60/Pluscyelo.jpeg/150px-Pluscyelo.jpeg" group-title="Ελλάδα",Plus(Κύπρος)
+http://82.114.62.36:8000/bysid/2015
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/4%CE%95.gr.png" group-title="Ελλάδα",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
@@ -612,10 +620,14 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://corfutvnews.gr/wp-content/uploads/corfu-tv-news-logo-main.png" group-title="Ελλάδα",Corfu TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.capital.gr/Content2017/images/logos/capital-header-logo.png?width=300" group-title="Ελλάδα",Capita
+http://82.114.62.36:8000/bysid/2017
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/Channel9.gr.png" group-title="Ελλάδα",Κανάλι 9
 https://server.tvdj.info:8222/channel9/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/2dbb7a7bc84208a88701a8bfc8dd97b4.jpeg" group-title="Ελλάδα",Delta TV
 http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.extra3.tv/wp-content/uploads/2017/02/extra_logo.png" group-title="Ελλάδα",Extra
+http://82.114.62.36:8000/bysid/2016
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.livetvgr.com/wp-content/uploads/2013/01/Logo-Ena-Channel-new11.png" group-title="Ελλάδα",Ena
 https://server.tvdj.info:8222/1c/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.epirustv1.eu/img/logo.png" group-title="Ελλάδα",Epirus TV 1
@@ -650,10 +662,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/StarL.m3u8
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/e6bf1484a9da6fdb53ac643a5886cfff.jpeg" group-title="Ελλάδα",TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.sat.tv/wp-content/uploads/2016/05/RIK-Sat.png" group-title="Ελλάδα",Rik Sat (Κύπρος)
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="Ελλάδα",Sigma TV (Κύπρος)
-http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://greektv.upg.gr/img/imageslow/tilemousiki.jpg" group-title="Ελλάδα",Tile Mousiki 
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://greektv.upg.gr/img/imageslow/tilemousiki.jpg" group-title="Ελλάδα",Greek Kids TV
