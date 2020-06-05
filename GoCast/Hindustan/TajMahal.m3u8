@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="मनोरंजन",And TV
+http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="मनोरंजन",And Flix
+http://ddn.amrbd.com:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png" group-title="मनोरंजन",Animal Planet हिन्दी
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="मनोरंजन",Colors
@@ -46,6 +49,8 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="मनोरंजन",Zee Cafe
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="मनोरंजन",Zee Cafe
+http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://firstindianews.com/images/logo.png" group-title="न्यूज़",1st इंडिया
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
@@ -94,6 +99,8 @@ http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeehindustan/list/170x120/09zeehindustanzeehindustan.png" group-title="न्यूज़",Zee Hindustan
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="फ़िल्म",And Pictures
+http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood HD
 https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="फ़िल्म",B4U Movies
@@ -208,6 +215,8 @@ http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvpunjab.com/wp-content/uploads/2017/03/final-logo1-web-tv-punjab-1.png" group-title="मनोरंजन",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="मनोरंजन", Zee Punjabi
+http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://politicalbaaba.files.wordpress.com/2018/08/unnamed.jpg" group-title="ਫਿਲਮਾਂ",ABP Sanjha
 https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/masterhls_1564.m3u8
