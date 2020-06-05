@@ -18,12 +18,6 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马",TV3(马来西亚)
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXoe4om3xMNCyi5biPrAq1Y)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马",TV32(马来西亚)
-EXTVLCOPT:Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXoe4om3xMNCyi5biPrAq1Y)/dm/3/x6qp375/d/live-3.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马",TV33(马来西亚)
-EXTVLCOPT:Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="新马",NTV 7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="新马",八度空间
@@ -598,6 +592,8 @@ http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 http://live.highstream.club/live/NHL/playlist.m3u8
 #EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="美国",NFL Network
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
+#EXTINF:-1 tvg-ID="PBS.US" tvg-logo="https://static.epg.best/us/PBSWLIW21.us.png" group-title="美国",PBS 
+https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b2038272.m3u8
 #EXTINF:-1 tvg-id="Peo.US" tvg-logo="http://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="美国",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-ID="POP.US" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="美国",Pop
