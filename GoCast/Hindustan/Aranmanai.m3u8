@@ -1,8 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="செய்திகள்",Raj TV
-http://45.120.188.184/hdmi
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="செய்திகள்",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png" group-title="பொழுதுபோக்கு",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
@@ -40,6 +38,8 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-logo="https://www.mktelevision.com/images/mklg2.png" group-title="இசை",MK Six
 https://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/09/Puthuyugam-New-BG-2-2.jpg" group-title="தமிழ்",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/chennai/s7/044pxx44.xx44.151130105318.q5s7/catalogue/sangamam-tv-chetpet-chennai-satellite-channels-blzqpyjjzf-250.jpg" group-title="தமிழ்",Sangamam
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ststamiltv.stsstudio.com/wp-content/uploads/2018/07/cropped-STS-logo-inda-2.png" group-title="தமிழ்",STS Tamil
@@ -155,6 +155,7 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlis
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/170x120/09zeeteluguzeetelugu.png" group-title="తెలుగు",Zee Telugu
 http://31.14.40.58:8080/ZEETELUGU_h264/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="മലയാളം",Amrita
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title="മലയാളം",ACV
@@ -204,13 +205,19 @@ http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/index.m
 #EXTINF:-1 tvg-logo="http://m4tv.com.au/assests/site/images/m4logo.png" group-title="മലയാള",M4 
 http://m4malayalam.livebox.co.in/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mathrubhumi.com/polopoly_fs/7.309.1533966111!/image/image.png_gen/derivatives/default/image.png" group-title="മലയാളം",Mathrubhumi News
-https://bcovlive-a.akamaihd.net/465cbde1371545ec97137701942dfdd3/ap-southeast-1/5742227023001/profile_0/chunklist.m3u8
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/16/Untitled-1_8.jpg" group-title="മലയാളം",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/news-photo/92907-MazhavilManorama.jpg" group-title="മലയാളം",Mazhavil Manorama
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Mediaone_Logo.png" group-title="മലയാളം",Media One
 https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MtktZBL.jpg" group-title="മലയാളം",Media Net Adimaly
 http://150.242.21.2/medianet.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="മലയാളം",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.reporter.live/wp-content/themes/reporter_english/images/logo_latest.png" group-title="മലയാളം",Reporter TV
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:-1 tvg-logo="https://just4jolly.com/wp-content/uploads/2016/07/tcvthrissur1.png" group-title="മലയാളം",TCV
 https://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
