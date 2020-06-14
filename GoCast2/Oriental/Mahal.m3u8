@@ -77,6 +77,10 @@ http://live.highstream.club/live/BTSPORT2/chunks.m3u8
 http://145.239.255.4:8080/bteurhd/mono.m3u8?token=test
 #EXTINF:-1 tvg-ID="BTE.UK" tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="Sports",BT Sports ESPN
 http://145.239.255.4:8080/espnhd/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="BSU.US" tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="Sports",beIN Sports USA
+http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:-1 tvg-ID="BS1.Asia" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 tvg-ID="BS2.Asia" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
@@ -141,6 +145,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-ID="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Sports",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="Sports",WWE Network
+http://live.highstream.club/live/WWE/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="AMC.US" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="Movies",AMC
 http://live.highstream.club/live/AMC/playlist.m3u8
