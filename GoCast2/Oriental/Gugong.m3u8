@@ -603,8 +603,6 @@ http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
 #EXTINF:-1 tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="Bbl.Asia" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国",BBC Lifestyle
-https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="英国",CBS Reality
 http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="英国",CBeebies
@@ -664,6 +662,8 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="ACC.AU" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="澳洲",ACC
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
+#EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="澳洲",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="澳洲",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-ID="AB2.AU" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="澳洲",ABC Comedy
@@ -690,14 +690,12 @@ https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239
 https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="澳洲",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
-#EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="澳洲",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="MAO.NZ" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="澳洲",Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-#EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="澳洲",Te Reo
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-ID="NIT.AU" tvg-logo="https://static.epg.best/au/NITV.au.png" group-title="澳洲",NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="澳洲",Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="东南亚精选",ททบ. 5(泰国)
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
@@ -705,16 +703,20 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="东南亚精选",Workpoint(泰国)
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
+#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="东南亚精选",ONE 31(泰国)
+http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="东南亚精选",MCOT(泰国)
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+#EXTINF:-1 tvg-id="5NW.PH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="东南亚精选",5 Network(菲律宾)
+http://stream1.news5.ph/n5e/tv5/chunklist.m3u8
+#EXTINF:-1 tvg-id="CNP.PH" tvg-logo="https://static.epg.best/ph/CNNPhilippines.ph.png" group-title="东南亚精选",CNN Phillippines(菲律宾)
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="UNT.PH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="东南亚精选",UNTV Public
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-id="VT4.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="东南亚精选",VTV 4(越南)
 https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="东南亚精选",VTV 6(越南)
 https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv6hd1_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="PTV.PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1920px-PTVLogo2017.svg.png" group-title="东南亚精选",PTV(菲律宾)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
-#EXTINF:-1 tvg-id="5NW.PH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="东南亚精选",5 Network(菲律宾)
-http://stream1.news5.ph/n5e/tv5/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="东南亚精选",MRTV(缅甸)
 http://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="东南亚精选",MRTV-4(缅甸)
