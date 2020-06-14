@@ -518,6 +518,10 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 #EXTINF:-1 tvg-ID="NIT.AU" tvg-logo="https://static.epg.best/au/NITV.au.png" group-title="Australia",NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 
+#EXTINF:-1 tvg-id="NTV.NP" tvg-logo="https://ntv.org.np/wp-content/uploads/2018/07/imageedit_1_5484109758.png" group-title="Asia",Nepal TV
+https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="VTV.MV" tvg-logo="http://vnews.mv/themes/vmedia/images/vtv.png" group-title="Asia",VTV
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 #EXTINF:-1 tvg-id="HNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="Asia",Hunan TV
 http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 #EXTINF:-1 tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="Asia",CCTV-4
@@ -526,18 +530,14 @@ http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Asia",ช่อง 7
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 tvg-id="WAK.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Asia",WakuWaku Japan
-https://vcdnjt.useetv.com:443/joss/15/wakuwaku/chunklist_w161308538_b684100_sleng_177560.m3u8?enc=T-x7_Q3IIEo9s4FevYCnsQ&exp=1587470284
-#EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="Asia",KBS World
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
 #EXTINF:-1 tvg-ID="OCN.KR" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="Asia",OCN
 http://211.245.55.198:1024/m2u/239.192.52.8:49220
-#EXTINF:-1 tvg-id="NTV.NP" tvg-logo="https://ntv.org.np/wp-content/uploads/2018/07/imageedit_1_5484109758.png" group-title="Asia",Nepal TV
-https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia",TVRI(印尼)
+#EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="Asia",NHK G
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Asia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Asia",SCTV(印尼)
-https://cdnmdc1.useetv.com/joss/15/sctv/chunklist_w1626501149_b1344100_sleng_108307.m3u8
+#EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Asia",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="International",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
