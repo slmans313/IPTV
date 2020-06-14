@@ -638,10 +638,10 @@ http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cns.net.tw/web/upload/20181101112248ZrJAQ86.png" group-title="臺灣",八大第一
 http://bbdd.228888888.xyz:8081/hls/ch207.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png" group-title="臺灣",八大戲劇
-http://bbdd.228888888.xyz:8081/hls/ch208.m3u8
+http://58.99.33.9:1935/liveedge2/live_41_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="臺灣",TVBS歡樂台
 http://58.99.33.9:1935/liveedge2/live_42_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="台湾",TVBS歡樂台
+#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="臺灣",TVBS歡樂台
 http://111.13.111.192/211.75.9.37:20010/20013
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.daai.tv/images/logo.png" group-title="臺灣",大愛一
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -665,12 +665,16 @@ rtmp://xiaoyu.speedws.com/sat/tv721
 rtmp://xiaoyu.speedws.com/sat/tv701
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="臺灣",緯來育樂
 http://111.13.111.192/211.75.9.37:20000/20004
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="台湾",緯來戲劇
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="臺灣",緯來戲劇
 http://111.13.111.192/211.75.9.37:20040/20047
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾",緯來电影
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="臺灣",緯來电影
 http://111.13.111.192/211.75.9.37:20020/20027
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾",緯來综合
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="臺灣",緯來综合
 http://111.13.111.192/211.75.9.37:20000/20003
+#EXTINF:-1 tvg-id="SLT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="臺灣",三立台灣
+http://58.99.33.9:1935/liveedge2/live_29_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SLD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="臺灣",三立都會
+http://58.99.33.9:1935/liveedge2/live_30_1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="臺灣",原住民族電視
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
@@ -686,7 +690,7 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://54.64.23.79:1935/live/vod/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/911_c2a7df1f45d40aa410d109a10fb32a54.png" group-title="臺灣",空中英語教室
 http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.chtv.com.hk/UpLoadFile/image/20180412/20180412100657_98319.png" group-title="臺灣",中华卫视台湾
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.chtv.com.hk/UpLoadFile/image/20180412/20180412100657_98319.png" group-title="臺灣",中华卫视臺灣
 http://pull.leshantangjt.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.lifetv.org.tw/main/img/lifetv.png" group-title="臺灣",生命電視台
 http://61.216.67.119/lifetv/LTV1/playlist.m3u8
@@ -711,13 +715,13 @@ https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="臺灣",TV5 Monde Style (臺灣)
 https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 
-#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="台湾",迪士尼
+#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="臺灣",迪士尼
 http://111.13.111.192/211.75.9.37:20040/20044
-#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="台湾",CN卡通 
+#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="臺灣",CN卡通 
 http://111.13.111.192/211.75.9.37:20040/20043
-#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="台湾",Fox电影 
+#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="臺灣",Fox电影 
 http://111.13.111.192/211.75.9.37:20040/20046
-#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="台湾",动物星球 
+#EXTINF:-1 tvg-id="XWZ.TW" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="臺灣",动物星球 
 http://111.13.111.192/211.75.9.37:20000/20002
 
 
