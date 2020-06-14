@@ -707,17 +707,19 @@ https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
 #EXTINF:-1 tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="东南亚精选",MCOT(泰国)
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1 tvg-id="GMA.PH" tvg-logo="https://static.epg.best/ph/GMAPinoy.ph.png" group-title="东南亚精选",GMA Pinoy(菲律宾)
-http://164.40.161.43:10011
-#EXTINF:-1 tvg-id="TFC.PH" tvg-logo="https://static.epg.best/ph/TheFilipinoChannelus.ph.png" group-title="东南亚精选",TFC(菲律宾)
-http://00100.co:2086/79775817/3655144/93265
-#EXTINF:-1 tvg-id="VT4.PH" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="东南亚精选",越南国家电视四台
+#EXTINF:-1 tvg-id="PTV.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1920px-PTVLogo2017.svg.png" group-title="东南亚精选",PTV 菲律宾)
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
+#EXTINF:-1 tvg-id="5NW.TH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="东南亚精选",5 Network(菲律宾)
+http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+#EXTINF:-1 tvg-id="ANC.PH" tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="东南亚精选",ANC
+https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8|X-Forwarded-For=203.160.190.250
+#EXTINF:-1 tvg-id="VT4.PH" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="东南亚精选",VTV 4(越南)
 https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="VT6.PH" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="东南亚精选",越南国家电视六台
+#EXTINF:-1 tvg-id="VT6.PH" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="东南亚精选",VTV 6(越南)
 https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv6hd1_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="东南亚精选",缅甸综合频道
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="东南亚精选",MRTV(缅甸)
 http://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="东南亚精选",缅甸第四频道
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="东南亚精选",MRTV-4(缅甸)
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 
 #EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="印度精选",Aaj Tak
