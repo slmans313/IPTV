@@ -280,7 +280,6 @@ http://211.245.55.198:1024/m2u/239.192.67.100:49220
 http://211.245.55.198:1024/m2u/239.192.67.99:49220
 #EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",韩国放送世界台
 https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
-
 #EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="韩国",文化放送频道
 https://5ca29b882aaf6.streamlock.net:443/livetv/BusanMBC_TV_livestream/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="韩国",首尔放送
@@ -322,18 +321,12 @@ http://203.162.235.41:16901
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="NWP.JP" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title="日本",NHK世界收费频道
 https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_w123540726_b1344100_sleng_enc=FjUiToUzI4n4ys9_IOUjIw.m3u8
-#EXTINF:-1 tvg-id="BS1.JP" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_nhkbs1.jpg" group-title="日本",NHK卫星第1频道
-http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
-#EXTINF:-1 tvg-id="BSP.JP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK卫星收费频道
-http://203.162.235.41:16910
 #EXTINF:-1 tvg-id="ASH.JP" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="日本",朝日电视
 http://203.162.235.41:16906
 #EXTINF:-1 tvg-id="TOK.JP" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="日本",东京电视台
 http://203.162.235.41:16908
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBS电视台
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-id="TBN.JP" tvg-logo="https://static.epg.best/jp/TBSNews.jp.png" group-title="日本",TBS 新闻网
-https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
 #EXTINF:-1 tvg-id="FUJ.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png" group-title="日本",富士电视台
 http://203.162.235.41:16904
 #EXTINF:-1 tvg-id="NIP.JP" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日本",日本电视台
