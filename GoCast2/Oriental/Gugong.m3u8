@@ -766,20 +766,20 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="MHN.IN" tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="印度精选",MH1 Prime
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲精选",法国一台
+#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲精选",TF1(法国)
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-ID="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲精选",法国二台
+#EXTINF:-1 tvg-ID="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲精选",France 2(法国)
 http://178.132.3.162:88/france2/index.m3u8?token=test
-#EXTINF:-1 tvg-ID="FR3.FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",法国三台
+#EXTINF:-1 tvg-ID="FR3.FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",France 3(法国)
 http://178.132.3.162:88/france3/index.m3u8?token=test
-#EXTINF:-1 tvg-ID="TV5.Asia" tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",法国五国际台
+#EXTINF:-1 tvg-ID="TV5.Asia" tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",TV5 Monde(法国)
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:-1 tvg-id="TMC.FR" tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="欧洲精选",蒙地卡罗台
+#EXTINF:-1 tvg-id="TMC.FR" tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="欧洲精选",TFM(法国)
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="BFM.FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="欧洲精选",BFM 
+#EXTINF:-1 tvg-id="BFM.FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="欧洲精选",BFM(法国)
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲精选",德国电视一台
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲精选",Das Erste(德国)
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="欧洲精选",One(德国)
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
@@ -805,31 +805,18 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="欧洲精选",Telecinco(西班牙)
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲精选",意大利电视一台
+#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲精选",Rai 1(意大利)
 http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲精选",意大利电视二台
+#EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲精选",Rai 2(意大利)
 http://5.135.92.133:52841/out/u/452_1.m3u8
-#EXTINF:-1 tvg-id="RAY.IT" tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="欧洲精选",意大利电视YoYo台
+#EXTINF:-1 tvg-id="RAY.IT" tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="欧洲精选",Rai YoYo(意大利)
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="欧洲精选",Canale 5(意大利)
 http://5.135.92.133:52841/out/u/425_1.m3u8
 #EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="欧洲精选",Italia 1(意大利)
 http://5.135.92.133:52841/out/u/53_1.m3u8
-#EXTINF:-1 tvg-id="LA7.IT" tvg-logo="https://static.epg.best/it/La7.it.png" group-title="欧洲精选",LA 7(意大利)
-http://5.135.92.133:52841/out/u/101_1.m3u8
-
-#EXTINF:-1 tvg-id="RT3.IT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="欧洲精选",葡萄牙电视三台
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="欧洲精选",葡萄牙广播电视国际台
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN(荷兰)
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NPO.NL" tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲精选",NPO Nieuws(荷兰)
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
-#EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="欧洲精选",één(比利时)
-https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
-#EXTINF:-1 tvg-id="CAV.BE" tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲精选",Canvas(比利时)
-https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+#EXTINF:-1 tvg-id="FRB.IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" group-title="欧洲精选",Frisbee(意大利)
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 
 #EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="欧洲精选",第一频道(俄罗斯)
 http://188.93.95.34:80/ort/index.m3u8
@@ -843,6 +830,19 @@ http://188.93.95.34/rentv/index.m3u8
 http://89.106.234.4:80/STS_38_39.m3u8
 #EXTINF:-1 tvg-id="HTB.RU" tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="欧洲精选",НТВ(俄罗斯)
 http://188.93.95.34:80/ntvmir/index.m3u8
+
+#EXTINF:-1 tvg-id="RT3.IT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="欧洲精选",RTP 3(葡萄牙)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="欧洲精选",RTP Internacional(葡萄牙)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN(荷兰)
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NPO.NL" tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲精选",NPO Nieuws(荷兰)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
+#EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="欧洲精选",één(比利时)
+https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+#EXTINF:-1 tvg-id="CAV.BE" tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲精选",Canvas(比利时)
+https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 
 #EXTINF:-1 tvg-id="1UA.UA" tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲精选",第一频道(乌克兰)
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
