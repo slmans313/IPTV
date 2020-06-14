@@ -65,8 +65,8 @@ http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weishikashi.png" group-title="电影",衛視卡式 
 https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
-http://182.61.4.27:85/dl/ttpm.php?id=WSDYHD
+#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
+http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fng.tw/smithd/images/StarMoviesHD_logo.png" group-title="电影",衛視洋片
 http://bbdd.228888888.xyz:8081/hls/ch307.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fng.tw/scmhd/images/StarChinese%20MoviesHD_logo.png" group-title="电影",星衛電影
@@ -663,14 +663,12 @@ rtmp://xiaoyu.speedws.com/sat/tv771
 rtmp://xiaoyu.speedws.com/sat/tv721
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="臺灣",緯來育樂
 rtmp://xiaoyu.speedws.com/sat/tv701
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="臺灣",緯來育樂
-http://111.13.111.192/211.75.9.37:20000/20004
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="臺灣",緯來戲劇
-http://111.13.111.192/211.75.9.37:20040/20047
+http://58.99.33.9:1935/liveedge2/live_43_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="臺灣",緯來电影
-http://111.13.111.192/211.75.9.37:20020/20027
+http://58.99.33.9:1935/liveedge2/live_63_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="臺灣",緯來综合
-http://111.13.111.192/211.75.9.37:20000/20003
+http://58.99.33.9:1935/liveedge2/live_26_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SLT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="臺灣",三立台灣
 http://58.99.33.9:1935/liveedge2/live_29_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SLD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="臺灣",三立都會
