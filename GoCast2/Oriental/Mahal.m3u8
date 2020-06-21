@@ -69,22 +69,12 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="BT1.UK" tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
-http://live.highstream.club/live/BTSPORT1/chunks.m3u8
-#EXTINF:-1 tvg-id="BT2.UK" tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
-http://live.highstream.club/live/BTSPORT2/chunks.m3u8
-#EXTINF:-1 tvg-ID="BT3.UK" tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="Sports",BT Sports 3
-http://145.239.255.4:8080/bteurhd/mono.m3u8?token=test
-#EXTINF:-1 tvg-ID="BTE.UK" tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="Sports",BT Sports ESPN
-http://145.239.255.4:8080/espnhd/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="BSU.US" tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="Sports",beIN Sports USA
-http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:-1 tvg-ID="BS1.Asia" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 tvg-ID="BS2.Asia" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
 https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+
@@ -100,7 +90,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="Sports",MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Sports",NBA TV
-http://live.highstream.club/live/NBATV/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-ID="PF1.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports",Premier Football 1
@@ -145,8 +135,7 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-ID="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Sports",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="Sports",WWE Network
-http://live.highstream.club/live/WWE/playlist.m3u8
+
 
 #EXTINF:-1 tvg-ID="AMC.US" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="Movies",AMC
 http://live.highstream.club/live/AMC/playlist.m3u8
