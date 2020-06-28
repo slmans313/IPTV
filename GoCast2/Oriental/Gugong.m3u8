@@ -688,19 +688,6 @@ http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-id="VOX.DE" tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="欧洲精选",Vox(德国)
 http://5.135.92.133:52841/out/u/123_1.m3u8
 
-#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="欧洲精选",LA 1(西班牙)
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:-1 tvg-id="LA6.ES" tvg-logo="http://static.epg.best/es/LaSexta.es.png" group-title="欧洲精选",LA Sexta(西班牙)
-https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="AN3.ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="欧洲精选",Antena 3(西班牙)
-https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="CUA.ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="欧洲精选",Cuatro(西班牙)
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="ENE.ES" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="欧洲精选",Energy(西班牙)
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="欧洲精选",Telecinco(西班牙)
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-
 #EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲精选",Rai 1(意大利)
 http://5.135.92.133:52841/out/u/440_1.m3u8
 #EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲精选",Rai 2(意大利)
@@ -727,10 +714,6 @@ http://89.106.234.4:80/STS_38_39.m3u8
 #EXTINF:-1 tvg-id="HTB.RU" tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="欧洲精选",НТВ(俄罗斯)
 http://188.93.95.34:80/ntvmir/index.m3u8
 
-#EXTINF:-1 tvg-id="RT3.PT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="欧洲精选",RTP 3(葡萄牙)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="欧洲精选",RTP Internacional(葡萄牙)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN(荷兰)
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NPN.NL" tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲精选",NPO Nieuws(荷兰)
@@ -753,35 +736,52 @@ http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="欧洲精选",Joj(斯洛伐克)
 http://nn1.joj.sk/hls/joj-720.m3u8
 
-#EXTINF:-1 tvg-id="MUT.MX" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="南美精选",Multimedios(墨西哥)
-https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
-#EXTINF:-1 tvg-id="ONC.MX" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="南美精选",Canal Once(墨西哥)
+#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="拉丁精选",LA 1(西班牙)
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+#EXTINF:-1 tvg-id="LA6.ES" tvg-logo="http://static.epg.best/es/LaSexta.es.png" group-title="拉丁精选",LA Sexta(西班牙)
+https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="AN3.ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="拉丁精选",Antena 3(西班牙)
+https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="CUA.ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="拉丁精选",Cuatro(西班牙)
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="ENE.ES" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="拉丁精选",Energy(西班牙)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="拉丁精选",Telecinco(西班牙)
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="RT3.PT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="拉丁精选",RTP 3(葡萄牙)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="拉丁精选",RTP Internacional(葡萄牙)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ONC.MX" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="拉丁精选",Canal Once(墨西哥)
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="南美精选",哥伦比亚电视台
-https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-#EXTINF:-1 tvg-id="CA6.CR" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" group-title="南美精选",Repretel 6(哥斯达黎加)
-http://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
-#EXTINF:-1 tvg-id="CV9.DO" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="南美精选",Color Visión(多明尼加)
+#EXTINF:-1 tvg-id="CV9.DO" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="拉丁精选",Color Visión(多明尼加)
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/COV9.m3u8
-#EXTINF:-1 tvg-id="CUB.CU" tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="南美精选",古巴视野国际频道
+#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="拉丁精选",RCN(哥伦比亚)
+https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
+#EXTINF:-1 tvg-id="CUB.CU" tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="拉丁精选",Cubavision International(古巴)
 https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-id="ECU.EC" tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="南美精选",Ecuavisa(厄瓜多尔)
+#EXTINF:-1 tvg-id="ECU.EC" tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="拉丁精选",Ecuavisa(厄瓜多尔)
 http://173.212.247.99/hls/tvec2.m3u8
-#EXTINF:-1 tvg-id="MEG.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/MegaTV.png" group-title="南美精选",Mega TV(波多黎各)
+#EXTINF:-1 tvg-id="MUT.MX" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="拉丁精选",Multimedios(墨西哥)
+https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
+#EXTINF:-1 tvg-id="MEG.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/MegaTV.png" group-title="拉丁精选",Mega TV(波多黎各)
 http://livestream.lamusica.com/megatvlive/megatvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="RPC.PA" tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="南美精选",RPC Canal 4(巴拿马)
+#EXTINF:-1 tvg-id="" tvg-logo="RPC.PA" tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="拉丁精选",RPC Canal 4(巴拿马)
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-#EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="南美精选",Trece(巴拉圭)
+#EXTINF:-1 tvg-id="CA6.CR" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" group-title="拉丁精选",Repretel 6(哥斯达黎加)
+http://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="拉丁精选",Trece(巴拉圭)
 http://174.138.118.252/live/canal13stream_src.m3u8
-#EXTINF:-1 tvg-id="TVB.BR" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="南美精选",巴西电视台
-http://150.161.93.220/hls/1080/index.m3u8
-#EXTINF:-1 tvg-id="SBT.BR" tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="南美精选",巴西电视系统
+#EXTINF:-1 tvg-id="SBT.BR" tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="拉丁精选",SBT(巴西)
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
-#EXTINF:-1 tvg-id="TVP.PE" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="南美精选",秘鲁电视台
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="TVC.CL" tvg-logo="http://estaticos.tvchile.cl/skins/imagenes/logo.png" group-title="南美精选",智利电视台
+#EXTINF:-1 tvg-id="TVB.BR" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="拉丁精选",TV Brasil(巴西)
+http://150.161.93.220/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="TVC.CL" tvg-logo="http://estaticos.tvchile.cl/skins/imagenes/logo.png" group-title="拉丁精选",TV Chile(智利)
 https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
-#EXTINF:-1 tvg-id="VEN.VE" tvg-logo="https://lh3.googleusercontent.com/-Kj7zM1bM0yM/URCwNnOOBGI/AAAAAAAAA3k/ebpq6Ay4HHQ/s191-Ic42/vtv.jpg" group-title="南美精选",委内瑞拉电视台
+#EXTINF:-1 tvg-id="TVP.PE" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="拉丁精选",TV Perú(秘鲁)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="VEN.VE" tvg-logo="https://lh3.googleusercontent.com/-Kj7zM1bM0yM/URCwNnOOBGI/AAAAAAAAA3k/ebpq6Ay4HHQ/s191-Ic42/vtv.jpg" group-title="拉丁精选",Venezolana(委内瑞拉)
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist_w792631932.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东精选",MBC 1
