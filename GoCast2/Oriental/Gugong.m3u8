@@ -34,6 +34,8 @@ http://210.210.155.66/h/h22/01.m3u8
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="新马",OKEY(马来西亚)
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-ID="KIX.Asia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="新马",KIX(马来西亚)
+http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="新马",TVRI(印尼)
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="新马",Indosiar(印尼)
@@ -51,6 +53,8 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NET.ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="新马",NET(印尼)
 http://iptv.burhansyam.com/vidio/net.m3u8
 
+#EXTINF:-1 tvg-id="XKW.HK" tvg-logo="http://xk.kgdns.cn/templets/lanse/images/logo.png" group-title="香港",星空衛视
+http://185.93.2.35:12012/live/359111068247FFA1/MWtiW3hS3i2c-SgHaFWQwk27ss1pt2rAZIWhtvUyJlGTmdUjM7F9nOuNPAO5-ovZ/22236276A7954FD2/396308.ts
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://218.250.212.147:9981/stream/channelid/2044473296
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
@@ -301,8 +305,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="新闻",Fox News(美国)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MSN.News" tvg-logo="https://static.epg.best/us/MSNBC.us.png" group-title="新闻",MSNBC(美国)
-http://live.highstream.club/live/MSNBC/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.News" tvg-id="RT" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="新闻",RT(俄罗斯)
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-id="TLS.News" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="新闻",Telesur(拉丁美洲)
@@ -388,16 +390,10 @@ https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-ID="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="AXN.Asia" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="美国",AXN
+http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-ID="ADU.CA" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-#EXTINF:-1 tvg-id="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="美国",AHC
-http://live.highstream.club/live/AHC/playlist.m3u8
-#EXTINF:-1 tvg-id="BBA.US" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" group-title="美国",BBC America
-http://live.highstream.club/live/AE/playlist.m3u8
-#EXTINF:-1 tvg-id="BTA.US" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="美国",Bravo
-http://live.highstream.club/live/Bravo/playlist.m3u8
-#EXTINF:-1 tvg-ID="AET.US" tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="美国",Boomerang
-http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 #EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="美国",CBC
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
 #EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="美国",CBC News
@@ -406,18 +402,12 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="美国",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-ID="CMC.UK" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="美国",Comedy Central
-http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
-#EXTINF:-1 tvg-ID="CCE.UK" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="美国",Comedy Central Extra
-http://145.239.255.4:8080/CmdyXtr/mono.m3u8?token=test
 #EXTINF:-1 tvg-ID="DIS.US" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="美国",Discovery
 http://live.highstream.club/live/DISCOVERY/playlist.m3u8
 #EXTINF:-1 tvg-ID="DIS.IN" tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="美国",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-ID="DIT.US" tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="美国",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 tvg-ID="EXM.UK" tvg-logo="https://static.epg.best/us/EEntertainment.us.png" group-title="美国",E!
-http://145.239.255.4:8080/en-E/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="美国",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="美国",Food Network
@@ -434,10 +424,6 @@ http://live.highstream.club/live/Hallmark/playlist.m3u8
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="美国",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png" group-title="美国",Lifetime
-http://live.highstream.club/live/Lifetime/playlist.m3u8
-#EXTINF:-1 tvg-id="OWN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="美国",OWN
-http://live.highstream.club/live/OWN/playlist.m3u8
 #EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="美国",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="美国",National Geographic Channel
@@ -501,12 +487,16 @@ http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C
 http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
 #EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
-#EXTINF:-1 tvg-id="CHO.KR" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="韩国",TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist_w533072526.m3u8
-#EXTINF:-1 tvg-id="OBW.KR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg" group-title="韩国",OBS W
-http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-ID="MNE.KR" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="韩国",M-NET
 http://211.245.55.198:1024/m2u/239.192.48.5:49220
+#EXTINF:-1 tvg-id="CHO.KR" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="韩国",TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist_w533072526.m3u8
+#EXTINF:-1 tvg-ID="KPL.KR" tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="韩国",K+
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="韩国",One TV
+http://210.210.155.66/h/h143/01.m3u8
+#EXTINF:-1 tvg-id="OBW.KR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg" group-title="韩国",OBS W
+http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-ID="OCN.KR" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="韩国",OCN
 http://211.245.55.198:1024/m2u/239.192.52.8:49220
 #EXTINF:-1 tvg-ID="OLI.KR" tvg-logo="https://static.epg.best/kr/Olive.kr.png" group-title="韩国",Olive
@@ -548,6 +538,8 @@ http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
 http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日本",BS 日テレ
 http://203.162.235.41:16912
+#EXTINF:-1 tvg-ID="GEM.JP" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small.png" group-title="日本",GEM TV
+http://210.210.155.66/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
