@@ -700,18 +700,21 @@ http://5.135.92.133:52841/out/u/53_1.m3u8
 #EXTINF:-1 tvg-id="FRB.IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" group-title="欧洲精选",Frisbee(意大利)
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 
-#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="欧洲精选",Channel One(俄罗斯)
-http://188.93.95.34:80/ort/index.m3u8
 #EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲精选",Russia 1(俄罗斯)
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲精选",Russia 24(俄罗斯)
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 tvg-id="PEH.RU" tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="欧洲精选",РЕН(俄罗斯)
-http://188.93.95.34/rentv/index.m3u8
+http://89.106.234.4:80/RenTV_34_35.m3u8
 #EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲精选",СТС(俄罗斯)
 http://89.106.234.4:80/STS_38_39.m3u8
-#EXTINF:-1 tvg-id="HTB.RU" tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="欧洲精选",НТВ(俄罗斯)
-http://188.93.95.34:80/ntvmir/index.m3u8
+#EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲精选",TNT
+https://bl.zxz.su/live/317850/HLS/4614144_3/1565921809/94e975ed33722815523b6d1fbe0f8780/playlist.m3u8
+#EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲精选",Friday
+https://bl.zxz.su/live/317843/HLS/4614144_3/1565922107/615fc5d2640f59b5600757f90e28edcc/playlist.m3u8
+#EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲精选",ТВ-3
+https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1590744810/38c576307c6d2932d78f84151cd79d27/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN(荷兰)
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
