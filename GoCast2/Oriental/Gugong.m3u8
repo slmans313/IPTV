@@ -557,8 +557,8 @@ http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
 #EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="英国",CBeebies
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/824.m3u8
+#EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="英国",CBBC
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/821.m3u8
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="英国",ITV2
@@ -571,18 +571,12 @@ http://51.52.156.22:8888/http/007
 http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="英国",Channel 4
 http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
-#EXTINF:-1 tvg-id="MO4.UK" tvg-logo="https://static.epg.best/gb/More4.uk.png" group-title="英国",More4
-http://145.239.255.4:8080/more4/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="CE4.UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="英国",E4
 http://178.132.3.162:88/E4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="英国",Film 4
 http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="英国",Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
-#EXTINF:-1 tvg-id="5US.UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png" group-title="英国",5 USA
-http://145.239.255.4:8080/en-5usa/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="5SE.UK" tvg-logo="https://static.epg.best/gb/5Select.uk.png" group-title="英国",5 Select
-http://145.239.255.4:8080/en-My5/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="BXH.UK" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="英国",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-id="EMA.UK" tvg-logo="https://www.emanchannel.tv/wp-content/themes/eman/img/logo.png" group-title="英国",Eman
@@ -595,10 +589,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="MAG.UK" tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="英国",Magic
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="英国",Pop UK
-http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png" group-title="英国",Tiny Pop
-http://145.239.255.4:8080/en-TinyPop/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="英国",POP Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky.News" tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="英国",Sky News
