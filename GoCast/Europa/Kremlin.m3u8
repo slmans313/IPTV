@@ -749,25 +749,18 @@ rtmp://212.2.228.202:1935/live/htv.stream
 http://kazakhtvkg.ultraiptv.com/live_kg/playlist3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Baltic States",ETV (Eesti)
-https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
+https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETV2.ee.png" group-title="Baltic States",ETV 2(Eesti)
-https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8
+https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETVPlus.ee.png" group-title="Baltic States",ETV+ (Eesti)
-https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
+https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lt/LRTLituanica.lt.png" group-title="Baltic States",LRT Lituanica(Lietuva)
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/LRT_radijas.jpg" group-title="Baltic States",LRT Radijas(Lietuva)
 https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam2_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://chaula.tv/static/chaulatv/css/images/big_logo.png" group-title="Baltic States",Chau (Latvija)
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV3.lt.png" group-title="Baltic States",TV3 Latvija
-http://84.237.245.42/live/eds/TV3_LV_SD/H1s_0utput/TV3_LV_SD.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV6.lt.png" group-title="Baltic States",TV6 Latvija
-http://84.237.245.42/live/eds/TV6_LV_SD/H1s_0utput/TV6_LV_SD.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV3.lt.png" group-title="Baltic States",TV3 Lietuva
-http://84.237.245.42/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV3.lt.png" group-title="Baltic States",TV6 Lietuva
-http://84.237.245.42/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png" group-title="Moldova",Moldova 1
 http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
