@@ -703,6 +703,9 @@ http://89.106.234.4:80/RenTV_34_35.m3u8
 http://89.106.234.4:80/STS_38_39.m3u8
 #EXTINF:-1 tvg-id="ТНТ.RU" tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="欧洲精选",ТНТ
 https://bl.zxz.su/live/317850/HLS/4614144_3/1565921809/94e975ed33722815523b6d1fbe0f8780/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NPN.NL" tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲精选",NPO Nieuws
@@ -711,10 +714,10 @@ http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 #EXTINF:-1 tvg-id="CAV.BE" tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲精选",Canvas
 https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+
+
 #EXTINF:-1 tvg-id="1UA.UA" tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲精选",UA:First
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="欧洲精选",SVT 1
-http://185.19.191.12:8090/SVT1/index.m3u8
 #EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="欧洲精选",ANT 1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="TV1.RO" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="欧洲精选",TVR 1
@@ -723,6 +726,15 @@ http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
 #EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="欧洲精选",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-id="TVP.PL" tvg-logo="https://s.tvp.pl/files/portal/v4/gfx/logo/tvp1_b.png" group-title="欧洲精选",TVP 1
+http://54.38.52.108/hls/kurwatvp1.m3u8
+
+#EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="欧洲精选",SVT 1
+http://185.19.191.12:8090/SVT1/index.m3u8
+#EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="欧洲精选",DR 1
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="欧洲精选",NRK 1
+https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
 
 #EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="拉丁精选",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
