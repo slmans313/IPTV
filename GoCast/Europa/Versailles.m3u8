@@ -1100,43 +1100,45 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/04/Weeff-Radio.jpg" group-title="Netherlands",WEEF
 http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.tvp.pl/files/portal/v4/gfx/logo/polonia-logo.png" group-title="Polska",TVP Polonia
-https://rsdt-waw202-73.tvp.pl/token/video/live/34414171/20191227/661499293/b405869b-fde7-4262-a461-b5c5e282af0a/live204.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/4funTV.pl.png" group-title="Polska",4fun
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/TVP3bialystok.png" group-title="Polska",TVP 3 Białystok
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP1.pl.png" group-title="Polska",TVP 1
+http://54.38.52.108/hls/kurwatvp1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP2.pl.png" group-title="Polska",TVP 2
+http://54.38.52.108/hls/kurwatvp2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Białystok
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TVP3-Bydgoszcz.svg/375px-TVP3-Bydgoszcz.svg.png" group-title="Polska",TVP 3 Bydgoszcz
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Bydgoszcz
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tvp3gda%C5%84sk2016.JPG/375px-Tvp3gda%C5%84sk2016.JPG" group-title="Polska",TVP 3 Gdańsk
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Gdańsk
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvp3gorzow.png" group-title="Polska",TVP 3 Gorzów
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.pngg" group-title="Polska",TVP 3 Gorzów
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVP3_Katowice_-_logo_od_1_stycznia_2016_roku.jpg/375px-TVP3_Katowice_-_logo_od_1_stycznia_2016_roku.jpg" group-title="Polska",TVP 3 Katowice
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Katowice
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tvp3kielce2016.JPG/375px-Tvp3kielce2016.JPG" group-title="Polska",TVP 3 Kielce
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Kielce
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tvp3krak%C3%B3w2016.JPG/375px-Tvp3krak%C3%B3w2016.JPG" group-title="Polska",TVP 3 Kraków
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Kraków
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tvp3%C5%82%C3%B3d%C5%BA2016.JPG/375px-Tvp3%C5%82%C3%B3d%C5%BA2016.JPG" group-title="Polska",TVP 3 Łódź
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Łódź
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz:
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tvp3lublin2016.JPG/375px-Tvp3lublin2016.JPG" group-title="Polska",TVP 3 Lublin
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Lublin
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Tvp3olsztyn.png" group-title="Polska",TVP 3 Olsztyn
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.pngg" group-title="Polska",TVP 3 Olsztyn
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TVP3-Opole.svg/1920px-TVP3-Opole.svg.png" group-title="Polska",TVP 3 Opole
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Opole
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/TVP_3_Poznan_logo.png/240px-TVP_3_Poznan_logo.png" group-title="Polska",TVP 3 Poznań
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Poznań
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Tvp3rzeszow.png" group-title="Polska",TVP 3 Rzeszów
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Rzeszów
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Tvp3szczecin.png" group-title="Polska",TVP 3 Szczecin
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Szczecin
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvp3warszawa2016.JPG" group-title="Polska",TVP 3 Warszawa
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Warszawa
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Tvp3wroclaw.png" group-title="Polska",TVP 3 Wrocław
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Wrocław
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/375px-TVP_Info_logo.svg.png" group-title="Polska",TVP Info
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVPInfo.pl.png" group-title="Polska",TVP Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvtzgorzelec.pl/images/logo3.png" group-title="Polska",TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
