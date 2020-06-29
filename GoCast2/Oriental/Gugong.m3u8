@@ -313,7 +313,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="电影",Cinemax
 http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
-http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-ID="FX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
 https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="http://static.epg.best/id/FOXMovies.id.png" group-title="电影",FOX Movies
@@ -331,8 +331,12 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="体育",MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="体育",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
+#EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="体育",NFL Network
+https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 #EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="体育",Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-ID="PF1.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="体育",Premier Football 1
@@ -516,26 +520,18 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-ID="FSP.US" tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="美国",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 tvg-ID="GET.US" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-81915.png" group-title="美国",getTV
-https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 tvg-ID="GLO.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="美国",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-#EXTINF:-1 tvg-id="H2.UK" tvg-logo="http://singteltv.com.sg/_channels/pic_ch210.jpg" group-title="美国",H2
-http://185.93.2.35:12012/live/359111068247FFA1/kCRdK-SabFep-1NkdUpQhyihdKpjgQN7euYM2D5rghDm9D9O4QlHw-tnTOt0Jy5s/189BDC20C58B4075/258267.ts
 #EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="美国",ICI Tele
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="美国",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="美国",MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="美国",National Geographic Channel
 http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 #EXTINF:-1 tvg-ID="NMA.US" tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="美国",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="美国",NFL Network
-https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 #EXTINF:-1 tvg-ID="PBS.US" tvg-logo="https://static.epg.best/us/PBSWLIW21.us.png" group-title="美国",PBS 
-https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b2038272.m3u8
+https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
 #EXTINF:-1 tvg-id="Peo.US" tvg-logo="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png" group-title="美国",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-ID="POP.US" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="美国",Pop
