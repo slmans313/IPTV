@@ -295,7 +295,7 @@ https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="新闻",CNBC World
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="新闻",DW(德国)
+#EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="新闻",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="新闻",欧洲新闻
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
@@ -461,7 +461,7 @@ http://211.245.55.198:1024/m2u/239.192.48.5:49220
 http://211.245.55.198:1024/m2u/239.192.52.8:49220
 #EXTINF:-1 tvg-ID="OLI.KR" tvg-logo="https://static.epg.best/kr/Olive.kr.png" group-title="韩国",Olive
 http://211.245.55.198:1024/m2u/239.192.58.10:49220
-#EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="韩国",YTN(韩国)
+#EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="韩国",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="韩国",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
@@ -658,121 +658,117 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="MHN.IN" tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="印度精选",MH1 Prime
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲精选",TF1(法国)
+#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲精选",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-ID="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲精选",France 2(法国)
+#EXTINF:-1 tvg-ID="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="欧洲精选",France 2
 http://178.132.3.162:88/france2/index.m3u8?token=test
-#EXTINF:-1 tvg-ID="FR3.FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",France 3(法国)
+#EXTINF:-1 tvg-ID="FR3.FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="欧洲精选",France 3
 http://178.132.3.162:88/france3/index.m3u8?token=test
-#EXTINF:-1 tvg-ID="TV5.Asia" tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",TV5 Monde(法国)
+#EXTINF:-1 tvg-ID="TV5.Asia" tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="欧洲精选",TV5 Monde
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:-1 tvg-id="TMC.FR" tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="欧洲精选",TFM(法国)
+#EXTINF:-1 tvg-id="TMC.FR" tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="欧洲精选",TFM
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="BFM.FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="欧洲精选",BFM(法国)
+#EXTINF:-1 tvg-id="BFM.FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="欧洲精选",BFM
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲精选",Das Erste(德国)
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲精选",Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="欧洲精选",One(德国)
+#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="欧洲精选",One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="欧洲精选",Kika(德国)
+#EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="欧洲精选",Kika
 https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="T24.DE" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="欧洲精选",Tagesschau 24(德国)
+#EXTINF:-1 tvg-id="T24.DE" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="欧洲精选",Tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="RTL.DE" tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="欧洲精选",RTL(德国)
+#EXTINF:-1 tvg-id="RTL.DE" tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="欧洲精选",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-id="VOX.DE" tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="欧洲精选",Vox(德国)
+#EXTINF:-1 tvg-id="VOX.DE" tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="欧洲精选",Vox
 http://5.135.92.133:52841/out/u/123_1.m3u8
-#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲精选",Rai 1(意大利)
+#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="欧洲精选",Rai 1
 http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲精选",Rai 2(意大利)
+#EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="欧洲精选",Rai 2
 http://5.135.92.133:52841/out/u/452_1.m3u8
-#EXTINF:-1 tvg-id="RAY.IT" tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="欧洲精选",Rai YoYo(意大利)
+#EXTINF:-1 tvg-id="RAY.IT" tvg-logo="https://static.epg.best/it/RaiYoyo.it.png" group-title="欧洲精选",Rai YoYo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="欧洲精选",Canale 5(意大利)
+#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="欧洲精选",Canale 5
 http://5.135.92.133:52841/out/u/425_1.m3u8
-#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="欧洲精选",Italia 1(意大利)
+#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="欧洲精选",Italia 1
 http://5.135.92.133:52841/out/u/53_1.m3u8
-#EXTINF:-1 tvg-id="FRB.IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" group-title="欧洲精选",Frisbee(意大利)
+#EXTINF:-1 tvg-id="FRB.IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" group-title="欧洲精选",Frisbee
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-
 #EXTINF:-1 tvg-id="1RU.RU"  tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="欧洲精选",Первый
 https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲精选",Russia 1(俄罗斯)
+#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲精选",Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲精选",Russia 24(俄罗斯)
+#EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="欧洲精选",Russia 24
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 tvg-id="PEH.RU" tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="欧洲精选",РЕН(俄罗斯)
+#EXTINF:-1 tvg-id="PEH.RU" tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="欧洲精选",РЕН
 http://89.106.234.4:80/RenTV_34_35.m3u8
-#EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲精选",СТС(俄罗斯)
+#EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="欧洲精选",СТС
 http://89.106.234.4:80/STS_38_39.m3u8
-#EXTINF:-1 tvg-id="ТНТ.RU" tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="欧洲精选",ТНТ(俄罗斯)
+#EXTINF:-1 tvg-id="ТНТ.RU" tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="欧洲精选",ТНТ
 https://bl.zxz.su/live/317850/HLS/4614144_3/1565921809/94e975ed33722815523b6d1fbe0f8780/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN(荷兰)
+#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NPN.NL" tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲精选",NPO Nieuws(荷兰)
+#EXTINF:-1 tvg-id="NPN.NL" tvg-logo="https://static.epg.best/nl/NPONieuws.nl.png" group-title="欧洲精选",NPO Nieuws
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
 #EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="欧洲精选",één(比利时)
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
-#EXTINF:-1 tvg-id="CAV.BE" tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲精选",Canvas(比利时)
+#EXTINF:-1 tvg-id="CAV.BE" tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲精选",Canvas
 https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 
-#EXTINF:-1 tvg-id="1UA.UA" tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲精选",UA:First(乌克兰)
+#EXTINF:-1 tvg-id="1UA.UA" tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲精选",UA:First
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="欧洲精选",SVT 1(瑞典)
+#EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="欧洲精选",SVT 1
 http://185.19.191.12:8090/SVT1/index.m3u8
-#EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="欧洲精选",ANT 1(希腊)
+#EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="欧洲精选",ANT 1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-id="TV1.RO" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="欧洲精选",TVR 1(罗马尼亚)
+#EXTINF:-1 tvg-id="TV1.RO" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="欧洲精选",TVR 1
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="欧洲精选",HRT 1(克罗地亚)
+#EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="欧洲精选",HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
-#EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="欧洲精选",Joj(斯洛伐克)
+#EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="欧洲精选",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
 
-#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="拉丁精选",LA 1(西班牙)
+#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="拉丁精选",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:-1 tvg-id="LA2.ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="拉丁精选",LA 2(西班牙)
+#EXTINF:-1 tvg-id="LA2.ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="拉丁精选",LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="24H.ES" tvg-logo="https://static.epg.best/es/24Horas.es.png" group-title="拉丁精选",24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 #EXTINF:-1 tvg-id="ETO.ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="拉丁精选",El Toro
 https://strvideo1.ondamedia.es/hls/eltorotv.m3u8
-#EXTINF:-1 tvg-id="RT3.PT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="拉丁精选",RTP 3(葡萄牙)
+#EXTINF:-1 tvg-id="RT3.PT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="拉丁精选",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="拉丁精选",RTP Internacional(葡萄牙)
+#EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="拉丁精选",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ONC.MX" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="拉丁精选",Canal Once(墨西哥)
+#EXTINF:-1 tvg-id="ONC.MX" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="拉丁精选",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CV9.DO" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="拉丁精选",Color Visión(多明尼加)
+#EXTINF:-1 tvg-id="CV9.DO" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="拉丁精选",Color Visión
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/COV9.m3u8
-#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="拉丁精选",RCN(哥伦比亚)
+#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="拉丁精选",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-#EXTINF:-1 tvg-id="CUB.CU" tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="拉丁精选",Cubavision International(古巴)
+#EXTINF:-1 tvg-id="CUB.CU" tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="拉丁精选",Cubavision International
 https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-id="ECU.EC" tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="拉丁精选",Ecuavisa(厄瓜多尔)
+#EXTINF:-1 tvg-id="ECU.EC" tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="拉丁精选",Ecuavisa
 http://173.212.247.99/hls/tvec2.m3u8
-#EXTINF:-1 tvg-id="MUT.MX" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="拉丁精选",Multimedios(墨西哥)
+#EXTINF:-1 tvg-id="MUT.MX" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="拉丁精选",Multimedios
 https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
-#EXTINF:-1 tvg-id="MEG.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/MegaTV.png" group-title="拉丁精选",Mega TV(波多黎各)
+#EXTINF:-1 tvg-id="MEG.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/MegaTV.png" group-title="拉丁精选",Mega TV
 http://livestream.lamusica.com/megatvlive/megatvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="RPC.PA" tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="拉丁精选",RPC Canal 4(巴拿马)
+#EXTINF:-1 tvg-id="RPC.PA" tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="拉丁精选",RPC Canal 4
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-#EXTINF:-1 tvg-id="CA6.CR" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" group-title="拉丁精选",Repretel 6(哥斯达黎加)
+#EXTINF:-1 tvg-id="CA6.CR" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" group-title="拉丁精选",Repretel 6
 http://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
-#EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="拉丁精选",Trece(巴拉圭)
+#EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="拉丁精选",Trece
 http://174.138.118.252/live/canal13stream_src.m3u8
-#EXTINF:-1 tvg-id="SBT.BR" tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="拉丁精选",SBT(巴西)
+#EXTINF:-1 tvg-id="SBT.BR" tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="拉丁精选",SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
-#EXTINF:-1 tvg-id="TVB.BR" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="拉丁精选",TV Brasil(巴西)
+#EXTINF:-1 tvg-id="TVB.BR" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="拉丁精选",TV Brasil
 http://150.161.93.220/hls/1080/index.m3u8
-#EXTINF:-1 tvg-id="TVC.CL" tvg-logo="http://estaticos.tvchile.cl/skins/imagenes/logo.png" group-title="拉丁精选",TV Chile(智利)
+#EXTINF:-1 tvg-id="TVC.CL" tvg-logo="http://estaticos.tvchile.cl/skins/imagenes/logo.png" group-title="拉丁精选",TV Chile
 https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
-#EXTINF:-1 tvg-id="TVP.PE" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="拉丁精选",TV Perú(秘鲁)
+#EXTINF:-1 tvg-id="TVP.PE" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="拉丁精选",TV Perú
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="VEN.VE" tvg-logo="https://img.onesignal.com/permanent/6ccb6292-70bd-47e7-bc04-1cfd57d64b33.png" group-title="拉丁精选",Venezolana(委内瑞拉)
+#EXTINF:-1 tvg-id="VEN.VE" tvg-logo="https://img.onesignal.com/permanent/6ccb6292-70bd-47e7-bc04-1cfd57d64b33.png" group-title="拉丁精选",Venezolana
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist_w792631932.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东精选",MBC 1
@@ -781,29 +777,27 @@ https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC.EG" tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="中东精选",MBC Egypt
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Aloula(阿布扎比)
+#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Aloula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="AAA.AE" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="中东精选",Al Aan(杜拜)
+#EXTINF:-1 tvg-id="AAA.AE" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="中东精选",Al Aan
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="中东精选",TRT 1(土耳其)
+#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="中东精选",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ATV.TR" tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="中东精选",ATV(土耳其)
+#EXTINF:-1 tvg-id="ATV.TR" tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="中东精选",ATV
 http://tv.kuzeytv.com/hls/atv.m3u8
-#EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="中东精选",Star(土耳其)
+#EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="中东精选",Star
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SHW.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="中东精选",Show(土耳其)
+#EXTINF:-1 tvg-id="SHW.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="中东精选",Show
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="中东精选",Kanal D(土耳其)
+#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="中东精选",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东精选",Kan 11(以色希)
+#EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东精选",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-id="33.IL" tvg-logo="https://static.epg.best/il/Makan33.il.png" group-title="中东精选",Makan 33(以色希)
+#EXTINF:-1 tvg-id="33.IL" tvg-logo="https://static.epg.best/il/Makan33.il.png" group-title="中东精选",Makan 33
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.IL" tvg-logo="https://img.mako.co.il/2019/11/19/24logowhite_I_reduced.jpg" group-title="中东精选",Music 24(以色希)
+#EXTINF:-1 tvg-id="24.IL" tvg-logo="https://img.mako.co.il/2019/11/19/24logowhite_I_reduced.jpg" group-title="中东精选",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1 tvg-id="13.IL" tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="中东精选",13频道(以色希)
+#EXTINF:-1 tvg-id="13.IL" tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="中东精选",Reshet 13
 https://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13_1200.m3u8
-#EXTINF:-1 tvg-id="20.IL" tvg-logo="https://static.epg.best/il/Channel20.il.png" group-title="中东精选",20频道(以色希)
+#EXTINF:-1 tvg-id="20.IL" tvg-logo="https://static.epg.best/il/Channel20.il.png" group-title="中东精选",ערוץ 20
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
