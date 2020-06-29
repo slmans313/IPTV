@@ -83,8 +83,6 @@ https://live.cgtn.com/1000/prog_index.m3u8
 http://live.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
-#EXTINF:-1 tvg-ID="CNB.News" tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="Berita",CNBC
-http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="Berita",CNBC World
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="Berita",DW
@@ -114,10 +112,6 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="Berita",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-ID="BS1.Asia" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sukan",beIN Sports 1
-https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
-#EXTINF:-1 tvg-ID="BS2.Asia" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sukan",beIN Sports 2
-https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sukan",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sukan",CCTV-5
@@ -136,18 +130,8 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-ID="PF2.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sukan",Premier Football 2
 https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
-#EXTINF:-1 tvg-ID="PF3.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sukan",Premier Football 3
-https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
-#EXTINF:-1 tvg-ID="PF4.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sukan",Premier Football 4
-https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
-#EXTINF:-1 tvg-ID="PF5.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sukan",Premier Football 5
-https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
 #EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="Sukan",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-id="SES.Int" tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Sukan",Setanta Sports
-http://188.93.95.34:80/setanta_georgia/index.m3u8
-#EXTINF:-1 tvg-id="SEP.Int" tvg-logo="http://static.epg.best/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sukan",Setanta Sports +
-http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 #EXTINF:-1 tvg-id="SPN.UK" tvg-logo="http://static.epg.best/gb/SkySportsNews.uk.png" group-title="Sukan",Sky Sports News
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-id="SME.UK" tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="Sukan",Sky Sports Main Event
@@ -168,6 +152,16 @@ https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
 #EXTINF:-1 tvg-id="SFG.UK" tvg-logo="http://static.epg.best/gb/SkySportsGolf.uk.png" group-title="Sukan",Sky Sports Golf
 https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport1.png" group-title="Sukan",SkyNet Sport 1
+https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport2.png" group-title="Sukan",SkyNet Sport 2
+https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport3.png" group-title="Sukan",SkyNet Sport 3
+https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport4.png" group-title="Sukan",SkyNet Sport 4
+https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport5.png" group-title="Sukan",SkyNet Sport 5
+https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="Sukan",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-ID="TS2.TH" tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Sukan",True Sport 2
@@ -175,47 +169,20 @@ https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-ID="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Sukan",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
 
-
-#EXTINF:-1 tvg-ID="AMC.US" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="Filem",AMC
-http://live.highstream.club/live/AMC/playlist.m3u8
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="Filem",Cinemax
 http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Filem",HBO
 http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
-#EXTINF:-1 tvg-ID="FXM.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="Filem",FX
+#EXTINF:-1 tvg-ID="FX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="Filem",FX
 https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
-#EXTINF:-1 tvg-id="HBS.US" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Filem",HBO Signature
-http://live.highstream.club/live/HBOSignature/playlist.m3u8
-#EXTINF:-1 tvg-id="HBZ.US" tvg-logo="https://static.epg.best/us/HBOZone.us.png" group-title="Filem",HBO Zone
-http://live.highstream.club/live/HBOZone/playlist.m3u8
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="http://static.epg.best/id/FOXMovies.id.png" group-title="Filem",FOX Movies
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 tvg-id="PAN.CA" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Filem",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-#EXTINF:-1 tvg-id="MON.ID" tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="Filem",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-id="MNX.ID" tvg-logo="http://static.epg.best/in/MNX2.in.png" group-title="Filem",MNX Movies
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="Filem",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-id="STR.US" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="Filem",Starz
-http://live.highstream.club/live/StarZ/playlist.m3u8
-#EXTINF:-1 tvg-id="SYF.US" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="Filem",Syfy
-http://live.highstream.club/live/Syfy/playlist.m3u8
-#EXTINF:-1 tvg-id="SCD.UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="Filem",Sky Cinema Drama
-http://145.239.255.4:8080/SkyDrama/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="SCA.UK" tvg-logo="https://static.epg.best/nz/SkyMoviesAction.nz.png" group-title="Filem",Sky Cinema Action
-http://145.239.255.4:8080/M4M/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="SCC.UK" tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Movies-Comedy-UK.png" group-title="Filem",Sky Cinema Comedy
-http://145.239.255.4:8080/SkyComedy/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="SDI.UK" tvg-logo="https://static.epg.best/nz/SkyMoviesDisney.nz.png" group-title="Filem",Sky Cinema Disney
-http://145.239.255.4:8080/SkyDisney/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="SCP.UK" tvg-logo="https://static.epg.best/nz/SkyMoviesPremiere.nz.png" group-title="Filem",Sky Cinema Premiere
-http://145.239.255.4:8080/SkyPremiere/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Filem",Sony Movies Action
-http://145.239.255.4:8080/M4M/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="SOM.UK" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="Filem",Sony Movies
-http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="SMC.UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="Filem",Sony Movies Classic
-http://145.239.255.4:8080/en-TrueMovies2/mono.m3u8?token=test
+http://51.52.156.22:8888/http/009
 
 #EXTINF:-1 tvg-id="MAK.SA" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Bahasa Arab",Makkah TV
 http://playlive.goonj.pk/makkahweb_480p/index.m3u8
