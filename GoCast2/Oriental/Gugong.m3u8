@@ -48,12 +48,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NET.ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="新马",NET(印尼)
 http://iptv.burhansyam.com/vidio/net.m3u8
-#EXTINF:-1 tvg-id="NET.ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="新马",BBC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
-https://uk.easyview.eu/hls/bbc-london.m3u8|http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="NET.ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="新马",BBC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
-https://uk.easyview.eu/hls/bbc-two.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://218.250.212.147:9981/stream/channelid/2044473296
@@ -463,10 +457,6 @@ http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
 #EXTINF:-1 tvg-ID="MNE.KR" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="韩国",M-NET
 http://211.245.55.198:1024/m2u/239.192.48.5:49220
-#EXTINF:-1 tvg-id="CHO.KR" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png" group-title="韩国",TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist_w533072526.m3u8
-#EXTINF:-1 tvg-id="OBW.KR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg" group-title="韩国",OBS W
-http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-ID="OCN.KR" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="韩国",OCN
 http://211.245.55.198:1024/m2u/239.192.52.8:49220
 #EXTINF:-1 tvg-ID="OLI.KR" tvg-logo="https://static.epg.best/kr/Olive.kr.png" group-title="韩国",Olive
