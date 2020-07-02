@@ -48,10 +48,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NET.ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="新马",NET(印尼)
 http://iptv.burhansyam.com/vidio/net.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nQc7Tce.png" group-title="新马",Astro Cricket
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nQc7Tce.png" group-title="新马",Astro Cricket 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static02.astro.com.my/astro/media/astromain/astrocricket/astrocricket_logo.png" group-title="新马",Astro Cricket
+https://9now-live.akamaized.net/hls/live/708946/life-per/master.m3u8|X-Forwarded-For=52.62.247.239
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://183.179.246.16:9981/stream/channelid/1101063348
@@ -333,6 +331,8 @@ http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
 http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ASC.MY" tvg-logo="https://static02.astro.com.my/astro/media/astromain/astrocricket/astrocricket_logo.png" group-title="体育",Astro Cricket
+http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",Golf Channel
