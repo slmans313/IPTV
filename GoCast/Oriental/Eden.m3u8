@@ -382,11 +382,11 @@ http://82.212.74.3:8000/live/hls/7506.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="العراق",IRIB 1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://live.farsiland.com/tv1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv2.ir/Resource/images/header-logo.png" group-title="العراق",IRIB 2
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://live.farsiland.com/tv2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="العراق",IRIB 3 
-https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
+https://soltaan.com/iptv/irib3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.irib.ir/uploads/channel/4-min.png" group-title="العراق",IRIB 4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.irib.ir/uploads/channel/5.png" group-title="العراق",IRIB 5
@@ -396,7 +396,7 @@ https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.irib.ir/uploads/channel/amozesh-min.png" group-title="العراق",IRIB Amoozesh
 https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.irib.ir/uploads/channel/nasim-min.png" group-title="العراق",IRIB Nasim
-https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
+http://live.farsiland.com/nasim/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM Persian 1
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM Persian 2
@@ -407,13 +407,13 @@ https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM English
 https://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="العراق",IRIB Varzesh
-https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
+https://live.farsiland.com/varzesh/350822/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="العراق",MBC Persia
 https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://up.vbiran.ir/uploads/33487156717230316870_logo.png" group-title="العراق",4U TV
+http://192.99.102.14:8080/hls/4utv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="العراق",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/a0ebcf_29555ad1d17a485786cf50f99782c9a9~mv2.png/v1/fit/w_2500,h_1330,al_c/a0ebcf_29555ad1d17a485786cf50f99782c9a9~mv2.png" group-title="العراق",Andisheh TV
@@ -431,9 +431,9 @@ http://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://canadastartv.com/resimler/sistem/logo.png" group-title="العراق",Canada Star
 https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://soltaan.com/wp-content/uploads/2019/09/cinefilm.png" group-title="العراق",Cine Film
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+https://soltaan.com/iptv/c1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://soltaan.com/wp-content/uploads/2019/09/cineseries.png" group-title="العراق",Cine Series
-https://bozztv.com/36bay2/in/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+https://soltaan.com/iptv/c2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ebc1.tv/wp-content/uploads/2016/11/logoo.jpg" group-title="العراق",EBC 1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://esraeurope.org/wp-content/uploads/2017/12/logo-mark.png" group-title="العراق",Esra
