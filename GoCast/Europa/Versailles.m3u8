@@ -810,8 +810,10 @@ http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-id="WDR.DE" tvg-logo="http://static.epg.best/de/WDR.de.png" group-title="Deutschland",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 tvg-id="WEL.DE" tvg-logo="https://static.epg.best/de/Welt.de.png" group-title="新闻",WELT
+#EXTINF:-1 tvg-id="WEL.DE" tvg-logo="https://static.epg.best/de/Welt.de.png" group-title="Deutschland",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="Deutschland",Sky Sports F1 German
+http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Deutschland",Alex Berlin TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
