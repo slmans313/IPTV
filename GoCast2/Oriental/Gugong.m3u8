@@ -298,6 +298,8 @@ http://live.centerch.com/fhzx.m3u8
 http://live.centerch.com/fhzw.m3u8
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="新闻",Fox News(美国)
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HLN.News" tvg-logo="https://static.epg.best/us/HLN.us.png" group-title="新闻",HLN(美国)
+http://stream-e30453a4b.nmbs.top/m3u/Canada/a5bafcb0fa.m3u8
 #EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="新闻",NHK World(日本)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="RT.News" tvg-id="RT" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="新闻",RT(俄罗斯)
@@ -309,6 +311,10 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="新闻",TRT World(土耳其)
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
+#EXTINF:-1 tvg-id="AET.US" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="电影",A&E
+http://stream-e30453a4b.nmbs.top/m3u/Canada/03f392ffc6.m3u8
+#EXTINF:-1 tvg-id="AMC.US" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="电影",AMC
+http://stream-e30453a4b.nmbs.top/m3u/Canada/7de5e8ac30.m3u8
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="电影",Cinemax
 http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
@@ -479,15 +485,8 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/bae3e13616.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",WWE
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1391c208ba.m3u8
 
-
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",A & E CAN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/03f392ffc6.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",ABC SPARK
 http://stream-e30453a4b.nmbs.top/m3u/Canada/f309fef061.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",AMC CAN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/7de5e8ac30.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",AMERICAN HERO
-http://stream-e30453a4b.nmbs.top/m3u/Canada/52ecff5501.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",BBC CANADA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/62cfb44b1b.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",BET CAN
@@ -502,38 +501,26 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/d9681a2144.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Canada/a52db3f16b.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",CRIME INVESTIGATION CAN
 http://stream-e30453a4b.nmbs.top/m3u/Canada/2788a2be2d.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",DAY STAR
-http://stream-e30453a4b.nmbs.top/m3u/Canada/a23ca44226.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",DISCOVERY CANDA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/ab19959e4a.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",DISCOVERY SCI CANADA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/ec08fbf903.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",DIY NETWORK
 http://stream-e30453a4b.nmbs.top/m3u/Canada/97fd73d7a3.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",DOCUMENTARY
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",Documentary Channel
 http://stream-e30453a4b.nmbs.top/m3u/Canada/635cad85a6.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",E! ENT CANDA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/2ad48562e3.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",GLOBAL TORONTO
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",GLOBAL
 http://stream-e30453a4b.nmbs.top/m3u/Canada/d874c7bc19.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",GSN CANADA
-http://stream-e30453a4b.nmbs.top/m3u/Canada/8347ee35b3.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",HBO CANADA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/8884bd359a.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",HGTV CANADA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/eb3bd59c79.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",HISTORY CANADA
-http://stream-e30453a4b.nmbs.top/m3u/Canada/dcfd896fca.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",IFC CANADA
-http://stream-e30453a4b.nmbs.top/m3u/Canada/e06d6a0634.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",LIFETIME CAN
 http://stream-e30453a4b.nmbs.top/m3u/Canada/f1a3da4700.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",MOVIETIME CAN
 http://stream-e30453a4b.nmbs.top/m3u/Canada/70e2669e83.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",OWN CAN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/23c3ee681e.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",PBS KIDS CANADA
-http://stream-e30453a4b.nmbs.top/m3u/Canada/f15ecd35f7.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",PEACHTREE TV
 http://stream-e30453a4b.nmbs.top/m3u/Canada/7716a4b3ea.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",SHOWCASE CANADA
@@ -542,8 +529,6 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/26c817af50.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Canada/5d6e191893.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",SPACE
 http://stream-e30453a4b.nmbs.top/m3u/Canada/c965314ccd.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",W NETWORK
-http://stream-e30453a4b.nmbs.top/m3u/Canada/91e7abf6b2.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",YES TV
 http://stream-e30453a4b.nmbs.top/m3u/Canada/01358b9fcb.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",YOOPA KIDS
@@ -562,8 +547,6 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/aeff428891.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",CP 24
 http://stream-e30453a4b.nmbs.top/m3u/Canada/956540676a.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",HLN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/a5bafcb0fa.m3u8
 
 
 #EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="韩国",KBS 1
