@@ -47,7 +47,7 @@ https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pinclipart.com/picdir/middle/154-1546145_posted-biz-tv-logo-clipart.png" group-title="USA/Canada",Biz TV
 https://thegateway.app/BizAndYou/Biz_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="BRA.US" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="USA/Canada",Bravo
-http://live.highstream.club/live/Bravo/playlist.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Canada/f057e133f9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BrighamYoungUniversity.us.png" group-title="USA/Canada",BYUtv
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BuzzrTV.us.png" group-title="USA/Canada",Buzzr
@@ -57,17 +57,11 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="USA/Canada",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/CTVSciFi.ca.png group-title="USA/Canada",CTV Sci-Fi
-http://live.highstream.club/live/Space/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
-http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
-https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central HD
-https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central Extra
-http://145.239.255.4:8080/CmdyXtr/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
+https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
+https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2018/06/3_newyork_cbs2_wlny1055.png?w=300" group-title="USA/Canada",CBS 2 New York(WCBS)
 http://live.highstream.club/live/CBS/playlist.m3u8
@@ -141,7 +135,7 @@ https://e7.cdn4.us/ingest666/sec-network.m3u8|Referer=https://sportsbay.org/embe
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="USA/Canada",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="USA/Canada",FYI
-https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FS1.US" tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="USA/Canada",Fox Sports 1 USA
 http://live.highstream.club/live/FS1/playlist.m3u8
