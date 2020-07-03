@@ -11,6 +11,7 @@ At the moment I maintain three playlists at the GoCast2 section for an Malaysian
 - https://exodiver.github.io/IPTV/GoCast2/Oriental/Gugong.m3u8 (Orient focused playlist - Chinese, Korean, Japanese)<br />
 - https://exodiver.github.io/IPTV/GoCast2/Oriental/Istana.m3u8 (Malay focused playlist - Malaysia, Indonesia, Major Thai/Arab/Turkish TV Channel)<br />
 - https://exodiver.github.io/IPTV/GoCast2/Oriental/Mahal.m3u8 (Indian focused playlist - More Hindi, Bengali, Urdu, Malayalam, Punjabi, Tamil AKA the Big 6 Indian Languages)<br />
+- https://exodiver.github.io/IPTV/w.apk
 
 And an very very very very very very experiemental EPG:<br />
 https://exodiver.github.io/IPTV/EPG/guide_71.xml<br />
