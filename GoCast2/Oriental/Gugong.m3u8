@@ -624,14 +624,16 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
 #EXTINF:-1 tvg-id="CHC.CA" tvg-logo="https://static.epg.best/ca/CHCH.ca.png" group-title="美国",CHCH
 http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8
+#EXTINF:-1 tvg-id="CIT.CA" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png" group-title="美国",City TV
+http://stream-e30453a4b.nmbs.top/m3u/Canada/68963dd0cf.m3u8
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="美国",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="美国",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-id="COT.CA" tvg-logo="https://static.epg.best/ca/CottageLife.ca.png" group-title="美国",Cottage Life
 http://stream-e30453a4b.nmbs.top/m3u/Canada/a52db3f16b.m3u8
-#EXTINF:-1 tvg-id="CIT.CA" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png" group-title="美国",City TV
-http://stream-e30453a4b.nmbs.top/m3u/Canada/68963dd0cf.m3u8
+#EXTINF:-1 tvg-id="C24.CA" tvg-logo="https://static.epg.best/ca/Cp24.ca.png" group-title="美国",CP 24
+http://stream-e30453a4b.nmbs.top/m3u/Canada/956540676a.m3u8
 #EXTINF:-1 tvg-id="CIA" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="美国",Crime + Investigation
 http://stream-e30453a4b.nmbs.top/m3u/Canada/2788a2be2d.m3u8
 #EXTINF:-1 tvg-id="CTV.CA" tvg-logo="https://static.epg.best/ca/CTVVancouver.ca.png" group-title="美国",CTV
@@ -668,7 +670,9 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-id="GSN.CA" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png" group-title="美国",GSN
 http://stream-e30453a4b.nmbs.top/m3u/Canada/8347ee35b3.m3u8
-#EXTINF:-1 tvg-ID="GLO.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="美国",Global News
+#EXTINF:-1 tvg-id="GLO.CA" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="美国",Global
+http://stream-e30453a4b.nmbs.top/m3u/Canada/d874c7bc19.m3u8
+#EXTINF:-1 tvg-ID="GLN.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="美国",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-id="HGT.CA" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="美国",HGTV
 http://stream-e30453a4b.nmbs.top/m3u/Canada/eb3bd59c79.m3u8
@@ -726,25 +730,26 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_Sportsstars/6/prog_index.m3u8
 http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
 #EXTINF:-1 tvg-ID="WEA.US" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="美国",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="YES.CA" tvg-logo="https://static.epg.best/ca/YesTV.ca.png" group-title="美国",Yes TV
+http://stream-e30453a4b.nmbs.top/m3u/Canada/01358b9fcb.m3u8
+#EXTINF:-1 tvg-id="YOO.CA" tvg-logo="https://static.epg.best/ca/Yoopa.ca.png" group-title="美国",Yoopa
+http://stream-e30453a4b.nmbs.top/m3u/Canada/d0dfa22a3f.m3u8
 #EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",GLOBAL
-http://stream-e30453a4b.nmbs.top/m3u/Canada/d874c7bc19.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",HBO CANADA
 http://stream-e30453a4b.nmbs.top/m3u/Canada/8884bd359a.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",LIFETIME CAN
 http://stream-e30453a4b.nmbs.top/m3u/Canada/f1a3da4700.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",SPACE
 http://stream-e30453a4b.nmbs.top/m3u/Canada/c965314ccd.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",YES TV
-http://stream-e30453a4b.nmbs.top/m3u/Canada/01358b9fcb.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",YOOPA KIDS
-http://stream-e30453a4b.nmbs.top/m3u/Canada/d0dfa22a3f.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",GAME TV
 http://stream-e30453a4b.nmbs.top/m3u/Canada/55163055c4.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",CP 24
+#EXTINF:-1 tvg-id="C24.CA" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="美国",CP 24
 http://stream-e30453a4b.nmbs.top/m3u/Canada/956540676a.m3u8
+
+<channel update="i" site="tvtv.ca" site_id="36625D/152" xmltv_id="YOO.CA">Yoopa</channel>
+<channel update="i" site="tvtv.ca" site_id="36625D/651" xmltv_id="YES.CA">Yes TV</channel>
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
