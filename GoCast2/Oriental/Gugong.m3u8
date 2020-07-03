@@ -608,6 +608,8 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-id="SPA.US" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" group-title="美国",ABC Spark
 http://stream-e30453a4b.nmbs.top/m3u/Canada/f309fef061.m3u8
+#EXTINF:-1 tvg-id="BBC.CA" tvg-logo="https://static.epg.best/ca/BBCCanada.ca.png" group-title="美国",BBC Canada
+http://stream-e30453a4b.nmbs.top/m3u/Canada/62cfb44b1b.m3u8
 #EXTINF:-1 tvg-id="BUS.US" tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="美国",beIN Sports USA
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0c7bcb8db3.m3u8
 #EXTINF:-1 tvg-id="BET.CA" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="美国",BET
@@ -624,8 +626,12 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="美国",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
+#EXTINF:-1 tvg-id="COT.CA" tvg-logo="https://static.epg.best/ca/CottageLife.ca.png" group-title="美国",Cottage Life
+http://stream-e30453a4b.nmbs.top/m3u/Canada/a52db3f16b.m3u8
 #EXTINF:-1 tvg-id="CIT.CA" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png" group-title="美国",City TV
 http://stream-e30453a4b.nmbs.top/m3u/Canada/68963dd0cf.m3u8
+#EXTINF:-1 tvg-id="CIA" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="美国",Crime + Investigation
+http://stream-e30453a4b.nmbs.top/m3u/Canada/2788a2be2d.m3u8
 #EXTINF:-1 tvg-id="CTV.CA" tvg-logo="https://static.epg.best/ca/CTVVancouver.ca.png" group-title="美国",CTV
 http://stream-e30453a4b.nmbs.top/m3u/Canada/aeff428891.m3u8
 #EXTINF:-1 tvg-id="CTC.CA" tvg-logo="https://static.epg.best/ca/CTVComedy.ca.png" group-title="美国",CTV Comedy
@@ -713,12 +719,6 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=
 #EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",BBC CANADA
-http://stream-e30453a4b.nmbs.top/m3u/Canada/62cfb44b1b.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",COTTAGE LIFE
-http://stream-e30453a4b.nmbs.top/m3u/Canada/a52db3f16b.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",CRIME INVESTIGATION CAN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/2788a2be2d.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",DIY NETWORK
 http://stream-e30453a4b.nmbs.top/m3u/Canada/97fd73d7a3.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="体育",Documentary Channel
