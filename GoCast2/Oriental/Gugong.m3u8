@@ -384,6 +384,8 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/6f72d6cc4c.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Sports/35f7e3f2b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="体育",Chelsea TV
+http://stream-e30453a4b.nmbs.top/m3u/Sports/c788fb2737.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="体育",ESPN
 http://stream-e30453a4b.nmbs.top/m3u/Sports/d2a914c6da.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="体育",ESPN 2
@@ -392,8 +394,6 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/cbf3099988.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Sports/56fee19722.m3u8
 #EXTINF:-1 tvg-id="EU2.UK" tvg-logo="https://static.epg.best/gb/Eurosport2.uk.png" group-title="体育",Eurosport 2
 http://stream-e30453a4b.nmbs.top/m3u/Sports/52d1bf6f71.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="体育",Chelsea TV
-http://stream-e30453a4b.nmbs.top/m3u/Sports/c788fb2737.m3u8
 #EXTINF:-1 tvg-id="FS1.NL" tvg-logo="https://static.epg.best/nl/FoxSports1.nl.png" group-title="体育",Fox Sports 1 Netherlands
 http://stream-e30453a4b.nmbs.top/m3u/Sports/de3c2f3040.m3u8
 #EXTINF:-1 tvg-id="FS2.NL" tvg-logo="https://static.epg.best/nl/FoxSports2.nl.png" group-title="体育",Fox Sports 2 Netherlands
@@ -404,25 +404,6 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/a343513ed4.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Sports/fa99de9f27.m3u8
 #EXTINF:-1 tvg-id="FS5.NL" tvg-logo="https://static.epg.best/nl/FoxSports5.nl.png" group-title="体育",Fox Sports 5 Netherlands
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0597ac4bdf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",Sports Tv 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/74b8be496f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",Sports Tv 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/e1d3ee3e4b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",Sports Tv 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/ffe3c16b04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",Sports Tv 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5774d88b20.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",Sports Tv 5
-http://stream-e30453a4b.nmbs.top/m3u/Sports/983292458b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",SKY SP 1 ITALY
-http://stream-e30453a4b.nmbs.top/m3u/Sports/4541dbda1d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",SKY SP 1 DE
-http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="体育",SKY SP 2 DE
-http://stream-e30453a4b.nmbs.top/m3u/Sports/2c73c0d477.m3u8
-
 #EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",Golf Channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-id="MCU.UK" tvg-logo="https://static.epg.best/mu/MuTV.mu.png" group-title="体育",MUTV
@@ -441,6 +422,12 @@ https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="RAC.UK" tvg-logo="https://static.epg.best/gb/RacingUK.uk.png group-title="体育",Racing UK
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ad9d68bf34.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/logo/utstyp1459436553.png" group-title="体育",Sky Calcio 1 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/4541dbda1d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Bundesliga_1.png" group-title="体育",Sky Bundesliga 1
+http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_Bundesliga_2_HD.png" group-title="体育",Sky Bundesliga 2
+http://stream-e30453a4b.nmbs.top/m3u/Sports/2c73c0d477.m3u8
 #EXTINF:-1 tvg-id="SPN.UK" tvg-logo="http://static.epg.best/gb/SkySportsNews.uk.png" group-title="体育",Sky Sports News
 https://cdn-laos.workpoint.news/uk-skySports-news_480/index.m3u8
 #EXTINF:-1 tvg-id="SME.UK" tvg-logo="http://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="体育",Sky Sports Main Event
@@ -461,6 +448,16 @@ https://cdn-laos.workpoint.news/uk-skySports-epl_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skySports-football_720/index.m3u8
 #EXTINF:-1 tvg-id="SFG.UK" tvg-logo="http://static.epg.best/gb/SkySportsGolf.uk.png" group-title="体育",Sky Sports Golf
 https://cdn-laos.workpoint.news/uk-skySports-golf_720/index.m3u8
+#EXTINF:-1 tvg-id="ST1.PT" tvg-logo="https://www.thesportsdb.com/images/media/logo/sqxxtw1470409111.png" group-title="体育",Sports TV 1
+http://stream-e30453a4b.nmbs.top/m3u/Sports/74b8be496f.m3u8
+#EXTINF:-1 tvg-id="ST2.PT" tvg-logo="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="体育",Sports TV 2
+http://stream-e30453a4b.nmbs.top/m3u/Sports/e1d3ee3e4b.m3u8
+#EXTINF:-1 tvg-id="ST3.PT" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="体育",Sports TV 3
+http://stream-e30453a4b.nmbs.top/m3u/Sports/ffe3c16b04.m3u8
+#EXTINF:-1 tvg-id="ST4.PT" tvg-logo="https://www.thesportsdb.com/images/media/logo/vuytwx1470409983.png" group-title="体育",Sports TV 4
+http://stream-e30453a4b.nmbs.top/m3u/Sports/5774d88b20.m3u8
+#EXTINF:-1 tvg-id="ST5.PT" tvg-logo="https://www.thesportsdb.com/images/media/logo/uvpqvr1470410094.png" group-title="体育",Sports TV 5
+http://stream-e30453a4b.nmbs.top/m3u/Sports/983292458b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport1.png" group-title="体育",SkyNet Sport 1
 https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport2.png" group-title="体育",SkyNet Sport 2
