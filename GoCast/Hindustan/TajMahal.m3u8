@@ -16,7 +16,7 @@ https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsInfinity.in.png" group-title="मनोरंजन",Colors Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="मनोरंजन",DD National 
-https://edge01.iptv.digijadoo.net/live/dd_national/chunks.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="मनोरंजन",Discovery हिन्दी
 https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/si/DiscoveryScience.si.png" group-title="मनोरंजन",Discovery Science हिन्दी
@@ -68,8 +68,6 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="न्यूज़",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="न्यूज़",DD News
-https://edge01.iptv.digijadoo.net/live/dd_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="न्यूज़",इंडिया टीवी
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="न्यूज़",Janta TV
@@ -103,6 +101,8 @@ http://103.144.200.7:8080/hls/zeetv/index.m3u8
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood HD
 https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="फ़िल्म",BFlix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="फ़िल्म",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/link_images/0_43557100_1522757901.png"  group-title="फ़िल्म",B4U Plus
@@ -112,9 +112,9 @@ https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg" group-title="फ़िल्म",House Full Movies
 https://streamidvo.multitvsolution.in/live/Housefullmovies-f/p4.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="फ़िल्म",Manoranjan
-https://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
+http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="फ़िल्म",Maha Movie
-http://streamidvo.multitvsolution.in/live/MahaMovie-a/p3.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Multiplex.in.png" group-title="फ़िल्म",Multiplex Cienma
 https://streamidvo.multitvsolution.in/MultiplexCinema-e/p3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="फ़िल्म",Star Gold
