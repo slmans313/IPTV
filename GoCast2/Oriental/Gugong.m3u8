@@ -396,8 +396,6 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/6f72d6cc4c.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Sports/35f7e3f2b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="体育",Chelsea TV
-http://stream-e30453a4b.nmbs.top/m3u/Sports/c788fb2737.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="体育",ESPN
 http://stream-e30453a4b.nmbs.top/m3u/Sports/d2a914c6da.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="体育",ESPN 2
@@ -416,13 +414,11 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/a343513ed4.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Sports/fa99de9f27.m3u8
 #EXTINF:-1 tvg-id="FS5.NL" tvg-logo="https://static.epg.best/nl/FoxSports5.nl.png" group-title="体育",Fox Sports 5 Netherlands
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0597ac4bdf.m3u8
-#EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",Golf Channel
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育"NBC Sports Bay Area
+#EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",NBC Sports Bay Area
 http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育"NBC Sports Northwest
+#EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",NBC Sports Northwest
 http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育"NBC Sports Philadelphia Plus
+#EXTINF:-1 tvg-ID="Gof.Int" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="体育",NBC Sports Philadelphia Plus
 http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-id="MCU.UK" tvg-logo="https://static.epg.best/mu/MuTV.mu.png" group-title="体育",MUTV
 http://stream-e30453a4b.nmbs.top/m3u/Sports/fb2fd45098.m3u8
@@ -739,7 +735,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1 tvg-ID="TSP.Int" tvg-logo="http://static.epg.best/gb/TraceSportstars.uk.png" group-title="美国",Trace Sports Stars
 https://d2ktlibtvvj8vp.cloudfront.net/trace_Sportsstars/6/prog_index.m3u8
 #EXTINF:-1 tvg-ID="TRL.Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="美国",Trace Latina
-http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/5/prog_index.m3u8
 #EXTINF:-1 tvg-ID="WEA.US" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="美国",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="YES.CA" tvg-logo="https://static.epg.best/ca/YesTV.ca.png" group-title="美国",Yes TV
