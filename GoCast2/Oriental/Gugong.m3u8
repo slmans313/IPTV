@@ -307,8 +307,6 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="新闻",TRT World(土耳其)
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="AET.US" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="电影",A&E
-http://stream-e30453a4b.nmbs.top/m3u/Canada/03f392ffc6.m3u8
 #EXTINF:-1 tvg-id="AMC.US" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="电影",AMC
 http://stream-e30453a4b.nmbs.top/m3u/Canada/7de5e8ac30.m3u8
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="电影",Cinemax
@@ -340,8 +338,6 @@ http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/AtTheRaces.uk.png" group-title="体育",At The Races
 http://stream-e30453a4b.nmbs.top/m3u/Sports/50fd7c1091.m3u8
-#EXTINF:-1 tvg-id="ASC.MY" tvg-logo="https://static02.astro.com.my/astro/media/astromain/astrocricket/astrocricket_logo.png" group-title="体育",Astro Cricket
-http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/rs/Arenasport1.rs.png" group-title="体育",Arena Sports 1
 http://stream-e30453a4b.nmbs.top/m3u/Sports/41c5230a79.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/rs/Arenasport2.rs.png" group-title="体育",Arena Sports 2
@@ -608,6 +604,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:-1 tvg-id="RTN.IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 
+#EXTINF:-1 tvg-id="AET.US" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="美国",A&E
+http://stream-e30453a4b.nmbs.top/m3u/Canada/03f392ffc6.m3u8
 #EXTINF:-1 tvg-ID="ADU.CA" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-id="SPA.US" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" group-title="美国",ABC Spark
