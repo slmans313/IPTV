@@ -738,7 +738,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="ACC.AU" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="澳洲",ACC
-http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
+http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="澳洲",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-ID="AB2.AU" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="澳洲",ABC Comedy
@@ -773,10 +773,6 @@ https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="澳洲",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-ID="10M.AU" tvg-logo="https://static.epg.best/au/Channel10.au.png" group-title="澳洲",Ten
-http://i.mjh.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-ID="10P.AU" tvg-logo="https://static.epg.best/au/10Peach.au.png" group-title="澳洲",Peach
-http://i.mjh.nz/au/Sydney/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="10B.AU" tvg-logo="https://static.epg.best/au/10Bold.au.png" group-title="澳洲",10 Bold
 https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
 
@@ -796,42 +792,6 @@ http://i.mjh.nz/au/Melbourne/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&
 http://i.mjh.nz/au/Perth/tv.101406070685.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png"group-title="澳洲", Sydney | 10
 http://i.mjh.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png"group-title="澳洲", Adelaide | 10 Peach
-https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png"group-title="澳洲", Brisbane | 10 Peach
-http://i.mjh.nz/au/Brisbane/tv.101406040648.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png"group-title="澳洲", Canberra | 10 Peach
-http://i.mjh.nz/au/Canberra/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png"group-title="澳洲", Darwin | 10 Peach
-http://i.mjh.nz/au/Darwin/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png"group-title="澳洲", Hobart | 10 Peach
-http://i.mjh.nz/au/Hobart/tv.101406030638.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png"group-title="澳洲", Melbourne | 10 Peach
-http://i.mjh.nz/au/Melbourne/tv.101406030638.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png"group-title="澳洲", Perth | 10 Peach
-http://i.mjh.nz/au/Perth/tv.101406070688.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png"group-title="澳洲", Sydney | 10 Peach
-http://i.mjh.nz/au/Sydney/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png"group-title="澳洲", Adelaide | 10 Bold
-https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png"group-title="澳洲", Brisbane | 10 Bold
-http://i.mjh.nz/au/Brisbane/tv.101406040641.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png"group-title="澳洲", Canberra | 10 Bold
-http://i.mjh.nz/au/Canberra/tv.101406020621.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png"group-title="澳洲", Darwin | 10 Bold
-http://i.mjh.nz/au/Darwin/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png"group-title="澳洲", Hobart | 10 Bold
-http://i.mjh.nz/au/Hobart/tv.101406030631.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png"group-title="澳洲", Melbourne | 10 Bold
-http://i.mjh.nz/au/Melbourne/tv.101406030631.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png"group-title="澳洲", Perth | 10 Bold
-http://i.mjh.nz/au/Perth/tv.101406070681.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png"group-title="澳洲", Sydney | 10 Bold
-http://i.mjh.nz/au/Sydney/tv.101406020621.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-
-
-
-
 
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="澳洲",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
