@@ -242,52 +242,126 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="TRA.TH" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Thailand",Thairath TV
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-id="PPT.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title=""Thailand",PPTV
+#EXTINF:-1 tvg-id="PPT.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="Thailand",PPTV
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="India",Aaj Tak
+#EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="Hindustan(हिन्दी,)",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
-#EXTINF:-1 tvg-id="B4M.IN" tvg-logo="https://b4umusic.in/images/logo.png" group-title="India",B4U Music
+#EXTINF:-1 tvg-id="B4M.IN" tvg-logo="https://b4umusic.in/images/logo.png" group-title="Hindustan(हिन्दी,)",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 tvg-id="COL.IN" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="India",Colors
+#EXTINF:-1 tvg-id="COL.IN" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="Hindustan(हिन्दी,)",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-#EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="India",Star Plus
+#EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="Hindustan(हिन्दी,)",Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-id="STG.IN" tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="India",Star Gold
+#EXTINF:-1 tvg-id="STG.IN" tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="Hindustan(हिन्दी,)",Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 tvg-id="ZTV.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png" group-title="India",Zee TV
+#EXTINF:-1 tvg-id="ZTV.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png" group-title="Hindustan(हिन्दी,)",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="ZZC.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="India",Zee Cinema
+#EXTINF:-1 tvg-id="ZZC.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="Hindustan(हिन्दी,)",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
-#EXTINF:-1 tvg-ID="Raj.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="India",Raj TV
+#EXTINF:-1 tvg-ID="RAJ.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="Hindustan(Hindustan(தமிழ்))",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
+#EXTINF:-1 tvg-ID="RAD.IN" tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/raj-digital-pllus.png" group-title="Hindustan(தமிழ்)",Raj Digital Plus
+http://45.120.188.179/hdmi
+#EXTINF:-1 tvg-ID="JAM.IN" tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" group-title="Hindustan(தமிழ்)",Jaya Max
+http://45.120.188.178/hdmi
+#EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="Hindustan(தமிழ்)",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-ID="Mak.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="India",Makkal
+#EXTINF:-1 tvg-ID="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="Hindustan(தமிழ்)",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
-#EXTINF:-1 tvg-ID="THA.IN" tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="India",Thanthi
+#EXTINF:-1 tvg-ID="NAM.IN" tvg-logo="https://nambikkaitv.com/images/logo.png" group-title="Hindustan(தமிழ்)",Nambikkai
+http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+#EXTINF:-1 tvg-ID="MON.IN" tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Hindustan(தமிழ்)",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+#EXTINF:-1 tvg-ID="THA.IN" tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="Hindustan(தமிழ்)",Thanthi
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-ID="SMV.IN" tvg-logo="https://kccl.tv/sites/default/files/Surya-Movies-Channel.jpg" group-title="India",Surya Movies
-http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=2003412&c=suryamovies&q=sd&=.m3u8
+#EXTINF:-1 tvg-ID="MSE.IN" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2018/01/Malaimurasu-Seithigal-Logo.png" group-title="Hindustan(தமிழ்)",,MalaiMurasu Seithigal
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/malaimurasu/49992ade0624eda468a31e137996d044.sdp1/chunks.m3u8
+#EXTINF:-1 tvg-ID="SV2.IN" tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="Hindustan(தமிழ்)",SVBC 2
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ABA.IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="India",ABP Ananda
+#EXTINF:-1 tvg-id="ABA.IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="বাংলা",ABP আনন্দ
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="SBA.IN" tvg-logo="https://static.epg.best/in/SangeetBangla.in.png" group-title="India",Sangeet Bangla
+#EXTINF:-1 tvg-id="ATN.BD" tvg-logo="https://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="বাংলা",ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:-1 tvg-id="CT1.BD" tvg-logo="http://jio-tv.com/uploads/tv_image/channel-t1.png" group-title="বাংলা",Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-id="COL.BD" tvg-logo="https://static.epg.best/in/ColorsBangla.in.png" group-title="বাংলা",Colors বাংলা
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.BD" tvg-logo="https://fyshnet.files.wordpress.com/2010/08/ntv-logo1.jpg" group-title="বাংলা",NTV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:-1 tvg-id="SBA.IN" tvg-logo="https://static.epg.best/in/SangeetBangla.in.png" group-title="বাংলা",Sangeet বাংলা
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="India",Star Jalsha
+#EXTINF:-1 tvg-id="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="বাংলা",Star জলসা
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="India",Zee Bangla
+#EXTINF:-1 tvg-id="JAM.BD" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="বাংলা",Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1 tvg-id="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="বাংলা",Zee বাংলা
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="India",Balle Balle
+#EXTINF:-1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="ਪੰਜਾਬੀ",Balle Balle
 https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="DDP.IN" tvg-logo="https://static.epg.best/in/DDPunjabi.in.png" group-title="India",DD Punjabi
+#EXTINF:-1 tvg-id="BOB.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-165/list/170x120/09165booglebollywood.png" group-title="ਪੰਜਾਬੀ"",Boogle Bollywood 
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="CKT.IN" tvg-logo="http://live.timetv.news/uploads/tv_image/time-tv-live.png" group-title="ਪੰਜਾਬੀ",Chardik Time
+http://radio.lapunjabiradio.com/hls/chardikalatimetv.m3u8
+#EXTINF:-1 tvg-id="AKK.IN" tvg-logo="http://akaalchannel.tv/assets/images/logo.png" group-title="ਪੰਜਾਬੀ",Channel Akkal
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 tvg-id="DDP.IN" tvg-logo="https://static.epg.best/in/DDPunjabi.in.png" group-title="ਪੰਜਾਬੀ",DD Punjabi
 https://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
-#EXTINF:-1 tvg-id="MH1.IN" tvg-logo="http://music.mhone.in/wp-content/uploads/2018/05/600x200-Black.png" group-title="India",MH One
+#EXTINF:-1 tvg-id="INP.IN" tvg-logo="https://js.newsx.com/wp-content/uploads/2019/09/punjab-4-150855-NiGvvUpV.png" group-title="ਪੰਜਾਬੀ",India News Punjab
+https://streamidvo.multitvsolution.in/IndiaNewsPunjab-a/playlist.m3u8
+#EXTINF:-1 tvg-id="MH1.IN" tvg-logo="http://music.mhone.in/wp-content/uploads/2018/05/600x200-Black.png" group-title="ਪੰਜਾਬੀ",MH One
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="MHN.IN" tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="India",MH1 Prime
+#EXTINF:-1 tvg-id="MHN.IN" tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="ਪੰਜਾਬੀ",MH1 Prime
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1 tvg-id="PIT.IN" tvg-logo="http://pitaara.tv/wp-content/uploads/2018/12/logo.png" group-title="ਪੰਜਾਬੀ",Pitaara
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
+#EXTINF:-1 tvg-id="PTG.IN" tvg-logo="https://static.epg.best/in/PTCPunjabi.in.png" group-title="ਪੰਜਾਬੀ",PTC Punjabi Gold
+http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="FLO.IN" tvg-logo="http://www.asianetmobiletv.com/channels/Flowers.png" group-title="മലയാളം",Flowers
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="മലയാളം",Jaihind
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="MAN.IN" tvg-logo="https://tv.mathrubhumi.com/polopoly_fs/7.309.1533966111!/image/image.png_gen/derivatives/default/image.png" group-title="മലയാളം",Mathrubhumi News
+https://bcovlive-a.akamaihd.net/465cbde1371545ec97137701942dfdd3/ap-southeast-1/5742227023001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="MAZ.IN" tvg-logo="https://storage.googleapis.com/news-photo/92907-MazhavilManorama.jpg" group-title="മലയാളം",Mazhavil Manorama
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+#EXTINF:-1 tvg-id="KAR.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png" group-title="മലയാളം",Kairali
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="KAP.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Kappa_TV.jpg/220px-Kappa_TV.jpg" group-title="മലയാളം",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-id="KAM.IN" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="മലയാളം",Kaumudy
+https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SUV.IN" tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="മലയാളം",Suvarna News
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-ID="SMV.IN" tvg-logo="https://kccl.tv/sites/default/files/Surya-Movies-Channel.jpg" group-title="മലയാളം",Surya Movies
+http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=2003412&c=suryamovies&q=sd&=.m3u8
+#EXTINF:-1 tvg-ID="SMM.IN" tvg-logo="https://image3.mouthshut.com/images/imagesp/925767692s.jpg" group-title="മലയാളം",Surya Music
+http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=2003412&c=suryamusic&q=sd&=.m3u8
+
+#EXTINF:-1 tvg-id="92N.PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="اردو",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="ARY.PK" tvg-logo="https://arydigital.tv/wp-content/uploads/2019/06/digital-logo.gif" group-title="اردو",ARY Digital
+https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+#EXTINF:-1 tvg-id="ARM.PK" tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="اردو",ARY Musik
+https://stream.arylive.com/MusikLive/index.m3u8
+#EXTINF:-1 tvg-id=ARZ.PK"" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="اردو",ARY Zindagi
+https://stream.arylive.com/ZindagiLive/index.m3u8
+#EXTINF:-1 tvg-id="KA2.PK" tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="اردو",Kay2
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
+#EXTINF:-1 tvg-id="PTV.PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="اردو",PTV Global
+https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+#EXTINF:-1 tvg-id="SAM.PK" tvg-logo="https://static.epg.best/pk/SamaaTV.pk.png" group-title="اردو",Samma TV
+http://playlive.goonj.pk/samaaweb_480p/index.m3u8
+#EXTINF:-1 tvg-id="UD1.PK" tvg-logo="https://static.epg.best/pk/Urdu1.pk.png" group-title="اردو",Urdu 1
+http://playlive.goonj.pk/urdu1web_480p/index.m3u8
+#EXTINF:-1 tvg-id="VEN.PK" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="اردو",Venus
+http://45.77.90.56:8080/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="MAD.PK" tvg-logo="https://madanichannel.tv/img/madani-channel-logo.png" group-title="اردو",Madani TV
+https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/madnitvurdu/madniurdu_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="ADU.CA" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="Amerika",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
