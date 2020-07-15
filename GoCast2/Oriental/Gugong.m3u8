@@ -534,9 +534,9 @@ http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
 #EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="英国",BBC Earth
+#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="英国",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="英国",BBC Lifestyle
+#EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="英国",CBBC
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/821.m3u8
@@ -589,10 +589,8 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/03f392ffc6.m3u8
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-id="SPA.US" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" group-title="美国",ABC Spark
 http://stream-e30453a4b.nmbs.top/m3u/Canada/f309fef061.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ooy2lyY.png" group-title="美国",Animal Planet
+#EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="美国",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" group-title="美国",Da Vinci
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BUS.US" tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="美国",beIN Sports USA
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0c7bcb8db3.m3u8
 #EXTINF:-1 tvg-id="BET.CA" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="美国",BET
@@ -633,7 +631,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Canada/c965314ccd.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Canada/4f95f02e05.m3u8
 #EXTINF:-1 tvg-id="CTN.CA" tvg-logo="https://static.epg.best/ca/CTVNewsVancouver.ca.png" group-title="美国",CTV News
 http://stream-e30453a4b.nmbs.top/m3u/Canada/b2ded806d7.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" group-title="美国",Da Vinci
+#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="美国",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="美国",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
