@@ -8,8 +8,8 @@ All the M3U-playlist is very very experimental at the moment. The GoCast playlis
 
 At the moment I maintain 2 playlists at the GoCast2 section for an Malaysian/Singaporean audience:<br />
 
-- https://exodiver.github.io/IPTV/GoCast2/Oriental/Gugong.m3u8 (Orient focused playlist - Chinese, Korean, Japanese)<br />
-- https://exodiver.github.io/IPTV/GoCast2/Oriental/Istana.m3u8 (Malay/Indian  focused playlist - Malaysia, Indonesia, Major Thai/Arab/Turkish,Hindi/Bengali/Urdu/Malayalam/Punjabi,Tamil TV Channel)<br />
+- https://exodiver.github.io/IPTV/Prototype/Gugong.m3u8 (Orient focused playlist - Chinese, Korean, Japanese)<br />
+- https://exodiver.github.io/IPTV/Prototype/Istana.m3u8 (Malay/Indian  focused playlist - Malaysia, Indonesia, Major Thai/Arab/Turkish,Hindi/Bengali/Urdu/Malayalam/Punjabi,Tamil TV Channel)<br />
 
 And an very very very very very very experiemental EPG:<br />
 https://exodiver.github.io/IPTV/EPG/guide_71.xml<br />
