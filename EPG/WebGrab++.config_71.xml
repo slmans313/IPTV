@@ -2,8 +2,8 @@
 <settings>
    
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-  <license wg-username="???" registered-email="???" password="???"></license>
-  <filename>????</filename>
+  <license wg-username="???" registered-email="???" password="???">f</license>
+  <filename>???.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent>
@@ -17,12 +17,14 @@
   <decryptkey site="foxtel.com.au.EK">???</decryptkey>
   <decryptkey site="uk-sky.com">???</decryptkey>
   <decryptkey site="tatasky.com.EK">???</decryptkey>
-  <decryptkey site="zee5.com.EK">???</decryptkey>
+  <decryptkey site="zee5.com.EK">???%</decryptkey>
   <decryptkey site="freeview.com.au.EK">???</decryptkey>
   <decryptkey site="telekom.sk.EK">???</decryptkey>
   <decryptkey site="firstmedia.com.EK">???</decryptkey>
   <decryptkey site="india.EK">???</decryptkey>
   <decryptkey site="tv.iskon.hr.EK">???</decryptkey>
+  <decryptkey site="skylife.co.kr.EK">???</decryptkey>
+  
   <!--
             Replace the next dummy channel entry with the channels you want.
 			You can look into the installed siteini.pack folder on your computer
@@ -32,8 +34,51 @@
   -->
     <channel update="i" site="clickthecity.com" site_id="5" xmltv_id="5NW.PH">5 Network</channel>
     <channel update="i" site="clickthecity.com" site_id="177" xmltv_id="CNP.PH">CNN Philippines</channel>
+	<channel update="i" site="tv5monde.com" site_id="asie" xmltv_id="TV5.Asia">TV5 Monde Asie</channel>
 	<channel update="i" site="untv.com" site_id="untv" xmltv_id="UNT.PH">UNTV Public</channel>
-    
+	<channel update="i" site="wwe.com.E" site_id="wwe" xmltv_id="WWE.US">WWE</channel>
+	<channel update="i" site="nba.com" site_id="nbatv" xmltv_id="NBA.US">NBA TV</channel>
+	<channel update="i" site="dstv.com" site_id="5b4c4ef0-ec6f-4e35-b33a-8edbc1e0a276##NAW" xmltv_id="AFR.News">Africa News</channel>
+
+	<channel update="i" site="foxtel.com.au.EK" site_id="24576_NHD##SKY/NHD" xmltv_id="Sky.AU">Australia Channel</channel>
+	<channel update="i" site="foxtel.com.au.EK" site_id="24576_FSD" xmltv_id="FSN.AU">Fox Sports News</channel>
+	<channel update="i" site="foxtel.com.au.EK" site_id="24576_FS1##FS1/FS1" xmltv_id="FSC.AU">Fox Cricket</channel>
+    <channel update="i" site="foxtel.com.au.EK" site_id="24576_SP2##SP2/SP2" xmltv_id="FSL.AU">Fox League</channel>
+    <channel update="i" site="foxtel.com.au.EK" site_id="24576_FS3##FS3/FS3" xmltv_id="FS3.AU">Fox Sports 503</channel>
+    <channel update="i" site="foxtel.com.au.EK" site_id="24576_FAF##FAF/FAF" xmltv_id="FSF.AU">Fox Footy</channel>
+    <channel update="i" site="foxtel.com.au.EK" site_id="24576_FSP##FSP/FSP" xmltv_id="FS5.AU">Fox Sports 505</channel>
+    <channel update="i" site="foxtel.com.au.EK" site_id="24576_SPS##SPS/SPS" xmltv_id="FS6.AU">Fox Sports 506</channel>
+    <channel update="i" site="foxtel.com.au.EK" site_id="24576_FSS##FSS/FSS" xmltv_id="FSM.AU">Fox Sports More</channel>
+   	<channel update="i" site="foxtel.com.au.EK" site_id="24576_RTV##RTV/RTV" xmltv_id="RAC.AU">Racing.com</channel>
+	
+	<channel update="i" site="freeview.com.au.EK" site_id="3202:0300:0307" xmltv_id="SBM.AU">SBS World Movies</channel>
+    <channel update="i" site="freeview.com.au.EK" site_id="1014:0602:0621" xmltv_id="10B.AU">10 Bold</channel>
+	
+	<channel update="i" site="tvarenasport.com" site_id="SRB_380" xmltv_id="AS1.RS">Arena Sports 1</channel>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_381" xmltv_id="AS2.RS">Arena Sports 2</channel>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_382" xmltv_id="AS3.RS">Arena Sports 3</channel>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_383" xmltv_id="AS4.RS">Arena Sports 4</channel>
+    <channel update="i" site="tvarenasport.com" site_id="SRB_384" xmltv_id="AS5.RS">Arena Sports 5</channel>
+		
+    <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="BNE.QA">beIN Sports News</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="B01.QA">beIN Sports 1</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD2" xmltv_id="B02.QA">beIN Sports 2</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD3" xmltv_id="B03.QA">beIN Sports 3</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD4" xmltv_id="B04.QA">beIN Sports 4</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD5" xmltv_id="B05.QA">beINSports</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD6" xmltv_id="B06.QA">beIN Sports 6</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD7" xmltv_id="B07.QA">beIN Sports 7</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD8" xmltv_id="B08.QA">beIN Sports 8</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD9" xmltv_id="B09.QA">beIN Sports 9</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/HD10" xmltv_id="B10.QA">beIN Sports 10</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/SportsHD11" xmltv_id="B11.QA">beIN Sports 11</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/SportsHD12" xmltv_id="B12.QA">beIN Sports 12</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/SportsHD13" xmltv_id="B13.QA">beIN Sports 13</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/Global" xmltv_id="BUS.US">beIN Sports USA</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS1" xmltv_id="B01.AU">beIN Sports 1 Australia</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS2" xmltv_id="B02.AU">beIN Sports 2 Australia</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS3" xmltv_id="B03.AU">beIN Sports 3 Australia</channel>
+ 
     <channel update="i" site="mewatch.sg" site_id="181" xmltv_id="Ch5.SG">Channel 5</channel>
     <channel update="i" site="mewatch.sg" site_id="182" xmltv_id="Ch8.SG">8频道</channel>
     <channel update="i" site="mewatch.sg" site_id="183" xmltv_id="ChU.SG">U频道</channel>
@@ -42,50 +87,47 @@
     <channel update="i" site="mewatch.sg" site_id="191" xmltv_id="Cna.SG">Channel NewsAsia</channel>
 	<channel update="i" site="mewatch.sg" site_id="301" xmltv_id="Hbo.Asia">HBO</channel>
 
-	<channel update="i" site="astro.com.my" site_id="95" xmltv_id="TV1.MY">RTM TV1</channel>
-	<channel update="i" site="astro.com.my" site_id="103" xmltv_id="TV2.MY">RTM TV2</channel>
-	<channel update="i" site="astro.com.my" site_id="97" xmltv_id="Oky.MY">OKEY</channel>
-	<channel update="i" site="astro.com.my" site_id="106" xmltv_id="TV3.MY">TV 3</channel>
-	<channel update="i" site="astro.com.my" site_id="93" xmltv_id="TV7.MY">NTV 7</channel>
-	<channel update="i" site="astro.com.my" site_id="115" xmltv_id="8TV.MY">八度空间</channel>
-    <channel update="i" site="astro.com.my" site_id="48" xmltv_id="TV9.MY">TV 9</channel>
 	<channel update="i" site="astro.com.my" site_id="101" xmltv_id="Jaz.News">Al Jazeera</channel>
+	<channel update="i" site="astro.com.my" site_id="518" xmltv_id="ABA.Asia">ABC Australia</channel>
     <channel update="i" site="astro.com.my" site_id="84" xmltv_id="Awa.MY">Astro Awani</channel>
+	<channel update="i" site="astro.com.my" site_id="55" xmltv_id="Cer.MY">Astro Awani</channel>
 	<channel update="i" site="astro.com.my" site_id="299" xmltv_id="Nau.MY">Astro Naura</channel>
+    <channel update="i" site="astro.com.my" site_id="197" xmltv_id="ASC.MY">Astro Cricket</channel>
+	<channel update="i" site="astro.com.my" site_id="73" xmltv_id="Ria.MY">Astro RIA</channel>
+	<channel update="i" site="astro.com.my" site_id="53" xmltv_id="War.MY">Astro Warna</channel>
+	<channel update="i" site="astro.com.my" site_id="153" xmltv_id="AFN.MY">Asian Food Network</channel>
+	<channel update="i" site="astro.com.my" site_id="337" xmltv_id="ANI.US">Animal Planet</channel>
+    <channel update="i" site="astro.com.my" site_id="39" xmltv_id="Bbw.News">BBC World News</channel>
+	<channel update="i" site="astro.com.my" site_id="160" xmltv_id="Ber.MY">Bernama</channel>
+	<channel update="i" site="astro.com.my" site_id="78" xmltv_id="Blo.News">Bloomberg</channel>
+   <channel update="i" site="astro.com.my" site_id="115" xmltv_id="8TV.MY">八度空间</channel>
+    <channel update="i" site="astro.com.my" site_id="68" xmltv_id="CNN.News">CNN</channel>
+	<channel update="i" site="astro.com.my" site_id="44" xmltv_id="CGN.News">CGTN</channel>
+	<channel update="i" site="astro.com.my" site_id="62" xmltv_id="CNX.Asia">Cinemax</channel>
+	<channel update="i" site="astro.com.my" site_id="287" xmltv_id="Dwe.News">DW English</channel>
 	<channel update="i" site="astro.com.my" site_id="206" xmltv_id="Egg.MY">eGG Network</channel>
 	<channel update="i" site="astro.com.my" site_id="289" xmltv_id="Fra.News">France 24</channel>
+	<channel update="i" site="astro.com.my" site_id="137" xmltv_id="FXL.Asia">FOX Life</channel>
+	<channel update="i" site="astro.com.my" site_id="180" xmltv_id="Fox.Asia">FOX</channel>
+    <channel update="i" site="astro.com.my" site_id="132" xmltv_id="FX.Asia">FX</channel>
+	<channel update="i" site="astro.com.my" site_id="11" xmltv_id="FXM.Asia">FOX Movies</channel>
+	<channel update="i" site="astro.com.my" site_id="170" xmltv_id="FFM.Asia">FOX Family Movies</channel>
+	<channel update="i" site="astro.com.my" site_id="74" xmltv_id="FS1.Asia">FOX Sports 1</channel>
+	<channel update="i" site="astro.com.my" site_id="72" xmltv_id="FS2.Asia">FOX Sports 2</channel>
+	<channel update="i" site="astro.com.my" site_id="58" xmltv_id="FS3.Asia">FOX Sports 3</channel>
 	<channel update="i" site="astro.com.my" site_id="296" xmltv_id="Hel.MY">Hello</channel>
-	<channel update="i" site="astro.com.my" site_id="132" xmltv_id="FXM.Asia">FX</channel>
-	<channel update="i" site="astro.com.my" site_id="47" xmltv_id="MAK.IN">மக்கள் தொலைக்காட்சி</channel>
-	
-	<channel update="i" site="starhubgo.com" site_id="7992134" xmltv_id="Ari.KR">Arirang</channel>
-	<channel update="i" site="starhubgo.com" site_id="7770484" xmltv_id="Bbw.News">BBC World News</channel>
-	<channel update="i" site="starhubgo.com" site_id="8330260" xmltv_id="Blo.News">Bloomberg</channel>
+	<channel update="i" site="astro.com.my" site_id="157" xmltv_id="Kix.Asia">Kix</channel>
+	<channel update="i" site="astro.com.my" site_id="12" xmltv_id="NGO.US">National Geographic</channel>
+	<channel update="i" site="astro.com.my" site_id="93" xmltv_id="TV7.MY">NTV 7</channel>
+	<channel update="i" site="astro.com.my" site_id="97" xmltv_id="Oky.MY">OKEY</channel>
+	<channel update="i" site="astro.com.my" site_id="95" xmltv_id="TV1.MY">RTM TV1</channel>
+	<channel update="i" site="astro.com.my" site_id="103" xmltv_id="TV2.MY">RTM TV2</channel>
+	<channel update="i" site="astro.com.my" site_id="106" xmltv_id="TV3.MY">TV 3</channel>
+	<channel update="i" site="astro.com.my" site_id="155" xmltv_id="Sky.News">Sky News</channel>
+    <channel update="i" site="astro.com.my" site_id="48" xmltv_id="TV9.MY">TV 9</channel>
+		 
 	<channel update="i" site="starhubgo.com" site_id="9096698" xmltv_id="CIN.Asia">CinemaWorld</channel>
-	<channel update="i" site="starhubgo.com" site_id="9115636" xmltv_id="CNX.Asia">Cinemax</channel>
-	<channel update="i" site="starhubgo.com" site_id="8442971" xmltv_id="CNN.News">CNN</channel>
-	<channel update="i" site="starhubgo.com" site_id="8383286" xmltv_id="CGN.News">CGTN</channel>
-	<channel update="i" site="starhubgo.com" site_id="9116200" xmltv_id="COL.IN">Colors</channel>
-	<channel update="i" site="starhubgo.com" site_id="8573537" xmltv_id="Dwe.News">DW English</channel>
-	<channel update="i" site="starhubgo.com" site_id="8631144" xmltv_id="FS1.Asia">Fox Sports 1</channel>
-    <channel update="i" site="starhubgo.com" site_id="9323729" xmltv_id="FS2.Asia">Fox Sports 2</channel>
-    <channel update="i" site="starhubgo.com" site_id="8635560" xmltv_id="FS3.Asia">Fox Sports 3</channel>
-	<channel update="i" site="starhubgo.com" site_id="8671025" xmltv_id="FTV.Int">Fashion TV</channel>
-	<channel update="i" site="starhubgo.com" site_id="8706075" xmltv_id="Fox.News">FOX News</channel>
-	<channel update="i" site="starhubgo.com" site_id="8771535" xmltv_id="Kix.Asia">KIX</channel>
-	<channel update="i" site="starhubgo.com" site_id="8929959" xmltv_id="NWP.JP">NHK World Premium</channel>
-	<channel update="i" site="starhubgo.com" site_id="8754078" xmltv_id="NGO.US">National Geographic</channel>
 	<channel update="i" site="starhubgo.com" site_id="173688378" xmltv_id="Peo.US">People TV</channel>
-	<channel update="i" site="starhubgo.com" site_id="9199020" xmltv_id="RT.News">RT</channel>
-	<channel update="i" site="starhubgo.com" site_id="9326025" xmltv_id="Sky.News">Sky News</channel>
-	<channel update="i" site="starhubgo.com" site_id="9174159" xmltv_id="STP.IN">Star Plus</channel>
-	<channel update="i" site="starhubgo.com" site_id="9352604" xmltv_id="STG.IN">Star Gold</channel>
-	<channel update="i" site="starhubgo.com" site_id="8855867" xmltv_id="STB.IN">Star Bharat</channel>
-	<channel update="i" site="starhubgo.com" site_id="171676297" xmltv_id="tvN.Asia">tvN Asia</channel>
-	<channel update="i" site="starhubgo.com" site_id="9386348" xmltv_id="TV5.Asia">TV5 Monde Asie</channel>
-	<channel update="i" site="starhubgo.com" site_id="8767333" xmltv_id="KBS.Int">KBS World</channel>
-    <channel update="i" site="starhubgo.com" site_id="9486748" xmltv_id="ZTV.IN">Zee TV</channel>
-	<channel update="i" site="starhubgo.com" site_id="7999802" xmltv_id="ZZC.IN">Zee Cinema</channel>
 
     <channel update="i" site="transvision.co.id" site_id="GLO" xmltv_id="GTV.ID">GTV</channel>
 	<channel update="i" site="transvision.co.id" site_id="ANTV" xmltv_id="ANT.ID">ANTV</channel>
@@ -99,21 +141,16 @@
     <channel update="i" site="transvision.co.id" site_id="TR7" xmltv_id="TR7.ID">Trans 7</channel>
 	<channel update="i" site="transvision.co.id" site_id="MET" xmltv_id="MET.ID">Metro</channel>
 	<channel update="i" site="transvision.co.id" site_id="TV1" xmltv_id="TV1.ID">TV One</channel>
-	<channel update="i" site="transvision.co.id" site_id="WAKU" xmltv_id="WAK.JP">WakuWaku Japan</channel>
     <channel update="i" site="transvision.co.id" site_id="AQAK" xmltv_id="MAK.SA">Makkah TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="RTLK" xmltv_id="BAN.ID">BlueAnt Entertainment</channel>
+    <channel update="i" site="transvision.co.id" site_id="DVL" xmltv_id="DAV.Asia">Da Vinci Learning</channel>
     <channel update="i" site="transvision.co.id" site_id="CNI" xmltv_id="CNN.ID">CNN Indonesia</channel>
     <channel update="i" site="transvision.co.id" site_id="KOM" xmltv_id="KOM.ID">Kompas TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="BCH" xmltv_id="RTV.ID">RTV</channel>
+	<channel update="i" site="transvision.co.id" site_id="BCH" xmltv_id="RTV.ID">RTV</channel>
 	<channel update="i" site="firstmedia.com.EK" site_id="5" xmltv_id="NET.ID">NET</channel>
 	<channel update="i" site="firstmedia.com.EK" site_id="17" xmltv_id="JTV.ID">JTV</channel>
 	<channel update="i" site="firstmedia.com.EK" site_id="28" xmltv_id="HII.ID">Hi! Indo</channel>
 	<channel update="i" site="firstmedia.com.EK" site_id="399" xmltv_id="JAG.ID">Jakarta Globe</channel>
-	
-	<channel update="i" site="bein.net" site_id="id_sports/BS1" xmltv_id="BS1.Asia">beIN Sports 1</channel>
-    <channel update="i" site="bein.net" site_id="id_sports/BS2" xmltv_id="BS2.Asia">beIN Sports 2</channel>
-	<channel update="i" site="bein.net" site_id="us_sports/Global" xmltv_id="BSU.US">beIN Sports USA</channel>
-	<channel update="i" site="bein.net" site_id="mena_entertaintment/Euronews" xmltv_id="EUR.News">Euronews</channel>
+	<channel update="i" site="firstmedia.com.EK" site_id="81" xmltv_id="FTV.Int">Fashion TV</channel>
 	
     <channel update="i" site="tvsmagazine.com.th.E" site_id="th_Digital_8" xmltv_id="TV3.TH">ดูทีวีสีช่อง 3</channel>		
     <channel update="i" site="tvsmagazine.com.th.E" site_id="th_Digital_10" xmltv_id="TV7.TH">ช่อง 7</channel>
@@ -132,13 +169,21 @@
     <channel update="i" site="vtv.vn" site_id="4" xmltv_id="VT4.VN">VTV4</channel>
     <channel update="i" site="vtv.vn" site_id="8" xmltv_id="VT6.VN">VTV6</channel>
 	
+    <channel update="i" site="zee5.com.EK" site_id="0-9-channel_2105335046" xmltv_id="Fli.IN">&amp;flix</channel>
+    <channel update="i" site="zee5.com.EK" site_id="0-9-privéhd" xmltv_id="Pri.IN">&amp;Prive HD</channel>
     <channel update="i" site="zee5.com.EK" site_id="0-9-aajtak" xmltv_id="AAJ.IN">आज तक</channel>
     <channel update="i" site="zee5.com.EK" site_id="0-9-zeebangla" xmltv_id="ZZB.IN">Zee বাংলা</channel>
     <channel update="i" site="zee5.com.EK" site_id="0-9-181" xmltv_id="THQ.IN">The Q India HD</channel>
     <channel update="i" site="zee5.com.EK" site_id="0-9-channel_1643519345" xmltv_id="ZIN.IN">Zing</channel>
     <channel update="i" site="zee5.com.EK" site_id="0-9-chardiklatimetvtimet" xmltv_id="CKT.IN">Chardikla Time TV</channel>
-    <channel update="i" site="zee5.com.EK" site_id="0-9-chardiklatimetvtimet" xmltv_id="BOB.IN">Boogle Bollywood</channel>
+    <channel update="i" site="zee5.com.EK" site_id="0-9-165" xmltv_id="BOB.IN">Boogle Bollywood</channel>
+   	<channel update="i" site="zee5.com.EK" site_id="0-9-makkaltv" xmltv_id="MAK.IN">மக்கள் தொலைக்காட்சி</channel>
+	<channel update="i" site="zee5.com.EK" site_id="0-9-zeetvapac" xmltv_id="ZTV.IN">Zee TV</channel>
    
+    <channel update="i" site="india.EK" site_id="218" xmltv_id="STB.IN">Star Bharat</channel>
+    <channel update="i" site="india.EK" site_id="339" xmltv_id="STG.IN">Star Gold</channel>
+    <channel update="i" site="india.EK" site_id="347" xmltv_id="STP.IN">Star Plus</channel>
+    <channel update="i" site="india.EK" site_id="90" xmltv_id="COL.IN">Colors</channel>
     <channel update="i" site="india.EK" site_id="296" xmltv_id="Raj.IN">Raj TV</channel>
 	<channel update="i" site="india.EK" site_id="295" xmltv_id="RAD.IN">Raj Digital Plus</channel>
     <channel update="i" site="india.EK" site_id="385" xmltv_id="THA.IN">Thanthi</channel>
@@ -160,9 +205,14 @@
 	<channel update="i" site="india.EK" site_id="232" xmltv_id="MAN.IN">Mathrubhumi News</channel>
 	<channel update="i" site="india.EK" site_id="201" xmltv_id="KAR.IN">Kairali</channel>
 	<channel update="i" site="india.EK" site_id="233" xmltv_id="MAZ.IN">Mazhavil Manorama</channel>
-	<channel update="i" site="india.EK" site_id="244" xmltv_id="MON.ID">Movies Now</channel>
 	<channel update="i" site="india.EK" site_id="126" xmltv_id="DIS.ID">Discovery Science</channel>
+		
 	<channel update="i" site="india.EK" site_id="128" xmltv_id="DIT.ID">Discovery Turbo</channel>
+    <channel update="i" site="india.EK" site_id="423" xmltv_id="ZZC.IN">Zee Cinema</channel>
+	<channel update="i" site="india.EK" site_id="99" xmltv_id="COM.ID">Comedy Central</channel>
+	<channel update="i" site="india.EK" site_id="252" xmltv_id="NGP.US">National Geographic People</channel>
+	<channel update="i" site="india.EK" site_id="253" xmltv_id="NGW.US">National Geographic Wild</channel>
+	<channel update="i" site="india.EK" site_id="175" xmltv_id="HIS.IN">History Channel</channel>
 	
 	<channel update="i" site="tatasky.com.EK" site_id="200" xmltv_id="Kal.IN">கலைஞர</channel>
 	<channel update="i" site="tatasky.com.EK" site_id="391" xmltv_id="MSE.IN">MalaiMurasu Seithigal</channel>
@@ -172,16 +222,28 @@
 	<channel update="i" site="tatasky.com.EK" site_id="795" xmltv_id="BAL.IN">Balle Balle</channel>
 	<channel update="i" site="tatasky.com.EK" site_id="401" xmltv_id="MHN.IN">MH1 Prime</channel>
 	<channel update="i" site="tatasky.com.EK" site_id="399" xmltv_id="MH1.IN">MH One</channel>
-    <channel update="i" site="tatasky.com.EK" site_id="234" xmltv_id="MNX.ID">MNX Movies</channel>
     <channel update="i" site="tatasky.com.EK" site_id="174" xmltv_id="RON.ID">Romedy Now</channel>
 	
-	<channel update="i" site="nowtv.now.com" site_id="zh_tw#366" xmltv_id="FHJ.CN">凤凰资讯</channel>
-    <channel update="i" site="nowtv.now.com" site_id="zh_tw#367" xmltv_id="FHX.CN">凤凰香港</channel>
-	<channel update="i" site="nowtv.now.com" site_id="zh_tw#548" xmltv_id="FHW.CN">凤凰中文</channel>
+	<channel update="i" site="nowtv.now.com" site_id="zh_tw#366" xmltv_id="FHJ.CN">凤凰资讯台</channel>
+    <channel update="i" site="nowtv.now.com" site_id="zh_tw#367" xmltv_id="FHX.CN">鳳凰衛視香港台</channel>
+	<channel update="i" site="nowtv.now.com" site_id="zh_tw#548" xmltv_id="FHW.CN">鳳凰衛視中文台</channel>
 	<channel update="i" site="nowtv.now.com" site_id="zh_tw#544" xmltv_id="AYW.MO">澳亞衛視</channel>
 	<channel update="i" site="nowtv.now.com" site_id="zh_tw#543" xmltv_id="NFW.CN">南方卫视</channel>
 	<channel update="i" site="nowtv.now.com" site_id="zh_tw#537" xmltv_id="JJW.CN">广东珠江</channel>
-	<channel update="i" site="nowtv.now.com" site_id="zh_tw#534" xmltv_id="CHV.HK">Channel [V]</channel>
+	<channel update="i" site="nowtv.now.com" site_id="en_us#220" xmltv_id="BBE.Asia">BBC Earth</channel>
+	
+	<channel update="i" site="singteltv.com.sg" site_id="228" xmltv_id="BOM.Asia">Boomerang</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="432" xmltv_id="BBL.Asia">BBC Lifestyle</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="318" xmltv_id="BAE.Asia">Blue Ant Entertainment</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="508" xmltv_id="BAX.Asia">Blue Ant Extreme</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="352" xmltv_id="CHV.Asia">Channel [V]</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="202" xmltv_id="DIS.US">Discovery</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="211" xmltv_id="CGD.News">CGTN Documentary</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="204" xmltv_id="DIS.Asia">Discovery Asia</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="165" xmltv_id="Fox.News">FOX News</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="523" xmltv_id="KBS.Int">KBS World</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="169" xmltv_id="HLN.News">HLN</channel>
+	<channel update="i" site="singteltv.com.sg" site_id="17" xmltv_id="OUT.US">Outdoor Channel</channel>
 	
 	<channel update="i" site="tvb.com" site_id="J" xmltv_id="FCT.HK">翡翠台</channel>
 	<channel update="i" site="tvb.com" site_id="B" xmltv_id="FC2.HK">翡翠J2台</channel>
@@ -190,7 +252,6 @@
 	<channel update="i" site="tvb.com" site_id="P" xmltv_id="MZT.HK">TVB Pearl(明珠台)</channel>
 	<channel update="i" site="tvb.com" site_id="X" xmltv_id="XHP.HK">TVB 星河频道</channel>
 	
-	<channel update="i" site="viu.tv" site_id="96" xmltv_id="V96.HK">ViuTV96台</channel>
     <channel update="i" site="viu.tv" site_id="99" xmltv_id="V99.HK">ViuTV99台</channel>
 	
 	<channel update="i" site="tv.cntv.cn" site_id="anhui" xmltv_id="AHW.CN">安徽卫视</channel>  
@@ -246,11 +307,11 @@
     <channel update="i" site="tv.cntv.cn" site_id="xinjiang" xmltv_id="XJW.CN">新疆卫视</channel>
     <channel update="i" site="tv.cntv.cn" site_id="yunnan" xmltv_id="YNW.CN">云南卫视</channel>
 	
-	<channel site="tbc.net.tw" site_id="006" update="i" xmltv_id="MSW.TW">民視</channel>
+	<channel site="tbc.net.tw" site_id="005" update="i" xmltv_id="MSW.TW">民視</channel>
     <channel site="tbc.net.tw" site_id="053" update="i" xmltv_id="MSX.TW">民視新聞</channel>
     <channel site="tbc.net.tw" site_id="151" update="i" xmltv_id="MS1.TW">民視第一</channel>
     <channel site="tbc.net.tw" site_id="152" update="i" xmltv_id="MST.TW">民視臺灣</channel>
-	<channel site="tbc.net.tw" site_id="008" update="i" xmltv_id="TSW.TW">台視</channel>
+	<channel site="tbc.net.tw" site_id="007" update="i" xmltv_id="TSW.TW">台視</channel>
 	<channel site="tbc.net.tw" site_id="155" update="i" xmltv_id="TSX.TW">台視新聞</channel>
 	<channel site="tbc.net.tw" site_id="009" update="i" xmltv_id="ZSW.TW">中視</channel>
 	<channel site="tbc.net.tw" site_id="011" update="i" xmltv_id="HSW.TW">華視</channel>
@@ -268,6 +329,9 @@
 	<channel site="tbc.net.tw" site_id="066" update="i" xmltv_id="DLY.TW">東森電影</channel>	
 	<channel site="tbc.net.tw" site_id="025" update="i" xmltv_id="DYY.TW">東森幼幼台</channel>
     <channel site="tbc.net.tw" site_id="040" update="i" xmltv_id="DXQ.TW">東森戲劇台</channel>
+	<channel site="tbc.net.tw" site_id="013" update="i" xmltv_id="GS1.TW">公視</channel>
+	<channel site="tbc.net.tw" site_id="014" update="i" xmltv_id="GS2.TW">公視台語</channel>
+	<channel site="tbc.net.tw" site_id="121" update="i" xmltv_id="GS3.TW">公視3</channel>
 	<channel site="tbc.net.tw" site_id="054" update="i" xmltv_id="SLX.TW">三立新聞</channel>
     <channel site="tbc.net.tw" site_id="090" update="i" xmltv_id="SLC.TW">三立財經新聞</channel>
 	<channel site="tbc.net.tw" site_id="029" update="i" xmltv_id="SLT.TW">三立台灣台</channel>
@@ -279,7 +343,6 @@
 	<channel site="tbc.net.tw" site_id="082" update="i" xmltv_id="JXD.TW">信吉電視</channel>	
 	<channel site="tbc.net.tw" site_id="012" update="i" xmltv_id="RJW.TW">人間衛視</channel>
 	<channel site="tbc.net.tw" site_id="130" update="i" xmltv_id="WXD.TW">唯心電視</channel>
-	<channel site="tbc.net.tw" site_id="016" update="i" xmltv_id="YZW.TW">原視</channel>
 	<channel site="tbc.net.tw" site_id="064" update="i" xmltv_id="LST.TW">龍祥時代電影</channel>
 	<channel site="tbc.net.tw" site_id="006" update="i" xmltv_id="WXY.TW">衛視電影</channel>
     <channel site="tbc.net.tw" site_id="037" update="i" xmltv_id="DFW.TW">東風衛視</channel>
@@ -287,12 +350,20 @@
 	<channel update="i" site="tvguide.myjcom.jp" site_id="120_038_65406" xmltv_id="NHW.JP">NHK World</channel>
 	<channel update="i" site="tvguide.myjcom.jp" site_id="2_1024_32736" xmltv_id="NHG.JP">NHK総合</channel>
     <channel update="i" site="tvguide.myjcom.jp" site_id="2_1032_32737" xmltv_id="NHE.JP">NHK Eテレ</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="3_101_4" xmltv_id="BS1.JP">NHK BS 1</channel>
+    <channel update="i" site="tvguide.myjcom.jp" site_id="3_103_4" xmltv_id="BSP.JP">NHK BSプレミアム</channel>
 	<channel update="i" site="tvguide.myjcom.jp" site_id="2_1048_32739" xmltv_id="TBS.JP">TBS</channel>
 	<channel update="i" site="tvguide.myjcom.jp" site_id="2_1064_32741" xmltv_id="ASH.JP">テレビ朝日</channel>
 	<channel update="i" site="tvguide.myjcom.jp" site_id="2_1040_32738" xmltv_id="NIP.JP">日本テレビ</channel>
     <channel update="i" site="tvguide.myjcom.jp" site_id="120_564_65406" xmltv_id="N24.JP">日テレNEWS24</channel>
     <channel update="i" site="tvguide.myjcom.jp" site_id="2_1056_32740" xmltv_id="FUJ.JP">フジテレビ</channel>
     <channel update="i" site="tvguide.myjcom.jp" site_id="2_1072_32742" xmltv_id="TOK.JP">テレビ東京</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="3_161_11" xmltv_id="BST.JP">BS TBS</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="3_171_4" xmltv_id="BTK.JP">BS 東京</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="3_181_4" xmltv_id="BSF.JP">BSフジ</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="3_141_4" xmltv_id="BSN.JP">BS 日テレ</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="3_151_4" xmltv_id="BSA.JP">BS 朝日</channel>
+	<channel update="i" site="tvguide.myjcom.jp" site_id="120_536_65406" xmltv_id="WOW.JP">シネフィルWOWOW</channel>
 	
     <channel update="i" site="SK B Korea" site_id="872" xmltv_id="tvN.KR">tvN</channel>
 	<channel update="i" site="SK B Korea" site_id="431" xmltv_id="OLI.KR">Olive</channel>
@@ -306,22 +377,10 @@
 	<channel update="i" site="SK B Korea" site_id="883" xmltv_id="SBM.KR">SBS MTV</channel>
 	<channel update="i" site="SK B Korea" site_id="873" xmltv_id="MNE.KR">M-NET</channel>
     <channel update="i" site="SK B Korea" site_id="13" xmltv_id="MBC.KR">MBC</channel>
-	<channel update="i" site="SK B Korea" site_id="243" xmltv_id="CHO.KR">TV Chosun</channel>
     <channel update="i" site="SK B Korea" site_id="570" xmltv_id="YTN.KR">YTN</channel>
 	<channel update="i" site="SK B Korea" site_id="422" xmltv_id="YTS.KR">YTN Science</channel>
     <channel update="i" site="SK B Korea" site_id="178" xmltv_id="OCN.KR">OCN</channel>
-	<channel update="i" site="skylife.co.kr.EK" site_id="128##channelimage/201308/channel_logo_128.gif" xmltv_id="OBW.KR">OBS W</channel>
-
-	<channel update="i" site="dstv.com" site_id="5b4c4ef0-ec6f-4e35-b33a-8edbc1e0a276##NAW" xmltv_id="AFR.News">Africa News</channel>
-
-	<channel update="i" site="foxtel.com.au.EK" site_id="24576_NHD##SKY/NHD" xmltv_id="Sky.AU">Australia Channel</channel>
-	<channel update="i" site="foxtel.com.au.EK" site_id="24576_FSD" xmltv_id="FSN.AU">Fox Sports News</channel>
-	<channel update="i" site="foxtel.com.au.EK" site_id="24576_RTV##RTV/RTV" xmltv_id="RAC.AU">Racing.com</channel>
 	
-	<channel update="i" site="freeview.com.au.EK" site_id="3202:0300:0307" xmltv_id="SBM.AU">SBS World Movies</channel>
-    <channel update="i" site="freeview.com.au.EK" site_id="1014:0602:0621" xmltv_id="10B.AU">10 Bold</channel>
-    <channel update="i" site="freeview.com.au.EK" site_id="1014:0602:0628" xmltv_id="10P.AU">Peach</channel>
-		
 	<channel update="i" site="oztivo.net" site_id="ABC-News24" xmltv_id="A24.AU">ABC News 24</channel>
 	<channel update="i" site="oztivo.net" site_id="ABC-NSW" xmltv_id="ABC.AU">ABC</channel>
 	<channel update="i" site="oztivo.net" site_id="ABC2" xmltv_id="AB2.AU">ABC Comedy</channel>
@@ -331,37 +390,34 @@
 	<channel update="i" site="oztivo.net" site_id="SBS-Vic" xmltv_id="SB1.AU">SBS One</channel>
     <channel update="i" site="oztivo.net" site_id="SBSTWO-Vic" xmltv_id="SBV.AU">SBS Viceland</channel>
 	<channel update="i" site="oztivo.net" site_id="SBSF-NSW" xmltv_id="SBF.AU">SBS Food</channel>
-    <channel update="i" site="oztivo.net" site_id="Ten-NSW" xmltv_id="10M.AU">Ten</channel>
 	<channel update="i" site="oztivo.net" site_id="NITV" xmltv_id="NIT.AU">NITV</channel>
 	
 	<channel update="i" site="freeviewnz.tv" site_id="20" xmltv_id="TRE.NZ">Te Reo</channel>
     <channel update="i" site="freeviewnz.tv" site_id="28" xmltv_id="PRIME">Prime</channel>
     <channel update="i" site="freeviewnz.tv" site_id="13" xmltv_id="Māori Television">Maori Television</channel>
-	<channel update="i" site="sky.co.nz" site_id="309" xmltv_id="CGD.News">CGTN Documentary</channel>
-		 
+
     <channel update="i" site="elpais.com.E" site_id="3" xmltv_id="LA1.ES">La 1</channel>
-	<channel update="i" site="elpais.com.E" site_id="2" xmltv_id="AN3.ES">Antena 3</channel>
-    <channel update="i" site="elpais.com.E" site_id="496" xmltv_id="CUA.ES">Cuatro</channel>
-    <channel update="i" site="elpais.com.E" site_id="1" xmltv_id="TEL.ES">Telecinco</channel>
-    <channel update="i" site="elpais.com.E" site_id="510" xmltv_id="LA6.ES">LA Sexta</channel>
-	<channel update="i" site="elpais.com.E" site_id="709" xmltv_id="ENE.ES">Energy</channel>
+	<channel update="i" site="elpais.com.E" site_id="4" xmltv_id="LA2.ES">La 2</channel>
+	<channel update="i" site="elpais.com.E" site_id="8" xmltv_id="24H.ES">24 Horas</channel>
+	<channel update="i" site="elpais.com.E" site_id="516" xmltv_id="ETO.ES">El Toro TV</channel>
     <channel update="i" site="elpais.com.E" site_id="614" xmltv_id="TLS.News">Telesur</channel>
 	<channel update="i" site="elpais.com.E" site_id="567" xmltv_id="CUB.CU">Cubavisión Internacional</channel>
 	<channel update="i" site="elpais.com.E" site_id="416" xmltv_id="TVC.CL">TV Chile</channel>
 
 	<channel update="i" site="web.magentatv.E.de" site_id="373##cf416cc96a575e40e35f43c05d829efdb176bc35.png" xmltv_id="DAS.DE">Das Erste</channel>
-	<channel update="i" site="web.magentatv.E.de" site_id="403##c7f7ecfb042633c1ac2d37d7d3378fab77c8a419.png" xmltv_id="SRT.DE">Super RTL</channel>
+	<channel update="i" site="web.magentatv.E.de" site_id="404##faa7d82f5d52540cf25ca62acd71479093bda977.png" xmltv_id="RTL.DE">RTL</channel>
 	<channel update="i" site="web.magentatv.E.de" site_id="400##2d0ef79c908ad450db7ddc28eaf7076a02e162af.png" xmltv_id="T24.DE">tagesschau24</channel>
 	<channel update="i" site="web.magentatv.E.de" site_id="385##0e5b4d41d518a068a0bef830d64f848b84ac39d1.png" xmltv_id="VOX.DE">Vox</channel>
     <channel update="i" site="web.magentatv.E.de" site_id="402##70b3ed315768d8799f8577aad1003e4b2758b197.png" xmltv_id="ONE.DE">ONE</channel>
 	<channel update="i" site="web.magentatv.E.de" site_id="387##7d9a501ddc07382fcfdbb0c0797916ba4e78cacd.png" xmltv_id="KIK.DE">KiKA</channel>
+	<channel update="i" site="web.magentatv.E.de" site_id="198##2b9ce39abb588f958a49e642438a7c4aeed098a1.png" xmltv_id="SP2.DE">Sky Sport 2</channel>
 
 	<channel update="i" site="laguidatv.it" site_id="rai-1" xmltv_id="RA1.IT">Rai 1</channel>
     <channel update="i" site="laguidatv.it" site_id="rai-2" xmltv_id="RA2.IT">Rai 2</channel>
 	<channel update="i" site="laguidatv.it" site_id="rai-yoyo" xmltv_id="RAY.IT">Rai YoYo</channel>
     <channel update="i" site="laguidatv.it" site_id="canale-5" xmltv_id="CA5.IT">Canale 5</channel>
-    <channel update="i" site="laguidatv.it" site_id="frisbee" xmltv_id="Frisbee">Frisbee</channel>
-	<channel update="i" site="laguidatv.it" site_id="italia-1" xmltv_id="FRB.IT">Italia 1</channel>
+    <channel update="i" site="laguidatv.it" site_id="frisbee" xmltv_id="FRB.IT">Frisbee</channel>
+	<channel update="i" site="laguidatv.it" site_id="italia-1" xmltv_id="IT1.IT">Italia 1</channel>
 	
 	<channel update="i" site="livetv.tv-vlaanderen.be.E" site_id="1790975744" xmltv_id="EEN.BE">één</channel>
 	<channel update="i" site="livetv.tv-vlaanderen.be.E" site_id="1790975808" xmltv_id="CAV.BE">Canvas</channel>
@@ -373,30 +429,42 @@
 	<channel update="i" site="livetv.tv-vlaanderen.be.E" site_id="1790968640" xmltv_id="BVN.NL">BVN</channel>
 	
 	<channel update="i" site="canaldigitaal.nl.E" site_id="1790971584" xmltv_id="NPN.NL">NPO Nieuws</channel>
+	<channel update="i" site="canaldigitaal.nl.E" site_id="1790979776" xmltv_id="FS1.NL">Fox Sports 1 Netherlands</channel>
+    <channel update="i" site="canaldigitaal.nl.E" site_id="1790979840" xmltv_id="FS2.NL">Fox Sports 2 Netherlands</channel>
+    <channel update="i" site="canaldigitaal.nl.E" site_id="1790979904" xmltv_id="FS3.NL">Fox Sports 3 Netherlands</channel>
+
 	<channel update="i" site="tudonumclick.com" site_id="rtp3" xmltv_id="RT3.PT">RTP3</channel>
 	
-	<channel update="i" site="tv.mail.ru" site_id="1271" xmltv_id="RS1.RU">Россия 1</channel>
-	<channel update="i" site="tv.mail.ru" site_id="24" xmltv_id="R24.RU">Россия 24</channel>
-    <channel update="i" site="tv.mail.ru" site_id="850" xmltv_id="1RU.RU">Первый</channel>
-    <channel update="i" site="tv.mail.ru" site_id="1395" xmltv_id="HTB.RU">НТВ</channel>
-	<channel update="i" site="tv.mail.ru" site_id="1112" xmltv_id="CTC.RU">СТС</channel>
+    <channel update="i" site="sporttv.pt" site_id="727" xmltv_id="ST1.PT">Sports TV 1</channel>
+    <channel update="i" site="sporttv.pt" site_id="728" xmltv_id="ST2.PT">Sports TV 2</channel>
+    <channel update="i" site="sporttv.pt" site_id="729" xmltv_id="ST3.PT">Sports TV 3</channel>
+    <channel update="i" site="sporttv.pt" site_id="5406" xmltv_id="ST4.PT">Sports TV 4</channel>
+    <channel update="i" site="sporttv.pt" site_id="5422" xmltv_id="ST5.PT">Sports TV 5</channel>
 	
+	<channel update="i" site="tv.mail.ru" site_id="1271" xmltv_id="RS1.RU">Россия 1</channel>
+	<channel update="i" site="tv.mail.ru" site_id="1112" xmltv_id="CTC.RU">СТС</channel>
+    <channel update="i" site="tv.mail.ru" site_id="850" xmltv_id="1RU.RU">Первый</channel>
+
+    <channel update="i" site="vsetv.com" site_id="328" xmltv_id="R24.RU">Россия 24</channel>
+    <channel update="i" site="vsetv.com" site_id="14" xmltv_id="ТНТ.RU">ТНТ</channel>	
 	<channel update="i" site="vsetv.com" site_id="13" xmltv_id="PEH.RU">РЕН</channel>
 	<channel update="i" site="vsetv.com" site_id="1077" xmltv_id="MAT.RU">Матч!</channel>
-	<channel update="i" site="vsetv.com" site_id="771" xmltv_id="SES.Int">Setanta Sports</channel>
-    <channel update="i" site="vsetv.com" site_id="1499" xmltv_id="SEP.Int">Setanta Sports+</channel>
     <channel update="i" site="vsetv.com" site_id="1397" xmltv_id="1UA.UA">UA:Перший</channel>
 			
-	<channel update="i" site="allatvkanaler.se.E" site_id="svt1" xmltv_id="SV1.SE">SVT1</channel>
 	<channel update="i" site="cyta.com.cy" site_id="4" xmltv_id="AN1.GR">ANT 1</channel>
 	<channel update="i" site="tv.iskon.hr.EK" site_id="111268##hrt-1-hd2/271283-2-cro-HR/HRT-1-HD.png" xmltv_id="HR1.HR">HRT 1</channel>
 	<channel update="i" site="cinemagia.ro.E" site_id="tvr-1" xmltv_id="TV1.RO">TVR 1</channel>
 	<channel update="i" site="telekom.sk.EK" site_id="4" xmltv_id="JOJ.SK">Joj</channel>
+	<channel update="i" site="cgates.lt" site_id="lrt-lituanica" xmltv_id="LRT.LT">LRT Lituanica</channel>
+    <channel update="i" site="kava.ee.E" site_id="etv##logo_64_11_1445933963.png" xmltv_id="ETV">ETV</channel>
+	
+	<channel update="i" site="vg.no" site_id="nrk1" xmltv_id="NR1.NO">NRK1</channel>
+	<channel update="i" site="vg.no" site_id="svt1" xmltv_id="SV1.SE">SVT1</channel>
+    <channel update="i" site="vg.no" site_id="dr1" xmltv_id="DR1.DK">DR1</channel>
 	
 	<channel update="i" site="gatotv.com" site_id="repretel" xmltv_id="CA6.CR">Repretel 6</channel>
 	<channel update="i" site="gatotv.com" site_id="rpc_paraguay" xmltv_id="RPC.PY">Trece RPC</channel>
 	<channel update="i" site="gatotv.com" site_id="once_tv_mexico_xeipn-tv" xmltv_id="ONC.MX">Canal Once</channel>
-	<channel update="i" site="gatotv.com" site_id="telefuturo" xmltv_id="TEL.PY">Canal Telefuturo</channel>
 	<channel update="i" site="gatotv.com" site_id="multimedios_plus" xmltv_id="MUT.MX">Multimedios</channel>
 	<channel update="i" site="gatotv.com" site_id="9_republica_dominicana" xmltv_id="CV9.DO">Color Visión</channel>
 	<channel update="i" site="gatotv.com" site_id="panamericana_television" xmltv_id="PAN.PA">Panamericana</channel>
@@ -404,12 +472,10 @@
 	<channel update="i" site="gatotv.com" site_id="4_de_panama" xmltv_id="RPC.PA">RPC Canal 4</channel>
 
     <channel update="i" site="claro.com.co" site_id="399" xmltv_id="RCN.CO">Canal RCN</channel>
-	<channel update="i" site="horizon_latino.tv.EK" site_id="CL/spa_lgi-cl-prod-master:1381733092" xmltv_id="RED.CL">La Red</channel>
 	<channel update="i" site="horizon_latino.tv.EK" site_id="CL/spa_lgi-cl-prod-master:69048324" xmltv_id="TVP.PE">TV Perú</channel>
 
     <channel update="i" site="meuguia.tv" site_id="canal/RTP" xmltv_id="RTI.PT">RTP Internacional</channel>
     <channel update="i" site="meuguia.tv" site_id="canal/TED" xmltv_id="TVB.BR">TV Brasil</channel>
-    <channel update="i" site="meuguia.tv" site_id="canal/RTV" xmltv_id="RED.BR">RedeTV!</channel>
 	<channel update="i" site="meuguia.tv" site_id="canal/SBT" xmltv_id="SBT.BR">SBT</channel>
 
     <channel update="i" site="mbc.net.E" site_id="56##6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" xmltv_id="MBC.EG">MBC Masr</channel>
@@ -436,27 +502,24 @@
 	<channel update="i" site="tv.walla.co.il" site_id="3712" xmltv_id="20.IL">ערוץ 20</channel>
     <channel update="i" site="tv.walla.co.il" site_id="3772" xmltv_id="33.IL">مكان</channel>
 	
+	<channel update="i" site="uk-sky.com" site_id="1354" xmltv_id="ATR.UK">At the Races</channel>
+	<channel update="i" site="uk-sky.com" site_id="1066" xmltv_id="Ari.KR">Arirang</channel>
 	<channel update="i" site="uk-sky.com" site_id="6753" xmltv_id="ATN.BD">ATN</channel>
     <channel update="i" site="uk-sky.com" site_id="4540" xmltv_id="NTV.BD">NTV</channel>
-	<channel update="i" site="uk-sky.com" site_id="3028" xmltv_id="5SE.UK">5 Select</channel>
-	<channel update="i" site="uk-sky.com" site_id="3022" xmltv_id="5US.UK">5 USA</channel>
 	<channel update="i" site="uk-sky.com" site_id="3822" xmltv_id="92N.PK">92 News</channel>
 	<channel update="i" site="uk-sky.com" site_id="4265" xmltv_id="ARY.PK">ARY Digital</channel>
 	<channel update="i" site="uk-sky.com" site_id="3209" xmltv_id="ADU.AE">Abu Dhabi Al Oula</channel>
-	<channel update="i" site="uk-sky.com" site_id="3661" xmltv_id="BT1.UK">BT Sports 1</channel>
-    <channel update="i" site="uk-sky.com" site_id="3663" xmltv_id="BT2.UK">BT Sports 2</channel>
-    <channel update="i" site="uk-sky.com" site_id="5032" xmltv_id="BT3.UK">BT Sports 3</channel>
-	<channel update="i" site="uk-sky.com" site_id="3141" xmltv_id="BTE.UK">BT Sports ESPN</channel>
 	<channel update="i" site="uk-sky.com" site_id="5417" xmltv_id="BRM.UK">British Muslim</channel>
 	<channel update="i" site="uk-sky.com" site_id="1350" xmltv_id="BXH.UK">Box Hits</channel>
 	<channel update="i" site="uk-sky.com" site_id="2011" xmltv_id="BBN.UK">BBC News</channel>
 	<channel update="i" site="uk-sky.com" site_id="2076" xmltv_id="BB1.UK">BBC 1</channel>
 	<channel update="i" site="uk-sky.com" site_id="2006" xmltv_id="BB2.UK">BBC 2</channel>
     <channel update="i" site="uk-sky.com" site_id="2018" xmltv_id="BB4.UK">BBC 4</channel>
-    <channel update="i" site="uk-sky.com" site_id="5609" xmltv_id="BOM.UK">Boomerang</channel>	
+	<channel update="i" site="uk-sky.com" site_id="3661" xmltv_id="BT1.UK">BT Sports 1</channel>
+    <channel update="i" site="uk-sky.com" site_id="3663" xmltv_id="BT2.UK">BT Sports 2</channel>
+    <channel update="i" site="uk-sky.com" site_id="5032" xmltv_id="BT3.UK">BT Sports 3</channel>
+	<channel update="i" site="uk-sky.com" site_id="3141" xmltv_id="BTE.UK">BT Sports ESPN</channel>
 	<channel update="i" site="uk-sky.com" site_id="5087" xmltv_id="AKK.IN">Channel Akkal</channel>
-	<channel update="i" site="uk-sky.com" site_id="2510" xmltv_id="CMC.UK">Comedy Central</channel>
-	<channel update="i" site="uk-sky.com" site_id="1813" xmltv_id="CCE.UK">Comedy Central Extra</channel>
 	<channel update="i" site="uk-sky.com" site_id="5601" xmltv_id="CNT.UK">Cartoon Network</channel>
 	<channel update="i" site="uk-sky.com" site_id="2020" xmltv_id="CBB.UK">CBBC</channel>
     <channel update="i" site="uk-sky.com" site_id="2019" xmltv_id="CBE.UK">CBeebies</channel>
@@ -464,8 +527,11 @@
 	<channel update="i" site="uk-sky.com" site_id="1621" xmltv_id="CH4.UK">Channel 4</channel>
     <channel update="i" site="uk-sky.com" site_id="1800" xmltv_id="CH5.UK">Channel 5 UK</channel>
 	<channel update="i" site="uk-sky.com" site_id="3352" xmltv_id="CBR.UK">CBS Reality</channel>
+    <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="EUR.News">Euronews</channel>
+	<channel update="i" site="uk-sky.com" site_id="1726" xmltv_id="EU1.UK">Eurosport 1</channel>
+    <channel update="i" site="uk-sky.com" site_id="1841" xmltv_id="EU2.UK">Eurosport 2</channel>
+	<channel update="i" site="uk-sky.com" site_id="1163" xmltv_id="EIR.IE">Eir Sports 1</channel>
 	<channel update="i" site="uk-sky.com" site_id="4076" xmltv_id="CE4.UK">E4</channel>
-	<channel update="i" site="uk-sky.com" site_id="1360" xmltv_id="EXM.UK">E!</channel>
 	<channel update="i" site="uk-sky.com" site_id="3111" xmltv_id="EMA.UK">Eman</channel>
 	<channel update="i" site="uk-sky.com" site_id="4044" xmltv_id="FM4.UK">Film 4</channel>
 	<channel update="i" site="uk-sky.com" site_id="2903" xmltv_id="GLD.UK">Gold</channel>
@@ -476,14 +542,15 @@
     <channel update="i" site="uk-sky.com" site_id="6534" xmltv_id="IT4.UK">ITV4</channel>
     <channel update="i" site="uk-sky.com" site_id="3656" xmltv_id="KIS.UK">Kiss</channel>  
 	<channel update="i" site="uk-sky.com" site_id="1853" xmltv_id="KER.UK">Kerrang!</channel>
+	<channel update="i" site="uk-sky.com" site_id="1003" xmltv_id="MCU.UK">MUTV</channel>
 	<channel update="i" site="uk-sky.com" site_id="4460" xmltv_id="MAD.PK">Madani TV</channel>
-	<channel update="i" site="uk-sky.com" site_id="4043" xmltv_id="MO4.UK">More4</channel>
 	<channel update="i" site="uk-sky.com" site_id="1877" xmltv_id="MAG.UK">Magic</channel>
-	<channel update="i" site="uk-sky.com" site_id="3750" xmltv_id="POP.UK">POP UK</channel>
-	<channel update="i" site="uk-sky.com" site_id="4262" xmltv_id="PMX.UK">POP Max</channel>
+	<channel update="i" site="uk-sky.com" site_id="3750" xmltv_id="POP.UK">POP</channel>
     <channel update="i" site="uk-sky.com" site_id="3646" xmltv_id="PTV.PK">PTV Global</channel>
+	<channel update="i" site="uk-sky.com" site_id="3636" xmltv_id="RAC.UK">Racing UK</channel>
 	<channel update="i" site="uk-sky.com" site_id="2804" xmltv_id="RTN.IE">RTÉ News Now</channel>
 	<channel update="i" site="uk-sky.com" site_id="2325" xmltv_id="REA.UK">Really</channel>
+	<channel update="i" site="uk-sky.com" site_id="5314" xmltv_id="RT.News">RT</channel>
 	<channel update="i" site="uk-sky.com" site_id="3722" xmltv_id="SAM.PK">Samaa</channel>
 	<channel update="i" site="uk-sky.com" site_id="1301" xmltv_id="SME.UK">Sky Sports Main Event</channel>
 	<channel update="i" site="uk-sky.com" site_id="1333" xmltv_id="SAC.UK">Sky Sports Action</channel>
@@ -496,14 +563,7 @@
     <channel update="i" site="uk-sky.com" site_id="4049" xmltv_id="SPN.UK">Sky Sports News</channel>
     <channel update="i" site="uk-sky.com" site_id="1303" xmltv_id="SPL.UK">Sky Sports EPL</channel>
 	<channel update="i" site="uk-sky.com" site_id="3590" xmltv_id="FON.UK">Food Network</channel>
-	<channel update="i" site="uk-sky.com" site_id="1001" xmltv_id="SCA.UK">Sky Cinema Action</channel>
-    <channel update="i" site="uk-sky.com" site_id="1002" xmltv_id="SCC.UK">Sky Cinema Comedy</channel>
-    <channel update="i" site="uk-sky.com" site_id="1838" xmltv_id="SDI.UK">Sky Cinema Disney</channel>
-    <channel update="i" site="uk-sky.com" site_id="1409" xmltv_id="SCP.UK">Sky Cinema Premiere</channel>
-	<channel update="i" site="uk-sky.com" site_id="1816" xmltv_id="SCD.UK">Sky Cinema Drama</channel>
     <channel update="i" site="uk-sky.com" site_id="3708" xmltv_id="SMA.UK">Sony Movies Action</channel>
-	<channel update="i" site="uk-sky.com" site_id="4266" xmltv_id="SOM.UK">Sony Movies</channel>
-    <channel update="i" site="uk-sky.com" site_id="3643" xmltv_id="SMC.UK">Sony Movies Classic</channel>
 	<channel update="i" site="uk-sky.com" site_id="5071" xmltv_id="TRT.News">TRT World</channel>    
 	<channel update="i" site="uk-sky.com" site_id="3780" xmltv_id="TPO.UK">Tiny Pop</channel>
 	<channel update="i" site="uk-sky.com" site_id="1802" xmltv_id="TBX.UK">The Box</channel>
@@ -516,31 +576,56 @@
     <channel update="i" site="tv.trueid.net" site_id="truepremierfootballhd4" xmltv_id="PF4.TH">Premier Football 4</channel>
     <channel update="i" site="tv.trueid.net" site_id="truepremierfootballhd5" xmltv_id="PF5.TH">Premier Football 5</channel>
 			
-	<channel update="i" site="tvtv.ca" site_id="36625D/628" xmltv_id="PAN.CA">Paramount Network</channel>
-	<channel update="i" site="tvtv.ca" site_id="36625D/1117" xmltv_id="ICI.News">ICI RDI</channel>
-    <channel update="i" site="tvtv.ca" site_id="36625D/170" xmltv_id="ICI.CA">ICI Tele</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1334" xmltv_id="ADU.CA">Adult Swim</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/564" xmltv_id="SPA.CA">ABC Spark</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1576" xmltv_id="BET.CA">BET</channel>
 	<channel update="i" site="tvtv.ca" site_id="36625D/502" xmltv_id="CBC.News">CBC News</channel>
 	<channel update="i" site="tvtv.ca" site_id="36625D/269" xmltv_id="CBC.CA">CBC</channel>
-    <channel update="i" site="tvtv.ca" site_id="36625D/1334" xmltv_id="ADU.CA">Adult Swim</channel>
-	<channel update="i" site="tvtv.ca" site_id="36625D/277" xmltv_id="GLO.CA">Global News</channel>
-	<channel update="i" site="wwe.com.E" site_id="wwe" xmltv_id="WWE.US">WWE</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="AETV" xmltv_id="AET.US">A&amp;E Network</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="AZTECAE" xmltv_id="AZT.MX">Azteca América</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="BBCA" xmltv_id="BBA.US">BBC America</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="CNBC.News" xmltv_id="CNB.News">CNBC</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/211" xmltv_id="CHC.CA">CHCH</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/204" xmltv_id="CIT.CA">City TV</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/1638" xmltv_id="CIA.CA">Crime + Investigation HD</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/253" xmltv_id="CTV.CA">CTV</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/625" xmltv_id="CTC.CA">CTV Comedy</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/620" xmltv_id="CTD.CA">CTV Drama</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/627" xmltv_id="CTS.CA">CTV Sci-Fi</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/258" xmltv_id="CTV2.CA">CTV Two</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/501" xmltv_id="CTN.CA">CTV News</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/641" xmltv_id="COT.CA">Cottage Life</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/503" xmltv_id="C24.CA">CP24</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/336" xmltv_id="DOC.CA">Documentary Channel</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/523" xmltv_id="DSI.CA">Discovery Science</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/621" xmltv_id="EET.CA">E!</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/639" xmltv_id="GSN.CA">Game Show Network</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/203" xmltv_id="GLO.CA">Global</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/277" xmltv_id="GLN.CA">Global News</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/600" xmltv_id="HGT.CA">HGTV</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/616" xmltv_id="SHO.CA">Showcase</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/601" xmltv_id="SLI.CA">Slice</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/1117" xmltv_id="ICI.News">ICI RDI</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/170" xmltv_id="ICI.CA">ICI Tele</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/340" xmltv_id="MOV.CA">MovieTime</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/628" xmltv_id="PAN.CA">Paramount Network</channel>	
+	<channel update="i" site="tvtv.ca" site_id="36625D/294" xmltv_id="PEA.CA">Peachtree</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/152" xmltv_id="YOO.CA">Yoopa</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/651" xmltv_id="YES.CA">Yes TV</channel>
+	<channel update="i" site="tvtv.ca" site_id="36625D/306" xmltv_id="HBO.CA">HBO Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1624" xmltv_id="GMA.CA">Game TV</channel>
+	
+	<channel update="i" site="streamingtvguides.com.E" site_id="AET.US" xmltv_id="AET.US">A&amp;E Network</channel>
+	<channel update="i" site="streamingtvguides.com.E" site_id="AHC.US" xmltv_id="AHC.US">AHC</channel>
+	<channel update="i" site="streamingtvguides.com.E" site_id="AMC" xmltv_id="AMC.US">AMC</channel>
+	<channel update="i" site="streamingtvguides.com.E" site_id="BABY1" xmltv_id="BF1.Asia">BabyFirst TV</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="CHDDRSD" xmltv_id="CHD.US">Cheddar</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="CAS" xmltv_id="CAS.US">Classic Arts Showcase</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="DSC" xmltv_id="DIS.US">Discovery</channel>
+	<channel update="i" site="streamingtvguides.com.E" site_id="DIY" xmltv_id="DIY.US">DIY</channel>
+	<channel update="i" site="streamingtvguides.com.E" site_id="GOLF" xmltv_id="Gof.Int">Golf Channel</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="FS1" xmltv_id="FS1.US">Fox Sports 1 USA</channel>
     <channel update="i" site="streamingtvguides.com.E" site_id="FS2" xmltv_id="FS2.US">Fox Sports 2 USA</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="GOLF" xmltv_id="Gof.Int">Golf Channel</channel>
-    <channel update="i" site="streamingtvguides.com.E" site_id="GETTV" xmltv_id="GET.US">getTV</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="MSNBC" xmltv_id="MSN.News">MSNBC</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="NHLNET" xmltv_id="NHL.US">NHL Network</channel>
+	<channel update="i" site="streamingtvguides.com.E" site_id="FBN" xmltv_id="FXB.US">Fox Business</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="MEGAUS" xmltv_id="MEG.US">Mega TV</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="MLBN" xmltv_id="MLB.US">MLB Network</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="NFLNET" xmltv_id="NFL.US">NFL Network</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="NBATV" xmltv_id="NBA.US">NBA TV</channel>
+	<channel update="i" site="streamingtvguides.com.E" site_id="NBCSB" xmltv_id="NBC.US">NBC Sports Network</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="NEWSMX" xmltv_id="NMA.US">Newsmax</channel>
     <channel update="i" site="streamingtvguides.com.E" site_id="OLYHD" xmltv_id="OLY.US">Olympic Channel</channel>			
     <channel update="i" site="streamingtvguides.com.E" site_id="POPHD" xmltv_id="POP.US">POP</channel>
@@ -550,24 +635,4 @@
 	<channel update="i" site="streamingtvguides.com.E" site_id="WEATH" xmltv_id="WEA.US">Weather Channel</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="VH1" xmltv_id="VH1.US">VH1</channel>
 	<channel update="i" site="streamingtvguides.com.E" site_id="ZLIVING" xmltv_id="ZLI.US">Z Living</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="AMC" xmltv_id="AMC.US">AMC</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="AHC" xmltv_id="AHC.US">AHC</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="BRAVO" xmltv_id="BTA.US">Bravo</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="SCIENCE" xmltv_id="SCI.US">Discovery Science USA</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="FBN" xmltv_id="FXB.US">Fox Business</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="HBO" xmltv_id="HBO.US">HBO USA</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="HBOZ" xmltv_id="HBZ.US">HBO Zone</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="HBOSIG" xmltv_id="HBS.US">HBO Signature</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="HALL" xmltv_id="HAL.US">Hallmark Channel</channel>
-    <channel update="i" site="streamingtvguides.com.E" site_id="LIFE" xmltv_id="LIF.US">Lifetime</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="NIK" xmltv_id="NIC.US">Nickelodeon</channel>
-    <channel update="i" site="streamingtvguides.com.E" site_id="OWN" xmltv_id="OWN.US">OWN</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="SHOW" xmltv_id="SHW.US">Showtime</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="SYFY" xmltv_id="SYF.US">Syfy</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="STARZ" xmltv_id="STR.US">Starz</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="TRUTV" xmltv_id="TRU.US">truTV</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="TBS" xmltv_id="TBS,US">TBS</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="TLC" xmltv_id="TLC.US">TLC USA</channel>
-    <channel update="i" site="streamingtvguides.com.E" site_id="TNT" xmltv_id="TNT.US">TNT USA</channel>
-	<channel update="i" site="streamingtvguides.com.E" site_id="USA" xmltv_id="USA.US">USA Network</channel>
 </settings>
