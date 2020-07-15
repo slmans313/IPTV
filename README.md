@@ -6,12 +6,10 @@ Hi all, this is just a public list I compile in my hobby time. Feel free to fork
 
 All the M3U-playlist is very very experimental at the moment. The GoCast playlists is a public list of every link I have collect so far. No gurantee the link over there will work. Drop me a email if any of the links is not working. I don't expect any people to share their links although you are welcome too.<br />
 
-At the moment I maintain three playlists at the GoCast2 section for an Malaysian/Singaporean audience:<br />
+At the moment I maintain 2 playlists at the GoCast2 section for an Malaysian/Singaporean audience:<br />
 
 - https://exodiver.github.io/IPTV/GoCast2/Oriental/Gugong.m3u8 (Orient focused playlist - Chinese, Korean, Japanese)<br />
-- https://exodiver.github.io/IPTV/GoCast2/Oriental/Istana.m3u8 (Malay focused playlist - Malaysia, Indonesia, Major Thai/Arab/Turkish TV Channel)<br />
-- https://exodiver.github.io/IPTV/GoCast2/Oriental/Mahal.m3u8 (Indian focused playlist - More Hindi, Bengali, Urdu, Malayalam, Punjabi, Tamil AKA the Big 6 Indian Languages)<br />
-- https://exodiver.github.io/IPTV/w.apk
+- https://exodiver.github.io/IPTV/GoCast2/Oriental/Istana.m3u8 (Malay/Indian  focused playlist - Malaysia, Indonesia, Major Thai/Arab/Turkish,Hindi/Bengali/Urdu/Malayalam/Punjabi,Tamil TV Channel)<br />
 
 And an very very very very very very experiemental EPG:<br />
 https://exodiver.github.io/IPTV/EPG/guide_71.xml<br />
@@ -26,9 +24,9 @@ https://exodiver.github.io/IPTV/EPG/guide_71.xml<br />
 
 4. PLEASE don't rely it as your daily iptv day or use this list for your business. I change the contents of playlist all the time. So your channel goes missing, chances are that they link can't work for me and you.<br />
 
-5. Some of the link (especially the Geo-Restricted link) can be play with tivimate without the need for a VPN. So if it can't be play with other iptv program, do consider using tivimate. <br />
+5. Some of the link (especially the Geo-Restricted link) can be play with tivimate/tvirl without the need for a VPN/Smart DNS. So if it can't be play with other iptv program, do consider using tivimate/tvirl. <br />
 
-6. For sports channel lover, please support your cable tv provider. Their streams are the best, no doubt. <br />
+6. For sports channel lover, please support your cable tv provider. Their streams are the best, no doubt. I have never find a stable, fast unofficial sports streaming link in my entire life, chances are you will feel the same <br />
 
 7. None of the links is my work. I just choose to share my private tv collection of links. <br />
 
@@ -64,7 +62,10 @@ Japanese/Japanophile who loves everything east asia. But his japanese links are 
 10. LaQuay: https://github.com/LaQuay/TDTChannels <br />
 Spain number one IPTV Resource <br />
 
-10. Webgrabplus: http://www.webgrabplus.com/<br />
+11. NoMaN-IPTV: https://github.com/NoMaN-IPTV<br />
+Very promising Astro Replacement, I learn a thing or two from looking at his/her link.<br />
+
+12. Webgrabplus: http://www.webgrabplus.com/<br />
 Mother of all non commerical epg making<br />
 
 Shout out to EDMW, 电视盒子tv box分享站 and TV Boxs app!!!<br />
