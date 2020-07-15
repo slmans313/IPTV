@@ -738,46 +738,26 @@ http://wpso.com:1936/hls/kidshd.m3u8
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="ADR.DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/300px-ARD_alpha.svg.png" group-title="Deutschland",ADR Alpha
+#EXTINF:-1 tvg-id="ADR.DE" tvg-logo="https://static.epg.best/de/ARDalpha.de.png" group-title="Deutschland",ADR Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="ZDF.DE" tvg-logo="http://static.epg.best/de/ZDF.de.png" group-title="Deutschland",ZDF
-http://81.171.21.159:4780/zdfhd/index.m3u8
-#EXTINF:-1 tvg-id="ZDN.DE" tvg-logo="http://static.epg.best/de/ZDFneo.de.png" group-title="Deutschland",ZDF Neo
-http://cdn.ch01.spr24.net:81/887/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 tvg-id="ZDI.DE" tvg-logo="http://static.epg.best/de/ZDFinfo.de.png" group-title="Deutschland",ZDF Info
-http://cdn.ch01.spr24.net:81/825/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-id="ART.DE" tvg-logo="https://i.imgur.com/xXRYZd6.png"  group-title="Deutschland",Arte Deutsch
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="3SA.DE" tvg-logo="http://static.epg.best/at/3sat.at.png" group-title="Deutschland",3 Sat
 https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="BRF.DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BR_Fernsehen_2016.svg/1200px-BR_Fernsehen_2016.svg.png" group-title="Deutschland",BR Fernsehen Süd
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="Deutschland",Kika
-https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ee/DisneyChannel.ee.png" group-title="Deutschland",Disney Deutsch
 http://cdn.ch01.spr24.net:81/818/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle 
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle +
 https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/ComedyCentral.de.png" group-title="Deutschland",Comedy Central Deutsch
-http://cdn.ch01.spr24.net:81/851/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DMax.de.png" group-title="Deutschland",DMAX Deutsche
-http://81.171.21.159:4780/dmax/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Kabel1.de.png" group-title="Deutschland",Kabel Eins
 http://178.132.3.162:88/Kabel_1/video.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/de/KabelEinsDoku.de.png" group-title="Deutschland",Kabel Eins Doku
-http://cdn.ch01.spr24.net:81/885/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/de/KabelEinsClassic.de.png" group-title="Deutschland",Kabel Eins Classics
-http://cdn.ch01.spr24.net:81/14164/mpegts?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/ntv.de.png" group-title="Deutschland",N-TV
 https://tv-livestream.online/sender/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Phoenix.de.png" group-title="Deutschland",Phoenix
-http://cdn.ch01.spr24.net:81/18020/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Pro7.de.png" group-title="Deutschland",ProSieben
-https://wer1.wertvlive.com/d1/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/ProSiebenMaxx.de.png" group-title="Deutschland",ProSiben Max
-http://31.19.239.146:9981/stream/channelid/2026829528
+#EXTINF:-1 tvg-id="NIC.DE" tvg-logo="https://static.epg.best/de/Nickelodeon.de.png" group-title="Deutschland",Nickelodeon Deutsch
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-id="RTL.DE" tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="Deutschland",RTL
@@ -790,12 +770,6 @@ http://137.74.203.67:4780/nitro/playlist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="Deutschland",Sat 1
 http://178.132.3.162:88/SAT_1/video.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Sat1Gold.de.png" group-title="Deutschland",Sat 1 Gold
-http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/sixx.de.png" group-title="Deutschland",Sixx
-http://81.171.21.159:4780/sixx/index.m3u8
-#EXTINF:-1 tvg-id="SRT.DE" tvg-logo="http://static.epg.best/de/SuperRTL.de.png" group-title="Deutschland",Super RTL
-http://5.135.92.133:52841/out/u/127_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TVRus.png" group-title="Deutschland",TV Rus
 https://bemtv.parom.tv/hls/stream274/stream0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n-w.tv/wp-content/themes/nmtv_new/img/logo_28-10-2019.png" group-title="Deutschland",KНовый мир
