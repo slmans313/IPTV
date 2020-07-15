@@ -65,7 +65,10 @@ Spain number one IPTV Resource <br />
 11. NoMaN-IPTV: https://github.com/NoMaN-IPTV<br />
 Very promising Astro Replacement, I learn a thing or two from looking at his/her link.<br />
 
-12. Webgrabplus: http://www.webgrabplus.com/<br />
+12. JKN22: https://github.com/jnk22/kodinerds-iptv
+Decent German TV Lisr<br />
+
+13. Webgrabplus: http://www.webgrabplus.com/<br />
 Mother of all non commerical epg making<br />
 
 Shout out to EDMW, 电视盒子tv box分享站 and TV Boxs app!!!<br />
@@ -79,3 +82,6 @@ Hall of shame:<br />
 
 1. Rizaldi of https://rizaldi.web.id/! <br />
 Directly linking my entire playlist for his zaltv code and pass it off as his list. Have the cheeks to email asking me to revert some changes I made of my own list.<br />
+
+2. Remy Turkey of https://github.com/remytr-org <br />
+Reselling the list to aliexpress iptv sellers......<br />
