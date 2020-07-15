@@ -343,27 +343,6 @@ https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SHW.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="Turki",Show
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="Thailand",Channel 5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thailand",Channel 7
-https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 tvg-id="TV8.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/ch8.png" group-title="Thailand",Channel 8
-http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thailand",Workpoint
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="Thailand",ONE 31
-http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/mono29.png" group-title="Thailand",Mono 29
-http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="Thailand",MCOT
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1 tvg-id="TPB.TH" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png" group-title="Thailand",Thai PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="TRA.TH" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Thailand",Thairath TV
-https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-id="PPT.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="Thailand",PPTV
-http://183.182.100.184/live/pptvthai/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="Hindustan(हिन्दी,)",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="B4M.IN" tvg-logo="https://b4umusic.in/images/logo.png" group-title="Hindustan(हिन्दी,)",B4U Music
@@ -740,6 +719,8 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="Australia",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+
+
 #EXTINF:-1 tvg-id="HNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="Asia",Hunan TV(Cina)
 http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 #EXTINF:-1 tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="Asia",CCTV-4(Cina)
@@ -754,7 +735,11 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="Asia",NHK G(Jepun)
 http://203.162.235.41:16903
+#EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="Asia",KBS World(Korea)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="Asia",tvN(Korea)
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
-#EXTINF:-1 tvg-ID="OCN.KR" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="Asia",OCN(Korea)
-http://211.245.55.198:1024/m2u/239.192.52.8:49220
+#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Asia",Channel 7(Thailand)
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thailand",Workpoint(Thailand)
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
