@@ -31,6 +31,8 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="新马",Asian Food Network(马来西亚)
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-ID="CHV.MY" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",Channel [V](马来西亚)
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="新马",Discovery Asia(马来西亚)
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="新马",KIX(马来西亚)
@@ -325,6 +327,12 @@ http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="LST.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",龍祥時代電影
 http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 
+
+#EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="ATR.UK" tvg-logo="https://static.epg.best/gb/AtTheRaces.uk.png" group-title="体育",At The Races
 http://stream-e30453a4b.nmbs.top/m3u/Sports/50fd7c1091.m3u8
 #EXTINF:-1 tvg-id="ASC.MY" tvg-logo="https://static02.astro.com.my/astro/media/astromain/astrocricket/astrocricket_logo.png" group-title="体育",Astro Cricket
@@ -391,6 +399,12 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/cbf3099988.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Sports/56fee19722.m3u8
 #EXTINF:-1 tvg-id="EU2.UK" tvg-logo="https://static.epg.best/gb/Eurosport2.uk.png" group-title="体育",Eurosport 2
 http://stream-e30453a4b.nmbs.top/m3u/Sports/52d1bf6f71.m3u8
+#EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",Fox Sports 3 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FS1.NL" tvg-logo="https://static.epg.best/nl/FoxSports1.nl.png" group-title="体育",Fox Sports 1 Netherlands
 http://stream-e30453a4b.nmbs.top/m3u/Sports/de3c2f3040.m3u8
 #EXTINF:-1 tvg-id="FS2.NL" tvg-logo="https://static.epg.best/nl/FoxSports2.nl.png" group-title="体育",Fox Sports 2 Netherlands
@@ -470,6 +484,8 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/1391c208ba.m3u8
 http://211.245.55.198:1024/m2u/239.192.67.100:49220
 #EXTINF:-1 tvg-ID="KS2.KR" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="韩国",KBS 2
 http://211.245.55.198:1024/m2u/239.192.67.99:49220
+#EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="韩国",MBC
 https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="韩国",SBS
