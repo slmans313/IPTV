@@ -421,6 +421,12 @@ https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://up.vbiran.ir/uploads/33487156717230316870_logo.png" group-title="العراق",4U TV
 http://192.99.102.14:8080/hls/4utv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/amg.png" group-title="العراق",AMG
+https://nl.live21.ir/hls2/AMG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://af.heytv.org/wp-content/uploads/2019/04/Alwilayah-TV-Hausa-webtvonlive-com.jpg" group-title="العراق",Al Wilayah
+http://nl.live21.ir:8080/hls2/alwilayah.tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/dHYuYWx3aWxheWFoLmhhdXNhX2ljb25fMTU2NjMwMjk5NV8wMDY/icon.png?w=170&fakeurl=1" group-title="العراق",,Al Wilayah Hausa
+http://nl.live21.ir:8080/hls2/alwilayah.tv.hausa_high.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="العراق",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/a0ebcf_29555ad1d17a485786cf50f99782c9a9~mv2.png/v1/fit/w_2500,h_1330,al_c/a0ebcf_29555ad1d17a485786cf50f99782c9a9~mv2.png" group-title="العراق",Andisheh TV
@@ -470,10 +476,10 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/hmn.png" group-title="العراق",Health Media Network
 https://livestream.5centscdn.com/cls092118/8f8400b79584fa2a1315aa5e7612d4f3.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod HD
-http://51.158.184.234/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod
 http://51.158.167.169/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod HD
+http://nl.live21.ir:8080/hls2/hodhodfarsi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/04/Iran-International-Channel.png" group-title="العراق",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2001.png" group-title="العراق",Imam Hussein TV 1 (Farsi)
@@ -532,6 +538,8 @@ https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rangarang.us/wp-content/uploads/2017/06/rangaranglogo-e1498110368321.png" group-title="العراق",Rangarang
 http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://bayanbox.ir/view/4628148356954341730/%D9%84%D9%88%DA%AF%D9%88.jpg" group-title="العراق",Saoutalaqila
+http://nl.live21.ir:8080/hls2/saoutalaqila.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/simayeazadi.jpg" group-title="العراق",Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sat7pars.com/static/img/logo.jpg" group-title="العراق",Sat 7 Pars
@@ -548,6 +556,10 @@ http://51.158.66.44/hls/stream.m3u8
 http://51.158.176.190/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Varzesh 3
 http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://bayanbox.ir/view/4628148356954341730/%D9%84%D9%88%DA%AF%D9%88.jpg" group-title="العراق",Valiasr TV
+https://ir3.live21.ir/hls2/valiasr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://velayattv.org/wp-content/uploads/2015/10/velayattvusa_logo.png" group-title="العراق",Velayat
+http://nl.live21.ir:8080/hls2/velayattv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="العراق",Al Iraqiya News
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
@@ -559,6 +571,8 @@ https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="العراق",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gulf365.co/content/uploads/2019/09/02/ba541d952e.jpg" group-title="العراق",Al Shaaer
+http://nl.live21.ir:8080/hls2/alshaaer_high.m3u8
 #EXTINF:-1 tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="العراق",Al Summaria
 http://iptv--iptv.repl.co/Arabic/Al_summaria
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png" group-title="العراق",Al Rasheed
