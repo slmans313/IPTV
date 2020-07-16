@@ -24,11 +24,6 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马",TV3(马来西亚)
 https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马",TV31
-https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马",TV32
-EXTVLCOPT:Referrer=Referer=https://www.dailymotion.com
-https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="新马",NTV 7(马来西亚)
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="新马",八度空间(马来西亚)
@@ -908,6 +903,10 @@ https://mcdn.daserste.de/daserste/int/master.m3u8
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="欧洲精选",Kika
 https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="欧洲精选",Kika2
+http://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222
+#EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="欧洲精选",Kika3
+http://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=130.216.158.32
 #EXTINF:-1 tvg-id="T24.DE" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="欧洲精选",Tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-id="RTL.DE" tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="欧洲精选",RTL
