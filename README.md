@@ -65,8 +65,8 @@ Spain number one IPTV Resource <br />
 11. NoMaN-IPTV: https://github.com/NoMaN-IPTV<br />
 Very promising Astro Replacement, I learn a thing or two from looking at his/her link.<br />
 
-12. JKN22: https://github.com/jnk22/kodinerds-iptv
-Decent German TV Lisr<br />
+12. JKN22: https://github.com/jnk22/kodinerds-iptv<br />
+Decent German TV List<br />
 
 13. Webgrabplus: http://www.webgrabplus.com/<br />
 Mother of all non commerical epg making<br />
