@@ -39,6 +39,8 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Giallo.it.png" group-title="Italia",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="Italia",History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/La5.it.png" group-title="Italia",La 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="Italia",LA 7
@@ -63,6 +65,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ER)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.105.net/images/logos/3/logo_colored.jpg" group-title="Italia",Radio 105
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(EC)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/img/logo_capital.png" group-title="Italia",Radio Capital
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="https://static-radioitalia.akamaized.net/img/2020/web/logo_radioitalia_forma_new2.png" group-title="Italia",Radio Italia
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg" group-title="Italia",Radio Montecarlo
@@ -106,14 +110,10 @@ http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/felzsi.jpg" group-title="Italia",FM Italia
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://acrotv.com/images/broad/20181002121121912.png4" group-title="Italia",History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="Italia",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg" group-title="Italia",Primocanale Liguria
 http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="Italia",Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="Italia",La CTV
 http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="Italia",Radio Iglesias
@@ -222,7 +222,6 @@ http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=5aba9ab204ff55dec74965d4
 https://7ejqucofpe.singularcdn.net.br/iptv/hls/tvc/tvc.m3u8
 #EXTINF:-1 tvg-logo="http://redeminas.tv/wp-content/uploads/2014/09/RedeMinas.png" group-title="Português/Brasil",Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Português/Brasil",SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
