@@ -758,8 +758,10 @@ https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de
 #EXTINF:-1 tvg-id="CAV.BE" tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="欧洲精选",Canvas
 https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
 
-#EXTINF:-1 tvg-id="1UA.UA" tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲精选",UA:First
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1 tvg-id="1UA.UA" tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲精选",UA:First 1
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:-1 tvg-id="1UA.UA" tvg-logo="http://1tv.com.ua/img/logo.png" group-title="欧洲精选",UA:First 2
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8|X-Forwarded-For=46.148.29.131
 #EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="欧洲精选",ANT 1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="TV1.RO" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="欧洲精选",TVR 1
