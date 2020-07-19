@@ -36,18 +36,6 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="新马",Tirkisj
 https://tv-trtspor1.live.trt.com.tr/master.m3u8|X-Forwarded-For=37.247.99.13
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ew980KL.png" group-title="新马",US | FS1
-https://e10.cdn4.us/ingest666/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xQcyXU3.png" group-title="新马",US | FS2
-https://e10.cdn4.us/ingest666/fs2/f.m3u8|Referer=https://espn-live.stream/stream/45460.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVl7Zzm.png" group-title="新马",US | Fox Deportes
-https://e10.cdn4.us/ingest666/foxdep/f.m3u8|Referer=https://espn-live.stream/stream/45529.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KrCJfBl.jpg" group-title="新马",US | Fox Soccer Plus
-https://e10.cdn4.us/ingest666/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zaebCgc.jpg" group-title="新马",US | BeIN Sports
-https://e10.cdn4.us/ingest666/beinsports/video5.m3u8|Referer=https://espn-live.stream/stream/68949.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q7OaFtN.png" group-title="新马",US | TBS East
-https://e10.cdn4.us/ingest666/tbse/master.m3u8|Referer=https://espn-live.stream/stream/69563.html
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
@@ -363,18 +351,32 @@ https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DYY.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="家庭娱乐",東森幼幼台
 http://58.99.33.9:1935/liveedge2/live_25_1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
+#EXTINF:-1 tvg-id="BEX.Int" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="BEU.US" tvg-logo="https://assets.beinsports.com/3.2.8/images/logo-locator.png" group-title="体育",beIN USA
+https://e10.cdn4.us/ingest666/beinsports/video5.m3u8|Referer=https://espn-live.stream/stream/68949.html
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="体育",ESPN
+https://e10.cdn4.us/ingest666/espn_usa/f.m3u8|Referer=https://espn-live.stream/stream/43572.html
+#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="体育",ESPN 2
+https://e10.cdn4.us/ingest666/espn2_usa/f.m3u8|Referer=https://espn-live.stream/stream/45351.html
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FS1.US" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="体育",FS1 USA
+https://e10.cdn4.us/ingest666/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
+#EXTINF:-1 tvg-id="FS2.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="体育",FS2 USA
+https://e10.cdn4.us/ingest666/fs2/f.m3u8|Referer=https://espn-live.stream/stream/45460.html
+#EXTINF:-1 tvg-id="FDP.US" tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="体育",Fox Deportes
+https://e10.cdn4.us/ingest666/foxdep/f.m3u8|Referer=https://espn-live.stream/stream/45529.html
+#EXTINF:-1 tvg-id="FSP.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="体育",Fox Soccer Plus
+https://e10.cdn4.us/ingest666/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
 #EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="体育",Golf Channel
 http://190.122.109.218:8888/http/010
 #EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="体育",Olympic Channel
@@ -526,6 +528,8 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8|X-Forw
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="美国",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-id="ESU.US" tvg-logo="https://static.epg.best/us/ESPNU.us.png" group-title="美国",ESPN U
+https://e10.cdn4.us/ingest666/espn_u/f.m3u8|Referer=https://espn-live.stream/stream/45457.html
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="美国",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="美国",Fox Life
@@ -556,6 +560,8 @@ https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-ID="POP.US" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="美国",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="SEC.US" tvg-logo="https://static.epg.best/us/SECNetwork.us.png" group-title="美国",SEC Network
+https://e10.cdn4.us/ingest666/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="美国",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-ID="TRU.Int" tvg-logo="http://static.epg.best/fr/TraceUrban.fr.png" group-title="美国",Trace Urban
