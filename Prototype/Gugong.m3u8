@@ -357,8 +357,18 @@ http://58.99.33.9:1935/liveedge2/live_25_1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BEX.Int" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="BEU.US" tvg-logo="https://assets.beinsports.com/3.2.8/images/logo-locator.png" group-title="体育",beIN USA
+#EXTINF:-1 tvg-id="BUS.US" tvg-logo="https://assets.beinsports.com/3.2.8/images/logo-locator.png" group-title="体育",beIN USA
 https://e10.cdn4.us/ingest666/beinsports/video5.m3u8|Referer=https://espn-live.stream/stream/68949.html
+#EXTINF:-1 tvg-ID="BS4.U" tvg-logo="https://static.epg.best/us/beINSports4.us.png" group-title="美国",beIN 4 USA
+https://e10.cdn4.us/ingest666/bein4/video3.m3u8|Referer=https://espn-live.stream/stream/69178.html
+#EXTINF:-1 tvg-ID="BSL.In" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="美国",beIN Sports La Liga
+https://e10.cdn4.us/ingest666/laliga/video4.m3u8|Referer=https://espn-live.stream/stream/69176.html
+#EXTINF:-1 tvg-ID="BSL.In" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="美国",beIN Sports La Liga en Español
+https://e10.cdn4.us/ingest666/laligaes/video4.m3u8|Referer=https://espn-live.stream/stream/69177.html
+#EXTINF:-1 tvg-ID="BEN.Int" tvg-logo="https://static.epg.best/us/beINSportsEnEspanol.us.png" group-title="美国",beIN Sports Español
+https://e10.cdn4.us/ingest666/beinsportses/video5.m3u8|Referer=https://espn-live.stream/stream/68950.html
+#EXTINF:-1 tvg-ID="BEN.Int" tvg-logo="https://static.epg.best/us/beINSportsEnEspanol.us.png" group-title="美国",beIN Sports Ñ 
+https://e10.cdn4.us/ingest666/beinenie/video1.m3u8|Referer=https://espn-live.stream/stream/69175.html
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
@@ -379,7 +389,7 @@ https://e10.cdn4.us/ingest666/fs1/f.m3u8|Referer=https://espn-live.stream/stream
 https://e10.cdn4.us/ingest666/fs2/f.m3u8|Referer=https://espn-live.stream/stream/45460.html
 #EXTINF:-1 tvg-id="FDP.US" tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="体育",Fox Deportes
 https://e10.cdn4.us/ingest666/foxdep/f.m3u8|Referer=https://espn-live.stream/stream/45529.html
-#EXTINF:-1 tvg-id="FSP.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="体育",Fox Soccer Plus
+#EXTINF:-1 tvg-id="FXS.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="体育",Fox Soccer Plus
 https://e10.cdn4.us/ingest666/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
 #EXTINF:-1 tvg-ID="GOL.US" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="体育",GolTV
 https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
@@ -603,18 +613,12 @@ https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream
 #EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 
-#EXTINF:-1 tvg-ID="BI" tvg-logo="https://static.epg.best/us/beINSports4.us.png" group-title="美国",Bein 4 USA
-https://e10.cdn4.us/ingest666/bein4/video3.m3u8|Referer=https://espn-live.stream/stream/69178.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="美国",Bein Sports La Liga
-https://e10.cdn4.us/ingest666/laliga/video4.m3u8|Referer=https://espn-live.stream/stream/69176.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="美国",Bein Sports La Liga en Español
-https://e10.cdn4.us/ingest666/laligaes/video4.m3u8|Referer=https://espn-live.stream/stream/69177.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/beINSportsEnEspanol.us.png" group-title="美国",Bein Sports Español
-https://e10.cdn4.us/ingest666/beinsportses/video5.m3u8|Referer=https://espn-live.stream/stream/68950.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/beINSportsEnEspanol.us.png" group-title="美国",Bein Sports Ñ 
-https://e10.cdn4.us/ingest666/beinenie/video1.m3u8|Referer=https://espn-live.stream/stream/69175.html
+
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="美国",TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8
+
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS West
