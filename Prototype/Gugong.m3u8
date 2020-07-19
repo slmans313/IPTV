@@ -293,8 +293,8 @@ http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="电影",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="PAN.CA" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+#EXTINF:-1 tvg-id="PAN.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
+https://e10.cdn4.us/ingest666/paramount/f.m3u8|Referer=https://espn-live.stream/stream/68077.html
 #EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="电影",SBS World Movies
@@ -326,7 +326,9 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
 #EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="家庭娱乐",Crime + Investigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central
+#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central US
+https://e10.cdn4.us/ingest666/cc/c.m3u8|Referer=https://espn-live.stream/stream/68072.html
+#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central Asia
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="家庭娱乐",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
@@ -377,6 +379,8 @@ https://e10.cdn4.us/ingest666/fs2/f.m3u8|Referer=https://espn-live.stream/stream
 https://e10.cdn4.us/ingest666/foxdep/f.m3u8|Referer=https://espn-live.stream/stream/45529.html
 #EXTINF:-1 tvg-id="FSP.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="体育",Fox Soccer Plus
 https://e10.cdn4.us/ingest666/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
+#EXTINF:-1 tvg-ID="GOL.US" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="美国",GolTV
+https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="体育",Golf Channel
 http://190.122.109.218:8888/http/010
 #EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="体育",Olympic Channel
@@ -520,6 +524,8 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-ID="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="美国",AHC
 https://e10.cdn4.us/ingest666/ahc/d.m3u8|Referer=https://espn-live.stream/stream/70077.html
+#EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="美国",BET
+https://e10.cdn4.us/ingest666/bet/d.m3u8|Referer=https://espn-live.stream/stream/68076.html
 #EXTINF:-1 tvg-id="BAE.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="美国",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="美国",Blue Ant Extreme
@@ -562,7 +568,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 tvg-ID="NMA.US" tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="美国",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png group-title="美国",Outdoor Channel
+#EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="美国",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="PBS.US" tvg-logo="https://static.epg.best/us/PBSWLIW21.us.png" group-title="美国",PBS 
 https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
@@ -572,18 +578,14 @@ https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-id="SEC.US" tvg-logo="https://static.epg.best/us/SECNetwork.us.png" group-title="美国",SEC Network
 https://e10.cdn4.us/ingest666/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
-#EXTINF:-1 tvg-id="STA.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png group-title="美国",Stadium Network
+#EXTINF:-1 tvg-id="STA.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="美国",Stadium Network
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="美国",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1 tvg-ID="TRU.Int" tvg-logo="http://static.epg.best/fr/TraceUrban.fr.png" group-title="美国",Trace Urban
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1 tvg-ID="TSP.Int" tvg-logo="http://static.epg.best/gb/TraceSportstars.uk.png" group-title="美国",Trace Sports Stars
-https://d2ktlibtvvj8vp.cloudfront.net/trace_Sportsstars/6/prog_index.m3u8
-#EXTINF:-1 tvg-ID="TRL.Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="美国",Trace Latina
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/5/prog_index.m3u8
 #EXTINF:-1 tvg-ID="WEA.US" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="美国",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-ID="VH1.US" tvg-logo="https://static.epg.best/us/VH1.us.png" group-title="美国",VH1
+https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream/68075.html
 #EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 
@@ -593,7 +595,8 @@ https://e10.cdn4.us/ingest666/marquee/c.m3u8|Referer=https://espn-live.stream/st
 https://sniffercat002.akamaized.net/scheduler/scheduleMaster/109/variant/22099397/a0ff0a6a-a465-47c9-adde-db2f84df7053.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/gr/EdgeSport.gr.png" group-title="美国",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/720x404_1425600/index.m3u8
-
+#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",CNN Go
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",Bein Sports La Liga live
 https://e10.cdn4.us/ingest666/laliga/video4.m3u8|Referer=https://espn-live.stream/stream/69176.html
@@ -605,18 +608,8 @@ https://e10.cdn4.us/ingest666/beinsportses/video5.m3u8|Referer=https://espn-live
 https://e10.cdn4.us/ingest666/beinenie/video1.m3u8|Referer=https://espn-live.stream/stream/69175.html
 #EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",nbc-sports-network
-https://e10.cdn4.us/ingest09/33455.m3u8|Referer=https://espn-live.stream/stream/69183.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",Fox 502
-https://e10.cdn4.us/ingest09/33429.m3u8|Referer=https://espn-live.stream/stream/50364.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",Fox 507
-https://e10.cdn4.us/ingest09/33434.m3u8|Referer=https://espn-live.stream/stream/37624.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",Golf
-https://e10.cdn4.us/ingest09/33439.m3u8|Referer=https://espn-live.stream/stream/67691.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",CNN Go
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",Comedy Central
-https://e10.cdn4.us/ingest666/cc/c.m3u8|Referer=https://espn-live.stream/stream/68072.html
+
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",TBS West
 https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",TBS East
@@ -625,20 +618,11 @@ https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3
 https://e10.cdn4.us/ingest666/bein4/video3.m3u8|Referer=https://espn-live.stream/stream/69178.html
 #EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",Lacross
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",GolTV
-https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",Paramount
-https://e10.cdn4.us/ingest666/paramount/f.m3u8|Referer=https://espn-live.stream/stream/68077.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",BET
-https://e10.cdn4.us/ingest666/bet/d.m3u8|Referer=https://espn-live.stream/stream/68076.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",VH1
-https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream/68075.html
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",CMT
 https://e10.cdn4.us/ingest666/cmt/f.m3u8|Referer=https://espn-live.stream/stream/68074.html
 #EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",TV Land
 https://e10.cdn4.us/ingest666/tvland/f.m3u8|Referer=https://espn-live.stream/stream/68073.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/08/HardKnocks_logo_f_navbar.png" group-title="美国",Food Network
-https://e10.cdn4.us/ingest666/foodnetwork/d.m3u8|Referer=https://espn-live.stream/stream/68072.html
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
