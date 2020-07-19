@@ -363,10 +363,6 @@ https://e10.cdn4.us/ingest666/beinsports/video5.m3u8|Referer=https://espn-live.s
 https://e10.cdn4.us/ingest666/bein4/video3.m3u8|Referer=https://espn-live.stream/stream/69178.html
 #EXTINF:-1 tvg-ID="BSL.In" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="美国",beIN Sports La Liga
 https://e10.cdn4.us/ingest666/laliga/video4.m3u8|Referer=https://espn-live.stream/stream/69176.html
-#EXTINF:-1 tvg-ID="BSL.In" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="美国",beIN Sports La Liga en Español
-https://e10.cdn4.us/ingest666/laligaes/video4.m3u8|Referer=https://espn-live.stream/stream/69177.html
-#EXTINF:-1 tvg-ID="BEN.Int" tvg-logo="https://static.epg.best/us/beINSportsEnEspanol.us.png" group-title="美国",beIN Sports Español
-https://e10.cdn4.us/ingest666/beinsportses/video5.m3u8|Referer=https://espn-live.stream/stream/68950.html
 #EXTINF:-1 tvg-ID="BEN.Int" tvg-logo="https://static.epg.best/us/beINSportsEnEspanol.us.png" group-title="美国",beIN Sports Ñ 
 https://e10.cdn4.us/ingest666/beinenie/video1.m3u8|Referer=https://espn-live.stream/stream/69175.html
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
@@ -612,19 +608,24 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=
 https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream/68075.html
 #EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKm7n0s.jpg" group-title="美国",PAC 12 Plus
+https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded-For=174.224.6.160
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="美国",TNT
-https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8
-
-
-
-
+https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS West
-https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|Referer=https://espn-live.stream/stream/69564.html
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
-https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
