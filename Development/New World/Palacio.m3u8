@@ -262,7 +262,13 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/mast
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="Português/Brasil",Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Português/Brasil",ESPN 1 Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.pn" group-title="Português/Brasil",ESPN 2 Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="Português/Brasil",ESPN Extra Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="Português/Brasil",Fox Brasil
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/FOXPremium1.br.png" group-title="Português/Brasil",Fox Premium 1 Brasil
