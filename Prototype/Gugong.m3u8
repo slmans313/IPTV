@@ -610,7 +610,14 @@ https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKm7n0s.jpg" group-title="美国",PAC 12 Plus
 https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded-For=174.224.6.160
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHCYzRr.jpg" group-title="美国",BR | ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JmKCRFG.jpg" group-title="美国",BR | ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N3lEFYO.png" group-title="美国",BR | ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KStCdtG.png" group-title="美国",BR | ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="美国",TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
