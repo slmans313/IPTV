@@ -70,8 +70,6 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="News",WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="News",Wion
-http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv03_mobile.png" group-title="News",Voice of America
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 
@@ -91,13 +89,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/ETNOW.in.png" group-title="Financial News",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MSNBC.us.png" group-title="Financial News",MSNBC
-http://live.highstream.club/live/MSNBC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Financial News",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/LaSexta.es.png" group-title="Noticias",LA Sexta
-https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTEspanol.ru.png" group-title="Noticias",RT Español
 http://rt-esp.secure.footprint.net:80/1102_2500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="Noticias",Intereconomía
@@ -158,11 +152,12 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 
+#EXTINF:-1 tvg-ID="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="Sports",ACCN
+https://e10.cdn4.us/ingest666/accn/c.m3u8|Referer=https://espn-live.stream/stream/45458.html
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="http://static.epg.best/us/SECNetwork.us.png" group-title="Sports",ESPN
-https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://sportsbay.org/embed/43572/1/espn-usa-live.html
-
+https://e10.cdn4.us/ingest666/espn_usa/f.m3u8|Referer=https://espn-live.stream/stream/43572.html
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
-https://e7.cdn4.us/ingest666/espn2.m3u8|Referer=https://sportsbay.org/embed/45351/1/espn-2-live.html
+https://e10.cdn4.us/ingest666/espn2_usa/f.m3u8|Referer=https://espn-live.stream/stream/45351.html
 
 #EXTINF:-1 tvg-id="ES1.AR" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN Sur
 https://e7.cdn4.us/ingest666/espn_sur.m3u8|Referer=https://sportsbay.org/embed/54013/1/espn-sur-live.html
