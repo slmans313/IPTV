@@ -334,8 +334,6 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="Pilipinas",UNTV Public
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="မြန်မာဘာသာ",MRTV
-http://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="မြန်မာဘာသာ",MRTV 4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.videoinya.com/wp-content/uploads/2016/02/Hluttaw-channel.png" group-title="မြန်မာဘာသာ",MRTV Hluttaw
@@ -343,15 +341,9 @@ http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
 #EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-01-09_1.jpeg" group-title="မြန်မာဘာသာ",MRTV Farmer
 http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="မြန်မာဘာသာ",MRTV NRC
-http://edge-stream-07.otv.co.th./livestream/MRTV-Entertainment.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-10-12-54_1.jpeg" group-title="မြန်မာဘာသာ",MITV
-http://edge-stream-07.otv.co.th./livestream/MITV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="မြန်မာဘာသာ",5 Plus
-http://edge-stream-07.otv.co.th/livestream/5Plus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://burmese.dvb.no/wp-content/uploads/2017/03/dvb-logo1-min.png" group-title="မြန်မာဘာသာ",DVB
-https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Yiq0Qok-Qww/WP-kYGPqWEI/AAAAAAAADrU/iRBdQgmk4Oo2Co3frop9u9LGAc1ubpyDwCLcB/s1600/MNTV.png" group-title="မြန်မာဘာသာ",MNTV
-http://edge-stream-07.otv.co.th./livestream/MNTV.stream/chunklist_w195218413.m3u8
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpgg" group-title="မြန်မာဘာသာ",Channel Me
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwd1.jpg" group-title="မြန်မာဘာသာ",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwd-variety.jpg" group-title="မြန်မာဘာသာ",MWD Variety
@@ -373,7 +365,11 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာဘာသာ",MVTV Myanmar
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="မြန်မာဘာသာ",Mizzima TV
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="မြန်မာဘာသာ",Mizzima TV
 http://220.158.149.28:8180/TV00000000000000000170@HHZT
+#EXTINF:-1 tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png" group-title="မြန်မာဘာသာ",MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="မြန်မာဘာသာ",Skynet Sport HD
 https://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tdedgolden.com/post-img/06122019142633-10102019170013-cxxc56.jpg" group-title="မြန်မာဘာသာ",Skynet Sport +
@@ -390,8 +386,6 @@ https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="မြန်မာဘာသာ",Skynet Sport 6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="မြန်မာဘာသာ",MeTV
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="ประเทศไทย",ททบ 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
