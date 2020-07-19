@@ -373,6 +373,8 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 https://e10.cdn4.us/ingest666/espn_usa/f.m3u8|Referer=https://espn-live.stream/stream/43572.html
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="体育",ESPN 2
 https://e10.cdn4.us/ingest666/espn2_usa/f.m3u8|Referer=https://espn-live.stream/stream/45351.html
+#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2 Asia
@@ -598,8 +600,14 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 https://e10.cdn4.us/ingest666/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
 #EXTINF:-1 tvg-id="STA.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="美国",Stadium Network
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+#EXTINF:-1 tvg-ID="TBW.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
+#EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="美国",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1 tvg-ID="TNT.US" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="美国",TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-ID="TVL.US" tvg-logo="https://static.epg.best/us/TVLandEast.us.png" group-title="美国",TV Land
 https://e10.cdn4.us/ingest666/tvland/f.m3u8|Referer=https://espn-live.stream/stream/68073.html
 #EXTINF:-1 tvg-ID="WEA.US" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="美国",Weather Channel
@@ -608,30 +616,16 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=
 https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream/68075.html
 #EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKm7n0s.jpg" group-title="美国",PAC 12 Plus
 https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded-For=174.224.6.160
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHCYzRr.jpg" group-title="美国",BR | ESPN
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JmKCRFG.jpg" group-title="美国",BR | ESPN 2
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N3lEFYO.png" group-title="美国",BR | ESPN Extra
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KStCdtG.png" group-title="美国",BR | ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="美国",TNT
-https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS West
-https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|Referer=https://espn-live.stream/stream/69564.html
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
-https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
-https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
-https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS West
-https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS West
-https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKm7n0s.jpg" group-title="美国",PAC 12 Plus
+https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="美国",NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="美国",NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=174.224.6.160
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
