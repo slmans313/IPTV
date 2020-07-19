@@ -49,10 +49,10 @@ http://tv.sason.xyz/proxy/tvb.php?id=cj
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="香港",鳳凰衛視香港台
 http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方卫视
-http://39.135.34.134:8080/000000001000/1000000002000011619/1.m3u8?i
-#EXTINF:-1 tvg-id="JJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="香港",广东珠江
-http://39.135.34.134:8080/000000001000/1000000004000011655/1.m3u8?i
+#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.pngg" group-title="香港",ViuTVsix
+http://nb.iptv88888.xyz/hls/viutv6.m3u8
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png group-title="香港",ViuTV
+http://nb.iptv88888.xyz/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
@@ -77,7 +77,9 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="台湾",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="TSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="台湾",台視
-rtmp://xiaoyu.speedws.com/sat/tv071
+http://nb.iptv88888.xyz/hls/taishi.m3u8
+#EXTINF:-1 tvg-id="TSZ.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/TTV_General_Channel_2016.png/300px-TTV_General_Channel_2016.png" group-title="台湾",台視綜合
+http://nb.iptv88888.xyz/hls/ttvzonghe.m3u8
 #EXTINF:-1 tvg-id="TSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
@@ -96,6 +98,10 @@ http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="DFW.TW" tvg-logo="http://aziotv.eracom.com.tw/images/top_2.jpg" group-title="台湾",東風衛視
 http://58.99.33.9:1935/liveedge2/live_37_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DLZ.TW" tvg-logo="http://aziotv.eracom.com.tw/images/top_2.jpg" group-title="台湾",東森綜合
+http://nb.iptv88888.xyz/hls/dongsenzh.m3u8
+#EXTINF:-1 tvg-id="DLA.TW" tvg-logo="http://aziotv.eracom.com.tw/images/top_2.jpg" group-title="台湾",東森超視
+http://nb.iptv88888.xyz/hls/dschaoshi.m3u8
 #EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="台湾",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",東森財經新聞
