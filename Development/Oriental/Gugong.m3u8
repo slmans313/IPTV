@@ -15,9 +15,9 @@ http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/c
 #EXTINF:-1 tvg-id="" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="新闻台",無綫財經資訊台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="新闻台",有線新聞
-https://ottproxy2.mott.tv/livehls/MOB-SCC/01.m3u8
+http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="新闻台",有線財經資訊
-https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
+http://livetv.dnsfor.me:80/channel.6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png" group-title="新闻台",有線直播新聞
 http://teslagram.com/live/channel_110.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="新闻台",民視新聞
@@ -235,11 +235,6 @@ https://116.77.72.195/streams/d/gdty/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",劲爆体育
 https://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 
-
-#EXTINF:-1 tvg-id="XKW.HK" tvg-logo="http://xk.kgdns.cn/templets/lanse/images/logo.png" group-title="中国",星空衛视
-http://185.93.2.35:12012/live/359111068247FFA1/MWtiW3hS3i2c-SgHaFWQwk27ss1pt2rAZIWhtvUyJlGTmdUjM7F9nOuNPAO5-ovZ/22236276A7954FD2/396308.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="中国",Channel V
-https://www.fanmingming.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
 http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="中国",江苏卫视
@@ -569,11 +564,11 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.bschannel.com/resources/website/zh/images/header-logo.png" group-title="粵語",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="粵語",有線綜合娛樂
-https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="粵語",Now直播台
-http://teslagram.com/live/channel_331.m3u8
+http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="粵語",Now新聞
-http://teslagram.com/live/channel_332.m3u8
+http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="粵語",beIN Sports 1 香港
 rtmp://xiaoyu.speedws.com/sat/hk011
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="粵語",beIN Sports 2 香港
