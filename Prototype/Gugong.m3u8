@@ -542,8 +542,12 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/829.m3u8
 #EXTINF:-1 tvg-id="RTN.IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1 tvg-id="RTN.IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE 1
-http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE 1
+https://live.rte.ie/live/a/channel1/channel1.isml/index.m3u8|X-Forwarded-For=185.108.128.162
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE 2
+https://live.rte.ie/live/a/channel1/channel2.isml/index.m3u8|X-Forwarded-For=185.108.128.162
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE Jr
+https://live.rte.ie/live/a/channel1/channel1.isml/index.m3u8|X-Forwarded-For=185.108.128.162
 #EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="英国",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="TBX.UK" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="英国",TG4
