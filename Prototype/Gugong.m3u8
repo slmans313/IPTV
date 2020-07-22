@@ -516,6 +516,8 @@ http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
 http://178.132.3.162:88/E4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="英国",Film 4
 http://178.132.3.162:88/Film_4/video.m3u8?token=test
+#EXTINF:-1 tvg-id="4SV.UK" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" group-title="英国",4Seven
+https://uk.easyview.eu/hls/4seven.m3u8|Referer=https://easyview.eu/watch.php?stream=4seven
 #EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="英国",Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 #EXTINF:-1 tvg-id="BXH.UK" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="英国",Box Hits
@@ -552,9 +554,6 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="美国",ACCN
 https://e10.cdn4.us/ingest666/accn/c.m3u8|Referer=https://espn-live.stream/stream/45458.html
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="美国",BBCX
-https://uk.easyview.eu/hls/bbc-london.m3u8||Referer=https://easyview.eu/watch.php?stream=bbc-london
 #EXTINF:-1 tvg-ID="ADU.CA" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-ID="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="美国",AHC
