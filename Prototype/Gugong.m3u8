@@ -537,8 +537,24 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:-1 tvg-id="RTN.IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 
+
+#------------------------------------------------------------------------------------------------------------------------------------------#
+#Project USA#
+#------------------------------------------------------------------------------------------------------------------------------------------#
+
+#EXTINF:-1 tvg-id="AMG.US" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="USA/Canada",AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="YTA.US" tvg-logo="http://ytatv.com/wp-content/uploads/2020/01/YTA-LOGO-2.png" group-title="USA/Canada",Youtoo America
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+
+
 #EXTINF:-1 tvg-ID="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="美国",ACCN
 https://e10.cdn4.us/ingest666/accn/c.m3u8|Referer=https://espn-live.stream/stream/45458.html
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="美国",BBCX
+https://uk.easyview.eu/hls/bbc-london.m3u8|https://easyview.eu/watch.php?stream=bbc-london
 #EXTINF:-1 tvg-ID="ADU.CA" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-ID="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="美国",AHC
