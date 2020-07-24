@@ -539,12 +539,26 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/829.m3u8
 #EXTINF:-1 tvg-id="RTN.IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="英国",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ie/RTEOne.ie.png" group-title="英国",RTE 1
-https://live.rte.ie/live/a/channel1/channel1.isml/index.m3u8|X-Forwarded-For=185.108.128.162
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ie/RTETwo.ie.png" group-title="英国",RTE 2
-https://live.rte.ie/live/a/channel2/channel2.isml/index.m3u8|X-Forwarded-For=185.108.128.162
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ie/RTEJr.ie.png" group-title="英国",RTE Jr
-https://live.rte.ie/live/a/channel4/channel4.isml/index.m3u8|X-Forwarded-For=185.108.128.162
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrxmhW3.png" group-title="英国",MX | Azteca 7
+https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8|X-Forwarded-For=17.45.63.25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKm7n0s.jpg" group-title="英国",US | PAC 12 Plus
+https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded-For=174.224.6.160
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="英国",US | NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png" group-title="Australië",AU | Adelaide | 10
+https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png" group-title="Australië",AU | Adelaide | 10 Peach
+https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pdZ7aSw.png" group-title="Litouwen",LT | LRT Lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZpnEZY.jpg" group-title="Litouwen",LT | LRT Televizija
+https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5k208L.png" group-title="Litouwen",LT | LRT Plius
+https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/chunklist.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6FT7yx.jpg" group-title="UAE",AE | Ajman TV
+https://dcunilive18-lh.akamaihd.net/i/dclive_1@189007/index_150_av-p.m3u8?sd=6&rebase=on|Referer=https://iframe.dacast.com/b/116648/c/480929
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvssZ4u.jpg" group-title="Libanon",LB | Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8|Referer=https://www.teleliban.com.lb/live
 #EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="英国",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="TG4.IE" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="英国",TG4
