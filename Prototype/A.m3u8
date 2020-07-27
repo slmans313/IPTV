@@ -58,12 +58,8 @@ http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-name="032" tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="ENTERTAINMENT",中天娛樂
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 tvg-name="033" tvg-id="TBL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="ENTERTAINMENT",TVBS歡樂台
-http://58.99.33.9:1935/liveedge2/live_42_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="034" tvg-id="GS2.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="ENTERTAINMENT",公視台語
 http://p06.iptv2asia.com:18888/http/017
-#EXTINF:-1 tvg-name="035" tvg-id="DYY.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="FAMILY_KIDS",東森幼幼台
-http://58.99.33.9:1935/liveedge2/live_25_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="036" tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="ENTERTAINMENT",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
@@ -155,8 +151,6 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-name="118" tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="NEWS",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-name="300" tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="MOVIES",衛視電影
-http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="301" tvg-id="DLY.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="MOVIES",東森洋片
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-name="302" tvg-id="DLP.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="MOVIES",東森電影
@@ -293,5 +287,5 @@ http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="ENTERTAINMENT",SBS One
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲精选",TF1
+#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="ENTERTAINMENT",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
