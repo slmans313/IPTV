@@ -291,6 +291,11 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="USA/Canada",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png group-title="USA/Canada",Telemundo New York(WNJU)
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="USA/Canada",Telemundo Chiago(WMAQ)
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://wmfd.com/images/logo.png" group-title="USA/Canada",WMFD
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="USA/Canada",WHDH-TV
