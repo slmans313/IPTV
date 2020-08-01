@@ -1,33 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://telefe-static2.akamaized.net/media/143174/logo-rosario-368x80.png" group-title="新马",Telefe Rosario
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://telefe-static2.akamaized.net/media/143210/logo-santa-fe-368x80.png?v=20190205101807000" group-title="新马",Telefe Santa Fe
-http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="http://www.canal2misiones.com.ar/img/logo.png" group-title="新马",Canal 2 Misiones
-http://nd106.republicaservers.com/canal2misiones.mp4
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.lapachotv.com.ar/wp-content/uploads/2018/04/marca_web_1.png" group-title="新马",Canal 11 Lapacho
-http://stream2.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="新马",FTC Canal 3 Formosa
-https://stmv1.srvif.com/agenfor/agenfor/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png" group-title="新马",Canal 9 Televida Mendoza
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="新马",América Tucúman
-http://45.6.4.50:50601/America_Tucuman/video.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-3-la-pampa-9286.jpg" group-title="新马",Canal 3 La Pampa
-https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://tsnnecochea.com.ar/wp-content/uploads/2018/10/tsn_logo1024.jpg" group-title="新马",TSN Necochea
-https://59c5c86e10038.streamlock.net/8130/8130/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.buenosaires.gob.ar/sites/gcaba/modules/gcaba_ciudadabierta/logo.png" group-title="新马",Canal de la Ciudad
-https://g3.mc-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.totalmedios.com/img/noticias/2017/08/59807104b5d3f__838x390.jpg" group-title="新马",Ciudad Magazine
-https://g1.mc-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="http://www.tamby.info/tv-tadjikistana-online/images/tvt.png" group-title="新马",Тоҷикистон
 http://185.121.2.6:8081/live/tvt1214/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
+#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="新马",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="新马",LBC International
 https://shls-lbci-prod.shahid.net/lbci-prod.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina",Canal Provinical
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Argentina",Ciudad
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75UgF.png" group-title="Argentina",CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/677195098405412864/w1GSVqNs_400x400.png" group-title="Argentina",CN3 
+http://wowza.telpin.com.ar:1935/Canal3/Canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Deportv-en-vivo-Online.png" group-title="Argentina",Depor TV
+https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master_960x540_1400k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW_400x400.jpeg" group-title="Argentina",El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png" group-title="Argentina",EL TV10 Salta
+https://59c5c86e10038.streamlock.net/8098/8098/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.litustv.com.ar/wp-content/themes/dante/css/images/logo-litus.png" group-title="Argentina",Litus 
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://multivision.tv/wp-content/uploads/2018/08/HOR-HD.png" group-title="Argentina",Multvision
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:-1 tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png" group-title="Argentina",Pakapaka
+https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
+#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="Argentina",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://b.canalnet.tv/wp-content/uploads/2019/10/cumplea%C3%B1os-net-logo.png" group-title="Argentina",NET TV 
+https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.quatrotv.com/wp-content/uploads/2016/11/logoquatro-150x27.png" group-title="Argentina",TDC Firmat
+https://5b7f3c45ab7c2.streamlock.net/8166/ngrp:8166_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logostvArgentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="Argentina",TLX 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+
+
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
