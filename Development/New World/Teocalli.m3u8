@@ -946,8 +946,6 @@ https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.diaspotv.com/images/Diaspo_logo.png" group-title="Ayiti",Disaspo TV
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Azteca-Honduras.png" group-title="Honduras",Azteca Honduras
-http://aztecalive-lh.akamaihd.net:80/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/06/Canal-5-Honduras-200x180.png" group-title="Honduras",Canal 5 Honduras
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 tvg-logo="https://hch.tv/wp-content/uploads/2017/12/HCH-300x171.png" group-title="Honduras",HCH
@@ -965,24 +963,31 @@ http://181.189.225.36:8990/UneTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="México",adn40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-#EXTINF:-1 tvg-logo="http://c7jalisco.com/images/logo.jpg" group-title="México",C7 Jalisco
-http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w1160890960.m3u8
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/4572.gifg" group-title="México",C7 Cultura
-http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="México",Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="México",Canal Once 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="México",Canal Once Internacional  
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/CanalJudicial.mx.png" group-title="México",Canal Judicial
-http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://historiatv.files.wordpress.com/2011/11/canal4mexico.jpg" group-title="México",Canal 4
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.scjn.gob.mx/sites/default/files/comunicacion_digital/2019-06/Justicia-TV2.gif" group-title="México",Justicia TV 
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios
+https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="http://c7jalisco.com/images/logo.jpg" group-title="México",C7 Jalisco
+http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w1160890960.m3u8
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/4572.gifg" group-title="México",C7 Cultura
+http://streamingcws20.com:1935/c7cultura/videoc7cultura/.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal10.tv/assets/Logo2.png" group-title="México",Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://15tv.com.mx/archivos/2016/10/15-100x100.png" group-title="México",Canal 15 Sabinas
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3781336/logo_canal%2015%20zacatecas.png" group-title="México",Canal 15 Zacatecas
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cbtelevision.com.mx/wp-content/uploads/2018/10/logo_2x-copia_6af9e860c94fcdc7a5d9ed896a5b3f97.png" group-title="México",CBTV
 http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/330px-De_pelicula_logo.png" group-title="México",De Película
@@ -995,17 +1000,8 @@ http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
 http://k4.usastreams.com/guapilestv/guapilestv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="México",Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios
-https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios CDMX
-https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="México",Multimedios Laguna
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicoyatv.com/images/multimedia/Logo-INI.png" group-title="México",Nicoya TV
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_685.png" group-title="México",Presumiendo
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://quierotv.mx/imagenes/quiero.jpg" group-title="México",Quiero
@@ -1028,8 +1024,6 @@ http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="México",TVMÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w75822369.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uno_tv.jpg/368px-Uno_tv.jpg" group-title="México",Uno TV
-http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/XHQRV_ultra92.5_logo.png" group-title="México",Ultra 92.5 FM
 https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
