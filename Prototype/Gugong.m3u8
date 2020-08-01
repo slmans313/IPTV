@@ -522,14 +522,8 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #Project USA#
 #------------------------------------------------------------------------------------------------------------------------------------------#
 
-#EXTINF:-1 tvg-id="AMG.US" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="USA/Canada",AMGTV
+#EXTINF:-1 tvg-id="AMG.US" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="美国",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="YTA.US" tvg-logo="http://ytatv.com/wp-content/uploads/2020/01/YTA-LOGO-2.png" group-title="USA/Canada",Youtoo America
-https://thegateway.app/YouToo/CueTones/playlist.m3u8
-
-
 #EXTINF:-1 tvg-ID="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="美国",ACCN
 https://e10.cdn4.us/ingest666/accn/c.m3u8|Referer=https://espn-live.stream/stream/45458.html
 #EXTINF:-1 tvg-ID="ADU.CA" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
@@ -560,6 +554,8 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 https://e10.cdn4.us/ingest666/cmt/f.m3u8|Referer=https://espn-live.stream/stream/68074.html
 #EXTINF:-1 tvg-ID="CPA.CA" tvg-logo="https://static.epg.best/ca/CPACOttawaEn.ca.png" group-title="美国",CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1594900651852/Layer2_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/WKMGDT2.us.png" group-title="美国",DABL
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-id="ESN.US" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title="美国",ESPN News
 https://e10.cdn4.us/ingest666/espn_news/d.m3u8|Referer=https://espn-live.stream/stream/45458.html
 #EXTINF:-1 tvg-id="ESU.US" tvg-logo="https://static.epg.best/us/ESPNU.us.png" group-title="美国",ESPN U
@@ -616,6 +612,8 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=
 https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream/68075.html
 #EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+#EXTINF:-1 tvg-id="YTA.US" tvg-logo="http://ytatv.com/wp-content/uploads/2020/01/YTA-LOGO-2.png" group-title="美国",Youtoo America
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
