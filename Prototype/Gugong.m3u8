@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://telefe-static2.akamaized.net/media/143174/logo-rosario-368x80.png" group-title="新马",Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://telefe-static2.akamaized.net/media/143210/logo-santa-fe-368x80.png?v=20190205101807000" group-title="新马",Telefe Santa Fe
+http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="http://www.canal2misiones.com.ar/img/logo.png" group-title="新马",Canal 2 Misiones
+http://nd106.republicaservers.com/canal2misiones.mp4
+#EXTINF:-1 tvg-ID="" tvg-logo="https://www.lapachotv.com.ar/wp-content/uploads/2018/04/marca_web_1.png" group-title="新马",Canal 11 Lapacho
+http://stream2.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="新马",FTC Canal 3 Formosa
+https://stmv1.srvif.com/agenfor/agenfor/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png" group-title="新马",Canal 9 Televida Mendoza
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="新马",América Tucúman
+http://45.6.4.50:50601/America_Tucuman/video.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-3-la-pampa-9286.jpg" group-title="新马",Canal 3 La Pampa
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://tsnnecochea.com.ar/wp-content/uploads/2018/10/tsn_logo1024.jpg" group-title="新马",TSN Necochea
+https://59c5c86e10038.streamlock.net/8130/8130/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://www.buenosaires.gob.ar/sites/gcaba/modules/gcaba_ciudadabierta/logo.png" group-title="新马",Canal de la Ciudad
+https://g3.mc-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://www.totalmedios.com/img/noticias/2017/08/59807104b5d3f__838x390.jpg" group-title="新马",Ciudad Magazine
+https://g1.mc-slo.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="http://www.tamby.info/tv-tadjikistana-online/images/tvt.png" group-title="新马",Тоҷикистон
+http://185.121.2.6:8081/live/tvt1214/chunks.m3u8
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台
@@ -14,8 +39,6 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="新马",Astro Awani(马来西亚)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="新马",Bernama(马来西亚)
-http://freeview.mywire.org:9090/streams/bnc.m3u8
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV1(马来西亚)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="新马",TV2(马来西亚)
